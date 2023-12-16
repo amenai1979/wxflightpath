@@ -3,6 +3,7 @@ import boto3
 from botocore.exceptions import ClientError
 from wxflightpath.wxcrawler import *
 from wxflightpath import config
+from wxflightpath.audiorender import renderaudio
 def get_avwx_secret():
     try:
         secret_name = config['AWS']['SECRET_NAME']
@@ -114,9 +115,12 @@ def lambda_handler(event, context):
             },
             'body': ".".join(briefing)
     }
+    return response
 def demo_aws():
     event = {'flightpath': ["LFRU", "LFRU"]}
     briefing = lambda_handler(event, {})
+    renderaudio(input=briefing['body'])
 if __name__=='__main__':
     demo_aws()
+
 

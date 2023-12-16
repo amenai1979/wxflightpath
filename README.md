@@ -4,11 +4,11 @@
 
 ## Overview
 
-wxflightpath retrieves a text-based observation and forecast for flight planning.\
-Given specific origin and destination OACI codes, this project determines all stations\
-within and around the flight path, retrieves all observations (METARs), and forecasts (TAFs)\
-renders them in text mode.
-There is an option to upload the result on an S3 bucket and return the result in a 200 OK response\
+wxflightpath retrieves a text-based observation and forecast for flight planning.
+Given specific origin and destination OACI codes, this project determines all stations
+within and around the flight path, retrieves all observations (METARs), and forecasts (TAFs)
+renders them in text mode and audio.
+There is an option to upload the result on an S3 bucket and return the result in a 200 OK response
 if you properly configure it.
 Enjoy!
 ## Limitation
@@ -67,6 +67,7 @@ if you want to run the AWS lambda demo:
 $ cd scripts/
 $ sh run_wxcrawler_aws_demo.sh 
 ```
+for demo purposes the run_wxcrawler_aws_demo.sh scripts also generates an audio briefing file, you can find it in the audio/ folder.
 
 ## Project Details
 
