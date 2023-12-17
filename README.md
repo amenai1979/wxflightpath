@@ -21,7 +21,7 @@ To install wxflightpath, use the following steps:
 creating a python virtual environment avoids any problems with\
 existing python interpreter configurations on your system.
 ```bash
-$ python3.11 -m venv wxflightpath-venv
+$ python3 -m venv wxflightpath-venv
 $ source wxflightpath-venv/bin/activate
 ```
 ### Step2 : install the requirements.
