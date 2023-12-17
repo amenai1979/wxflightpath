@@ -1,37 +1,9 @@
+from wxflightpath.wxcrawler import *
+from wxflightpath import config, awssecret
+from wxflightpath.audiorender import renderaudio
 import uuid
 import boto3
-from botocore.exceptions import ClientError
-from wxflightpath.wxcrawler import *
-from wxflightpath import config
-from wxflightpath.audiorender import renderaudio
-def get_avwx_secret():
-    try:
-        secret_name = config['AWS']['SECRET_NAME']
-        assert secret_name != ''
-        region_name = config['AWS']['REGION_NAME']
-        assert region_name != ''
-    except AssertionError as a:
-        logging.error("You may have not configured the AWS section of default.cfg properly.")
-        raise
-    # Create a Secrets Manager client
-    try:
-        session = boto3.session.Session()
-        client = session.client(
-            service_name='secretsmanager',
-            region_name=region_name
-        )
-        logging.info("initiated secretsmanager client: %s", client)
-    except Exception as e:
-        logging.exception("Error: %s", e)
-    # Grab the api secret key
-    try:
-        get_secret_value_response = client.get_secret_value(SecretId=secret_name)
-        apikey = json.loads(get_secret_value_response['SecretString'])
-        logging.info("secret retrieved")
-    except ClientError as e:
-        logging.exception("Error: %s", e)
-    # return avwx apikey if everything goes as expected.
-    return apikey['avwxapikey']
+
 def createS3BriefiengObject(briefing=["hello","world"],flightpath=["LFPX","LFRU"], expires=3600):
     try:
         bucket_name = config['AWS']['BUCKET']
@@ -56,7 +28,7 @@ def createS3BriefiengObject(briefing=["hello","world"],flightpath=["LFPX","LFRU"
     return [s3_object_url, bucket_name, object_key]
 
 def getObservationsBriefing (stations=["LFPT"]):
-    crawler = Wxcrawler(config=config, secret=get_avwx_secret())
+    crawler = Wxcrawler(config=config, secret=awssecret)
     logging.info("initiated Observation wxcrawler")
     observationsBriefing=[]
     if stations:
@@ -71,7 +43,7 @@ def getObservationsBriefing (stations=["LFPT"]):
     return observationsBriefing
 
 def getForecastBriefing (stations=["LFPG"]):
-    crawler = Wxcrawler(config=config, secret=get_avwx_secret())
+    crawler = Wxcrawler(config=config, secret=awssecret)
     logging.info("initiated Forecast wxcrawler")
     forecastBriefing=[]
     if stations:
