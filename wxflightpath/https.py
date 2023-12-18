@@ -28,4 +28,4 @@ def briefRedirect():
     return redirect(response_data['headers']['BriefingURL'], code=302)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8443, ssl_context=(config['HTTPS']['CERTPATH'], config['HTTPS']['KEYPATH']))
+    app.run(debug=False, port=config['HTTPS']['PORT'], ssl_context=(config['HTTPS']['CERTPATH'], config['HTTPS']['KEYPATH']))
