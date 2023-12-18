@@ -1,9 +1,9 @@
-import uuid
-import boto3
-from botocore.exceptions import ClientError
 from wxflightpath.wxcrawler import *
 from wxflightpath import config
 from wxflightpath.audiorender import renderaudio
+import uuid
+import boto3
+
 def get_avwx_secret():
     try:
         secret_name = config['AWS']['SECRET_NAME']
@@ -32,6 +32,7 @@ def get_avwx_secret():
         logging.exception("Error: %s", e)
     # return avwx apikey if everything goes as expected.
     return apikey['avwxapikey']
+
 def createS3BriefiengObject(briefing=["hello","world"],flightpath=["LFPX","LFRU"], expires=3600):
     try:
         bucket_name = config['AWS']['BUCKET']
@@ -55,8 +56,13 @@ def createS3BriefiengObject(briefing=["hello","world"],flightpath=["LFPX","LFRU"
     s3_object_url = presigned_url
     return [s3_object_url, bucket_name, object_key]
 
+#configure the secret retrieval
+if config["SECURITY"]["TOKEN"] == '':
+    secret=get_avwx_secret()
+else:
+    secret=config["SECURITY"]["TOKEN"]
 def getObservationsBriefing (stations=["LFPT"]):
-    crawler = Wxcrawler(config=config, secret=get_avwx_secret())
+    crawler = Wxcrawler(config=config, secret=secret)
     logging.info("initiated Observation wxcrawler")
     observationsBriefing=[]
     if stations:
@@ -71,7 +77,7 @@ def getObservationsBriefing (stations=["LFPT"]):
     return observationsBriefing
 
 def getForecastBriefing (stations=["LFPG"]):
-    crawler = Wxcrawler(config=config, secret=get_avwx_secret())
+    crawler = Wxcrawler(config=config, secret=secret)
     logging.info("initiated Forecast wxcrawler")
     forecastBriefing=[]
     if stations:
