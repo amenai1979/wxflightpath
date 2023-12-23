@@ -165,7 +165,7 @@ def faster_lambda_handler(event, context):
     #2 - Create the briefing
     briefing=[]
     observations = threadedGetObservationsBriefing(stations)
-    forecasts = threadedGetForecastBriefing()
+    forecasts = threadedGetForecastBriefing(stations)
     briefing.append(" Here are the latest observations for your flight path from " + sayInternational(
         input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]))
     briefing += observations + ["\n"]
@@ -193,10 +193,10 @@ def demo_aws():
     logging.info("Thank you for choosing wxflightpath!")
     #logging.info("comparing performance improvements before and after multithreading introduction")
     #logging.info("without multithreading start")
-    briefing = lambda_handler(event, {})
+    #briefing = lambda_handler(event, {})
     #logging.info("without multithreading end")
     #logging.info("with multithreading start")
-    #briefing = faster_lambda_handler(event, {})
+    briefing = faster_lambda_handler(event, {})
     #logging.info("with multithreading end")
     #renderaudio(input=briefing['body'])
 if __name__=='__main__':
