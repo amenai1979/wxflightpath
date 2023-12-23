@@ -191,14 +191,7 @@ def faster_lambda_handler(event, context):
 def demo_aws():
     event = {'flightpath': ["LFRU", "LFPT"]}
     logging.info("Thank you for choosing wxflightpath!")
-    #logging.info("comparing performance improvements before and after multithreading introduction")
-    #logging.info("without multithreading start")
-    #briefing = lambda_handler(event, {})
-    #logging.info("without multithreading end")
-    #logging.info("with multithreading start")
-    briefing = faster_lambda_handler(event, {})
-    #logging.info("with multithreading end")
-    #renderaudio(input=briefing['body'])
+    faster_lambda_handler(event, {})
 if __name__=='__main__':
     demo_aws()
 

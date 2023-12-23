@@ -12,7 +12,7 @@ def brief():
     origin = request.args.get('origin', 'LFRU')
     destination = request.args.get('destination', 'LFRU')
     event = {'flightpath': [origin, destination]}
-    response_data = faster_lambda_handler(event=event, context={})
+    response_data = lambda_handler(event=event, context={})
     logging.info("Fligtpath %s --> %s", origin, destination)
     # Return a JSON response with a 200 OK status
     return jsonify(response_data['body']), 200
@@ -23,7 +23,7 @@ def briefRedirect():
     destination = request.args.get('destination', 'LFRU')
     event = {'flightpath': [origin, destination]}
     logging.info("Fligtpath %s --> %s",origin,destination)
-    response_data = faster_lambda_handler(event=event, context={})
+    response_data = lambda_handler(event=event, context={})
     # Return a redirect
     return redirect(response_data['headers']['BriefingURL'], code=302)
 
