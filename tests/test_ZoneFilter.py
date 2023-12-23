@@ -4,9 +4,60 @@ from wxflightpath.zoneFilter import *
 
 
 class TestZoneFilter(TestCase):
-    aerodromes_file = "../data/XML_SIA_2023-10-05.xml"
-    airport_List = getAirfieldsInFlightPath(aerodromes_file=aerodromes_file)
+    airport_List = getAirfieldsInFlightPath()
     def test_init(self):
         self.assertEqual(self.airport_List,
-                         ['LFPA','LFPE','LFPD','LFPB','LFOX','LFPP','LFPQ','LFPN','LFPO','LFPT','LFPU','LFPH','LFPF','LFPG','LFPL','LFPM','LFPK','LFOB','LFON','LFOP','LFOR','LFOE','LFOL','LFXU','LFRL','LFRO','LFRJ','LFRU','LFRT','LFRQ','LFRD','LFRF','LFRB','LFPZ','LFPX','LFPV','LFFB','LFFC','LFFD','LFFE','LFES','LFFQ','LFFL','LFFY','LFAD','LFAY','LFAQ','LFAR','LFAS','LFAG','LFAI','LFAJ'])
+                         ['LFPT',
+                          'LFRU',
+                          'LFXU',
+                          'LFPX',
+                          'LFPA',
+                          'LFPF',
+                          'LFPZ',
+                          'LFFE',
+                          'LFFC',
+                          'LFPN',
+                          'LFPV',
+                          'LFOB',
+                          'LFPB',
+                          'LFFY',
+                          'LFPO',
+                          'LFPG',
+                          'LFPH',
+                          'LFPL',
+                          'LFFQ',
+                          'LFPP',
+                          'LFFL',
+                          'LFOX',
+                          'LFAR',
+                          'LFON',
+                          'LFPM',
+                          'LFPE',
+                          'LFFD',
+                          'LFOR',
+                          'LFOE',
+                          'LFAD',
+                          'LFFB',
+                          'LFAY',
+                          'LFOP',
+                          'LFPQ',
+                          'LFPK',
+                          'LFPU',
+                          'LFAI',
+                          'LFAQ',
+                          'LFAG',
+                          'LFOL',
+                          'LFPD',
+                          'LFAJ',
+                          'LFAS',
+                          'LFRF',
+                          'LFRD',
+                          'LFRT',
+                          'LFRO',
+                          'LFES',
+                          'LFRJ',
+                          'LFRQ',
+                          'LFRB',
+                          'LFRL']
+                         )
 

@@ -1,6 +1,9 @@
 import logging
 from gtts import gTTS
 import os
+from functools import lru_cache
+
+@lru_cache(maxsize=None)
 def renderaudio(title="briefing", input="text", lang='en'):
     filename=None
     assert input != (None or '')

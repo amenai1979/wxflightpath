@@ -1,11 +1,30 @@
+import logging
+
 import xmltodict
-from wxflightpath import geoTools, config
+from wxflightpath import geoTools
+from wxflightpath import config
+import json
+
 class aerodromesDict:
     aerodromes = []
     ADict = {}
     ADictNames={}
 
-    def __init__(self, aerodromes_file=config['DATA']['AERODROMES_FILE']):
+    def __init__(self):
+        try:
+            with open(config['DATA']['ADICT_FILE'], 'r') as json_file:
+                self.ADict = json.load(json_file, object_hook=geoTools.geoCoordinateDecoder)
+            with open(config['DATA']['ADICTNAMES_FILE'], 'r') as json_file:
+                self.ADictNames = json.load(json_file)
+            logging.info("Successfully loaded aerodromes dict from serialized json files %s and %s",config['DATA']['ADICT_FILE'], config['DATA']['ADICTNAMES_FILE'] )
+        except Exception as e:
+            logging.error("failed to load serialized aerodromes data from %s and %s , attempting the hard way (loading from xml file). details : %s ", config['DATA']['ADICT_FILE'], config['DATA']['ADICTNAMES_FILE'], e)
+            self.loadFromFile()
+            #serialize for next time
+            self.serialize_to_json()
+            pass
+
+    def loadFromFile(self, aerodromes_file=config['DATA']['AERODROMES_FILE']):
         try:
             self.aerodromes_file = aerodromes_file
             with open(self.aerodromes_file, 'r', encoding='ISO-8859-1') as xml_file:
@@ -13,9 +32,8 @@ class aerodromesDict:
                 xml_data = xmltodict.parse(xml_file.read())
                 self.aerodromes = xml_data['SiaExport']['Situation']['AdS']['Ad']
                 self.loadAerodromesDict()
-        except:
-            raise 'Error loading aerodromes file'
-
+        except Exception as e:
+            logging.error("failed to load from xml file. details : %s",e)
     def loadAerodromesDict(self):
         for x in range(0, len(self.aerodromes)):
             key = str(self.aerodromes[x]['@lk']).replace("[", "").replace(']', "")
@@ -31,7 +49,14 @@ class aerodromesDict:
             dictPrint += "\n"
         return dictPrint
 
+    def serialize_to_json(self):
+        with open(config['DATA']['ADICT_FILE'], 'w') as json_file:
+            json.dump(self.ADict, json_file,cls=geoTools.geoCoordinateEncoder)
+        with open(config['DATA']['ADICTNAMES_FILE'], 'w') as json_file:
+            json.dump(self.ADictNames, json_file)
+
 if __name__ == "__main__":
     frenchAirports = aerodromesDict()
-    print(frenchAirports.ADict)
+    #print(frenchAirports.ADict)
     print(frenchAirports.prettyPrint())
+    #frenchAirports.serialize_to_json()

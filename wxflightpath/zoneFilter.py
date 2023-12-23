@@ -1,16 +1,39 @@
 from re import match
-from wxflightpath.coordinatesLoader import aerodromesDict
 from wxflightpath.geoTools import *
-from wxflightpath import config
+from wxflightpath import frenchAirports
+from functools import lru_cache
+from functools import partial
 
-def getAirfieldsInFlightPath(origin='LFPT', destination='LFRU', aerodromes_file=config['DATA']['AERODROMES_FILE']):
-    frenchAirports = aerodromesDict(aerodromes_file)
+@lru_cache(maxsize=None)
+def getAirfieldsInFlightPath(origin='LFPT', destination='LFRU'):
     contour = bipolarGeoZone(frenchAirports.ADict[origin], frenchAirports.ADict[destination]).setContour()
     flightZone = geoZone(contour)
-    airportsWithinZone = filter(lambda x: flightZone.contains(aerodromesDict.ADict[x]), aerodromesDict.ADict.keys())
+    airportsWithinZone = filter(lambda x: flightZone.contains(frenchAirports.ADict[x]), frenchAirports.ADict.keys())
+    #exclude none OACI airfields that are unlikely to have a weather station
     pattern = r'\b[a-zA-Z]{4}\b'
     validAirports = filter(lambda x: match(pattern, x), airportsWithinZone)
-    return list(validAirports)
+    return orderedStations(origin,destination,list(validAirports))
+@lru_cache(maxsize=None)
+def distanceFromOrigin(airfield='LFPG',origin='LFRU'):
+    lat, long = frenchAirports.ADict[airfield].lat, frenchAirports.ADict[airfield].long
+    lat_org, long_org = frenchAirports.ADict[origin].lat, frenchAirports.ADict[origin].long
+    return (lat - lat_org)**2 + (long - long_org)**2
+
+def orderedStations(origin='LFPT',destination='LFRU', airfields=[]):
+    ordered=[]
+    #Always start with the origin and destination
+    ordered.append(origin)
+    ordered.append(destination)
+    #exclude from the sorting the origin and destination
+    filtered_list = [x for x in airfields if x not in ordered]
+    #print(filtered_list)
+    distanceFromOriginPartial = partial(distanceFromOrigin, origin=origin)
+    if filtered_list:
+        sorted_airfields = sorted(filtered_list, key=distanceFromOriginPartial)
+    ordered +=sorted_airfields
+    return ordered
 
 if __name__ == '__main__':
     print(getAirfieldsInFlightPath())
+    #print(distanceFromOrigin())
+

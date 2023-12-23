@@ -1,11 +1,15 @@
-import json
 import logging
 import re
 from json import load, dumps
 from urllib import request
 from wxflightpath.zoneFilter import *
 from wxflightpath import config
+from functools import lru_cache
+import threading
+import time
+from collections import OrderedDict
 
+@lru_cache(maxsize=None)
 def sayInternational(input="LFRU"):
     output_text=""
     international_alphabet_dict = {
@@ -39,7 +43,7 @@ def sayInternational(input="LFRU"):
     if input:
         output_text = " ".join([international_alphabet_dict[char] for char in input.upper()])
     return output_text
-
+@lru_cache(maxsize=None)
 def sayNumbers(input="1800"):
     output_text = ""
     spoken_numbers_dict = {
@@ -61,12 +65,15 @@ def sayNumbers(input="1800"):
 
 class Wxcrawler:
     def __init__(self, config, secret=None):
+        self.threadObsResults={}
+        self.threadForResults={}
         try:
             assert secret
             self._load_config(config,secret)
         except AssertionError:
             logging.error("No secret provided")
             raise
+
     def _load_config(self,config,secret):
         #dev only:
         #self._token = config['SECURITY']['TOKEN']
@@ -93,6 +100,10 @@ class Wxcrawler:
             logging.exception("url %s Error: %s", req.get_full_url(), e)
             pass
         return result
+    def threadGetObservationWX(self, airfield):
+        result = self.getObservationWX(airfield)
+        if result:
+            self.threadObsResults[airfield] = result
 
     def getForecastWX(self, airfield='LFRO'):
         req = request.Request(self._baseurltaf + airfield + self._paramstaf)
@@ -107,7 +118,10 @@ class Wxcrawler:
             logging.exception("url %s Error: %s", req.get_full_url(), e)
             pass
         return result
-
+    def threadGetForecastWX(self, airfield):
+        result=self.getForecastWX(airfield)
+        if result:
+            self.threadForResults[airfield]=result
     def getNOTAM(self, airfield='LFRO'):
         req = request.Request(self._baseurlnotam + airfield)
         req.add_header('Authorization', self._token)
@@ -120,6 +134,7 @@ class Wxcrawler:
             pass
         return result
 
+    @lru_cache(maxsize=None)
     def extractTime(self,metar="LFRU 121800Z AUTO 22013KT 9999 -RA FEW010 OVC100 13/11 Q1007"):
         metarList=metar.split()
         pattern = re.compile(r'^(\d{2})(\d{4})Z$')
@@ -134,7 +149,7 @@ class Wxcrawler:
             return None
 
     def formatObservationWX(self, result=None):
-        AirportNames = aerodromesDict().ADictNames
+        AirportNames = frenchAirports.ADictNames
         textList=[]
         ##for information only result = (response['raw'], response['speech'], response['density_altitude'], response['pressure_altitude'], airfield)
         if result:
@@ -154,7 +169,7 @@ class Wxcrawler:
         return ' '.join(textList)
 
     def formatForecastWX(self, result=None):
-        AirportNames = aerodromesDict().ADictNames
+        AirportNames = frenchAirports.ADictNames
         textList=[]
         ##for information only result = (response['raw'], response['speech'], airfield)
         if result:
@@ -164,6 +179,11 @@ class Wxcrawler:
             textList.append(".")
             textList.append(result[1])
         return ' '.join(textList)
+    def orderObsResults(self,desired_order):
+        #only apply to threading because we can"'t control teh completion
+        return sorted(self.threadObsResults.items(), key=lambda item: desired_order.index(item[0]))
+    def orderForResults(self, desired_order):
+     return sorted(self.threadForResults.items(), key=lambda item: desired_order.index(item[0]))
 def demo_wxcrawler():
     try:
         secret=config['SECURITY']['TOKEN']
@@ -172,13 +192,19 @@ def demo_wxcrawler():
         logging.error("Please configure the TOKEN param in the default.cfg file.")
         raise
     crawler = Wxcrawler(config=config, secret=secret)
-    for airfield in getAirfieldsInFlightPath('LFRU', 'LFRO'):
-        result1 = crawler.getObservationWX(airfield)
-        result2 = crawler.getForecastWX(airfield)
-        if result1:
-            print(crawler.formatObservationWX(result1))
-        if result2:
-            print(crawler.formatForecastWX(result2))
+    startTime=time.time()
+    logging.info("observations and forcasts collection has started at %i", startTime)
+    airfields=getAirfieldsInFlightPath('LFRU', 'LFPT')
+    #start threads to get observation weather for each airfield
+    [threading.Thread(target=crawler.threadGetObservationWX, args=(airfield,)).start() for airfield in airfields]
+    # start threads to get forecast weather for each airfield
+    [threading.Thread(target=crawler.threadGetForecastWX, args=(airfield,)).start() for airfield in airfields]
+    #join all threads
+    [thread.join() for thread in threading.enumerate() if thread != threading.current_thread()]
+    endTime=time.time()
+    logging.info("observations and forecasts collection has completed in %i seconds", endTime-startTime)
+    [print(crawler.formatObservationWX(ro[1])) for ro in crawler.orderObsResults(desired_order=airfields)]
+    [print(crawler.formatForecastWX(rf[1])) for rf in crawler.orderForResults(desired_order=airfields)]
 
 if __name__== '__main__':
     demo_wxcrawler()
