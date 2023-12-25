@@ -1,4 +1,6 @@
 from wxflightpath import picket
+from functools import lru_cache
+import json
 class geoCoordinate:
     lat: float
     long: float
@@ -9,7 +11,18 @@ class geoCoordinate:
 
     def __str__(self):
         return " ".join(["latitude:", str(self.lat), "longitude:", str(self.long)])
+# Custom JSON encoder for GeoCoordinate
+class geoCoordinateEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, geoCoordinate):
+            return {'lat': obj.lat, 'long': obj.long}
+        return super().default(obj)
+def geoCoordinateDecoder(obj):
+    if 'lat' in obj and 'long' in obj:
+        return geoCoordinate(obj['lat'], obj['long'])
+    return obj
 
+@lru_cache(maxsize=None)
 class bipolarGeoZone():
     westMost = None
     eastMost = None
@@ -22,6 +35,7 @@ class bipolarGeoZone():
             self.westMost = destination
             self.eastMost = origin
 
+    @lru_cache(maxsize=None)
     def setContour(self):
         # we try to position the points a degree (60 minutes) North West, South West of the west most , and the North east , South east of the eastmost for most of the globe.
         # todo one day I will be less lazy and cover the edge cases
@@ -39,13 +53,12 @@ class bipolarGeoZone():
 
 class geoZone:
     zone = picket.Fence()
-
     def __init__(self, coordinates):
         self.navPoints = coordinates
         for p in self.navPoints:
-            #print(p)
             self.zone.add_point((p.long, p.lat))
 
+    @lru_cache(maxsize=None)
     def contains(self, point):
         status = self.zone.check_point((point.long, point.lat))
         return status

@@ -1,6 +1,9 @@
 import logging
 from gtts import gTTS
 import os
+from functools import lru_cache
+
+@lru_cache(maxsize=None)
 def renderaudio(title="briefing", input="text", lang='en'):
     filename=None
     assert input != (None or '')
@@ -18,7 +21,7 @@ def renderaudio(title="briefing", input="text", lang='en'):
 
 if __name__ == '__main__':
     briefing = "this is a briefing for captain Hadock!"
-    filename = renderaudio(briefing=briefing)
+    filename = renderaudio(input=briefing)
     # Windows
     # os.system("start " + filename)
     # MacOS

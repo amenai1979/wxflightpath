@@ -1,5 +1,6 @@
 import os
 import sys
+
 current_path=os.getcwd()
 sys.path.append(current_path)
 parent_path = os.path.abspath(os.path.join(current_path, os.pardir))
@@ -22,3 +23,6 @@ config = ConfigParser()
 config.read(configfile)
 logging.info("loaded config file: %s", configfile)
 
+#Load french airports
+from wxflightpath.coordinatesLoader import aerodromesDict
+frenchAirports = aerodromesDict()
