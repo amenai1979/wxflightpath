@@ -4,14 +4,22 @@ from wxflightpath import frenchAirports
 from functools import lru_cache
 from functools import partial
 
+#define OACI airfield pattern
+
+@lru_cache(maxsize=None)
+def validateAirfield(airfield):
+    #pattern = r'\b[a-zA-Z]{4}\b'
+    #validAirports = filter(lambda x: match(pattern, x), airportsWithinZone)
+    pattern = r'\b[a-zA-Z]{4}\b'
+    result = match(pattern, airfield)
+    return result
 @lru_cache(maxsize=None)
 def getAirfieldsInFlightPath(origin='LFPT', destination='LFRU'):
     contour = bipolarGeoZone(frenchAirports.ADict[origin], frenchAirports.ADict[destination]).setContour()
     flightZone = geoZone(contour)
     airportsWithinZone = filter(lambda x: flightZone.contains(frenchAirports.ADict[x]), frenchAirports.ADict.keys())
     #exclude none OACI airfields that are unlikely to have a weather station
-    pattern = r'\b[a-zA-Z]{4}\b'
-    validAirports = filter(lambda x: match(pattern, x), airportsWithinZone)
+    validAirports = filter(lambda x: validateAirfield(x), airportsWithinZone)
     return orderedStations(origin,destination,list(validAirports))
 @lru_cache(maxsize=None)
 def distanceFromOrigin(airfield='LFPG',origin='LFRU'):

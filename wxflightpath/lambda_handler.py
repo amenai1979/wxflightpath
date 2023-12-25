@@ -1,6 +1,8 @@
+import logging
+
 from wxflightpath.wxcrawler import *
 from wxflightpath import config
-from wxflightpath.audiorender import renderaudio
+from wxflightpath.zoneFilter import validateAirfield
 import uuid
 import boto3
 
@@ -155,15 +157,26 @@ def lambda_handler(event, context):
     }
     return response
 def faster_lambda_handler(event, context):
-    #Create the briefing
-    #1 - get airfields on the flight path
-    if 'flightpath' not in event.keys():
-        event["flightpath"]=["LFPX","LFRU"]
-    flightpath=event["flightpath"]
-    stations=getAirfieldsInFlightPath(flightpath[0], flightpath[1])
-    assert len(stations)>=1
-    #2 - Create the briefing
-    briefing=[]
+    # Create the briefing
+    # 1 - get airfields on the flight path
+    if "flightpath" in event["queryStringParameters"].keys():
+        flightpath = event["queryStringParameters"]["flightpath"]
+        flightpath = flightpath.split(',')
+        assert len(flightpath)>1
+        assert [validateAirfield(x) for x in flightpath]
+        logging.info("successfully extracted flightpath origin %s and destination %s", flightpath[0], flightpath[1])
+    else:
+        logging.error("unable to extracted flightpath from request")
+        response = {
+            'statusCode': 400,
+            'body': '<b>Invalid request query param try a request with the following query parameter pattern /?flightpath=LFRO,LFPX</b>'
+        }
+        return response
+
+    stations = getAirfieldsInFlightPath(flightpath[0], flightpath[1])
+    assert len(stations) >= 1
+    # 2 - Create the briefing
+    briefing = []
     observations = threadedGetObservationsBriefing(stations)
     forecasts = threadedGetForecastBriefing(stations)
     briefing.append(" Here are the latest observations for your flight path from " + sayInternational(
@@ -171,27 +184,96 @@ def faster_lambda_handler(event, context):
     briefing += observations + ["\n"]
     briefing.append(" Here are the latest forecasts for your flight path from " + sayInternational(
         input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]))
-    briefing+=forecasts
-    logging.info("briefing generated")
-    logging.info(briefing)
+    briefing += forecasts
+    logging.info("briefing generated for flightpath origin %s and destination %s", flightpath[0], flightpath[1])
+    #logging.info(briefing)
     # 3 - generate the s3 object and log the URL
-    object_data= createS3BriefiengObject(briefing,flightpath)
-    logging.info("uploaded briefing to s3")
-    s3_object_url=object_data[0]
-    logging.info(s3_object_url)
-    #4 respond to the caller
+    object_data = createS3BriefiengObject(briefing, flightpath)
+    logging.info("uploaded text briefing for flightpath origin %s and destination %s to s3" , flightpath[0], flightpath[1])
+    s3_object_url = object_data[0]
+    logging.info("briefing avalable here %s: ", s3_object_url)
+    # 4 respond to the caller
     response = {
-            'statusCode': 200,
-            'headers': {
-                'BriefingURL': s3_object_url
-            },
-            'body': ".".join(briefing)
+        'statusCode': 302,
+        'headers': {
+            'Location': s3_object_url
+        }
     }
     return response
 def demo_aws():
-    event = {'flightpath': ["LFRU", "LFPT"]}
+    event = {
+        "version": "2.0",
+        "routeKey": "$default",
+        "rawPath": "/path/to/resource",
+        "rawQueryString": "flightpath=LFPX,LFRU",
+        "cookies": [
+            "cookie1",
+            "cookie2"
+        ],
+        "headers": {
+            "Header1": "value1",
+            "Header2": "value1,value2"
+        },
+        "queryStringParameters": {
+            "flightpath":'LFPX,LFRU'
+        },
+        "requestContext": {
+            "accountId": "123456789012",
+            "apiId": "api-id",
+            "authentication": {
+                "clientCert": {
+                    "clientCertPem": "CERT_CONTENT",
+                    "subjectDN": "www.example.com",
+                    "issuerDN": "Example issuer",
+                    "serialNumber": "a1:a1:a1:a1:a1:a1:a1:a1:a1:a1:a1:a1:a1:a1:a1:a1",
+                    "validity": {
+                        "notBefore": "May 28 12:30:02 2019 GMT",
+                        "notAfter": "Aug  5 09:36:04 2021 GMT"
+                    }
+                }
+            },
+            "authorizer": {
+                "jwt": {
+                    "claims": {
+                        "claim1": "value1",
+                        "claim2": "value2"
+                    },
+                    "scopes": [
+                        "scope1",
+                        "scope2"
+                    ]
+                }
+            },
+            "domainName": "id.execute-api.us-east-1.amazonaws.com",
+            "domainPrefix": "id",
+            "http": {
+                "method": "POST",
+                "path": "/path/to/resource",
+                "protocol": "HTTP/1.1",
+                "sourceIp": "192.168.0.1/32",
+                "userAgent": "agent"
+            },
+            "requestId": "id",
+            "routeKey": "$default",
+            "stage": "$default",
+            "time": "12/Mar/2020:19:03:58 +0000",
+            "timeEpoch": 1583348638390
+        },
+        "body": [
+            "LFRO",
+            "LFRU"
+        ],
+        "pathParameters": {
+            "parameter1": "value1"
+        },
+        "isBase64Encoded": True,
+        "stageVariables": {
+            "stageVariable1": "value1",
+            "stageVariable2": "value2"
+        }
+    }
     logging.info("Thank you for choosing wxflightpath!")
-    faster_lambda_handler(event, {})
+    faster_lambda_handler(event, context={})
 if __name__=='__main__':
     demo_aws()
 
