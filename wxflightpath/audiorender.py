@@ -21,7 +21,7 @@ def renderaudio(title="briefing", input="text", lang='en'):
 
 if __name__ == '__main__':
     briefing = "this is a briefing for captain Hadock!"
-    filename = renderaudio(briefing=briefing)
+    filename = renderaudio(input=briefing)
     # Windows
     # os.system("start " + filename)
     # MacOS

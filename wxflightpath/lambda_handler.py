@@ -1,10 +1,10 @@
-import logging
-
 from wxflightpath.wxcrawler import *
 from wxflightpath import config
 from wxflightpath.zoneFilter import validateAirfield
 import uuid
 import boto3
+from wxflightpath.audiorender import renderaudio
+import os
 
 def get_avwx_secret():
     try:
@@ -35,7 +35,7 @@ def get_avwx_secret():
     # return avwx apikey if everything goes as expected.
     return apikey['avwxapikey']
 
-def createS3BriefiengObject(briefing=["hello","world"],flightpath=["LFPX","LFRU"], expires=3600):
+def createS3BriefiengObject(briefing=["hello","world"],flightpath=["LFPX","LFRU"], expires=86400):
     try:
         bucket_name = config['AWS']['BUCKET']
         assert bucket_name != ''
@@ -57,7 +57,28 @@ def createS3BriefiengObject(briefing=["hello","world"],flightpath=["LFPX","LFRU"
     )
     s3_object_url = presigned_url
     return [s3_object_url, bucket_name, object_key]
-
+def createS3AudioBriefiengObject(audio="filename.mp3",flightpath=["LFPX","LFRU"], expires=86400):
+    try:
+        bucket_name = config['AWS']['BUCKET']
+        assert bucket_name != ''
+    except AssertionError as a:
+        logging.error("You have not configured the AWS section of default.cfg properly.")
+        raise
+    # initiate an s3 client
+    try:
+        s3 = boto3.client('s3')
+        logging.info("initiated s3 client: %s", s3)
+    except Exception as e:
+        logging.exception("Error: %s", e)
+    object_key='_'.join(flightpath)+"-"+str(uuid.uuid1())+".mp3"
+    # Put the object in the S3 bucket
+    s3.upload_file(Key=object_key, Bucket=config['AWS']['BUCKET'],Filename=audio)
+    # Construct the URL for the newly created S3 object
+    presigned_url = s3.generate_presigned_url('get_object',Params={'Bucket': bucket_name, 'Key': object_key},
+        ExpiresIn=expires
+    )
+    s3_object_url = presigned_url
+    return [s3_object_url, bucket_name, object_key]
 #configure the secret retrieval
 if config["SECURITY"]["TOKEN"] == '':
     secret=get_avwx_secret()
@@ -188,11 +209,23 @@ def faster_lambda_handler(event, context):
     logging.info("briefing generated for flightpath origin %s and destination %s", flightpath[0], flightpath[1])
     #logging.info(briefing)
     # 3 - generate the s3 object and log the URL
-    object_data = createS3BriefiengObject(briefing, flightpath)
-    logging.info("uploaded text briefing for flightpath origin %s and destination %s to s3" , flightpath[0], flightpath[1])
-    s3_object_url = object_data[0]
-    logging.info("briefing avalable here %s: ", s3_object_url)
+    if "audio" in event["queryStringParameters"].keys():
+        filename = renderaudio(input=".".join(briefing),title=str(uuid.uuid4()))
+        object_data = createS3AudioBriefiengObject(audio=filename,flightpath=flightpath)
+        # clean up the audio file from persistent local storage
+        if os.path.exists(filename):
+            os.remove(filename)
+        s3_object_url = object_data[0]
+        logging.info("uploaded audio briefing for flightpath origin %s and destination %s to s3" , flightpath[0], flightpath[1])
+        logging.info("Audio briefing available here %s: ", s3_object_url)
+
+
     # 4 respond to the caller
+    else:
+        object_data = createS3BriefiengObject(briefing, flightpath)
+        logging.info("uploaded briefing to s3")
+        s3_object_url = object_data[0]
+
     response = {
         'statusCode': 302,
         'headers': {
@@ -215,7 +248,8 @@ def demo_aws():
             "Header2": "value1,value2"
         },
         "queryStringParameters": {
-            "flightpath":'LFPX,LFRU'
+            "flightpath":'LFRO,LFRO',
+            "audio": None
         },
         "requestContext": {
             "accountId": "123456789012",
