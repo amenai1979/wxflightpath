@@ -227,10 +227,11 @@ def faster_lambda_handler(event, context):
         s3_object_url = object_data[0]
 
     response = {
-        'statusCode': 302,
+        'statusCode': 200,
         'headers': {
             'Location': s3_object_url
-        }
+        },
+        'body':s3_object_url
     }
     return response
 def demo_aws():
