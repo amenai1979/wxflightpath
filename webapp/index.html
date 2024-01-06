@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="briefer" content="width=device-width, initial-scale=1.0">
+    <title>Pilot Briefer</title>
+    <style>
+        button {
+            display: inline-block;
+            margin-right: 10px; /* Add margin between buttons */
+        }
+    </style>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Pilot Briefer by amenai.net </h1>
+        <label for="origin">Select Origin:</label>
+        <input type="text" id="originInput" oninput="filterDropdown(id='originInput', dropId='origin')" placeholder="Type to search...">
+        <select id="origin"></select>
+        <label for="destination">Select Destination:</label>
+        <input type="text" id="destinationInput" oninput="filterDropdown(id='destinationInput', dropId='destination')" placeholder="Type to search...">
+        <select id="destination"></select>
+        <button id="submitButton" onclick="submitSelection()">Submit</button>
+        <span id="processingText" style="display: none;">Processing...</span>
+        <div id="result"></div>
+        <br/>
+        <button id="playButton" onclick="readText()" >Play</button>
+        <button id="pauseButton" onclick="pauseSpeech()" style="background-color: orange;">Pause</button>
+        <button id="stopButton" onclick="stop()" style="background-color: black;">Stop</button>
+    </div>
+    <script src="wxflightpath.js"></script>
+    <script src="wxflightpath-init.js"></script>
+</body>
+</html>
