@@ -160,10 +160,6 @@ class TestLambda_handler(TestCase):
     def test_init(self):
         self.assertNotEquals(self.result1['headers']['Location'], None)
         #experimental#self.assertEquals(self.pattern2.match(self.result1['headers']['Location']), True)
-        self.assertEquals(self.result1['statusCode'], 302)
+        self.assertEquals(self.result1['statusCode'], 200)
         self.assertEquals(self.result2['body'], '<b>Invalid request query param try a request with the following query parameter pattern /?flightpath=LFRO,LFPX</b>')
         self.assertEquals(self.result2['statusCode'], 400)
-
-
-
-

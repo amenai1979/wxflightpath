@@ -1,11 +1,13 @@
 import logging
-from gtts import gTTS
 import os
 from functools import lru_cache
 
+from gtts import gTTS
+
+
 @lru_cache(maxsize=None)
 def renderaudio(title="briefing", input="text", lang='en'):
-    filename=None
+    filename = None
     assert input != (None or '')
     text_to_speak = input
     language = lang
