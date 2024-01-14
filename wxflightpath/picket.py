@@ -27,18 +27,19 @@ class Fence:
         self.points = []
 
     def add_point(self, point):
-        # Add new point to points list.
+        #  Add new point to points list.
         self.points.append(point)
 
     def list_points(self):
-        return(self.points)
+        return (self.points)
 
-    def check_point(self, point, debug = False):
+    def check_point(self, point, debug=False):
         """
         check_point()  checks if a given point lies inside a given fence polygon.
         Parameters are given as an instance of the fence class and a given point as
         a, tuple of (x, y).
         """
+
         def check_in_bounds(point, line_eqns_index):
             """
             check_in_bounds() checks if a supplied point is within the upper and
@@ -109,7 +110,7 @@ class Fence:
             Uses Cramers rule to work it out.
             """
             # Calculate the determinant.
-            D  = line[0] * point_horizon_eqn[1] - line[1] * point_horizon_eqn[0]
+            D = line[0] * point_horizon_eqn[1] - line[1] * point_horizon_eqn[0]
             Dx = line[2] * point_horizon_eqn[1] - line[1] * point_horizon_eqn[2]
             Dy = line[0] * point_horizon_eqn[2] - line[2] * point_horizon_eqn[0]
             if D != 0:
@@ -145,7 +146,8 @@ class Fence:
                 b = 1
                 c = point1[1]
                 if debug == True:
-                    print("Formed equation", str(a) + "x+" + str(b) + "y=" + str(c), "from points:", point1, "and", point2)
+                    print("Formed equation", str(a) + "x+" + str(b) + "y=" + str(c), "from points:", point1, "and",
+                          point2)
                 line_eqns.append((a, b, c))
             elif point1[0] == point2[0]:
                 # Vertical
@@ -153,7 +155,8 @@ class Fence:
                 b = 0
                 c = point1[0]
                 if debug == True:
-                    print("Formed equation", str(a) + "x+" + str(b) + "y=" + str(c), "from points:", point1, "and", point2)
+                    print("Formed equation", str(a) + "x+" + str(b) + "y=" + str(c), "from points:", point1, "and",
+                          point2)
                 line_eqns.append((a, b, c))
             else:
                 # Non vertical or hoizontal line.
@@ -162,28 +165,32 @@ class Fence:
                 # c = y - ax
                 c = (point1[1] + (a * point1[0]))
                 if debug == True:
-                    print("Formed equation", str(a) + "x+" + str(b) + "y=" + str(c), "from points:", point1, "and", point2)
+                    print("Formed equation", str(a) + "x+" + str(b) + "y=" + str(c), "from points:", point1, "and",
+                          point2)
                 line_eqns.append((a, b, c))
 
         if debug == True:
             print("\n")
             print("All equations formed (in order):", line_eqns)
             print("Finding intersections...\n")
-#           print("\nx bounds are:", str(self.max_x), str(self.min_x), "y bounds:", str(self.max_y), str(self.min_y))
+        #           print("\nx bounds are:", str(self.max_x), str(self.min_x), "y bounds:", str(self.max_y), str(self.min_y))
         intersection_points_left = []
         intersection_points_right = []
         for line_index in range(0, len(line_eqns)):
             intersection_point = find_intersect(line_eqns[line_index], point_horizon_eqn)
             if debug == True:
-                print("Intersection point between lines:", line_eqns[line_index], "&", point_horizon_eqn, "is:", intersection_point)
+                print("Intersection point between lines:", line_eqns[line_index], "&", point_horizon_eqn, "is:",
+                      intersection_point)
             if intersection_point != False:
                 if intersection_point[0] < point[0]:
                     # Intersection point x value is less than point x value.
-                    if (intersection_point not in intersection_points_left) and check_in_bounds(intersection_point, line_index) == True:
+                    if (intersection_point not in intersection_points_left) and check_in_bounds(intersection_point,
+                                                                                                line_index) == True:
                         intersection_points_left.append(intersection_point)
                 else:
                     # Intersection point x value is greater than point x value.
-                    if (intersection_point not in intersection_points_right) and check_in_bounds(intersection_point, line_index) == True:
+                    if (intersection_point not in intersection_points_right) and check_in_bounds(intersection_point,
+                                                                                                 line_index) == True:
                         intersection_points_right.append(intersection_point)
 
         # Check if the number of intersections to the left and right are odd.
@@ -194,15 +201,16 @@ class Fence:
                 print((str(len(intersection_points_right))), "intersection points to the right.")
             if ((len(intersection_points_left) % 2) == 1) and ((len(intersection_points_right) % 2) == 1):
                 # Both have odd intersection counts, so the point is in the Fence.
-                return(True)
+                return (True)
             else:
                 if debug:
                     print(intersection_points_left, intersection_points_right)
-                return(False)
+                return (False)
         else:
             if debug:
                 print(intersection_points_left, intersection_points_right)
-            return(False)
+            return (False)
+
 
 def convertDMSToDD(degrees, minutes, seconds):
-    return(degrees + (minutes / 60) + (seconds / 3600))
+    return (degrees + (minutes / 60) + (seconds / 3600))

@@ -95,11 +95,20 @@ $ curl -L https://yourhostname.com:8443/brief-redirect?origin=LFPT&destination=L
 ````
 This will automatically follow the redirect and display the briefing text.
 
+### MultiLanguage Support
+
+It is possible to translate the text briefing to another language.
+To keep the code light we offer multiple translation API options in the openaitranslator.py file.
+You will need to sign up to Open AI and get an API key (highly recommended).
+The other options are available but limited. you'll need to sign up and configure appropriately the keys.
+remember to keep your settings in default.cfg. Happy Briefing!
+One of the demo methods in wxcrawler.py 'demo_wxcrawler_fr_trainer()' allows you to train a local keyvalue database to limit the reuest rate to the translation API. 
+
 ## Project Details
 
 Author: [Alexandre Menai](https://www.linkedin.com/in/menai/)\
 Email: amenai@amenai.net\
-Version: 1.0\
+Version: 1.1\
 Development Status: 3 - Alpha\
 Python Version: 3.11
 
@@ -120,3 +129,4 @@ If you'd like to contribute to wxflightpath, please check the CONTRIBUTING.md fi
 
 Kudos to [Sam Drew](https://github.com/sam-drew) the author of [picket](https://github.com/sam-drew/picket) that is used in this project.
 Kudos to [Christian Quest](https://www.sia.aviation-civile.gouv.fr/produits-numeriques-en-libre-disposition/les-bases-de-donnees-sia/donnees-aeronautiques-xml-airac-13-23.html) who ceated the data used in this project 
+Kudos to the Open source community!
