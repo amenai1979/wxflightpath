@@ -7,6 +7,10 @@ from translate import Translator
 
 from wxflightpath import config
 
+import re
+
+
+
 
 @lru_cache(maxsize=None)
 def rapidtranslate(input="text to translate", lang='fr'):
@@ -72,7 +76,9 @@ def oaitranslate(input='text to translate', lang='fr'):
 
 @lru_cache(maxsize=None)
 def translate(input="text to translate", lang='fr'):
-    split_input = input.split('.')
+    split_input=re.split(r'[.,-]|(\bbecoming\b)', input)
+    split_input=[item.strip().lower() for item in split_input if item]
+    #split_input = input.split('.')
     with shelve.open(config['DATA']['TRANSLATOR_DB']) as db:
         for x in split_input:
             if x not in db.keys():
