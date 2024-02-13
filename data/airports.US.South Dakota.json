@@ -1,0 +1,170 @@
+{
+    "0SD0": {
+        "lat": 45.4249992371,
+        "long": -100.891998291,
+        "name": "Lenling ",
+        "state": "South Dakota"
+    },
+    "0SD1": {
+        "lat": 42.9721984863,
+        "long": -96.9802017212,
+        "name": "Lodi ",
+        "state": "South Dakota"
+    },
+    "0SD3": {
+        "lat": 45.2694015503,
+        "long": -103.2170028687,
+        "name": "Bledsoe Ranch ",
+        "state": "South Dakota"
+    },
+    "0SD6": {
+        "lat": 44.288898468,
+        "long": -101.8259963989,
+        "name": "Oasis Ranch ",
+        "state": "South Dakota"
+    },
+    "0SD7": {
+        "lat": 43.5243988037,
+        "long": -101.7340011597,
+        "name": "Porch Ranch ",
+        "state": "South Dakota"
+    },
+    "0SD8": {
+        "lat": 43.7827987671,
+        "long": -100.2929992676,
+        "name": "Juhnke ",
+        "state": "South Dakota"
+    },
+    "1SD0": {
+        "lat": 45.3230018616,
+        "long": -101.7419967651,
+        "name": "Dorsey Ranch ",
+        "state": "South Dakota"
+    },
+    "1SD1": {
+        "lat": 43.1654014587,
+        "long": -97.7309036255,
+        "name": "Burke Field",
+        "state": "South Dakota"
+    },
+    "1SD3": {
+        "lat": 43.2332992554,
+        "long": -97.1502990723,
+        "name": "Turkey Ridge ",
+        "state": "South Dakota"
+    },
+    "1SD4": {
+        "lat": 44.8666992188,
+        "long": -102.4169998169,
+        "name": "Vig Limousin ",
+        "state": "South Dakota"
+    },
+    "1SD5": {
+        "lat": 43.7686004639,
+        "long": -98.7986984253,
+        "name": "Drake Farm ",
+        "state": "South Dakota"
+    },
+    "1SD6": {
+        "lat": 43.1102981567,
+        "long": -103.2300033569,
+        "name": "Bogner No Ii ",
+        "state": "South Dakota"
+    },
+    "1SD8": {
+        "lat": 45.0476989746,
+        "long": -96.5525970459,
+        "name": "Tribitt ",
+        "state": "South Dakota"
+    },
+    "2SD0": {
+        "lat": 44.1636009216,
+        "long": -103.4789962769,
+        "name": "Paradise Valley ",
+        "state": "South Dakota"
+    },
+    "2SD2": {
+        "lat": 43.1058006287,
+        "long": -98.9303970337,
+        "name": "Pepper Port ",
+        "state": "South Dakota"
+    },
+    "2SD3": {
+        "lat": 44.5633010864,
+        "long": -99.7250976563,
+        "name": "Bollweg Farm ",
+        "state": "South Dakota"
+    },
+    "2SD4": {
+        "lat": 43.6833000183,
+        "long": -98.265296936,
+        "name": "Nicolaisen ",
+        "state": "South Dakota"
+    },
+    "2SD7": {
+        "lat": 43.3333015442,
+        "long": -97.0627975464,
+        "name": "Dangel ",
+        "state": "South Dakota"
+    },
+    "2SD8": {
+        "lat": 43.0456008911,
+        "long": -96.9391021729,
+        "name": "Bixler Ridge ",
+        "state": "South Dakota"
+    },
+    "2SD9": {
+        "lat": 45.4522018433,
+        "long": -99.0101013184,
+        "name": "Tc Field",
+        "state": "South Dakota"
+    },
+    "3SD3": {
+        "lat": 43.8117980957,
+        "long": -102.7200012207,
+        "name": "Brown Field",
+        "state": "South Dakota"
+    },
+    "3SD4": {
+        "lat": 43.4655990601,
+        "long": -96.8632965088,
+        "name": "Chris Hofer Landing Strip",
+        "state": "South Dakota"
+    },
+    "3SD6": {
+        "lat": 44.2022018433,
+        "long": -103.0790023804,
+        "name": "Running Colors ",
+        "state": "South Dakota"
+    },
+    "4SD4": {
+        "lat": 44.0416984558,
+        "long": -103.0459976196,
+        "name": "Dan's ",
+        "state": "South Dakota"
+    },
+    "8OA5": {
+        "lat": 45.5666999817,
+        "long": -103.9840011597,
+        "name": "Camp Crook Municipal ",
+        "state": "South Dakota"
+    },
+    "9SD7": {
+        "lat": 45.4749984741,
+        "long": -100.0350036621,
+        "name": "Beaman ",
+        "state": "South Dakota"
+    },
+    "9SD8": {
+        "lat": 43.5833015442,
+        "long": -96.950302124,
+        "name": "Oakleaf ",
+        "state": "South Dakota"
+    },
+    "9SD9": {
+        "lat": 43.8065986633,
+        "long": -96.7089004517,
+        "name": "Weelborg ",
+        "state": "South Dakota"
+    }
+}

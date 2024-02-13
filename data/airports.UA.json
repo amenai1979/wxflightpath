@@ -1,0 +1,227 @@
+{
+  "UK59": {
+    "lat": 49.8381996155,
+    "long": 36.6412010193,
+    "name": "Chuhuiv "
+  },
+  "UK61": {
+    "lat": 49.7378997803,
+    "long": 23.6688995361,
+    "name": "Cherlyany "
+  },
+  "UKBB": {
+    "lat": 50.3450012207,
+    "long": 30.8946990967,
+    "name": "Boryspil International "
+  },
+  "UKBF": {
+    "lat": 51.25,
+    "long": 33.1500015259,
+    "name": "Konotop Air Base"
+  },
+  "UKCC": {
+    "lat": 48.073600769,
+    "long": 37.7397003174,
+    "name": "Donetsk International "
+  },
+  "UKCK": {
+    "lat": 48.7056007385,
+    "long": 37.6288986206,
+    "name": "Kramatorsk "
+  },
+  "UKCM": {
+    "lat": 47.0760993958,
+    "long": 37.4496002197,
+    "name": "Mariupol International "
+  },
+  "UKCS": {
+    "lat": 48.9003301015,
+    "long": 38.5416698456,
+    "name": "Sievierodonetsk "
+  },
+  "UKCW": {
+    "lat": 48.4174003601,
+    "long": 39.3740997314,
+    "name": "Luhansk International "
+  },
+  "UKDB": {
+    "lat": 46.8149986267,
+    "long": 36.7580986023,
+    "name": "Berdyansk "
+  },
+  "UKDD": {
+    "lat": 48.3572006226,
+    "long": 35.1006011963,
+    "name": "Dnipropetrovsk International "
+  },
+  "UKDE": {
+    "lat": 47.8670005798,
+    "long": 35.315700531,
+    "name": "Zaporizhzhia International "
+  },
+  "UKDR": {
+    "lat": 48.0433006287,
+    "long": 33.2099990845,
+    "name": "Kryvyi Rih International "
+  },
+  "UKFF": {
+    "lat": 45.0522003174,
+    "long": 33.9751014709,
+    "name": "Simferopol International "
+  },
+  "UKFG": {
+    "lat": 45.1150016785,
+    "long": 33.9770011902,
+    "name": "Gvardeyskoe Air Base"
+  },
+  "UKFI": {
+    "lat": 45.0929985046,
+    "long": 33.5950012207,
+    "name": "Saki Air Base"
+  },
+  "UKFK": {
+    "lat": 45.3725013733,
+    "long": 36.4014015198,
+    "name": "Kerch "
+  },
+  "UKFV": {
+    "lat": 45.2256011963,
+    "long": 33.376701355,
+    "name": "Yevpatoriya "
+  },
+  "UKFY": {
+    "lat": 45.7009010315,
+    "long": 34.4188995361,
+    "name": "Dzhankoy "
+  },
+  "UKHD": {
+    "lat": 50.0250015259,
+    "long": 36.268901825,
+    "name": "Kharkiv North "
+  },
+  "UKHH": {
+    "lat": 49.9248008728,
+    "long": 36.2900009155,
+    "name": "Kharkiv International "
+  },
+  "UKHP": {
+    "lat": 49.5685997009,
+    "long": 34.3972015381,
+    "name": "Suprunovka "
+  },
+  "UKHS": {
+    "lat": 50.8582992554,
+    "long": 34.7625007629,
+    "name": "Sumy "
+  },
+  "UKKE": {
+    "lat": 49.415599823,
+    "long": 31.995300293,
+    "name": "Cherkasy International "
+  },
+  "UKKG": {
+    "lat": 48.5428009033,
+    "long": 32.2849998474,
+    "name": "Kirovograd "
+  },
+  "UKKH": {
+    "lat": 49.790599823,
+    "long": 30.441400528,
+    "name": "Chepelevka "
+  },
+  "UKKK": {
+    "lat": 50.4016990662,
+    "long": 30.4496994019,
+    "name": "Kiev Zhuliany International "
+  },
+  "UKKM": {
+    "lat": 50.6035003662,
+    "long": 30.1919002533,
+    "name": "Gostomel "
+  },
+  "UKKT": {
+    "lat": 50.4788894653,
+    "long": 30.3858337402,
+    "name": "Svyatoshyn "
+  },
+  "UKKV": {
+    "lat": 50.270556,
+    "long": 28.738611,
+    "name": "Zhytomyr "
+  },
+  "UKLC": {
+    "lat": 50.6784041103,
+    "long": 25.487165451,
+    "name": "Lutsk "
+  },
+  "UKLH": {
+    "lat": 49.3596992493,
+    "long": 26.9333992004,
+    "name": "Khmelnytskyi "
+  },
+  "UKLI": {
+    "lat": 48.8842010498,
+    "long": 24.6861000061,
+    "name": "Ivano-Frankivsk International "
+  },
+  "UKLL": {
+    "lat": 49.8125,
+    "long": 23.9561004639,
+    "name": "Lviv International "
+  },
+  "UKLN": {
+    "lat": 48.2593002319,
+    "long": 25.9808006287,
+    "name": "Chernivtsi International "
+  },
+  "UKLR": {
+    "lat": 50.6071014404,
+    "long": 26.1415996552,
+    "name": "Rivne International "
+  },
+  "UKLT": {
+    "lat": 49.5242004395,
+    "long": 25.7000999451,
+    "name": "Ternopil International "
+  },
+  "UKLU": {
+    "lat": 48.6343002319,
+    "long": 22.2633991241,
+    "name": "Uzhhorod International "
+  },
+  "UKOH": {
+    "lat": 46.6758003235,
+    "long": 32.506401062,
+    "name": "Chernobayevka "
+  },
+  "UKOI": {
+    "lat": 45.3916664124,
+    "long": 28.8016662598,
+    "name": "Izmail "
+  },
+  "UKOM": {
+    "lat": 46.6691665649,
+    "long": 30.0111103058,
+    "name": "Limans'Ke "
+  },
+  "UKON": {
+    "lat": 47.0578994751,
+    "long": 31.9197998047,
+    "name": "Mykolaiv International "
+  },
+  "UKOO": {
+    "lat": 46.4267997742,
+    "long": 30.6765003204,
+    "name": "Odessa International "
+  },
+  "UKWW": {
+    "lat": 49.242531,
+    "long": 28.613778,
+    "name": "Vinnytsia/Gavyryshivka "
+  },
+  "URFB": {
+    "lat": 44.688999176,
+    "long": 33.5709991455,
+    "name": "Belbek "
+  }
+}

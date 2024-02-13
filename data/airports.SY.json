@@ -1,0 +1,82 @@
+{
+  "OS58": {
+    "lat": 35.1181983948,
+    "long": 36.7112007141,
+    "name": "Hamah Air Base"
+  },
+  "OS59": {
+    "lat": 35.754699707,
+    "long": 38.5667991638,
+    "name": "Tabqa "
+  },
+  "OS61": {
+    "lat": 33.6096000671,
+    "long": 36.7490005493,
+    "name": "Dumayr Air Base"
+  },
+  "OS62": {
+    "lat": 36.096698761,
+    "long": 37.9365005493,
+    "name": "Jirah Air Base"
+  },
+  "OS63": {
+    "lat": 33.2864990234,
+    "long": 36.4574012756,
+    "name": "Marj Ruhayyil Air Base"
+  },
+  "OS65": {
+    "lat": 34.4902992249,
+    "long": 36.9090003967,
+    "name": "Shayrat Air Base"
+  },
+  "OS66": {
+    "lat": 36.1870994568,
+    "long": 37.5831985474,
+    "name": "Rasin El Aboud "
+  },
+  "OS67": {
+    "lat": 33.4775009155,
+    "long": 36.223400116,
+    "name": "Mezze "
+  },
+  "OS68": {
+    "lat": 33.6823997498,
+    "long": 37.2139015198,
+    "name": "Saiqal Air Base"
+  },
+  "OS73": {
+    "lat": 32.7867012024,
+    "long": 35.7179985046,
+    "name": "Al Al "
+  },
+  "OSAP": {
+    "lat": 36.1806983948,
+    "long": 37.2243995667,
+    "name": "Aleppo International "
+  },
+  "OSDI": {
+    "lat": 33.4114990234,
+    "long": 36.5155982971,
+    "name": "Damascus International "
+  },
+  "OSDZ": {
+    "lat": 35.2854003906,
+    "long": 40.1759986877,
+    "name": "Deir ez-Zor "
+  },
+  "OSKL": {
+    "lat": 37.0205993652,
+    "long": 41.1913986206,
+    "name": "Kamishly "
+  },
+  "OSLK": {
+    "lat": 35.4011001587,
+    "long": 35.9486999512,
+    "name": "Bassel Al-Assad International "
+  },
+  "OSPR": {
+    "lat": 34.5573997498,
+    "long": 38.3168983459,
+    "name": "Palmyra "
+  }
+}

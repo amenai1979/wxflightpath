@@ -1,0 +1,47 @@
+{
+  "HDAG": {
+    "lat": 12.1999998093,
+    "long": 42.6333007813,
+    "name": "Assa-Gueyla "
+  },
+  "HDAM": {
+    "lat": 11.5473003387,
+    "long": 43.1595001221,
+    "name": "Djibouti-Ambouli "
+  },
+  "HDAS": {
+    "lat": 11.1468888889,
+    "long": 42.72,
+    "name": "Ali-Sabieh "
+  },
+  "HDCH": {
+    "lat": 11.5167999268,
+    "long": 43.0614013672,
+    "name": "Chabelley "
+  },
+  "HDDK": {
+    "lat": 11.1000003815,
+    "long": 42.3499984741,
+    "name": "Dikhil "
+  },
+  "HDHE": {
+    "lat": 12.4333333969,
+    "long": 43.2999992371,
+    "name": "Herkale "
+  },
+  "HDMO": {
+    "lat": 11.7166671753,
+    "long": 43.2000007629,
+    "name": "Moucha "
+  },
+  "HDOB": {
+    "lat": 11.9670000076,
+    "long": 43.266998291,
+    "name": "Obock "
+  },
+  "HDTJ": {
+    "lat": 11.7829999924,
+    "long": 42.9169998169,
+    "name": "Tadjoura "
+  }
+}

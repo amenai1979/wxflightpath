@@ -1,0 +1,162 @@
+{
+  "PKSA": {
+    "lat": 5.1727547646,
+    "long": -59.491481781,
+    "name": "Kaieteur International "
+  },
+  "SYAH": {
+    "lat": 2.4865300655,
+    "long": -59.3134002686,
+    "name": "Aishalton "
+  },
+  "SYAN": {
+    "lat": 3.9594399929,
+    "long": -59.1241989136,
+    "name": "Annai "
+  },
+  "SYAP": {
+    "lat": 4.013879776,
+    "long": -58.6049995422,
+    "name": "Apoteri "
+  },
+  "SYAW": {
+    "lat": 2.6500000954,
+    "long": -59.2000007629,
+    "name": "Awaruwaunau "
+  },
+  "SYBE": {
+    "lat": 7.6999998093,
+    "long": -59.1666603088,
+    "name": "Bemichi "
+  },
+  "SYBR": {
+    "lat": 7.3701200485,
+    "long": -60.4879989624,
+    "name": "Baramita "
+  },
+  "SYBT": {
+    "lat": 6.3747701645,
+    "long": -58.6380996704,
+    "name": "Bartica A "
+  },
+  "SYCJ": {
+    "lat": 6.4985499382,
+    "long": -58.2541007996,
+    "name": "Cheddi Jagan International "
+  },
+  "SYEB": {
+    "lat": 5.617000103,
+    "long": -57.766998291,
+    "name": "Ebini "
+  },
+  "SYGO": {
+    "lat": 6.8062801361,
+    "long": -58.1058998108,
+    "name": "Ogle "
+  },
+  "SYIB": {
+    "lat": 5.7081098557,
+    "long": -60.2942008972,
+    "name": "Imbaimadai "
+  },
+  "SYKK": {
+    "lat": 4.7170000076,
+    "long": -59.983001709,
+    "name": "Kurukabaru "
+  },
+  "SYKM": {
+    "lat": 5.8653402328,
+    "long": -60.614200592,
+    "name": "Kamarang "
+  },
+  "SYKR": {
+    "lat": 3.751940012,
+    "long": -59.3097000122,
+    "name": "Karanambo "
+  },
+  "SYKS": {
+    "lat": 4.0333299637,
+    "long": -59.5332984924,
+    "name": "Karasabai "
+  },
+  "SYKT": {
+    "lat": 4.6491599083,
+    "long": -59.8321990967,
+    "name": "Kato "
+  },
+  "SYKW": {
+    "lat": 5.2833299637,
+    "long": -58.0499992371,
+    "name": "Kwakwani "
+  },
+  "SYLD": {
+    "lat": 5.9659199715,
+    "long": -58.2703018188,
+    "name": "Linden "
+  },
+  "SYLP": {
+    "lat": 2.3939299583,
+    "long": -59.4410018921,
+    "name": "Lumid Pau "
+  },
+  "SYLT": {
+    "lat": 3.3727600574,
+    "long": -59.7893981934,
+    "name": "Lethem "
+  },
+  "SYMB": {
+    "lat": 8.1999998093,
+    "long": -59.7832984924,
+    "name": "Mabaruma "
+  },
+  "SYMD": {
+    "lat": 5.277490139,
+    "long": -59.1511001587,
+    "name": "Mahdia "
+  },
+  "SYMM": {
+    "lat": 4.4833297729,
+    "long": -59.6833000183,
+    "name": "Monkey Mountain "
+  },
+  "SYMN": {
+    "lat": 3.4330000877,
+    "long": -59.5670013428,
+    "name": "Manari "
+  },
+  "SYMP": {
+    "lat": 3,
+    "long": -59.6329994202,
+    "name": "Mountain Point "
+  },
+  "SYMR": {
+    "lat": 7.488112,
+    "long": -60.184777,
+    "name": "Matthews Ridge "
+  },
+  "SYMW": {
+    "lat": 2.7297699451,
+    "long": -59.1497001648,
+    "name": "Marurawana "
+  },
+  "SYNA": {
+    "lat": 6.244324,
+    "long": -57.474172,
+    "name": "New Amsterdam "
+  },
+  "SYOR": {
+    "lat": 4.7252697945,
+    "long": -60.0349998474,
+    "name": "Orinduik "
+  },
+  "SYPR": {
+    "lat": 5.8154501915,
+    "long": -61.0554008484,
+    "name": "Paruma "
+  },
+  "SYWI": {
+    "lat": 2.8666698933,
+    "long": -59.5332984924,
+    "name": "Wichabai "
+  }
+}

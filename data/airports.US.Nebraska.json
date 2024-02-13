@@ -1,0 +1,1448 @@
+{
+    "01NE": {
+        "lat": 40.8436012268,
+        "long": -100.6529998779,
+        "name": "Detour ",
+        "state": "Nebraska"
+    },
+    "02NE": {
+        "lat": 41.0745010376,
+        "long": -96.9045028687,
+        "name": "Benes Service ",
+        "state": "Nebraska"
+    },
+    "03NE": {
+        "lat": 41.5463981628,
+        "long": -99.331199646,
+        "name": "Hyde Ranch ",
+        "state": "Nebraska"
+    },
+    "04NE": {
+        "lat": 41.1599998474,
+        "long": -101.299003601,
+        "name": "Mc Connell Field ",
+        "state": "Nebraska"
+    },
+    "05NE": {
+        "lat": 41.7221984863,
+        "long": -98.3089981079,
+        "name": "Mc Kay ",
+        "state": "Nebraska"
+    },
+    "08NE": {
+        "lat": 42.4317016602,
+        "long": -97.079498291,
+        "name": "Laurel Municipal ",
+        "state": "Nebraska"
+    },
+    "09NE": {
+        "lat": 41.3333015442,
+        "long": -96.1936035156,
+        "name": "Summer Hill Farm ",
+        "state": "Nebraska"
+    },
+    "0NE0": {
+        "lat": 41.8499984741,
+        "long": -101.9499969482,
+        "name": "Merrihew ",
+        "state": "Nebraska"
+    },
+    "0NE1": {
+        "lat": 42.4071998596,
+        "long": -101.9319992065,
+        "name": "Runner Landing Area ",
+        "state": "Nebraska"
+    },
+    "0NE2": {
+        "lat": 41.8666000366,
+        "long": -101.9169998169,
+        "name": "Merry ",
+        "state": "Nebraska"
+    },
+    "0NE5": {
+        "lat": 41.0210990906,
+        "long": -102.0179977417,
+        "name": "Newman ",
+        "state": "Nebraska"
+    },
+    "0NE6": {
+        "lat": 40.4333000183,
+        "long": -98.070602417,
+        "name": "Frager Field",
+        "state": "Nebraska"
+    },
+    "11NE": {
+        "lat": 42.4425010681,
+        "long": -103.9160003662,
+        "name": "Kaan ",
+        "state": "Nebraska"
+    },
+    "12NE": {
+        "lat": 41.9066009521,
+        "long": -103.6999969482,
+        "name": "Reisig Brothers ",
+        "state": "Nebraska"
+    },
+    "13NE": {
+        "lat": 40.3166999817,
+        "long": -100.8089981079,
+        "name": "Hock ",
+        "state": "Nebraska"
+    },
+    "14NE": {
+        "lat": 40.8624992371,
+        "long": -98.064201355,
+        "name": "Aaron's Field",
+        "state": "Nebraska"
+    },
+    "15NE": {
+        "lat": 40.2910995483,
+        "long": -98.8234024048,
+        "name": "Sindt ",
+        "state": "Nebraska"
+    },
+    "16NE": {
+        "lat": 40.5600013733,
+        "long": -96.4916992188,
+        "name": "Korver ",
+        "state": "Nebraska"
+    },
+    "18NE": {
+        "lat": 40.5139007568,
+        "long": -97.6106033325,
+        "name": "Doc's ",
+        "state": "Nebraska"
+    },
+    "19NE": {
+        "lat": 40.1082992554,
+        "long": -100.8089981079,
+        "name": "Hoyt ",
+        "state": "Nebraska"
+    },
+    "1NE0": {
+        "lat": 42.3166999817,
+        "long": -100.4169998169,
+        "name": "Higgins Bros ",
+        "state": "Nebraska"
+    },
+    "1NE1": {
+        "lat": 41.28329849,
+        "long": -100.0500031,
+        "name": "Paul Ridder Ranch ",
+        "state": "Nebraska"
+    },
+    "1NE2": {
+        "lat": 41.3250007629,
+        "long": -99.917098999,
+        "name": "Witthuhn ",
+        "state": "Nebraska"
+    },
+    "1NE5": {
+        "lat": 41.4061012268,
+        "long": -96.2855987549,
+        "name": "Sibbernsen ",
+        "state": "Nebraska"
+    },
+    "1NE6": {
+        "lat": 41.340801239,
+        "long": -102.7779998779,
+        "name": "Miller Airstrip",
+        "state": "Nebraska"
+    },
+    "21NE": {
+        "lat": 40.0041999817,
+        "long": -97.7731018066,
+        "name": "Byron ",
+        "state": "Nebraska"
+    },
+    "22NE": {
+        "lat": 40.297000885,
+        "long": -97.7981033325,
+        "name": "Grone ",
+        "state": "Nebraska"
+    },
+    "23NE": {
+        "lat": 41.1291999817,
+        "long": -97.5775985718,
+        "name": "Stromsburg Municipal ",
+        "state": "Nebraska"
+    },
+    "24NE": {
+        "lat": 42.3838996887,
+        "long": -102.4390029907,
+        "name": "Orr ",
+        "state": "Nebraska"
+    },
+    "25NE": {
+        "lat": 41.7240982056,
+        "long": -103.5110015869,
+        "name": "Corr ",
+        "state": "Nebraska"
+    },
+    "27NE": {
+        "lat": 40.7228012085,
+        "long": -101.7959976196,
+        "name": "Hendricks Field",
+        "state": "Nebraska"
+    },
+    "28NE": {
+        "lat": 42.4416999817,
+        "long": -97.2966995239,
+        "name": "Thies ",
+        "state": "Nebraska"
+    },
+    "29NE": {
+        "lat": 40.761100769,
+        "long": -101.1809997559,
+        "name": "Bartmess ",
+        "state": "Nebraska"
+    },
+    "2NE0": {
+        "lat": 40.6967010498,
+        "long": -99.8342971802,
+        "name": "Johnson Lake ",
+        "state": "Nebraska"
+    },
+    "2NE4": {
+        "lat": 42.4500007629,
+        "long": -102.1340026855,
+        "name": "Spring Lake ",
+        "state": "Nebraska"
+    },
+    "2NE5": {
+        "lat": 40.9000015259,
+        "long": -100.0950012207,
+        "name": "Fiese Airstrip",
+        "state": "Nebraska"
+    },
+    "2NE6": {
+        "lat": 40.9207992554,
+        "long": -101.2969970703,
+        "name": "Coppersmith ",
+        "state": "Nebraska"
+    },
+    "2NE7": {
+        "lat": 40.851398468,
+        "long": -101.9430007935,
+        "name": "Kumor ",
+        "state": "Nebraska"
+    },
+    "30NE": {
+        "lat": 40.3558006287,
+        "long": -98.6830978394,
+        "name": "Rs Ag-Land ",
+        "state": "Nebraska"
+    },
+    "31NE": {
+        "lat": 42.7550010681,
+        "long": -97.7051010132,
+        "name": "Grimm Farm ",
+        "state": "Nebraska"
+    },
+    "32NE": {
+        "lat": 41.7210998535,
+        "long": -100.087997437,
+        "name": "Mc Ginn Ranch ",
+        "state": "Nebraska"
+    },
+    "33NE": {
+        "lat": 42.386100769,
+        "long": -102.5749969482,
+        "name": "Orr Ranch ",
+        "state": "Nebraska"
+    },
+    "34NE": {
+        "lat": 41.2238998413,
+        "long": -100.9349975586,
+        "name": "Evans Ranch ",
+        "state": "Nebraska"
+    },
+    "35NE": {
+        "lat": 41.0499992371,
+        "long": -101.8050003052,
+        "name": "Shelburnes ",
+        "state": "Nebraska"
+    },
+    "36NE": {
+        "lat": 42.5141983032,
+        "long": -97.5809020996,
+        "name": "Frevert Airstrip",
+        "state": "Nebraska"
+    },
+    "37NE": {
+        "lat": 40.60779953,
+        "long": -96.307800293,
+        "name": "Watermeier ",
+        "state": "Nebraska"
+    },
+    "38NE": {
+        "lat": 40.7536010742,
+        "long": -97.8514022827,
+        "name": "Boardman Aerial ",
+        "state": "Nebraska"
+    },
+    "3NE2": {
+        "lat": 42.3277015686,
+        "long": -103.1940002441,
+        "name": "Phillips Private ",
+        "state": "Nebraska"
+    },
+    "3NE3": {
+        "lat": 40.5,
+        "long": -99.3170013428,
+        "name": "Wells ",
+        "state": "Nebraska"
+    },
+    "3NE6": {
+        "lat": 42.9667015076,
+        "long": -99.266998291,
+        "name": "Burkinshaw Field",
+        "state": "Nebraska"
+    },
+    "3NE7": {
+        "lat": 41.8291015625,
+        "long": -102.3430023193,
+        "name": "Pawlet Ranch ",
+        "state": "Nebraska"
+    },
+    "3NE9": {
+        "lat": 41.0410995483,
+        "long": -103.0680007935,
+        "name": "Phelps ",
+        "state": "Nebraska"
+    },
+    "40NE": {
+        "lat": 41.9749984741,
+        "long": -98.5158996582,
+        "name": "Landgren Ranch ",
+        "state": "Nebraska"
+    },
+    "41NE": {
+        "lat": 42.1556015015,
+        "long": -98.5003967285,
+        "name": "Vandersnick ",
+        "state": "Nebraska"
+    },
+    "42NE": {
+        "lat": 41.4343986511,
+        "long": -101.6809997559,
+        "name": "Packard Ranch ",
+        "state": "Nebraska"
+    },
+    "43NE": {
+        "lat": 40.7750015259,
+        "long": -99.1547012329,
+        "name": "Onion Crest Airpark",
+        "state": "Nebraska"
+    },
+    "46NE": {
+        "lat": 40.8964004517,
+        "long": -101.5049972534,
+        "name": "Jantzen ",
+        "state": "Nebraska"
+    },
+    "49NE": {
+        "lat": 41.0652999878,
+        "long": -100.7279968262,
+        "name": "Harden Airstrip",
+        "state": "Nebraska"
+    },
+    "4NE0": {
+        "lat": 40.9160995483,
+        "long": -101.5599975586,
+        "name": "Regier Brothers ",
+        "state": "Nebraska"
+    },
+    "4NE1": {
+        "lat": 41.7541999817,
+        "long": -99.7546005249,
+        "name": "Mc Millan Ranch ",
+        "state": "Nebraska"
+    },
+    "4NE8": {
+        "lat": 40.3828010559,
+        "long": -101.1520004272,
+        "name": "Malone M-Bar Ranch ",
+        "state": "Nebraska"
+    },
+    "4NE9": {
+        "lat": 40.9991989136,
+        "long": -101.4469985962,
+        "name": "Holzfaster's ",
+        "state": "Nebraska"
+    },
+    "50NE": {
+        "lat": 40.9399986267,
+        "long": -98.0781021118,
+        "name": "Elge Field",
+        "state": "Nebraska"
+    },
+    "51NE": {
+        "lat": 41.4707984924,
+        "long": -96.0211029053,
+        "name": "Bil Lo ",
+        "state": "Nebraska"
+    },
+    "52NE": {
+        "lat": 42.0449981689,
+        "long": -103.966003418,
+        "name": "Svitak ",
+        "state": "Nebraska"
+    },
+    "53NE": {
+        "lat": 41.081401825,
+        "long": -96.4033966064,
+        "name": "Starns Brothers ",
+        "state": "Nebraska"
+    },
+    "56NE": {
+        "lat": 41.0327987671,
+        "long": -98.81199646,
+        "name": "Noble Field",
+        "state": "Nebraska"
+    },
+    "57NE": {
+        "lat": 42.9241981506,
+        "long": -101.6940002441,
+        "name": "Cole Memorial ",
+        "state": "Nebraska"
+    },
+    "59NE": {
+        "lat": 41.0811004639,
+        "long": -98.6295013428,
+        "name": "Nelson ",
+        "state": "Nebraska"
+    },
+    "5NE1": {
+        "lat": 41.5499992371,
+        "long": -100.8339996338,
+        "name": "Trumbull Ranch ",
+        "state": "Nebraska"
+    },
+    "5NE2": {
+        "lat": 40.1958007813,
+        "long": -95.6294021606,
+        "name": "Eickhoff Strip",
+        "state": "Nebraska"
+    },
+    "5NE3": {
+        "lat": 41.4874992371,
+        "long": -100.4879989624,
+        "name": "Diamond Bar Jones ",
+        "state": "Nebraska"
+    },
+    "5NE4": {
+        "lat": 41.5722007751,
+        "long": -101.1719970703,
+        "name": "Snyder Ranch ",
+        "state": "Nebraska"
+    },
+    "5NE5": {
+        "lat": 41.2066993713,
+        "long": -101.1429977417,
+        "name": "Trego ",
+        "state": "Nebraska"
+    },
+    "5NE6": {
+        "lat": 40.25,
+        "long": -101.0999984741,
+        "name": "Bakers Acres ",
+        "state": "Nebraska"
+    },
+    "5NE9": {
+        "lat": 40.7332992554,
+        "long": -102.0500030518,
+        "name": "Dodson Brothers ",
+        "state": "Nebraska"
+    },
+    "62NE": {
+        "lat": 40.4474983215,
+        "long": -100.7929992676,
+        "name": "Beebe ",
+        "state": "Nebraska"
+    },
+    "67NE": {
+        "lat": 40.1370010376,
+        "long": -99.4983978271,
+        "name": "L J Bose Airstrip",
+        "state": "Nebraska"
+    },
+    "68NE": {
+        "lat": 40.9914016724,
+        "long": -96.6196975708,
+        "name": "Hall-Feld ",
+        "state": "Nebraska"
+    },
+    "6NE0": {
+        "lat": 40.7868995667,
+        "long": -101.1660003662,
+        "name": "Van Boening ",
+        "state": "Nebraska"
+    },
+    "6NE7": {
+        "lat": 40.2444000244,
+        "long": -100.3379974365,
+        "name": "Lee Field",
+        "state": "Nebraska"
+    },
+    "6NE8": {
+        "lat": 40.0868988037,
+        "long": -101.5690002441,
+        "name": "Hoppy's ",
+        "state": "Nebraska"
+    },
+    "6NE9": {
+        "lat": 41.2681007385,
+        "long": -99.8879013062,
+        "name": "Hoesel ",
+        "state": "Nebraska"
+    },
+    "71NE": {
+        "lat": 41.0355987549,
+        "long": -99.8298034668,
+        "name": "Neben ",
+        "state": "Nebraska"
+    },
+    "72NE": {
+        "lat": 41.0792007446,
+        "long": -96.1530990601,
+        "name": "J&J ",
+        "state": "Nebraska"
+    },
+    "73NE": {
+        "lat": 41.0266990662,
+        "long": -96.5306015015,
+        "name": "Bornmann Field",
+        "state": "Nebraska"
+    },
+    "75NE": {
+        "lat": 41.4458007813,
+        "long": -95.956703186,
+        "name": "Heaton ",
+        "state": "Nebraska"
+    },
+    "78NE": {
+        "lat": 41.1660995483,
+        "long": -97.0314025879,
+        "name": "Stava ",
+        "state": "Nebraska"
+    },
+    "7NE2": {
+        "lat": 42.2583007813,
+        "long": -103.5299987793,
+        "name": "Plainsview Ranch ",
+        "state": "Nebraska"
+    },
+    "7NE5": {
+        "lat": 41.0666999817,
+        "long": -101.3679962158,
+        "name": "Lierley Farms ",
+        "state": "Nebraska"
+    },
+    "7NE6": {
+        "lat": 41.011100769,
+        "long": -97.8114013672,
+        "name": "Merchant Homestead ",
+        "state": "Nebraska"
+    },
+    "80NE": {
+        "lat": 40.2817001343,
+        "long": -97.8542022705,
+        "name": "R & R Farms ",
+        "state": "Nebraska"
+    },
+    "81NE": {
+        "lat": 40.273601532,
+        "long": -99.0078964233,
+        "name": "Bunger Field",
+        "state": "Nebraska"
+    },
+    "83NE": {
+        "lat": 42.3250007629,
+        "long": -99.7559967041,
+        "name": "Abbott ",
+        "state": "Nebraska"
+    },
+    "84NE": {
+        "lat": 40.1707992554,
+        "long": -99.8171005249,
+        "name": "Hewetts ",
+        "state": "Nebraska"
+    },
+    "85NE": {
+        "lat": 40.0208015442,
+        "long": -97.9420013428,
+        "name": "Meyers Freedom Flight Hardy ",
+        "state": "Nebraska"
+    },
+    "86NE": {
+        "lat": 41.5416984558,
+        "long": -96.2739028931,
+        "name": "Orum Aerodrome",
+        "state": "Nebraska"
+    },
+    "87NE": {
+        "lat": 40.8092002869,
+        "long": -97.5877990723,
+        "name": "Knox Landing ",
+        "state": "Nebraska"
+    },
+    "88NE": {
+        "lat": 40.4039001465,
+        "long": -96.0171966553,
+        "name": "Ensor Field",
+        "state": "Nebraska"
+    },
+    "89NE": {
+        "lat": 41.17029953,
+        "long": -101.0009994507,
+        "name": "George ",
+        "state": "Nebraska"
+    },
+    "8NE2": {
+        "lat": 41.0416984558,
+        "long": -96.0335998535,
+        "name": "P & R ",
+        "state": "Nebraska"
+    },
+    "8NE3": {
+        "lat": 40.4818992615,
+        "long": -101.81300354,
+        "name": "Smith Field",
+        "state": "Nebraska"
+    },
+    "8NE4": {
+        "lat": 40.8708000183,
+        "long": -96.2919998169,
+        "name": "Bornemeier Airstrip",
+        "state": "Nebraska"
+    },
+    "8NE5": {
+        "lat": 41.790599823,
+        "long": -98.7297973633,
+        "name": "X1 Ranch ",
+        "state": "Nebraska"
+    },
+    "8NE6": {
+        "lat": 40.1208000183,
+        "long": -98.9253997803,
+        "name": "Franklin's Plainview ",
+        "state": "Nebraska"
+    },
+    "8NE7": {
+        "lat": 40.0999984741,
+        "long": -99.0003967285,
+        "name": "Smith ",
+        "state": "Nebraska"
+    },
+    "8NE9": {
+        "lat": 41.3903007507,
+        "long": -97.9645004272,
+        "name": "C A M P ",
+        "state": "Nebraska"
+    },
+    "95NE": {
+        "lat": 41.9928016663,
+        "long": -99.4553985596,
+        "name": "W Meeks Ranch ",
+        "state": "Nebraska"
+    },
+    "98NE": {
+        "lat": 40.4542007446,
+        "long": -98.3044967651,
+        "name": "Munsterman ",
+        "state": "Nebraska"
+    },
+    "9NE1": {
+        "lat": 41.1444015503,
+        "long": -101.9270019531,
+        "name": "El-Co ",
+        "state": "Nebraska"
+    },
+    "9NE2": {
+        "lat": 40.2916984558,
+        "long": -97.7225036621,
+        "name": "Folkerts ",
+        "state": "Nebraska"
+    },
+    "9NE3": {
+        "lat": 42.1875,
+        "long": -101.7890014648,
+        "name": "Davis Ranch ",
+        "state": "Nebraska"
+    },
+    "9NE4": {
+        "lat": 41.7033004761,
+        "long": -97.7444992065,
+        "name": "Johnston Field",
+        "state": "Nebraska"
+    },
+    "9NE6": {
+        "lat": 41.3382987976,
+        "long": -96.0880966187,
+        "name": "Bates Airpark",
+        "state": "Nebraska"
+    },
+    "9NE7": {
+        "lat": 41.4333000183,
+        "long": -100.4840011597,
+        "name": "Bay Field",
+        "state": "Nebraska"
+    },
+    "9NE8": {
+        "lat": 41.4016990662,
+        "long": -100.4789962769,
+        "name": "Brosius Field",
+        "state": "Nebraska"
+    },
+    "9NE9": {
+        "lat": 40.1944007874,
+        "long": -97.5670013428,
+        "name": "Dog Leg ",
+        "state": "Nebraska"
+    },
+    "K08K": {
+        "lat": 40.6514015198,
+        "long": -98.0798034668,
+        "name": "Harvard State ",
+        "state": "Nebraska"
+    },
+    "K09K": {
+        "lat": 41.6370010376,
+        "long": -99.3404006958,
+        "name": "Sargent Municipal ",
+        "state": "Nebraska"
+    },
+    "K0B4": {
+        "lat": 42.6035995483,
+        "long": -97.2526016235,
+        "name": "Hartington Municipal ",
+        "state": "Nebraska"
+    },
+    "K0C4": {
+        "lat": 42.11389923,
+        "long": -96.72889709,
+        "name": "Pender Municipal ",
+        "state": "Nebraska"
+    },
+    "K0F4": {
+        "lat": 41.2902984619,
+        "long": -98.9906005859,
+        "name": "Loup City Municipal ",
+        "state": "Nebraska"
+    },
+    "K0G3": {
+        "lat": 40.3993988,
+        "long": -96.17140198,
+        "name": "Tecumseh Municipal ",
+        "state": "Nebraska"
+    },
+    "K0J9": {
+        "lat": 40.8678016663,
+        "long": -97.3542022705,
+        "name": "Flying V ",
+        "state": "Nebraska"
+    },
+    "K0V3": {
+        "lat": 40.5149002075,
+        "long": -98.945602417,
+        "name": "Pioneer Village Field",
+        "state": "Nebraska"
+    },
+    "K12K": {
+        "lat": 40.0463981628,
+        "long": -98.0600967407,
+        "name": "Superior Municipal ",
+        "state": "Nebraska"
+    },
+    "K1V2": {
+        "lat": 42.0093994141,
+        "long": -101.7689971924,
+        "name": "Grant County ",
+        "state": "Nebraska"
+    },
+    "K42V": {
+        "lat": 40.0579986572,
+        "long": -101.5469970703,
+        "name": "Jones ",
+        "state": "Nebraska"
+    },
+    "K47V": {
+        "lat": 40.63750076,
+        "long": -100.4710007,
+        "name": "Curtis Municipal ",
+        "state": "Nebraska"
+    },
+    "K4V9": {
+        "lat": 42.11220169,
+        "long": -98.03869629,
+        "name": "Antelope County ",
+        "state": "Nebraska"
+    },
+    "K6K3": {
+        "lat": 42.47079849,
+        "long": -97.88369751,
+        "name": "Creighton Municipal ",
+        "state": "Nebraska"
+    },
+    "K7K8": {
+        "lat": 42.4542007446,
+        "long": -96.4725036621,
+        "name": "Martin Field",
+        "state": "Nebraska"
+    },
+    "K7V7": {
+        "lat": 40.08470154,
+        "long": -98.54060364,
+        "name": "Red Cloud Municipal ",
+        "state": "Nebraska"
+    },
+    "K8V2": {
+        "lat": 42.5625,
+        "long": -99.037902832,
+        "name": "Stuart Atkinson Municipal ",
+        "state": "Nebraska"
+    },
+    "K93Y": {
+        "lat": 41.23089981,
+        "long": -97.12290192,
+        "name": "David City Municipal ",
+        "state": "Nebraska"
+    },
+    "K9V5": {
+        "lat": 42.73749924,
+        "long": -102.4449997,
+        "name": "Modisett ",
+        "state": "Nebraska"
+    },
+    "KAFK": {
+        "lat": 40.60689926,
+        "long": -95.86569977,
+        "name": "Nebraska City Municipal ",
+        "state": "Nebraska"
+    },
+    "KAHQ": {
+        "lat": 41.2412986755,
+        "long": -96.59400177,
+        "name": "Wahoo Municipal ",
+        "state": "Nebraska"
+    },
+    "KAIA": {
+        "lat": 42.0531997681,
+        "long": -102.804000854,
+        "name": "Alliance Municipal ",
+        "state": "Nebraska"
+    },
+    "KANW": {
+        "lat": 42.5792007446,
+        "long": -99.9929962158,
+        "name": "Ainsworth Municipal ",
+        "state": "Nebraska"
+    },
+    "KAUH": {
+        "lat": 40.89410019,
+        "long": -97.99459839,
+        "name": "Aurora Municipal Al Potter Field",
+        "state": "Nebraska"
+    },
+    "KBBW": {
+        "lat": 41.4365005493,
+        "long": -99.6421966553,
+        "name": "Broken Bow Municipal ",
+        "state": "Nebraska"
+    },
+    "KBFF": {
+        "lat": 41.87400055,
+        "long": -103.5960007,
+        "name": "Western Neb. Rgnl/William B. Heilig ",
+        "state": "Nebraska"
+    },
+    "KBIE": {
+        "lat": 40.3013000488,
+        "long": -96.7540969849,
+        "name": "Beatrice Municipal ",
+        "state": "Nebraska"
+    },
+    "KBTA": {
+        "lat": 41.4180984497,
+        "long": -96.1136016846,
+        "name": "Blair Municipal ",
+        "state": "Nebraska"
+    },
+    "KBUB": {
+        "lat": 41.7766990662,
+        "long": -99.1496963501,
+        "name": "Cram Field",
+        "state": "Nebraska"
+    },
+    "KBVN": {
+        "lat": 41.7285995483,
+        "long": -98.0558013916,
+        "name": "Albion Municipal ",
+        "state": "Nebraska"
+    },
+    "KCDR": {
+        "lat": 42.837600708,
+        "long": -103.095001221,
+        "name": "Chadron Municipal ",
+        "state": "Nebraska"
+    },
+    "KCEK": {
+        "lat": 40.61790085,
+        "long": -96.92489624,
+        "name": "Crete Municipal ",
+        "state": "Nebraska"
+    },
+    "KCNP": {
+        "lat": 41.0774993896,
+        "long": -102.4639968872,
+        "name": "Billy G Ray Field",
+        "state": "Nebraska"
+    },
+    "KCSB": {
+        "lat": 40.3065986633,
+        "long": -100.1620025635,
+        "name": "Cambridge Municipal ",
+        "state": "Nebraska"
+    },
+    "KCZD": {
+        "lat": 40.86909866,
+        "long": -100.0039978,
+        "name": "Cozad Municipal ",
+        "state": "Nebraska"
+    },
+    "KEAR": {
+        "lat": 40.72700119,
+        "long": -99.00679779,
+        "name": "Kearney Regional ",
+        "state": "Nebraska"
+    },
+    "KFBY": {
+        "lat": 40.1829986572,
+        "long": -97.1692962646,
+        "name": "Fairbury Municipal ",
+        "state": "Nebraska"
+    },
+    "KFET": {
+        "lat": 41.44910049,
+        "long": -96.52020264,
+        "name": "Fremont Municipal ",
+        "state": "Nebraska"
+    },
+    "KFMZ": {
+        "lat": 40.586101532,
+        "long": -97.573097229,
+        "name": "Fairmont State Airfield",
+        "state": "Nebraska"
+    },
+    "KFNB": {
+        "lat": 40.0788002014,
+        "long": -95.5920028687,
+        "name": "Brenner Field",
+        "state": "Nebraska"
+    },
+    "KGGF": {
+        "lat": 40.86949921,
+        "long": -101.7330017,
+        "name": "Grant Municipal ",
+        "state": "Nebraska"
+    },
+    "KGRI": {
+        "lat": 40.9674987793,
+        "long": -98.3096008301,
+        "name": "Central Nebraska Regional ",
+        "state": "Nebraska"
+    },
+    "KGRN": {
+        "lat": 42.8059997559,
+        "long": -102.1750030518,
+        "name": "Gordon Municipal ",
+        "state": "Nebraska"
+    },
+    "KGTE": {
+        "lat": 40.9263000488,
+        "long": -100.1480026245,
+        "name": "Quinn Field",
+        "state": "Nebraska"
+    },
+    "KHDE": {
+        "lat": 40.45209885,
+        "long": -99.33650208,
+        "name": "Brewster Field",
+        "state": "Nebraska"
+    },
+    "KHJH": {
+        "lat": 40.1521987915,
+        "long": -97.5869979858,
+        "name": "Hebron Municipal ",
+        "state": "Nebraska"
+    },
+    "KHSI": {
+        "lat": 40.6053009033,
+        "long": -98.4279022217,
+        "name": "Hastings Municipal ",
+        "state": "Nebraska"
+    },
+    "KIBM": {
+        "lat": 41.1880989075,
+        "long": -103.6770019531,
+        "name": "Kimball Municipal Robert E Arraj Field",
+        "state": "Nebraska"
+    },
+    "KIML": {
+        "lat": 40.50930023,
+        "long": -101.6210022,
+        "name": "Imperial Municipal ",
+        "state": "Nebraska"
+    },
+    "KJYR": {
+        "lat": 40.8968009949,
+        "long": -97.6228027344,
+        "name": "York Municipal ",
+        "state": "Nebraska"
+    },
+    "KLBF": {
+        "lat": 41.12620163,
+        "long": -100.6839981,
+        "name": "North Platte Regional  Lee Bird Field",
+        "state": "Nebraska"
+    },
+    "KLCG": {
+        "lat": 42.2419013977,
+        "long": -96.9813995361,
+        "name": "Wayne Municipal ",
+        "state": "Nebraska"
+    },
+    "KLNK": {
+        "lat": 40.8510017395,
+        "long": -96.7592010498,
+        "name": "Lincoln ",
+        "state": "Nebraska"
+    },
+    "KLXN": {
+        "lat": 40.7910003662,
+        "long": -99.7772979736,
+        "name": "Jim Kelly Field",
+        "state": "Nebraska"
+    },
+    "KMCK": {
+        "lat": 40.20629883,
+        "long": -100.5920029,
+        "name": "Mc Cook Ben Nelson Regional ",
+        "state": "Nebraska"
+    },
+    "KMLE": {
+        "lat": 41.1959991455,
+        "long": -96.1119995117,
+        "name": "Millard ",
+        "state": "Nebraska"
+    },
+    "KODX": {
+        "lat": 41.6241989136,
+        "long": -98.9524002075,
+        "name": "Evelyn Sharp Field",
+        "state": "Nebraska"
+    },
+    "KOFF": {
+        "lat": 41.1183013916,
+        "long": -95.9124984741,
+        "name": "Offutt Air Force Base",
+        "state": "Nebraska"
+    },
+    "KOFK": {
+        "lat": 41.9855003357,
+        "long": -97.4350967407,
+        "name": "Karl Stefan Memorial ",
+        "state": "Nebraska"
+    },
+    "KOGA": {
+        "lat": 41.11949921,
+        "long": -101.7699966,
+        "name": "Searle Field",
+        "state": "Nebraska"
+    },
+    "KOKS": {
+        "lat": 41.4010009766,
+        "long": -102.3550033569,
+        "name": "Garden County ",
+        "state": "Nebraska"
+    },
+    "KOLU": {
+        "lat": 41.44800186,
+        "long": -97.34259796,
+        "name": "Columbus Municipal ",
+        "state": "Nebraska"
+    },
+    "KOMA": {
+        "lat": 41.3031997681,
+        "long": -95.8940963745,
+        "name": "Eppley Airfield",
+        "state": "Nebraska"
+    },
+    "KONL": {
+        "lat": 42.46989822,
+        "long": -98.68810272,
+        "name": "The O'Neill Municipal John L Baker Field",
+        "state": "Nebraska"
+    },
+    "KPMV": {
+        "lat": 40.95019913,
+        "long": -95.91790009,
+        "name": "Plattsmouth Municipal ",
+        "state": "Nebraska"
+    },
+    "KRBE": {
+        "lat": 42.5696983337,
+        "long": -99.568397522,
+        "name": "Rock County ",
+        "state": "Nebraska"
+    },
+    "KSCB": {
+        "lat": 41.6102981567,
+        "long": -96.6298980713,
+        "name": "Scribner State ",
+        "state": "Nebraska"
+    },
+    "KSNY": {
+        "lat": 41.10129929,
+        "long": -102.9850006,
+        "name": "Sidney Municipal-Lloyd W Carr Field",
+        "state": "Nebraska"
+    },
+    "KSWT": {
+        "lat": 40.86470032,
+        "long": -97.10919952,
+        "name": "Seward Municipal ",
+        "state": "Nebraska"
+    },
+    "KTIF": {
+        "lat": 41.96220016,
+        "long": -100.5690002,
+        "name": "Thomas County ",
+        "state": "Nebraska"
+    },
+    "KTQE": {
+        "lat": 41.7635002136,
+        "long": -96.1779022217,
+        "name": "Tekamah Municipal ",
+        "state": "Nebraska"
+    },
+    "KVTN": {
+        "lat": 42.85779953,
+        "long": -100.5479965,
+        "name": "Miller Field",
+        "state": "Nebraska"
+    },
+    "NE01": {
+        "lat": 40.1946983337,
+        "long": -98.3519973755,
+        "name": "Schutte ",
+        "state": "Nebraska"
+    },
+    "NE04": {
+        "lat": 40.0945014954,
+        "long": -98.3416976929,
+        "name": "Ely ",
+        "state": "Nebraska"
+    },
+    "NE06": {
+        "lat": 42.8250007629,
+        "long": -98.4253997803,
+        "name": "Woolf Brothers ",
+        "state": "Nebraska"
+    },
+    "NE08": {
+        "lat": 40.5477981567,
+        "long": -101.9779968262,
+        "name": "Larrabee ",
+        "state": "Nebraska"
+    },
+    "NE09": {
+        "lat": 41.9632987976,
+        "long": -97.467300415,
+        "name": "Simpson ",
+        "state": "Nebraska"
+    },
+    "NE11": {
+        "lat": 41.3600006104,
+        "long": -96.0402984619,
+        "name": "Durands Sky Ranch ",
+        "state": "Nebraska"
+    },
+    "NE12": {
+        "lat": 41.238899231,
+        "long": -98.2281036377,
+        "name": "Sullivan Airstrip",
+        "state": "Nebraska"
+    },
+    "NE15": {
+        "lat": 41.0499992371,
+        "long": -96.3827972412,
+        "name": "Starns Auxiliary ",
+        "state": "Nebraska"
+    },
+    "NE17": {
+        "lat": 41.2486000061,
+        "long": -98.4559020996,
+        "name": "Walts Aerial Service ",
+        "state": "Nebraska"
+    },
+    "NE18": {
+        "lat": 40.9141998291,
+        "long": -97.0805969238,
+        "name": "Krutz ",
+        "state": "Nebraska"
+    },
+    "NE19": {
+        "lat": 41.5957984924,
+        "long": -102.8170013428,
+        "name": "Ag Air ",
+        "state": "Nebraska"
+    },
+    "NE20": {
+        "lat": 40.1861000061,
+        "long": -96.2114028931,
+        "name": "Bernadt ",
+        "state": "Nebraska"
+    },
+    "NE24": {
+        "lat": 41.0332984924,
+        "long": -96.8170013428,
+        "name": "Polaks Sky Ranch ",
+        "state": "Nebraska"
+    },
+    "NE25": {
+        "lat": 41.1819000244,
+        "long": -100.8600006104,
+        "name": "Orr Field",
+        "state": "Nebraska"
+    },
+    "NE27": {
+        "lat": 41.3666992188,
+        "long": -96.950302124,
+        "name": "Abie Sky Ranch ",
+        "state": "Nebraska"
+    },
+    "NE29": {
+        "lat": 40.5139007568,
+        "long": -99.0120010376,
+        "name": "Cavanaugh ",
+        "state": "Nebraska"
+    },
+    "NE30": {
+        "lat": 40.573600769,
+        "long": -99.4204025269,
+        "name": "Olson Field",
+        "state": "Nebraska"
+    },
+    "NE31": {
+        "lat": 42.0144996643,
+        "long": -97.5864028931,
+        "name": "B.C. Air ",
+        "state": "Nebraska"
+    },
+    "NE33": {
+        "lat": 40.7097015381,
+        "long": -96.4766998291,
+        "name": "Clearidge ",
+        "state": "Nebraska"
+    },
+    "NE34": {
+        "lat": 41.038898468,
+        "long": -102.9530029297,
+        "name": "Fehringer Aerodrome",
+        "state": "Nebraska"
+    },
+    "NE35": {
+        "lat": 40.0583000183,
+        "long": -97.5411987305,
+        "name": "Sutton ",
+        "state": "Nebraska"
+    },
+    "NE37": {
+        "lat": 41.4724998474,
+        "long": -97.2714004517,
+        "name": "Loseke Airstrip",
+        "state": "Nebraska"
+    },
+    "NE38": {
+        "lat": 40.7094993591,
+        "long": -98.5600967407,
+        "name": "Aknux ",
+        "state": "Nebraska"
+    },
+    "NE39": {
+        "lat": 40.9500007629,
+        "long": -96.6502990723,
+        "name": "Warbonnet Ag Strip",
+        "state": "Nebraska"
+    },
+    "NE40": {
+        "lat": 40.715801239,
+        "long": -96.8677978516,
+        "name": "Denton Airfield",
+        "state": "Nebraska"
+    },
+    "NE42": {
+        "lat": 40.9333000183,
+        "long": -96.7005996704,
+        "name": "Dream Field",
+        "state": "Nebraska"
+    },
+    "NE43": {
+        "lat": 41.4397010803,
+        "long": -96.7542037964,
+        "name": "Musiel ",
+        "state": "Nebraska"
+    },
+    "NE44": {
+        "lat": 41.9832992554,
+        "long": -98.0837020874,
+        "name": "Koinzan ",
+        "state": "Nebraska"
+    },
+    "NE45": {
+        "lat": 40.6944007874,
+        "long": -96.577796936,
+        "name": "Stewart Field",
+        "state": "Nebraska"
+    },
+    "NE49": {
+        "lat": 41.0666999817,
+        "long": -96.2502975464,
+        "name": "Koke ",
+        "state": "Nebraska"
+    },
+    "NE50": {
+        "lat": 42.6152992249,
+        "long": -97.4103012085,
+        "name": "Sudbeck Field",
+        "state": "Nebraska"
+    },
+    "NE51": {
+        "lat": 40.6571998596,
+        "long": -96.7577972412,
+        "name": "Kohles ",
+        "state": "Nebraska"
+    },
+    "NE52": {
+        "lat": 40.0778007507,
+        "long": -97.6149978638,
+        "name": "Easton Field",
+        "state": "Nebraska"
+    },
+    "NE53": {
+        "lat": 40.5910987854,
+        "long": -96.5888977051,
+        "name": "Liesveld ",
+        "state": "Nebraska"
+    },
+    "NE54": {
+        "lat": 41.7083015442,
+        "long": -96.9794998169,
+        "name": "Dostal-Bradley ",
+        "state": "Nebraska"
+    },
+    "NE56": {
+        "lat": 41.3414001465,
+        "long": -96.3949966431,
+        "name": "Werner ",
+        "state": "Nebraska"
+    },
+    "NE57": {
+        "lat": 40.0922012329,
+        "long": -96.4781036377,
+        "name": "Thomas ",
+        "state": "Nebraska"
+    },
+    "NE59": {
+        "lat": 40.8333015442,
+        "long": -96.5670013428,
+        "name": "Pester ",
+        "state": "Nebraska"
+    },
+    "NE64": {
+        "lat": 41.1053009033,
+        "long": -96.4095001221,
+        "name": "Luetkenhaus ",
+        "state": "Nebraska"
+    },
+    "NE65": {
+        "lat": 40.766998291,
+        "long": -97.077796936,
+        "name": "Roth ",
+        "state": "Nebraska"
+    },
+    "NE69": {
+        "lat": 40.8675003052,
+        "long": -96.1100006104,
+        "name": "Browns ",
+        "state": "Nebraska"
+    },
+    "NE73": {
+        "lat": 40.7233009338,
+        "long": -101.4570007324,
+        "name": "Stinking Water Creek ",
+        "state": "Nebraska"
+    },
+    "NE79": {
+        "lat": 40.6528015137,
+        "long": -96.6211013794,
+        "name": "Mueller Field",
+        "state": "Nebraska"
+    },
+    "NE80": {
+        "lat": 40.676399231,
+        "long": -96.6391983032,
+        "name": "Weaver ",
+        "state": "Nebraska"
+    },
+    "NE82": {
+        "lat": 40.9324989319,
+        "long": -95.99949646,
+        "name": "Nolte Farms ",
+        "state": "Nebraska"
+    },
+    "NE85": {
+        "lat": 41.6871986389,
+        "long": -98.3025970459,
+        "name": "Glaser ",
+        "state": "Nebraska"
+    },
+    "NE86": {
+        "lat": 40.665599823,
+        "long": -97.8697967529,
+        "name": "Traudt ",
+        "state": "Nebraska"
+    },
+    "NE87": {
+        "lat": 40.0971984863,
+        "long": -98.0647964478,
+        "name": "Rempe Private ",
+        "state": "Nebraska"
+    },
+    "NE88": {
+        "lat": 41.0208015442,
+        "long": -96.8641967773,
+        "name": "Novotny/Tonar Farms ",
+        "state": "Nebraska"
+    },
+    "NE89": {
+        "lat": 42.5433006287,
+        "long": -97.9686965942,
+        "name": "Herberts Farm ",
+        "state": "Nebraska"
+    },
+    "NE92": {
+        "lat": 40.0494003296,
+        "long": -96.6660995483,
+        "name": "Thomsen ",
+        "state": "Nebraska"
+    },
+    "NE99": {
+        "lat": 41.5750007629,
+        "long": -101.8180007935,
+        "name": "Hawkins Ranch ",
+        "state": "Nebraska"
+    }
+}

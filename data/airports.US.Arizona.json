@@ -1,0 +1,1214 @@
+{
+    "00AZ": {
+        "lat": 34.3055992126,
+        "long": -112.1650009155,
+        "name": "Cordes ",
+        "state": "Arizona"
+    },
+    "02AZ": {
+        "lat": 32.3763999939,
+        "long": -109.93699646,
+        "name": "Winchester Farm Airstrip",
+        "state": "Arizona"
+    },
+    "03AZ": {
+        "lat": 31.4333992004,
+        "long": -110.0839996338,
+        "name": "Thompson International Aviation ",
+        "state": "Arizona"
+    },
+    "04AZ": {
+        "lat": 36.1542015076,
+        "long": -109.5510025024,
+        "name": "Chinle ",
+        "state": "Arizona"
+    },
+    "09AZ": {
+        "lat": 31.9253005981,
+        "long": -110.0380020142,
+        "name": "Stronghold ",
+        "state": "Arizona"
+    },
+    "0AZ1": {
+        "lat": 32.3008995056,
+        "long": -111.3239974976,
+        "name": "Taylor Field",
+        "state": "Arizona"
+    },
+    "0AZ2": {
+        "lat": 33.7780990601,
+        "long": -113.641998291,
+        "name": "Western Sky ",
+        "state": "Arizona"
+    },
+    "0AZ4": {
+        "lat": 32.9822998047,
+        "long": -112.2870025635,
+        "name": "Flying Bucket Ranch ",
+        "state": "Arizona"
+    },
+    "0AZ5": {
+        "lat": 33.8658981323,
+        "long": -112.6029968262,
+        "name": "Castle Well ",
+        "state": "Arizona"
+    },
+    "10AZ": {
+        "lat": 33.3664016724,
+        "long": -112.6179962158,
+        "name": "Pierce ",
+        "state": "Arizona"
+    },
+    "11AZ": {
+        "lat": 31.6837005615,
+        "long": -110.2900009155,
+        "name": "Whetstone ",
+        "state": "Arizona"
+    },
+    "12AZ": {
+        "lat": 33.8539009094,
+        "long": -112.6529998779,
+        "name": "Ranta Strip",
+        "state": "Arizona"
+    },
+    "13AZ": {
+        "lat": 33.535,
+        "long": -112.853472222,
+        "name": "Waltenberry Field Ultralightport",
+        "state": "Arizona"
+    },
+    "14AZ": {
+        "lat": 31.9083003998,
+        "long": -111.1220016479,
+        "name": "Ruby Star Airpark",
+        "state": "Arizona"
+    },
+    "15AZ": {
+        "lat": 33.7444992065,
+        "long": -114.476997375,
+        "name": "Quail Mesa Ranch ",
+        "state": "Arizona"
+    },
+    "16AZ": {
+        "lat": 34.5088996887,
+        "long": -112.6800003052,
+        "name": "Yav'pe Ma'ta ",
+        "state": "Arizona"
+    },
+    "18AZ": {
+        "lat": 33.8180999756,
+        "long": -111.8980026245,
+        "name": "Sky Ranch At Carefree ",
+        "state": "Arizona"
+    },
+    "19AZ": {
+        "lat": 34.6049995422,
+        "long": -111.8649978638,
+        "name": "Montezuma ",
+        "state": "Arizona"
+    },
+    "1AZ0": {
+        "lat": 33.1119003296,
+        "long": -112.2689971924,
+        "name": "Mobile ",
+        "state": "Arizona"
+    },
+    "1AZ2": {
+        "lat": 33.4117012024,
+        "long": -112.1819992065,
+        "name": "Paradise Air Park",
+        "state": "Arizona"
+    },
+    "1AZ8": {
+        "lat": 35.2957992554,
+        "long": -114.3730010986,
+        "name": "Willow Springs Ranch ",
+        "state": "Arizona"
+    },
+    "20AZ": {
+        "lat": 32.6833992004,
+        "long": -111.5009994507,
+        "name": "Eds Field",
+        "state": "Arizona"
+    },
+    "21AZ": {
+        "lat": 34.3522987366,
+        "long": -109.9700012207,
+        "name": "White Mountain Lake ",
+        "state": "Arizona"
+    },
+    "23AZ": {
+        "lat": 34.0195007324,
+        "long": -112.8259963989,
+        "name": "Moreton Airpark",
+        "state": "Arizona"
+    },
+    "24AZ": {
+        "lat": 34.1581001282,
+        "long": -110.9349975586,
+        "name": "Pleasant Valley Airstrip",
+        "state": "Arizona"
+    },
+    "25AZ": {
+        "lat": 31.8159008026,
+        "long": -109.0569992065,
+        "name": "Mystery Well Ranch ",
+        "state": "Arizona"
+    },
+    "26AZ": {
+        "lat": 34.0120010376,
+        "long": -113.2030029297,
+        "name": "Flying Dare's Ranch ",
+        "state": "Arizona"
+    },
+    "27AZ": {
+        "lat": 33.9194984436,
+        "long": -113.1669998169,
+        "name": "Eagle Roost Airpark",
+        "state": "Arizona"
+    },
+    "28AZ": {
+        "lat": 33.9227981567,
+        "long": -113.1809997559,
+        "name": "Sampley's ",
+        "state": "Arizona"
+    },
+    "29AZ": {
+        "lat": 32.9056015015,
+        "long": -112.9000015259,
+        "name": "Paloma Ranch ",
+        "state": "Arizona"
+    },
+    "2AZ1": {
+        "lat": 33.7592010498,
+        "long": -113.6149978638,
+        "name": "Indian Hills Airpark",
+        "state": "Arizona"
+    },
+    "2AZ3": {
+        "lat": 33.6128005981,
+        "long": -112.3349990845,
+        "name": "El Mirage-Village Square ",
+        "state": "Arizona"
+    },
+    "2AZ4": {
+        "lat": 33.0536994934,
+        "long": -112.1460037231,
+        "name": "Millar ",
+        "state": "Arizona"
+    },
+    "2AZ5": {
+        "lat": 32.8863983154,
+        "long": -112.1299972534,
+        "name": "Donnelly Residence ",
+        "state": "Arizona"
+    },
+    "2AZ7": {
+        "lat": 33.6842002869,
+        "long": -112.164001465,
+        "name": "Mc Gill's Ultralight Field",
+        "state": "Arizona"
+    },
+    "2AZ8": {
+        "lat": 31.6145000458,
+        "long": -111.0360031128,
+        "name": "Tubac Ultralight Flightpark Ultralightport",
+        "state": "Arizona"
+    },
+    "2AZ9": {
+        "lat": 31.6023006439,
+        "long": -109.6510009766,
+        "name": "Tribal Air ",
+        "state": "Arizona"
+    },
+    "30AZ": {
+        "lat": 33.25,
+        "long": -112.81300354,
+        "name": "Gila Compressor Station ",
+        "state": "Arizona"
+    },
+    "31AZ": {
+        "lat": 31.9636993408,
+        "long": -110.2600021362,
+        "name": "Benson ",
+        "state": "Arizona"
+    },
+    "33AZ": {
+        "lat": 34.7985992432,
+        "long": -112.9700012207,
+        "name": "Yolo Ranch ",
+        "state": "Arizona"
+    },
+    "34AZ": {
+        "lat": 33.2434005737,
+        "long": -111.9130020142,
+        "name": "Gila River Memorial ",
+        "state": "Arizona"
+    },
+    "35AZ": {
+        "lat": 31.8437004089,
+        "long": -110.9769973755,
+        "name": "Continental ",
+        "state": "Arizona"
+    },
+    "36AZ": {
+        "lat": 32.9936981201,
+        "long": -111.4509963989,
+        "name": "Valley Farms ",
+        "state": "Arizona"
+    },
+    "37AZ": {
+        "lat": 32.9356002808,
+        "long": -111.4850006104,
+        "name": "Sarita ",
+        "state": "Arizona"
+    },
+    "38AZ": {
+        "lat": 36.471698761,
+        "long": -110.4179992676,
+        "name": "Peabody Bedard Field",
+        "state": "Arizona"
+    },
+    "39AZ": {
+        "lat": 36.4006004333,
+        "long": -109.2570037842,
+        "name": "Lukachukai ",
+        "state": "Arizona"
+    },
+    "3AZ2": {
+        "lat": 33.0802993774,
+        "long": -111.983001709,
+        "name": "U of A Maricopa Ag Center ",
+        "state": "Arizona"
+    },
+    "3AZ5": {
+        "lat": 35.5722007751,
+        "long": -113.2919998169,
+        "name": "Hualapai ",
+        "state": "Arizona"
+    },
+    "3AZ8": {
+        "lat": 32.762298584,
+        "long": -109.6529998779,
+        "name": "High Mesa Airpark",
+        "state": "Arizona"
+    },
+    "40AZ": {
+        "lat": 33.0788993835,
+        "long": -112.1289978027,
+        "name": "Boulais Ranch ",
+        "state": "Arizona"
+    },
+    "41AZ": {
+        "lat": 32.9861984253,
+        "long": -112.0260009766,
+        "name": "Ak Chin Community Airfield",
+        "state": "Arizona"
+    },
+    "42AZ": {
+        "lat": 34.4277992249,
+        "long": -112.0650024414,
+        "name": "Orme School ",
+        "state": "Arizona"
+    },
+    "44AZ": {
+        "lat": 36.9319000244,
+        "long": -111.9700012207,
+        "name": "Sandhill Ranch ",
+        "state": "Arizona"
+    },
+    "45AZ": {
+        "lat": 35.4009017944,
+        "long": -109.2760009766,
+        "name": "Pine Springs ",
+        "state": "Arizona"
+    },
+    "46AZ": {
+        "lat": 36.0910987854,
+        "long": -110.233001709,
+        "name": "Pinon ",
+        "state": "Arizona"
+    },
+    "47AZ": {
+        "lat": 33.2242012024,
+        "long": -111.59400177,
+        "name": "Ray Schnepf Ranch ",
+        "state": "Arizona"
+    },
+    "48AZ": {
+        "lat": 34.6509017944,
+        "long": -111.7880020142,
+        "name": "Rimrock ",
+        "state": "Arizona"
+    },
+    "49AZ": {
+        "lat": 36.7318992615,
+        "long": -109.6190032959,
+        "name": "Rock Point ",
+        "state": "Arizona"
+    },
+    "4AZ0": {
+        "lat": 32.2989997864,
+        "long": -111.3170013428,
+        "name": "Palm Valley Tucson ",
+        "state": "Arizona"
+    },
+    "4AZ6": {
+        "lat": 34.9981002808,
+        "long": -113.4619979858,
+        "name": "Parsons Field",
+        "state": "Arizona"
+    },
+    "4AZ7": {
+        "lat": 33.3777999878,
+        "long": -110.4619979858,
+        "name": "San Carlos ",
+        "state": "Arizona"
+    },
+    "4AZ8": {
+        "lat": 32.2947006226,
+        "long": -111.34400177,
+        "name": "The Ultralight Strip Ultralightport",
+        "state": "Arizona"
+    },
+    "4AZ9": {
+        "lat": 32.1130981445,
+        "long": -109.7620010376,
+        "name": "Leroy ",
+        "state": "Arizona"
+    },
+    "50AZ": {
+        "lat": 36.0597000122,
+        "long": -110.5879974365,
+        "name": "Rocky Ridge ",
+        "state": "Arizona"
+    },
+    "52AZ": {
+        "lat": 35.3833007813,
+        "long": -113.3010025024,
+        "name": "X-1 Ranch Upper Headquarters ",
+        "state": "Arizona"
+    },
+    "53AZ": {
+        "lat": 36.5881004333,
+        "long": -110.6549987793,
+        "name": "Shonto ",
+        "state": "Arizona"
+    },
+    "54AZ": {
+        "lat": 32.6008987427,
+        "long": -114.6660003662,
+        "name": "Somerton ",
+        "state": "Arizona"
+    },
+    "55AZ": {
+        "lat": 32.8739013672,
+        "long": -111.9599990845,
+        "name": "Potters Field",
+        "state": "Arizona"
+    },
+    "56AZ": {
+        "lat": 33.4819984436,
+        "long": -113.0019989014,
+        "name": "Mauldin Airstrip",
+        "state": "Arizona"
+    },
+    "57AZ": {
+        "lat": 32.4467010498,
+        "long": -111.0029983521,
+        "name": "La Cholla Airpark",
+        "state": "Arizona"
+    },
+    "58AZ": {
+        "lat": 34.093611,
+        "long": -110.932778,
+        "name": "Chapman Ranch Airstrip",
+        "state": "Arizona"
+    },
+    "59AZ": {
+        "lat": 34.7444992065,
+        "long": -112.4449996948,
+        "name": "Robin STOLport",
+        "state": "Arizona"
+    },
+    "5AZ3": {
+        "lat": 33.2125015259,
+        "long": -111.6169967651,
+        "name": "Pegasus Airpark",
+        "state": "Arizona"
+    },
+    "5AZ6": {
+        "lat": 32.925,
+        "long": -112.259444,
+        "name": "Motown ",
+        "state": "Arizona"
+    },
+    "5AZ7": {
+        "lat": 32.8471984863,
+        "long": -111.9499969482,
+        "name": "Carranza Farm Airstrip",
+        "state": "Arizona"
+    },
+    "5AZ9": {
+        "lat": 33.0327987671,
+        "long": -109.9879989624,
+        "name": "Regeneration ",
+        "state": "Arizona"
+    },
+    "60AZ": {
+        "lat": 33.8381004333,
+        "long": -113.4540023804,
+        "name": "Wood's Airstrip",
+        "state": "Arizona"
+    },
+    "61AZ": {
+        "lat": 34.3697013855,
+        "long": -109.6969985962,
+        "name": "White Mountain Ultralightport",
+        "state": "Arizona"
+    },
+    "68AZ": {
+        "lat": 35.4751014709,
+        "long": -113.7689971924,
+        "name": "Music Mountain Air Ranch ",
+        "state": "Arizona"
+    },
+    "6AZ2": {
+        "lat": 34.6167984009,
+        "long": -110.6279983521,
+        "name": "Wisky Ranch/Chevlon ",
+        "state": "Arizona"
+    },
+    "6AZ5": {
+        "lat": 31.857483,
+        "long": -109.542317,
+        "name": "Ash Creek ",
+        "state": "Arizona"
+    },
+    "6AZ8": {
+        "lat": 31.9410991669,
+        "long": -111.1200027466,
+        "name": "Flying Diamond ",
+        "state": "Arizona"
+    },
+    "73AZ": {
+        "lat": 35.2853012085,
+        "long": -113.361000061,
+        "name": "Dunton Ranch ",
+        "state": "Arizona"
+    },
+    "74AZ": {
+        "lat": 31.619611,
+        "long": -110.047361,
+        "name": "Rancho San Marcos ",
+        "state": "Arizona"
+    },
+    "8AZ5": {
+        "lat": 31.897944,
+        "long": -109.056917,
+        "name": "Lizzy Lizard ",
+        "state": "Arizona"
+    },
+    "99AZ": {
+        "lat": 33.3955993652,
+        "long": -113.2229995728,
+        "name": "Eagletail Ranch ",
+        "state": "Arizona"
+    },
+    "AN01": {
+        "lat": 32.8166999817,
+        "long": -110.3170013428,
+        "name": "Av Ranch ",
+        "state": "Arizona"
+    },
+    "AZ00": {
+        "lat": 32.8058013916,
+        "long": -113.5070037842,
+        "name": "Morton Field",
+        "state": "Arizona"
+    },
+    "AZ01": {
+        "lat": 33.8477783203,
+        "long": -113.570274353,
+        "name": "Outback Ranch Airstrip",
+        "state": "Arizona"
+    },
+    "AZ03": {
+        "lat": 36.7344017029,
+        "long": -111.7529983521,
+        "name": "Cliff Dwellers Lodge ",
+        "state": "Arizona"
+    },
+    "AZ04": {
+        "lat": 33.9192008972,
+        "long": -113.1900024414,
+        "name": "Hillair Dirt Strip",
+        "state": "Arizona"
+    },
+    "AZ05": {
+        "lat": 33.1124992371,
+        "long": -112.6620025635,
+        "name": "Lakeside Airpark",
+        "state": "Arizona"
+    },
+    "AZ06": {
+        "lat": 32.817199707,
+        "long": -113.5270004272,
+        "name": "Dateland Airfield",
+        "state": "Arizona"
+    },
+    "AZ09": {
+        "lat": 34.7999992371,
+        "long": -114.1129989624,
+        "name": "Sergio Private ",
+        "state": "Arizona"
+    },
+    "AZ13": {
+        "lat": 33.016998291,
+        "long": -112.28099823,
+        "name": "Schu Ranch ",
+        "state": "Arizona"
+    },
+    "AZ14": {
+        "lat": 32.02470016,
+        "long": -109.9570007,
+        "name": "Ammon ",
+        "state": "Arizona"
+    },
+    "AZ17": {
+        "lat": 31.502199173,
+        "long": -109.3909988403,
+        "name": "Circle H Ranch ",
+        "state": "Arizona"
+    },
+    "AZ19": {
+        "lat": 31.7378005981,
+        "long": -110.6259994507,
+        "name": "C & L Ranch Ultralightport",
+        "state": "Arizona"
+    },
+    "AZ21": {
+        "lat": 31.7458000183,
+        "long": -110.2480010986,
+        "name": "Four Pillars ",
+        "state": "Arizona"
+    },
+    "AZ25": {
+        "lat": 33.5999984741,
+        "long": -111.6050033569,
+        "name": "Goldfield Ranch ",
+        "state": "Arizona"
+    },
+    "AZ26": {
+        "lat": 31.3691997528,
+        "long": -110.125,
+        "name": "Evelyn Field",
+        "state": "Arizona"
+    },
+    "AZ27": {
+        "lat": 34.9099998474,
+        "long": -112.533996582,
+        "name": "Big Springs Ranch ",
+        "state": "Arizona"
+    },
+    "AZ28": {
+        "lat": 33.8214988708,
+        "long": -112.5729980469,
+        "name": "Thunder Ridge Airpark",
+        "state": "Arizona"
+    },
+    "AZ31": {
+        "lat": 32.9967002869,
+        "long": -112.2720031738,
+        "name": "Serene Field",
+        "state": "Arizona"
+    },
+    "AZ32": {
+        "lat": 33.8474998474,
+        "long": -112.5879974365,
+        "name": "Roesner Ranch ",
+        "state": "Arizona"
+    },
+    "AZ34": {
+        "lat": 34.691428,
+        "long": -114.097739,
+        "name": "Massey Farm ",
+        "state": "Arizona"
+    },
+    "AZ40": {
+        "lat": 33.7874183655,
+        "long": -113.642417908,
+        "name": "Sheepy Hollow Ranch Airfield",
+        "state": "Arizona"
+    },
+    "AZ43": {
+        "lat": 33.0638999939,
+        "long": -112.1640014648,
+        "name": "Hidden Valley ",
+        "state": "Arizona"
+    },
+    "AZ45": {
+        "lat": 32.7291984558,
+        "long": -110.2959976196,
+        "name": "China Peak Observatory ",
+        "state": "Arizona"
+    },
+    "AZ46": {
+        "lat": 34.7663993835,
+        "long": -112.5490036011,
+        "name": "H&H Ranch Airstrip",
+        "state": "Arizona"
+    },
+    "AZ49": {
+        "lat": 32.8955993652,
+        "long": -112.2539978027,
+        "name": "Walter Ranch ",
+        "state": "Arizona"
+    },
+    "AZ50": {
+        "lat": 35.7146987915,
+        "long": -114.4810028076,
+        "name": "Triangle Airpark",
+        "state": "Arizona"
+    },
+    "AZ57": {
+        "lat": 34.9308013916,
+        "long": -112.5120010376,
+        "name": "Pilots Rest ",
+        "state": "Arizona"
+    },
+    "AZ60": {
+        "lat": 33.5050010681,
+        "long": -112.4729995728,
+        "name": "Coyner Airstrip",
+        "state": "Arizona"
+    },
+    "AZ61": {
+        "lat": 32.9016990662,
+        "long": -112.2379989624,
+        "name": "G.M. Ranch ",
+        "state": "Arizona"
+    },
+    "AZ63": {
+        "lat": 32.5278015137,
+        "long": -111.1959991455,
+        "name": "Twin Hawks Airpark",
+        "state": "Arizona"
+    },
+    "AZ64": {
+        "lat": 33.9523010254,
+        "long": -112.68699646,
+        "name": "Rio Vista Hills ",
+        "state": "Arizona"
+    },
+    "AZ67": {
+        "lat": 32.4269981384,
+        "long": -111.3899993896,
+        "name": "El Tiro Gliderport",
+        "state": "Arizona"
+    },
+    "AZ71": {
+        "lat": 34.2153015137,
+        "long": -112.5360031128,
+        "name": "Cooper Ranch ",
+        "state": "Arizona"
+    },
+    "AZ74": {
+        "lat": 31.3551006317,
+        "long": -110.3740005493,
+        "name": "Lone Mountain International ",
+        "state": "Arizona"
+    },
+    "AZ77": {
+        "lat": 35.2383003235,
+        "long": -111.9359970093,
+        "name": "Sunrise Ranch ",
+        "state": "Arizona"
+    },
+    "AZ78": {
+        "lat": 33.011100769,
+        "long": -112.2819976807,
+        "name": "Mel's Ranch ",
+        "state": "Arizona"
+    },
+    "AZ79": {
+        "lat": 33.5299987793,
+        "long": -112.2170028687,
+        "name": "Airscrew Performance Flightpark Ultralightport",
+        "state": "Arizona"
+    },
+    "AZ82": {
+        "lat": 34.3973007202,
+        "long": -110.5299987793,
+        "name": "Mogollon Airpark",
+        "state": "Arizona"
+    },
+    "AZ85": {
+        "lat": 33.5339012146,
+        "long": -112.9599990845,
+        "name": "Tonopah ",
+        "state": "Arizona"
+    },
+    "AZ86": {
+        "lat": 34.6842002869,
+        "long": -112.2919998169,
+        "name": "Coyote Run Gliderport",
+        "state": "Arizona"
+    },
+    "AZ90": {
+        "lat": 33.3534011841,
+        "long": -112.1269989014,
+        "name": "Hangar Haciendas ",
+        "state": "Arizona"
+    },
+    "AZ97": {
+        "lat": 35.3483009338,
+        "long": -113.6890029907,
+        "name": "X Bar 1 Ranch (Lower) ",
+        "state": "Arizona"
+    },
+    "K0V7": {
+        "lat": 36.7097015381,
+        "long": -110.2369995117,
+        "name": "Kayenta ",
+        "state": "Arizona"
+    },
+    "K1G4": {
+        "lat": 35.990398407,
+        "long": -113.816001892,
+        "name": "Grand Canyon West ",
+        "state": "Arizona"
+    },
+    "K40G": {
+        "lat": 35.6506004333,
+        "long": -112.1480026245,
+        "name": "Valle ",
+        "state": "Arizona"
+    },
+    "KA09": {
+        "lat": 34.8875007629,
+        "long": -114.6159973145,
+        "name": "Eagle Airpark",
+        "state": "Arizona"
+    },
+    "KA20": {
+        "lat": 35.0125007629,
+        "long": -114.56300354,
+        "name": "Sun Valley ",
+        "state": "Arizona"
+    },
+    "KA39": {
+        "lat": 32.9916992188,
+        "long": -111.9209976196,
+        "name": "Phoenix Regional ",
+        "state": "Arizona"
+    },
+    "KAVQ": {
+        "lat": 32.4095993042,
+        "long": -111.218002319,
+        "name": "Marana Regional ",
+        "state": "Arizona"
+    },
+    "KAZC": {
+        "lat": 36.9598999023,
+        "long": -113.013999939,
+        "name": "Colorado City Municipal ",
+        "state": "Arizona"
+    },
+    "KBXK": {
+        "lat": 33.42039871,
+        "long": -112.685997,
+        "name": "Buckeye Municipal ",
+        "state": "Arizona"
+    },
+    "KCFT": {
+        "lat": 32.95280075,
+        "long": -109.2099991,
+        "name": "Greenlee County ",
+        "state": "Arizona"
+    },
+    "KCGZ": {
+        "lat": 32.9548988342,
+        "long": -111.766998291,
+        "name": "Casa Grande Municipal ",
+        "state": "Arizona"
+    },
+    "KCHD": {
+        "lat": 33.2691001892,
+        "long": -111.8109970093,
+        "name": "Chandler Municipal ",
+        "state": "Arizona"
+    },
+    "KCMR": {
+        "lat": 35.30220032,
+        "long": -112.1940002,
+        "name": "H.A. Clark Memorial Field",
+        "state": "Arizona"
+    },
+    "KD68": {
+        "lat": 34.13539886,
+        "long": -109.3099976,
+        "name": "Springerville Municipal ",
+        "state": "Arizona"
+    },
+    "KDGL": {
+        "lat": 31.3425998688,
+        "long": -109.505996704,
+        "name": "Douglas Municipal ",
+        "state": "Arizona"
+    },
+    "KDMA": {
+        "lat": 32.1665000916,
+        "long": -110.8830032349,
+        "name": "Davis Monthan Air Force Base",
+        "state": "Arizona"
+    },
+    "KDQH": {
+        "lat": 31.4766998291,
+        "long": -82.860496521,
+        "name": "Douglas Municipal ",
+        "state": "Arizona"
+    },
+    "KDUG": {
+        "lat": 31.4689998627,
+        "long": -109.603996277,
+        "name": "Bisbee Douglas International ",
+        "state": "Arizona"
+    },
+    "KDVT": {
+        "lat": 33.6883010864,
+        "long": -112.083000183,
+        "name": "Phoenix Deer Valley ",
+        "state": "Arizona"
+    },
+    "KE24": {
+        "lat": 33.8125,
+        "long": -109.9869995,
+        "name": "Whiteriver ",
+        "state": "Arizona"
+    },
+    "KE25": {
+        "lat": 33.96889877,
+        "long": -112.7990036,
+        "name": "Wickenburg Municipal ",
+        "state": "Arizona"
+    },
+    "KE51": {
+        "lat": 34.5959014893,
+        "long": -113.1699981689,
+        "name": "Bagdad ",
+        "state": "Arizona"
+    },
+    "KE60": {
+        "lat": 32.8069992065,
+        "long": -111.5869979858,
+        "name": "Eloy Municipal ",
+        "state": "Arizona"
+    },
+    "KE63": {
+        "lat": 32.95809937,
+        "long": -112.6780014,
+        "name": "Gila Bend Municipal ",
+        "state": "Arizona"
+    },
+    "KE67": {
+        "lat": 33.0475997925,
+        "long": -110.908996582,
+        "name": "Kearny ",
+        "state": "Arizona"
+    },
+    "KE77": {
+        "lat": 32.6365013123,
+        "long": -110.6470031738,
+        "name": "San Manuel ",
+        "state": "Arizona"
+    },
+    "KE78": {
+        "lat": 31.9328994751,
+        "long": -111.8939971924,
+        "name": "Sells ",
+        "state": "Arizona"
+    },
+    "KE91": {
+        "lat": 36.1109008789,
+        "long": -109.5749969482,
+        "name": "Chinle Municipal ",
+        "state": "Arizona"
+    },
+    "KE95": {
+        "lat": 31.9997005463,
+        "long": -110.3570022583,
+        "name": "Benson Municipal ",
+        "state": "Arizona"
+    },
+    "KFHU": {
+        "lat": 31.5884990692,
+        "long": -110.34400177,
+        "name": "Sierra Vista Municipal Libby Army Air Field",
+        "state": "Arizona"
+    },
+    "KFLG": {
+        "lat": 35.13850021,
+        "long": -111.6709976,
+        "name": "Flagstaff Pulliam ",
+        "state": "Arizona"
+    },
+    "KGBN": {
+        "lat": 32.88750076,
+        "long": -112.7200012,
+        "name": "Gila Bend Af Aux ",
+        "state": "Arizona"
+    },
+    "KGCN": {
+        "lat": 35.9524002075,
+        "long": -112.1470031738,
+        "name": "Grand Canyon National Park ",
+        "state": "Arizona"
+    },
+    "KGEU": {
+        "lat": 33.5269012451,
+        "long": -112.2949981689,
+        "name": "Glendale Municipal ",
+        "state": "Arizona"
+    },
+    "KGYR": {
+        "lat": 33.4225006104,
+        "long": -112.3759994507,
+        "name": "Phoenix Goodyear ",
+        "state": "Arizona"
+    },
+    "KHII": {
+        "lat": 34.57109833,
+        "long": -114.3580017,
+        "name": "Lake Havasu City ",
+        "state": "Arizona"
+    },
+    "KIFP": {
+        "lat": 35.15739822,
+        "long": -114.5599976,
+        "name": "Laughlin Bullhead International ",
+        "state": "Arizona"
+    },
+    "KIGM": {
+        "lat": 35.2594985962,
+        "long": -113.93800354,
+        "name": "Kingman ",
+        "state": "Arizona"
+    },
+    "KINW": {
+        "lat": 35.021900177,
+        "long": -110.7229995728,
+        "name": "Winslow Lindbergh Regional ",
+        "state": "Arizona"
+    },
+    "KIWA": {
+        "lat": 33.30780029,
+        "long": -111.6549988,
+        "name": "Phoenix-Mesa-Gateway ",
+        "state": "Arizona"
+    },
+    "KL41": {
+        "lat": 36.8125,
+        "long": -111.6470031738,
+        "name": "Marble Canyon ",
+        "state": "Arizona"
+    },
+    "KLGF": {
+        "lat": 32.86000061,
+        "long": -114.3970032,
+        "name": "Laguna AAF (Yuma Proving Ground) Airfield",
+        "state": "Arizona"
+    },
+    "KLUF": {
+        "lat": 33.5349998474,
+        "long": -112.3830032349,
+        "name": "Luke Air Force Base",
+        "state": "Arizona"
+    },
+    "KMZJ": {
+        "lat": 32.5106010437,
+        "long": -111.3280029297,
+        "name": "Pinal Airpark",
+        "state": "Arizona"
+    },
+    "KNYL": {
+        "lat": 32.65660095,
+        "long": -114.6060028,
+        "name": "Yuma MCAS/Yuma International ",
+        "state": "Arizona"
+    },
+    "KOLS": {
+        "lat": 31.4176998138,
+        "long": -110.8479995728,
+        "name": "Nogales International ",
+        "state": "Arizona"
+    },
+    "KP01": {
+        "lat": 32.4500999451,
+        "long": -112.8669967651,
+        "name": "Eric Marcus Municipal ",
+        "state": "Arizona"
+    },
+    "KP03": {
+        "lat": 31.371099472,
+        "long": -109.6900024414,
+        "name": "Cochise College ",
+        "state": "Arizona"
+    },
+    "KP04": {
+        "lat": 31.3640003204,
+        "long": -109.883003235,
+        "name": "Bisbee Municipal ",
+        "state": "Arizona"
+    },
+    "KP08": {
+        "lat": 32.9359016418,
+        "long": -111.4270019531,
+        "name": "Coolidge Municipal ",
+        "state": "Arizona"
+    },
+    "KP10": {
+        "lat": 35.7916984558,
+        "long": -110.422996521,
+        "name": "Polacca ",
+        "state": "Arizona"
+    },
+    "KP13": {
+        "lat": 33.353099823,
+        "long": -110.6669998169,
+        "name": "San Carlos Apache ",
+        "state": "Arizona"
+    },
+    "KP14": {
+        "lat": 34.940700531,
+        "long": -110.138000488,
+        "name": "Holbrook Municipal ",
+        "state": "Arizona"
+    },
+    "KP19": {
+        "lat": 33.2989006042,
+        "long": -111.9150009155,
+        "name": "Stellar Airpark",
+        "state": "Arizona"
+    },
+    "KP20": {
+        "lat": 34.1506004333,
+        "long": -114.2710037231,
+        "name": "Avi Suquilla ",
+        "state": "Arizona"
+    },
+    "KP23": {
+        "lat": 35.3349990845,
+        "long": -112.8870010376,
+        "name": "Seligman ",
+        "state": "Arizona"
+    },
+    "KP29": {
+        "lat": 31.6709003448,
+        "long": -110.0230026245,
+        "name": "Tombstone Municipal ",
+        "state": "Arizona"
+    },
+    "KP33": {
+        "lat": 32.24539948,
+        "long": -109.8949966,
+        "name": "Cochise County ",
+        "state": "Arizona"
+    },
+    "KP52": {
+        "lat": 34.7299995422,
+        "long": -112.0350036621,
+        "name": "Cottonwood ",
+        "state": "Arizona"
+    },
+    "KPAN": {
+        "lat": 34.2568016052,
+        "long": -111.3389968872,
+        "name": "Payson ",
+        "state": "Arizona"
+    },
+    "KPGA": {
+        "lat": 36.92610168,
+        "long": -111.447998,
+        "name": "Page Municipal ",
+        "state": "Arizona"
+    },
+    "KPHX": {
+        "lat": 33.434299469,
+        "long": -112.0120010376,
+        "name": "Phoenix Sky Harbor International ",
+        "state": "Arizona"
+    },
+    "KPRC": {
+        "lat": 34.65449905,
+        "long": -112.4199982,
+        "name": "Ernest A. Love Field",
+        "state": "Arizona"
+    },
+    "KRQE": {
+        "lat": 35.6520996094,
+        "long": -109.0670013428,
+        "name": "Window Rock ",
+        "state": "Arizona"
+    },
+    "KRYN": {
+        "lat": 32.14220047,
+        "long": -111.1750030518,
+        "name": "Ryan Field",
+        "state": "Arizona"
+    },
+    "KSAD": {
+        "lat": 32.85480118,
+        "long": -109.6350021,
+        "name": "Safford Regional ",
+        "state": "Arizona"
+    },
+    "KSDL": {
+        "lat": 33.6228981018,
+        "long": -111.9110031128,
+        "name": "Scottsdale ",
+        "state": "Arizona"
+    },
+    "KSEZ": {
+        "lat": 34.8485984802,
+        "long": -111.7880020142,
+        "name": "Sedona ",
+        "state": "Arizona"
+    },
+    "KSJN": {
+        "lat": 34.51860046,
+        "long": -109.3789978,
+        "name": "St Johns Industrial Air Park",
+        "state": "Arizona"
+    },
+    "KSOW": {
+        "lat": 34.265499115,
+        "long": -110.005996704,
+        "name": "Show Low Regional ",
+        "state": "Arizona"
+    },
+    "KT03": {
+        "lat": 36.0928001404,
+        "long": -111.3830032349,
+        "name": "Tuba City ",
+        "state": "Arizona"
+    },
+    "KTUS": {
+        "lat": 32.1161003113,
+        "long": -110.9410018921,
+        "name": "Tucson International ",
+        "state": "Arizona"
+    },
+    "KTYL": {
+        "lat": 34.45280075,
+        "long": -110.1149979,
+        "name": "Taylor ",
+        "state": "Arizona"
+    },
+    "KU30": {
+        "lat": 36.0205001831,
+        "long": -114.3349990845,
+        "name": "Temple Bar ",
+        "state": "Arizona"
+    }
+}

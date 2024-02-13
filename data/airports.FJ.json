@@ -1,0 +1,122 @@
+{
+  "NFCI": {
+    "lat": -17.7432994843,
+    "long": -179.341995239,
+    "name": "Cicia "
+  },
+  "NFFA": {
+    "lat": -17.5350555556,
+    "long": 177.680916667,
+    "name": "Ba "
+  },
+  "NFFN": {
+    "lat": -17.755399704,
+    "long": 177.4429931641,
+    "name": "Nadi International "
+  },
+  "NFFO": {
+    "lat": -17.7779006958,
+    "long": 177.197006226,
+    "name": "Malolo Lailai Island "
+  },
+  "NFKB": {
+    "lat": -17.2541999817,
+    "long": -179.4889984131,
+    "name": "Kaibu Island "
+  },
+  "NFKD": {
+    "lat": -19.0580997467,
+    "long": 178.156997681,
+    "name": "Vunisea "
+  },
+  "NFMA": {
+    "lat": -17.6730995178,
+    "long": 177.098007202,
+    "name": "Mana Island "
+  },
+  "NFMO": {
+    "lat": -18.5666999817,
+    "long": 179.951004028,
+    "name": "Moala "
+  },
+  "NFNA": {
+    "lat": -18.0433006287,
+    "long": 178.5590057373,
+    "name": "Nausori International "
+  },
+  "NFNB": {
+    "lat": -17.7110996246,
+    "long": 178.759002686,
+    "name": "Levuka Airfield"
+  },
+  "NFNG": {
+    "lat": -18.1156005859,
+    "long": 179.339996338,
+    "name": "Ngau "
+  },
+  "NFNH": {
+    "lat": -16.7481002808,
+    "long": -179.6670074463,
+    "name": "Laucala Island "
+  },
+  "NFNK": {
+    "lat": -18.1991996765,
+    "long": -178.817001343,
+    "name": "Lakeba Island "
+  },
+  "NFNL": {
+    "lat": -16.4666996002,
+    "long": 179.3399963379,
+    "name": "Labasa "
+  },
+  "NFNM": {
+    "lat": -16.6905994415,
+    "long": -179.876998901,
+    "name": "Matei "
+  },
+  "NFNO": {
+    "lat": -17.3458003998,
+    "long": 179.42199707,
+    "name": "Koro Island "
+  },
+  "NFNR": {
+    "lat": -12.4825000763,
+    "long": 177.0709991455,
+    "name": "Rotuma "
+  },
+  "NFNS": {
+    "lat": -16.8027992249,
+    "long": 179.341003418,
+    "name": "Savusavu "
+  },
+  "NFNV": {
+    "lat": -17.5,
+    "long": 177.8419952393,
+    "name": "Vatukoula "
+  },
+  "NFNW": {
+    "lat": -17.6170005798,
+    "long": 179.016998291,
+    "name": "Wakaya Island "
+  },
+  "NFOL": {
+    "lat": -20.6499996185,
+    "long": -178.6999969482,
+    "name": "Ono-I-Lau "
+  },
+  "NFSW": {
+    "lat": -16.7588996887,
+    "long": 177.5449981689,
+    "name": "Yasawa Island "
+  },
+  "NFVB": {
+    "lat": -17.2689990997,
+    "long": -178.9759979248,
+    "name": "Vanua Balavu "
+  },
+  "NFVL": {
+    "lat": -18.5125007629,
+    "long": 177.6390075684,
+    "name": "Vatulele "
+  }
+}

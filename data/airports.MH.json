@@ -1,0 +1,32 @@
+{
+  "MLIP": {
+    "lat": 6.0833301544,
+    "long": 171.733001709,
+    "name": "Mili Island "
+  },
+  "PKMA": {
+    "lat": 11.3407001495,
+    "long": 162.3280029297,
+    "name": "Eniwetok "
+  },
+  "PKMJ": {
+    "lat": 7.0647602081,
+    "long": 171.2720031738,
+    "name": "Marshall Islands International "
+  },
+  "PKRO": {
+    "lat": 9.3968896866,
+    "long": 167.470993042,
+    "name": "Dyess Army Air Field"
+  },
+  "PKWA": {
+    "lat": 8.72012043,
+    "long": 167.7319946289,
+    "name": "Bucholz Army Air Field"
+  },
+  "UJAP": {
+    "lat": 8.9280595779,
+    "long": 165.7619934082,
+    "name": "Ujae Atoll "
+  }
+}

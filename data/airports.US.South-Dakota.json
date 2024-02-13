@@ -1,0 +1,674 @@
+{
+    "K0D8": {
+        "lat": 44.98669815,
+        "long": -99.95279694,
+        "name": "Gettysburg Municipal ",
+        "state": "South-Dakota"
+    },
+    "K0V6": {
+        "lat": 43.3069000244,
+        "long": -100.6279983521,
+        "name": "Mission Sioux ",
+        "state": "South-Dakota"
+    },
+    "K1D1": {
+        "lat": 45.23049927,
+        "long": -96.56600189,
+        "name": "Milbank Municipal ",
+        "state": "South-Dakota"
+    },
+    "K1D3": {
+        "lat": 43.403301239,
+        "long": -98.829498291,
+        "name": "Platte Municipal ",
+        "state": "South-Dakota"
+    },
+    "K1D7": {
+        "lat": 45.2925987244,
+        "long": -97.5138015747,
+        "name": "The Sigurd Anderson ",
+        "state": "South-Dakota"
+    },
+    "K1D8": {
+        "lat": 44.8624992371,
+        "long": -98.5295028687,
+        "name": "Redfield Municipal ",
+        "state": "South-Dakota"
+    },
+    "K3FU": {
+        "lat": 45.0318984985,
+        "long": -99.1156997681,
+        "name": "Faulkton Municipal ",
+        "state": "South-Dakota"
+    },
+    "K3V0": {
+        "lat": 43.7249984741,
+        "long": -103.3499984741,
+        "name": "Custer State Park ",
+        "state": "South-Dakota"
+    },
+    "K3W8": {
+        "lat": 45.7999992371,
+        "long": -99.6420974731,
+        "name": "Eureka Municipal ",
+        "state": "South-Dakota"
+    },
+    "K49B": {
+        "lat": 44.4179992676,
+        "long": -103.375,
+        "name": "Sturgis Municipal ",
+        "state": "South-Dakota"
+    },
+    "K4P3": {
+        "lat": 44.0038986206,
+        "long": -96.5931015015,
+        "name": "Flandreau Municipal ",
+        "state": "South-Dakota"
+    },
+    "K4X4": {
+        "lat": 44.061000824,
+        "long": -98.5308990479,
+        "name": "Wessington Springs ",
+        "state": "South-Dakota"
+    },
+    "K5P2": {
+        "lat": 45.7967987061,
+        "long": -100.783996582,
+        "name": "Mc Laughlin Municipal ",
+        "state": "South-Dakota"
+    },
+    "K6E5": {
+        "lat": 44.4308013916,
+        "long": -97.5612030029,
+        "name": "Wilder ",
+        "state": "South-Dakota"
+    },
+    "K6V4": {
+        "lat": 43.9995002747,
+        "long": -102.2549972534,
+        "name": "Wall Municipal ",
+        "state": "South-Dakota"
+    },
+    "K6V5": {
+        "lat": 45.5186004639,
+        "long": -102.4670028687,
+        "name": "Bison Municipal ",
+        "state": "South-Dakota"
+    },
+    "K7G9": {
+        "lat": 43.3088989258,
+        "long": -96.5709991455,
+        "name": "Canton Municipal ",
+        "state": "South-Dakota"
+    },
+    "K84D": {
+        "lat": 44.9844017,
+        "long": -101.2509995,
+        "name": "Cheyenne Eagle Butte ",
+        "state": "South-Dakota"
+    },
+    "K8D3": {
+        "lat": 45.6707992554,
+        "long": -96.9962005615,
+        "name": "Sisseton Municipal ",
+        "state": "South-Dakota"
+    },
+    "K8D7": {
+        "lat": 44.8950004578,
+        "long": -97.7108001709,
+        "name": "Clark County ",
+        "state": "South-Dakota"
+    },
+    "K8F6": {
+        "lat": 43.8516998291,
+        "long": -100.7119979858,
+        "name": "Murdo Municipal ",
+        "state": "South-Dakota"
+    },
+    "K8V3": {
+        "lat": 43.3791999817,
+        "long": -97.9711990356,
+        "name": "Parkston Municipal ",
+        "state": "South-Dakota"
+    },
+    "K98D": {
+        "lat": 44.7008018494,
+        "long": -100.1009979248,
+        "name": "Onida Municipal ",
+        "state": "South-Dakota"
+    },
+    "K9D0": {
+        "lat": 44.5415992737,
+        "long": -99.4461975098,
+        "name": "Highmore Municipal ",
+        "state": "South-Dakota"
+    },
+    "K9D1": {
+        "lat": 43.22169876,
+        "long": -99.40329742,
+        "name": "Gregory Municipal Flynn Field",
+        "state": "South-Dakota"
+    },
+    "K9D2": {
+        "lat": 45.5806007385,
+        "long": -103.5299987793,
+        "name": "Harding County ",
+        "state": "South-Dakota"
+    },
+    "K9F8": {
+        "lat": 45.257598877,
+        "long": -99.7977981567,
+        "name": "Hoven Municipal ",
+        "state": "South-Dakota"
+    },
+    "K9V6": {
+        "lat": 43.165599823,
+        "long": -101.7129974365,
+        "name": "Martin Municipal ",
+        "state": "South-Dakota"
+    },
+    "K9V9": {
+        "lat": 43.7661018372,
+        "long": -99.3212966919,
+        "name": "Chamberlain Municipal ",
+        "state": "South-Dakota"
+    },
+    "KABR": {
+        "lat": 45.4491004944,
+        "long": -98.4217987061,
+        "name": "Aberdeen Regional ",
+        "state": "South-Dakota"
+    },
+    "KAGZ": {
+        "lat": 43.0633010864,
+        "long": -98.2962036133,
+        "name": "Wagner Municipal ",
+        "state": "South-Dakota"
+    },
+    "KATY": {
+        "lat": 44.91400146,
+        "long": -97.15470123,
+        "name": "Watertown Regional ",
+        "state": "South-Dakota"
+    },
+    "KBKX": {
+        "lat": 44.3047981262,
+        "long": -96.8169021606,
+        "name": "Brookings Regional ",
+        "state": "South-Dakota"
+    },
+    "KBTN": {
+        "lat": 45.8152008057,
+        "long": -97.7431030273,
+        "name": "Britton Municipal ",
+        "state": "South-Dakota"
+    },
+    "KCUT": {
+        "lat": 43.7332992554,
+        "long": -103.6179962158,
+        "name": "Custer County ",
+        "state": "South-Dakota"
+    },
+    "KD07": {
+        "lat": 45.0360984802,
+        "long": -102.0199966431,
+        "name": "Faith Municipal ",
+        "state": "South-Dakota"
+    },
+    "KEFC": {
+        "lat": 44.73419952,
+        "long": -103.8619995,
+        "name": "Belle Fourche Municipal ",
+        "state": "South-Dakota"
+    },
+    "KFSD": {
+        "lat": 43.5820007324,
+        "long": -96.741897583,
+        "name": "Joe Foss Field ",
+        "state": "South-Dakota"
+    },
+    "KHON": {
+        "lat": 44.3852005005,
+        "long": -98.2285003662,
+        "name": "Huron Regional ",
+        "state": "South-Dakota"
+    },
+    "KHSR": {
+        "lat": 43.36819839,
+        "long": -103.3880005,
+        "name": "Hot Springs Municipal ",
+        "state": "South-Dakota"
+    },
+    "KICR": {
+        "lat": 43.39020157,
+        "long": -99.84210205,
+        "name": "Winner Regional ",
+        "state": "South-Dakota"
+    },
+    "KIEN": {
+        "lat": 43.0224990845,
+        "long": -102.511001587,
+        "name": "Pine Ridge ",
+        "state": "South-Dakota"
+    },
+    "KLEM": {
+        "lat": 45.9187011719,
+        "long": -102.1060028076,
+        "name": "Lemmon Municipal ",
+        "state": "South-Dakota"
+    },
+    "KMBG": {
+        "lat": 45.54650116,
+        "long": -100.4079971,
+        "name": "Mobridge Municipal ",
+        "state": "South-Dakota"
+    },
+    "KMDS": {
+        "lat": 44.01599884,
+        "long": -97.08589935,
+        "name": "Madison Municipal ",
+        "state": "South-Dakota"
+    },
+    "KMHE": {
+        "lat": 43.7747993469,
+        "long": -98.0385971069,
+        "name": "Mitchell Municipal ",
+        "state": "South-Dakota"
+    },
+    "KMKA": {
+        "lat": 44.5251998901,
+        "long": -98.9580993652,
+        "name": "Miller Municipal ",
+        "state": "South-Dakota"
+    },
+    "KPHP": {
+        "lat": 44.0485992432,
+        "long": -101.5989990234,
+        "name": "Philip ",
+        "state": "South-Dakota"
+    },
+    "KPIR": {
+        "lat": 44.38270187,
+        "long": -100.2860031,
+        "name": "Pierre Regional ",
+        "state": "South-Dakota"
+    },
+    "KRAP": {
+        "lat": 44.04529953,
+        "long": -103.0569992065,
+        "name": "Rapid City Regional ",
+        "state": "South-Dakota"
+    },
+    "KRCA": {
+        "lat": 44.14500046,
+        "long": -103.1039963,
+        "name": "Ellsworth Air Force Base",
+        "state": "South-Dakota"
+    },
+    "KSPF": {
+        "lat": 44.4803009033,
+        "long": -103.7829971313,
+        "name": "Black Hills Clyde Ice Field",
+        "state": "South-Dakota"
+    },
+    "KVMR": {
+        "lat": 42.76530075,
+        "long": -96.93430328,
+        "name": "Harold Davidson Field",
+        "state": "South-Dakota"
+    },
+    "KY03": {
+        "lat": 42.8800010681,
+        "long": -97.9011993408,
+        "name": "Springfield Municipal ",
+        "state": "South-Dakota"
+    },
+    "KY14": {
+        "lat": 43.4575004578,
+        "long": -96.8020019531,
+        "name": "Marv Skie Lincoln County ",
+        "state": "South-Dakota"
+    },
+    "KYKN": {
+        "lat": 42.9166984558,
+        "long": -97.3859024048,
+        "name": "Chan Gurney Municipal ",
+        "state": "South-Dakota"
+    },
+    "NA54": {
+        "lat": 45.9550018311,
+        "long": -100.4420013428,
+        "name": "Moser Airstrip",
+        "state": "South-Dakota"
+    },
+    "SD00": {
+        "lat": 42.6786994934,
+        "long": -96.6988983154,
+        "name": "Mj Aviation Ii ",
+        "state": "South-Dakota"
+    },
+    "SD01": {
+        "lat": 43.8997001648,
+        "long": -98.1076965332,
+        "name": "Mj Aviation I ",
+        "state": "South-Dakota"
+    },
+    "SD03": {
+        "lat": 44.0504989624,
+        "long": -97.3350982666,
+        "name": "Calico Field",
+        "state": "South-Dakota"
+    },
+    "SD05": {
+        "lat": 45.3716011047,
+        "long": -98.4786987305,
+        "name": "Thorson Airfield",
+        "state": "South-Dakota"
+    },
+    "SD13": {
+        "lat": 44.8666000366,
+        "long": -98.0719985962,
+        "name": "Hofer Private ",
+        "state": "South-Dakota"
+    },
+    "SD14": {
+        "lat": 43.7332992554,
+        "long": -100.3980026245,
+        "name": "Valburg Ranch ",
+        "state": "South-Dakota"
+    },
+    "SD19": {
+        "lat": 44.4653015137,
+        "long": -97.2225036621,
+        "name": "Andersen Farms ",
+        "state": "South-Dakota"
+    },
+    "SD21": {
+        "lat": 44.3708000183,
+        "long": -101.0090026855,
+        "name": "Hayes Emergency Airstrip",
+        "state": "South-Dakota"
+    },
+    "SD24": {
+        "lat": 44.4472007751,
+        "long": -103.3949966431,
+        "name": "Bruch Ranch ",
+        "state": "South-Dakota"
+    },
+    "SD25": {
+        "lat": 45.4522018433,
+        "long": -99.012298584,
+        "name": "Rappe Field",
+        "state": "South-Dakota"
+    },
+    "SD29": {
+        "lat": 43.2444000244,
+        "long": -97.5531005859,
+        "name": "Menno ",
+        "state": "South-Dakota"
+    },
+    "SD33": {
+        "lat": 45.5,
+        "long": -104,
+        "name": "Sky Ranch For Boys ",
+        "state": "South-Dakota"
+    },
+    "SD35": {
+        "lat": 44.494167,
+        "long": -103.394444,
+        "name": "Bruch Airfield",
+        "state": "South-Dakota"
+    },
+    "SD36": {
+        "lat": 45.1291999817,
+        "long": -100.7559967041,
+        "name": "Booth Ranch ",
+        "state": "South-Dakota"
+    },
+    "SD37": {
+        "lat": 45.4961013794,
+        "long": -100.0039978027,
+        "name": "Fiedler ",
+        "state": "South-Dakota"
+    },
+    "SD41": {
+        "lat": 45.5332984924,
+        "long": -101.8339996338,
+        "name": "Shambo Ranch ",
+        "state": "South-Dakota"
+    },
+    "SD42": {
+        "lat": 43.5666007996,
+        "long": -97.5336990356,
+        "name": "Waltner & Richards ",
+        "state": "South-Dakota"
+    },
+    "SD43": {
+        "lat": 44.2397003174,
+        "long": -98.049697876,
+        "name": "Ingle ",
+        "state": "South-Dakota"
+    },
+    "SD44": {
+        "lat": 43.7832984924,
+        "long": -99.257598877,
+        "name": "Cook Field",
+        "state": "South-Dakota"
+    },
+    "SD46": {
+        "lat": 43.8333015442,
+        "long": -96.8503036499,
+        "name": "Jensen ",
+        "state": "South-Dakota"
+    },
+    "SD47": {
+        "lat": 45.0027999878,
+        "long": -101.2129974365,
+        "name": "Hunt Field",
+        "state": "South-Dakota"
+    },
+    "SD48": {
+        "lat": 45.2000007629,
+        "long": -102.6500015259,
+        "name": "Blomberg 42 Ranch Private ",
+        "state": "South-Dakota"
+    },
+    "SD49": {
+        "lat": 45.2872009277,
+        "long": -98.0542984009,
+        "name": "Hite Private ",
+        "state": "South-Dakota"
+    },
+    "SD50": {
+        "lat": 44.5308990479,
+        "long": -99.7474975586,
+        "name": "Harrold Municipal ",
+        "state": "South-Dakota"
+    },
+    "SD53": {
+        "lat": 42.9063987732,
+        "long": -96.810798645,
+        "name": "Howard Field",
+        "state": "South-Dakota"
+    },
+    "SD55": {
+        "lat": 44.3157997131,
+        "long": -98.2733001709,
+        "name": "Winter Airfield",
+        "state": "South-Dakota"
+    },
+    "SD56": {
+        "lat": 44.8666000366,
+        "long": -99.6171035767,
+        "name": "Ralph Myers ",
+        "state": "South-Dakota"
+    },
+    "SD57": {
+        "lat": 44.5666007996,
+        "long": -100.75,
+        "name": "W L Thompson ",
+        "state": "South-Dakota"
+    },
+    "SD59": {
+        "lat": 45.5332984924,
+        "long": -102.8140029907,
+        "name": "Carr ",
+        "state": "South-Dakota"
+    },
+    "SD60": {
+        "lat": 45.4000015259,
+        "long": -102.7959976196,
+        "name": "Ike John Private ",
+        "state": "South-Dakota"
+    },
+    "SD61": {
+        "lat": 43.0167007446,
+        "long": -97.8669967651,
+        "name": "Plihal Farms ",
+        "state": "South-Dakota"
+    },
+    "SD62": {
+        "lat": 45.25,
+        "long": -98.1669998169,
+        "name": "Schaller ",
+        "state": "South-Dakota"
+    },
+    "SD65": {
+        "lat": 45.4376983643,
+        "long": -96.9998016357,
+        "name": "Whipple Ranch ",
+        "state": "South-Dakota"
+    },
+    "SD66": {
+        "lat": 43.9733009338,
+        "long": -101.952003479,
+        "name": "Cooks ",
+        "state": "South-Dakota"
+    },
+    "SD68": {
+        "lat": 43.3847007751,
+        "long": -103.4309997559,
+        "name": "Flying T ",
+        "state": "South-Dakota"
+    },
+    "SD71": {
+        "lat": 43.1166000366,
+        "long": -103.3669967651,
+        "name": "Bogner Field",
+        "state": "South-Dakota"
+    },
+    "SD72": {
+        "lat": 44.8499984741,
+        "long": -102.5839996338,
+        "name": "Vig Ranch Airfield",
+        "state": "South-Dakota"
+    },
+    "SD73": {
+        "lat": 44.5208015442,
+        "long": -101.5930023193,
+        "name": "Staben Strip",
+        "state": "South-Dakota"
+    },
+    "SD75": {
+        "lat": 43.5910987854,
+        "long": -98.452003479,
+        "name": "Livingston ",
+        "state": "South-Dakota"
+    },
+    "SD76": {
+        "lat": 45.8293991089,
+        "long": -103.9449996948,
+        "name": "Tennant Ranch ",
+        "state": "South-Dakota"
+    },
+    "SD77": {
+        "lat": 44.0003013611,
+        "long": -103.0179977417,
+        "name": "Barber Strip",
+        "state": "South-Dakota"
+    },
+    "SD78": {
+        "lat": 43.9015007019,
+        "long": -99.8788986206,
+        "name": "Anderson Aerial Spraying ",
+        "state": "South-Dakota"
+    },
+    "SD79": {
+        "lat": 45.2014007568,
+        "long": -99.8361968994,
+        "name": "Monty Harer Airstrip",
+        "state": "South-Dakota"
+    },
+    "SD81": {
+        "lat": 43.9314002991,
+        "long": -100.3150024414,
+        "name": "Vivian ",
+        "state": "South-Dakota"
+    },
+    "SD82": {
+        "lat": 45.4249992371,
+        "long": -96.8669967651,
+        "name": "Webster-Eneboe Airstrip",
+        "state": "South-Dakota"
+    },
+    "SD83": {
+        "lat": 44.2155990601,
+        "long": -97.6074981689,
+        "name": "Lee ",
+        "state": "South-Dakota"
+    },
+    "SD84": {
+        "lat": 44.2658004761,
+        "long": -98.1203994751,
+        "name": "Marone ",
+        "state": "South-Dakota"
+    },
+    "SD88": {
+        "lat": 45.3890991211,
+        "long": -102.0029983521,
+        "name": "Dunn ",
+        "state": "South-Dakota"
+    },
+    "SD89": {
+        "lat": 43.7705993652,
+        "long": -99.2074966431,
+        "name": "Priebe Landing Strip",
+        "state": "South-Dakota"
+    },
+    "SD90": {
+        "lat": 44.4672012329,
+        "long": -103.7870025635,
+        "name": "Mitchell's Strip",
+        "state": "South-Dakota"
+    },
+    "SD93": {
+        "lat": 44.864200592,
+        "long": -99.6063995361,
+        "name": "Gary Myers ",
+        "state": "South-Dakota"
+    },
+    "SD94": {
+        "lat": 44.9930000305,
+        "long": -96.4769973755,
+        "name": "Lundin ",
+        "state": "South-Dakota"
+    },
+    "SD97": {
+        "lat": 43.8777999878,
+        "long": -100.3619995117,
+        "name": "Oller ",
+        "state": "South-Dakota"
+    },
+    "SD98": {
+        "lat": 44.4625015259,
+        "long": -102.5520019531,
+        "name": "Barber ",
+        "state": "South-Dakota"
+    },
+    "SD99": {
+        "lat": 43.625,
+        "long": -96.7502975464,
+        "name": "Glawe's ",
+        "state": "South-Dakota"
+    }
+}

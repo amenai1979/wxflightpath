@@ -1,0 +1,638 @@
+{
+    "02ME": {
+        "lat": 43.5373001099,
+        "long": -70.929397583,
+        "name": "Old Acton Airfield",
+        "state": "Maine"
+    },
+    "03ME": {
+        "lat": 44.0842018127,
+        "long": -70.6272964478,
+        "name": "Maple Ridge ",
+        "state": "Maine"
+    },
+    "04ME": {
+        "lat": 44.6666984558,
+        "long": -69.8938980103,
+        "name": "Beech Hill ",
+        "state": "Maine"
+    },
+    "05ME": {
+        "lat": 44.6570014954,
+        "long": -67.5591964722,
+        "name": "Drisko ",
+        "state": "Maine"
+    },
+    "08ME": {
+        "lat": 44.814201355,
+        "long": -70.3452987671,
+        "name": "Lindbergh ",
+        "state": "Maine"
+    },
+    "09ME": {
+        "lat": 43.340801239,
+        "long": -70.8546981812,
+        "name": "Perrotti Skyranch Airfield",
+        "state": "Maine"
+    },
+    "0ME4": {
+        "lat": 44.742469,
+        "long": -68.474403,
+        "name": "Peasley Field",
+        "state": "Maine"
+    },
+    "12ME": {
+        "lat": 44.3222999573,
+        "long": -69.2072982788,
+        "name": "Ridgeview ",
+        "state": "Maine"
+    },
+    "13ME": {
+        "lat": 45.7764015198,
+        "long": -69.8093032837,
+        "name": "Socatean Bay ",
+        "state": "Maine"
+    },
+    "14ME": {
+        "lat": 44.7925987244,
+        "long": -69.0702972412,
+        "name": "Ring Hill ",
+        "state": "Maine"
+    },
+    "15ME": {
+        "lat": 43.8152999878,
+        "long": -70.2292022705,
+        "name": "Eagle Field",
+        "state": "Maine"
+    },
+    "17ME": {
+        "lat": 47.2025,
+        "long": -67.991667,
+        "name": "Bresett'S Mountainside ",
+        "state": "Maine"
+    },
+    "18ME": {
+        "lat": 43.893597,
+        "long": -69.495406,
+        "name": "Ruby ",
+        "state": "Maine"
+    },
+    "23ME": {
+        "lat": 44.5264015198,
+        "long": -70.6635971069,
+        "name": "Dyer's Field",
+        "state": "Maine"
+    },
+    "24ME": {
+        "lat": 43.8222007751,
+        "long": -70.4428024292,
+        "name": "Slip Knot Landing ",
+        "state": "Maine"
+    },
+    "2ME3": {
+        "lat": 45.04135,
+        "long": -68.990021,
+        "name": "Charleston / Harte Field",
+        "state": "Maine"
+    },
+    "35ME": {
+        "lat": 43.8711013794,
+        "long": -68.8933029175,
+        "name": "Matinicus Island ",
+        "state": "Maine"
+    },
+    "40ME": {
+        "lat": 44.105892,
+        "long": -70.955978,
+        "name": "Tib Field",
+        "state": "Maine"
+    },
+    "54ME": {
+        "lat": 43.949444,
+        "long": -70.320278,
+        "name": "Cliff Dow ",
+        "state": "Maine"
+    },
+    "55ME": {
+        "lat": 44.318056,
+        "long": -69.138333,
+        "name": "HIghland View Field",
+        "state": "Maine"
+    },
+    "57ME": {
+        "lat": 43.9178009033,
+        "long": -70.8544006348,
+        "name": "Dyer's Landing ",
+        "state": "Maine"
+    },
+    "71ME": {
+        "lat": 43.9668998718,
+        "long": -70.6010971069,
+        "name": "Twin Eagles ",
+        "state": "Maine"
+    },
+    "72ME": {
+        "lat": 44.635278,
+        "long": -68.6325,
+        "name": "Philbrick Mountain ",
+        "state": "Maine"
+    },
+    "78ME": {
+        "lat": 43.753056,
+        "long": -70.259167,
+        "name": "Eric's Field ",
+        "state": "Maine"
+    },
+    "90ME": {
+        "lat": 44.523056,
+        "long": -70.545556,
+        "name": "Zinck ",
+        "state": "Maine"
+    },
+    "98ME": {
+        "lat": 43.575717,
+        "long": -70.518858,
+        "name": "Greaton Airfield",
+        "state": "Maine"
+    },
+    "K0B1": {
+        "lat": 44.425201416,
+        "long": -70.8098983765,
+        "name": "Bethel Regional ",
+        "state": "Maine"
+    },
+    "K1B0": {
+        "lat": 45.0041007996,
+        "long": -69.2369995117,
+        "name": "Dexter Regional ",
+        "state": "Maine"
+    },
+    "K2B7": {
+        "lat": 44.7685012817,
+        "long": -69.3743972778,
+        "name": "Pittsfield Municipal ",
+        "state": "Maine"
+    },
+    "K3B1": {
+        "lat": 45.4630012512,
+        "long": -69.5515975952,
+        "name": "Greenville Municipal ",
+        "state": "Maine"
+    },
+    "K3B4": {
+        "lat": 43.1431007385,
+        "long": -70.7723007202,
+        "name": "Littlebrook Air Park",
+        "state": "Maine"
+    },
+    "K3B5": {
+        "lat": 44.1888999939,
+        "long": -70.2329025269,
+        "name": "Twitchell ",
+        "state": "Maine"
+    },
+    "K43B": {
+        "lat": 44.726398468,
+        "long": -67.9906997681,
+        "name": "Deblois Flight Strip",
+        "state": "Maine"
+    },
+    "K63B": {
+        "lat": 43.7630004883,
+        "long": -70.6725006104,
+        "name": "Limington Harmon ",
+        "state": "Maine"
+    },
+    "K81B": {
+        "lat": 44.1573982239,
+        "long": -70.481300354,
+        "name": "Oxford County Regional ",
+        "state": "Maine"
+    },
+    "K8B0": {
+        "lat": 44.9919014,
+        "long": -70.66459656,
+        "name": "Steven A. Bean Municipal ",
+        "state": "Maine"
+    },
+    "KAUG": {
+        "lat": 44.3205986023,
+        "long": -69.7973022461,
+        "name": "Augusta State ",
+        "state": "Maine"
+    },
+    "KB19": {
+        "lat": 43.464099884,
+        "long": -70.4723968506,
+        "name": "Biddeford Municipal ",
+        "state": "Maine"
+    },
+    "KB21": {
+        "lat": 45.0862007141,
+        "long": -70.2162017822,
+        "name": "Sugarloaf Regional ",
+        "state": "Maine"
+    },
+    "KBGR": {
+        "lat": 44.8073997498,
+        "long": -68.8281021118,
+        "name": "Bangor International ",
+        "state": "Maine"
+    },
+    "KBHB": {
+        "lat": 44.45000076,
+        "long": -68.3615036,
+        "name": "Hancock County-Bar Harbor ",
+        "state": "Maine"
+    },
+    "KBST": {
+        "lat": 44.4094009399,
+        "long": -69.0119018555,
+        "name": "Belfast Municipal ",
+        "state": "Maine"
+    },
+    "KBXM": {
+        "lat": 43.8923551,
+        "long": -69.9388297,
+        "name": "Brunswick Executive ",
+        "state": "Maine"
+    },
+    "KCAR": {
+        "lat": 46.8714981079,
+        "long": -68.0178985596,
+        "name": "Caribou Municipal ",
+        "state": "Maine"
+    },
+    "KEPM": {
+        "lat": 44.9100990295,
+        "long": -67.0127029419,
+        "name": "Eastport Municipal ",
+        "state": "Maine"
+    },
+    "KFVE": {
+        "lat": 47.2854995728,
+        "long": -68.3127975464,
+        "name": "Northern Aroostook Regional ",
+        "state": "Maine"
+    },
+    "KHUL": {
+        "lat": 46.1231002808,
+        "long": -67.792098999,
+        "name": "Houlton International ",
+        "state": "Maine"
+    },
+    "KIWI": {
+        "lat": 43.9613990784,
+        "long": -69.712600708,
+        "name": "Wiscasset ",
+        "state": "Maine"
+    },
+    "KIZG": {
+        "lat": 43.9911003113,
+        "long": -70.9478988647,
+        "name": "Eastern Slopes Regional ",
+        "state": "Maine"
+    },
+    "KLEW": {
+        "lat": 44.048500061,
+        "long": -70.2835006714,
+        "name": "Auburn Lewiston Municipal ",
+        "state": "Maine"
+    },
+    "KLRG": {
+        "lat": 45.3622016907,
+        "long": -68.5346984863,
+        "name": "Lincoln Regional ",
+        "state": "Maine"
+    },
+    "KMLT": {
+        "lat": 45.6478004456,
+        "long": -68.6856002808,
+        "name": "Millinocket Municipal ",
+        "state": "Maine"
+    },
+    "KMVM": {
+        "lat": 44.7030982971,
+        "long": -67.4785995483,
+        "name": "Machias Valley ",
+        "state": "Maine"
+    },
+    "KNHZ": {
+        "lat": 43.89220047,
+        "long": -69.93859863,
+        "name": "Brunswick Naval Air Station",
+        "state": "Maine"
+    },
+    "KOLD": {
+        "lat": 44.95280075,
+        "long": -68.67430115,
+        "name": "Dewitt FieldOld Town Municipal ",
+        "state": "Maine"
+    },
+    "KOWK": {
+        "lat": 44.71549988,
+        "long": -69.86650085,
+        "name": "Central Maine Arpt of Norridgewock ",
+        "state": "Maine"
+    },
+    "KPNM": {
+        "lat": 45.55989838,
+        "long": -93.60820007,
+        "name": "Princeton Municipal ",
+        "state": "Maine"
+    },
+    "KPNN": {
+        "lat": 45.2006988525,
+        "long": -67.5643997192,
+        "name": "Princeton Municipal ",
+        "state": "Maine"
+    },
+    "KPQI": {
+        "lat": 46.68899918,
+        "long": -68.0447998,
+        "name": "Northern Maine Regional  at Presque Isle",
+        "state": "Maine"
+    },
+    "KPWM": {
+        "lat": 43.64619827,
+        "long": -70.30930328,
+        "name": "Portland International Jetport ",
+        "state": "Maine"
+    },
+    "KRKD": {
+        "lat": 44.06010056,
+        "long": -69.09919739,
+        "name": "Knox County Regional ",
+        "state": "Maine"
+    },
+    "KSFM": {
+        "lat": 43.393901825,
+        "long": -70.7080001831,
+        "name": "Sanford Regional ",
+        "state": "Maine"
+    },
+    "KWVL": {
+        "lat": 44.5331993103,
+        "long": -69.6754989624,
+        "name": "Waterville Robert Lafleur ",
+        "state": "Maine"
+    },
+    "ME00": {
+        "lat": 46.765706,
+        "long": -67.847392,
+        "name": "Fort Fairfield ",
+        "state": "Maine"
+    },
+    "ME03": {
+        "lat": 45.3362007141,
+        "long": -69.0509033203,
+        "name": "Webber Jones ",
+        "state": "Maine"
+    },
+    "ME05": {
+        "lat": 46.75,
+        "long": -68.4711990356,
+        "name": "Allen St Peter Memorial ",
+        "state": "Maine"
+    },
+    "ME06": {
+        "lat": 45.0279006958,
+        "long": -67.3094024658,
+        "name": "Flying Ed ",
+        "state": "Maine"
+    },
+    "ME08": {
+        "lat": 45.0402984619,
+        "long": -69.8688964844,
+        "name": "Gadabout Gaddis ",
+        "state": "Maine"
+    },
+    "ME14": {
+        "lat": 44.2305984497,
+        "long": -69.1231002808,
+        "name": "Bald Mountain ",
+        "state": "Maine"
+    },
+    "ME16": {
+        "lat": 46.9504013062,
+        "long": -67.8859024048,
+        "name": "Loring International ",
+        "state": "Maine"
+    },
+    "ME17": {
+        "lat": 44.6601982117,
+        "long": -70.5879974365,
+        "name": "Thomas ",
+        "state": "Maine"
+    },
+    "ME19": {
+        "lat": 46.6161003113,
+        "long": -69.5223007202,
+        "name": "Clayton Lake Strip",
+        "state": "Maine"
+    },
+    "ME20": {
+        "lat": 44.5992012024,
+        "long": -69.6239013672,
+        "name": "Bob-Mar ",
+        "state": "Maine"
+    },
+    "ME22": {
+        "lat": 45.6711997986,
+        "long": -69.8068008423,
+        "name": "Avery Field",
+        "state": "Maine"
+    },
+    "ME25": {
+        "lat": 47.1660995483,
+        "long": -68.391998291,
+        "name": "Sunrise Farms ",
+        "state": "Maine"
+    },
+    "ME32": {
+        "lat": 45.0903015137,
+        "long": -69.2586975098,
+        "name": "Morrel Field",
+        "state": "Maine"
+    },
+    "ME33": {
+        "lat": 43.7787017822,
+        "long": -70.0130996704,
+        "name": "Farr Field",
+        "state": "Maine"
+    },
+    "ME34": {
+        "lat": 44.1736984253,
+        "long": -69.4287033081,
+        "name": "Robinson Ridge Field",
+        "state": "Maine"
+    },
+    "ME35": {
+        "lat": 44.9314994812,
+        "long": -69.0073013306,
+        "name": "Terra B & B ",
+        "state": "Maine"
+    },
+    "ME36": {
+        "lat": 44.5092010498,
+        "long": -69.9525985718,
+        "name": "Mount Vernon ",
+        "state": "Maine"
+    },
+    "ME38": {
+        "lat": 46.5278015137,
+        "long": -67.87449646,
+        "name": "Mars Hill ",
+        "state": "Maine"
+    },
+    "ME39": {
+        "lat": 44.2354011536,
+        "long": -70.132598877,
+        "name": "Rocky Ridge ",
+        "state": "Maine"
+    },
+    "ME41": {
+        "lat": 44.1525993347,
+        "long": -68.8764038086,
+        "name": "Witherspoons ",
+        "state": "Maine"
+    },
+    "ME44": {
+        "lat": 44.2890014648,
+        "long": -70.4461975098,
+        "name": "Cummings ",
+        "state": "Maine"
+    },
+    "ME45": {
+        "lat": 43.4056015015,
+        "long": -70.4322967529,
+        "name": "Goosefair ",
+        "state": "Maine"
+    },
+    "ME46": {
+        "lat": 43.4123001099,
+        "long": -70.4467010498,
+        "name": "Back Acres ",
+        "state": "Maine"
+    },
+    "ME47": {
+        "lat": 44.8544998169,
+        "long": -69.4563980103,
+        "name": "Payne Field",
+        "state": "Maine"
+    },
+    "ME55": {
+        "lat": 44.0736999512,
+        "long": -68.818901062,
+        "name": "Vinalhaven ",
+        "state": "Maine"
+    },
+    "ME56": {
+        "lat": 44.0691986084,
+        "long": -69.3052978516,
+        "name": "Kimberly ",
+        "state": "Maine"
+    },
+    "ME60": {
+        "lat": 44.4683990479,
+        "long": -69.8178024292,
+        "name": "Sunny Hill ",
+        "state": "Maine"
+    },
+    "ME61": {
+        "lat": 43.2944984436,
+        "long": -70.8994979858,
+        "name": "Salmon Falls ",
+        "state": "Maine"
+    },
+    "ME62": {
+        "lat": 44.8097991943,
+        "long": -69.4730987549,
+        "name": "Grignons Private Lndg Area ",
+        "state": "Maine"
+    },
+    "ME64": {
+        "lat": 43.375,
+        "long": -70.9291992188,
+        "name": "Skydive Lebanon ",
+        "state": "Maine"
+    },
+    "ME67": {
+        "lat": 47.1274986267,
+        "long": -67.9658966064,
+        "name": "Morrill Airpark",
+        "state": "Maine"
+    },
+    "ME68": {
+        "lat": 44.820098877,
+        "long": -69.2384033203,
+        "name": "Newport Sky Park ",
+        "state": "Maine"
+    },
+    "ME69": {
+        "lat": 44.0690002441,
+        "long": -70.0644989014,
+        "name": "Cliffords ",
+        "state": "Maine"
+    },
+    "ME70": {
+        "lat": 45.0376014709,
+        "long": -69.4792022705,
+        "name": "Greenfield Hill ",
+        "state": "Maine"
+    },
+    "ME74": {
+        "lat": 44.7495002747,
+        "long": -68.9813995361,
+        "name": "Miller's Field",
+        "state": "Maine"
+    },
+    "ME75": {
+        "lat": 43.9539985657,
+        "long": -70.1414031982,
+        "name": "Margerison ",
+        "state": "Maine"
+    },
+    "ME79": {
+        "lat": 45.3055992126,
+        "long": -69.3467025757,
+        "name": "Two Falls ",
+        "state": "Maine"
+    },
+    "ME88": {
+        "lat": 44.9916992188,
+        "long": -67.0744018555,
+        "name": "Morrison's ",
+        "state": "Maine"
+    },
+    "ME89": {
+        "lat": 43.6083984375,
+        "long": -70.9681015015,
+        "name": "Buzzy's Field",
+        "state": "Maine"
+    },
+    "ME91": {
+        "lat": 43.6750984192,
+        "long": -70.4955978394,
+        "name": "Webster Field",
+        "state": "Maine"
+    },
+    "ME92": {
+        "lat": 44.5167007446,
+        "long": -70.2222976685,
+        "name": "Hilltop ",
+        "state": "Maine"
+    },
+    "ME94": {
+        "lat": 44.2167015076,
+        "long": -69.2911987305,
+        "name": "Clark Field",
+        "state": "Maine"
+    },
+    "ME96": {
+        "lat": 43.7336006165,
+        "long": -70.4863967896,
+        "name": "Clark Field",
+        "state": "Maine"
+    }
+}

@@ -1,0 +1,102 @@
+{
+  "OMAA": {
+    "lat": 24.4330005646,
+    "long": 54.6511001587,
+    "name": "Abu Dhabi International "
+  },
+  "OMAB": {
+    "lat": 23.5997009277,
+    "long": 53.3793983459,
+    "name": "Buhasa "
+  },
+  "OMAD": {
+    "lat": 24.4283008575,
+    "long": 54.4580993652,
+    "name": "Al Bateen Executive "
+  },
+  "OMAF": {
+    "lat": 24.3788890839,
+    "long": 54.3161125183,
+    "name": "Futaysi"
+  },
+  "OMAH": {
+    "lat": 24.0739994049,
+    "long": 52.4636001587,
+    "name": "Al Hamra Aux "
+  },
+  "OMAJ": {
+    "lat": 24.1874008179,
+    "long": 52.6139984131,
+    "name": "Jebel Dhana "
+  },
+  "OMAL": {
+    "lat": 24.2616996765,
+    "long": 55.6091995239,
+    "name": "Al Ain International "
+  },
+  "OMAM": {
+    "lat": 24.2481994629,
+    "long": 54.5476989746,
+    "name": "Al Dhafra Air Base"
+  },
+  "OMAQ": {
+    "lat": 24.9305992126,
+    "long": 52.8550987244,
+    "name": "Qarnayn "
+  },
+  "OMAR": {
+    "lat": 24.780500412,
+    "long": 52.5598983765,
+    "name": "Arzanah "
+  },
+  "OMAS": {
+    "lat": 25.1462001801,
+    "long": 52.8736991882,
+    "name": "Das Island "
+  },
+  "OMAZ": {
+    "lat": 24.8624916077,
+    "long": 53.0771408081,
+    "name": "Zirku "
+  },
+  "OMDB": {
+    "lat": 25.2527999878,
+    "long": 55.3643989563,
+    "name": "Dubai International "
+  },
+  "OMDM": {
+    "lat": 25.0268001556,
+    "long": 55.3661994934,
+    "name": "Al Minhad Air Base"
+  },
+  "OMDW": {
+    "lat": 24.8966666667,
+    "long": 55.1613888889,
+    "name": "Al Maktoum International "
+  },
+  "OMFJ": {
+    "lat": 25.1121997833,
+    "long": 56.3240013123,
+    "name": "Fujairah International "
+  },
+  "OMRK": {
+    "lat": 25.6135005951,
+    "long": 55.9388008118,
+    "name": "Ras Al Khaimah International "
+  },
+  "OMRS": {
+    "lat": 25.7527770996,
+    "long": 55.9594459534,
+    "name": "Al Saqr Field"
+  },
+  "OMSJ": {
+    "lat": 25.3285999298,
+    "long": 55.51720047,
+    "name": "Sharjah International "
+  },
+  "OMUQ": {
+    "lat": 25.5772228241,
+    "long": 55.6511116028,
+    "name": "Umm Al Quwain"
+  }
+}

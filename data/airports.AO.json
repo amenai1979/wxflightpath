@@ -1,0 +1,222 @@
+{
+  "FN17": {
+    "lat": -16.2383995056,
+    "long": 14.3260002136,
+    "name": "Cahama "
+  },
+  "FN18": {
+    "lat": -14.7274999619,
+    "long": 15.013999939,
+    "name": "Matala "
+  },
+  "FN19": {
+    "lat": -9.6530504227,
+    "long": 13.26060009,
+    "name": "Cabo Ledo "
+  },
+  "FNAM": {
+    "lat": -7.8622198105,
+    "long": 13.1161003113,
+    "name": "Ambriz "
+  },
+  "FNBC": {
+    "lat": -6.2698998451,
+    "long": 14.2469997406,
+    "name": "Mbanza Congo "
+  },
+  "FNBG": {
+    "lat": -12.609000206,
+    "long": 13.4036998749,
+    "name": "Benguela "
+  },
+  "FNCA": {
+    "lat": -5.5969901085,
+    "long": 12.1884002686,
+    "name": "Cabinda "
+  },
+  "FNCB": {
+    "lat": -8.1330003738,
+    "long": 14.5,
+    "name": "Camembe "
+  },
+  "FNCC": {
+    "lat": -10.2829999924,
+    "long": 19.2670001984,
+    "name": "Cacolo "
+  },
+  "FNCF": {
+    "lat": -8.7836103439,
+    "long": 17.9897003174,
+    "name": "Cafunfo "
+  },
+  "FNCH": {
+    "lat": -7.3588900566,
+    "long": 20.8047008514,
+    "name": "Chitato "
+  },
+  "FNCM": {
+    "lat": -8.2170000076,
+    "long": 15.3669996262,
+    "name": "Camabatela "
+  },
+  "FNCT": {
+    "lat": -12.4792003632,
+    "long": 13.4869003296,
+    "name": "Catumbela "
+  },
+  "FNCV": {
+    "lat": -15.1603002548,
+    "long": 19.1560993195,
+    "name": "Cuito Cuanavale "
+  },
+  "FNCX": {
+    "lat": -8.3736095428,
+    "long": 18.9235992432,
+    "name": "Camaxilo "
+  },
+  "FNCZ": {
+    "lat": -11.8930997849,
+    "long": 22.9164009094,
+    "name": "Cazombo "
+  },
+  "FNDB": {
+    "lat": -6.9000000954,
+    "long": 15.1330003738,
+    "name": "Damba "
+  },
+  "FNDU": {
+    "lat": -7.4008898735,
+    "long": 20.8185005188,
+    "name": "Dundo "
+  },
+  "FNGI": {
+    "lat": -17.0435009003,
+    "long": 15.6837997437,
+    "name": "Ngjiva Pereira "
+  },
+  "FNHU": {
+    "lat": -12.8088998795,
+    "long": 15.7604999542,
+    "name": "Nova Lisboa "
+  },
+  "FNKU": {
+    "lat": -12.4046001434,
+    "long": 16.9473991394,
+    "name": "Kuito "
+  },
+  "FNLB": {
+    "lat": -12.3711996078,
+    "long": 13.5366001129,
+    "name": "Lobito "
+  },
+  "FNLK": {
+    "lat": -8.4457273483,
+    "long": 20.7320861816,
+    "name": "Lucapa "
+  },
+  "FNLU": {
+    "lat": -8.8583698273,
+    "long": 13.2312002182,
+    "name": "Quatro De Fevereiro "
+  },
+  "FNLZ": {
+    "lat": -9.1159601212,
+    "long": 18.0492992401,
+    "name": "Luzamba "
+  },
+  "FNMA": {
+    "lat": -9.5250902176,
+    "long": 16.3124008179,
+    "name": "Malanje "
+  },
+  "FNME": {
+    "lat": -14.6576004028,
+    "long": 17.7198009491,
+    "name": "Menongue "
+  },
+  "FNMO": {
+    "lat": -15.2611999512,
+    "long": 12.1468000412,
+    "name": "Namibe "
+  },
+  "FNMQ": {
+    "lat": -6.0302801132,
+    "long": 15.1368999481,
+    "name": "Maquela do Zombo "
+  },
+  "FNNG": {
+    "lat": -7.7545099258,
+    "long": 15.2876996994,
+    "name": "Negage "
+  },
+  "FNPA": {
+    "lat": -10.7220001221,
+    "long": 13.7655000687,
+    "name": "Porto Amboim "
+  },
+  "FNPB": {
+    "lat": -7.3000001907,
+    "long": 15.9329996109,
+    "name": "Sanza Pombo "
+  },
+  "FNSA": {
+    "lat": -9.6890697479,
+    "long": 20.4319000244,
+    "name": "Saurimo "
+  },
+  "FNSO": {
+    "lat": -6.1410899162,
+    "long": 12.3718004227,
+    "name": "Soyo "
+  },
+  "FNSU": {
+    "lat": -11.1679000854,
+    "long": 13.8474998474,
+    "name": "Sumbe "
+  },
+  "FNTO": {
+    "lat": -7.1463899612,
+    "long": 14.2486000061,
+    "name": "Toto "
+  },
+  "FNUA": {
+    "lat": -10.7158002853,
+    "long": 22.2311000824,
+    "name": "Luau "
+  },
+  "FNUB": {
+    "lat": -14.9246997833,
+    "long": 13.5749998093,
+    "name": "Lubango "
+  },
+  "FNUE": {
+    "lat": -11.7680997849,
+    "long": 19.8976993561,
+    "name": "Luena "
+  },
+  "FNUG": {
+    "lat": -7.6030697823,
+    "long": 15.0277996063,
+    "name": "Uige "
+  },
+  "FNWK": {
+    "lat": -11.4264001846,
+    "long": 15.1014003754,
+    "name": "Waco Kungo "
+  },
+  "FNXA": {
+    "lat": -16.755399704,
+    "long": 14.9652996063,
+    "name": "Xangongo "
+  },
+  "FNZE": {
+    "lat": -7.2594399452,
+    "long": 12.8631000519,
+    "name": "N'zeto "
+  },
+  "FNZG": {
+    "lat": -7.7169399262,
+    "long": 21.3582000732,
+    "name": "Nzagi "
+  }
+}

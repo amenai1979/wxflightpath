@@ -1,0 +1,1244 @@
+{
+    "01IA": {
+        "lat": 41.6610984802,
+        "long": -90.7413024902,
+        "name": "Stender ",
+        "state": "Iowa"
+    },
+    "03IA": {
+        "lat": 41.5819015503,
+        "long": -92.4613037109,
+        "name": "East Field",
+        "state": "Iowa"
+    },
+    "04IA": {
+        "lat": 41.0882987976,
+        "long": -92.0546035767,
+        "name": "Middlekoop ",
+        "state": "Iowa"
+    },
+    "05IA": {
+        "lat": 43.1375007629,
+        "long": -93.0682983398,
+        "name": "Spotts Field",
+        "state": "Iowa"
+    },
+    "06IA": {
+        "lat": 41.8414001465,
+        "long": -91.8342971802,
+        "name": "Rich Field",
+        "state": "Iowa"
+    },
+    "09IA": {
+        "lat": 41.7458000183,
+        "long": -92.4093017578,
+        "name": "Skydive Iowa ",
+        "state": "Iowa"
+    },
+    "0IA3": {
+        "lat": 42.4347000122,
+        "long": -92.3280029297,
+        "name": "Hawkeye ",
+        "state": "Iowa"
+    },
+    "0IA4": {
+        "lat": 41.0334014893,
+        "long": -91.0501022339,
+        "name": "Sharar Field",
+        "state": "Iowa"
+    },
+    "0IA5": {
+        "lat": 40.8722000122,
+        "long": -93.2627029419,
+        "name": "Moore Private ",
+        "state": "Iowa"
+    },
+    "0IA6": {
+        "lat": 41.6596984863,
+        "long": -92.2899017334,
+        "name": "Rinehart ",
+        "state": "Iowa"
+    },
+    "0IA8": {
+        "lat": 42.2280006409,
+        "long": -91.7509994507,
+        "name": "Hannen ",
+        "state": "Iowa"
+    },
+    "10IA": {
+        "lat": 42.4166984558,
+        "long": -92.2501983643,
+        "name": "Flyers ",
+        "state": "Iowa"
+    },
+    "12IA": {
+        "lat": 42.8004989624,
+        "long": -96.137802124,
+        "name": "Plueger Airfield",
+        "state": "Iowa"
+    },
+    "13IA": {
+        "lat": 42.0457000732,
+        "long": -90.1911010742,
+        "name": "Hillside Stables ",
+        "state": "Iowa"
+    },
+    "16IA": {
+        "lat": 41.8807983398,
+        "long": -94.7771987915,
+        "name": "Stangl STOLport",
+        "state": "Iowa"
+    },
+    "19IA": {
+        "lat": 40.8568000793,
+        "long": -91.2037963867,
+        "name": "Ancam Antique Airfield",
+        "state": "Iowa"
+    },
+    "1IA0": {
+        "lat": 40.8972015381,
+        "long": -94.7910995483,
+        "name": "Brown Truck Sales ",
+        "state": "Iowa"
+    },
+    "1IA4": {
+        "lat": 41.0555000305,
+        "long": -94.3946990967,
+        "name": "Wallace Field",
+        "state": "Iowa"
+    },
+    "1IA6": {
+        "lat": 40.8849983215,
+        "long": -95.4852981567,
+        "name": "Aero-Lane ",
+        "state": "Iowa"
+    },
+    "1IA9": {
+        "lat": 43.0676994324,
+        "long": -93.9021987915,
+        "name": "Newbrough ",
+        "state": "Iowa"
+    },
+    "24IA": {
+        "lat": 42.5158004761,
+        "long": -92.5197982788,
+        "name": "Isley Field",
+        "state": "Iowa"
+    },
+    "27IA": {
+        "lat": 40.7513008118,
+        "long": -92.0307006836,
+        "name": "Oldfield Aero",
+        "state": "Iowa"
+    },
+    "2IA9": {
+        "lat": 43.1907997131,
+        "long": -93.7707977295,
+        "name": "South 80 Field",
+        "state": "Iowa"
+    },
+    "39IA": {
+        "lat": 41.6794013977,
+        "long": -94.0202026367,
+        "name": "Husband Field",
+        "state": "Iowa"
+    },
+    "3IA1": {
+        "lat": 41.9608001709,
+        "long": -93.1199035645,
+        "name": "Whites ",
+        "state": "Iowa"
+    },
+    "3IA4": {
+        "lat": 41.5318984985,
+        "long": -95.9420013428,
+        "name": "Robinson ",
+        "state": "Iowa"
+    },
+    "3IA5": {
+        "lat": 42.8772010803,
+        "long": -95.8824996948,
+        "name": "Kerr ",
+        "state": "Iowa"
+    },
+    "3IA9": {
+        "lat": 43.4757995605,
+        "long": -93.9072036743,
+        "name": "Rake ",
+        "state": "Iowa"
+    },
+    "46IA": {
+        "lat": 41.7557983398,
+        "long": -93.5665969849,
+        "name": "Todd Field",
+        "state": "Iowa"
+    },
+    "4IA2": {
+        "lat": 41.586101532,
+        "long": -91.220199585,
+        "name": "Walker Field",
+        "state": "Iowa"
+    },
+    "4IA4": {
+        "lat": 40.8185997009,
+        "long": -91.3388977051,
+        "name": "Mccoy ",
+        "state": "Iowa"
+    },
+    "4IA7": {
+        "lat": 42.47190094,
+        "long": -92.49520111,
+        "name": "Witcombe Field",
+        "state": "Iowa"
+    },
+    "4IA8": {
+        "lat": 41.6472015381,
+        "long": -91.959602356,
+        "name": "Weiss ",
+        "state": "Iowa"
+    },
+    "4IA9": {
+        "lat": 42.4583015442,
+        "long": -92.7223968506,
+        "name": "Triple J ",
+        "state": "Iowa"
+    },
+    "53IA": {
+        "lat": 41.9500007629,
+        "long": -92.5765991211,
+        "name": "Tama ",
+        "state": "Iowa"
+    },
+    "5IA3": {
+        "lat": 40.8438987732,
+        "long": -93.5427017212,
+        "name": "Watkins Private ",
+        "state": "Iowa"
+    },
+    "5IA5": {
+        "lat": 43.1430015564,
+        "long": -92.8779983521,
+        "name": "Folkerts ",
+        "state": "Iowa"
+    },
+    "5IA6": {
+        "lat": 42.8305015564,
+        "long": -94.0115966797,
+        "name": "Flying S Ranch ",
+        "state": "Iowa"
+    },
+    "5IA7": {
+        "lat": 41.4216995239,
+        "long": -91.8331985474,
+        "name": "Murphy Field Private ",
+        "state": "Iowa"
+    },
+    "62IA": {
+        "lat": 42.0666999817,
+        "long": -91.3667984009,
+        "name": "Lerchs ",
+        "state": "Iowa"
+    },
+    "6IA5": {
+        "lat": 42.6166992188,
+        "long": -92.2169036865,
+        "name": "Davis Field",
+        "state": "Iowa"
+    },
+    "6IA6": {
+        "lat": 42.1500015259,
+        "long": -92.9751968384,
+        "name": "Leise ",
+        "state": "Iowa"
+    },
+    "6IA7": {
+        "lat": 40.990398407,
+        "long": -91.7442016602,
+        "name": "R S Auto ",
+        "state": "Iowa"
+    },
+    "73IA": {
+        "lat": 43.23559952,
+        "long": -93.20829773,
+        "name": "Harris Field",
+        "state": "Iowa"
+    },
+    "7IA1": {
+        "lat": 41.4934997559,
+        "long": -92.1482009888,
+        "name": "White Pigeon ",
+        "state": "Iowa"
+    },
+    "7IA3": {
+        "lat": 42.0638999939,
+        "long": -91.6343002319,
+        "name": "Mc Bride Field",
+        "state": "Iowa"
+    },
+    "7IA7": {
+        "lat": 43.0835990906,
+        "long": -92.3099975586,
+        "name": "Mitchell Field",
+        "state": "Iowa"
+    },
+    "85IA": {
+        "lat": 43.1786003113,
+        "long": -92.6974029541,
+        "name": "Henry ",
+        "state": "Iowa"
+    },
+    "89IA": {
+        "lat": 42.051399231,
+        "long": -91.716796875,
+        "name": "Chain Lakes Airpark",
+        "state": "Iowa"
+    },
+    "8IA2": {
+        "lat": 41.1739006042,
+        "long": -91.3618011475,
+        "name": "Port Paradise Farms ",
+        "state": "Iowa"
+    },
+    "8IA9": {
+        "lat": 41.15610123,
+        "long": -95.24420166,
+        "name": "Shields ",
+        "state": "Iowa"
+    },
+    "90IA": {
+        "lat": 41.5402984619,
+        "long": -95.887802124,
+        "name": "Missouri Valley ",
+        "state": "Iowa"
+    },
+    "93IA": {
+        "lat": 42.2602996826,
+        "long": -93.6496963501,
+        "name": "Lund ",
+        "state": "Iowa"
+    },
+    "97IA": {
+        "lat": 41.2557983398,
+        "long": -95.4766998291,
+        "name": "Volkens Field",
+        "state": "Iowa"
+    },
+    "99IA": {
+        "lat": 41.2165985107,
+        "long": -92.7779998779,
+        "name": "Courtney's Landing ",
+        "state": "Iowa"
+    },
+    "IA00": {
+        "lat": 41.5200004578,
+        "long": -94.362701416,
+        "name": "Jukam's Landing ",
+        "state": "Iowa"
+    },
+    "IA01": {
+        "lat": 41.351398468,
+        "long": -95.4664001465,
+        "name": "Ridge ",
+        "state": "Iowa"
+    },
+    "IA02": {
+        "lat": 42.2620010376,
+        "long": -90.5801010132,
+        "name": "Hoff ",
+        "state": "Iowa"
+    },
+    "IA03": {
+        "lat": 42.5222015381,
+        "long": -92.4945983887,
+        "name": "Lemons ",
+        "state": "Iowa"
+    },
+    "IA05": {
+        "lat": 40.8516998291,
+        "long": -92.8584976196,
+        "name": "Rathbun Lake ",
+        "state": "Iowa"
+    },
+    "IA06": {
+        "lat": 41.3833007813,
+        "long": -92.1835021973,
+        "name": "Sig-Nor ",
+        "state": "Iowa"
+    },
+    "IA07": {
+        "lat": 40.7667007446,
+        "long": -93.300201416,
+        "name": "Grismore ",
+        "state": "Iowa"
+    },
+    "IA08": {
+        "lat": 42.2780990601,
+        "long": -94.5516967773,
+        "name": "Riedesel Private ",
+        "state": "Iowa"
+    },
+    "IA11": {
+        "lat": 41.2938995361,
+        "long": -93.6654968262,
+        "name": "Too Short ",
+        "state": "Iowa"
+    },
+    "IA12": {
+        "lat": 43.0971984863,
+        "long": -93.4021987915,
+        "name": "Lloyd's Field",
+        "state": "Iowa"
+    },
+    "IA15": {
+        "lat": 42.8869018555,
+        "long": -91.9360961914,
+        "name": "Hawk Field",
+        "state": "Iowa"
+    },
+    "IA16": {
+        "lat": 41.7083015442,
+        "long": -91.5001983643,
+        "name": "Picayune ",
+        "state": "Iowa"
+    },
+    "IA17": {
+        "lat": 42.6230010986,
+        "long": -92.5012969971,
+        "name": "Bluebird ",
+        "state": "Iowa"
+    },
+    "IA18": {
+        "lat": 42.4707984924,
+        "long": -92.0885009766,
+        "name": "Poyner ",
+        "state": "Iowa"
+    },
+    "IA21": {
+        "lat": 41.5999984741,
+        "long": -90.3834991455,
+        "name": "Schurr ",
+        "state": "Iowa"
+    },
+    "IA22": {
+        "lat": 40.9384002686,
+        "long": -91.403503418,
+        "name": "Orr-Port ",
+        "state": "Iowa"
+    },
+    "IA23": {
+        "lat": 42.8088989258,
+        "long": -91.098197937,
+        "name": "Gaa Private ",
+        "state": "Iowa"
+    },
+    "IA24": {
+        "lat": 41.7550010681,
+        "long": -91.7276992798,
+        "name": "Green Castle ",
+        "state": "Iowa"
+    },
+    "IA25": {
+        "lat": 41.8005981445,
+        "long": -91.4399032593,
+        "name": "Bartlett Field",
+        "state": "Iowa"
+    },
+    "IA26": {
+        "lat": 40.8083992004,
+        "long": -91.8085021973,
+        "name": "Carter Field",
+        "state": "Iowa"
+    },
+    "IA27": {
+        "lat": 40.9777984619,
+        "long": -92.5876998901,
+        "name": "Antique Airfield",
+        "state": "Iowa"
+    },
+    "IA28": {
+        "lat": 42.0583000183,
+        "long": -91.6902008057,
+        "name": "Sherman ",
+        "state": "Iowa"
+    },
+    "IA30": {
+        "lat": 42.2999992371,
+        "long": -90.7500991821,
+        "name": "Kleis ",
+        "state": "Iowa"
+    },
+    "IA31": {
+        "lat": 42.7666015625,
+        "long": -93.2460021973,
+        "name": "Beeds Lake ",
+        "state": "Iowa"
+    },
+    "IA32": {
+        "lat": 41.3250007629,
+        "long": -92.7171020508,
+        "name": "Pierson Field",
+        "state": "Iowa"
+    },
+    "IA33": {
+        "lat": 43.0119018555,
+        "long": -93.242401123,
+        "name": "Dad's Field",
+        "state": "Iowa"
+    },
+    "IA35": {
+        "lat": 41.1871986389,
+        "long": -95.9041976929,
+        "name": "Ruckl ",
+        "state": "Iowa"
+    },
+    "IA36": {
+        "lat": 41.0750007629,
+        "long": -94.426902771,
+        "name": "Mercer Field",
+        "state": "Iowa"
+    },
+    "IA38": {
+        "lat": 41.5480995178,
+        "long": -93.4291992188,
+        "name": "De Louis Field",
+        "state": "Iowa"
+    },
+    "IA41": {
+        "lat": 41.4152984619,
+        "long": -93.5613021851,
+        "name": "Laverty Field",
+        "state": "Iowa"
+    },
+    "IA44": {
+        "lat": 40.6514015198,
+        "long": -93.9608001709,
+        "name": "Solly's Strip Ultralightport",
+        "state": "Iowa"
+    },
+    "IA45": {
+        "lat": 42.7750015259,
+        "long": -95.8460998535,
+        "name": "Willie's Bomber Patch ",
+        "state": "Iowa"
+    },
+    "IA47": {
+        "lat": 41.6402015686,
+        "long": -93.8087997437,
+        "name": "Day Field",
+        "state": "Iowa"
+    },
+    "IA48": {
+        "lat": 41.7416992188,
+        "long": -93.7251968384,
+        "name": "Kern Field",
+        "state": "Iowa"
+    },
+    "IA49": {
+        "lat": 43.1450004578,
+        "long": -92.0534973145,
+        "name": "Jirak ",
+        "state": "Iowa"
+    },
+    "IA50": {
+        "lat": 41.2907981873,
+        "long": -92.18800354,
+        "name": "Sigourney Iowa ",
+        "state": "Iowa"
+    },
+    "IA51": {
+        "lat": 41.5416984558,
+        "long": -94.0085983276,
+        "name": "De Soto ",
+        "state": "Iowa"
+    },
+    "IA52": {
+        "lat": 43.4430007935,
+        "long": -94.8479995728,
+        "name": "Freedom Field",
+        "state": "Iowa"
+    },
+    "IA54": {
+        "lat": 42.5022010803,
+        "long": -90.8432006836,
+        "name": "Anderson ",
+        "state": "Iowa"
+    },
+    "IA56": {
+        "lat": 41.7804985046,
+        "long": -93.3794021606,
+        "name": "Farrar ",
+        "state": "Iowa"
+    },
+    "IA58": {
+        "lat": 42.1150016785,
+        "long": -96.1719970703,
+        "name": "B-8 Farms ",
+        "state": "Iowa"
+    },
+    "IA59": {
+        "lat": 40.3917007446,
+        "long": -91.4168014526,
+        "name": "Bickel STOLport",
+        "state": "Iowa"
+    },
+    "IA61": {
+        "lat": 41.0802993774,
+        "long": -91.9466018677,
+        "name": "Estle Field",
+        "state": "Iowa"
+    },
+    "IA62": {
+        "lat": 41.5332984924,
+        "long": -95.075302124,
+        "name": "Wheatley Farms ",
+        "state": "Iowa"
+    },
+    "IA63": {
+        "lat": 41.2583007813,
+        "long": -92.5515975952,
+        "name": "Edgren ",
+        "state": "Iowa"
+    },
+    "IA65": {
+        "lat": 40.6208992004,
+        "long": -91.5418014526,
+        "name": "Donnellson ",
+        "state": "Iowa"
+    },
+    "IA66": {
+        "lat": 41.3039016724,
+        "long": -93.5677032471,
+        "name": "Nash Field Indianola ",
+        "state": "Iowa"
+    },
+    "IA68": {
+        "lat": 42.2667007446,
+        "long": -90.6007003784,
+        "name": "Freedom Field",
+        "state": "Iowa"
+    },
+    "IA69": {
+        "lat": 42.8736000061,
+        "long": -95.8031005859,
+        "name": "Sand Field ",
+        "state": "Iowa"
+    },
+    "IA70": {
+        "lat": 43.4258003235,
+        "long": -93.8358001709,
+        "name": "Friesenborg & Larson ",
+        "state": "Iowa"
+    },
+    "IA76": {
+        "lat": 40.728099823,
+        "long": -93.3432998657,
+        "name": "Cobb Farm ",
+        "state": "Iowa"
+    },
+    "IA77": {
+        "lat": 41.0264015198,
+        "long": -91.1417999268,
+        "name": "Keitzer Field",
+        "state": "Iowa"
+    },
+    "IA80": {
+        "lat": 42.4961013794,
+        "long": -91.179901123,
+        "name": "Dyersville Area ",
+        "state": "Iowa"
+    },
+    "IA83": {
+        "lat": 42.9538993835,
+        "long": -94.1677017212,
+        "name": "Kohlhaas ",
+        "state": "Iowa"
+    },
+    "IA84": {
+        "lat": 42.4832992554,
+        "long": -96.200302124,
+        "name": "Lawton ",
+        "state": "Iowa"
+    },
+    "IA85": {
+        "lat": 41.4351005554,
+        "long": -93.5404968262,
+        "name": "Tuinstra Airfield",
+        "state": "Iowa"
+    },
+    "IA86": {
+        "lat": 41.2667007446,
+        "long": -93.5093994141,
+        "name": "Hedgewood Landing ",
+        "state": "Iowa"
+    },
+    "IA87": {
+        "lat": 41.6575012207,
+        "long": -93.8210983276,
+        "name": "Robel Field",
+        "state": "Iowa"
+    },
+    "IA93": {
+        "lat": 41.6128005981,
+        "long": -95.8955993652,
+        "name": "Olsen ",
+        "state": "Iowa"
+    },
+    "IA94": {
+        "lat": 42.4333000183,
+        "long": -94.2835998535,
+        "name": "Nesler Field",
+        "state": "Iowa"
+    },
+    "IA97": {
+        "lat": 42.3166999817,
+        "long": -92.2835006714,
+        "name": "Nichols ",
+        "state": "Iowa"
+    },
+    "K0K7": {
+        "lat": 42.7360992432,
+        "long": -94.2452011108,
+        "name": "Humboldt Municipal ",
+        "state": "Iowa"
+    },
+    "K2Y4": {
+        "lat": 42.3875007629,
+        "long": -94.6179962158,
+        "name": "Rockwell City Municipal ",
+        "state": "Iowa"
+    },
+    "K3Y2": {
+        "lat": 42.9850997925,
+        "long": -91.7906036377,
+        "name": "George L Scott Municipal ",
+        "state": "Iowa"
+    },
+    "K3Y3": {
+        "lat": 41.3628005981,
+        "long": -94.0211029053,
+        "name": "Winterset Madison County ",
+        "state": "Iowa"
+    },
+    "K4C8": {
+        "lat": 40.9944992065,
+        "long": -92.7630004883,
+        "name": "Albia Municipal ",
+        "state": "Iowa"
+    },
+    "K4K6": {
+        "lat": 40.7321014404,
+        "long": -92.4282989502,
+        "name": "Bloomfield Municipal ",
+        "state": "Iowa"
+    },
+    "K8C4": {
+        "lat": 41.7634010315,
+        "long": -91.1529006958,
+        "name": "Mathews Memorial ",
+        "state": "Iowa"
+    },
+    "KADU": {
+        "lat": 41.7014007568,
+        "long": -94.920501709,
+        "name": "Audubon County ",
+        "state": "Iowa"
+    },
+    "KAIO": {
+        "lat": 41.40729904,
+        "long": -95.04689789,
+        "name": "Atlantic Municipal ",
+        "state": "Iowa"
+    },
+    "KALO": {
+        "lat": 42.5570983887,
+        "long": -92.4002990723,
+        "name": "Waterloo Regional ",
+        "state": "Iowa"
+    },
+    "KAMW": {
+        "lat": 41.99200058,
+        "long": -93.62180328,
+        "name": "Ames Municipal ",
+        "state": "Iowa"
+    },
+    "KAWG": {
+        "lat": 41.2761001587,
+        "long": -91.6734008789,
+        "name": "Washington Municipal ",
+        "state": "Iowa"
+    },
+    "KAXA": {
+        "lat": 43.0778999329,
+        "long": -94.2720031738,
+        "name": "Algona Municipal ",
+        "state": "Iowa"
+    },
+    "KBNW": {
+        "lat": 42.0495986938,
+        "long": -93.8476028442,
+        "name": "Boone Municipal ",
+        "state": "Iowa"
+    },
+    "KBRL": {
+        "lat": 40.7831993103,
+        "long": -91.12550354,
+        "name": "Southeast Iowa Regional ",
+        "state": "Iowa"
+    },
+    "KBUU": {
+        "lat": 42.690700531,
+        "long": -88.3046035767,
+        "name": "Burlington Municipal ",
+        "state": "Iowa"
+    },
+    "KC17": {
+        "lat": 42.0311012268,
+        "long": -91.529296875,
+        "name": "Marion ",
+        "state": "Iowa"
+    },
+    "KC27": {
+        "lat": 42.4933013916,
+        "long": -91.4984970093,
+        "name": "Manchester Municipal ",
+        "state": "Iowa"
+    },
+    "KCAV": {
+        "lat": 42.7419013977,
+        "long": -93.7589035034,
+        "name": "Clarion Municipal ",
+        "state": "Iowa"
+    },
+    "KCBF": {
+        "lat": 41.2592010498,
+        "long": -95.760597229,
+        "name": "Council Bluffs Municipal ",
+        "state": "Iowa"
+    },
+    "KCCY": {
+        "lat": 43.0726013184,
+        "long": -92.6108016968,
+        "name": "Northeast Iowa Regional ",
+        "state": "Iowa"
+    },
+    "KCID": {
+        "lat": 41.8847007751,
+        "long": -91.7108001709,
+        "name": "The Eastern Iowa ",
+        "state": "Iowa"
+    },
+    "KCIN": {
+        "lat": 42.0461997986,
+        "long": -94.7890014648,
+        "name": "Arthur N Neu ",
+        "state": "Iowa"
+    },
+    "KCJJ": {
+        "lat": 43.3652992249,
+        "long": -92.133102417,
+        "name": "Ellen Church Field",
+        "state": "Iowa"
+    },
+    "KCKP": {
+        "lat": 42.7317009,
+        "long": -95.55590057,
+        "name": "Cherokee County Regional ",
+        "state": "Iowa"
+    },
+    "KCNC": {
+        "lat": 41.0195999146,
+        "long": -93.359703064,
+        "name": "Chariton Municipal ",
+        "state": "Iowa"
+    },
+    "KCRZ": {
+        "lat": 40.9940986633,
+        "long": -94.7549972534,
+        "name": "Corning Municipal ",
+        "state": "Iowa"
+    },
+    "KCSQ": {
+        "lat": 41.0214004517,
+        "long": -94.3632965088,
+        "name": "Creston Municipal ",
+        "state": "Iowa"
+    },
+    "KD02": {
+        "lat": 43.2924995422,
+        "long": -92.7959976196,
+        "name": "Osage Municipal ",
+        "state": "Iowa"
+    },
+    "KDBQ": {
+        "lat": 42.40200043,
+        "long": -90.70950317,
+        "name": "Dubuque Regional ",
+        "state": "Iowa"
+    },
+    "KDEH": {
+        "lat": 43.27550125,
+        "long": -91.73940277,
+        "name": "Decorah Municipal ",
+        "state": "Iowa"
+    },
+    "KDNS": {
+        "lat": 41.9864006,
+        "long": -95.38069916,
+        "name": "Denison Municipal ",
+        "state": "Iowa"
+    },
+    "KDSM": {
+        "lat": 41.5340003967,
+        "long": -93.6631011963,
+        "name": "Des Moines International ",
+        "state": "Iowa"
+    },
+    "KDVN": {
+        "lat": 41.61029816,
+        "long": -90.58830261,
+        "name": "Davenport Municipal ",
+        "state": "Iowa"
+    },
+    "KEAG": {
+        "lat": 42.7098007202,
+        "long": -93.9160995483,
+        "name": "Eagle Grove Municipal ",
+        "state": "Iowa"
+    },
+    "KEBS": {
+        "lat": 42.43659973,
+        "long": -93.86889648,
+        "name": "Webster City Municipal ",
+        "state": "Iowa"
+    },
+    "KEFW": {
+        "lat": 42.0102005,
+        "long": -94.34259796,
+        "name": "Jefferson Municipal ",
+        "state": "Iowa"
+    },
+    "KEGQ": {
+        "lat": 43.1020011902,
+        "long": -94.7046966553,
+        "name": "Emmetsburg Municipal ",
+        "state": "Iowa"
+    },
+    "KEOK": {
+        "lat": 40.4598999023,
+        "long": -91.4284973145,
+        "name": "Keokuk Municipal ",
+        "state": "Iowa"
+    },
+    "KEST": {
+        "lat": 43.40739822,
+        "long": -94.74639893,
+        "name": "Estherville Municipal ",
+        "state": "Iowa"
+    },
+    "KF22": {
+        "lat": 36.3856010437,
+        "long": -97.2771987915,
+        "name": "Perry Municipal ",
+        "state": "Iowa"
+    },
+    "KFFL": {
+        "lat": 41.0532989502,
+        "long": -91.9788970947,
+        "name": "Fairfield Municipal ",
+        "state": "Iowa"
+    },
+    "KFOD": {
+        "lat": 42.55149841,
+        "long": -94.19259644,
+        "name": "Fort Dodge Regional ",
+        "state": "Iowa"
+    },
+    "KFSW": {
+        "lat": 40.6593017578,
+        "long": -91.3267974854,
+        "name": "Fort Madison Municipal ",
+        "state": "Iowa"
+    },
+    "KFXY": {
+        "lat": 43.23469925,
+        "long": -93.62409973,
+        "name": "Forest City Municipal ",
+        "state": "Iowa"
+    },
+    "KGCT": {
+        "lat": 41.6878013611,
+        "long": -94.4352035522,
+        "name": "Guthrie County Regional ",
+        "state": "Iowa"
+    },
+    "KGFZ": {
+        "lat": 41.32699966,
+        "long": -94.4457016,
+        "name": "Greenfield Municipal ",
+        "state": "Iowa"
+    },
+    "KGGI": {
+        "lat": 41.7092018127,
+        "long": -92.7349014282,
+        "name": "Grinnell Regional ",
+        "state": "Iowa"
+    },
+    "KHNR": {
+        "lat": 41.584400177,
+        "long": -95.3395996094,
+        "name": "Harlan Municipal ",
+        "state": "Iowa"
+    },
+    "KHOT": {
+        "lat": 34.4780006409,
+        "long": -93.0961990356,
+        "name": "Memorial Field",
+        "state": "Iowa"
+    },
+    "KHPT": {
+        "lat": 42.7237014771,
+        "long": -93.2263031006,
+        "name": "Hampton Municipal ",
+        "state": "Iowa"
+    },
+    "KI75": {
+        "lat": 41.0522003174,
+        "long": -93.6896972656,
+        "name": "Osceola Municipal ",
+        "state": "Iowa"
+    },
+    "KICL": {
+        "lat": 40.72180176,
+        "long": -95.02639771,
+        "name": "Schenck Field",
+        "state": "Iowa"
+    },
+    "KIDG": {
+        "lat": 42.3325996399,
+        "long": -95.4449005127,
+        "name": "Ida Grove Municipal ",
+        "state": "Iowa"
+    },
+    "KIFA": {
+        "lat": 42.4707984924,
+        "long": -93.2699966431,
+        "name": "Iowa Falls Municipal ",
+        "state": "Iowa"
+    },
+    "KIIB": {
+        "lat": 42.45360184,
+        "long": -91.94760132,
+        "name": "Independence Municipal ",
+        "state": "Iowa"
+    },
+    "KIKV": {
+        "lat": 41.6913986206,
+        "long": -93.5663986206,
+        "name": "Ankeny Regional ",
+        "state": "Iowa"
+    },
+    "KIOW": {
+        "lat": 41.6391983032,
+        "long": -91.5465011597,
+        "name": "Iowa City Municipal ",
+        "state": "Iowa"
+    },
+    "KISB": {
+        "lat": 43.36949921,
+        "long": -95.75980377,
+        "name": "Sibley Municipal ",
+        "state": "Iowa"
+    },
+    "KK36": {
+        "lat": 42.0043983459,
+        "long": -96.1035995483,
+        "name": "Onawa Municipal ",
+        "state": "Iowa"
+    },
+    "KLRJ": {
+        "lat": 42.77799988,
+        "long": -96.1937027,
+        "name": "Le Mars Municipal ",
+        "state": "Iowa"
+    },
+    "KMCW": {
+        "lat": 43.1577987671,
+        "long": -93.3312988281,
+        "name": "Mason City Municipal ",
+        "state": "Iowa"
+    },
+    "KMEY": {
+        "lat": 42.1782989502,
+        "long": -95.7936019897,
+        "name": "James G. Whiting Memorial Field",
+        "state": "Iowa"
+    },
+    "KMIW": {
+        "lat": 42.112701416,
+        "long": -92.9178009033,
+        "name": "Marshalltown Municipal ",
+        "state": "Iowa"
+    },
+    "KMPZ": {
+        "lat": 40.94660187,
+        "long": -91.51110077,
+        "name": "Mount Pleasant Municipal ",
+        "state": "Iowa"
+    },
+    "KMUT": {
+        "lat": 41.3678016663,
+        "long": -91.1482009888,
+        "name": "Muscatine Municipal ",
+        "state": "Iowa"
+    },
+    "KMXO": {
+        "lat": 42.22040176,
+        "long": -91.16329956,
+        "name": "Monticello Regional ",
+        "state": "Iowa"
+    },
+    "KOLZ": {
+        "lat": 42.6808013916,
+        "long": -91.9745025635,
+        "name": "Oelwein Municipal ",
+        "state": "Iowa"
+    },
+    "KOOA": {
+        "lat": 41.2262001,
+        "long": -92.49389648,
+        "name": "Oskaloosa Municipal ",
+        "state": "Iowa"
+    },
+    "KOQW": {
+        "lat": 42.0500984192,
+        "long": -90.7388000488,
+        "name": "Maquoketa Municipal ",
+        "state": "Iowa"
+    },
+    "KORC": {
+        "lat": 42.9902992249,
+        "long": -96.0627975464,
+        "name": "Orange City Municipal ",
+        "state": "Iowa"
+    },
+    "KOTM": {
+        "lat": 41.10660172,
+        "long": -92.44789886,
+        "name": "Ottumwa Regional ",
+        "state": "Iowa"
+    },
+    "KOXV": {
+        "lat": 41.2989006042,
+        "long": -93.1138000488,
+        "name": "Knoxville Municipal ",
+        "state": "Iowa"
+    },
+    "KPEA": {
+        "lat": 41.400100708,
+        "long": -92.9458999634,
+        "name": "Pella Municipal ",
+        "state": "Iowa"
+    },
+    "KPOH": {
+        "lat": 42.74280167,
+        "long": -94.64730072,
+        "name": "Pocahontas Municipal ",
+        "state": "Iowa"
+    },
+    "KPRO": {
+        "lat": 41.82799911,
+        "long": -94.15989685,
+        "name": "Perry Municipal ",
+        "state": "Iowa"
+    },
+    "KRDK": {
+        "lat": 41.01050186,
+        "long": -95.25990295,
+        "name": "Red Oak Municipal ",
+        "state": "Iowa"
+    },
+    "KRRQ": {
+        "lat": 43.4522018433,
+        "long": -96.1798019409,
+        "name": "Rock Rapids Municipal ",
+        "state": "Iowa"
+    },
+    "KSDA": {
+        "lat": 40.7515983582,
+        "long": -95.4136962891,
+        "name": "Shenandoah Municipal ",
+        "state": "Iowa"
+    },
+    "KSHL": {
+        "lat": 43.2084007263,
+        "long": -95.8333969116,
+        "name": "Sheldon Municipal ",
+        "state": "Iowa"
+    },
+    "KSKI": {
+        "lat": 42.3791007996,
+        "long": -94.9796981812,
+        "name": "Sac City Municipal ",
+        "state": "Iowa"
+    },
+    "KSLB": {
+        "lat": 42.5973014832,
+        "long": -95.2406997681,
+        "name": "Storm Lake Municipal ",
+        "state": "Iowa"
+    },
+    "KSOY": {
+        "lat": 43.1343994141,
+        "long": -96.1875,
+        "name": "Sioux Center Municipal ",
+        "state": "Iowa"
+    },
+    "KSPW": {
+        "lat": 43.1655006409,
+        "long": -95.202796936,
+        "name": "Spencer Municipal ",
+        "state": "Iowa"
+    },
+    "KSUX": {
+        "lat": 42.40259933,
+        "long": -96.38439941,
+        "name": "Sioux Gateway Col. Bud Day Field",
+        "state": "Iowa"
+    },
+    "KTNU": {
+        "lat": 41.6744003296,
+        "long": -93.021697998,
+        "name": "Newton Municipal ",
+        "state": "Iowa"
+    },
+    "KTVK": {
+        "lat": 40.68389893,
+        "long": -92.90100098,
+        "name": "Centerville Municipal ",
+        "state": "Iowa"
+    },
+    "KTZT": {
+        "lat": 41.8787994385,
+        "long": -92.2845993042,
+        "name": "Belle Plaine Municipal ",
+        "state": "Iowa"
+    },
+    "KVTI": {
+        "lat": 42.21860123,
+        "long": -92.02590179,
+        "name": "Vinton Veterans Memorial Airpark",
+        "state": "Iowa"
+    },
+    "KY43": {
+        "lat": 41.4402999878,
+        "long": -94.7696990967,
+        "name": "Anita Municipal Kevin Burke Memorial Field",
+        "state": "Iowa"
+    },
+    "PAMR": {
+        "lat": 61.2135009766,
+        "long": -149.8439941406,
+        "name": "Merrill Field",
+        "state": "Iowa"
+    }
+}

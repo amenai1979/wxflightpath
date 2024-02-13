@@ -1,0 +1,542 @@
+{
+    "01WY": {
+        "lat": 44.3471984863,
+        "long": -104.8109970093,
+        "name": "Keyhole ",
+        "state": "Wyoming"
+    },
+    "0WY0": {
+        "lat": 43.039722,
+        "long": -111.038056,
+        "name": "Freedom Air Ranch ",
+        "state": "Wyoming"
+    },
+    "0WY1": {
+        "lat": 44.411111,
+        "long": -108.163333,
+        "name": "Dorsey Creek Ranch ",
+        "state": "Wyoming"
+    },
+    "10WY": {
+        "lat": 43.423333,
+        "long": -106.823611,
+        "name": "Willow Creek Ranch ",
+        "state": "Wyoming"
+    },
+    "12WY": {
+        "lat": 44.45,
+        "long": -108.384667,
+        "name": "Black Diamond ",
+        "state": "Wyoming"
+    },
+    "22WY": {
+        "lat": 44.338056,
+        "long": -105.162117,
+        "name": "Kissack/Reynolds ",
+        "state": "Wyoming"
+    },
+    "2WY3": {
+        "lat": 43.0071983337,
+        "long": -110.3170013428,
+        "name": "Haas ",
+        "state": "Wyoming"
+    },
+    "2WY8": {
+        "lat": 44.4043998718,
+        "long": -109.2819976807,
+        "name": "Bar Flying E ",
+        "state": "Wyoming"
+    },
+    "44WY": {
+        "lat": 42.8511,
+        "long": -105.496217,
+        "name": "Underwood ",
+        "state": "Wyoming"
+    },
+    "45WY": {
+        "lat": 42.889733,
+        "long": -106.674866,
+        "name": "American Falconry ",
+        "state": "Wyoming"
+    },
+    "96WY": {
+        "lat": 41.409198761,
+        "long": -106.5920028687,
+        "name": "Cedar Creek Ranch ",
+        "state": "Wyoming"
+    },
+    "99WY": {
+        "lat": 44.8457984924,
+        "long": -107.2770004272,
+        "name": "Xingu Airstrip",
+        "state": "Wyoming"
+    },
+    "K46U": {
+        "lat": 43.1846008301,
+        "long": -111.0419998169,
+        "name": "Alpine ",
+        "state": "Wyoming"
+    },
+    "K5U7": {
+        "lat": 45.3208007813,
+        "long": -107.9309997559,
+        "name": "Fort Smith Landing Strip",
+        "state": "Wyoming"
+    },
+    "K7V6": {
+        "lat": 42.259601593,
+        "long": -104.7279968262,
+        "name": "Camp Guernsey ",
+        "state": "Wyoming"
+    },
+    "K9U4": {
+        "lat": 41.0382995605,
+        "long": -107.4970016479,
+        "name": "Dixon ",
+        "state": "Wyoming"
+    },
+    "KAFO": {
+        "lat": 42.7112007141,
+        "long": -110.942001343,
+        "name": "Afton Municipal ",
+        "state": "Wyoming"
+    },
+    "KBPI": {
+        "lat": 42.58509827,
+        "long": -110.1110001,
+        "name": "Miley Memorial Field",
+        "state": "Wyoming"
+    },
+    "KBYG": {
+        "lat": 44.3810997009,
+        "long": -106.7220001221,
+        "name": "Johnson County ",
+        "state": "Wyoming"
+    },
+    "KCOD": {
+        "lat": 44.520198822,
+        "long": -109.0240020752,
+        "name": "Yellowstone Regional ",
+        "state": "Wyoming"
+    },
+    "KCPR": {
+        "lat": 42.90800095,
+        "long": -106.4639969,
+        "name": "Casper-Natrona County International ",
+        "state": "Wyoming"
+    },
+    "KCYS": {
+        "lat": 41.15570068,
+        "long": -104.8119965,
+        "name": "Cheyenne Regional Jerry Olson Field",
+        "state": "Wyoming"
+    },
+    "KDGW": {
+        "lat": 42.79719925,
+        "long": -105.3860016,
+        "name": "Converse County ",
+        "state": "Wyoming"
+    },
+    "KDWX": {
+        "lat": 41.0382995605,
+        "long": -107.4970016479,
+        "name": "Dixon ",
+        "state": "Wyoming"
+    },
+    "KEAN": {
+        "lat": 42.05550003,
+        "long": -104.9290009,
+        "name": "Phifer Airfield",
+        "state": "Wyoming"
+    },
+    "KECS": {
+        "lat": 43.8853988647,
+        "long": -104.3180007935,
+        "name": "Mondell Field",
+        "state": "Wyoming"
+    },
+    "KEMM": {
+        "lat": 41.8241004944,
+        "long": -110.5569992065,
+        "name": "Kemmerer Municipal ",
+        "state": "Wyoming"
+    },
+    "KEVW": {
+        "lat": 41.27479935,
+        "long": -111.0350037,
+        "name": "Evanston-Uinta County -Burns Field",
+        "state": "Wyoming"
+    },
+    "KFBR": {
+        "lat": 41.3918991089,
+        "long": -110.4069976807,
+        "name": "Fort Bridger ",
+        "state": "Wyoming"
+    },
+    "KGCC": {
+        "lat": 44.3488998413,
+        "long": -105.5390014648,
+        "name": "Gillette Campbell County ",
+        "state": "Wyoming"
+    },
+    "KGEY": {
+        "lat": 44.51679993,
+        "long": -108.0830002,
+        "name": "South Big Horn County ",
+        "state": "Wyoming"
+    },
+    "KHSG": {
+        "lat": 43.7136111,
+        "long": -108.3896944,
+        "name": "Hot Springs County ",
+        "state": "Wyoming"
+    },
+    "KJAC": {
+        "lat": 43.6072998047,
+        "long": -110.7379989624,
+        "name": "Jackson Hole ",
+        "state": "Wyoming"
+    },
+    "KLAR": {
+        "lat": 41.3120994568,
+        "long": -105.6750030518,
+        "name": "Laramie Regional ",
+        "state": "Wyoming"
+    },
+    "KLND": {
+        "lat": 42.8152008057,
+        "long": -108.7300033569,
+        "name": "Hunt Field",
+        "state": "Wyoming"
+    },
+    "KLSK": {
+        "lat": 42.7537994385,
+        "long": -104.4049987793,
+        "name": "Lusk Municipal ",
+        "state": "Wyoming"
+    },
+    "KPNA": {
+        "lat": 42.79550171,
+        "long": -109.8069992,
+        "name": "Ralph Wenz Field",
+        "state": "Wyoming"
+    },
+    "KPOY": {
+        "lat": 44.8671989441,
+        "long": -108.7929992676,
+        "name": "Powell Municipal ",
+        "state": "Wyoming"
+    },
+    "KRIW": {
+        "lat": 43.064201355,
+        "long": -108.4599990845,
+        "name": "Riverton Regional ",
+        "state": "Wyoming"
+    },
+    "KRKS": {
+        "lat": 41.59420013,
+        "long": -109.0650024,
+        "name": "Rock Springs Sweetwater County ",
+        "state": "Wyoming"
+    },
+    "KRWL": {
+        "lat": 41.80559921,
+        "long": -107.1999969,
+        "name": "Rawlins Municipal Harvey Field",
+        "state": "Wyoming"
+    },
+    "KSAA": {
+        "lat": 41.4449005127,
+        "long": -106.8239974976,
+        "name": "Shively Field",
+        "state": "Wyoming"
+    },
+    "KSHR": {
+        "lat": 44.7691993713,
+        "long": -106.9800033569,
+        "name": "Sheridan County ",
+        "state": "Wyoming"
+    },
+    "KTHP": {
+        "lat": 43.6582984924,
+        "long": -108.2129974365,
+        "name": "Hot Springs Co Thermopolis Municipal ",
+        "state": "Wyoming"
+    },
+    "KTOR": {
+        "lat": 42.0644989,
+        "long": -104.1529999,
+        "name": "Torrington Municipal ",
+        "state": "Wyoming"
+    },
+    "KU06": {
+        "lat": 42.0457992554,
+        "long": -110.966003418,
+        "name": "Cokeville Municipal ",
+        "state": "Wyoming"
+    },
+    "KU25": {
+        "lat": 43.5483016968,
+        "long": -109.6900024414,
+        "name": "Dubois Municipal ",
+        "state": "Wyoming"
+    },
+    "KU68": {
+        "lat": 44.9117012024,
+        "long": -108.4459991455,
+        "name": "North Big Horn County ",
+        "state": "Wyoming"
+    },
+    "KW43": {
+        "lat": 44.6628990173,
+        "long": -104.5680007935,
+        "name": "Hulett Municipal ",
+        "state": "Wyoming"
+    },
+    "KWRL": {
+        "lat": 43.9656982422,
+        "long": -107.9509963989,
+        "name": "Worland Municipal ",
+        "state": "Wyoming"
+    },
+    "WA10": {
+        "lat": 43.7221984863,
+        "long": -106.6669998169,
+        "name": "Gosney ",
+        "state": "Wyoming"
+    },
+    "WY00": {
+        "lat": 43.96979904,
+        "long": -107.3880005,
+        "name": "Red Reflet Ranch ",
+        "state": "Wyoming"
+    },
+    "WY01": {
+        "lat": 43.3958015442,
+        "long": -105.5550003052,
+        "name": "Dilts Ranch ",
+        "state": "Wyoming"
+    },
+    "WY02": {
+        "lat": 43.1916007996,
+        "long": -104.93800354,
+        "name": "Iberlin Ranch Nr 3 ",
+        "state": "Wyoming"
+    },
+    "WY05": {
+        "lat": 41.2172012329,
+        "long": -104.5839996338,
+        "name": "Skyview Airpark",
+        "state": "Wyoming"
+    },
+    "WY07": {
+        "lat": 43.3251991272,
+        "long": -105.6760025024,
+        "name": "Hardy Ranch ",
+        "state": "Wyoming"
+    },
+    "WY09": {
+        "lat": 43.5060997009,
+        "long": -104.8779983521,
+        "name": "Sherwin Field Nr 1 ",
+        "state": "Wyoming"
+    },
+    "WY11": {
+        "lat": 41.1582984924,
+        "long": -106.5579986572,
+        "name": "A A Ranch ",
+        "state": "Wyoming"
+    },
+    "WY12": {
+        "lat": 43.926399231,
+        "long": -105.6529998779,
+        "name": "Ohman Ranch ",
+        "state": "Wyoming"
+    },
+    "WY13": {
+        "lat": 43.7860984802,
+        "long": -105.6640014648,
+        "name": "Little Buffalo Ranch ",
+        "state": "Wyoming"
+    },
+    "WY14": {
+        "lat": 44.6375007629,
+        "long": -104.6890029907,
+        "name": "Ipy Ranch ",
+        "state": "Wyoming"
+    },
+    "WY15": {
+        "lat": 44.6897010803,
+        "long": -108.6790008545,
+        "name": "Bunch Grass Intergalactic ",
+        "state": "Wyoming"
+    },
+    "WY16": {
+        "lat": 42.2599983215,
+        "long": -105.8590011597,
+        "name": "Robbins ",
+        "state": "Wyoming"
+    },
+    "WY17": {
+        "lat": 42.021900177,
+        "long": -106.4240036011,
+        "name": "Ellis Ranch ",
+        "state": "Wyoming"
+    },
+    "WY18": {
+        "lat": 43.5583000183,
+        "long": -106.0090026855,
+        "name": "Iberlin Ranch Nr 2 ",
+        "state": "Wyoming"
+    },
+    "WY19": {
+        "lat": 41.1058006287,
+        "long": -104.2070007324,
+        "name": "Butler ",
+        "state": "Wyoming"
+    },
+    "WY22": {
+        "lat": 43.9500007629,
+        "long": -105.9339981079,
+        "name": "Iberlin Ranch Nr 1 ",
+        "state": "Wyoming"
+    },
+    "WY23": {
+        "lat": 44.073299408,
+        "long": -106.2659988403,
+        "name": "Iberlin Strip",
+        "state": "Wyoming"
+    },
+    "WY25": {
+        "lat": 42.3069000244,
+        "long": -104.93699646,
+        "name": "Snell - North Laramie River ",
+        "state": "Wyoming"
+    },
+    "WY27": {
+        "lat": 42.5867004395,
+        "long": -105.5380020142,
+        "name": "Wagonhound ",
+        "state": "Wyoming"
+    },
+    "WY29": {
+        "lat": 41.6222000122,
+        "long": -104.7850036621,
+        "name": "Vowers Ranch ",
+        "state": "Wyoming"
+    },
+    "WY30": {
+        "lat": 43.3754997253,
+        "long": -110.1100006104,
+        "name": "Kinky Creek Divide ",
+        "state": "Wyoming"
+    },
+    "WY31": {
+        "lat": 43.4095993042,
+        "long": -110.7730026245,
+        "name": "Melody Ranch ",
+        "state": "Wyoming"
+    },
+    "WY33": {
+        "lat": 42.8168983459,
+        "long": -110.2779998779,
+        "name": "Antelope Run Ranch ",
+        "state": "Wyoming"
+    },
+    "WY34": {
+        "lat": 43.3404998779,
+        "long": -107.68699646,
+        "name": "Bridger Creek ",
+        "state": "Wyoming"
+    },
+    "WY36": {
+        "lat": 44.7901992798,
+        "long": -108.7340011597,
+        "name": "Bakers Field",
+        "state": "Wyoming"
+    },
+    "WY37": {
+        "lat": 44.840801239,
+        "long": -106.8229980469,
+        "name": "Symons ",
+        "state": "Wyoming"
+    },
+    "WY38": {
+        "lat": 43.6236000061,
+        "long": -107.4079971313,
+        "name": "Orchard Ranch ",
+        "state": "Wyoming"
+    },
+    "WY39": {
+        "lat": 42.9693984985,
+        "long": -110.966003418,
+        "name": "Star Valley Ranch ",
+        "state": "Wyoming"
+    },
+    "WY41": {
+        "lat": 41.0666999817,
+        "long": -109.0889968872,
+        "name": "Red Creek Ranch ",
+        "state": "Wyoming"
+    },
+    "WY42": {
+        "lat": 44.3074989319,
+        "long": -108.7369995117,
+        "name": "Yu Ranch ",
+        "state": "Wyoming"
+    },
+    "WY45": {
+        "lat": 41.1568984985,
+        "long": -104.7080001831,
+        "name": "Sloan ",
+        "state": "Wyoming"
+    },
+    "WY51": {
+        "lat": 41.1650009155,
+        "long": -106.5950012207,
+        "name": "Platt Ranch ",
+        "state": "Wyoming"
+    },
+    "WY55": {
+        "lat": 44.418598175,
+        "long": -104.59400177,
+        "name": "Taylor Field",
+        "state": "Wyoming"
+    },
+    "WY59": {
+        "lat": 41.9329986572,
+        "long": -105.0849990845,
+        "name": "Two Bar Ranch ",
+        "state": "Wyoming"
+    },
+    "WY60": {
+        "lat": 42.861000061,
+        "long": -110.8980026245,
+        "name": "Heiner ",
+        "state": "Wyoming"
+    },
+    "WY61": {
+        "lat": 42.8680992126,
+        "long": -107.4889984131,
+        "name": "Gas Hills Airstrip",
+        "state": "Wyoming"
+    },
+    "WY64": {
+        "lat": 42.9574012756,
+        "long": -110.983001709,
+        "name": "Lone Pine Flying Ranch ",
+        "state": "Wyoming"
+    },
+    "WY65": {
+        "lat": 44.3488998413,
+        "long": -105.3369979858,
+        "name": "Madsen ",
+        "state": "Wyoming"
+    },
+    "WY66": {
+        "lat": 42.7522010803,
+        "long": -105.6200027466,
+        "name": "Chamberlain Brothers Ranch ",
+        "state": "Wyoming"
+    }
+}

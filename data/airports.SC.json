@@ -1,0 +1,72 @@
+{
+  "FSAL": {
+    "lat": -7.00478,
+    "long": 52.7262,
+    "name": "Alphonse "
+  },
+  "FSAS": {
+    "lat": -9.74222,
+    "long": 46.506802,
+    "name": "Assumption Island "
+  },
+  "FSDA": {
+    "lat": -5.417,
+    "long": 53.299999,
+    "name": "Darros "
+  },
+  "FSDR": {
+    "lat": -5.6967,
+    "long": 53.6558,
+    "name": "Desroches "
+  },
+  "FSFA": {
+    "lat": -10.1096,
+    "long": 51.176102,
+    "name": "Farquhar "
+  },
+  "FSIA": {
+    "lat": -4.6743397713,
+    "long": 55.5218009949,
+    "name": "Seychelles International "
+  },
+  "FSMA": {
+    "lat": -6.17416,
+    "long": 53.144402,
+    "name": "Marie-Louise "
+  },
+  "FSPL": {
+    "lat": -5.85916,
+    "long": 55.383301,
+    "name": "Platte "
+  },
+  "FSPP": {
+    "lat": -4.3192901611,
+    "long": 55.6913986206,
+    "name": "Praslin "
+  },
+  "FSSB": {
+    "lat": -3.72472,
+    "long": 55.205299,
+    "name": "Bird Island "
+  },
+  "FSSC": {
+    "lat": -7.13457,
+    "long": 56.278198,
+    "name": "Coetivy "
+  },
+  "FSSD": {
+    "lat": -3.80222,
+    "long": 55.666901,
+    "name": "Denis Island "
+  },
+  "FSSF": {
+    "lat": -4.583,
+    "long": 55.950001,
+    "name": "Fregate Island "
+  },
+  "FSSR": {
+    "lat": -5.11722,
+    "long": 53.312199,
+    "name": "Remire Island "
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "00WV": {
+        "lat": 38.8288993835,
+        "long": -79.8660964966,
+        "name": "Lazy J. Aerodrome",
+        "state": "West Virginia"
+    },
+    "18WV": {
+        "lat": 39.41,
+        "long": -79.856667,
+        "name": "Lynn ",
+        "state": "West Virginia"
+    },
+    "23WV": {
+        "lat": 38.025833,
+        "long": -80.982778,
+        "name": "Bocamanu ",
+        "state": "West Virginia"
+    },
+    "2WV3": {
+        "lat": 39.1171989441,
+        "long": -81.3917007446,
+        "name": "Hales Landing ",
+        "state": "West Virginia"
+    },
+    "2WV5": {
+        "lat": 37.5466995239,
+        "long": -80.5183029175,
+        "name": "Willow Bend ",
+        "state": "West Virginia"
+    },
+    "38WV": {
+        "lat": 39.3252983093,
+        "long": -78.4255981445,
+        "name": "River's Edge Farm ",
+        "state": "West Virginia"
+    },
+    "4WV4": {
+        "lat": 39.1699981689,
+        "long": -79.0616989136,
+        "name": "Heaven's Landing ",
+        "state": "West Virginia"
+    },
+    "75WV": {
+        "lat": 39.1659,
+        "long": -80.650806,
+        "name": "Nicholson ",
+        "state": "West Virginia"
+    }
+}

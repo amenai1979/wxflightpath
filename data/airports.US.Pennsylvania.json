@@ -1,0 +1,2648 @@
+{
+    "00PN": {
+        "lat": 41.2995,
+        "long": -80.211111,
+        "name": "Ferrell Field",
+        "state": "Pennsylvania"
+    },
+    "00PS": {
+        "lat": 40.3777999878,
+        "long": -77.3653030396,
+        "name": "Thomas Field",
+        "state": "Pennsylvania"
+    },
+    "01PN": {
+        "lat": 40.9305992126,
+        "long": -77.738899231,
+        "name": "Bierly(Personal Use) ",
+        "state": "Pennsylvania"
+    },
+    "01PS": {
+        "lat": 41.5959014893,
+        "long": -76.0296020508,
+        "name": "Nort's Resort ",
+        "state": "Pennsylvania"
+    },
+    "02PS": {
+        "lat": 41.9006004333,
+        "long": -77.2303009033,
+        "name": "Hughes Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "03PS": {
+        "lat": 40.8499984741,
+        "long": -77.9056015015,
+        "name": "Ziggy's Field",
+        "state": "Pennsylvania"
+    },
+    "05PS": {
+        "lat": 40.1427993774,
+        "long": -77.8619003296,
+        "name": "Mills Brothers ",
+        "state": "Pennsylvania"
+    },
+    "07PN": {
+        "lat": 40.998889,
+        "long": -78.125278,
+        "name": "Folmar ",
+        "state": "Pennsylvania"
+    },
+    "09PA": {
+        "lat": 40.8269996643,
+        "long": -77.9880981445,
+        "name": "Eagle Field",
+        "state": "Pennsylvania"
+    },
+    "0PA0": {
+        "lat": 40.3283996582,
+        "long": -75.2413024902,
+        "name": "Philadelphia Gliderport",
+        "state": "Pennsylvania"
+    },
+    "0PA2": {
+        "lat": 40.3167991638,
+        "long": -77.1247024536,
+        "name": "Haunstein Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "0PA3": {
+        "lat": 41.7495002747,
+        "long": -76.7602005005,
+        "name": "Robbins Farm ",
+        "state": "Pennsylvania"
+    },
+    "0PA4": {
+        "lat": 40.2375984192,
+        "long": -76.7247009277,
+        "name": "Ecko Field",
+        "state": "Pennsylvania"
+    },
+    "0PA5": {
+        "lat": 41.4944992065,
+        "long": -79.8309020996,
+        "name": "Fisher ",
+        "state": "Pennsylvania"
+    },
+    "0PA6": {
+        "lat": 40.6309013367,
+        "long": -77.8503036499,
+        "name": "Hostetler ",
+        "state": "Pennsylvania"
+    },
+    "0PA7": {
+        "lat": 39.8847999573,
+        "long": -75.4149017334,
+        "name": "Linvill ",
+        "state": "Pennsylvania"
+    },
+    "0PN0": {
+        "lat": 41.4435997009,
+        "long": -80.1539001465,
+        "name": "Fletcher ",
+        "state": "Pennsylvania"
+    },
+    "0PN2": {
+        "lat": 41.0731010437,
+        "long": -80.0702972412,
+        "name": "Flying Acres ",
+        "state": "Pennsylvania"
+    },
+    "0PN4": {
+        "lat": 40.4128990173,
+        "long": -77.2414016724,
+        "name": "Kitner ",
+        "state": "Pennsylvania"
+    },
+    "0PN5": {
+        "lat": 41.7792015076,
+        "long": -79.5983963013,
+        "name": "Nichols ",
+        "state": "Pennsylvania"
+    },
+    "0PN6": {
+        "lat": 40.1689987183,
+        "long": -77.9925003052,
+        "name": "Memmi ",
+        "state": "Pennsylvania"
+    },
+    "0PN7": {
+        "lat": 40.1282997131,
+        "long": -77.631401062,
+        "name": "Drillmore Acres ",
+        "state": "Pennsylvania"
+    },
+    "0PN8": {
+        "lat": 41.6166992188,
+        "long": -79.6830978394,
+        "name": "Shriver ",
+        "state": "Pennsylvania"
+    },
+    "0PN9": {
+        "lat": 41.7195014954,
+        "long": -79.6778030396,
+        "name": "Paul Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "0PS0": {
+        "lat": 41.3708992004,
+        "long": -79.3416976929,
+        "name": "Frederick Airpark",
+        "state": "Pennsylvania"
+    },
+    "0PS3": {
+        "lat": 40.490398407,
+        "long": -76.7666015625,
+        "name": "Carsonville ",
+        "state": "Pennsylvania"
+    },
+    "0PS4": {
+        "lat": 41.0083999634,
+        "long": -78.5608978271,
+        "name": "Old Orchard ",
+        "state": "Pennsylvania"
+    },
+    "0PS7": {
+        "lat": 40.5223007202,
+        "long": -76.8454971313,
+        "name": "Harman ",
+        "state": "Pennsylvania"
+    },
+    "11PN": {
+        "lat": 41.3525,
+        "long": -79.732778,
+        "name": "Eakin ",
+        "state": "Pennsylvania"
+    },
+    "13PA": {
+        "lat": 41.682598114,
+        "long": -79.452003479,
+        "name": "Rigrtona ",
+        "state": "Pennsylvania"
+    },
+    "13PN": {
+        "lat": 40.4542999268,
+        "long": -75.3046035767,
+        "name": "Richland Acres Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "14PA": {
+        "lat": 40.2909011841,
+        "long": -75.6591033936,
+        "name": "Dimascio Field",
+        "state": "Pennsylvania"
+    },
+    "14PS": {
+        "lat": 39.8843994141,
+        "long": -76.118598938,
+        "name": "Hideaway Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "15PA": {
+        "lat": 41.5942993164,
+        "long": -75.3554992676,
+        "name": "Cavage Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "16PA": {
+        "lat": 40.1805992126,
+        "long": -80.1276016235,
+        "name": "Gregg ",
+        "state": "Pennsylvania"
+    },
+    "17PS": {
+        "lat": 41.5792007446,
+        "long": -79.4417037964,
+        "name": "Mountain Crest ",
+        "state": "Pennsylvania"
+    },
+    "18PA": {
+        "lat": 40.3000984192,
+        "long": -75.082901001,
+        "name": "Slack ",
+        "state": "Pennsylvania"
+    },
+    "18PN": {
+        "lat": 40.0653991699,
+        "long": -77.6928024292,
+        "name": "Spud View ",
+        "state": "Pennsylvania"
+    },
+    "19PA": {
+        "lat": 41.1170005798,
+        "long": -76.5207977295,
+        "name": "Lake ",
+        "state": "Pennsylvania"
+    },
+    "1PA0": {
+        "lat": 41.1333999634,
+        "long": -77.1996994019,
+        "name": "Hinaman Acres ",
+        "state": "Pennsylvania"
+    },
+    "1PA3": {
+        "lat": 40.4500999451,
+        "long": -75.1996002197,
+        "name": "Ridgeview ",
+        "state": "Pennsylvania"
+    },
+    "1PA4": {
+        "lat": 40.5526008606,
+        "long": -77.6200027466,
+        "name": "Wagner ",
+        "state": "Pennsylvania"
+    },
+    "1PA5": {
+        "lat": 40.830244,
+        "long": -80.413678,
+        "name": "Beaver Creek Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "1PA6": {
+        "lat": 39.8273010254,
+        "long": -75.7235031128,
+        "name": "Whittle ",
+        "state": "Pennsylvania"
+    },
+    "1PA9": {
+        "lat": 40.6668014526,
+        "long": -76.6829986572,
+        "name": "Schadels ",
+        "state": "Pennsylvania"
+    },
+    "1PN0": {
+        "lat": 40.2014007568,
+        "long": -75.7142028809,
+        "name": "Bentley ",
+        "state": "Pennsylvania"
+    },
+    "1PN1": {
+        "lat": 41.3342018127,
+        "long": -80.4206008911,
+        "name": "Napodano ",
+        "state": "Pennsylvania"
+    },
+    "1PS0": {
+        "lat": 40.1918983459,
+        "long": -78.5646972656,
+        "name": "Ickes ",
+        "state": "Pennsylvania"
+    },
+    "1PS4": {
+        "lat": 40.8609008789,
+        "long": -78.258102417,
+        "name": "Sankey ",
+        "state": "Pennsylvania"
+    },
+    "1PS9": {
+        "lat": 40.4034004211,
+        "long": -75.3704986572,
+        "name": "Wicker & Wings Aerodrome",
+        "state": "Pennsylvania"
+    },
+    "23PA": {
+        "lat": 40.5000991821,
+        "long": -75.1467971802,
+        "name": "Cedar Acres Private Group ",
+        "state": "Pennsylvania"
+    },
+    "24PA": {
+        "lat": 40.6916999817,
+        "long": -80.1778030396,
+        "name": "Kindelberger Landing Strip",
+        "state": "Pennsylvania"
+    },
+    "27PN": {
+        "lat": 40.6811981201,
+        "long": -77.1619033813,
+        "name": "Shelley Private ",
+        "state": "Pennsylvania"
+    },
+    "28PA": {
+        "lat": 40.2512016296,
+        "long": -75.4455032349,
+        "name": "Yarrow ",
+        "state": "Pennsylvania"
+    },
+    "29PA": {
+        "lat": 40.5568008423,
+        "long": -75.6432037354,
+        "name": "Gardner ",
+        "state": "Pennsylvania"
+    },
+    "2PA0": {
+        "lat": 40.55680084,
+        "long": -75.69799805,
+        "name": "Zettlemoyer ",
+        "state": "Pennsylvania"
+    },
+    "2PA1": {
+        "lat": 41.4430999756,
+        "long": -75.0078964233,
+        "name": "Boehm's Field",
+        "state": "Pennsylvania"
+    },
+    "2PA2": {
+        "lat": 41.3194999695,
+        "long": -76.0444030762,
+        "name": "Lehman ",
+        "state": "Pennsylvania"
+    },
+    "2PA3": {
+        "lat": 41.5000991821,
+        "long": -75.4162979126,
+        "name": "Reed ",
+        "state": "Pennsylvania"
+    },
+    "2PA4": {
+        "lat": 41.846698761,
+        "long": -75.4462966919,
+        "name": "Boden ",
+        "state": "Pennsylvania"
+    },
+    "2PA5": {
+        "lat": 41.7806015015,
+        "long": -78.269203186,
+        "name": "Johnson ",
+        "state": "Pennsylvania"
+    },
+    "2PA6": {
+        "lat": 40.4911994934,
+        "long": -76.0977020264,
+        "name": "The Old Commonwealth Aerodrome",
+        "state": "Pennsylvania"
+    },
+    "2PA7": {
+        "lat": 40.3334007263,
+        "long": -77.299697876,
+        "name": "Egolf ",
+        "state": "Pennsylvania"
+    },
+    "2PA8": {
+        "lat": 40.3000984192,
+        "long": -77.299697876,
+        "name": "Shulls ",
+        "state": "Pennsylvania"
+    },
+    "2PN0": {
+        "lat": 42.0153007507,
+        "long": -79.8178024292,
+        "name": "Strawberry Acres ",
+        "state": "Pennsylvania"
+    },
+    "2PN1": {
+        "lat": 41.9833984375,
+        "long": -77.5246963501,
+        "name": "Malco ",
+        "state": "Pennsylvania"
+    },
+    "2PN3": {
+        "lat": 39.961101532,
+        "long": -77.1003036499,
+        "name": "Market Garden ",
+        "state": "Pennsylvania"
+    },
+    "2PN4": {
+        "lat": 40.0817985535,
+        "long": -78.9455032349,
+        "name": "Quemahening Flightpark Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "2PN5": {
+        "lat": 40.2484016418,
+        "long": -78.3608016968,
+        "name": "Baker-Sell ",
+        "state": "Pennsylvania"
+    },
+    "2PN7": {
+        "lat": 40.8555984497,
+        "long": -80.070602417,
+        "name": "Brennan Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "2PS3": {
+        "lat": 40.0167999268,
+        "long": -77.0413970947,
+        "name": "Mathna ",
+        "state": "Pennsylvania"
+    },
+    "30PA": {
+        "lat": 40.2678985596,
+        "long": -75.4365997314,
+        "name": "Kings ",
+        "state": "Pennsylvania"
+    },
+    "32PA": {
+        "lat": 40.3301010132,
+        "long": -77.1772003174,
+        "name": "Yost Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "32PN": {
+        "lat": 40.7340011597,
+        "long": -80.2759017944,
+        "name": "Black Rock ",
+        "state": "Pennsylvania"
+    },
+    "33PA": {
+        "lat": 41.1668014526,
+        "long": -76.2497024536,
+        "name": "Sutliff Private ",
+        "state": "Pennsylvania"
+    },
+    "34PA": {
+        "lat": 39.7607002258,
+        "long": -77.1930007935,
+        "name": "Waltz ",
+        "state": "Pennsylvania"
+    },
+    "34PN": {
+        "lat": 40.485556,
+        "long": -77.220556,
+        "name": "Fox Field",
+        "state": "Pennsylvania"
+    },
+    "37PA": {
+        "lat": 40.7883987427,
+        "long": -77.1061019897,
+        "name": "Roadcap ",
+        "state": "Pennsylvania"
+    },
+    "38PA": {
+        "lat": 40.3908996582,
+        "long": -75.0140991211,
+        "name": "Aerequus ",
+        "state": "Pennsylvania"
+    },
+    "38PN": {
+        "lat": 42.0000991821,
+        "long": -80.1664962769,
+        "name": "Waisley ",
+        "state": "Pennsylvania"
+    },
+    "39PA": {
+        "lat": 40.3172988892,
+        "long": -75.2904968262,
+        "name": "Gehris ",
+        "state": "Pennsylvania"
+    },
+    "39PN": {
+        "lat": 41.2159004211,
+        "long": -80.1976013184,
+        "name": "Nelson's Run ",
+        "state": "Pennsylvania"
+    },
+    "3PA0": {
+        "lat": 40.3833999634,
+        "long": -76.4664001465,
+        "name": "Horst ",
+        "state": "Pennsylvania"
+    },
+    "3PA1": {
+        "lat": 40.3722991943,
+        "long": -75.3376998901,
+        "name": "Navarro ",
+        "state": "Pennsylvania"
+    },
+    "3PA2": {
+        "lat": 40.8805999756,
+        "long": -75.6356964111,
+        "name": "Neeb ",
+        "state": "Pennsylvania"
+    },
+    "3PA3": {
+        "lat": 41.3166999817,
+        "long": -76.0495986938,
+        "name": "Lehman ",
+        "state": "Pennsylvania"
+    },
+    "3PA4": {
+        "lat": 41.7779006958,
+        "long": -76.1371994019,
+        "name": "Giffin ",
+        "state": "Pennsylvania"
+    },
+    "3PA6": {
+        "lat": 40.9934005737,
+        "long": -76.9001998901,
+        "name": "Fox Hollow ",
+        "state": "Pennsylvania"
+    },
+    "3PA8": {
+        "lat": 39.820400238,
+        "long": -75.9257965088,
+        "name": "Harris ",
+        "state": "Pennsylvania"
+    },
+    "3PA9": {
+        "lat": 40.2967987061,
+        "long": -75.2480010986,
+        "name": "Moyer ",
+        "state": "Pennsylvania"
+    },
+    "3PN0": {
+        "lat": 39.9603996277,
+        "long": -77.2591018677,
+        "name": "Schulteis ",
+        "state": "Pennsylvania"
+    },
+    "3PN1": {
+        "lat": 41.6220016479,
+        "long": -75.5962982178,
+        "name": "Ashlawn ",
+        "state": "Pennsylvania"
+    },
+    "3PN2": {
+        "lat": 39.7589988708,
+        "long": -77.3475036621,
+        "name": "Karlindo ",
+        "state": "Pennsylvania"
+    },
+    "3PN3": {
+        "lat": 41.2836990356,
+        "long": -76.0352020264,
+        "name": "Countryside ",
+        "state": "Pennsylvania"
+    },
+    "3PN6": {
+        "lat": 41.7500991821,
+        "long": -80.0830993652,
+        "name": "Gravel Run ",
+        "state": "Pennsylvania"
+    },
+    "3PN7": {
+        "lat": 41.7478981018,
+        "long": -75.4973983765,
+        "name": "Stahl's Mountain ",
+        "state": "Pennsylvania"
+    },
+    "3PN9": {
+        "lat": 40.4417991638,
+        "long": -79.5501022339,
+        "name": "Phil Cain Memorial Field",
+        "state": "Pennsylvania"
+    },
+    "3PS4": {
+        "lat": 40.7235984802,
+        "long": -77.9873962402,
+        "name": "Mountain Hide-Away ",
+        "state": "Pennsylvania"
+    },
+    "3PS8": {
+        "lat": 40.3958015442,
+        "long": -76.7457962036,
+        "name": "Yingst ",
+        "state": "Pennsylvania"
+    },
+    "3PS9": {
+        "lat": 40.3783988953,
+        "long": -80.3495025635,
+        "name": "Risker Field",
+        "state": "Pennsylvania"
+    },
+    "40PN": {
+        "lat": 41.3911556,
+        "long": -76.6114028,
+        "name": "Eagles Mere Field ",
+        "state": "Pennsylvania"
+    },
+    "41PA": {
+        "lat": 40.257900238,
+        "long": -77.0813980103,
+        "name": "Deitch ",
+        "state": "Pennsylvania"
+    },
+    "43PA": {
+        "lat": 40.1600990295,
+        "long": -75.5463027954,
+        "name": "Kolb ",
+        "state": "Pennsylvania"
+    },
+    "44PA": {
+        "lat": 40.8501014709,
+        "long": -77.6164016724,
+        "name": "Pennfield Farm ",
+        "state": "Pennsylvania"
+    },
+    "47PA": {
+        "lat": 40.7167015076,
+        "long": -77.9831008911,
+        "name": "Homan ",
+        "state": "Pennsylvania"
+    },
+    "49PA": {
+        "lat": 40.8592987061,
+        "long": -75.1337966919,
+        "name": "Gap View ",
+        "state": "Pennsylvania"
+    },
+    "4PA0": {
+        "lat": 40.317199707,
+        "long": -76.5363998413,
+        "name": "Millard ",
+        "state": "Pennsylvania"
+    },
+    "4PA1": {
+        "lat": 40.8838996887,
+        "long": -76.9800033569,
+        "name": "Sauers-Haven ",
+        "state": "Pennsylvania"
+    },
+    "4PA3": {
+        "lat": 40.6305999756,
+        "long": -77.0102996826,
+        "name": "Frymoyer ",
+        "state": "Pennsylvania"
+    },
+    "4PA5": {
+        "lat": 41.3083992004,
+        "long": -77.5246963501,
+        "name": "Ponderosa ",
+        "state": "Pennsylvania"
+    },
+    "4PA6": {
+        "lat": 41.9151000977,
+        "long": -75.364402771,
+        "name": "Hiawatha ",
+        "state": "Pennsylvania"
+    },
+    "4PA7": {
+        "lat": 40.5648002625,
+        "long": -76.74659729,
+        "name": "Sheepshead ",
+        "state": "Pennsylvania"
+    },
+    "4PA8": {
+        "lat": 40.4328994751,
+        "long": -75.149597168,
+        "name": "Russo Airstrip",
+        "state": "Pennsylvania"
+    },
+    "4PN0": {
+        "lat": 41.2164001465,
+        "long": -80.0936965942,
+        "name": "Flying M Ranch ",
+        "state": "Pennsylvania"
+    },
+    "4PN7": {
+        "lat": 41.4180984497,
+        "long": -76.5344009399,
+        "name": "Merritt Field",
+        "state": "Pennsylvania"
+    },
+    "4PN8": {
+        "lat": 41.5308990479,
+        "long": -75.8783035278,
+        "name": "C.J.K. ",
+        "state": "Pennsylvania"
+    },
+    "4PS3": {
+        "lat": 41.788417,
+        "long": -79.518586,
+        "name": "Paraport Airstrip",
+        "state": "Pennsylvania"
+    },
+    "4PS4": {
+        "lat": 39.8543014526,
+        "long": -75.5727005005,
+        "name": "Mountain Top ",
+        "state": "Pennsylvania"
+    },
+    "4PS5": {
+        "lat": 39.920501709,
+        "long": -79.9486999512,
+        "name": "Muddy Creek ",
+        "state": "Pennsylvania"
+    },
+    "4PS6": {
+        "lat": 40.6366996765,
+        "long": -77.4835968018,
+        "name": "Krout ",
+        "state": "Pennsylvania"
+    },
+    "4PS7": {
+        "lat": 39.7361984253,
+        "long": -75.9436035156,
+        "name": "Cohen ",
+        "state": "Pennsylvania"
+    },
+    "50PA": {
+        "lat": 40.9333992004,
+        "long": -75.3496017456,
+        "name": "Pegasus Air Park",
+        "state": "Pennsylvania"
+    },
+    "51PA": {
+        "lat": 39.8833999634,
+        "long": -77.0830001831,
+        "name": "Lamberson ",
+        "state": "Pennsylvania"
+    },
+    "52PA": {
+        "lat": 40.7630996704,
+        "long": -76.004699707,
+        "name": "Wildcat ",
+        "state": "Pennsylvania"
+    },
+    "55PA": {
+        "lat": 40.8955993652,
+        "long": -75.9440994263,
+        "name": "Sency ",
+        "state": "Pennsylvania"
+    },
+    "56PA": {
+        "lat": 40.4695014954,
+        "long": -75.0820999146,
+        "name": "Hoge Farm ",
+        "state": "Pennsylvania"
+    },
+    "57PA": {
+        "lat": 41.9029006958,
+        "long": -77.2303009033,
+        "name": "H&H Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "57PN": {
+        "lat": 40.3975982666,
+        "long": -75.0106964111,
+        "name": "Ransome STOLport",
+        "state": "Pennsylvania"
+    },
+    "58PA": {
+        "lat": 40.5918006897,
+        "long": -76.5143966675,
+        "name": "Tallman East ",
+        "state": "Pennsylvania"
+    },
+    "59PA": {
+        "lat": 40.5376014709,
+        "long": -75.087097168,
+        "name": "Erkes ",
+        "state": "Pennsylvania"
+    },
+    "59PN": {
+        "lat": 40.3158988953,
+        "long": -76.685798645,
+        "name": "Brookside Farms ",
+        "state": "Pennsylvania"
+    },
+    "5PA0": {
+        "lat": 39.8728485107,
+        "long": -79.955329895,
+        "name": "Blomster Field Farm ",
+        "state": "Pennsylvania"
+    },
+    "5PA1": {
+        "lat": 40.9972991943,
+        "long": -76.3837966919,
+        "name": "Broadt Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "5PA2": {
+        "lat": 41.035900116,
+        "long": -76.0223999023,
+        "name": "Double D Skyranch ",
+        "state": "Pennsylvania"
+    },
+    "5PA3": {
+        "lat": 40.1668014526,
+        "long": -76.3996963501,
+        "name": "Metzler ",
+        "state": "Pennsylvania"
+    },
+    "5PA6": {
+        "lat": 41.9311981201,
+        "long": -79.146697998,
+        "name": "Shield Farm ",
+        "state": "Pennsylvania"
+    },
+    "5PA8": {
+        "lat": 41.55009842,
+        "long": -76.04959869,
+        "name": "Chambers ",
+        "state": "Pennsylvania"
+    },
+    "5PA9": {
+        "lat": 41.1884002686,
+        "long": -79.2823028564,
+        "name": "Taylor Flight Park Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "5PN5": {
+        "lat": 39.7422981262,
+        "long": -77.5353012085,
+        "name": "Bittner-Whitsel ",
+        "state": "Pennsylvania"
+    },
+    "5PN7": {
+        "lat": 40.2332992554,
+        "long": -75.0749969482,
+        "name": "Jarrett ",
+        "state": "Pennsylvania"
+    },
+    "5PN8": {
+        "lat": 40.3288993835,
+        "long": -78.0449981689,
+        "name": "Lincoln Farms ",
+        "state": "Pennsylvania"
+    },
+    "5PS4": {
+        "lat": 40.3426017761,
+        "long": -75.5782012939,
+        "name": "Hansen ",
+        "state": "Pennsylvania"
+    },
+    "5PS5": {
+        "lat": 40.3968009949,
+        "long": -77.0740966797,
+        "name": "Chestnut Hill ",
+        "state": "Pennsylvania"
+    },
+    "5PS9": {
+        "lat": 40.3851013184,
+        "long": -75.3330001831,
+        "name": "Tate ",
+        "state": "Pennsylvania"
+    },
+    "61PA": {
+        "lat": 41.6944999695,
+        "long": -77.1650009155,
+        "name": "Hi Line Lodge ",
+        "state": "Pennsylvania"
+    },
+    "61PN": {
+        "lat": 40.4257011414,
+        "long": -75.2323989868,
+        "name": "A G A Farms ",
+        "state": "Pennsylvania"
+    },
+    "62PA": {
+        "lat": 40.0362014771,
+        "long": -76.9954986572,
+        "name": "Shreveport North ",
+        "state": "Pennsylvania"
+    },
+    "63PA": {
+        "lat": 40.3218002319,
+        "long": -76.1005020142,
+        "name": "Boyer ",
+        "state": "Pennsylvania"
+    },
+    "65PA": {
+        "lat": 40.8959007263,
+        "long": -75.2963027954,
+        "name": "Cherry Valley ",
+        "state": "Pennsylvania"
+    },
+    "67PN": {
+        "lat": 40.6333999634,
+        "long": -76.5969009399,
+        "name": "Masser Field",
+        "state": "Pennsylvania"
+    },
+    "68PA": {
+        "lat": 40.5181999207,
+        "long": -75.9162979126,
+        "name": "Don's Place Airpark",
+        "state": "Pennsylvania"
+    },
+    "69PA": {
+        "lat": 40.3428993225,
+        "long": -76.2093963623,
+        "name": "Hurst STOLport",
+        "state": "Pennsylvania"
+    },
+    "6PA0": {
+        "lat": 41.3501014709,
+        "long": -74.9328994751,
+        "name": "Myer ",
+        "state": "Pennsylvania"
+    },
+    "6PA1": {
+        "lat": 40.5102996826,
+        "long": -79.5798034668,
+        "name": "Tower Airfield",
+        "state": "Pennsylvania"
+    },
+    "6PA3": {
+        "lat": 41.150100708,
+        "long": -76.8996963501,
+        "name": "Hackenburg-Penny Hill ",
+        "state": "Pennsylvania"
+    },
+    "6PA4": {
+        "lat": 41.9305992126,
+        "long": -79.0342025757,
+        "name": "Scandia Air Park",
+        "state": "Pennsylvania"
+    },
+    "6PA5": {
+        "lat": 40.1133995056,
+        "long": -77.4542007446,
+        "name": "Botsford Aerodrome",
+        "state": "Pennsylvania"
+    },
+    "6PA6": {
+        "lat": 41.3501014709,
+        "long": -75.483001709,
+        "name": "Air Haven ",
+        "state": "Pennsylvania"
+    },
+    "6PA7": {
+        "lat": 41.0694999695,
+        "long": -76.2163009644,
+        "name": "Berwick ",
+        "state": "Pennsylvania"
+    },
+    "6PA8": {
+        "lat": 41.2014007568,
+        "long": -77.4408035278,
+        "name": "Tall Pines Airfield",
+        "state": "Pennsylvania"
+    },
+    "6PA9": {
+        "lat": 40.6856002808,
+        "long": -77.4747009277,
+        "name": "Shangri La ",
+        "state": "Pennsylvania"
+    },
+    "6PN5": {
+        "lat": 41.9075012207,
+        "long": -78.6288986206,
+        "name": "Sam's Field",
+        "state": "Pennsylvania"
+    },
+    "6PN9": {
+        "lat": 40.8861999512,
+        "long": -76.153503418,
+        "name": "Mc Donald's ",
+        "state": "Pennsylvania"
+    },
+    "6PS3": {
+        "lat": 41.9589996338,
+        "long": -77.4261016846,
+        "name": "Champ Field",
+        "state": "Pennsylvania"
+    },
+    "6PS8": {
+        "lat": 41.816719,
+        "long": -75.698783,
+        "name": "Tyler ",
+        "state": "Pennsylvania"
+    },
+    "70PN": {
+        "lat": 41.989200592,
+        "long": -79.3011016846,
+        "name": "Sanders Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "71PN": {
+        "lat": 39.91815,
+        "long": -77.045533,
+        "name": "Schulteis Field",
+        "state": "Pennsylvania"
+    },
+    "73PA": {
+        "lat": 39.9295005798,
+        "long": -76.7707977295,
+        "name": "Gilbert ",
+        "state": "Pennsylvania"
+    },
+    "73PN": {
+        "lat": 41.3684005737,
+        "long": -77.0710983276,
+        "name": "Finkhaven ",
+        "state": "Pennsylvania"
+    },
+    "74PA": {
+        "lat": 40.2918014526,
+        "long": -75.4663009644,
+        "name": "Shontz ",
+        "state": "Pennsylvania"
+    },
+    "75PA": {
+        "lat": 41.8731002808,
+        "long": -80.4589996338,
+        "name": "Marther Field",
+        "state": "Pennsylvania"
+    },
+    "77PA": {
+        "lat": 40.5834007263,
+        "long": -79.8998031616,
+        "name": "Nardo ",
+        "state": "Pennsylvania"
+    },
+    "77PN": {
+        "lat": 40.7840003967,
+        "long": -77.2065963745,
+        "name": "Gilfert ",
+        "state": "Pennsylvania"
+    },
+    "79PA": {
+        "lat": 39.7911987305,
+        "long": -76.1416015625,
+        "name": "Little Britain ",
+        "state": "Pennsylvania"
+    },
+    "7PA0": {
+        "lat": 40.0209007263,
+        "long": -76.4238967896,
+        "name": "Manor Knoll Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "7PA1": {
+        "lat": 41.8658981323,
+        "long": -79.206199646,
+        "name": "Warren Airpark",
+        "state": "Pennsylvania"
+    },
+    "7PA3": {
+        "lat": 41.7056007385,
+        "long": -75.2880020142,
+        "name": "Charles G. Kalko ",
+        "state": "Pennsylvania"
+    },
+    "7PA4": {
+        "lat": 41.842300415,
+        "long": -75.4363021851,
+        "name": "Orson Field",
+        "state": "Pennsylvania"
+    },
+    "7PA5": {
+        "lat": 41.1029014587,
+        "long": -76.8054962158,
+        "name": "Fauser Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "7PA6": {
+        "lat": 40.2453994751,
+        "long": -74.9913024902,
+        "name": "Stott Private ",
+        "state": "Pennsylvania"
+    },
+    "7PN0": {
+        "lat": 40.7050018311,
+        "long": -76.2363967896,
+        "name": "Tidmore ",
+        "state": "Pennsylvania"
+    },
+    "7PS4": {
+        "lat": 40.3978996277,
+        "long": -76.5988998413,
+        "name": "Sky Classics Field",
+        "state": "Pennsylvania"
+    },
+    "7PS7": {
+        "lat": 40.5387001038,
+        "long": -80.1173019409,
+        "name": "Lenzner Farm ",
+        "state": "Pennsylvania"
+    },
+    "80PN": {
+        "lat": 40.5416984558,
+        "long": -80.4525985718,
+        "name": "Hanny Beaver Airpark Inc ",
+        "state": "Pennsylvania"
+    },
+    "82PA": {
+        "lat": 40.3967018127,
+        "long": -80.3052978516,
+        "name": "Frame Field",
+        "state": "Pennsylvania"
+    },
+    "84PN": {
+        "lat": 39.7526016235,
+        "long": -76.5354995728,
+        "name": "Draco STOLport",
+        "state": "Pennsylvania"
+    },
+    "85PA": {
+        "lat": 40.5951004028,
+        "long": -78.7783966064,
+        "name": "Krumenacker ",
+        "state": "Pennsylvania"
+    },
+    "85PN": {
+        "lat": 40.5792007446,
+        "long": -79.6053009033,
+        "name": "Kiski ",
+        "state": "Pennsylvania"
+    },
+    "86PN": {
+        "lat": 41.0444984436,
+        "long": -76.3552017212,
+        "name": "Seesholtz ",
+        "state": "Pennsylvania"
+    },
+    "87PA": {
+        "lat": 40.9264984131,
+        "long": -79.7387008667,
+        "name": "Waltman ",
+        "state": "Pennsylvania"
+    },
+    "88PA": {
+        "lat": 40.5391998291,
+        "long": -80.4131011963,
+        "name": "Mc Coy ",
+        "state": "Pennsylvania"
+    },
+    "8PA0": {
+        "lat": 40.8661994934,
+        "long": -76.3973999023,
+        "name": "Numidia ",
+        "state": "Pennsylvania"
+    },
+    "8PA1": {
+        "lat": 40.4084014893,
+        "long": -76.5038986206,
+        "name": "Dee Jay ",
+        "state": "Pennsylvania"
+    },
+    "8PA3": {
+        "lat": 40.9958992004,
+        "long": -75.7405014038,
+        "name": "Deer Meadows Airstrip",
+        "state": "Pennsylvania"
+    },
+    "8PA4": {
+        "lat": 40.9444999695,
+        "long": -77.0457992554,
+        "name": "J F T ",
+        "state": "Pennsylvania"
+    },
+    "8PA6": {
+        "lat": 40.329306,
+        "long": -77.167639,
+        "name": "Turtle Rock Airstrip",
+        "state": "Pennsylvania"
+    },
+    "8PA8": {
+        "lat": 40.8167991638,
+        "long": -75.6662979126,
+        "name": "Sunny Rest ",
+        "state": "Pennsylvania"
+    },
+    "8PN0": {
+        "lat": 39.9383010864,
+        "long": -77.6164016724,
+        "name": "Lost Acres ",
+        "state": "Pennsylvania"
+    },
+    "8PN2": {
+        "lat": 40.9104995728,
+        "long": -75.1651000977,
+        "name": "Hallett's ",
+        "state": "Pennsylvania"
+    },
+    "8PN3": {
+        "lat": 41.383333,
+        "long": -79.5,
+        "name": "Mc Cauley'S ",
+        "state": "Pennsylvania"
+    },
+    "8PN9": {
+        "lat": 39.8219985962,
+        "long": -77.2919006348,
+        "name": "Marsh Creek ",
+        "state": "Pennsylvania"
+    },
+    "8PS0": {
+        "lat": 41.8479003906,
+        "long": -77.2814025879,
+        "name": "Middlebury ",
+        "state": "Pennsylvania"
+    },
+    "8PS2": {
+        "lat": 41.3106002808,
+        "long": -80.1628036499,
+        "name": "Still Meadow Farm ",
+        "state": "Pennsylvania"
+    },
+    "90PA": {
+        "lat": 41.8791999817,
+        "long": -78.1149978638,
+        "name": "Adams ",
+        "state": "Pennsylvania"
+    },
+    "90PN": {
+        "lat": 40.0172996521,
+        "long": -76.8197021484,
+        "name": "Baney's ",
+        "state": "Pennsylvania"
+    },
+    "92PA": {
+        "lat": 40.7042007446,
+        "long": -79.952003479,
+        "name": "Hawkins Field",
+        "state": "Pennsylvania"
+    },
+    "93PA": {
+        "lat": 41.5033988953,
+        "long": -79.881401062,
+        "name": "Maple Cave Park ",
+        "state": "Pennsylvania"
+    },
+    "96PA": {
+        "lat": 41.9208984375,
+        "long": -80.2498016357,
+        "name": "Franklin Center ",
+        "state": "Pennsylvania"
+    },
+    "97PA": {
+        "lat": 41.9084014893,
+        "long": -80.258102417,
+        "name": "Willows ",
+        "state": "Pennsylvania"
+    },
+    "97PN": {
+        "lat": 40.3750991821,
+        "long": -75.3496017456,
+        "name": "Gold Mine Field",
+        "state": "Pennsylvania"
+    },
+    "98PA": {
+        "lat": 40.8944015503,
+        "long": -80.181098938,
+        "name": "Pleasant Hill ",
+        "state": "Pennsylvania"
+    },
+    "99PA": {
+        "lat": 41.919796,
+        "long": -77.14136,
+        "name": "Nielsen ",
+        "state": "Pennsylvania"
+    },
+    "9PA0": {
+        "lat": 40.1873016357,
+        "long": -75.5902023315,
+        "name": "Lance ",
+        "state": "Pennsylvania"
+    },
+    "9PA1": {
+        "lat": 41.6542015076,
+        "long": -75.5787963867,
+        "name": "Carbondale-Clifford ",
+        "state": "Pennsylvania"
+    },
+    "9PA2": {
+        "lat": 40.3945007324,
+        "long": -75.4412994385,
+        "name": "Old Plains ",
+        "state": "Pennsylvania"
+    },
+    "9PA3": {
+        "lat": 40.4757003784,
+        "long": -75.3096008301,
+        "name": "Meadow Strip Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "9PA5": {
+        "lat": 40.7801017761,
+        "long": -75.7163009644,
+        "name": "Solt Field",
+        "state": "Pennsylvania"
+    },
+    "9PA7": {
+        "lat": 39.7728004456,
+        "long": -79.2110977173,
+        "name": "Keystone ",
+        "state": "Pennsylvania"
+    },
+    "9PN1": {
+        "lat": 40.0390014648,
+        "long": -79.7900009155,
+        "name": "Seitz Field",
+        "state": "Pennsylvania"
+    },
+    "9PN7": {
+        "lat": 41.8180999756,
+        "long": -76.4126968384,
+        "name": "Veit ",
+        "state": "Pennsylvania"
+    },
+    "9PN8": {
+        "lat": 41.6250991821,
+        "long": -75.5329971313,
+        "name": "Malinchak Private ",
+        "state": "Pennsylvania"
+    },
+    "9PS2": {
+        "lat": 40.8087005615,
+        "long": -79.6697998047,
+        "name": "J T Willie ",
+        "state": "Pennsylvania"
+    },
+    "9PS8": {
+        "lat": 39.8130989075,
+        "long": -77.2949981689,
+        "name": "Manor Landing ",
+        "state": "Pennsylvania"
+    },
+    "K22N": {
+        "lat": 40.8095016479,
+        "long": -75.7614974976,
+        "name": "Jake Arner Memorial ",
+        "state": "Pennsylvania"
+    },
+    "K29D": {
+        "lat": 41.1459999084,
+        "long": -80.1677017212,
+        "name": "Grove City ",
+        "state": "Pennsylvania"
+    },
+    "K2G9": {
+        "lat": 40.03910065,
+        "long": -79.01460266,
+        "name": "Somerset County ",
+        "state": "Pennsylvania"
+    },
+    "K3G1": {
+        "lat": 42.0444984436,
+        "long": -79.8538970947,
+        "name": "Erie County ",
+        "state": "Pennsylvania"
+    },
+    "K5G6": {
+        "lat": 41.6646995544,
+        "long": -77.8182983398,
+        "name": "Cherry Springs ",
+        "state": "Pennsylvania"
+    },
+    "K6G1": {
+        "lat": 41.6087989807,
+        "long": -79.7413024902,
+        "name": "Titusville ",
+        "state": "Pennsylvania"
+    },
+    "K71N": {
+        "lat": 40.8917999268,
+        "long": -76.7789001465,
+        "name": "Sunbury ",
+        "state": "Pennsylvania"
+    },
+    "K7SP": {
+        "lat": 40.0099983215,
+        "long": -79.3218994141,
+        "name": "Seven Springs ",
+        "state": "Pennsylvania"
+    },
+    "K8G2": {
+        "lat": 41.9076004028,
+        "long": -79.6410980225,
+        "name": "Corry Lawrence ",
+        "state": "Pennsylvania"
+    },
+    "K8N8": {
+        "lat": 40.951499939,
+        "long": -76.6427001953,
+        "name": "Danville ",
+        "state": "Pennsylvania"
+    },
+    "K9D4": {
+        "lat": 40.35179901,
+        "long": -76.32959747,
+        "name": "Deck ",
+        "state": "Pennsylvania"
+    },
+    "K9G8": {
+        "lat": 40.4612007141,
+        "long": -78.7751998901,
+        "name": "Ebensburg ",
+        "state": "Pennsylvania"
+    },
+    "KABE": {
+        "lat": 40.6520996094,
+        "long": -75.4408035278,
+        "name": "Lehigh Valley International ",
+        "state": "Pennsylvania"
+    },
+    "KAFJ": {
+        "lat": 40.1365013123,
+        "long": -80.2901992798,
+        "name": "Washington County ",
+        "state": "Pennsylvania"
+    },
+    "KAGC": {
+        "lat": 40.3544006348,
+        "long": -79.9301986694,
+        "name": "Allegheny County ",
+        "state": "Pennsylvania"
+    },
+    "KAOO": {
+        "lat": 40.29639816,
+        "long": -78.31999969,
+        "name": "Altoona Blair County ",
+        "state": "Pennsylvania"
+    },
+    "KAVP": {
+        "lat": 41.3385009766,
+        "long": -75.7233963013,
+        "name": "Wilkes Barre Scranton International ",
+        "state": "Pennsylvania"
+    },
+    "KAXQ": {
+        "lat": 41.2257995605,
+        "long": -79.4410018921,
+        "name": "Clarion County ",
+        "state": "Pennsylvania"
+    },
+    "KBFD": {
+        "lat": 41.8031005859,
+        "long": -78.6400985718,
+        "name": "Bradford Regional ",
+        "state": "Pennsylvania"
+    },
+    "KBTP": {
+        "lat": 40.77690125,
+        "long": -79.9496994,
+        "name": "Butler County-K W Scholter Field",
+        "state": "Pennsylvania"
+    },
+    "KBVI": {
+        "lat": 40.7724990845,
+        "long": -80.3914031982,
+        "name": "Beaver County ",
+        "state": "Pennsylvania"
+    },
+    "KCKZ": {
+        "lat": 40.3891983032,
+        "long": -75.2904968262,
+        "name": "Pennridge ",
+        "state": "Pennsylvania"
+    },
+    "KCXY": {
+        "lat": 40.2170982361,
+        "long": -76.8515014648,
+        "name": "Capital City ",
+        "state": "Pennsylvania"
+    },
+    "KDUJ": {
+        "lat": 41.17829895,
+        "long": -78.8986969,
+        "name": "DuBois Regional ",
+        "state": "Pennsylvania"
+    },
+    "KDYL": {
+        "lat": 40.3330001831,
+        "long": -75.1222991943,
+        "name": "Doylestown ",
+        "state": "Pennsylvania"
+    },
+    "KERI": {
+        "lat": 42.0831270134,
+        "long": -80.1738667488,
+        "name": "Erie International Tom Ridge Field",
+        "state": "Pennsylvania"
+    },
+    "KFIG": {
+        "lat": 41.0485992432,
+        "long": -78.4131011963,
+        "name": "Clearfield Lawrence ",
+        "state": "Pennsylvania"
+    },
+    "KFKL": {
+        "lat": 41.3778991699,
+        "long": -79.8603973389,
+        "name": "Venango Regional ",
+        "state": "Pennsylvania"
+    },
+    "KFWQ": {
+        "lat": 40.2097015381,
+        "long": -79.8313980103,
+        "name": "Rostraver ",
+        "state": "Pennsylvania"
+    },
+    "KGKJ": {
+        "lat": 41.62649918,
+        "long": -80.21469879,
+        "name": "Port Meadville ",
+        "state": "Pennsylvania"
+    },
+    "KHMZ": {
+        "lat": 40.08530045,
+        "long": -78.5121994,
+        "name": "Bedford County ",
+        "state": "Pennsylvania"
+    },
+    "KHZL": {
+        "lat": 40.9868011475,
+        "long": -75.9949035645,
+        "name": "Hazleton Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KIDI": {
+        "lat": 40.63219833,
+        "long": -79.10549927,
+        "name": "Indiana County/Jimmy Stewart Fld/ ",
+        "state": "Pennsylvania"
+    },
+    "KIPT": {
+        "lat": 41.2417984009,
+        "long": -76.9210968018,
+        "name": "Williamsport Regional ",
+        "state": "Pennsylvania"
+    },
+    "KJST": {
+        "lat": 40.3161010742,
+        "long": -78.8339004517,
+        "name": "John Murtha Johnstown Cambria County ",
+        "state": "Pennsylvania"
+    },
+    "KLBE": {
+        "lat": 40.27590179,
+        "long": -79.40480042,
+        "name": "Arnold Palmer Regional ",
+        "state": "Pennsylvania"
+    },
+    "KLHV": {
+        "lat": 41.13560104,
+        "long": -77.42230225,
+        "name": "William T. Piper Memorial ",
+        "state": "Pennsylvania"
+    },
+    "KLNS": {
+        "lat": 40.1217002869,
+        "long": -76.2960968018,
+        "name": "Lancaster ",
+        "state": "Pennsylvania"
+    },
+    "KMDT": {
+        "lat": 40.1935005188,
+        "long": -76.7633972168,
+        "name": "Harrisburg International ",
+        "state": "Pennsylvania"
+    },
+    "KMPO": {
+        "lat": 41.13750076,
+        "long": -75.37889862,
+        "name": "Pocono Mountains Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KMQS": {
+        "lat": 39.97900009,
+        "long": -75.8655014,
+        "name": "Chester County G O Carlson ",
+        "state": "Pennsylvania"
+    },
+    "KMUI": {
+        "lat": 40.43479919,
+        "long": -76.56939697,
+        "name": "Muir Army Air Field (Fort Indiantown Gap) ",
+        "state": "Pennsylvania"
+    },
+    "KN13": {
+        "lat": 40.9977989197,
+        "long": -76.4360961914,
+        "name": "Bloomsburg Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KN27": {
+        "lat": 41.7400016785,
+        "long": -76.4470977783,
+        "name": "Bradford County ",
+        "state": "Pennsylvania"
+    },
+    "KN35": {
+        "lat": 40.9667015076,
+        "long": -78.9300003052,
+        "name": "Punxsutawney Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KN38": {
+        "lat": 41.72790146,
+        "long": -77.39649963,
+        "name": "Wellsboro Johnston ",
+        "state": "Pennsylvania"
+    },
+    "KN47": {
+        "lat": 40.2602996826,
+        "long": -75.6707992554,
+        "name": "Pottstown Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KN53": {
+        "lat": 41.0358009338,
+        "long": -75.1605987549,
+        "name": "Stroudsburg Pocono ",
+        "state": "Pennsylvania"
+    },
+    "KN57": {
+        "lat": 39.8305015564,
+        "long": -75.7696990967,
+        "name": "New Garden ",
+        "state": "Pennsylvania"
+    },
+    "KN68": {
+        "lat": 39.97309875,
+        "long": -77.64330292,
+        "name": "Franklin County Regional ",
+        "state": "Pennsylvania"
+    },
+    "KN71": {
+        "lat": 40.0922012329,
+        "long": -76.5744018555,
+        "name": "Donegal Springs Airpark",
+        "state": "Pennsylvania"
+    },
+    "KN79": {
+        "lat": 40.8368988037,
+        "long": -76.5524978638,
+        "name": "Northumberland County ",
+        "state": "Pennsylvania"
+    },
+    "KN94": {
+        "lat": 40.1879005432,
+        "long": -77.1743011475,
+        "name": "Carlisle ",
+        "state": "Pennsylvania"
+    },
+    "KN96": {
+        "lat": 40.8855018616,
+        "long": -77.8162994385,
+        "name": "Bellefonte ",
+        "state": "Pennsylvania"
+    },
+    "KNXX": {
+        "lat": 40.19979858,
+        "long": -75.14820099,
+        "name": "Willow Grove Naval Air Station/Joint Reserve Base",
+        "state": "Pennsylvania"
+    },
+    "KOQN": {
+        "lat": 39.9901008606,
+        "long": -75.5819015503,
+        "name": "Brandywine ",
+        "state": "Pennsylvania"
+    },
+    "KOYM": {
+        "lat": 41.4124984741,
+        "long": -78.5026016235,
+        "name": "St Marys Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KPHL": {
+        "lat": 39.8718986511,
+        "long": -75.2410964966,
+        "name": "Philadelphia International ",
+        "state": "Pennsylvania"
+    },
+    "KPIT": {
+        "lat": 40.49150085,
+        "long": -80.23290253,
+        "name": "Pittsburgh International ",
+        "state": "Pennsylvania"
+    },
+    "KPJC": {
+        "lat": 40.80160141,
+        "long": -80.16069794,
+        "name": "Zelienople Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KPNE": {
+        "lat": 40.08190155,
+        "long": -75.01059723,
+        "name": "Northeast Philadelphia ",
+        "state": "Pennsylvania"
+    },
+    "KPSB": {
+        "lat": 40.8843994141,
+        "long": -78.0873031616,
+        "name": "Mid State ",
+        "state": "Pennsylvania"
+    },
+    "KPTW": {
+        "lat": 40.2396011353,
+        "long": -75.5567016602,
+        "name": "Pottstown Limerick ",
+        "state": "Pennsylvania"
+    },
+    "KRDG": {
+        "lat": 40.3785018921,
+        "long": -75.9652023315,
+        "name": "Reading Regional Carl A Spaatz Field",
+        "state": "Pennsylvania"
+    },
+    "KRVL": {
+        "lat": 40.6773986816,
+        "long": -77.6268005371,
+        "name": "Mifflin County ",
+        "state": "Pennsylvania"
+    },
+    "KSEG": {
+        "lat": 40.8205986023,
+        "long": -76.863899231,
+        "name": "Penn Valley ",
+        "state": "Pennsylvania"
+    },
+    "KTHV": {
+        "lat": 39.91699982,
+        "long": -76.8730011,
+        "name": "York ",
+        "state": "Pennsylvania"
+    },
+    "KUCP": {
+        "lat": 41.02529907,
+        "long": -80.41339874,
+        "name": "New Castle Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KUKT": {
+        "lat": 40.4351997375,
+        "long": -75.3818969727,
+        "name": "Quakertown ",
+        "state": "Pennsylvania"
+    },
+    "KUNV": {
+        "lat": 40.8493003845,
+        "long": -77.8487014771,
+        "name": "University Park ",
+        "state": "Pennsylvania"
+    },
+    "KVVS": {
+        "lat": 39.95920181,
+        "long": -79.65709686,
+        "name": "Joseph A. Hardy Connellsville ",
+        "state": "Pennsylvania"
+    },
+    "KW05": {
+        "lat": 39.84090042,
+        "long": -77.27420044,
+        "name": "Gettysburg Regional ",
+        "state": "Pennsylvania"
+    },
+    "KWAY": {
+        "lat": 39.90010071,
+        "long": -80.13310242,
+        "name": "Greene County ",
+        "state": "Pennsylvania"
+    },
+    "KWBW": {
+        "lat": 41.2971992493,
+        "long": -75.8511962891,
+        "name": "Wilkes Barre Wyoming Valley ",
+        "state": "Pennsylvania"
+    },
+    "KXLL": {
+        "lat": 40.5703010559,
+        "long": -75.4882965088,
+        "name": "Allentown Queen City Municipal ",
+        "state": "Pennsylvania"
+    },
+    "KZER": {
+        "lat": 40.70650101,
+        "long": -76.37310028,
+        "name": "Schuylkill County /Joe Zerbey/ ",
+        "state": "Pennsylvania"
+    },
+    "MD61": {
+        "lat": 39.7246017456,
+        "long": -76.0705032349,
+        "name": "Lynch's Landing ",
+        "state": "Pennsylvania"
+    },
+    "PA01": {
+        "lat": 41.6750984192,
+        "long": -80.4345016479,
+        "name": "Merrys Pymatuning ",
+        "state": "Pennsylvania"
+    },
+    "PA02": {
+        "lat": 41.9833984375,
+        "long": -80.1830978394,
+        "name": "Dillen Personal ",
+        "state": "Pennsylvania"
+    },
+    "PA05": {
+        "lat": 40.4412002563,
+        "long": -75.0748977661,
+        "name": "Monesmith ",
+        "state": "Pennsylvania"
+    },
+    "PA07": {
+        "lat": 42.0144996643,
+        "long": -80.1201019287,
+        "name": "Bilinski ",
+        "state": "Pennsylvania"
+    },
+    "PA08": {
+        "lat": 39.7933998108,
+        "long": -77.7780990601,
+        "name": "Jj & Pk ",
+        "state": "Pennsylvania"
+    },
+    "PA18": {
+        "lat": 41.0942001343,
+        "long": -77.4143981934,
+        "name": "Buzzards Field",
+        "state": "Pennsylvania"
+    },
+    "PA19": {
+        "lat": 41.6972999573,
+        "long": -75.5949020386,
+        "name": "Strizki Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "PA20": {
+        "lat": 42.0205993652,
+        "long": -80.070602417,
+        "name": "Thermal G. Ranch Gliderport",
+        "state": "Pennsylvania"
+    },
+    "PA21": {
+        "lat": 41.1652984619,
+        "long": -80.5026016235,
+        "name": "West Middlesex ",
+        "state": "Pennsylvania"
+    },
+    "PA22": {
+        "lat": 41.2014007568,
+        "long": -80.4223022461,
+        "name": "Hermitage ",
+        "state": "Pennsylvania"
+    },
+    "PA23": {
+        "lat": 39.7270011902,
+        "long": -77.1119003296,
+        "name": "Kingsdale Air Park",
+        "state": "Pennsylvania"
+    },
+    "PA25": {
+        "lat": 40.6593017578,
+        "long": -75.8738021851,
+        "name": "Cuatros Vientos ",
+        "state": "Pennsylvania"
+    },
+    "PA30": {
+        "lat": 40.7667999268,
+        "long": -75.774597168,
+        "name": "East Penn ",
+        "state": "Pennsylvania"
+    },
+    "PA31": {
+        "lat": 40.2834014893,
+        "long": -76.5393981934,
+        "name": "Rover ",
+        "state": "Pennsylvania"
+    },
+    "PA33": {
+        "lat": 41.9500999451,
+        "long": -76.483001709,
+        "name": "Lars/Private ",
+        "state": "Pennsylvania"
+    },
+    "PA35": {
+        "lat": 40.4319992065,
+        "long": -75.6259994507,
+        "name": "Bally Spring Farm ",
+        "state": "Pennsylvania"
+    },
+    "PA36": {
+        "lat": 40.4528999329,
+        "long": -75.2037963867,
+        "name": "Stefanik ",
+        "state": "Pennsylvania"
+    },
+    "PA39": {
+        "lat": 40.7765007019,
+        "long": -77.2164001465,
+        "name": "Beaver Springs ",
+        "state": "Pennsylvania"
+    },
+    "PA40": {
+        "lat": 41.2000999451,
+        "long": -76.3871994019,
+        "name": "Benton ",
+        "state": "Pennsylvania"
+    },
+    "PA43": {
+        "lat": 40.2667999268,
+        "long": -75.8830032349,
+        "name": "Arnold ",
+        "state": "Pennsylvania"
+    },
+    "PA44": {
+        "lat": 40.9735984802,
+        "long": -76.5186004639,
+        "name": "Stone Castle Motel ",
+        "state": "Pennsylvania"
+    },
+    "PA45": {
+        "lat": 41.4166984558,
+        "long": -76.9329986572,
+        "name": "Logue ",
+        "state": "Pennsylvania"
+    },
+    "PA49": {
+        "lat": 41.3801002502,
+        "long": -75.2323989868,
+        "name": "Mountain Bay Air Park Inc ",
+        "state": "Pennsylvania"
+    },
+    "PA51": {
+        "lat": 39.9085006714,
+        "long": -77.2052001953,
+        "name": "Bowtie ",
+        "state": "Pennsylvania"
+    },
+    "PA52": {
+        "lat": 41.859333,
+        "long": -79.907167,
+        "name": "Oberlander ",
+        "state": "Pennsylvania"
+    },
+    "PA53": {
+        "lat": 41.6269989014,
+        "long": -75.5281982422,
+        "name": "Cosklos Elkview ",
+        "state": "Pennsylvania"
+    },
+    "PA54": {
+        "lat": 41.5223007202,
+        "long": -75.3960037231,
+        "name": "Kellachows ",
+        "state": "Pennsylvania"
+    },
+    "PA55": {
+        "lat": 40.2168006897,
+        "long": -77.1164016724,
+        "name": "Neiderer ",
+        "state": "Pennsylvania"
+    },
+    "PA58": {
+        "lat": 39.9749984741,
+        "long": -77.557800293,
+        "name": "Rocktop ",
+        "state": "Pennsylvania"
+    },
+    "PA61": {
+        "lat": 40.1668014526,
+        "long": -75.4496002197,
+        "name": "Kunda ",
+        "state": "Pennsylvania"
+    },
+    "PA65": {
+        "lat": 40.7000999451,
+        "long": -75.5495986938,
+        "name": "Hi-Vu ",
+        "state": "Pennsylvania"
+    },
+    "PA66": {
+        "lat": 39.8167991638,
+        "long": -77.7260971069,
+        "name": "Cumberland Valley Airstrip",
+        "state": "Pennsylvania"
+    },
+    "PA68": {
+        "lat": 40.7142982483,
+        "long": -75.3042984009,
+        "name": "Bugs ",
+        "state": "Pennsylvania"
+    },
+    "PA69": {
+        "lat": 40.1287002563,
+        "long": -76.9693984985,
+        "name": "Vogelsong ",
+        "state": "Pennsylvania"
+    },
+    "PA70": {
+        "lat": 40.0918006897,
+        "long": -75.7108001709,
+        "name": "Fetters Construction ",
+        "state": "Pennsylvania"
+    },
+    "PA71": {
+        "lat": 41.5209007263,
+        "long": -76.4621963501,
+        "name": "Dwight's Delight ",
+        "state": "Pennsylvania"
+    },
+    "PA72": {
+        "lat": 39.9586982727,
+        "long": -76.9708023071,
+        "name": "Circle W Airfield",
+        "state": "Pennsylvania"
+    },
+    "PA73": {
+        "lat": 39.9794998169,
+        "long": -76.5361022949,
+        "name": "D.Evans Farm ",
+        "state": "Pennsylvania"
+    },
+    "PA74": {
+        "lat": 40.4654006958,
+        "long": -76.8399963379,
+        "name": "Gusler ",
+        "state": "Pennsylvania"
+    },
+    "PA75": {
+        "lat": 41.9650993347,
+        "long": -77.3158035278,
+        "name": "Baker ",
+        "state": "Pennsylvania"
+    },
+    "PA76": {
+        "lat": 41.1370010376,
+        "long": -75.8610992432,
+        "name": "Rosenzweig ",
+        "state": "Pennsylvania"
+    },
+    "PA78": {
+        "lat": 40.5000991821,
+        "long": -75.082901001,
+        "name": "Tintinhull ",
+        "state": "Pennsylvania"
+    },
+    "PA81": {
+        "lat": 39.9127998352,
+        "long": -77.5327987671,
+        "name": "5 Lakes ",
+        "state": "Pennsylvania"
+    },
+    "PA82": {
+        "lat": 41.6001014709,
+        "long": -75.6829986572,
+        "name": "Grayce Farms ",
+        "state": "Pennsylvania"
+    },
+    "PA84": {
+        "lat": 39.9542999268,
+        "long": -76.9094009399,
+        "name": "Level Acres Farm ",
+        "state": "Pennsylvania"
+    },
+    "PA85": {
+        "lat": 40.3047981262,
+        "long": -75.5335006714,
+        "name": "Drewniany-Springmeadow ",
+        "state": "Pennsylvania"
+    },
+    "PA86": {
+        "lat": 40.4476013184,
+        "long": -76.3411026001,
+        "name": "Krill Personal Use ",
+        "state": "Pennsylvania"
+    },
+    "PA88": {
+        "lat": 39.8055992126,
+        "long": -79.5488967896,
+        "name": "Nemacolin ",
+        "state": "Pennsylvania"
+    },
+    "PA89": {
+        "lat": 39.9589996338,
+        "long": -77.049697876,
+        "name": "Ben's Landing Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "PA92": {
+        "lat": 40.552898407,
+        "long": -76.0288009644,
+        "name": "Blue Mountain Academy (Private) ",
+        "state": "Pennsylvania"
+    },
+    "PN00": {
+        "lat": 40.3432006836,
+        "long": -75.5727005005,
+        "name": "Crosswinds Airfield",
+        "state": "Pennsylvania"
+    },
+    "PN01": {
+        "lat": 40.5881004333,
+        "long": -79.9058990479,
+        "name": "Cedar Run ",
+        "state": "Pennsylvania"
+    },
+    "PN02": {
+        "lat": 40.9847984314,
+        "long": -79.5663986206,
+        "name": "Offutt Acres ",
+        "state": "Pennsylvania"
+    },
+    "PN04": {
+        "lat": 40.547000885,
+        "long": -78.6947021484,
+        "name": "Strittmatter ",
+        "state": "Pennsylvania"
+    },
+    "PN06": {
+        "lat": 41.9042015076,
+        "long": -80.1026000977,
+        "name": "Carlson ",
+        "state": "Pennsylvania"
+    },
+    "PN08": {
+        "lat": 40.7346000671,
+        "long": -79.1598968506,
+        "name": "Davis ",
+        "state": "Pennsylvania"
+    },
+    "PN10": {
+        "lat": 41.8651008606,
+        "long": -76.5099029541,
+        "name": "Cash Creek ",
+        "state": "Pennsylvania"
+    },
+    "PN11": {
+        "lat": 40.8898010254,
+        "long": -80.4865036011,
+        "name": "Reno ",
+        "state": "Pennsylvania"
+    },
+    "PN12": {
+        "lat": 41.2806015015,
+        "long": -78.1430969238,
+        "name": "Sweet Valley ",
+        "state": "Pennsylvania"
+    },
+    "PN13": {
+        "lat": 41.2873001099,
+        "long": -79.1663970947,
+        "name": "C & W Milliron Flying Field",
+        "state": "Pennsylvania"
+    },
+    "PN14": {
+        "lat": 40.7893981934,
+        "long": -79.9974975586,
+        "name": "Misty Hill Farm ",
+        "state": "Pennsylvania"
+    },
+    "PN15": {
+        "lat": 41.8791999817,
+        "long": -77.9499969482,
+        "name": "Greeley ",
+        "state": "Pennsylvania"
+    },
+    "PN16": {
+        "lat": 40.7583999634,
+        "long": -80.0137023926,
+        "name": "Pabst Blue Ribbon ",
+        "state": "Pennsylvania"
+    },
+    "PN17": {
+        "lat": 39.7333984375,
+        "long": -76.5329971313,
+        "name": "Marsteller ",
+        "state": "Pennsylvania"
+    },
+    "PN18": {
+        "lat": 42.0273017883,
+        "long": -80.2436981201,
+        "name": "Fairview Evergreen ",
+        "state": "Pennsylvania"
+    },
+    "PN21": {
+        "lat": 41.8278999329,
+        "long": -76.8565979004,
+        "name": "Mc Clure ",
+        "state": "Pennsylvania"
+    },
+    "PN25": {
+        "lat": 40.7355995178,
+        "long": -79.6886978149,
+        "name": "Lindsay ",
+        "state": "Pennsylvania"
+    },
+    "PN30": {
+        "lat": 40.2627983093,
+        "long": -78.1025009155,
+        "name": "Schrenkel ",
+        "state": "Pennsylvania"
+    },
+    "PN31": {
+        "lat": 41.2430992126,
+        "long": -80.1141967773,
+        "name": "Sagulla ",
+        "state": "Pennsylvania"
+    },
+    "PN33": {
+        "lat": 41.552898407,
+        "long": -75.2820968628,
+        "name": "Branning Field",
+        "state": "Pennsylvania"
+    },
+    "PN35": {
+        "lat": 40.0000991821,
+        "long": -78.0830993652,
+        "name": "Flying R ",
+        "state": "Pennsylvania"
+    },
+    "PN36": {
+        "lat": 40.7333984375,
+        "long": -79.0672988892,
+        "name": "Rayne ",
+        "state": "Pennsylvania"
+    },
+    "PN37": {
+        "lat": 40.6050987244,
+        "long": -80.4580993652,
+        "name": "Fino ",
+        "state": "Pennsylvania"
+    },
+    "PN38": {
+        "lat": 40.6626014709,
+        "long": -79.8455963135,
+        "name": "Culmerville ",
+        "state": "Pennsylvania"
+    },
+    "PN40": {
+        "lat": 42.1842002869,
+        "long": -79.8975982666,
+        "name": "Moorhead Airpark LLC",
+        "state": "Pennsylvania"
+    },
+    "PN43": {
+        "lat": 40.7000999451,
+        "long": -80.4330978394,
+        "name": "Sainovich ",
+        "state": "Pennsylvania"
+    },
+    "PN46": {
+        "lat": 40.5643997192,
+        "long": -79.5457992554,
+        "name": "River Hill Aviation ",
+        "state": "Pennsylvania"
+    },
+    "PN47": {
+        "lat": 40.2083015442,
+        "long": -79.0558013916,
+        "name": "Lohr's Landing ",
+        "state": "Pennsylvania"
+    },
+    "PN48": {
+        "lat": 40.7083015442,
+        "long": -75.6860961914,
+        "name": "Bullfly Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "PN49": {
+        "lat": 40.7719993591,
+        "long": -79.4289016724,
+        "name": "Dunbar ",
+        "state": "Pennsylvania"
+    },
+    "PN50": {
+        "lat": 40.5065002441,
+        "long": -75.9432983398,
+        "name": "Skyline Airstrip",
+        "state": "Pennsylvania"
+    },
+    "PN53": {
+        "lat": 40.5514984131,
+        "long": -78.6233978271,
+        "name": "Strohmier ",
+        "state": "Pennsylvania"
+    },
+    "PN54": {
+        "lat": 41.8417015076,
+        "long": -76.7457962036,
+        "name": "Akm Airfield",
+        "state": "Pennsylvania"
+    },
+    "PN55": {
+        "lat": 39.8583984375,
+        "long": -79.8234024048,
+        "name": "Skala ",
+        "state": "Pennsylvania"
+    },
+    "PN56": {
+        "lat": 40.8852996826,
+        "long": -78.7391967773,
+        "name": "Miller ",
+        "state": "Pennsylvania"
+    },
+    "PN57": {
+        "lat": 40.8120002747,
+        "long": -79.0373001099,
+        "name": "Marion Center Speedway ",
+        "state": "Pennsylvania"
+    },
+    "PN58": {
+        "lat": 39.7426986694,
+        "long": -77.526802063,
+        "name": "Bittner/Whitsel ",
+        "state": "Pennsylvania"
+    },
+    "PN59": {
+        "lat": 40.8311004639,
+        "long": -79.4869003296,
+        "name": "Stitt ",
+        "state": "Pennsylvania"
+    },
+    "PN62": {
+        "lat": 40.3750991821,
+        "long": -80.2997970581,
+        "name": "Cataney ",
+        "state": "Pennsylvania"
+    },
+    "PN64": {
+        "lat": 40.5023994446,
+        "long": -77.9393997192,
+        "name": "Hilling International ",
+        "state": "Pennsylvania"
+    },
+    "PN66": {
+        "lat": 40.4255981445,
+        "long": -79.3636016846,
+        "name": "Dunlea Airpark",
+        "state": "Pennsylvania"
+    },
+    "PN68": {
+        "lat": 40.9009017944,
+        "long": -80.3681030273,
+        "name": "Jackson ",
+        "state": "Pennsylvania"
+    },
+    "PN69": {
+        "lat": 40.0924987793,
+        "long": -75.5158004761,
+        "name": "Altemose Ultralightport",
+        "state": "Pennsylvania"
+    },
+    "PN71": {
+        "lat": 40.6500015259,
+        "long": -77.0575027466,
+        "name": "Jansen Vineyards ",
+        "state": "Pennsylvania"
+    },
+    "PN72": {
+        "lat": 40.5691986084,
+        "long": -78.8824996948,
+        "name": "Rocky Hollow Field",
+        "state": "Pennsylvania"
+    },
+    "PN73": {
+        "lat": 40.2300987244,
+        "long": -77.9206008911,
+        "name": "Beers Farm ",
+        "state": "Pennsylvania"
+    },
+    "PN83": {
+        "lat": 40.8027992249,
+        "long": -79.2024993896,
+        "name": "Skunk Hollow ",
+        "state": "Pennsylvania"
+    },
+    "PN84": {
+        "lat": 40.984500885,
+        "long": -80.1620025635,
+        "name": "Lake Arthur Field",
+        "state": "Pennsylvania"
+    },
+    "PN85": {
+        "lat": 40.876499176,
+        "long": -80.0330963135,
+        "name": "Brandon ",
+        "state": "Pennsylvania"
+    },
+    "PN90": {
+        "lat": 41.7486991882,
+        "long": -78.0997009277,
+        "name": "Ranch-Aero ",
+        "state": "Pennsylvania"
+    },
+    "PN91": {
+        "lat": 41.8334007263,
+        "long": -77.4997024536,
+        "name": "Sharretts ",
+        "state": "Pennsylvania"
+    },
+    "PN95": {
+        "lat": 40.1001014709,
+        "long": -80.0330963135,
+        "name": "Horne ",
+        "state": "Pennsylvania"
+    },
+    "PN99": {
+        "lat": 41.2058982849,
+        "long": -80.3581008911,
+        "name": "Lackawannock ",
+        "state": "Pennsylvania"
+    },
+    "PS00": {
+        "lat": 40.4056015015,
+        "long": -76.9400024414,
+        "name": "Tallman West ",
+        "state": "Pennsylvania"
+    },
+    "PS02": {
+        "lat": 40.1642990112,
+        "long": -77.3704986572,
+        "name": "Heberlig ",
+        "state": "Pennsylvania"
+    },
+    "PS03": {
+        "lat": 40.4104003906,
+        "long": -75.2293014526,
+        "name": "Elephant Path ",
+        "state": "Pennsylvania"
+    },
+    "PS05": {
+        "lat": 41.8753013611,
+        "long": -80.3748016357,
+        "name": "G & N ",
+        "state": "Pennsylvania"
+    },
+    "PS06": {
+        "lat": 40.7333984375,
+        "long": -77.2664031982,
+        "name": "Snook ",
+        "state": "Pennsylvania"
+    },
+    "PS08": {
+        "lat": 40.0225982666,
+        "long": -76.8165969849,
+        "name": "Lazy B Ranch ",
+        "state": "Pennsylvania"
+    },
+    "PS11": {
+        "lat": 40.6453018188,
+        "long": -77.5552978516,
+        "name": "Mc Cardle Farm ",
+        "state": "Pennsylvania"
+    },
+    "PS12": {
+        "lat": 40.9168014526,
+        "long": -75.8663024902,
+        "name": "Grover ",
+        "state": "Pennsylvania"
+    },
+    "PS15": {
+        "lat": 40.5475997925,
+        "long": -78.3917007446,
+        "name": "Vicars Private ",
+        "state": "Pennsylvania"
+    },
+    "PS18": {
+        "lat": 41.9037017822,
+        "long": -78.6275024414,
+        "name": "Pecora Field",
+        "state": "Pennsylvania"
+    },
+    "PS20": {
+        "lat": 40.5334014893,
+        "long": -76.4621963501,
+        "name": "Fairview Farm Airfield",
+        "state": "Pennsylvania"
+    },
+    "PS21": {
+        "lat": 40.6459007263,
+        "long": -76.8122024536,
+        "name": "Flying Eagle ",
+        "state": "Pennsylvania"
+    },
+    "PS23": {
+        "lat": 40.0850982666,
+        "long": -78.5475006104,
+        "name": "Windy Hill ",
+        "state": "Pennsylvania"
+    },
+    "PS25": {
+        "lat": 39.8433990479,
+        "long": -77.1647033691,
+        "name": "Captain's Folly ",
+        "state": "Pennsylvania"
+    },
+    "PS27": {
+        "lat": 39.7313995361,
+        "long": -79.375,
+        "name": "Juergensen Airpark and Maritime Facility ",
+        "state": "Pennsylvania"
+    },
+    "PS35": {
+        "lat": 40.4580993652,
+        "long": -76.4580001831,
+        "name": "Dutch Country Egg Farms ",
+        "state": "Pennsylvania"
+    },
+    "PS38": {
+        "lat": 40.2855987549,
+        "long": -75.7481994629,
+        "name": "Bert's ",
+        "state": "Pennsylvania"
+    },
+    "PS39": {
+        "lat": 40.6282997131,
+        "long": -78.9602966309,
+        "name": "Downes ",
+        "state": "Pennsylvania"
+    },
+    "PS43": {
+        "lat": 41.0680999756,
+        "long": -80.255897522,
+        "name": "Barnes Farmland ",
+        "state": "Pennsylvania"
+    },
+    "PS46": {
+        "lat": 40.3623008728,
+        "long": -75.1801986694,
+        "name": "Graystrip ",
+        "state": "Pennsylvania"
+    },
+    "PS47": {
+        "lat": 40.427898407,
+        "long": -78.7414016724,
+        "name": "Hamilton Hill ",
+        "state": "Pennsylvania"
+    },
+    "PS49": {
+        "lat": 39.8604011536,
+        "long": -78.9886016846,
+        "name": "Hartman ",
+        "state": "Pennsylvania"
+    },
+    "PS50": {
+        "lat": 41.7678985596,
+        "long": -75.723197937,
+        "name": "Huf ",
+        "state": "Pennsylvania"
+    },
+    "PS52": {
+        "lat": 40.195098877,
+        "long": -78.8328018188,
+        "name": "Alberter Farms ",
+        "state": "Pennsylvania"
+    },
+    "PS53": {
+        "lat": 40.638999939,
+        "long": -78.5813980103,
+        "name": "7-H Skeet Club Inc. Field",
+        "state": "Pennsylvania"
+    },
+    "PS54": {
+        "lat": 40.3292999268,
+        "long": -75.2816009521,
+        "name": "Gunden ",
+        "state": "Pennsylvania"
+    },
+    "PS61": {
+        "lat": 41.6908988953,
+        "long": -79.3658981323,
+        "name": "Tidioute ",
+        "state": "Pennsylvania"
+    },
+    "PS64": {
+        "lat": 41.8250999451,
+        "long": -80.0789031982,
+        "name": "Morton's ",
+        "state": "Pennsylvania"
+    },
+    "PS66": {
+        "lat": 41.2114982605,
+        "long": -79.3609008789,
+        "name": "Parker-Cramer ",
+        "state": "Pennsylvania"
+    },
+    "PS67": {
+        "lat": 40.1062011719,
+        "long": -80.4309005737,
+        "name": "Uphill ",
+        "state": "Pennsylvania"
+    },
+    "PS68": {
+        "lat": 40.3322982788,
+        "long": -75.0304031372,
+        "name": "Buckingham ",
+        "state": "Pennsylvania"
+    },
+    "PS69": {
+        "lat": 40.7270011902,
+        "long": -78.5394973755,
+        "name": "Barnhart ",
+        "state": "Pennsylvania"
+    },
+    "PS70": {
+        "lat": 40.6058998108,
+        "long": -76.2829971313,
+        "name": "Cider Field",
+        "state": "Pennsylvania"
+    },
+    "PS73": {
+        "lat": 41.0634002686,
+        "long": -77.4336013794,
+        "name": "Poverty ",
+        "state": "Pennsylvania"
+    },
+    "PS82": {
+        "lat": 41.2958984375,
+        "long": -75.5977020264,
+        "name": "Lazy J. Ranch ",
+        "state": "Pennsylvania"
+    },
+    "PS87": {
+        "lat": 40.1058998108,
+        "long": -80.0338973999,
+        "name": "Home Safe ",
+        "state": "Pennsylvania"
+    },
+    "PS98": {
+        "lat": 40.8828010559,
+        "long": -79.1965026855,
+        "name": "Travis ",
+        "state": "Pennsylvania"
+    },
+    "PS99": {
+        "lat": 40.7478981018,
+        "long": -75.9329986572,
+        "name": "West Penn Township ",
+        "state": "Pennsylvania"
+    }
+}

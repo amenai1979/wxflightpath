@@ -1,0 +1,717 @@
+{
+  "MM10": {
+    "lat": 28.0375995636,
+    "long": -115.1900024414,
+    "name": "Isla Cedros "
+  },
+  "MM11": {
+    "lat": 24.4183006287,
+    "long": -104.8860015869,
+    "name": "Rancho El Durangueno "
+  },
+  "MM12": {
+    "lat": 25.815700531,
+    "long": -107.9079971313,
+    "name": "Bacubirito "
+  },
+  "MM13": {
+    "lat": 27.5988998413,
+    "long": -105.1039962769,
+    "name": "Ciudad Camargo Southeast "
+  },
+  "MM14": {
+    "lat": 21.9629001617,
+    "long": -100.0080032349,
+    "name": "Rio Verde "
+  },
+  "MM16": {
+    "lat": 25.5265007019,
+    "long": -103.5179977417,
+    "name": "J Agustin Castro "
+  },
+  "MM17": {
+    "lat": 23.966299057,
+    "long": -98.8348007202,
+    "name": "La Retama Southwest "
+  },
+  "MM20": {
+    "lat": 18.8742008209,
+    "long": -96.9581985474,
+    "name": "Cordoba "
+  },
+  "MM21": {
+    "lat": 25.7360992432,
+    "long": -100.2249984741,
+    "name": "La Encarnacion "
+  },
+  "MM22": {
+    "lat": 23.8022003174,
+    "long": -97.7736968994,
+    "name": "La Pesca "
+  },
+  "MM23": {
+    "lat": 29.72590065,
+    "long": -114.6999969482,
+    "name": "Rancho Santa Ynes "
+  },
+  "MM25": {
+    "lat": 19.7084999084,
+    "long": -103.4899978638,
+    "name": "Ciudad Guzman "
+  },
+  "MM27": {
+    "lat": 21.9839992523,
+    "long": -98.9618988037,
+    "name": "Cementos Mexicanos "
+  },
+  "MM28": {
+    "lat": 19.8740005493,
+    "long": -98.9436035156,
+    "name": "Tizayuca "
+  },
+  "MM29": {
+    "lat": 16.4634990692,
+    "long": -98.3929977417,
+    "name": "Ta Lo De Soto "
+  },
+  "MM30": {
+    "lat": 24.6585006714,
+    "long": -107.5520019531,
+    "name": "Campo Gobierno "
+  },
+  "MM31": {
+    "lat": 20.9468002319,
+    "long": -97.3750991821,
+    "name": "Fausto Vega Santander "
+  },
+  "MM32": {
+    "lat": 29.929599762,
+    "long": -112.65599823,
+    "name": "Puerto Libertad North "
+  },
+  "MM36": {
+    "lat": 26.6784992218,
+    "long": -100.1709976196,
+    "name": "Rancho San Salvador Northeast "
+  },
+  "MM37": {
+    "lat": 25.5062007904,
+    "long": -102.202003479,
+    "name": "Casa Madero "
+  },
+  "MM38": {
+    "lat": 26.5210990906,
+    "long": -99.1485977173,
+    "name": "Falcon Dam "
+  },
+  "MM39": {
+    "lat": 25.4386997223,
+    "long": -108.0920028687,
+    "name": "Guamuchil "
+  },
+  "MM41": {
+    "lat": 16.910200119,
+    "long": -99.9887008667,
+    "name": "Leon Gonzales Pie De La Cuesta "
+  },
+  "MM42": {
+    "lat": 27.856300354,
+    "long": -101.5260009766,
+    "name": "Muzquiz New "
+  },
+  "MM44": {
+    "lat": 26.3043994904,
+    "long": -99.550201416,
+    "name": "Agualeguas Old "
+  },
+  "MM47": {
+    "lat": 19.8514995575,
+    "long": -101.7519989014,
+    "name": "Jaujilla "
+  },
+  "MM48": {
+    "lat": 17.8801002502,
+    "long": -92.4757003784,
+    "name": "Ciudad Pemex "
+  },
+  "MM50": {
+    "lat": 24.4206008911,
+    "long": -106.702003479,
+    "name": "Cosala "
+  },
+  "MM51": {
+    "lat": 26.6355991364,
+    "long": -100.8899993896,
+    "name": "Rancho Guadalupe South "
+  },
+  "MM53": {
+    "lat": 24.0615005493,
+    "long": -98.4156036377,
+    "name": "Nuevo Dolores "
+  },
+  "MM54": {
+    "lat": 23.7381000519,
+    "long": -98.0612030029,
+    "name": "Rancho Marina Vieja "
+  },
+  "MM56": {
+    "lat": 22.9538993835,
+    "long": -98.959602356,
+    "name": "Xicotencatl "
+  },
+  "MM61": {
+    "lat": 20.486000061,
+    "long": -99.2587966919,
+    "name": "Ixmiquilpan "
+  },
+  "MM63": {
+    "lat": 19.745300293,
+    "long": -104.3369979858,
+    "name": "Autlan "
+  },
+  "MM64": {
+    "lat": 26.9904003143,
+    "long": -102.0329971313,
+    "name": "Cuatro Cienegas New "
+  },
+  "MM65": {
+    "lat": 31.2523002625,
+    "long": -109.608001709,
+    "name": "Agua Prieta South "
+  },
+  "MM66": {
+    "lat": 18.6846008301,
+    "long": -103.6760025024,
+    "name": "Coahuayana "
+  },
+  "MM67": {
+    "lat": 23.6765995026,
+    "long": -100.6230010986,
+    "name": "Matehuala "
+  },
+  "MM68": {
+    "lat": 28.0366001129,
+    "long": -103.7710037231,
+    "name": "Mina Hercules "
+  },
+  "MM69": {
+    "lat": 30.6744995117,
+    "long": -110.9309997559,
+    "name": "Tacicuri "
+  },
+  "MM72": {
+    "lat": 21.1557006836,
+    "long": -88.1728973389,
+    "name": "Cupul "
+  },
+  "MM73": {
+    "lat": 18.5273990631,
+    "long": -100.8509979248,
+    "name": "Huetamo "
+  },
+  "MM75": {
+    "lat": 31.2429008484,
+    "long": -109.625,
+    "name": "Agua Prieta Southwest "
+  },
+  "MM77": {
+    "lat": 28.2131004333,
+    "long": -105.4479980469,
+    "name": "Las Delicias "
+  },
+  "MM79": {
+    "lat": 26.3981990814,
+    "long": -108.6119995117,
+    "name": "El Fuerte "
+  },
+  "MM80": {
+    "lat": 30.4808998108,
+    "long": -109.6439971924,
+    "name": "Rancho La Milpita "
+  },
+  "MM81": {
+    "lat": 18.7742004395,
+    "long": -110.9300003052,
+    "name": "Isla Socorro "
+  },
+  "MM82": {
+    "lat": 27.0237998962,
+    "long": -103.375,
+    "name": "Laguna Del Rey "
+  },
+  "MM84": {
+    "lat": 26.9221000671,
+    "long": -105.7819976807,
+    "name": "Parral "
+  },
+  "MMAA": {
+    "lat": 16.7570991516,
+    "long": -99.7539978027,
+    "name": "General Juan N Alvarez International "
+  },
+  "MMAL": {
+    "lat": 26.3339996338,
+    "long": -99.5423965454,
+    "name": "Agualeguas "
+  },
+  "MMAN": {
+    "lat": 25.8656005859,
+    "long": -100.2369995117,
+    "name": "Del Norte International "
+  },
+  "MMAS": {
+    "lat": 21.7056007385,
+    "long": -102.318000793,
+    "name": "Jesus Teran International "
+  },
+  "MMBT": {
+    "lat": 15.7753000259,
+    "long": -96.2626037598,
+    "name": "Bahias de Huatulco International "
+  },
+  "MMCA": {
+    "lat": 31.0661501549,
+    "long": -110.097877979,
+    "name": "Cananea "
+  },
+  "MMCB": {
+    "lat": 18.8348007202,
+    "long": -99.2612991333,
+    "name": "General Mariano Matamoros "
+  },
+  "MMCC": {
+    "lat": 29.3328990936,
+    "long": -101.0989990234,
+    "name": "Ciudad Acuna New International "
+  },
+  "MMCE": {
+    "lat": 18.6536998749,
+    "long": -91.7990036011,
+    "name": "Ciudad del Carmen International "
+  },
+  "MMCG": {
+    "lat": 30.3973999023,
+    "long": -107.875,
+    "name": "Nuevo Casas Grandes "
+  },
+  "MMCH": {
+    "lat": 17.5737991333,
+    "long": -99.5142974854,
+    "name": "Chilpancingo "
+  },
+  "MMCL": {
+    "lat": 24.7644996643,
+    "long": -107.474998474,
+    "name": "Federal de Bachigualato International "
+  },
+  "MMCM": {
+    "lat": 18.504699707,
+    "long": -88.3267974854,
+    "name": "Chetumal International "
+  },
+  "MMCN": {
+    "lat": 27.3925991058,
+    "long": -109.8330001831,
+    "name": "Ciudad Obregon International "
+  },
+  "MMCO": {
+    "lat": 16.176700592,
+    "long": -92.0505981445,
+    "name": "Comitan "
+  },
+  "MMCP": {
+    "lat": 19.8167991638,
+    "long": -90.5002975464,
+    "name": "Ingeniero Alberto Acuna Ongay International "
+  },
+  "MMCS": {
+    "lat": 31.636100769,
+    "long": -106.4290008545,
+    "name": "Abraham Gonzalez International "
+  },
+  "MMCT": {
+    "lat": 20.6413002014,
+    "long": -88.4461975098,
+    "name": "Chichen Itza International "
+  },
+  "MMCU": {
+    "lat": 28.7028999329,
+    "long": -105.964996338,
+    "name": "General Roberto Fierro Villalobos International "
+  },
+  "MMCV": {
+    "lat": 23.7033004761,
+    "long": -98.9564971924,
+    "name": "General Pedro Jose Mendez International "
+  },
+  "MMCY": {
+    "lat": 20.545999527,
+    "long": -100.8870010376,
+    "name": "Captain Rogelio Castillo National "
+  },
+  "MMCZ": {
+    "lat": 20.5223999023,
+    "long": -86.9255981445,
+    "name": "Cozumel International "
+  },
+  "MMDA": {
+    "lat": 25.0538005829,
+    "long": -111.6149978638,
+    "name": "Ciudad Constitucion "
+  },
+  "MMDM": {
+    "lat": 22.7431774139,
+    "long": -99.0173721313,
+    "name": "Ciudad Mante National "
+  },
+  "MMDO": {
+    "lat": 24.1242008209,
+    "long": -104.527999878,
+    "name": "General Guadalupe Victoria International "
+  },
+  "MMEP": {
+    "lat": 21.419500351,
+    "long": -104.8430023193,
+    "name": "Amado Nervo National "
+  },
+  "MMES": {
+    "lat": 31.79529953,
+    "long": -116.6029968262,
+    "name": "Ensenada "
+  },
+  "MMGL": {
+    "lat": 20.5217990875,
+    "long": -103.3109970093,
+    "name": "Don Miguel Hidalgo Y Costilla International "
+  },
+  "MMGM": {
+    "lat": 27.9689998627,
+    "long": -110.9250030518,
+    "name": "General Jose Maria Yanez International "
+  },
+  "MMGR": {
+    "lat": 28.0261001587,
+    "long": -114.0240020752,
+    "name": "Guerrero Negro "
+  },
+  "MMGT": {
+    "lat": 20.9172000885,
+    "long": -101.3339996338,
+    "name": "Guanajuato "
+  },
+  "MMHC": {
+    "lat": 18.4972000122,
+    "long": -97.4198989868,
+    "name": "Tehuacan "
+  },
+  "MMHO": {
+    "lat": 29.0958995819,
+    "long": -111.047996521,
+    "name": "General Ignacio P. Garcia International "
+  },
+  "MMIA": {
+    "lat": 19.2770004272,
+    "long": -103.577003479,
+    "name": "Lic. Miguel de la Madrid "
+  },
+  "MMIM": {
+    "lat": 21.2450008392,
+    "long": -86.7399978638,
+    "name": "Isla Mujeres "
+  },
+  "MMIO": {
+    "lat": 25.5494995117,
+    "long": -100.9290008545,
+    "name": "Plan De Guadalupe International "
+  },
+  "MMIT": {
+    "lat": 16.449300766,
+    "long": -95.0936965942,
+    "name": "Ixtepec "
+  },
+  "MMJA": {
+    "lat": 19.4750995636,
+    "long": -96.7975006104,
+    "name": "El Lencero "
+  },
+  "MMJC": {
+    "lat": 19.5748004913,
+    "long": -99.2888031006,
+    "name": "Atizapan De Zaragoza "
+  },
+  "MMLC": {
+    "lat": 18.0016994476,
+    "long": -102.221000671,
+    "name": "Lazaro Cardenas "
+  },
+  "MMLM": {
+    "lat": 25.6851997375,
+    "long": -109.081001282,
+    "name": "Valle del Fuerte International "
+  },
+  "MMLO": {
+    "lat": 20.9934997559,
+    "long": -101.481002808,
+    "name": "Del Bajio International "
+  },
+  "MMLP": {
+    "lat": 24.0727005005,
+    "long": -110.361999512,
+    "name": "Manuel Marquez de Leon International "
+  },
+  "MMLT": {
+    "lat": 25.989200592,
+    "long": -111.3479995728,
+    "name": "Loreto International "
+  },
+  "MMMA": {
+    "lat": 25.7698993683,
+    "long": -97.5252990723,
+    "name": "General Servando Canales International "
+  },
+  "MMMD": {
+    "lat": 20.9370002747,
+    "long": -89.657699585,
+    "name": "Licenciado Manuel Crescencio Rejon Int "
+  },
+  "MMMG": {
+    "lat": 26.897310257,
+    "long": -111.9575500488,
+    "name": "Mulege "
+  },
+  "MMML": {
+    "lat": 32.6305999756,
+    "long": -115.241996765,
+    "name": "General Rodolfo Sanchez Taboada International "
+  },
+  "MMMM": {
+    "lat": 19.849899292,
+    "long": -101.025001526,
+    "name": "General Francisco J. Mujica International "
+  },
+  "MMMT": {
+    "lat": 18.1033992767,
+    "long": -94.5807037354,
+    "name": "Minatitlan/Coatzacoalcos National "
+  },
+  "MMMV": {
+    "lat": 26.9556999207,
+    "long": -101.4700012207,
+    "name": "Monclova International "
+  },
+  "MMMX": {
+    "lat": 19.4363002777,
+    "long": -99.0720977783,
+    "name": "Licenciado Benito Juarez International "
+  },
+  "MMMY": {
+    "lat": 25.7784996033,
+    "long": -100.107002258,
+    "name": "General Mariano Escobedo International "
+  },
+  "MMMZ": {
+    "lat": 23.1613998413,
+    "long": -106.26599884,
+    "name": "General Rafael Buelna International "
+  },
+  "MMNG": {
+    "lat": 31.2261009216,
+    "long": -110.9759979248,
+    "name": "Nogales International "
+  },
+  "MMNL": {
+    "lat": 27.4438991547,
+    "long": -99.5705032349,
+    "name": "Quetzalcoatl International "
+  },
+  "MMOX": {
+    "lat": 16.9999008179,
+    "long": -96.726600647,
+    "name": "Xoxocotlan International "
+  },
+  "MMPA": {
+    "lat": 20.6026992798,
+    "long": -97.4608001709,
+    "name": "El Tajin National "
+  },
+  "MMPB": {
+    "lat": 19.1581001282,
+    "long": -98.3713989258,
+    "name": "Hermanos Serdan International "
+  },
+  "MMPC": {
+    "lat": 20.0774002075,
+    "long": -98.7825012207,
+    "name": "Ingeniero Juan Guillermo Villasana "
+  },
+  "MMPE": {
+    "lat": 31.356202302,
+    "long": -113.525676727,
+    "name": "Puerto Penasco International "
+  },
+  "MMPG": {
+    "lat": 28.6273994446,
+    "long": -100.5350036621,
+    "name": "Piedras Negras International "
+  },
+  "MMPL": {
+    "lat": 23.575011,
+    "long": -109.535826,
+    "name": "Punta Colorada "
+  },
+  "MMPN": {
+    "lat": 19.3966999054,
+    "long": -102.0390014648,
+    "name": "Licenciado y General Ignacio Lopez Rayon "
+  },
+  "MMPP": {
+    "lat": 23.8034000397,
+    "long": -109.7070007324,
+    "name": "Punta Pescadero "
+  },
+  "MMPQ": {
+    "lat": 17.5333995819,
+    "long": -91.9844970703,
+    "name": "Palenque International "
+  },
+  "MMPR": {
+    "lat": 20.6800994873,
+    "long": -105.2539978027,
+    "name": "Licenciado Gustavo Diaz Ordaz International "
+  },
+  "MMPS": {
+    "lat": 15.8768997192,
+    "long": -97.0891036987,
+    "name": "Puerto Escondido International "
+  },
+  "MMQT": {
+    "lat": 20.6173000336,
+    "long": -100.185997009,
+    "name": "Queretaro Intercontinental "
+  },
+  "MMRX": {
+    "lat": 26.0088996887,
+    "long": -98.2285003662,
+    "name": "General Lucio Blanco International "
+  },
+  "MMSC": {
+    "lat": 16.6902999878,
+    "long": -92.5300979614,
+    "name": "San Cristobal De Las Casas "
+  },
+  "MMSD": {
+    "lat": 23.1518001556,
+    "long": -109.7210006714,
+    "name": "Los Cabos International "
+  },
+  "MMSF": {
+    "lat": 30.9302005768,
+    "long": -114.8089981079,
+    "name": "San Felipe International "
+  },
+  "MMSL": {
+    "lat": 22.9477005005,
+    "long": -109.93699646,
+    "name": "Cabo San Lucas International "
+  },
+  "MMSM": {
+    "lat": 19.756667,
+    "long": -99.015278,
+    "name": "Felipe Angeles International "
+  },
+  "MMSP": {
+    "lat": 22.2542991638,
+    "long": -100.930999756,
+    "name": "Ponciano Arriaga International "
+  },
+  "MMTA": {
+    "lat": 19.5380001068,
+    "long": -98.173500061,
+    "name": "Tlaxcala "
+  },
+  "MMTB": {
+    "lat": 16.739900589,
+    "long": -93.1733016968,
+    "name": "Teran Air Base"
+  },
+  "MMTC": {
+    "lat": 25.5683002472,
+    "long": -103.411003113,
+    "name": "Francisco Sarabia International "
+  },
+  "MMTG": {
+    "lat": 16.5636005402,
+    "long": -93.0224990845,
+    "name": "Angel Albino Corzo International "
+  },
+  "MMTJ": {
+    "lat": 32.5410995483,
+    "long": -116.9700012207,
+    "name": "General Abelardo L. Rodriguez International "
+  },
+  "MMTM": {
+    "lat": 22.2964000702,
+    "long": -97.8658981323,
+    "name": "General Francisco Javier Mina International "
+  },
+  "MMTN": {
+    "lat": 22.0382995605,
+    "long": -98.8065032959,
+    "name": "Tamuin "
+  },
+  "MMTO": {
+    "lat": 19.3370990753,
+    "long": -99.5660018921,
+    "name": "Licenciado Adolfo Lopez Mateos International "
+  },
+  "MMTP": {
+    "lat": 14.7943000793,
+    "long": -92.3700027466,
+    "name": "Tapachula International "
+  },
+  "MMTX": {
+    "lat": 19.5839004517,
+    "long": -103.3840026855,
+    "name": "Tuxpan "
+  },
+  "MMUN": {
+    "lat": 21.0365009308,
+    "long": -86.8770980835,
+    "name": "Cancun International "
+  },
+  "MMVA": {
+    "lat": 17.9969997406,
+    "long": -92.8173980713,
+    "name": "Carlos Rovirosa Perez International "
+  },
+  "MMVR": {
+    "lat": 19.1459007263,
+    "long": -96.1873016357,
+    "name": "General Heriberto Jara International "
+  },
+  "MMZC": {
+    "lat": 22.8971004486,
+    "long": -102.68699646,
+    "name": "General Leobardo C. Ruiz International "
+  },
+  "MMZH": {
+    "lat": 17.601600647,
+    "long": -101.460998535,
+    "name": "Ixtapa Zihuatanejo International "
+  },
+  "MMZM": {
+    "lat": 20.0450000763,
+    "long": -102.2760009766,
+    "name": "Zamora "
+  },
+  "MMZO": {
+    "lat": 19.1448001862,
+    "long": -104.558998108,
+    "name": "Playa De Oro International "
+  },
+  "MMZP": {
+    "lat": 20.7558002472,
+    "long": -103.4649963379,
+    "name": "Zapopan "
+  }
+}

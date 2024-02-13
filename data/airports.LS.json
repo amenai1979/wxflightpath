@@ -1,0 +1,167 @@
+{
+  "FXBB": {
+    "lat": -29.4249992371,
+    "long": 28.6669998169,
+    "name": "Bobete "
+  },
+  "FXKA": {
+    "lat": -29.3637008667,
+    "long": 28.527299881,
+    "name": "Katse "
+  },
+  "FXKB": {
+    "lat": -29.3803005219,
+    "long": 28.4906997681,
+    "name": "Kolberg "
+  },
+  "FXLK": {
+    "lat": -29.8908004761,
+    "long": 28.6555995941,
+    "name": "Lebakeng "
+  },
+  "FXLR": {
+    "lat": -28.8556003571,
+    "long": 28.0527992249,
+    "name": "Leribe "
+  },
+  "FXLS": {
+    "lat": -29.7828998566,
+    "long": 28.3166999817,
+    "name": "Lesobeng "
+  },
+  "FXLT": {
+    "lat": -29.0093002319,
+    "long": 28.8547000885,
+    "name": "Letseng "
+  },
+  "FXMA": {
+    "lat": -29.8405990601,
+    "long": 28.7763996124,
+    "name": "Matsaile "
+  },
+  "FXMF": {
+    "lat": -29.8010997772,
+    "long": 27.2436008453,
+    "name": "Mafeteng "
+  },
+  "FXMH": {
+    "lat": -30.1445007324,
+    "long": 27.4708003998,
+    "name": "Mohale's Hoek "
+  },
+  "FXMK": {
+    "lat": -29.2817993164,
+    "long": 29.0727996826,
+    "name": "Mokhotlong "
+  },
+  "FXML": {
+    "lat": -29.3355007172,
+    "long": 29.185300827,
+    "name": "Malefiloane Airstrip"
+  },
+  "FXMM": {
+    "lat": -29.4622993469,
+    "long": 27.5524997711,
+    "name": "Moshoeshoe I International "
+  },
+  "FXMN": {
+    "lat": -29.5461006165,
+    "long": 28.2709999084,
+    "name": "Mantsonyane "
+  },
+  "FXMP": {
+    "lat": -29.5830001831,
+    "long": 28.6830005646,
+    "name": "Mohlanapeng "
+  },
+  "FXMS": {
+    "lat": -29.6830005646,
+    "long": 28.7999992371,
+    "name": "Mashai Store "
+  },
+  "FXMT": {
+    "lat": -29.783000946,
+    "long": 28.7670001984,
+    "name": "Matabeng Store "
+  },
+  "FXMU": {
+    "lat": -29.3041000366,
+    "long": 27.5034999847,
+    "name": "Mejametalana Airbase"
+  },
+  "FXMV": {
+    "lat": -29.814699173,
+    "long": 28.8082008362,
+    "name": "Matabeng Village "
+  },
+  "FXNH": {
+    "lat": -30.0669994354,
+    "long": 27.8670005798,
+    "name": "Nohanas "
+  },
+  "FXNK": {
+    "lat": -30.0216999054,
+    "long": 28.1968994141,
+    "name": "Nkaus "
+  },
+  "FXPG": {
+    "lat": -29.1205997467,
+    "long": 28.5053005219,
+    "name": "Pelaneng "
+  },
+  "FXQG": {
+    "lat": -30.4074993134,
+    "long": 27.6933002472,
+    "name": "Quthing "
+  },
+  "FXQN": {
+    "lat": -30.111700058,
+    "long": 28.6718997955,
+    "name": "Qacha's Nek "
+  },
+  "FXSE": {
+    "lat": -29.9158000946,
+    "long": 29.0387992859,
+    "name": "Sehlabathebe "
+  },
+  "FXSH": {
+    "lat": -29.7308998108,
+    "long": 28.7688999176,
+    "name": "Sehonghong "
+  },
+  "FXSK": {
+    "lat": -30.0389003754,
+    "long": 28.370300293,
+    "name": "Sekakes "
+  },
+  "FXSM": {
+    "lat": -29.8386001587,
+    "long": 28.0599994659,
+    "name": "Semonkong "
+  },
+  "FXSS": {
+    "lat": -29.2675991058,
+    "long": 28.5522994995,
+    "name": "Seshutes "
+  },
+  "FXST": {
+    "lat": -29.6170005798,
+    "long": 28.783000946,
+    "name": "St. Theresa "
+  },
+  "FXTA": {
+    "lat": -29.5228004456,
+    "long": 28.6158008575,
+    "name": "Thaba-Tseka "
+  },
+  "FXTB": {
+    "lat": -30.0499992371,
+    "long": 28.4330005646,
+    "name": "Tebellong "
+  },
+  "FXTK": {
+    "lat": -29.2329998016,
+    "long": 28.8829994202,
+    "name": "Tlokoeng "
+  }
+}

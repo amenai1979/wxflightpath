@@ -1,0 +1,77 @@
+{
+  "GO66": {
+    "lat": 15.5438995361,
+    "long": -14.9582996368,
+    "name": "Dodji "
+  },
+  "GOBD": {
+    "lat": 14.671111,
+    "long": -17.066944,
+    "name": "Blaise Diagne International "
+  },
+  "GODK": {
+    "lat": 12.8985004425,
+    "long": -14.9680995941,
+    "name": "Kolda North "
+  },
+  "GOGG": {
+    "lat": 12.5556001663,
+    "long": -16.2817993164,
+    "name": "Ziguinchor "
+  },
+  "GOGS": {
+    "lat": 12.410200119,
+    "long": -16.746099472,
+    "name": "Cap Skirring "
+  },
+  "GOOK": {
+    "lat": 14.146900177,
+    "long": -16.0513000488,
+    "name": "Kaolack "
+  },
+  "GOOY": {
+    "lat": 14.7397003174,
+    "long": -17.4902000427,
+    "name": "Leopold Sedar Senghor International "
+  },
+  "GOSM": {
+    "lat": 15.5936002731,
+    "long": -13.3227996826,
+    "name": "Ouro Sogui "
+  },
+  "GOSP": {
+    "lat": 16.6830005646,
+    "long": -14.9670000076,
+    "name": "Podor "
+  },
+  "GOSR": {
+    "lat": 16.4330005646,
+    "long": -15.6499996185,
+    "name": "Richard Toll "
+  },
+  "GOSS": {
+    "lat": 16.0508003235,
+    "long": -16.4631996155,
+    "name": "Saint Louis "
+  },
+  "GOTB": {
+    "lat": 14.8472995758,
+    "long": -12.4682998657,
+    "name": "Bakel "
+  },
+  "GOTK": {
+    "lat": 12.5722999573,
+    "long": -12.2202997208,
+    "name": "Kedougou "
+  },
+  "GOTS": {
+    "lat": 13.0467996597,
+    "long": -13.2953996658,
+    "name": "Simenti "
+  },
+  "GOTT": {
+    "lat": 13.7368001938,
+    "long": -13.6531000137,
+    "name": "Tambacounda "
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "EPAR": {
+    "lat": 49.6575012207,
+    "long": 22.5142993927,
+    "name": "Arlamow "
+  },
+  "EPBA": {
+    "lat": 49.8050003052,
+    "long": 19.0018997192,
+    "name": "Bielsko Biala "
+  },
+  "EPBC": {
+    "lat": 52.2685012817,
+    "long": 20.9109992981,
+    "name": "Babice "
+  },
+  "EPBD": {
+    "lat": 53.103099823,
+    "long": 17.9556007385,
+    "name": "Bydgoszcz-Biedaszkowo "
+  },
+  "EPBK": {
+    "lat": 53.101398468,
+    "long": 23.1706008911,
+    "name": "Bialystok-Krywlany "
+  },
+  "EPBP": {
+    "lat": 52.0057983398,
+    "long": 23.1436004639,
+    "name": "Biala Podlaska "
+  },
+  "EPBS": {
+    "lat": 53.5750007629,
+    "long": 16.5242004395,
+    "name": "Borne Sulinowo "
+  },
+  "EPBY": {
+    "lat": 53.0968017578,
+    "long": 17.9776992798,
+    "name": "Bydgoszcz Ignacy Jan Paderewski "
+  },
+  "EPCE": {
+    "lat": 54.4160003662,
+    "long": 17.763299942,
+    "name": "Cewice Military "
+  },
+  "EPCH": {
+    "lat": 50.8849983215,
+    "long": 19.20470047,
+    "name": "Czestochowa-Rudniki"
+  },
+  "EPDA": {
+    "lat": 54.4047012329,
+    "long": 16.353099823,
+    "name": "Darlowek Naval Air Base"
+  },
+  "EPDE": {
+    "lat": 51.551399231,
+    "long": 21.8936004639,
+    "name": "Deblin Military Air Base"
+  },
+  "EPDR": {
+    "lat": 53.4777984619,
+    "long": 15.730799675,
+    "name": "Ziemsko "
+  },
+  "EPEK": {
+    "lat": 53.8072222,
+    "long": 22.5408333,
+    "name": "Elk-Makosieje "
+  },
+  "EPEL": {
+    "lat": 54.1408004761,
+    "long": 19.4232997894,
+    "name": "Elblag "
+  },
+  "EPGD": {
+    "lat": 54.3776016235,
+    "long": 18.4661998749,
+    "name": "Gdansk Lech Walesa "
+  },
+  "EPGI": {
+    "lat": 53.5243988037,
+    "long": 18.849199295,
+    "name": "Grudziadz Lisie "
+  },
+  "EPGL": {
+    "lat": 50.2694015503,
+    "long": 18.6728000641,
+    "name": "Gliwice Glider "
+  },
+  "EPGM": {
+    "lat": 54.00645,
+    "long": 21.81824,
+    "name": "Gizycko-Mazury Residence"
+  },
+  "EPGO": {
+    "lat": 52.1844406128,
+    "long": 21.2811107635,
+    "name": "Goraszka "
+  },
+  "EPIN": {
+    "lat": 52.8064002991,
+    "long": 18.2858009338,
+    "name": "Inowroclaw Glider "
+  },
+  "EPIR": {
+    "lat": 52.8293991089,
+    "long": 18.3306007385,
+    "name": "Inowroclaw Military Air Base"
+  },
+  "EPIW": {
+    "lat": 49.6577987671,
+    "long": 21.8174991608,
+    "name": "Iwonicz "
+  },
+  "EPJA": {
+    "lat": 54.7102813721,
+    "long": 18.645280838,
+    "name": "Jastarnia "
+  },
+  "EPJG": {
+    "lat": 50.8988990784,
+    "long": 15.7855997086,
+    "name": "Jelenia Gora Glider "
+  },
+  "EPJS": {
+    "lat": 50.9283294678,
+    "long": 15.7597198486,
+    "name": "Jezow Sudecki "
+  },
+  "EPKA": {
+    "lat": 50.8967018127,
+    "long": 20.7317008972,
+    "name": "Kielce Maslow "
+  },
+  "EPKB": {
+    "lat": 52.3199996948,
+    "long": 18.1700000763,
+    "name": "Kazimierz Biskup "
+  },
+  "EPKE": {
+    "lat": 54.043598175,
+    "long": 21.4321994781,
+    "name": "Ketrzyn-Wilamowo "
+  },
+  "EPKK": {
+    "lat": 50.0777015686,
+    "long": 19.7847995758,
+    "name": "John Paul II International  Krakow-Balice "
+  },
+  "EPKM": {
+    "lat": 50.2380981445,
+    "long": 19.0342006683,
+    "name": "Muchowiec "
+  },
+  "EPKN": {
+    "lat": 50.5292015076,
+    "long": 18.0848999023,
+    "name": "Kamien Slaski "
+  },
+  "EPKO": {
+    "lat": 54.0424995422,
+    "long": 16.2656002045,
+    "name": "Koszalin Zegrze "
+  },
+  "EPKP": {
+    "lat": 50.0896987915,
+    "long": 20.2017002106,
+    "name": "Pobiednik Wielki "
+  },
+  "EPKR": {
+    "lat": 49.681098938,
+    "long": 21.7371997833,
+    "name": "Krosno "
+  },
+  "EPKS": {
+    "lat": 52.3316993713,
+    "long": 16.9664001465,
+    "name": "Krzesiny Military Air Base"
+  },
+  "EPKT": {
+    "lat": 50.4743003845,
+    "long": 19.0799999237,
+    "name": "Katowice International "
+  },
+  "EPKW": {
+    "lat": 49.9399986267,
+    "long": 19.0219993591,
+    "name": "Bielsko-Bialo Kaniow Airfield"
+  },
+  "EPLB": {
+    "lat": 51.240278,
+    "long": 22.713611,
+    "name": "Lublin "
+  },
+  "EPLE": {
+    "lat": 51.182800293,
+    "long": 16.1781997681,
+    "name": "Legnica "
+  },
+  "EPLK": {
+    "lat": 51.551700592,
+    "long": 19.1791000366,
+    "name": "Lask Military Air Base"
+  },
+  "EPLL": {
+    "lat": 51.7219009399,
+    "long": 19.3980998993,
+    "name": "Lodz Wladyslaw Reymont "
+  },
+  "EPLN": {
+    "lat": 53.6080589294,
+    "long": 20.3444404602,
+    "name": "Lansk / Gryzliny "
+  },
+  "EPLR": {
+    "lat": 51.2219009399,
+    "long": 22.3946990967,
+    "name": "Lublin Radwiec "
+  },
+  "EPLS": {
+    "lat": 51.8349990845,
+    "long": 16.521900177,
+    "name": "Leszno Strzyzewi "
+  },
+  "EPLU": {
+    "lat": 51.4230003357,
+    "long": 16.1961994171,
+    "name": "Lubin "
+  },
+  "EPLY": {
+    "lat": 52.004699707,
+    "long": 19.1455993652,
+    "name": "Leczyca Military Air Base"
+  },
+  "EPMB": {
+    "lat": 54.0269012451,
+    "long": 19.1341991425,
+    "name": "Malbork Military Air Base"
+  },
+  "EPMI": {
+    "lat": 53.3950996399,
+    "long": 16.0827999115,
+    "name": "Miroslawiec Military Air Base"
+  },
+  "EPMJ": {
+    "lat": 53.8077812195,
+    "long": 21.5558300018,
+    "name": "Mikolajki "
+  },
+  "EPML": {
+    "lat": 50.3222999573,
+    "long": 21.4620990753,
+    "name": "Mielec "
+  },
+  "EPMM": {
+    "lat": 52.1954994202,
+    "long": 21.6558990479,
+    "name": "Minsk Mazowiecki Military Air Base"
+  },
+  "EPMO": {
+    "lat": 52.4510993958,
+    "long": 20.6518001556,
+    "name": "Warsaw Modlin "
+  },
+  "EPMR": {
+    "lat": 50.9578018188,
+    "long": 16.7702999115,
+    "name": "Miroslawice Private "
+  },
+  "EPNL": {
+    "lat": 49.7456016541,
+    "long": 20.6236000061,
+    "name": "Nowy Sacz-Lososina Dolna "
+  },
+  "EPNM": {
+    "lat": 51.625,
+    "long": 20.5349998474,
+    "name": "Nowe Miasto nad Pilica Airfield"
+  },
+  "EPNT": {
+    "lat": 49.4627990723,
+    "long": 20.0503005981,
+    "name": "Nowy Targ "
+  },
+  "EPOD": {
+    "lat": 53.7731018066,
+    "long": 20.4150009155,
+    "name": "Olsztyn Dajtki "
+  },
+  "EPOK": {
+    "lat": 54.57970047,
+    "long": 18.51720047,
+    "name": "Oksywie Military Air Base"
+  },
+  "EPOM": {
+    "lat": 51.7010993958,
+    "long": 17.8456001282,
+    "name": "Ostrow "
+  },
+  "EPOP": {
+    "lat": 50.6333007812,
+    "long": 17.7817001343,
+    "name": "Opole-Polska Nowa Wies "
+  },
+  "EPPB": {
+    "lat": 52.5344009399,
+    "long": 17.2187995911,
+    "name": "Bednary Airfield"
+  },
+  "EPPC": {
+    "lat": 50.5182991028,
+    "long": 20.5149993896,
+    "name": "Pinczow "
+  },
+  "EPPI": {
+    "lat": 53.1699981689,
+    "long": 16.7124996185,
+    "name": "Pila "
+  },
+  "EPPK": {
+    "lat": 52.4338989258,
+    "long": 17.0442008972,
+    "name": "Poznan-Kobylnica "
+  },
+  "EPPL": {
+    "lat": 52.5621986389,
+    "long": 19.7213993073,
+    "name": "Plock "
+  },
+  "EPPO": {
+    "lat": 52.4210014343,
+    "long": 16.8262996674,
+    "name": "Poznan-Lawica "
+  },
+  "EPPR": {
+    "lat": 54.2480010986,
+    "long": 18.6716003418,
+    "name": "Pruszcz Gdanski "
+  },
+  "EPPT": {
+    "lat": 51.3830986023,
+    "long": 19.6882991791,
+    "name": "Piotrkow Trybunalski-Bujny "
+  },
+  "EPPW": {
+    "lat": 52.3793983459,
+    "long": 17.8539009094,
+    "name": "Powidz Military Air Base"
+  },
+  "EPRA": {
+    "lat": 51.3891983032,
+    "long": 21.213300705,
+    "name": "Warsaw-Radom "
+  },
+  "EPRG": {
+    "lat": 50.0708007813,
+    "long": 18.6282997131,
+    "name": "Rybnik-Gotarowice Glider "
+  },
+  "EPRJ": {
+    "lat": 50.1053009033,
+    "long": 22.0480995178,
+    "name": "Rzeszow "
+  },
+  "EPRP": {
+    "lat": 51.4789009094,
+    "long": 21.1100006104,
+    "name": "Radom-Piastrow Glider "
+  },
+  "EPRU": {
+    "lat": 50.886133,
+    "long": 19.202472,
+    "name": "Czestochowa-Rudniki "
+  },
+  "EPRZ": {
+    "lat": 50.1100006104,
+    "long": 22.0189990997,
+    "name": "Rzeszow-Jasionka "
+  },
+  "EPSC": {
+    "lat": 53.5847015381,
+    "long": 14.9021997452,
+    "name": "Szczecin-Goleniow Solidarnosc "
+  },
+  "EPSD": {
+    "lat": 53.3921012878,
+    "long": 14.6337995529,
+    "name": "Szczecin-Dabie "
+  },
+  "EPSN": {
+    "lat": 53.790599823,
+    "long": 15.8262996674,
+    "name": "Swidwin Military Air Base"
+  },
+  "EPSO": {
+    "lat": 52.198600769,
+    "long": 20.2928009033,
+    "name": "Sochaczew "
+  },
+  "EPSR": {
+    "lat": 54.4082984924,
+    "long": 17.0956001282,
+    "name": "Slupsk-Krepa "
+  },
+  "EPST": {
+    "lat": 50.6274986267,
+    "long": 21.9983005524,
+    "name": "Stalowa Wola-Turbia "
+  },
+  "EPSU": {
+    "lat": 54.0727996826,
+    "long": 22.8992004395,
+    "name": "Suwalki "
+  },
+  "EPSW": {
+    "lat": 51.2318992615,
+    "long": 22.6902999878,
+    "name": "Swidnik Lotnisko "
+  },
+  "EPSY": {
+    "lat": 53.481944,
+    "long": 20.937778,
+    "name": "Olsztyn-Mazury "
+  },
+  "EPTM": {
+    "lat": 51.584400177,
+    "long": 20.0977993011,
+    "name": "Tomaszow Mazowiecki Military Air Base"
+  },
+  "EPTO": {
+    "lat": 53.0292015076,
+    "long": 18.5459003448,
+    "name": "Torun "
+  },
+  "EPWA": {
+    "lat": 52.1656990051,
+    "long": 20.9671001434,
+    "name": "Warsaw Chopin "
+  },
+  "EPWC": {
+    "lat": 50.8829994202,
+    "long": 16.3199996948,
+    "name": "Swiebodzice Airfield"
+  },
+  "EPWK": {
+    "lat": 52.5847015381,
+    "long": 19.0156002045,
+    "name": "Wloclawek-Kruszyn "
+  },
+  "EPWR": {
+    "lat": 51.1026992798,
+    "long": 16.885799408,
+    "name": "Copernicus Wroclaw "
+  },
+  "EPWS": {
+    "lat": 51.2061004639,
+    "long": 16.9986000061,
+    "name": "Wroclaw-Szymanow "
+  },
+  "EPWT": {
+    "lat": 53.298567500000004,
+    "long": 18.414187352797445,
+    "name": "Watorowo "
+  },
+  "EPZA": {
+    "lat": 50.7016983032,
+    "long": 23.2043991089,
+    "name": "Zamosc-Mokre "
+  },
+  "EPZG": {
+    "lat": 52.1385002136,
+    "long": 15.7986001968,
+    "name": "Zielona Gora-Babimost "
+  },
+  "EPZN": {
+    "lat": 51.6274986267,
+    "long": 15.4083003998,
+    "name": "Tomaszowo "
+  },
+  "EPZP": {
+    "lat": 51.9789009094,
+    "long": 15.4638996124,
+    "name": "Zielona Gora-Przylep "
+  },
+  "EPZR": {
+    "lat": 49.7710990906,
+    "long": 19.2180995941,
+    "name": "Zar "
+  }
+}

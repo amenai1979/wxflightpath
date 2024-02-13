@@ -1,0 +1,477 @@
+{
+  "RP12": {
+    "lat": 13.9001998901,
+    "long": 121.7440032959,
+    "name": "Pagbilao Grande Island "
+  },
+  "RP13": {
+    "lat": 9.8092603683,
+    "long": 125.5930023193,
+    "name": "Nonoc "
+  },
+  "RP15": {
+    "lat": 10.9120998383,
+    "long": 124.43699646,
+    "name": "Pasar "
+  },
+  "RP16": {
+    "lat": 6.6541700363,
+    "long": 121.9800033569,
+    "name": "Seahawk Lz "
+  },
+  "RP17": {
+    "lat": 6.4022798538,
+    "long": 125.6190032959,
+    "name": "Malita "
+  },
+  "RPLA": {
+    "lat": 12.9857997894,
+    "long": 121.4260025024,
+    "name": "Pinamalayan "
+  },
+  "RPLB": {
+    "lat": 14.7944002151,
+    "long": 120.2710037231,
+    "name": "Subic Bay International "
+  },
+  "RPLC": {
+    "lat": 15.1859998703,
+    "long": 120.559997559,
+    "name": "Diosdado Macapagal International "
+  },
+  "RPLI": {
+    "lat": 18.1781005859,
+    "long": 120.5319976807,
+    "name": "Laoag International "
+  },
+  "RPLJ": {
+    "lat": 14.704000473,
+    "long": 122.3310012817,
+    "name": "Jomalig Island "
+  },
+  "RPLL": {
+    "lat": 14.508600235,
+    "long": 121.019996643,
+    "name": "Ninoy Aquino International "
+  },
+  "RPLN": {
+    "lat": 17.0656668941,
+    "long": 122.427670956,
+    "name": "Palanan Municipal "
+  },
+  "RPLO": {
+    "lat": 10.8580999374,
+    "long": 121.0690002441,
+    "name": "Cuyo "
+  },
+  "RPLP": {
+    "lat": 13.1575,
+    "long": 123.735,
+    "name": "Legazpi City International "
+  },
+  "RPLR": {
+    "lat": 15.8843421975,
+    "long": 120.601944923,
+    "name": "Carmen Rosales Airstrip"
+  },
+  "RPLS": {
+    "lat": 14.4954004288,
+    "long": 120.9039993286,
+    "name": "Sangley Point Air Base"
+  },
+  "RPLT": {
+    "lat": 20.716999054,
+    "long": 121.8170013428,
+    "name": "Itbayat "
+  },
+  "RPLU": {
+    "lat": 13.8554000854,
+    "long": 120.1050033569,
+    "name": "Lubang "
+  },
+  "RPLV": {
+    "lat": 15.4347000122,
+    "long": 121.091003418,
+    "name": "Fort Magsaysay "
+  },
+  "RPLX": {
+    "lat": 14.3913002014,
+    "long": 120.6070022583,
+    "name": "Corregidor "
+  },
+  "RPLY": {
+    "lat": 14.232000351,
+    "long": 121.9290008545,
+    "name": "Alabat Island "
+  },
+  "RPLZ": {
+    "lat": 12.998588562,
+    "long": 124.018081665,
+    "name": "Sorsogon"
+  },
+  "RPMA": {
+    "lat": 6.3668198586,
+    "long": 124.7509994507,
+    "name": "Allah Valley "
+  },
+  "RPMB": {
+    "lat": 6.1064400673,
+    "long": 125.2350006104,
+    "name": "General Santos International "
+  },
+  "RPMC": {
+    "lat": 7.1652398109,
+    "long": 124.2099990845,
+    "name": "Awang "
+  },
+  "RPMD": {
+    "lat": 7.1255202293,
+    "long": 125.6460037231,
+    "name": "Francisco Bangoy International "
+  },
+  "RPME": {
+    "lat": 8.9513196945,
+    "long": 125.4779968262,
+    "name": "Bancasi "
+  },
+  "RPMF": {
+    "lat": 8.1959495544,
+    "long": 126.3219985962,
+    "name": "Bislig "
+  },
+  "RPMG": {
+    "lat": 8.6019834988,
+    "long": 123.341875076,
+    "name": "Dipolog "
+  },
+  "RPMH": {
+    "lat": 9.2535200119,
+    "long": 124.7070007324,
+    "name": "Camiguin "
+  },
+  "RPMI": {
+    "lat": 8.130490303,
+    "long": 124.2149963379,
+    "name": "Iligan "
+  },
+  "RPMJ": {
+    "lat": 6.0536699295,
+    "long": 121.0110015869,
+    "name": "Jolo "
+  },
+  "RPML": {
+    "lat": 8.4156198502,
+    "long": 124.611000061,
+    "name": "Cagayan De Oro "
+  },
+  "RPMM": {
+    "lat": 7.6172199249,
+    "long": 124.0589981079,
+    "name": "Malabang "
+  },
+  "RPMN": {
+    "lat": 5.0469899178,
+    "long": 119.7429962158,
+    "name": "Sanga Sanga "
+  },
+  "RPMO": {
+    "lat": 8.1785097122,
+    "long": 123.8420028687,
+    "name": "Labo "
+  },
+  "RPMP": {
+    "lat": 7.8307314479,
+    "long": 123.461179733,
+    "name": "Pagadian "
+  },
+  "RPMQ": {
+    "lat": 6.9493699074,
+    "long": 126.2730026245,
+    "name": "Mati National "
+  },
+  "RPMR": {
+    "lat": 6.0580000877,
+    "long": 125.0960006714,
+    "name": "Tambler "
+  },
+  "RPMS": {
+    "lat": 9.7558383256,
+    "long": 125.480947495,
+    "name": "Surigao "
+  },
+  "RPMU": {
+    "lat": 7.013999939,
+    "long": 118.4960021973,
+    "name": "Cagayan de Sulu "
+  },
+  "RPMV": {
+    "lat": 7.7855601311,
+    "long": 122.6019973755,
+    "name": "Ipil "
+  },
+  "RPMW": {
+    "lat": 9.0721101761,
+    "long": 126.1709976196,
+    "name": "Tandag "
+  },
+  "RPMY": {
+    "lat": 8.1416597366,
+    "long": 125.1169967651,
+    "name": "Malaybalay "
+  },
+  "RPMZ": {
+    "lat": 6.9224200249,
+    "long": 122.0599975586,
+    "name": "Zamboanga International "
+  },
+  "RPNS": {
+    "lat": 9.8591003418,
+    "long": 126.013999939,
+    "name": "Siargao "
+  },
+  "RPSB": {
+    "lat": 11.1624,
+    "long": 123.7848,
+    "name": "Bantayan "
+  },
+  "RPSD": {
+    "lat": 10.81874,
+    "long": 119.507697,
+    "name": "Cesar Lim Rodriguez "
+  },
+  "RPSM": {
+    "lat": 10.1872997284,
+    "long": 124.7819976807,
+    "name": "Maasin "
+  },
+  "RPUB": {
+    "lat": 16.3750991821,
+    "long": 120.6200027466,
+    "name": "Loakan "
+  },
+  "RPUD": {
+    "lat": 14.1291999817,
+    "long": 122.9800033569,
+    "name": "Daet "
+  },
+  "RPUE": {
+    "lat": 13.9289999008,
+    "long": 121.6019973755,
+    "name": "Lucena "
+  },
+  "RPUF": {
+    "lat": 14.9864997864,
+    "long": 120.4929962158,
+    "name": "Basa Air Base"
+  },
+  "RPUG": {
+    "lat": 16.0347995758,
+    "long": 120.2409973145,
+    "name": "Lingayen "
+  },
+  "RPUH": {
+    "lat": 12.3614997864,
+    "long": 121.04699707,
+    "name": "San Jose "
+  },
+  "RPUI": {
+    "lat": 15.3247556686,
+    "long": 119.969497681,
+    "name": "Iba "
+  },
+  "RPUJ": {
+    "lat": 14.9670000076,
+    "long": 120.1500015259,
+    "name": "Castillejos "
+  },
+  "RPUK": {
+    "lat": 13.4169998169,
+    "long": 121.1999969482,
+    "name": "Calapan "
+  },
+  "RPUL": {
+    "lat": 13.9549999237,
+    "long": 121.125,
+    "name": "Fernando Air Base"
+  },
+  "RPUM": {
+    "lat": 13.2081003189,
+    "long": 120.6050033569,
+    "name": "Mamburao "
+  },
+  "RPUN": {
+    "lat": 13.5848999023,
+    "long": 123.2699966431,
+    "name": "Naga "
+  },
+  "RPUO": {
+    "lat": 20.4512996674,
+    "long": 121.980003357,
+    "name": "Basco "
+  },
+  "RPUQ": {
+    "lat": 17.5552997589,
+    "long": 120.3560028076,
+    "name": "Vigan "
+  },
+  "RPUR": {
+    "lat": 15.7298002243,
+    "long": 121.5,
+    "name": "Dr.Juan C. Angara "
+  },
+  "RPUS": {
+    "lat": 16.5956001282,
+    "long": 120.3030014038,
+    "name": "San Fernando "
+  },
+  "RPUT": {
+    "lat": 17.6433676823,
+    "long": 121.733150482,
+    "name": "Tuguegarao "
+  },
+  "RPUU": {
+    "lat": 12.6842002869,
+    "long": 123.8779983521,
+    "name": "Bulan "
+  },
+  "RPUV": {
+    "lat": 13.5763998032,
+    "long": 124.2060012817,
+    "name": "Virac "
+  },
+  "RPUW": {
+    "lat": 13.361000061,
+    "long": 121.8259963989,
+    "name": "Marinduque "
+  },
+  "RPUX": {
+    "lat": 14.8930997849,
+    "long": 120.8519973755,
+    "name": "Plaridel "
+  },
+  "RPUY": {
+    "lat": 16.9298992157,
+    "long": 121.752998352,
+    "name": "Cauayan "
+  },
+  "RPUZ": {
+    "lat": 16.6191997528,
+    "long": 121.2519989014,
+    "name": "Bagabag "
+  },
+  "RPVA": {
+    "lat": 11.2276000977,
+    "long": 125.027999878,
+    "name": "Daniel Z. Romualdez "
+  },
+  "RPVB": {
+    "lat": 10.7763996124,
+    "long": 123.0149993896,
+    "name": "Bacolod-Silay City International "
+  },
+  "RPVC": {
+    "lat": 12.0726995468,
+    "long": 124.5449981689,
+    "name": "Calbayog "
+  },
+  "RPVD": {
+    "lat": 9.3337097168,
+    "long": 123.300003052,
+    "name": "Sibulan "
+  },
+  "RPVE": {
+    "lat": 11.9245004654,
+    "long": 121.95400238,
+    "name": "Godofredo P. Ramos "
+  },
+  "RPVF": {
+    "lat": 12.5024003983,
+    "long": 124.6360015869,
+    "name": "Catarman National "
+  },
+  "RPVG": {
+    "lat": 11.0354995728,
+    "long": 125.741996765,
+    "name": "Guiuan "
+  },
+  "RPVH": {
+    "lat": 10.3800001144,
+    "long": 124.7429962158,
+    "name": "Hilongos "
+  },
+  "RPVI": {
+    "lat": 10.833017,
+    "long": 122.493358,
+    "name": "Iloilo International "
+  },
+  "RPVJ": {
+    "lat": 12.3694000244,
+    "long": 123.628997803,
+    "name": "Moises R. Espinosa "
+  },
+  "RPVK": {
+    "lat": 11.679400444,
+    "long": 122.375999451,
+    "name": "Kalibo International "
+  },
+  "RPVL": {
+    "lat": 12.5361003876,
+    "long": 121.4810028076,
+    "name": "Wasig "
+  },
+  "RPVM": {
+    "lat": 10.3074998856,
+    "long": 123.9789962769,
+    "name": "Mactan Cebu International "
+  },
+  "RPVO": {
+    "lat": 11.0579996109,
+    "long": 124.5650024414,
+    "name": "Ormoc "
+  },
+  "RPVP": {
+    "lat": 9.7421197891,
+    "long": 118.7590026855,
+    "name": "Puerto Princesa "
+  },
+  "RPVR": {
+    "lat": 11.597700119,
+    "long": 122.7519989014,
+    "name": "Roxas "
+  },
+  "RPVS": {
+    "lat": 10.765999794,
+    "long": 121.932998657,
+    "name": "Evelio Javier "
+  },
+  "RPVT": {
+    "lat": 9.6640796661,
+    "long": 123.8529968262,
+    "name": "Tagbilaran "
+  },
+  "RPVU": {
+    "lat": 12.3109998703,
+    "long": 122.084999084,
+    "name": "Romblon "
+  },
+  "RPVV": {
+    "lat": 12.1215000153,
+    "long": 120.099998474,
+    "name": "Francisco B. Reyes "
+  },
+  "RPVW": {
+    "lat": 11.6743001938,
+    "long": 125.478996277,
+    "name": "Borongan "
+  },
+  "RPVY": {
+    "lat": 11.81,
+    "long": 124.83,
+    "name": "Catbalogan "
+  },
+  "RPXX": {
+    "lat": 11.2025,
+    "long": 119.416,
+    "name": "El Nido "
+  }
+}

@@ -1,0 +1,140 @@
+{
+    "01NM": {
+        "lat": 33.008611,
+        "long": -104.540278,
+        "name": "Champion Ranch ",
+        "state": "New Mexico"
+    },
+    "0NM0": {
+        "lat": 31.8236999512,
+        "long": -107.6269989014,
+        "name": "Columbus Municipal ",
+        "state": "New Mexico"
+    },
+    "0NM7": {
+        "lat": 33.5209007263,
+        "long": -108.5429992676,
+        "name": "Negrito Airstrip",
+        "state": "New Mexico"
+    },
+    "12NM": {
+        "lat": 31.7917995453,
+        "long": -107.6380004883,
+        "name": "Columbus Stockyards ",
+        "state": "New Mexico"
+    },
+    "13NM": {
+        "lat": 33.4194984436,
+        "long": -108.138999939,
+        "name": "Beaverhead Airstrip",
+        "state": "New Mexico"
+    },
+    "1NM0": {
+        "lat": 33.2120018005,
+        "long": -108.0260009766,
+        "name": "Me-Own ",
+        "state": "New Mexico"
+    },
+    "25NM": {
+        "lat": 34.476944,
+        "long": -108.031111,
+        "name": "Dream Catcher Ranch ",
+        "state": "New Mexico"
+    },
+    "4AZ2": {
+        "lat": 33.7019996643,
+        "long": -105.3840026855,
+        "name": "Block Ranch ",
+        "state": "New Mexico"
+    },
+    "50NM": {
+        "lat": 36.3027992249,
+        "long": -106.4879989624,
+        "name": "Ghost Ranch Strip",
+        "state": "New Mexico"
+    },
+    "52NM": {
+        "lat": 32.6338996887,
+        "long": -105.6859970093,
+        "name": "Timberon ",
+        "state": "New Mexico"
+    },
+    "55NM": {
+        "lat": 34.4833984375,
+        "long": -106.6129989624,
+        "name": "Burris Ranch Nr 1 ",
+        "state": "New Mexico"
+    },
+    "57NM": {
+        "lat": 34.0886993408,
+        "long": -106.1190032959,
+        "name": "Monte Prieto Ranch ",
+        "state": "New Mexico"
+    },
+    "59NM": {
+        "lat": 34.5472984314,
+        "long": -103.4639968872,
+        "name": "Lockmiller & Sons ",
+        "state": "New Mexico"
+    },
+    "62NM": {
+        "lat": 32.5987014771,
+        "long": -104.4260025024,
+        "name": "Seven Rivers ",
+        "state": "New Mexico"
+    },
+    "65NM": {
+        "lat": 34.7266998291,
+        "long": -103.6100006104,
+        "name": "Curtis and Curtis ",
+        "state": "New Mexico"
+    },
+    "68NM": {
+        "lat": 33.0287017822,
+        "long": -105.1269989014,
+        "name": "Flying H Ranch ",
+        "state": "New Mexico"
+    },
+    "72NM": {
+        "lat": 32.9584007263,
+        "long": -105.9629974365,
+        "name": "Otero Mill ",
+        "state": "New Mexico"
+    },
+    "7NM1": {
+        "lat": 32.935278,
+        "long": -106.045278,
+        "name": "Mesa Verde Ranch Strip ",
+        "state": "New Mexico"
+    },
+    "81NM": {
+        "lat": 33.3451004028,
+        "long": -105.1800003052,
+        "name": "Diamond A Ranch ",
+        "state": "New Mexico"
+    },
+    "82NM": {
+        "lat": 33.1701011658,
+        "long": -105.1340026855,
+        "name": "Skeen Ranch ",
+        "state": "New Mexico"
+    },
+    "83NM": {
+        "lat": 34.6481018066,
+        "long": -108.0059967041,
+        "name": "King Ranch ",
+        "state": "New Mexico"
+    },
+    "84NM": {
+        "lat": 34.3534011841,
+        "long": -108.1620025635,
+        "name": "Nalda Ranch ",
+        "state": "New Mexico"
+    },
+    "98NM": {
+        "lat": 36.0766983032,
+        "long": -104.7180023193,
+        "name": "S & S Ranch ",
+        "state": "New Mexico"
+    }
+}

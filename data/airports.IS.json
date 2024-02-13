@@ -1,0 +1,412 @@
+{
+  "BIAE": {
+    "lat": 65.9047012329,
+    "long": -22.3633003235,
+    "name": "Arngerdareyri "
+  },
+  "BIAL": {
+    "lat": 63.5400009155,
+    "long": -18.4493999481,
+    "name": "Alftaver "
+  },
+  "BIAR": {
+    "lat": 65.6600036621,
+    "long": -18.0727005005,
+    "name": "Akureyri "
+  },
+  "BIBA": {
+    "lat": 63.556098938,
+    "long": -20.1375007629,
+    "name": "Bakki "
+  },
+  "BIBD": {
+    "lat": 65.6412963867,
+    "long": -23.5461997986,
+    "name": "Bildudalur "
+  },
+  "BIBF": {
+    "lat": 65.5164031982,
+    "long": -13.8050003052,
+    "name": "Borgarfjordur eystri "
+  },
+  "BIBI": {
+    "lat": 66.0999984741,
+    "long": -22.5669994354,
+    "name": "Baeir "
+  },
+  "BIBK": {
+    "lat": 66.0218963623,
+    "long": -14.8243999481,
+    "name": "Bakkafjordur "
+  },
+  "BIBL": {
+    "lat": 65.6449966431,
+    "long": -20.2875003815,
+    "name": "Hjaltabakki "
+  },
+  "BIBR": {
+    "lat": 65.075302124,
+    "long": -21.8003005981,
+    "name": "Budardalur "
+  },
+  "BIBV": {
+    "lat": 64.7900009155,
+    "long": -14.0228004456,
+    "name": "Breiddalsvik "
+  },
+  "BIDA": {
+    "lat": 64.7450027466,
+    "long": -23.7271995544,
+    "name": "Dagverdara "
+  },
+  "BIDV": {
+    "lat": 64.644203186,
+    "long": -14.2827997208,
+    "name": "Djupivogur "
+  },
+  "BIEG": {
+    "lat": 65.2833023071,
+    "long": -14.4013996124,
+    "name": "Egilsstadir "
+  },
+  "BIEH": {
+    "lat": 64.25,
+    "long": -20.2999992371,
+    "name": "Einholtsmelar "
+  },
+  "BIFF": {
+    "lat": 64.9317016602,
+    "long": -14.0606002808,
+    "name": "Faskrudsfjordur "
+  },
+  "BIFL": {
+    "lat": 64.1427993774,
+    "long": -20.3260993958,
+    "name": "Fludir "
+  },
+  "BIFM": {
+    "lat": 63.8746986389,
+    "long": -16.6410999298,
+    "name": "Fagurholsmyri "
+  },
+  "BIFZ": {
+    "lat": 63.8499984741,
+    "long": -20.716999054,
+    "name": "Forsaeti "
+  },
+  "BIGE": {
+    "lat": 64.310798645,
+    "long": -20.2705993652,
+    "name": "Geysir "
+  },
+  "BIGF": {
+    "lat": 64.9914016724,
+    "long": -23.2247009277,
+    "name": "Grundarfjordur "
+  },
+  "BIGH": {
+    "lat": 63.8532981873,
+    "long": -20.2628002167,
+    "name": "Gunnarsholt "
+  },
+  "BIGJ": {
+    "lat": 65.995300293,
+    "long": -21.3269004822,
+    "name": "Gjogur "
+  },
+  "BIGR": {
+    "lat": 66.5458,
+    "long": -18.0173,
+    "name": "Grimsey "
+  },
+  "BIGS": {
+    "lat": 65.6324996948,
+    "long": -16.1483001709,
+    "name": "Grimsstadir "
+  },
+  "BIHE": {
+    "lat": 65.1885986328,
+    "long": -16.1947002411,
+    "name": "Herdubreidarlindir "
+  },
+  "BIHI": {
+    "lat": 64.886100769,
+    "long": -19.4925003052,
+    "name": "Hveravellir "
+  },
+  "BIHK": {
+    "lat": 65.7046966553,
+    "long": -21.6963996887,
+    "name": "Holmavik "
+  },
+  "BIHL": {
+    "lat": 63.8358001709,
+    "long": -20.3775005341,
+    "name": "Hella "
+  },
+  "BIHN": {
+    "lat": 64.2956008911,
+    "long": -15.2271995544,
+    "name": "Hornafjordur "
+  },
+  "BIHR": {
+    "lat": 63.7538986206,
+    "long": -20.2441997528,
+    "name": "Hvolsvollur "
+  },
+  "BIHS": {
+    "lat": 65.75,
+    "long": -23.466999054,
+    "name": "Hrafnseyri "
+  },
+  "BIHT": {
+    "lat": 66.0141804294,
+    "long": -23.4416913986,
+    "name": "Holt "
+  },
+  "BIHU": {
+    "lat": 65.9523010254,
+    "long": -17.4260005951,
+    "name": "Husavik "
+  },
+  "BIHV": {
+    "lat": 65.2664031982,
+    "long": -20.8469009399,
+    "name": "Krokstadarmelar "
+  },
+  "BIHX": {
+    "lat": 64.1999969482,
+    "long": -19.2833003998,
+    "name": "Hrauneyjarfoss "
+  },
+  "BIHY": {
+    "lat": 66,
+    "long": -18.3999996185,
+    "name": "Hrisey "
+  },
+  "BIHZ": {
+    "lat": 64.6996994019,
+    "long": -20.883600235,
+    "name": "Husafell "
+  },
+  "BIID": {
+    "lat": 66.0500030518,
+    "long": -23.696100235,
+    "name": "Ingjaldssandur "
+  },
+  "BIIS": {
+    "lat": 66.0580978394,
+    "long": -23.1352996826,
+    "name": "Isafjordur "
+  },
+  "BIKA": {
+    "lat": 64.7789001465,
+    "long": -22.2569007874,
+    "name": "Kaldarmelar "
+  },
+  "BIKE": {
+    "lat": 64.7050018311,
+    "long": -19.4106006622,
+    "name": "Kerlingafjoll "
+  },
+  "BIKF": {
+    "lat": 63.9850006104,
+    "long": -22.6056003571,
+    "name": "Keflavik International "
+  },
+  "BIKJ": {
+    "lat": 65.4670028687,
+    "long": -21.9500007629,
+    "name": "Kroksfjard-Arnes "
+  },
+  "BIKL": {
+    "lat": 63.7907981873,
+    "long": -18.0013999939,
+    "name": "Kirkjubaejarklaustur "
+  },
+  "BIKP": {
+    "lat": 66.310798645,
+    "long": -16.4666996002,
+    "name": "Kopasker "
+  },
+  "BIKR": {
+    "lat": 65.7316970825,
+    "long": -19.5727996826,
+    "name": "Saudarkrokur "
+  },
+  "BIMK": {
+    "lat": 63.7141990662,
+    "long": -19.8791999817,
+    "name": "Mulakot "
+  },
+  "BIMM": {
+    "lat": 65.4832992554,
+    "long": -18.1667003632,
+    "name": "Melgerdismelar "
+  },
+  "BIMN": {
+    "lat": 65.516998291,
+    "long": -22.3999996185,
+    "name": "Melanes "
+  },
+  "BIMS": {
+    "lat": 64.181098938,
+    "long": -21.7077999115,
+    "name": "Tungubakkar "
+  },
+  "BIND": {
+    "lat": 64.7205963135,
+    "long": -18.0666999817,
+    "name": "Nyjidalur "
+  },
+  "BINF": {
+    "lat": 65.1318969727,
+    "long": -13.7463998795,
+    "name": "Nordfjordur "
+  },
+  "BIOF": {
+    "lat": 66.0832977295,
+    "long": -18.6667003632,
+    "name": "Olafsfjordur "
+  },
+  "BIPA": {
+    "lat": 65.5558013916,
+    "long": -23.9650001526,
+    "name": "Patreksfjordur "
+  },
+  "BIRE": {
+    "lat": 65.4526290894,
+    "long": -22.2061157227,
+    "name": "Reykholar "
+  },
+  "BIRF": {
+    "lat": 64.9113998413,
+    "long": -23.8230991364,
+    "name": "Rif "
+  },
+  "BIRG": {
+    "lat": 66.4064025879,
+    "long": -15.918299675,
+    "name": "Raufarhofn "
+  },
+  "BIRK": {
+    "lat": 64.1299972534,
+    "long": -21.9405994415,
+    "name": "Reykjavik "
+  },
+  "BIRL": {
+    "lat": 65.6557998657,
+    "long": -16.9181003571,
+    "name": "Reykjahlid "
+  },
+  "BIRS": {
+    "lat": 65.9141998291,
+    "long": -22.4214000702,
+    "name": "Reykjanes "
+  },
+  "BISA": {
+    "lat": 65.1343994141,
+    "long": -19.6630992889,
+    "name": "Sanda "
+  },
+  "BISF": {
+    "lat": 63.9291992188,
+    "long": -21.0377998352,
+    "name": "Selfoss "
+  },
+  "BISG": {
+    "lat": 64.1669998169,
+    "long": -15.8999996185,
+    "name": "Steinasandur "
+  },
+  "BISH": {
+    "lat": 65.4000015259,
+    "long": -21.9330005646,
+    "name": "Stora-Holt "
+  },
+  "BISI": {
+    "lat": 66.1333007813,
+    "long": -18.9167003632,
+    "name": "Siglufjordur "
+  },
+  "BISK": {
+    "lat": 63.51720047,
+    "long": -19.489200592,
+    "name": "Skogasandur "
+  },
+  "BISN": {
+    "lat": 64.3833007813,
+    "long": -15.3832998276,
+    "name": "Svinafell "
+  },
+  "BISP": {
+    "lat": 64.6541976929,
+    "long": -18.4969005585,
+    "name": "Sprengisandur "
+  },
+  "BISR": {
+    "lat": 64.6343994141,
+    "long": -21.4874992371,
+    "name": "Storikroppur "
+  },
+  "BISS": {
+    "lat": 64.060798645,
+    "long": -21.5746994019,
+    "name": "Sandskeid "
+  },
+  "BIST": {
+    "lat": 65.0580978394,
+    "long": -22.7942008972,
+    "name": "Stykkisholmur "
+  },
+  "BISV": {
+    "lat": 64.1157989502,
+    "long": -18.7833003998,
+    "name": "Skalavatn "
+  },
+  "BITE": {
+    "lat": 65.870300293,
+    "long": -23.5599994659,
+    "name": "Tingeyri "
+  },
+  "BITM": {
+    "lat": 63.6899986267,
+    "long": -19.5631008148,
+    "name": "Torsmork "
+  },
+  "BITN": {
+    "lat": 66.21849823,
+    "long": -15.3355998993,
+    "name": "Thorshofn "
+  },
+  "BITO": {
+    "lat": 64.3499984741,
+    "long": -18.8500003815,
+    "name": "Thorisos "
+  },
+  "BIVA": {
+    "lat": 64.0330963135,
+    "long": -20.6511001587,
+    "name": "Vatnsnes "
+  },
+  "BIVH": {
+    "lat": 65.5569458008,
+    "long": -19.4280567169,
+    "name": "Varmahlid "
+  },
+  "BIVI": {
+    "lat": 63.4216995239,
+    "long": -18.888299942,
+    "name": "Vik "
+  },
+  "BIVM": {
+    "lat": 63.4243011475,
+    "long": -20.2789001465,
+    "name": "Vestmannaeyjar "
+  },
+  "BIVO": {
+    "lat": 65.7205963135,
+    "long": -14.8506002426,
+    "name": "Vopnafjordur "
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "LJAJ": {
+    "lat": 45.8891983032,
+    "long": 13.8868999481,
+    "name": "Ajdovscina "
+  },
+  "LJBL": {
+    "lat": 46.3572006226,
+    "long": 14.1738996506,
+    "name": "Lesce Bled Glider "
+  },
+  "LJBO": {
+    "lat": 46.3286018372,
+    "long": 13.5486001968,
+    "name": "Bovec Letalisce "
+  },
+  "LJCE": {
+    "lat": 45.9000015259,
+    "long": 15.5302000046,
+    "name": "Cerklje "
+  },
+  "LJCL": {
+    "lat": 46.2456016541,
+    "long": 15.2230997086,
+    "name": "Celje Glider "
+  },
+  "LJDI": {
+    "lat": 45.6819000244,
+    "long": 14.0027999878,
+    "name": "Divaca "
+  },
+  "LJLJ": {
+    "lat": 46.2237014771,
+    "long": 14.4575996399,
+    "name": "Ljubljana Joze Pucnik "
+  },
+  "LJMB": {
+    "lat": 46.4799003601,
+    "long": 15.6861000061,
+    "name": "Maribor "
+  },
+  "LJMS": {
+    "lat": 46.6293983459,
+    "long": 16.1749992371,
+    "name": "Murska Sobota "
+  },
+  "LJNM": {
+    "lat": 45.8102989197,
+    "long": 15.1127004623,
+    "name": "Novo Mesto "
+  },
+  "LJPO": {
+    "lat": 45.7522010803,
+    "long": 14.1947002411,
+    "name": "Postojna Airfield"
+  },
+  "LJPT": {
+    "lat": 46.4253005981,
+    "long": 15.9885997772,
+    "name": "Ptuj "
+  },
+  "LJPZ": {
+    "lat": 45.473400116,
+    "long": 13.6149997711,
+    "name": "Portoroz "
+  },
+  "LJSG": {
+    "lat": 46.4720001221,
+    "long": 15.1169996262,
+    "name": "Slovenj Gradec "
+  },
+  "LJVE": {
+    "lat": 46.3974990845,
+    "long": 15.04529953,
+    "name": "Velenje "
+  }
+}

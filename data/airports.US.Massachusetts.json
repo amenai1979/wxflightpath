@@ -1,0 +1,416 @@
+{
+    "03MA": {
+        "lat": 42.3931007385,
+        "long": -72.5520019531,
+        "name": "Hadley ",
+        "state": "Massachusetts"
+    },
+    "08MA": {
+        "lat": 42.2939987183,
+        "long": -71.4962005615,
+        "name": "Wormid ",
+        "state": "Massachusetts"
+    },
+    "09MA": {
+        "lat": 42.3042984009,
+        "long": -71.505897522,
+        "name": "Kallander Field",
+        "state": "Massachusetts"
+    },
+    "11MA": {
+        "lat": 41.8073005676,
+        "long": -70.7583999634,
+        "name": "Bulljump ",
+        "state": "Massachusetts"
+    },
+    "13MA": {
+        "lat": 42.2233009338,
+        "long": -72.3114013672,
+        "name": "Metropolitan ",
+        "state": "Massachusetts"
+    },
+    "15MA": {
+        "lat": 41.4222984314,
+        "long": -70.9095001221,
+        "name": "Canapitsit ",
+        "state": "Massachusetts"
+    },
+    "1MA5": {
+        "lat": 42.2789993286,
+        "long": -71.5477981567,
+        "name": "Unknown Field",
+        "state": "Massachusetts"
+    },
+    "26MA": {
+        "lat": 42.6962013245,
+        "long": -71.5501022339,
+        "name": "Pepperell ",
+        "state": "Massachusetts"
+    },
+    "28MA": {
+        "lat": 42.0797996521,
+        "long": -72.8180999756,
+        "name": "Cannizzaro Field",
+        "state": "Massachusetts"
+    },
+    "31MA": {
+        "lat": 42.2620010376,
+        "long": -72.4080963135,
+        "name": "Norm's Field",
+        "state": "Massachusetts"
+    },
+    "3MA2": {
+        "lat": 42.3162002563,
+        "long": -73.0319976807,
+        "name": "Baines ",
+        "state": "Massachusetts"
+    },
+    "3MA5": {
+        "lat": 41.5432014465,
+        "long": -71.0353012085,
+        "name": "Westport ",
+        "state": "Massachusetts"
+    },
+    "5MA3": {
+        "lat": 42.1875991821,
+        "long": -72.1430969238,
+        "name": "Pasport ",
+        "state": "Massachusetts"
+    },
+    "5MA9": {
+        "lat": 41.5111999512,
+        "long": -71.0280990601,
+        "name": "Allen's Pond ",
+        "state": "Massachusetts"
+    },
+    "61MA": {
+        "lat": 42.5270004272,
+        "long": -71.6644973755,
+        "name": "Shirley ",
+        "state": "Massachusetts"
+    },
+    "6MA2": {
+        "lat": 42.8600997925,
+        "long": -70.99659729,
+        "name": "Meadowbrook ",
+        "state": "Massachusetts"
+    },
+    "CT04": {
+        "lat": 42.0390014648,
+        "long": -73.2871017456,
+        "name": "Grass Land Air Field",
+        "state": "Massachusetts"
+    },
+    "K0B5": {
+        "lat": 42.5914001465,
+        "long": -72.5227966309,
+        "name": "Turners Falls ",
+        "state": "Massachusetts"
+    },
+    "K1B6": {
+        "lat": 42.1064987183,
+        "long": -71.5101013184,
+        "name": "Hopedale Industrial Park ",
+        "state": "Massachusetts"
+    },
+    "K1B9": {
+        "lat": 42.0000991821,
+        "long": -71.1968002319,
+        "name": "Mansfield Municipal ",
+        "state": "Massachusetts"
+    },
+    "K3B0": {
+        "lat": 42.1008987427,
+        "long": -72.0383987427,
+        "name": "Southbridge Municipal ",
+        "state": "Massachusetts"
+    },
+    "K7B2": {
+        "lat": 42.3280983,
+        "long": -72.61139679,
+        "name": "Northampton ",
+        "state": "Massachusetts"
+    },
+    "K8B5": {
+        "lat": 42.3563995361,
+        "long": -72.1300964355,
+        "name": "Tanner Hiller ",
+        "state": "Massachusetts"
+    },
+    "KACK": {
+        "lat": 41.25310135,
+        "long": -70.06020355,
+        "name": "Nantucket Memorial ",
+        "state": "Massachusetts"
+    },
+    "KAQW": {
+        "lat": 42.6958999634,
+        "long": -73.1704025269,
+        "name": "Harriman and West ",
+        "state": "Massachusetts"
+    },
+    "KBAF": {
+        "lat": 42.1577987671,
+        "long": -72.7155990601,
+        "name": "Barnes Municipal ",
+        "state": "Massachusetts"
+    },
+    "KBED": {
+        "lat": 42.47000122,
+        "long": -71.28900146,
+        "name": "Laurence G Hanscom Field",
+        "state": "Massachusetts"
+    },
+    "KBOS": {
+        "lat": 42.36429977,
+        "long": -71.00520325,
+        "name": "General Edward Lawrence Logan International ",
+        "state": "Massachusetts"
+    },
+    "KBVY": {
+        "lat": 42.5842018127,
+        "long": -70.9164962769,
+        "name": "Beverly Municipal ",
+        "state": "Massachusetts"
+    },
+    "KCEF": {
+        "lat": 42.19400024,
+        "long": -72.53479767,
+        "name": "Westover ARB/Metropolitan ",
+        "state": "Massachusetts"
+    },
+    "KCQX": {
+        "lat": 41.6884002686,
+        "long": -69.9895019531,
+        "name": "Chatham Municipal ",
+        "state": "Massachusetts"
+    },
+    "KEWB": {
+        "lat": 41.6761016846,
+        "long": -70.9569015503,
+        "name": "New Bedford Regional ",
+        "state": "Massachusetts"
+    },
+    "KFIT": {
+        "lat": 42.5541000366,
+        "long": -71.7590026855,
+        "name": "Fitchburg Municipal ",
+        "state": "Massachusetts"
+    },
+    "KFMH": {
+        "lat": 41.6584014893,
+        "long": -70.5214004517,
+        "name": "Cape Cod Coast Guard Air Station",
+        "state": "Massachusetts"
+    },
+    "KGBR": {
+        "lat": 42.18420029,
+        "long": -73.40319824,
+        "name": "Walter J. Koladza ",
+        "state": "Massachusetts"
+    },
+    "KGDM": {
+        "lat": 42.5499992371,
+        "long": -72.0160980225,
+        "name": "Gardner Municipal ",
+        "state": "Massachusetts"
+    },
+    "KGHG": {
+        "lat": 42.0983009338,
+        "long": -70.672203064,
+        "name": "Marshfield Municipal George Harlow Field",
+        "state": "Massachusetts"
+    },
+    "KHYA": {
+        "lat": 41.66930008,
+        "long": -70.28040314,
+        "name": "Cape Cod Gateway ",
+        "state": "Massachusetts"
+    },
+    "KLWM": {
+        "lat": 42.7172012329,
+        "long": -71.1233978271,
+        "name": "Lawrence Municipal ",
+        "state": "Massachusetts"
+    },
+    "KMVY": {
+        "lat": 41.3931007385,
+        "long": -70.6143035889,
+        "name": "Martha's Vineyard ",
+        "state": "Massachusetts"
+    },
+    "KORE": {
+        "lat": 42.570098877,
+        "long": -72.2885971069,
+        "name": "Orange Municipal ",
+        "state": "Massachusetts"
+    },
+    "KORH": {
+        "lat": 42.2672996521,
+        "long": -71.8757019043,
+        "name": "Worcester Regional ",
+        "state": "Massachusetts"
+    },
+    "KOWD": {
+        "lat": 42.1904983521,
+        "long": -71.1728973389,
+        "name": "Norwood Memorial ",
+        "state": "Massachusetts"
+    },
+    "KPSF": {
+        "lat": 42.4267997742,
+        "long": -73.2929000854,
+        "name": "Pittsfield Municipal ",
+        "state": "Massachusetts"
+    },
+    "KPVC": {
+        "lat": 42.0718994141,
+        "long": -70.2213973999,
+        "name": "Provincetown Municipal ",
+        "state": "Massachusetts"
+    },
+    "KTAN": {
+        "lat": 41.8744010925,
+        "long": -71.0166015625,
+        "name": "Taunton Municipal King Field",
+        "state": "Massachusetts"
+    },
+    "MA07": {
+        "lat": 41.5676002502,
+        "long": -71.1192016602,
+        "name": "Friends Ultralightport",
+        "state": "Massachusetts"
+    },
+    "MA16": {
+        "lat": 42.3633995056,
+        "long": -71.8217010498,
+        "name": "Marshall's ",
+        "state": "Massachusetts"
+    },
+    "MA18": {
+        "lat": 42.0791015625,
+        "long": -73.3071975708,
+        "name": "Cmelak Field",
+        "state": "Massachusetts"
+    },
+    "MA19": {
+        "lat": 42.3675994873,
+        "long": -71.6417007446,
+        "name": "Berlin Lndg Area",
+        "state": "Massachusetts"
+    },
+    "MA30": {
+        "lat": 42.1001014709,
+        "long": -71.9662017822,
+        "name": "Dresser Hill ",
+        "state": "Massachusetts"
+    },
+    "MA36": {
+        "lat": 42.6665000916,
+        "long": -70.8529968262,
+        "name": "Snow ",
+        "state": "Massachusetts"
+    },
+    "MA43": {
+        "lat": 42.0722999573,
+        "long": -72.900100708,
+        "name": "Morehaven ",
+        "state": "Massachusetts"
+    },
+    "MA44": {
+        "lat": 41.4417991638,
+        "long": -70.5702972412,
+        "name": "Trade Wind ",
+        "state": "Massachusetts"
+    },
+    "MA52": {
+        "lat": 42.4381713867,
+        "long": -71.4702453613,
+        "name": "Sids ",
+        "state": "Massachusetts"
+    },
+    "MA53": {
+        "lat": 42.2820014954,
+        "long": -72.2147979736,
+        "name": "Ware ",
+        "state": "Massachusetts"
+    },
+    "MA55": {
+        "lat": 41.3348007202,
+        "long": -70.2994995117,
+        "name": "Muskeget Island ",
+        "state": "Massachusetts"
+    },
+    "MA63": {
+        "lat": 42.0740013123,
+        "long": -70.7981033325,
+        "name": "Sherman-Private ",
+        "state": "Massachusetts"
+    },
+    "MA64": {
+        "lat": 42.0754013062,
+        "long": -70.8152999878,
+        "name": "Pheasant Field",
+        "state": "Massachusetts"
+    },
+    "MA66": {
+        "lat": 42.1007003784,
+        "long": -71.2078018188,
+        "name": "Wolomolopoag STOLport",
+        "state": "Massachusetts"
+    },
+    "MA70": {
+        "lat": 42.3508987427,
+        "long": -71.4298019409,
+        "name": "Sudbury ",
+        "state": "Massachusetts"
+    },
+    "MA72": {
+        "lat": 41.2975006104,
+        "long": -70.2603988647,
+        "name": "Tuckernuck ",
+        "state": "Massachusetts"
+    },
+    "MA75": {
+        "lat": 42.0409011841,
+        "long": -71.6162033081,
+        "name": "Sky Glen ",
+        "state": "Massachusetts"
+    },
+    "MA77": {
+        "lat": 42.3750991821,
+        "long": -73.1475982666,
+        "name": "Blueberry Hill ",
+        "state": "Massachusetts"
+    },
+    "MA80": {
+        "lat": 42.1198005676,
+        "long": -72.8143005371,
+        "name": "Mundale ",
+        "state": "Massachusetts"
+    },
+    "MA86": {
+        "lat": 42.5055999756,
+        "long": -73.0597991943,
+        "name": "Kendalls Lndg Area ",
+        "state": "Massachusetts"
+    },
+    "MA88": {
+        "lat": 42.3900985718,
+        "long": -72.9309005737,
+        "name": "Albert Farms ",
+        "state": "Massachusetts"
+    },
+    "MA89": {
+        "lat": 42.3460998535,
+        "long": -72.1038970947,
+        "name": "B&B Farm ",
+        "state": "Massachusetts"
+    },
+    "MA97": {
+        "lat": 42.1250991821,
+        "long": -71.7397994995,
+        "name": "Waters ",
+        "state": "Massachusetts"
+    }
+}

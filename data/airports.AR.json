@@ -1,0 +1,1047 @@
+{
+  "SA01": {
+    "lat": -25.1049995422,
+    "long": -66.1572036743,
+    "name": "Cachi "
+  },
+  "SA02": {
+    "lat": -26.0561008453,
+    "long": -65.9368972778,
+    "name": "Cafayate "
+  },
+  "SA03": {
+    "lat": -28.6201,
+    "long": -61.6038,
+    "name": "Villa Minetti "
+  },
+  "SA05": {
+    "lat": -32.6599,
+    "long": -62.702,
+    "name": "Bell Ville "
+  },
+  "SA06": {
+    "lat": -35.8283,
+    "long": -60.1467,
+    "name": "Santa Rita "
+  },
+  "SA07": {
+    "lat": -37.1949996948,
+    "long": -69.6094970703,
+    "name": "El Porton "
+  },
+  "SA10": {
+    "lat": -26.2959,
+    "long": -59.5353,
+    "name": "Estancia Don Panos "
+  },
+  "SA11": {
+    "lat": -27.0722999573,
+    "long": -66.5860977173,
+    "name": "Campo Arenal "
+  },
+  "SA12": {
+    "lat": -36.0587,
+    "long": -63.6313,
+    "name": "Quemu Quemu "
+  },
+  "SA13": {
+    "lat": -37.5593986511,
+    "long": -58.6660003662,
+    "name": "Estancia La Estrella "
+  },
+  "SA15": {
+    "lat": -54.4996986389,
+    "long": -67.1731033325,
+    "name": "Lago Fagnano North "
+  },
+  "SA16": {
+    "lat": -32.9627990723,
+    "long": -68.8737030029,
+    "name": "La Puntilla "
+  },
+  "SA17": {
+    "lat": -33.1605987549,
+    "long": -64.3382034302,
+    "name": "Rio Cuarto Aeroclub "
+  },
+  "SA19": {
+    "lat": -47.7201004028,
+    "long": -65.9324035645,
+    "name": "Puerto Deseado West "
+  },
+  "SA20": {
+    "lat": -38.4137992859,
+    "long": -68.7372970581,
+    "name": "Loma La Lata "
+  },
+  "SA21": {
+    "lat": -37.8097991943,
+    "long": -67.6593017578,
+    "name": "Veinticinco De Mayo "
+  },
+  "SA22": {
+    "lat": -22.2856998444,
+    "long": -62.7136993408,
+    "name": "Santa Victoria "
+  },
+  "SA23": {
+    "lat": -27.9032001495,
+    "long": -55.765499115,
+    "name": "Apostoles "
+  },
+  "SA24": {
+    "lat": -23.7819004059,
+    "long": -64.74949646,
+    "name": "Calilegua "
+  },
+  "SA25": {
+    "lat": -46.539,
+    "long": -67.5639,
+    "name": "Canadon Seco "
+  },
+  "SA26": {
+    "lat": -28.5262,
+    "long": -59.0385,
+    "name": "Bella Vista "
+  },
+  "SA27": {
+    "lat": -38.8970985413,
+    "long": -62.0102996826,
+    "name": "Puerto Rosales "
+  },
+  "SA28": {
+    "lat": -35.9715,
+    "long": -62.7724,
+    "name": "Nanco Lauquen "
+  },
+  "SA29": {
+    "lat": -39.2863998413,
+    "long": -65.6102981567,
+    "name": "Choele Choel "
+  },
+  "SA30": {
+    "lat": -37.9101982117,
+    "long": -67.8349990845,
+    "name": "Colonia Catriel "
+  },
+  "SA31": {
+    "lat": -33.3907,
+    "long": -60.1957,
+    "name": "San Nicolas De Los Arroyos "
+  },
+  "SA33": {
+    "lat": -49.9951,
+    "long": -68.9531,
+    "name": "Comandante Luis Piedrabuena "
+  },
+  "SA34": {
+    "lat": -43.2356,
+    "long": -65.3241,
+    "name": "Trelew Aeroclub "
+  },
+  "SA35": {
+    "lat": -27.6317005157,
+    "long": -66.3507995605,
+    "name": "Andalgala "
+  },
+  "SA36": {
+    "lat": -35.6081,
+    "long": -59.8164,
+    "name": "Saladillo "
+  },
+  "SA38": {
+    "lat": -38.538898468,
+    "long": -70.337097168,
+    "name": "Las Lajas "
+  },
+  "SA39": {
+    "lat": -24.2364997864,
+    "long": -65.2690963745,
+    "name": "Jujuy Aeroclub "
+  },
+  "SA40": {
+    "lat": -31.6028003693,
+    "long": -68.5473022461,
+    "name": "San Juan Aeroclub "
+  },
+  "SA41": {
+    "lat": -26.3166866302,
+    "long": -59.3397636414,
+    "name": "El Colorado "
+  },
+  "SA42": {
+    "lat": -26.6734008789,
+    "long": -66.0240020752,
+    "name": "Santa Maria "
+  },
+  "SA44": {
+    "lat": -27.7078990936,
+    "long": -67.0951004028,
+    "name": "Londres/Belen "
+  },
+  "SA45": {
+    "lat": -28.6343994141,
+    "long": -65.1091995239,
+    "name": "Frias "
+  },
+  "SA46": {
+    "lat": -27.64220047,
+    "long": -67.6247024536,
+    "name": "Fiambala "
+  },
+  "SAAA": {
+    "lat": -34.2214,
+    "long": -59.4422,
+    "name": "San Antonio De Areco "
+  },
+  "SAAC": {
+    "lat": -31.2969,
+    "long": -57.9966,
+    "name": "Comodoro Pierrestegui "
+  },
+  "SAAG": {
+    "lat": -33.0103,
+    "long": -58.6131,
+    "name": "Gualeguaychu "
+  },
+  "SAAI": {
+    "lat": -35.3532981873,
+    "long": -57.2900009155,
+    "name": "Punta Indio "
+  },
+  "SAAJ": {
+    "lat": -34.5459,
+    "long": -60.9306,
+    "name": "Junin "
+  },
+  "SAAK": {
+    "lat": -34.1821,
+    "long": -58.2469,
+    "name": "Isla Martin Garcia "
+  },
+  "SAAM": {
+    "lat": -33.5960006714,
+    "long": -59.266998291,
+    "name": "Mazaruca "
+  },
+  "SAAN": {
+    "lat": -33.919,
+    "long": -60.648,
+    "name": "Pergamino "
+  },
+  "SAAP": {
+    "lat": -31.7948,
+    "long": -60.4804,
+    "name": "General Urquiza "
+  },
+  "SAAR": {
+    "lat": -32.9036,
+    "long": -60.785,
+    "name": "Islas Malvinas "
+  },
+  "SAAU": {
+    "lat": -31.855,
+    "long": -59.0756,
+    "name": "Villaguay "
+  },
+  "SAAV": {
+    "lat": -31.7117,
+    "long": -60.8117,
+    "name": "Sauce Viejo "
+  },
+  "SABE": {
+    "lat": -34.5592,
+    "long": -58.4156,
+    "name": "Jorge Newbery Airpark"
+  },
+  "SABP": {
+    "lat": -38.0066680908,
+    "long": -61.331943512,
+    "name": "Coronel Pringles "
+  },
+  "SACA": {
+    "lat": -31.4419002533,
+    "long": -64.2582015991,
+    "name": "Cap D. Omar Dario Gelardi "
+  },
+  "SACC": {
+    "lat": -31.0058002472,
+    "long": -64.5318984985,
+    "name": "La Cumbre "
+  },
+  "SACD": {
+    "lat": -31.4874992371,
+    "long": -64.1414031982,
+    "name": "Coronel Olmedo "
+  },
+  "SACE": {
+    "lat": -31.4449996948,
+    "long": -64.2838973999,
+    "name": "Escuela De Aviacion Militar "
+  },
+  "SACI": {
+    "lat": -31.6819992065,
+    "long": -63.8638000488,
+    "name": "Pilar "
+  },
+  "SACL": {
+    "lat": -31,
+    "long": -63,
+    "name": "Laguna Larga "
+  },
+  "SACM": {
+    "lat": -30.7005996704,
+    "long": -64.0430984497,
+    "name": "Villa General Mitre "
+  },
+  "SACN": {
+    "lat": -30.9679203033,
+    "long": -64.2777404785,
+    "name": "Ascochinga "
+  },
+  "SACO": {
+    "lat": -31.323600769,
+    "long": -64.2080001831,
+    "name": "Ingeniero Ambrosio Taravella "
+  },
+  "SACP": {
+    "lat": -31.3561420441,
+    "long": -66.5918884277,
+    "name": "Chepes "
+  },
+  "SACQ": {
+    "lat": -26.1597995758,
+    "long": -64.4091033936,
+    "name": "Monte Quemado "
+  },
+  "SACS": {
+    "lat": -30.8652000427,
+    "long": -64.9789962769,
+    "name": "Villa De Soto "
+  },
+  "SACT": {
+    "lat": -30.3453006744,
+    "long": -66.2936019897,
+    "name": "Chamical "
+  },
+  "SACV": {
+    "lat": -29.9,
+    "long": -63.683,
+    "name": "Villa de Maria de Rio Seco "
+  },
+  "SADF": {
+    "lat": -34.4532,
+    "long": -58.5896,
+    "name": "San Fernando "
+  },
+  "SADG": {
+    "lat": -34.8055992126,
+    "long": -58.4920005798,
+    "name": "Monte Grande "
+  },
+  "SADJ": {
+    "lat": -34.5606,
+    "long": -58.7896,
+    "name": "Mariano Moreno "
+  },
+  "SADL": {
+    "lat": -34.9722,
+    "long": -57.8947,
+    "name": "La Plata "
+  },
+  "SADM": {
+    "lat": -34.6763,
+    "long": -58.6428,
+    "name": "Moron "
+  },
+  "SADO": {
+    "lat": -34.5344,
+    "long": -58.6717,
+    "name": "Campo De Mayo "
+  },
+  "SADP": {
+    "lat": -34.6099,
+    "long": -58.6126,
+    "name": "El Palomar "
+  },
+  "SADQ": {
+    "lat": -34.7064,
+    "long": -58.2444,
+    "name": "Quilmes "
+  },
+  "SADR": {
+    "lat": -34.6848,
+    "long": -58.6891,
+    "name": "Merlo "
+  },
+  "SADS": {
+    "lat": -34.7311,
+    "long": -58.5975,
+    "name": "Aeroclub Argentino "
+  },
+  "SADZ": {
+    "lat": -34.7261,
+    "long": -58.5011,
+    "name": "Matanza "
+  },
+  "SAEA": {
+    "lat": -37.4007987976,
+    "long": -64.6128005981,
+    "name": "General Acha "
+  },
+  "SAEK": {
+    "lat": -37.518901825,
+    "long": -60.7769012451,
+    "name": "Laprida "
+  },
+  "SAEL": {
+    "lat": -36.0672,
+    "long": -59.1042,
+    "name": "Las Flores "
+  },
+  "SAEM": {
+    "lat": -38.2271,
+    "long": -57.8697,
+    "name": "Miramar "
+  },
+  "SAET": {
+    "lat": -36.0158,
+    "long": -62.6939,
+    "name": "Trenque Lauquen "
+  },
+  "SAEZ": {
+    "lat": -34.8222,
+    "long": -58.5358,
+    "name": "Ministro Pistarini International "
+  },
+  "SAFR": {
+    "lat": -31.2825,
+    "long": -61.5017,
+    "name": "Rafaela "
+  },
+  "SAFS": {
+    "lat": -30.9575,
+    "long": -61.5283,
+    "name": "Sunchales Aeroclub "
+  },
+  "SAFT": {
+    "lat": -32.2153,
+    "long": -61.7161,
+    "name": "El Trebol "
+  },
+  "SAFV": {
+    "lat": -33.6818,
+    "long": -61.9564,
+    "name": "Venado Tuerto "
+  },
+  "SAHC": {
+    "lat": -37.4446983337,
+    "long": -70.2225036621,
+    "name": "Chos Malal "
+  },
+  "SAHE": {
+    "lat": -37.851398468,
+    "long": -71.0092010498,
+    "name": "Caviahue "
+  },
+  "SAHI": {
+    "lat": -38.8931007385,
+    "long": -67.9886016846,
+    "name": "Cipoletti Aeroclub "
+  },
+  "SAHR": {
+    "lat": -39.0007019043,
+    "long": -67.6204986572,
+    "name": "Dr. Arturo H. Illia "
+  },
+  "SAHS": {
+    "lat": -37.3905982971,
+    "long": -68.9041976929,
+    "name": "Rincon De Los Sauces "
+  },
+  "SAHV": {
+    "lat": -36.2374992371,
+    "long": -65.450553894,
+    "name": "Victorica "
+  },
+  "SAHZ": {
+    "lat": -38.9754981995,
+    "long": -70.1136016846,
+    "name": "Zapala "
+  },
+  "SAMA": {
+    "lat": -35.0588989258,
+    "long": -67.6928024292,
+    "name": "General Alvear "
+  },
+  "SAMC": {
+    "lat": -32.8073005676,
+    "long": -70.0681991577,
+    "name": "Cristo Redentor "
+  },
+  "SAME": {
+    "lat": -32.8316993713,
+    "long": -68.7929000854,
+    "name": "El Plumerillo "
+  },
+  "SAMH": {
+    "lat": -35.1461982727,
+    "long": -70.2053985596,
+    "name": "Valle Hermoso "
+  },
+  "SAMI": {
+    "lat": -33.0625,
+    "long": -68.5083007812,
+    "name": "San Martin "
+  },
+  "SAMJ": {
+    "lat": -30.2495002747,
+    "long": -68.740196228,
+    "name": "Jachal "
+  },
+  "SAML": {
+    "lat": -32.854598999,
+    "long": -69.7604980469,
+    "name": "Punta De Vacas "
+  },
+  "SAMM": {
+    "lat": -35.493598938,
+    "long": -69.5743026733,
+    "name": "Comodoro D.R. Salomon "
+  },
+  "SAMP": {
+    "lat": -33.467,
+    "long": -67.55,
+    "name": "La Paz "
+  },
+  "SAMQ": {
+    "lat": -32.8652992249,
+    "long": -68.8719024658,
+    "name": "Mendoza Airpark"
+  },
+  "SAMR": {
+    "lat": -34.5882987976,
+    "long": -68.4039001465,
+    "name": "Suboficial Ay Santiago Germano "
+  },
+  "SAMS": {
+    "lat": -33.7756996155,
+    "long": -69.0537033081,
+    "name": "San Carlos "
+  },
+  "SAMU": {
+    "lat": -32.538898468,
+    "long": -69.3458023071,
+    "name": "Uspallata "
+  },
+  "SANC": {
+    "lat": -28.5956001282,
+    "long": -65.751701355,
+    "name": "Catamarca "
+  },
+  "SANE": {
+    "lat": -27.7655563354,
+    "long": -64.3099975586,
+    "name": "Vicecomodoro Angel D. La Paz Aragones "
+  },
+  "SANH": {
+    "lat": -27.4736995697,
+    "long": -64.9055023193,
+    "name": "Las Termas "
+  },
+  "SANI": {
+    "lat": -28.0377998352,
+    "long": -67.5802993774,
+    "name": "Tinogasta "
+  },
+  "SANL": {
+    "lat": -29.3815994263,
+    "long": -66.7957992554,
+    "name": "Capitan V A Almonacid "
+  },
+  "SANO": {
+    "lat": -29.2238998413,
+    "long": -67.4389038086,
+    "name": "Chilecito "
+  },
+  "SANT": {
+    "lat": -26.8409004211,
+    "long": -65.1048965454,
+    "name": "Teniente Benjamin Matienzo "
+  },
+  "SANU": {
+    "lat": -31.5715007782,
+    "long": -68.4181976318,
+    "name": "Domingo Faustino Sarmiento "
+  },
+  "SANW": {
+    "lat": -29.8631,
+    "long": -61.8728,
+    "name": "Ceres "
+  },
+  "SAOC": {
+    "lat": -33.0850982666,
+    "long": -64.2612991333,
+    "name": "Area De Material "
+  },
+  "SAOD": {
+    "lat": -31.9451999664,
+    "long": -65.1463012695,
+    "name": "Villa Dolores "
+  },
+  "SAOE": {
+    "lat": -32.1733016968,
+    "long": -64.0883026123,
+    "name": "Rio Tercero "
+  },
+  "SAOI": {
+    "lat": -32.3894004822,
+    "long": -63.2585983276,
+    "name": "Villa Maria "
+  },
+  "SAOL": {
+    "lat": -34.1353988647,
+    "long": -63.3623008728,
+    "name": "Laboulaye "
+  },
+  "SAOM": {
+    "lat": -32.6836,
+    "long": -62.1578,
+    "name": "Marcos Juarez "
+  },
+  "SAOR": {
+    "lat": -33.7299003601,
+    "long": -65.3873977661,
+    "name": "Villa Reynolds "
+  },
+  "SAOS": {
+    "lat": -32.3847007751,
+    "long": -65.1865005493,
+    "name": "Valle Del Conlara International "
+  },
+  "SAOU": {
+    "lat": -33.2732009888,
+    "long": -66.3563995361,
+    "name": "Brigadier Mayor D Cesar Raul Ojeda "
+  },
+  "SARC": {
+    "lat": -27.4455,
+    "long": -58.7619,
+    "name": "Corrientes "
+  },
+  "SARD": {
+    "lat": -27.4657001495,
+    "long": -58.9790000916,
+    "name": "Resistencia (City) "
+  },
+  "SARE": {
+    "lat": -27.45,
+    "long": -59.0561,
+    "name": "Resistencia International "
+  },
+  "SARF": {
+    "lat": -26.2127,
+    "long": -58.2281,
+    "name": "Formosa "
+  },
+  "SARG": {
+    "lat": -27.7553005219,
+    "long": -57.6329994202,
+    "name": "Caa Cati "
+  },
+  "SARI": {
+    "lat": -25.7373008728,
+    "long": -54.473400116,
+    "name": "Cataratas Del Iguazu International "
+  },
+  "SARL": {
+    "lat": -29.6894,
+    "long": -57.1521,
+    "name": "Paso De Los Libres "
+  },
+  "SARM": {
+    "lat": -30.2719,
+    "long": -57.6402,
+    "name": "Monte Caseros "
+  },
+  "SARP": {
+    "lat": -27.3858,
+    "long": -55.9707,
+    "name": "Libertador Gral D Jose De San Martin "
+  },
+  "SARS": {
+    "lat": -26.753610611,
+    "long": -60.4922218323,
+    "name": "Termal "
+  },
+  "SARV": {
+    "lat": -27.5915,
+    "long": -60.6864,
+    "name": "Villa Angela "
+  },
+  "SASA": {
+    "lat": -24.8560009003,
+    "long": -65.4861984253,
+    "name": "Martin Miguel De Guemes International "
+  },
+  "SASJ": {
+    "lat": -24.3927993774,
+    "long": -65.0978012085,
+    "name": "Gobernador Horacio Guzman International "
+  },
+  "SASL": {
+    "lat": -24.0191993713,
+    "long": -66.797203064,
+    "name": "Salar De Cauchari "
+  },
+  "SASM": {
+    "lat": -25.5144004822,
+    "long": -64.9655990601,
+    "name": "Metan "
+  },
+  "SASO": {
+    "lat": -23.1527996063,
+    "long": -64.3292007446,
+    "name": "Oran "
+  },
+  "SASQ": {
+    "lat": -22.1506004333,
+    "long": -65.5774993896,
+    "name": "La Quiaca "
+  },
+  "SASR": {
+    "lat": -24.1886005402,
+    "long": -62.8833999634,
+    "name": "Rivadavia "
+  },
+  "SAST": {
+    "lat": -22.619600296,
+    "long": -63.7937011719,
+    "name": "General Enrique Mosconi "
+  },
+  "SATC": {
+    "lat": -25.3036,
+    "long": -57.7344,
+    "name": "Clorinda "
+  },
+  "SATD": {
+    "lat": -26.3974990845,
+    "long": -54.5746994019,
+    "name": "El Dorado "
+  },
+  "SATG": {
+    "lat": -29.1058,
+    "long": -59.2189,
+    "name": "Goya "
+  },
+  "SATI": {
+    "lat": -26.2813892365,
+    "long": -53.6733322144,
+    "name": "Bernardo De Irigoyen "
+  },
+  "SATK": {
+    "lat": -24.7213993073,
+    "long": -60.5488014221,
+    "name": "Alferez Armando Rodriguez "
+  },
+  "SATM": {
+    "lat": -29.2213993073,
+    "long": -58.0877990723,
+    "name": "Mercedes "
+  },
+  "SATO": {
+    "lat": -27.5181999207,
+    "long": -55.1241989136,
+    "name": "Obera "
+  },
+  "SATR": {
+    "lat": -29.2103,
+    "long": -59.68,
+    "name": "Reconquista "
+  },
+  "SATU": {
+    "lat": -29.7706,
+    "long": -57.9789,
+    "name": "Curuzu Cuatia "
+  },
+  "SAVA": {
+    "lat": -40.192199707,
+    "long": -70.0100021362,
+    "name": "Piedra Del Aguila "
+  },
+  "SAVB": {
+    "lat": -41.9431991577,
+    "long": -71.5323028564,
+    "name": "El Bolson "
+  },
+  "SAVC": {
+    "lat": -45.7853,
+    "long": -67.4655,
+    "name": "General E. Mosconi "
+  },
+  "SAVD": {
+    "lat": -42.0292015076,
+    "long": -71.1725006104,
+    "name": "El Maiten "
+  },
+  "SAVE": {
+    "lat": -42.908000946,
+    "long": -71.139503479,
+    "name": "Brigadier Antonio Parodi "
+  },
+  "SAVH": {
+    "lat": -46.5382995605,
+    "long": -68.9653015137,
+    "name": "Las Heras "
+  },
+  "SAVJ": {
+    "lat": -41.3208999634,
+    "long": -69.5748977661,
+    "name": "Cabo F.A.A. H. R. Bordon "
+  },
+  "SAVM": {
+    "lat": -45.5777777778,
+    "long": -69.0727777778,
+    "name": "Lago Musters "
+  },
+  "SAVN": {
+    "lat": -40.7512,
+    "long": -65.0343,
+    "name": "Antoine De St Exupery "
+  },
+  "SAVP": {
+    "lat": -43.8666992188,
+    "long": -69.0500030518,
+    "name": "Paso De Los Indios "
+  },
+  "SAVQ": {
+    "lat": -41.2430992126,
+    "long": -68.7078018188,
+    "name": "Maquinchao "
+  },
+  "SAVR": {
+    "lat": -45.0135993958,
+    "long": -70.8122024536,
+    "name": "D. Casimiro Szlapelis "
+  },
+  "SAVS": {
+    "lat": -41.5917015076,
+    "long": -65.3394012451,
+    "name": "Sierra Grande "
+  },
+  "SAVT": {
+    "lat": -43.2105,
+    "long": -65.2703,
+    "name": "Almirante Marco Andres Zar "
+  },
+  "SAVV": {
+    "lat": -40.8692,
+    "long": -63.0004,
+    "name": "Gobernador Castello "
+  },
+  "SAVY": {
+    "lat": -42.7592,
+    "long": -65.1027,
+    "name": "El Tehuelche "
+  },
+  "SAWA": {
+    "lat": -50.336101532,
+    "long": -72.2485961914,
+    "name": "Lago Argentino "
+  },
+  "SAWC": {
+    "lat": -50.2803001404,
+    "long": -72.0531005859,
+    "name": "El Calafate "
+  },
+  "SAWD": {
+    "lat": -47.7353,
+    "long": -65.9041,
+    "name": "Puerto Deseado "
+  },
+  "SAWE": {
+    "lat": -53.7777,
+    "long": -67.7494,
+    "name": "Hermes Quijada International "
+  },
+  "SAWG": {
+    "lat": -51.6089,
+    "long": -69.3126,
+    "name": "Piloto Civil N. Fernandez "
+  },
+  "SAWH": {
+    "lat": -54.8433,
+    "long": -68.2958,
+    "name": "Malvinas Argentinas "
+  },
+  "SAWJ": {
+    "lat": -49.3068,
+    "long": -67.8026,
+    "name": "Capitan D Daniel Vazquez "
+  },
+  "SAWL": {
+    "lat": -54.521900177,
+    "long": -67.1989974976,
+    "name": "Tolwin Observatory "
+  },
+  "SAWM": {
+    "lat": -45.7038993835,
+    "long": -70.2455978394,
+    "name": "Rio Mayo "
+  },
+  "SAWO": {
+    "lat": -54.8227,
+    "long": -68.3043,
+    "name": "Estacion Aeronaval "
+  },
+  "SAWP": {
+    "lat": -46.5378990173,
+    "long": -70.9786987305,
+    "name": "Perito Moreno "
+  },
+  "SAWR": {
+    "lat": -48.7831001282,
+    "long": -70.1500015259,
+    "name": "Gobernador Gregores "
+  },
+  "SAWS": {
+    "lat": -44.0485992432,
+    "long": -70.4589004517,
+    "name": "Jose De San Martin "
+  },
+  "SAWT": {
+    "lat": -51.6091995239,
+    "long": -72.2217025757,
+    "name": "28 De Noviembre "
+  },
+  "SAWU": {
+    "lat": -50.0165,
+    "long": -68.5792,
+    "name": "Santa Cruz "
+  },
+  "SAZA": {
+    "lat": -36.8368988037,
+    "long": -59.8802986145,
+    "name": "Azul "
+  },
+  "SAZB": {
+    "lat": -38.725,
+    "long": -62.1693,
+    "name": "Comandante Espora "
+  },
+  "SAZC": {
+    "lat": -37.4460983276,
+    "long": -61.8893013,
+    "name": "Brigadier D.H.E. Ruiz "
+  },
+  "SAZD": {
+    "lat": -36.3225,
+    "long": -57.7214,
+    "name": "Dolores "
+  },
+  "SAZE": {
+    "lat": -37.6016998291,
+    "long": -62.3781013489,
+    "name": "Pigue "
+  },
+  "SAZF": {
+    "lat": -36.8899993896,
+    "long": -60.2165985107,
+    "name": "Olavarria "
+  },
+  "SAZG": {
+    "lat": -35.6962013245,
+    "long": -63.7583007812,
+    "name": "General Pico "
+  },
+  "SAZH": {
+    "lat": -38.3869,
+    "long": -60.3297,
+    "name": "Tres Arroyos "
+  },
+  "SAZI": {
+    "lat": -36.1866,
+    "long": -61.0764,
+    "name": "Bolivar "
+  },
+  "SAZJ": {
+    "lat": -37.7061004639,
+    "long": -59.7919006348,
+    "name": "Benito Juarez "
+  },
+  "SAZK": {
+    "lat": -41.1632995605,
+    "long": -71.4427032471,
+    "name": "Cerro Catedral "
+  },
+  "SAZL": {
+    "lat": -36.5423,
+    "long": -56.7218,
+    "name": "Santa Teresita "
+  },
+  "SAZM": {
+    "lat": -37.9342,
+    "long": -57.5733,
+    "name": "Astor Piazzola International "
+  },
+  "SAZN": {
+    "lat": -38.9490013123,
+    "long": -68.1557006836,
+    "name": "Presidente Peron "
+  },
+  "SAZO": {
+    "lat": -38.4831,
+    "long": -58.8172,
+    "name": "Necochea "
+  },
+  "SAZP": {
+    "lat": -35.8446,
+    "long": -61.8576,
+    "name": "Comodoro Pedro Zanni "
+  },
+  "SAZQ": {
+    "lat": -38.995,
+    "long": -64.1408,
+    "name": "Rio Colorado "
+  },
+  "SAZR": {
+    "lat": -36.5882987976,
+    "long": -64.2757034302,
+    "name": "Santa Rosa "
+  },
+  "SAZS": {
+    "lat": -41.1511993408,
+    "long": -71.1575012207,
+    "name": "San Carlos De Bariloche "
+  },
+  "SAZT": {
+    "lat": -37.2374000549,
+    "long": -59.2279014587,
+    "name": "Heroes De Malvinas "
+  },
+  "SAZU": {
+    "lat": -38.1451034546,
+    "long": -65.9229431152,
+    "name": "Puelches "
+  },
+  "SAZV": {
+    "lat": -37.2354,
+    "long": -57.0292,
+    "name": "Villa Gesell "
+  },
+  "SAZW": {
+    "lat": -38.9397010803,
+    "long": -69.2646026611,
+    "name": "Cutral-Co "
+  },
+  "SAZX": {
+    "lat": -35.3997,
+    "long": -60.9358,
+    "name": "Nueve De Julio "
+  },
+  "SAZY": {
+    "lat": -40.0754013062,
+    "long": -71.137298584,
+    "name": "Aviador C. Campos "
+  }
+}

@@ -1,0 +1,296 @@
+{
+    "24CT": {
+        "lat": 41.566886,
+        "long": -71.966883,
+        "name": "Bee Field",
+        "state": "Connecticut"
+    },
+    "33CT": {
+        "lat": 41.609444,
+        "long": -73.239722,
+        "name": "Irish Hills Farms ",
+        "state": "Connecticut"
+    },
+    "5CT0": {
+        "lat": 41.9104003906,
+        "long": -72.0680999756,
+        "name": "Eastford ",
+        "state": "Connecticut"
+    },
+    "5CT5": {
+        "lat": 41.6323013306,
+        "long": -73.2162017822,
+        "name": "Thomson Field",
+        "state": "Connecticut"
+    },
+    "5CT6": {
+        "lat": 41.9194984436,
+        "long": -72.1184005737,
+        "name": "Buell Farm Ultralightport",
+        "state": "Connecticut"
+    },
+    "5CT7": {
+        "lat": 41.3022994995,
+        "long": -72.2962036133,
+        "name": "Mile Creek ",
+        "state": "Connecticut"
+    },
+    "64CT": {
+        "lat": 41.9215011597,
+        "long": -71.9529037476,
+        "name": "Woodstock ",
+        "state": "Connecticut"
+    },
+    "CT01": {
+        "lat": 41.6661987305,
+        "long": -73.1890029907,
+        "name": "Whelan Farms ",
+        "state": "Connecticut"
+    },
+    "CT07": {
+        "lat": 41.5736999512,
+        "long": -72.3031005859,
+        "name": "Skis Landing Area ",
+        "state": "Connecticut"
+    },
+    "CT08": {
+        "lat": 41.5082015991,
+        "long": -72.2436981201,
+        "name": "Gardner Lake ",
+        "state": "Connecticut"
+    },
+    "CT09": {
+        "lat": 41.802898407,
+        "long": -72.3917007446,
+        "name": "Heckler Field",
+        "state": "Connecticut"
+    },
+    "CT11": {
+        "lat": 41.4440002441,
+        "long": -72.3389968872,
+        "name": "Devils Hopyard Field",
+        "state": "Connecticut"
+    },
+    "CT13": {
+        "lat": 41.8833999634,
+        "long": -71.8162002563,
+        "name": "Yankee Airstrip",
+        "state": "Connecticut"
+    },
+    "CT14": {
+        "lat": 41.8667984009,
+        "long": -72.6162033081,
+        "name": "Bancroft ",
+        "state": "Connecticut"
+    },
+    "CT15": {
+        "lat": 41.945400238,
+        "long": -72.4776000977,
+        "name": "Wysocki Field",
+        "state": "Connecticut"
+    },
+    "CT19": {
+        "lat": 41.9682006836,
+        "long": -72.5398025513,
+        "name": "Laurie Field",
+        "state": "Connecticut"
+    },
+    "CT20": {
+        "lat": 41.6001014709,
+        "long": -72.4328994751,
+        "name": "Rankl Field",
+        "state": "Connecticut"
+    },
+    "CT24": {
+        "lat": 42.0453987122,
+        "long": -73.3386993408,
+        "name": "North Canaan Aviation Facilities Inc ",
+        "state": "Connecticut"
+    },
+    "CT29": {
+        "lat": 42.0136985779,
+        "long": -72.4729003906,
+        "name": "Valley Farms ",
+        "state": "Connecticut"
+    },
+    "CT31": {
+        "lat": 41.9650993347,
+        "long": -72.332901001,
+        "name": "Swift ",
+        "state": "Connecticut"
+    },
+    "CT32": {
+        "lat": 41.5354003906,
+        "long": -71.8345031738,
+        "name": "Gallup Farm ",
+        "state": "Connecticut"
+    },
+    "CT36": {
+        "lat": 41.5644989014,
+        "long": -72.197303772,
+        "name": "Gager Field",
+        "state": "Connecticut"
+    },
+    "CT39": {
+        "lat": 41.4683990479,
+        "long": -72.7083969116,
+        "name": "Maplewood Farm ",
+        "state": "Connecticut"
+    },
+    "CT42": {
+        "lat": 41.8501014709,
+        "long": -73.2661972046,
+        "name": "Wings Ago Airstrip",
+        "state": "Connecticut"
+    },
+    "CT43": {
+        "lat": 41.5937004089,
+        "long": -71.9311981201,
+        "name": "Spruce ",
+        "state": "Connecticut"
+    },
+    "CT44": {
+        "lat": 41.7857017517,
+        "long": -73.3087005615,
+        "name": "Ripley Field",
+        "state": "Connecticut"
+    },
+    "CT48": {
+        "lat": 41.4367980957,
+        "long": -71.9253997803,
+        "name": "Wychwood Field",
+        "state": "Connecticut"
+    },
+    "CT51": {
+        "lat": 41.5334014893,
+        "long": -73.4161987305,
+        "name": "Docktors Field",
+        "state": "Connecticut"
+    },
+    "CT52": {
+        "lat": 41.3681983948,
+        "long": -73.2911987305,
+        "name": "Flying Ridge Airstrip",
+        "state": "Connecticut"
+    },
+    "CT59": {
+        "lat": 41.5500984192,
+        "long": -73.2661972046,
+        "name": "Good Hill Farm ",
+        "state": "Connecticut"
+    },
+    "CT66": {
+        "lat": 41.6668014526,
+        "long": -73.2828979492,
+        "name": "Long View Landing ",
+        "state": "Connecticut"
+    },
+    "CT74": {
+        "lat": 41.9506988525,
+        "long": -72.1815032959,
+        "name": "Westford Airstrip",
+        "state": "Connecticut"
+    },
+    "CT80": {
+        "lat": 41.3473014832,
+        "long": -71.8859024048,
+        "name": "Stonington Airpark",
+        "state": "Connecticut"
+    },
+    "CT85": {
+        "lat": 41.8898010254,
+        "long": -72.6150970459,
+        "name": "Roberts Farm ",
+        "state": "Connecticut"
+    },
+    "CT96": {
+        "lat": 41.7084007263,
+        "long": -72.9711990356,
+        "name": "Green Acres ",
+        "state": "Connecticut"
+    },
+    "K4B8": {
+        "lat": 41.6903991699,
+        "long": -72.8647994995,
+        "name": "Robertson Field",
+        "state": "Connecticut"
+    },
+    "K7B6": {
+        "lat": 41.9292984009,
+        "long": -72.5745010376,
+        "name": "Skylark Airpark",
+        "state": "Connecticut"
+    },
+    "KBDL": {
+        "lat": 41.9388999939,
+        "long": -72.6831970215,
+        "name": "Bradley International ",
+        "state": "Connecticut"
+    },
+    "KBDR": {
+        "lat": 41.1635017395,
+        "long": -73.1261978149,
+        "name": "Igor I Sikorsky Memorial ",
+        "state": "Connecticut"
+    },
+    "KDXR": {
+        "lat": 41.3714981079,
+        "long": -73.4822006226,
+        "name": "Danbury Municipal ",
+        "state": "Connecticut"
+    },
+    "KEFD": {
+        "lat": 29.6072998047,
+        "long": -95.1587982178,
+        "name": "Ellington Field",
+        "state": "Connecticut"
+    },
+    "KGON": {
+        "lat": 41.3301010132,
+        "long": -72.0450973511,
+        "name": "Groton New London ",
+        "state": "Connecticut"
+    },
+    "KHFD": {
+        "lat": 41.7366981506,
+        "long": -72.6493988037,
+        "name": "Hartford Brainard ",
+        "state": "Connecticut"
+    },
+    "KHVN": {
+        "lat": 41.26369858,
+        "long": -72.88680267,
+        "name": "Tweed New Haven ",
+        "state": "Connecticut"
+    },
+    "KIJD": {
+        "lat": 41.7439994812,
+        "long": -72.1802978516,
+        "name": "Windham ",
+        "state": "Connecticut"
+    },
+    "KLZD": {
+        "lat": 41.8196983337,
+        "long": -71.9010009766,
+        "name": "Danielson ",
+        "state": "Connecticut"
+    },
+    "KMMK": {
+        "lat": 41.5087013245,
+        "long": -72.829498291,
+        "name": "Meriden Markham Municipal ",
+        "state": "Connecticut"
+    },
+    "KOXC": {
+        "lat": 41.4785995483,
+        "long": -73.1352005005,
+        "name": "Waterbury Oxford ",
+        "state": "Connecticut"
+    },
+    "KSNC": {
+        "lat": 41.3838996887,
+        "long": -72.505897522,
+        "name": "Chester ",
+        "state": "Connecticut"
+    }
+}

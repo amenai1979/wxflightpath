@@ -1,0 +1,317 @@
+{
+  "LSGB": {
+    "lat": 46.2583007813,
+    "long": 6.9863901138,
+    "name": "Bex "
+  },
+  "LSGC": {
+    "lat": 47.0839004517,
+    "long": 6.792840004,
+    "name": "Les Eplatures "
+  },
+  "LSGE": {
+    "lat": 46.7550010681,
+    "long": 7.0761098862,
+    "name": "Ecuvillens "
+  },
+  "LSGG": {
+    "lat": 46.2380981445,
+    "long": 6.1089501381,
+    "name": "Geneva Cointrin International "
+  },
+  "LSGK": {
+    "lat": 46.4874992371,
+    "long": 7.2508301735,
+    "name": "Saanen "
+  },
+  "LSGL": {
+    "lat": 46.54529953,
+    "long": 6.6166701317,
+    "name": "Lausanne-la Blecherette "
+  },
+  "LSGN": {
+    "lat": 46.9575004578,
+    "long": 6.8647198677,
+    "name": "Neuchatel "
+  },
+  "LSGP": {
+    "lat": 46.4063987732,
+    "long": 6.2580599785,
+    "name": "La Cote "
+  },
+  "LSGR": {
+    "lat": 46.6136016846,
+    "long": 7.6777801514,
+    "name": "Reichenbach Air Base"
+  },
+  "LSGS": {
+    "lat": 46.2196006775,
+    "long": 7.3267598152,
+    "name": "Sion "
+  },
+  "LSGT": {
+    "lat": 46.5942001343,
+    "long": 7.0944399834,
+    "name": "Gruyeres "
+  },
+  "LSGY": {
+    "lat": 46.7619018555,
+    "long": 6.6133298874,
+    "name": "Yverdon-les-Bains "
+  },
+  "LSMA": {
+    "lat": 46.943901062,
+    "long": 8.2841701508,
+    "name": "Alpnach Air Base"
+  },
+  "LSMD": {
+    "lat": 47.398601532,
+    "long": 8.648229599,
+    "name": "Dubendorf "
+  },
+  "LSME": {
+    "lat": 47.0923995972,
+    "long": 8.3051204681,
+    "name": "Emmen "
+  },
+  "LSMF": {
+    "lat": 47.0788993835,
+    "long": 9.0648298264,
+    "name": "Mollis "
+  },
+  "LSMI": {
+    "lat": 46.6766014099,
+    "long": 7.8790798187,
+    "name": "Interlaken Air Base"
+  },
+  "LSMJ": {
+    "lat": 46.3026008606,
+    "long": 7.7139501572,
+    "name": "Turtman Air Base"
+  },
+  "LSML": {
+    "lat": 46.2958984375,
+    "long": 8.9921302795,
+    "name": "Lodrino Air Base"
+  },
+  "LSMM": {
+    "lat": 46.7433013916,
+    "long": 8.1099996567,
+    "name": "Meiringen "
+  },
+  "LSMP": {
+    "lat": 46.8432006836,
+    "long": 6.9150600433,
+    "name": "Payerne "
+  },
+  "LSPA": {
+    "lat": 47.5741996765,
+    "long": 9.0474996567,
+    "name": "Amlikon Glider "
+  },
+  "LSPD": {
+    "lat": 47.4385986328,
+    "long": 7.4913902283,
+    "name": "Dittingen "
+  },
+  "LSPF": {
+    "lat": 47.6906013489,
+    "long": 8.5269403458,
+    "name": "Schaffhausen "
+  },
+  "LSPG": {
+    "lat": 46.9082984924,
+    "long": 8.2541704178,
+    "name": "Kagiswil "
+  },
+  "LSPH": {
+    "lat": 47.5149993896,
+    "long": 8.7719402313,
+    "name": "Winterthur "
+  },
+  "LSPK": {
+    "lat": 47.2799987793,
+    "long": 8.881939888,
+    "name": "Hasenstrick "
+  },
+  "LSPL": {
+    "lat": 47.182800293,
+    "long": 7.7413902283,
+    "name": "Langenthal "
+  },
+  "LSPM": {
+    "lat": 46.5125007629,
+    "long": 8.6897802353,
+    "name": "Ambri "
+  },
+  "LSPN": {
+    "lat": 47.2266998291,
+    "long": 8.0780601501,
+    "name": "Triengen "
+  },
+  "LSPO": {
+    "lat": 47.3443984985,
+    "long": 7.8894400597,
+    "name": "Olten "
+  },
+  "LSPU": {
+    "lat": 46.4803009033,
+    "long": 8.2633304596,
+    "name": "Muenster Aero "
+  },
+  "LSPV": {
+    "lat": 47.20470047,
+    "long": 8.8675003052,
+    "name": "Wangen-Lachen "
+  },
+  "LSTA": {
+    "lat": 46.3036003113,
+    "long": 7.8233299255,
+    "name": "Raron "
+  },
+  "LSTB": {
+    "lat": 46.9794006348,
+    "long": 7.1322197914,
+    "name": "Bellechasse "
+  },
+  "LSTO": {
+    "lat": 46.9166984558,
+    "long": 6.6149997711,
+    "name": "Motiers "
+  },
+  "LSTR": {
+    "lat": 46.5903015137,
+    "long": 6.4005599022,
+    "name": "Montricher "
+  },
+  "LSTS": {
+    "lat": 46.4973983765,
+    "long": 7.4125699997,
+    "name": "St Stephan "
+  },
+  "LSTZ": {
+    "lat": 46.5525016785,
+    "long": 7.3805599213,
+    "name": "Zweisimmen "
+  },
+  "LSXV": {
+    "lat": 46.2341995239,
+    "long": 9.0941696167,
+    "name": "San Vittore "
+  },
+  "LSZA": {
+    "lat": 46.0042991638,
+    "long": 8.9105796814,
+    "name": "Lugano "
+  },
+  "LSZB": {
+    "lat": 46.914100647,
+    "long": 7.4971499443,
+    "name": "Bern Belp "
+  },
+  "LSZC": {
+    "lat": 46.9744444444,
+    "long": 8.3969444444,
+    "name": "Buochs "
+  },
+  "LSZE": {
+    "lat": 47.0149993896,
+    "long": 9.4819402695,
+    "name": "Bad Ragaz "
+  },
+  "LSZF": {
+    "lat": 47.4435997009,
+    "long": 8.2336101532,
+    "name": "Birrfeld "
+  },
+  "LSZG": {
+    "lat": 47.1815986633,
+    "long": 7.4171900749,
+    "name": "Grenchen "
+  },
+  "LSZH": {
+    "lat": 47.4646987915,
+    "long": 8.5491695404,
+    "name": "Zurich "
+  },
+  "LSZI": {
+    "lat": 47.5088996887,
+    "long": 7.9499998093,
+    "name": "Fricktal-Schupfart "
+  },
+  "LSZJ": {
+    "lat": 47.1836013794,
+    "long": 7.0908298492,
+    "name": "Courtelary "
+  },
+  "LSZK": {
+    "lat": 47.3763999939,
+    "long": 8.7574996948,
+    "name": "Speck-Fehraltorf "
+  },
+  "LSZL": {
+    "lat": 46.1608009338,
+    "long": 8.8786096573,
+    "name": "Locarno "
+  },
+  "LSZM": {
+    "lat": 47.5895996094,
+    "long": 7.5299100876,
+    "name": "Euro Basel-Mulhouse-Freiburg "
+  },
+  "LSZN": {
+    "lat": 47.2386016846,
+    "long": 8.5155601501,
+    "name": "Hausen am Albis "
+  },
+  "LSZO": {
+    "lat": 47.1899986267,
+    "long": 8.2047195435,
+    "name": "Luzern-Beromunster "
+  },
+  "LSZP": {
+    "lat": 47.0891990662,
+    "long": 7.2899999619,
+    "name": "Biel-Kappelen "
+  },
+  "LSZQ": {
+    "lat": 47.392677,
+    "long": 7.028648,
+    "name": "Bressaucourt "
+  },
+  "LSZR": {
+    "lat": 47.4850006104,
+    "long": 9.5607700348,
+    "name": "St Gallen Altenrhein "
+  },
+  "LSZS": {
+    "lat": 46.5340995789,
+    "long": 9.8841104507,
+    "name": "Samedan "
+  },
+  "LSZT": {
+    "lat": 47.5243988037,
+    "long": 9.0030603409,
+    "name": "Lommis Airfield"
+  },
+  "LSZU": {
+    "lat": 47.2647018433,
+    "long": 8.3024997711,
+    "name": "Buttwil "
+  },
+  "LSZV": {
+    "lat": 47.5088996887,
+    "long": 9.2627801895,
+    "name": "Sitterdorf "
+  },
+  "LSZW": {
+    "lat": 46.756401062,
+    "long": 7.6005601883,
+    "name": "Thun "
+  },
+  "LSZX": {
+    "lat": 47.1716995239,
+    "long": 9.039440155,
+    "name": "Schanis "
+  }
+}

@@ -1,0 +1,2144 @@
+{
+    "00GA": {
+        "lat": 33.7675018311,
+        "long": -84.0682983398,
+        "name": "Lt World ",
+        "state": "Georgia"
+    },
+    "01GE": {
+        "lat": 32.6744003296,
+        "long": -82.7711029053,
+        "name": "The Farm ",
+        "state": "Georgia"
+    },
+    "02GA": {
+        "lat": 34.2025985718,
+        "long": -83.4290008545,
+        "name": "Doug Bolton Field",
+        "state": "Georgia"
+    },
+    "02GE": {
+        "lat": 34.1753005981,
+        "long": -84.9244003296,
+        "name": "Etowah Fields ",
+        "state": "Georgia"
+    },
+    "05GA": {
+        "lat": 32.0713996887,
+        "long": -84.7144012451,
+        "name": "Raju ",
+        "state": "Georgia"
+    },
+    "07GA": {
+        "lat": 33.6749992371,
+        "long": -83.7630996704,
+        "name": "Alcovy ",
+        "state": "Georgia"
+    },
+    "08GA": {
+        "lat": 31.4258003235,
+        "long": -81.2858963013,
+        "name": "Sapelo Island ",
+        "state": "Georgia"
+    },
+    "09GA": {
+        "lat": 31.1112995148,
+        "long": -83.68409729,
+        "name": "Sunbelt Strip",
+        "state": "Georgia"
+    },
+    "0GA0": {
+        "lat": 33.3562011719,
+        "long": -84.3671035767,
+        "name": "Halls Flying Ranch ",
+        "state": "Georgia"
+    },
+    "0GA1": {
+        "lat": 34.4779014587,
+        "long": -82.897102356,
+        "name": "Mustang Field",
+        "state": "Georgia"
+    },
+    "0GA2": {
+        "lat": 34.3778991699,
+        "long": -82.9457015991,
+        "name": "Airnautique Inc. ",
+        "state": "Georgia"
+    },
+    "0GA3": {
+        "lat": 33.7700996399,
+        "long": -85.060798645,
+        "name": "Ayresouth ",
+        "state": "Georgia"
+    },
+    "0GA4": {
+        "lat": 33.8129005432,
+        "long": -83.5056991577,
+        "name": "Paradise Falls ",
+        "state": "Georgia"
+    },
+    "0GA6": {
+        "lat": 33.7333984375,
+        "long": -83.8188018799,
+        "name": "Sunset Strip",
+        "state": "Georgia"
+    },
+    "0GA7": {
+        "lat": 33.6833992004,
+        "long": -84.9999008179,
+        "name": "Hickory Level Airfield",
+        "state": "Georgia"
+    },
+    "0GA8": {
+        "lat": 30.8871002197,
+        "long": -83.4160003662,
+        "name": "Paso Fino Farm ",
+        "state": "Georgia"
+    },
+    "0GA9": {
+        "lat": 32.7139015198,
+        "long": -84.0274963379,
+        "name": "Roberta Industrial Park ",
+        "state": "Georgia"
+    },
+    "0GE0": {
+        "lat": 33.7821006775,
+        "long": -84.8007965088,
+        "name": "Pinewood ",
+        "state": "Georgia"
+    },
+    "0GE1": {
+        "lat": 31.6655006409,
+        "long": -83.4470977783,
+        "name": "Crystal Lake Airpark",
+        "state": "Georgia"
+    },
+    "0GE3": {
+        "lat": 34.9047012329,
+        "long": -85.4597015381,
+        "name": "Lookout Mountain ",
+        "state": "Georgia"
+    },
+    "0GE4": {
+        "lat": 33.331401825,
+        "long": -84.2667007446,
+        "name": "Pecan Patch Airstrip",
+        "state": "Georgia"
+    },
+    "0GE5": {
+        "lat": 34.5617980957,
+        "long": -83.7135009766,
+        "name": "Mountain Airpark",
+        "state": "Georgia"
+    },
+    "0GE7": {
+        "lat": 33.5203018188,
+        "long": -82.3724975586,
+        "name": "Carpenter ",
+        "state": "Georgia"
+    },
+    "0GE9": {
+        "lat": 32.693901062,
+        "long": -81.7985992432,
+        "name": "Pegasus Ranch ",
+        "state": "Georgia"
+    },
+    "10GA": {
+        "lat": 33.3250999451,
+        "long": -84.2983016968,
+        "name": "Beaverbrook Aerodrome",
+        "state": "Georgia"
+    },
+    "13GA": {
+        "lat": 31.3666000366,
+        "long": -83.7548980713,
+        "name": "Oak Ridge Plantation ",
+        "state": "Georgia"
+    },
+    "13GE": {
+        "lat": 32.3608016968,
+        "long": -82.3180999756,
+        "name": "Holt Airpark",
+        "state": "Georgia"
+    },
+    "15GA": {
+        "lat": 32.6801986694,
+        "long": -82.4789962769,
+        "name": "Darla's ",
+        "state": "Georgia"
+    },
+    "17GA": {
+        "lat": 33.4667015076,
+        "long": -84.8660964966,
+        "name": "Panther Creek ",
+        "state": "Georgia"
+    },
+    "18GA": {
+        "lat": 33.6931991577,
+        "long": -83.657699585,
+        "name": "Sleepy Hollow ",
+        "state": "Georgia"
+    },
+    "19GA": {
+        "lat": 33.4236984253,
+        "long": -84.4999008179,
+        "name": "Willow Pond Aviation Inc ",
+        "state": "Georgia"
+    },
+    "1GA0": {
+        "lat": 31.6394004822,
+        "long": -81.3290023804,
+        "name": "Eagle Neck ",
+        "state": "Georgia"
+    },
+    "1GA2": {
+        "lat": 33.1772994995,
+        "long": -84.7484970093,
+        "name": "Flying N Estates ",
+        "state": "Georgia"
+    },
+    "1GA4": {
+        "lat": 32.3284988403,
+        "long": -81.7554016113,
+        "name": "Southern Agricultural Aviation ",
+        "state": "Georgia"
+    },
+    "1GA5": {
+        "lat": 30.9309997559,
+        "long": -83.3834991455,
+        "name": "Shilo Farms ",
+        "state": "Georgia"
+    },
+    "1GA6": {
+        "lat": 33.0089988708,
+        "long": -84.1107025146,
+        "name": "De De ",
+        "state": "Georgia"
+    },
+    "1GA8": {
+        "lat": 31.1784992218,
+        "long": -83.2265014648,
+        "name": "South One Ten ",
+        "state": "Georgia"
+    },
+    "1GA9": {
+        "lat": 33.7615013123,
+        "long": -83.6527023315,
+        "name": "Aerie ",
+        "state": "Georgia"
+    },
+    "1GE2": {
+        "lat": 32.8443984985,
+        "long": -84.5438995361,
+        "name": "C & W Air Park",
+        "state": "Georgia"
+    },
+    "1GE3": {
+        "lat": 33.2538986206,
+        "long": -85.1703033447,
+        "name": "Answered Prayer ",
+        "state": "Georgia"
+    },
+    "1GE4": {
+        "lat": 32.5010986328,
+        "long": -83.9332962036,
+        "name": "Beckley Farms ",
+        "state": "Georgia"
+    },
+    "1GE5": {
+        "lat": 33.1012001038,
+        "long": -84.3935012817,
+        "name": "Flying D ",
+        "state": "Georgia"
+    },
+    "1GE6": {
+        "lat": 31.3724002838,
+        "long": -82.1234970093,
+        "name": "Forestry-Strip ",
+        "state": "Georgia"
+    },
+    "1GE7": {
+        "lat": 33.51720047,
+        "long": -83.4396972656,
+        "name": "Hay Field",
+        "state": "Georgia"
+    },
+    "1GE9": {
+        "lat": 32.7144012451,
+        "long": -84.7181015015,
+        "name": "Waverly Landing ",
+        "state": "Georgia"
+    },
+    "20GA": {
+        "lat": 33.7565002441,
+        "long": -84.8846969604,
+        "name": "Earl L. Small Jr. Field/Stockmar ",
+        "state": "Georgia"
+    },
+    "21GE": {
+        "lat": 34.5497016907,
+        "long": -83.8221969604,
+        "name": "Deer Crossing ",
+        "state": "Georgia"
+    },
+    "22GA": {
+        "lat": 34.4292984009,
+        "long": -85.054397583,
+        "name": "Riverside ",
+        "state": "Georgia"
+    },
+    "23GE": {
+        "lat": 32.383056,
+        "long": -83.1,
+        "name": "Lt Landing ",
+        "state": "Georgia"
+    },
+    "25GA": {
+        "lat": 33.6595993042,
+        "long": -84.6630020142,
+        "name": "Miller Farm ",
+        "state": "Georgia"
+    },
+    "26GA": {
+        "lat": 33.3362007141,
+        "long": -84.9138031006,
+        "name": "Murphree ",
+        "state": "Georgia"
+    },
+    "27GA": {
+        "lat": 33.6584014893,
+        "long": -85.0099029541,
+        "name": "Wilson International ",
+        "state": "Georgia"
+    },
+    "29GA": {
+        "lat": 33.3843002319,
+        "long": -84.6318969727,
+        "name": "Rolling Meadows Airfield",
+        "state": "Georgia"
+    },
+    "2GA0": {
+        "lat": 33.5265007019,
+        "long": -83.6380004883,
+        "name": "Kennedy Intranational ",
+        "state": "Georgia"
+    },
+    "2GA1": {
+        "lat": 33.6806983948,
+        "long": -83.8526992798,
+        "name": "Poole Farm ",
+        "state": "Georgia"
+    },
+    "2GA2": {
+        "lat": 32.3945999146,
+        "long": -81.2807006836,
+        "name": "Swaids Field",
+        "state": "Georgia"
+    },
+    "2GA3": {
+        "lat": 32.2062988281,
+        "long": -83.7863006592,
+        "name": "Wrights Field",
+        "state": "Georgia"
+    },
+    "2GA4": {
+        "lat": 32.1712989807,
+        "long": -83.7556991577,
+        "name": "Mack's Field",
+        "state": "Georgia"
+    },
+    "2GA5": {
+        "lat": 33.0418014526,
+        "long": -84.4320983887,
+        "name": "Windrift Aerodrome",
+        "state": "Georgia"
+    },
+    "2GA6": {
+        "lat": 34.917301178,
+        "long": -85.0524978638,
+        "name": "Catoosa Springs STOLport",
+        "state": "Georgia"
+    },
+    "2GA8": {
+        "lat": 34.3498001099,
+        "long": -85.0768966675,
+        "name": "Shannon Flight Strip",
+        "state": "Georgia"
+    },
+    "2GA9": {
+        "lat": 33.804599762,
+        "long": -83.9962997437,
+        "name": "Lenora ",
+        "state": "Georgia"
+    },
+    "2GE3": {
+        "lat": 33.6762008667,
+        "long": -83.2593002319,
+        "name": "Smith ",
+        "state": "Georgia"
+    },
+    "2GE5": {
+        "lat": 34.1977996826,
+        "long": -84.3193969727,
+        "name": "Chukkar Farm Ultralightport",
+        "state": "Georgia"
+    },
+    "2GE7": {
+        "lat": 34.9580993652,
+        "long": -84.7791976929,
+        "name": "Petty Farms ",
+        "state": "Georgia"
+    },
+    "2GE8": {
+        "lat": 33.4641990662,
+        "long": -84.6632995605,
+        "name": "Andy Fields ",
+        "state": "Georgia"
+    },
+    "30GA": {
+        "lat": 34.4589996338,
+        "long": -84.1812973022,
+        "name": "Elliott Field",
+        "state": "Georgia"
+    },
+    "32GA": {
+        "lat": 33.4542007446,
+        "long": -83.2778015137,
+        "name": "Sebastian Cove ",
+        "state": "Georgia"
+    },
+    "33GA": {
+        "lat": 34.2599983215,
+        "long": -83.2866973877,
+        "name": "Hudson River Landing ",
+        "state": "Georgia"
+    },
+    "36GA": {
+        "lat": 33.7300987244,
+        "long": -83.9746017456,
+        "name": "Lola Landing ",
+        "state": "Georgia"
+    },
+    "37GA": {
+        "lat": 34.9003982544,
+        "long": -84.778503418,
+        "name": "Blue Bird Field",
+        "state": "Georgia"
+    },
+    "3GA0": {
+        "lat": 33.5275001526,
+        "long": -84.1568984985,
+        "name": "Grant ",
+        "state": "Georgia"
+    },
+    "3GA1": {
+        "lat": 32.7251014709,
+        "long": -84.3582992554,
+        "name": "Prattsburg ",
+        "state": "Georgia"
+    },
+    "3GA3": {
+        "lat": 34.871111,
+        "long": -85.4375,
+        "name": "Warren Field",
+        "state": "Georgia"
+    },
+    "3GA5": {
+        "lat": 33.6371002197,
+        "long": -84.9387969971,
+        "name": "Diamond R Ranch ",
+        "state": "Georgia"
+    },
+    "3GA6": {
+        "lat": 33.5705986023,
+        "long": -84.8983001709,
+        "name": "Erlen ",
+        "state": "Georgia"
+    },
+    "3GA7": {
+        "lat": 33.1624984741,
+        "long": -81.7683029175,
+        "name": "Rhodes Air Ranch ",
+        "state": "Georgia"
+    },
+    "3GA8": {
+        "lat": 32.3293991089,
+        "long": -82.6350021362,
+        "name": "Cauley's Airstrip",
+        "state": "Georgia"
+    },
+    "3GA9": {
+        "lat": 33.1334991455,
+        "long": -84.3774032593,
+        "name": "Vintage Field",
+        "state": "Georgia"
+    },
+    "3GE3": {
+        "lat": 34.4118995667,
+        "long": -83.1841964722,
+        "name": "Broad River Air Park",
+        "state": "Georgia"
+    },
+    "3GE7": {
+        "lat": 31.4127006531,
+        "long": -81.4373016357,
+        "name": "Eden Field",
+        "state": "Georgia"
+    },
+    "3GE8": {
+        "lat": 33.84349823,
+        "long": -82.4789962769,
+        "name": "Prater Ranch ",
+        "state": "Georgia"
+    },
+    "3GE9": {
+        "lat": 34.1399993896,
+        "long": -84.3780975342,
+        "name": "Holly Farm ",
+        "state": "Georgia"
+    },
+    "44GA": {
+        "lat": 32.1043014526,
+        "long": -83.4829025269,
+        "name": "S&S Flying Service ",
+        "state": "Georgia"
+    },
+    "47GA": {
+        "lat": 32.2196998596,
+        "long": -83.8553009033,
+        "name": "Everidge ",
+        "state": "Georgia"
+    },
+    "4GA0": {
+        "lat": 34.2801017761,
+        "long": -84.4213027954,
+        "name": "Pegasus Run ",
+        "state": "Georgia"
+    },
+    "4GA1": {
+        "lat": 33.0447998047,
+        "long": -84.3983001709,
+        "name": "Thacker Field",
+        "state": "Georgia"
+    },
+    "4GA4": {
+        "lat": 34.846698761,
+        "long": -84.754699707,
+        "name": "R.M. Harris ",
+        "state": "Georgia"
+    },
+    "4GA6": {
+        "lat": 33.6621017456,
+        "long": -84.6804962158,
+        "name": "Chattahoochee Air Park",
+        "state": "Georgia"
+    },
+    "4GA7": {
+        "lat": 33.134601593,
+        "long": -84.2540969849,
+        "name": "Kitchens Field",
+        "state": "Georgia"
+    },
+    "4GA8": {
+        "lat": 31.4155006409,
+        "long": -84.7129974365,
+        "name": "Andrews ",
+        "state": "Georgia"
+    },
+    "4GA9": {
+        "lat": 34.2422981262,
+        "long": -84.0570983887,
+        "name": "Ebeneezer ",
+        "state": "Georgia"
+    },
+    "4GE0": {
+        "lat": 32.936000824,
+        "long": -81.6621017456,
+        "name": "Millhaven ",
+        "state": "Georgia"
+    },
+    "4GE1": {
+        "lat": 30.7236995697,
+        "long": -84.5410995483,
+        "name": "Viola Farm ",
+        "state": "Georgia"
+    },
+    "4GE2": {
+        "lat": 33.5500984192,
+        "long": -84.1666030884,
+        "name": "Gorden E Bellah International ",
+        "state": "Georgia"
+    },
+    "4GE3": {
+        "lat": 32.498889,
+        "long": -83.191667,
+        "name": "Whitehall ",
+        "state": "Georgia"
+    },
+    "50GA": {
+        "lat": 30.950799942,
+        "long": -83.2341995239,
+        "name": "Mallory Field",
+        "state": "Georgia"
+    },
+    "51GA": {
+        "lat": 33.5080986023,
+        "long": -84.6005020142,
+        "name": "Smith Field",
+        "state": "Georgia"
+    },
+    "53GA": {
+        "lat": 34.1678009033,
+        "long": -85.2585983276,
+        "name": "Dawson Field",
+        "state": "Georgia"
+    },
+    "54GA": {
+        "lat": 33.4642982483,
+        "long": -84.2683029175,
+        "name": "Deerfield Landing ",
+        "state": "Georgia"
+    },
+    "55GE": {
+        "lat": 34.9805984497,
+        "long": -84.7416000366,
+        "name": "Rostex ",
+        "state": "Georgia"
+    },
+    "57GA": {
+        "lat": 34.8630981445,
+        "long": -84.3937988281,
+        "name": "Blue Ridge Skyport ",
+        "state": "Georgia"
+    },
+    "5GA0": {
+        "lat": 33.2276000977,
+        "long": -84.5444030762,
+        "name": "Gable Branch ",
+        "state": "Georgia"
+    },
+    "5GA2": {
+        "lat": 33.5732002258,
+        "long": -84.9096984863,
+        "name": "Lyons Landing ",
+        "state": "Georgia"
+    },
+    "5GA3": {
+        "lat": 33.1600990295,
+        "long": -84.365196228,
+        "name": "Eagles Landing ",
+        "state": "Georgia"
+    },
+    "5GA4": {
+        "lat": 34.1058998108,
+        "long": -84.4485015869,
+        "name": "Air Acres ",
+        "state": "Georgia"
+    },
+    "5GA5": {
+        "lat": 33.2597999573,
+        "long": -84.3494033813,
+        "name": "Pinebrook Estates ",
+        "state": "Georgia"
+    },
+    "5GA6": {
+        "lat": 32.1498985291,
+        "long": -83.8612976074,
+        "name": "Roney Farms ",
+        "state": "Georgia"
+    },
+    "5GA7": {
+        "lat": 33.2018013,
+        "long": -85.2304992676,
+        "name": "Panacea ",
+        "state": "Georgia"
+    },
+    "5GE1": {
+        "lat": 32.5703010559,
+        "long": -83.7219009399,
+        "name": "Peachtree Landings ",
+        "state": "Georgia"
+    },
+    "61GA": {
+        "lat": 33.3017997742,
+        "long": -82.1723022461,
+        "name": "Pea Patch Aerodrome",
+        "state": "Georgia"
+    },
+    "62GA": {
+        "lat": 33.3246002197,
+        "long": -83.9162979126,
+        "name": "Seven Lakes ",
+        "state": "Georgia"
+    },
+    "63GA": {
+        "lat": 33.4528999329,
+        "long": -84.095199585,
+        "name": "Zips ",
+        "state": "Georgia"
+    },
+    "64GA": {
+        "lat": 33.2835006714,
+        "long": -84.5388031006,
+        "name": "Big 'T' ",
+        "state": "Georgia"
+    },
+    "66GA": {
+        "lat": 31.474722,
+        "long": -85.002778,
+        "name": "Sawyer Farm ",
+        "state": "Georgia"
+    },
+    "67GA": {
+        "lat": 33.8592987061,
+        "long": -83.5876998901,
+        "name": "Apalachee Bluff Airpark",
+        "state": "Georgia"
+    },
+    "69GE": {
+        "lat": 33.9230003357,
+        "long": -82.6529006958,
+        "name": "Great Oaks ",
+        "state": "Georgia"
+    },
+    "6GA0": {
+        "lat": 34.132598877,
+        "long": -84.1994018555,
+        "name": "Stoney Point Field",
+        "state": "Georgia"
+    },
+    "6GA1": {
+        "lat": 33.1990013123,
+        "long": -84.5838012695,
+        "name": "Fagundes Field",
+        "state": "Georgia"
+    },
+    "6GA4": {
+        "lat": 33.7971000671,
+        "long": -83.8513031006,
+        "name": "Spring Valley Farm ",
+        "state": "Georgia"
+    },
+    "6GA5": {
+        "lat": 33.5782012939,
+        "long": -84.9068984985,
+        "name": "Kolibri ",
+        "state": "Georgia"
+    },
+    "6GA8": {
+        "lat": 33.5078010559,
+        "long": -85.1856002808,
+        "name": "Flying W Farms ",
+        "state": "Georgia"
+    },
+    "6GE2": {
+        "lat": 32.8328018188,
+        "long": -84.5378036499,
+        "name": "Rainbow Field",
+        "state": "Georgia"
+    },
+    "72GA": {
+        "lat": 31.5835990906,
+        "long": -81.2332000732,
+        "name": "Barbour Island ",
+        "state": "Georgia"
+    },
+    "74GA": {
+        "lat": 31.8346004486,
+        "long": -83.21849823,
+        "name": "Bowens Mill Christian Center ",
+        "state": "Georgia"
+    },
+    "76GA": {
+        "lat": 32.7447013855,
+        "long": -81.6130981445,
+        "name": "Landings East Sylvania ",
+        "state": "Georgia"
+    },
+    "77GA": {
+        "lat": 33.1640014648,
+        "long": -84.2135009766,
+        "name": "Toland ",
+        "state": "Georgia"
+    },
+    "78GA": {
+        "lat": 33.5042991638,
+        "long": -85.0171966553,
+        "name": "C&R Farm ",
+        "state": "Georgia"
+    },
+    "79GA": {
+        "lat": 31.4913005829,
+        "long": -85.0166015625,
+        "name": "Coates ",
+        "state": "Georgia"
+    },
+    "7GA2": {
+        "lat": 30.7789001465,
+        "long": -83.2018966675,
+        "name": "Mcclellan ",
+        "state": "Georgia"
+    },
+    "7GA3": {
+        "lat": 32.6632995605,
+        "long": -82.075302124,
+        "name": "Hacienda De Gay Airstrip",
+        "state": "Georgia"
+    },
+    "7GA4": {
+        "lat": 32.5810012817,
+        "long": -83.2677001953,
+        "name": "Danville Airpark",
+        "state": "Georgia"
+    },
+    "7GA5": {
+        "lat": 34.6323013306,
+        "long": -85.4471969604,
+        "name": "Mount Cove STOLport",
+        "state": "Georgia"
+    },
+    "7GA6": {
+        "lat": 33.3614997864,
+        "long": -84.1445999146,
+        "name": "Holder's Field",
+        "state": "Georgia"
+    },
+    "7GA9": {
+        "lat": 33.5705986023,
+        "long": -84.8977966309,
+        "name": "Smisson Field",
+        "state": "Georgia"
+    },
+    "7GE5": {
+        "lat": 33.3591995239,
+        "long": -85.1175003052,
+        "name": "Sunset Strip",
+        "state": "Georgia"
+    },
+    "80GA": {
+        "lat": 33.2587013245,
+        "long": -84.8447036743,
+        "name": "Murphy's Landing ",
+        "state": "Georgia"
+    },
+    "81GA": {
+        "lat": 33.6408996582,
+        "long": -84.9048995972,
+        "name": "Lucky Lairds Landing ",
+        "state": "Georgia"
+    },
+    "82GA": {
+        "lat": 32.8087997437,
+        "long": -82.3852996826,
+        "name": "Paces South Farms ",
+        "state": "Georgia"
+    },
+    "83GA": {
+        "lat": 30.9997005463,
+        "long": -84.5061035156,
+        "name": "Brock Airpark",
+        "state": "Georgia"
+    },
+    "85GA": {
+        "lat": 34.1722984314,
+        "long": -83.7310028076,
+        "name": "Aiken Field",
+        "state": "Georgia"
+    },
+    "86GA": {
+        "lat": 34.8679008484,
+        "long": -85.0610961914,
+        "name": "Flying G Ranch ",
+        "state": "Georgia"
+    },
+    "88GA": {
+        "lat": 33.1119003296,
+        "long": -84.4447021484,
+        "name": "Beaver Creek ",
+        "state": "Georgia"
+    },
+    "89GE": {
+        "lat": 33.5376014709,
+        "long": -84.6388015747,
+        "name": "South Fulton ",
+        "state": "Georgia"
+    },
+    "8GA1": {
+        "lat": 33.4211997986,
+        "long": -85.1619033813,
+        "name": "Gum Creek ",
+        "state": "Georgia"
+    },
+    "8GA3": {
+        "lat": 31.7751998901,
+        "long": -84.1249008179,
+        "name": "Leesburg Spraying ",
+        "state": "Georgia"
+    },
+    "8GA6": {
+        "lat": 33.16070175,
+        "long": -84.3184967,
+        "name": "S & S Landing Strip",
+        "state": "Georgia"
+    },
+    "8GA7": {
+        "lat": 34.2019996643,
+        "long": -84.9772033691,
+        "name": "Etowah Bend Gliderport",
+        "state": "Georgia"
+    },
+    "8GA8": {
+        "lat": 33.5773010254,
+        "long": -85.0029983521,
+        "name": "Falcons Aerie ",
+        "state": "Georgia"
+    },
+    "8GA9": {
+        "lat": 33.2767982483,
+        "long": -84.4107971191,
+        "name": "Brook Bridge Aerodrome",
+        "state": "Georgia"
+    },
+    "91GA": {
+        "lat": 33.273601532,
+        "long": -84.793296814,
+        "name": "Dbaks ",
+        "state": "Georgia"
+    },
+    "92GE": {
+        "lat": 32.8452987671,
+        "long": -82.2707977295,
+        "name": "Midville International ",
+        "state": "Georgia"
+    },
+    "94GA": {
+        "lat": 32.2629013062,
+        "long": -83.7871017456,
+        "name": "Snow Hill Airstrip",
+        "state": "Georgia"
+    },
+    "95GA": {
+        "lat": 33.4558982849,
+        "long": -84.9430007935,
+        "name": "Mcintosh Field",
+        "state": "Georgia"
+    },
+    "96GA": {
+        "lat": 33.185798645,
+        "long": -84.3681030273,
+        "name": "3-M's ",
+        "state": "Georgia"
+    },
+    "97GA": {
+        "lat": 34.2681999207,
+        "long": -83.6720962524,
+        "name": "B Tree Farms ",
+        "state": "Georgia"
+    },
+    "98GA": {
+        "lat": 33.2056999207,
+        "long": -83.912399292,
+        "name": "Circle T ",
+        "state": "Georgia"
+    },
+    "9GA0": {
+        "lat": 33.0570983887,
+        "long": -84.3423995972,
+        "name": "Brown Field",
+        "state": "Georgia"
+    },
+    "9GA1": {
+        "lat": 32.4488983154,
+        "long": -81.3368988037,
+        "name": "Briar Patch ",
+        "state": "Georgia"
+    },
+    "9GA2": {
+        "lat": 31.8025,
+        "long": -81.3975,
+        "name": "Berg Park Aerodrome",
+        "state": "Georgia"
+    },
+    "9GA3": {
+        "lat": 31.8395996094,
+        "long": -84.4815979004,
+        "name": "Young ",
+        "state": "Georgia"
+    },
+    "9GA5": {
+        "lat": 32.0582008362,
+        "long": -84.2901992798,
+        "name": "Lowell Field",
+        "state": "Georgia"
+    },
+    "9GA6": {
+        "lat": 33.0978012085,
+        "long": -83.4047012329,
+        "name": "Brookline - Meadowmere ",
+        "state": "Georgia"
+    },
+    "9GA8": {
+        "lat": 32.6935997009,
+        "long": -82.8989028931,
+        "name": "Chinaberry Ranch ",
+        "state": "Georgia"
+    },
+    "9GA9": {
+        "lat": 33.2181015015,
+        "long": -83.317199707,
+        "name": "Deerfield Landing ",
+        "state": "Georgia"
+    },
+    "9GE7": {
+        "lat": 33.531389,
+        "long": -83.791944,
+        "name": "Neely Farms ",
+        "state": "Georgia"
+    },
+    "GA00": {
+        "lat": 33.8255996704,
+        "long": -83.6397018433,
+        "name": "Kintail Farm ",
+        "state": "Georgia"
+    },
+    "GA01": {
+        "lat": 33.1977996826,
+        "long": -84.0843963623,
+        "name": "Flying H Ranch Inc ",
+        "state": "Georgia"
+    },
+    "GA02": {
+        "lat": 33.3515014648,
+        "long": -83.9637985229,
+        "name": "Howard Private ",
+        "state": "Georgia"
+    },
+    "GA03": {
+        "lat": 34.8694992065,
+        "long": -85.1996994019,
+        "name": "Wilson ",
+        "state": "Georgia"
+    },
+    "GA04": {
+        "lat": 33.3656997681,
+        "long": -84.1651992798,
+        "name": "Mallards Landing ",
+        "state": "Georgia"
+    },
+    "GA06": {
+        "lat": 33.3325004578,
+        "long": -83.7268981934,
+        "name": "Monticello Sky Ranch ",
+        "state": "Georgia"
+    },
+    "GA07": {
+        "lat": 32.2372016907,
+        "long": -81.6449966431,
+        "name": "Crawford Hendrix Farm ",
+        "state": "Georgia"
+    },
+    "GA08": {
+        "lat": 32.6917991638,
+        "long": -84.4971008301,
+        "name": "Jumpin J ",
+        "state": "Georgia"
+    },
+    "GA09": {
+        "lat": 34.4516983032,
+        "long": -83.7885971069,
+        "name": "Fly-N-S Ranch ",
+        "state": "Georgia"
+    },
+    "GA10": {
+        "lat": 33.0834999084,
+        "long": -84.3582992554,
+        "name": "Ridgeview Farm ",
+        "state": "Georgia"
+    },
+    "GA12": {
+        "lat": 31.5834999084,
+        "long": -84.3905029297,
+        "name": "Tallassee Plantation ",
+        "state": "Georgia"
+    },
+    "GA13": {
+        "lat": 31.5349006653,
+        "long": -84.0020980835,
+        "name": "Double 'O' Farm ",
+        "state": "Georgia"
+    },
+    "GA14": {
+        "lat": 31.4029998779,
+        "long": -84.3227005005,
+        "name": "Pinebloom Plantation ",
+        "state": "Georgia"
+    },
+    "GA15": {
+        "lat": 33.7086982727,
+        "long": -83.5791015625,
+        "name": "Klockner ",
+        "state": "Georgia"
+    },
+    "GA16": {
+        "lat": 33.7243003845,
+        "long": -83.5668029785,
+        "name": "Taylor Field",
+        "state": "Georgia"
+    },
+    "GA17": {
+        "lat": 32.168800354,
+        "long": -83.9735031128,
+        "name": "Flint River Nursery ",
+        "state": "Georgia"
+    },
+    "GA18": {
+        "lat": 34.832901001,
+        "long": -83.4095993042,
+        "name": "Big Creek Flying Ranch ",
+        "state": "Georgia"
+    },
+    "GA19": {
+        "lat": 32.1571006775,
+        "long": -81.8887023926,
+        "name": "Hearn ",
+        "state": "Georgia"
+    },
+    "GA20": {
+        "lat": 30.8111000061,
+        "long": -81.4627990723,
+        "name": "Stafford ",
+        "state": "Georgia"
+    },
+    "GA21": {
+        "lat": 31.4612998962,
+        "long": -81.3386993408,
+        "name": "Patterson Island ",
+        "state": "Georgia"
+    },
+    "GA22": {
+        "lat": 31.4384994507,
+        "long": -84.7082977295,
+        "name": "Jordans ",
+        "state": "Georgia"
+    },
+    "GA23": {
+        "lat": 34.5783004761,
+        "long": -85.3839035034,
+        "name": "Wyatt ",
+        "state": "Georgia"
+    },
+    "GA25": {
+        "lat": 30.6912994385,
+        "long": -82.5675964355,
+        "name": "Fargo ",
+        "state": "Georgia"
+    },
+    "GA27": {
+        "lat": 34.1012001038,
+        "long": -84.1610031128,
+        "name": "Mathis ",
+        "state": "Georgia"
+    },
+    "GA29": {
+        "lat": 33.1562004089,
+        "long": -84.4309997559,
+        "name": "B & L Strip",
+        "state": "Georgia"
+    },
+    "GA30": {
+        "lat": 33.2000999451,
+        "long": -82.2665023804,
+        "name": "Eliott Barrow ",
+        "state": "Georgia"
+    },
+    "GA31": {
+        "lat": 33.4735984802,
+        "long": -84.6735992432,
+        "name": "Two Rocks ",
+        "state": "Georgia"
+    },
+    "GA34": {
+        "lat": 32.0321006775,
+        "long": -82.0414962769,
+        "name": "Tootle ",
+        "state": "Georgia"
+    },
+    "GA35": {
+        "lat": 32.1575012207,
+        "long": -81.396697998,
+        "name": "Cypress Lakes ",
+        "state": "Georgia"
+    },
+    "GA36": {
+        "lat": 34.3917007446,
+        "long": -84.2416992188,
+        "name": "Foothills-Holcomb ",
+        "state": "Georgia"
+    },
+    "GA39": {
+        "lat": 31.9843997955,
+        "long": -81.2462005615,
+        "name": "Hodges Airpark",
+        "state": "Georgia"
+    },
+    "GA41": {
+        "lat": 32.6141014099,
+        "long": -82.2970962524,
+        "name": "Daniels ",
+        "state": "Georgia"
+    },
+    "GA42": {
+        "lat": 31.6168003082,
+        "long": -83.8832015991,
+        "name": "Crowe ",
+        "state": "Georgia"
+    },
+    "GA43": {
+        "lat": 32.3213996887,
+        "long": -81.4266967773,
+        "name": "Briggs Field",
+        "state": "Georgia"
+    },
+    "GA44": {
+        "lat": 33.0792999268,
+        "long": -85.0316009521,
+        "name": "Richards ",
+        "state": "Georgia"
+    },
+    "GA45": {
+        "lat": 31.5433006287,
+        "long": -81.5347976685,
+        "name": "Townsend Air Strip",
+        "state": "Georgia"
+    },
+    "GA47": {
+        "lat": 31.1851997375,
+        "long": -82.2734985352,
+        "name": "Bivins ",
+        "state": "Georgia"
+    },
+    "GA48": {
+        "lat": 31.586111,
+        "long": -84.790556,
+        "name": "Mclendon ",
+        "state": "Georgia"
+    },
+    "GA49": {
+        "lat": 32.927898407,
+        "long": -84.1412963867,
+        "name": "Thistle Field",
+        "state": "Georgia"
+    },
+    "GA50": {
+        "lat": 33.5974998474,
+        "long": -83.5177993774,
+        "name": "Dream Team ",
+        "state": "Georgia"
+    },
+    "GA53": {
+        "lat": 33.8151016235,
+        "long": -84.3719024658,
+        "name": "Rollins STOLport",
+        "state": "Georgia"
+    },
+    "GA59": {
+        "lat": 33.1001014709,
+        "long": -84.0585021973,
+        "name": "Antique Acres ",
+        "state": "Georgia"
+    },
+    "GA61": {
+        "lat": 33.2690010071,
+        "long": -84.4971008301,
+        "name": "Kenley Field",
+        "state": "Georgia"
+    },
+    "GA62": {
+        "lat": 33.2551002502,
+        "long": -84.4001998901,
+        "name": "Cedar Ridge ",
+        "state": "Georgia"
+    },
+    "GA63": {
+        "lat": 32.1792984009,
+        "long": -83.8999023438,
+        "name": "Byromville Aerodrome",
+        "state": "Georgia"
+    },
+    "GA65": {
+        "lat": 34.4370002747,
+        "long": -84.9197006226,
+        "name": "Mercer Airfield",
+        "state": "Georgia"
+    },
+    "GA67": {
+        "lat": 34.7681999207,
+        "long": -83.5929031372,
+        "name": "King Sky Ranch ",
+        "state": "Georgia"
+    },
+    "GA68": {
+        "lat": 33.1147994995,
+        "long": -84.4490966797,
+        "name": "Flying 'H' Ranch ",
+        "state": "Georgia"
+    },
+    "GA72": {
+        "lat": 34.8816986084,
+        "long": -84.8897018433,
+        "name": "Pratermill Flight Park ",
+        "state": "Georgia"
+    },
+    "GA73": {
+        "lat": 33.1618003845,
+        "long": -84.4533004761,
+        "name": "Shade Tree ",
+        "state": "Georgia"
+    },
+    "GA74": {
+        "lat": 33.0418014526,
+        "long": -84.412399292,
+        "name": "Takle Field",
+        "state": "Georgia"
+    },
+    "GA75": {
+        "lat": 33.0872993469,
+        "long": -84.4051971436,
+        "name": "Meadowlark ",
+        "state": "Georgia"
+    },
+    "GA76": {
+        "lat": 33.1548995972,
+        "long": -83.8988037109,
+        "name": "Broken Ranch ",
+        "state": "Georgia"
+    },
+    "GA77": {
+        "lat": 34.135799408,
+        "long": -85.112197876,
+        "name": "Wallace Field",
+        "state": "Georgia"
+    },
+    "GA79": {
+        "lat": 33.3447990417,
+        "long": -84.9113006592,
+        "name": "Dresden ",
+        "state": "Georgia"
+    },
+    "GA80": {
+        "lat": 33.7822990417,
+        "long": -83.9888000488,
+        "name": "Whispering Pines ",
+        "state": "Georgia"
+    },
+    "GA81": {
+        "lat": 32.5477981567,
+        "long": -83.8268966675,
+        "name": "Cameron Field",
+        "state": "Georgia"
+    },
+    "GA82": {
+        "lat": 33.5959014893,
+        "long": -83.8041000366,
+        "name": "Morgan Farm Field",
+        "state": "Georgia"
+    },
+    "GA83": {
+        "lat": 33.5467987061,
+        "long": -83.8054962158,
+        "name": "Windy Hill ",
+        "state": "Georgia"
+    },
+    "GA86": {
+        "lat": 32.9838981628,
+        "long": -84.0955963135,
+        "name": "Little Tobesofkee Creek Ranch ",
+        "state": "Georgia"
+    },
+    "GA87": {
+        "lat": 34.6981010437,
+        "long": -84.0127029419,
+        "name": "High Valley Airpark",
+        "state": "Georgia"
+    },
+    "GA88": {
+        "lat": 32.9771003723,
+        "long": -81.5362014771,
+        "name": "Wade Plantation ",
+        "state": "Georgia"
+    },
+    "GA89": {
+        "lat": 33.4757995605,
+        "long": -84.2769012451,
+        "name": "Diamond S ",
+        "state": "Georgia"
+    },
+    "GA90": {
+        "lat": 33.4520988464,
+        "long": -84.4094009399,
+        "name": "Walker Field",
+        "state": "Georgia"
+    },
+    "GA91": {
+        "lat": 33.3970985413,
+        "long": -84.4601974487,
+        "name": "Adams ",
+        "state": "Georgia"
+    },
+    "GA92": {
+        "lat": 33.5194015503,
+        "long": -84.5143966675,
+        "name": "Beck Field",
+        "state": "Georgia"
+    },
+    "GA93": {
+        "lat": 33.4453010559,
+        "long": -84.4067001343,
+        "name": "Bishops ",
+        "state": "Georgia"
+    },
+    "GA94": {
+        "lat": 33.4915008545,
+        "long": -84.489402771,
+        "name": "Mc Lendon ",
+        "state": "Georgia"
+    },
+    "GA95": {
+        "lat": 33.5261993408,
+        "long": -84.5021972656,
+        "name": "Coleman Field",
+        "state": "Georgia"
+    },
+    "GA98": {
+        "lat": 32.9489021301,
+        "long": -85.05052948,
+        "name": "Grayhill ",
+        "state": "Georgia"
+    },
+    "GA99": {
+        "lat": 32.5488014221,
+        "long": -83.8018035889,
+        "name": "Miami Valley Farm ",
+        "state": "Georgia"
+    },
+    "GE01": {
+        "lat": 30.9190006256,
+        "long": -83.0688018799,
+        "name": "Christians Folly ",
+        "state": "Georgia"
+    },
+    "GE04": {
+        "lat": 32.666944,
+        "long": -84.965556,
+        "name": "Mclendon Field",
+        "state": "Georgia"
+    },
+    "GE05": {
+        "lat": 34.6156005859,
+        "long": -85.3431015015,
+        "name": "Gibson Field",
+        "state": "Georgia"
+    },
+    "GE11": {
+        "lat": 34.6058006287,
+        "long": -85.4618988037,
+        "name": "Hogjowl ",
+        "state": "Georgia"
+    },
+    "GE12": {
+        "lat": 31.7486000061,
+        "long": -83.573600769,
+        "name": "Richter Airpark",
+        "state": "Georgia"
+    },
+    "GE23": {
+        "lat": 32.1935997009,
+        "long": -82.2906036377,
+        "name": "Winge Farms ",
+        "state": "Georgia"
+    },
+    "GE25": {
+        "lat": 32.6833000183,
+        "long": -83.8569030762,
+        "name": "Hutto Farm ",
+        "state": "Georgia"
+    },
+    "GE26": {
+        "lat": 32.381667,
+        "long": -83.059722,
+        "name": "Duke Strip 2",
+        "state": "Georgia"
+    },
+    "GE27": {
+        "lat": 32.6021995544,
+        "long": -83.7542037964,
+        "name": "Smith Field",
+        "state": "Georgia"
+    },
+    "GE30": {
+        "lat": 33.2210998535,
+        "long": -81.995300293,
+        "name": "Sandy Hill ",
+        "state": "Georgia"
+    },
+    "GE33": {
+        "lat": 33.304444,
+        "long": -84.136667,
+        "name": "River Bend ",
+        "state": "Georgia"
+    },
+    "GE35": {
+        "lat": 33.731389,
+        "long": -83.469722,
+        "name": "Southern Oaks ",
+        "state": "Georgia"
+    },
+    "GE99": {
+        "lat": 34.9143981934,
+        "long": -83.4597015381,
+        "name": "Heaven's Landing ",
+        "state": "Georgia"
+    },
+    "K15J": {
+        "lat": 31.1378002167,
+        "long": -83.4533004761,
+        "name": "Cook County ",
+        "state": "Georgia"
+    },
+    "K16J": {
+        "lat": 31.7432994843,
+        "long": -84.4192962646,
+        "name": "Dawson Municipal ",
+        "state": "Georgia"
+    },
+    "K17J": {
+        "lat": 31.00690079,
+        "long": -84.87760162,
+        "name": "Donalsonville Municipal ",
+        "state": "Georgia"
+    },
+    "K18A": {
+        "lat": 34.34009933,
+        "long": -83.13349915,
+        "name": "Franklin County ",
+        "state": "Georgia"
+    },
+    "K25J": {
+        "lat": 31.7001991272,
+        "long": -84.8248977661,
+        "name": "Cuthbert-Randolph ",
+        "state": "Georgia"
+    },
+    "K27A": {
+        "lat": 34.095199585,
+        "long": -82.81590271,
+        "name": "Elbert-County-Patz Field",
+        "state": "Georgia"
+    },
+    "K2J2": {
+        "lat": 31.7845993042,
+        "long": -81.6411972046,
+        "name": "Liberty County ",
+        "state": "Georgia"
+    },
+    "K2J3": {
+        "lat": 32.9864997864,
+        "long": -82.3856964111,
+        "name": "Louisville Municipal ",
+        "state": "Georgia"
+    },
+    "K2J5": {
+        "lat": 32.8936004639,
+        "long": -81.9654006958,
+        "name": "Millen ",
+        "state": "Georgia"
+    },
+    "K3J7": {
+        "lat": 33.5976982117,
+        "long": -83.138999939,
+        "name": "Greene County Regional ",
+        "state": "Georgia"
+    },
+    "K47A": {
+        "lat": 34.3106002808,
+        "long": -84.4238967896,
+        "name": "Cherokee County ",
+        "state": "Georgia"
+    },
+    "K48A": {
+        "lat": 32.3993988,
+        "long": -83.27590179,
+        "name": "Cochran ",
+        "state": "Georgia"
+    },
+    "K49A": {
+        "lat": 34.6278991699,
+        "long": -84.5249023438,
+        "name": "Gilmer County ",
+        "state": "Georgia"
+    },
+    "K4A0": {
+        "lat": 33.5357017517,
+        "long": -84.1791000366,
+        "name": "Berry Hill ",
+        "state": "Georgia"
+    },
+    "K4A4": {
+        "lat": 34.018699646,
+        "long": -85.1464996338,
+        "name": "Polk County - Cornelius Moore Field",
+        "state": "Georgia"
+    },
+    "K4A7": {
+        "lat": 33.3890991211,
+        "long": -84.3323974609,
+        "name": "Clayton County Tara Field",
+        "state": "Georgia"
+    },
+    "K4J1": {
+        "lat": 31.2073993683,
+        "long": -81.9057998657,
+        "name": "Brantley County ",
+        "state": "Georgia"
+    },
+    "K4J2": {
+        "lat": 31.212600708,
+        "long": -83.2263031006,
+        "name": "Berrien County ",
+        "state": "Georgia"
+    },
+    "K4J5": {
+        "lat": 30.8057994843,
+        "long": -83.5865020752,
+        "name": "Quitman Brooks County ",
+        "state": "Georgia"
+    },
+    "K4J6": {
+        "lat": 30.75300026,
+        "long": -81.55879974,
+        "name": "St Marys ",
+        "state": "Georgia"
+    },
+    "K4J8": {
+        "lat": 32.3876991272,
+        "long": -82.5636978149,
+        "name": "Treutlen County ",
+        "state": "Georgia"
+    },
+    "K51A": {
+        "lat": 32.2835006714,
+        "long": -83.4384994507,
+        "name": "Hawkinsville Pulaski County ",
+        "state": "Georgia"
+    },
+    "K53A": {
+        "lat": 32.3019981384,
+        "long": -84.0074996948,
+        "name": "Dr. C P Savage Sr. ",
+        "state": "Georgia"
+    },
+    "K5A9": {
+        "lat": 32.9334983826,
+        "long": -84.6887969971,
+        "name": "Roosevelt Memorial ",
+        "state": "Georgia"
+    },
+    "K65J": {
+        "lat": 33.2225990295,
+        "long": -82.3836975098,
+        "name": "Wrens Memorial ",
+        "state": "Georgia"
+    },
+    "K6A1": {
+        "lat": 32.5676002502,
+        "long": -84.2507019043,
+        "name": "Butler Municipal ",
+        "state": "Georgia"
+    },
+    "K6A2": {
+        "lat": 33.2270011902,
+        "long": -84.2749023438,
+        "name": "Griffin Spalding County ",
+        "state": "Georgia"
+    },
+    "K70J": {
+        "lat": 30.8880004883,
+        "long": -84.1547012329,
+        "name": "Cairo Grady County ",
+        "state": "Georgia"
+    },
+    "K75J": {
+        "lat": 31.6854991913,
+        "long": -83.6321029663,
+        "name": "Turner County ",
+        "state": "Georgia"
+    },
+    "K82A": {
+        "lat": 32.2823982239,
+        "long": -84.5035018921,
+        "name": "Marion County ",
+        "state": "Georgia"
+    },
+    "K9A0": {
+        "lat": 34.5792999268,
+        "long": -84.0206985474,
+        "name": "Lumpkin County Wimpys ",
+        "state": "Georgia"
+    },
+    "K9A5": {
+        "lat": 34.6885986328,
+        "long": -85.290397644,
+        "name": "Barwick Lafayette ",
+        "state": "Georgia"
+    },
+    "KABY": {
+        "lat": 31.5354995728,
+        "long": -84.1945037842,
+        "name": "Southwest Georgia Regional ",
+        "state": "Georgia"
+    },
+    "KACJ": {
+        "lat": 32.1108017,
+        "long": -84.18890381,
+        "name": "Souther Field",
+        "state": "Georgia"
+    },
+    "KAGS": {
+        "lat": 33.3698997498,
+        "long": -81.9645004272,
+        "name": "Augusta Regional At Bush Field",
+        "state": "Georgia"
+    },
+    "KAHN": {
+        "lat": 33.948600769,
+        "long": -83.3263015747,
+        "name": "Athens Ben Epps ",
+        "state": "Georgia"
+    },
+    "KAJR": {
+        "lat": 34.49990082,
+        "long": -83.55670166,
+        "name": "Habersham County ",
+        "state": "Georgia"
+    },
+    "KAMG": {
+        "lat": 31.5361003876,
+        "long": -82.5065994263,
+        "name": "Bacon County ",
+        "state": "Georgia"
+    },
+    "KATL": {
+        "lat": 33.6366996765,
+        "long": -84.4281005859,
+        "name": "Hartsfield Jackson Atlanta International ",
+        "state": "Georgia"
+    },
+    "KAYS": {
+        "lat": 31.2490997314,
+        "long": -82.3955001831,
+        "name": "Waycross Ware County ",
+        "state": "Georgia"
+    },
+    "KAZE": {
+        "lat": 31.8847007751,
+        "long": -82.6473999023,
+        "name": "Hazlehurst ",
+        "state": "Georgia"
+    },
+    "KBGE": {
+        "lat": 30.9715004,
+        "long": -84.63739777,
+        "name": "Decatur County Industrial Air Park",
+        "state": "Georgia"
+    },
+    "KBHC": {
+        "lat": 31.7138004303,
+        "long": -82.3937988281,
+        "name": "Baxley Municipal ",
+        "state": "Georgia"
+    },
+    "KBIJ": {
+        "lat": 31.3974990845,
+        "long": -84.8947982788,
+        "name": "Early County ",
+        "state": "Georgia"
+    },
+    "KBQK": {
+        "lat": 31.2588005066,
+        "long": -81.4664993286,
+        "name": "Brunswick Golden Isles ",
+        "state": "Georgia"
+    },
+    "KBXG": {
+        "lat": 33.0413017273,
+        "long": -82.0027008057,
+        "name": "Burke County ",
+        "state": "Georgia"
+    },
+    "KCCO": {
+        "lat": 33.3115997314,
+        "long": -84.7697982788,
+        "name": "Newnan Coweta County ",
+        "state": "Georgia"
+    },
+    "KCKF": {
+        "lat": 31.98880005,
+        "long": -83.77390289,
+        "name": "Crisp County Cordele ",
+        "state": "Georgia"
+    },
+    "KCSG": {
+        "lat": 32.5163002014,
+        "long": -84.9389038086,
+        "name": "Columbus Metropolitan ",
+        "state": "Georgia"
+    },
+    "KCTJ": {
+        "lat": 33.6310005188,
+        "long": -85.1520004272,
+        "name": "West Georgia Regional O V Gray Field",
+        "state": "Georgia"
+    },
+    "KCVC": {
+        "lat": 33.6322475,
+        "long": -83.8466189,
+        "name": "Covington Municipal ",
+        "state": "Georgia"
+    },
+    "KCWV": {
+        "lat": 32.195098877,
+        "long": -81.8695983887,
+        "name": "Claxton Evans County ",
+        "state": "Georgia"
+    },
+    "KCXU": {
+        "lat": 31.2129001617,
+        "long": -84.2368011475,
+        "name": "Camilla Mitchell County ",
+        "state": "Georgia"
+    },
+    "KCZL": {
+        "lat": 34.45539856,
+        "long": -84.93920135,
+        "name": "Tom B. David Field",
+        "state": "Georgia"
+    },
+    "KDBN": {
+        "lat": 32.56439972,
+        "long": -82.98529816,
+        "name": "W H 'Bud' Barron ",
+        "state": "Georgia"
+    },
+    "KDNL": {
+        "lat": 33.4664993286,
+        "long": -82.0393981934,
+        "name": "Daniel Field",
+        "state": "Georgia"
+    },
+    "KDNN": {
+        "lat": 34.72290039,
+        "long": -84.87020111,
+        "name": "Dalton Municipal ",
+        "state": "Georgia"
+    },
+    "KDZJ": {
+        "lat": 34.8550987244,
+        "long": -83.9969024658,
+        "name": "Blairsville ",
+        "state": "Georgia"
+    },
+    "KEZM": {
+        "lat": 32.2141990662,
+        "long": -83.1279983521,
+        "name": "Heart of Georgia Regional ",
+        "state": "Georgia"
+    },
+    "KFFC": {
+        "lat": 33.3572998047,
+        "long": -84.5718002319,
+        "name": "Peachtree City Falcon Field",
+        "state": "Georgia"
+    },
+    "KFTY": {
+        "lat": 33.7790985107,
+        "long": -84.5214004517,
+        "name": "Fulton County  Brown Field",
+        "state": "Georgia"
+    },
+    "KFZG": {
+        "lat": 31.6837005615,
+        "long": -83.2705001831,
+        "name": "Fitzgerald Municipal ",
+        "state": "Georgia"
+    },
+    "KGVL": {
+        "lat": 34.27259827,
+        "long": -83.8302002,
+        "name": "Lee Gilmer Memorial ",
+        "state": "Georgia"
+    },
+    "KHOE": {
+        "lat": 31.0559005737,
+        "long": -82.7741012573,
+        "name": "Homerville ",
+        "state": "Georgia"
+    },
+    "KHQU": {
+        "lat": 33.52970123,
+        "long": -82.51650238,
+        "name": "Thomson Mcduffie County ",
+        "state": "Georgia"
+    },
+    "KIIY": {
+        "lat": 33.77939987,
+        "long": -82.81580353,
+        "name": "Washington Wilkes County ",
+        "state": "Georgia"
+    },
+    "KJES": {
+        "lat": 31.55400085,
+        "long": -81.88249969,
+        "name": "Jesup Wayne County ",
+        "state": "Georgia"
+    },
+    "KJYL": {
+        "lat": 32.6453018188,
+        "long": -81.5970993042,
+        "name": "Plantation Airpark",
+        "state": "Georgia"
+    },
+    "KJZP": {
+        "lat": 34.4533996582,
+        "long": -84.4573974609,
+        "name": "Pickens County ",
+        "state": "Georgia"
+    },
+    "KLGC": {
+        "lat": 33.0088996887,
+        "long": -85.0726013184,
+        "name": "Lagrange Callaway ",
+        "state": "Georgia"
+    },
+    "KLHW": {
+        "lat": 31.88909912,
+        "long": -81.56230164,
+        "name": "Wright Aaf (Fort Stewart)/Midcoast Regional ",
+        "state": "Georgia"
+    },
+    "KLSF": {
+        "lat": 32.3372993469,
+        "long": -84.9913024902,
+        "name": "Lawson Army Air Field (Fort Benning)",
+        "state": "Georgia"
+    },
+    "KLZU": {
+        "lat": 33.97809982,
+        "long": -83.96240234,
+        "name": "Gwinnett County Briscoe Field",
+        "state": "Georgia"
+    },
+    "KMAC": {
+        "lat": 32.82210159,
+        "long": -83.56199646,
+        "name": "Macon Downtown ",
+        "state": "Georgia"
+    },
+    "KMCN": {
+        "lat": 32.6927986145,
+        "long": -83.6492004395,
+        "name": "Middle Georgia Regional ",
+        "state": "Georgia"
+    },
+    "KMGE": {
+        "lat": 33.91540146,
+        "long": -84.51629639,
+        "name": "Dobbins Air Reserve Base ",
+        "state": "Georgia"
+    },
+    "KMGR": {
+        "lat": 31.0848999023,
+        "long": -83.8032989502,
+        "name": "Moultrie Municipal ",
+        "state": "Georgia"
+    },
+    "KMHP": {
+        "lat": 32.3739013672,
+        "long": -82.0792007446,
+        "name": "Metter Municipal ",
+        "state": "Georgia"
+    },
+    "KMLJ": {
+        "lat": 33.15420151,
+        "long": -83.24069977,
+        "name": "Baldwin County ",
+        "state": "Georgia"
+    },
+    "KMQW": {
+        "lat": 32.0957984924,
+        "long": -82.8799972534,
+        "name": "Telfair Wheeler ",
+        "state": "Georgia"
+    },
+    "KMUL": {
+        "lat": 31.1376991272,
+        "long": -83.7041015625,
+        "name": "Spence ",
+        "state": "Georgia"
+    },
+    "KOCW": {
+        "lat": 35.5704994202,
+        "long": -77.0497970581,
+        "name": "Warren Field",
+        "state": "Georgia"
+    },
+    "KOKZ": {
+        "lat": 32.9667015076,
+        "long": -82.8382034302,
+        "name": "Kaolin Field",
+        "state": "Georgia"
+    },
+    "KOPN": {
+        "lat": 32.95460129,
+        "long": -84.26319885,
+        "name": "Thomaston Upson County ",
+        "state": "Georgia"
+    },
+    "KPDK": {
+        "lat": 33.8755989075,
+        "long": -84.3020019531,
+        "name": "DeKalb Peachtree ",
+        "state": "Georgia"
+    },
+    "KPIM": {
+        "lat": 32.8406982422,
+        "long": -84.8824005127,
+        "name": "Harris County ",
+        "state": "Georgia"
+    },
+    "KPUJ": {
+        "lat": 33.913306439,
+        "long": -84.9420833588,
+        "name": "Paulding County Regional ",
+        "state": "Georgia"
+    },
+    "KPXE": {
+        "lat": 32.5106010437,
+        "long": -83.7673034668,
+        "name": "Perry Houston County ",
+        "state": "Georgia"
+    },
+    "KRMG": {
+        "lat": 34.3506011963,
+        "long": -85.1579971313,
+        "name": "Richard B Russell ",
+        "state": "Georgia"
+    },
+    "KRVJ": {
+        "lat": 32.0589981079,
+        "long": -82.1517028809,
+        "name": "Swinton Smith Field at Reidsville Municipal ",
+        "state": "Georgia"
+    },
+    "KRYY": {
+        "lat": 34.01319885,
+        "long": -84.59860229,
+        "name": "Cobb County-Mc Collum Field",
+        "state": "Georgia"
+    },
+    "KSAV": {
+        "lat": 32.12760162,
+        "long": -81.20210266,
+        "name": "Savannah Hilton Head International ",
+        "state": "Georgia"
+    },
+    "KSBO": {
+        "lat": 32.6091003418,
+        "long": -82.3699035645,
+        "name": "Emanuel County ",
+        "state": "Georgia"
+    },
+    "KSSI": {
+        "lat": 31.15180016,
+        "long": -81.39129639,
+        "name": "Malcolm Mc Kinnon ",
+        "state": "Georgia"
+    },
+    "KSVN": {
+        "lat": 32.00999832,
+        "long": -81.14569855,
+        "name": "Hunter Army Air Field",
+        "state": "Georgia"
+    },
+    "KSYV": {
+        "lat": 31.5585002899,
+        "long": -83.8956985474,
+        "name": "Sylvester ",
+        "state": "Georgia"
+    },
+    "KTBR": {
+        "lat": 32.4827003479,
+        "long": -81.7369003296,
+        "name": "Statesboro Bulloch County ",
+        "state": "Georgia"
+    },
+    "KTMA": {
+        "lat": 31.4290008545,
+        "long": -83.4885025024,
+        "name": "Henry Tift Myers ",
+        "state": "Georgia"
+    },
+    "KTOC": {
+        "lat": 34.59379959,
+        "long": -83.29579926,
+        "name": "Toccoa Rg Letourneau Field",
+        "state": "Georgia"
+    },
+    "KTVI": {
+        "lat": 30.901599884,
+        "long": -83.8813018799,
+        "name": "Thomasville Regional ",
+        "state": "Georgia"
+    },
+    "KUOS": {
+        "lat": 35.2051010132,
+        "long": -85.8981018066,
+        "name": "Franklin County ",
+        "state": "Georgia"
+    },
+    "KVAD": {
+        "lat": 30.9678001404,
+        "long": -83.1930007935,
+        "name": "Moody Air Force Base",
+        "state": "Georgia"
+    },
+    "KVDI": {
+        "lat": 32.1926994324,
+        "long": -82.3712005615,
+        "name": "Vidalia Regional ",
+        "state": "Georgia"
+    },
+    "KVLD": {
+        "lat": 30.7824993134,
+        "long": -83.2767028809,
+        "name": "Valdosta Regional ",
+        "state": "Georgia"
+    },
+    "KVPC": {
+        "lat": 34.1231002808,
+        "long": -84.8487014771,
+        "name": "Cartersville ",
+        "state": "Georgia"
+    },
+    "KWDR": {
+        "lat": 33.98289871,
+        "long": -83.66739655,
+        "name": "Barrow County ",
+        "state": "Georgia"
+    },
+    "KWRB": {
+        "lat": 32.6400985718,
+        "long": -83.5919036865,
+        "name": "Robins Air Force Base",
+        "state": "Georgia"
+    }
+}

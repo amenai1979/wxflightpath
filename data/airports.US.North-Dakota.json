@@ -1,0 +1,962 @@
+{
+    "K05D": {
+        "lat": 47.966999054,
+        "long": -102.4779968262,
+        "name": "New Town Municipal ",
+        "state": "North-Dakota"
+    },
+    "K06D": {
+        "lat": 48.88430023,
+        "long": -99.62090302,
+        "name": "Rolla Municipal ",
+        "state": "North-Dakota"
+    },
+    "K08D": {
+        "lat": 48.3008003235,
+        "long": -102.40599823,
+        "name": "Stanley Municipal ",
+        "state": "North-Dakota"
+    },
+    "K20U": {
+        "lat": 46.925201416,
+        "long": -103.9820022583,
+        "name": "Beach ",
+        "state": "North-Dakota"
+    },
+    "K2C8": {
+        "lat": 48.7837982178,
+        "long": -97.6318969727,
+        "name": "Cavalier Municipal ",
+        "state": "North-Dakota"
+    },
+    "K2D5": {
+        "lat": 46.1730003357,
+        "long": -98.0799026489,
+        "name": "Oakes Municipal ",
+        "state": "North-Dakota"
+    },
+    "K2H9": {
+        "lat": 48.6652984619,
+        "long": -99.8532028198,
+        "name": "Rolette ",
+        "state": "North-Dakota"
+    },
+    "K3H4": {
+        "lat": 47.3594017029,
+        "long": -97.0604019165,
+        "name": "Hillsboro Municipal ",
+        "state": "North-Dakota"
+    },
+    "K3P3": {
+        "lat": 46.3596992493,
+        "long": -102.3229980469,
+        "name": "Mott Municipal ",
+        "state": "North-Dakota"
+    },
+    "K46D": {
+        "lat": 47.4510994,
+        "long": -99.15110016,
+        "name": "Carrington Municipal ",
+        "state": "North-Dakota"
+    },
+    "K4E7": {
+        "lat": 46.0125007629,
+        "long": -98.5129013062,
+        "name": "Ellendale Municipal ",
+        "state": "North-Dakota"
+    },
+    "K4F9": {
+        "lat": 46.3465995789,
+        "long": -98.2836990356,
+        "name": "La Moure Rott Municipal ",
+        "state": "North-Dakota"
+    },
+    "K4V4": {
+        "lat": 47.7242012,
+        "long": -97.5904007,
+        "name": "Northwood Municipal Vince Field",
+        "state": "North-Dakota"
+    },
+    "K51D": {
+        "lat": 46.34859848,
+        "long": -98.73560333,
+        "name": "Edgeley Municipal ",
+        "state": "North-Dakota"
+    },
+    "K5B5": {
+        "lat": 46.4944000244,
+        "long": -99.7601013184,
+        "name": "Napoleon Municipal ",
+        "state": "North-Dakota"
+    },
+    "K5C8": {
+        "lat": 47.353099823,
+        "long": -101.0270004272,
+        "name": "Washburn Municipal ",
+        "state": "North-Dakota"
+    },
+    "K5H4": {
+        "lat": 47.79119873,
+        "long": -99.93170166,
+        "name": "Harvey Municipal ",
+        "state": "North-Dakota"
+    },
+    "K5L0": {
+        "lat": 48.0293998718,
+        "long": -98.325302124,
+        "name": "Lakota Municipal ",
+        "state": "North-Dakota"
+    },
+    "K5N8": {
+        "lat": 46.8540000916,
+        "long": -97.2087020874,
+        "name": "Casselton Robert Miller Regional ",
+        "state": "North-Dakota"
+    },
+    "K6D8": {
+        "lat": 46.94100189,
+        "long": -98.01760101,
+        "name": "Barnes County Municipal ",
+        "state": "North-Dakota"
+    },
+    "K6L3": {
+        "lat": 46.44660187,
+        "long": -97.72730255,
+        "name": "Lisbon Municipal ",
+        "state": "North-Dakota"
+    },
+    "K6L5": {
+        "lat": 46.2463989258,
+        "long": -99.537902832,
+        "name": "Wishek Municipal ",
+        "state": "North-Dakota"
+    },
+    "K7K5": {
+        "lat": 48.6675987244,
+        "long": -102.047996521,
+        "name": "Kenmare Municipal ",
+        "state": "North-Dakota"
+    },
+    "K7L2": {
+        "lat": 46.21829987,
+        "long": -100.2450027,
+        "name": "Linton Municipal ",
+        "state": "North-Dakota"
+    },
+    "K8J7": {
+        "lat": 47.6963996887,
+        "long": -99.1312026978,
+        "name": "Tomlinson Field",
+        "state": "North-Dakota"
+    },
+    "K95D": {
+        "lat": 47.2508010864,
+        "long": -101.8140029907,
+        "name": "Beulah ",
+        "state": "North-Dakota"
+    },
+    "K96D": {
+        "lat": 48.9406013489,
+        "long": -97.9028015137,
+        "name": "Walhalla Municipal ",
+        "state": "North-Dakota"
+    },
+    "K9D7": {
+        "lat": 48.47999954,
+        "long": -99.23590088,
+        "name": "Cando Municipal ",
+        "state": "North-Dakota"
+    },
+    "K9Y1": {
+        "lat": 47.3927993774,
+        "long": -102.7710037231,
+        "name": "Weydahl Field",
+        "state": "North-Dakota"
+    },
+    "KASY": {
+        "lat": 46.0238990784,
+        "long": -99.3526000977,
+        "name": "Ashley Municipal ",
+        "state": "North-Dakota"
+    },
+    "KBIS": {
+        "lat": 46.7727012634,
+        "long": -100.7460021973,
+        "name": "Bismarck Municipal ",
+        "state": "North-Dakota"
+    },
+    "KBPP": {
+        "lat": 46.1870002747,
+        "long": -103.428001404,
+        "name": "Bowman Municipal ",
+        "state": "North-Dakota"
+    },
+    "KBWP": {
+        "lat": 46.2440986633,
+        "long": -96.6073989868,
+        "name": "Harry Stern ",
+        "state": "North-Dakota"
+    },
+    "KD05": {
+        "lat": 47.6558990479,
+        "long": -101.43699646,
+        "name": "Garrison Municipal ",
+        "state": "North-Dakota"
+    },
+    "KD09": {
+        "lat": 48.83039856,
+        "long": -100.4169998,
+        "name": "Bottineau Municipal ",
+        "state": "North-Dakota"
+    },
+    "KD31": {
+        "lat": 48.2849998474,
+        "long": -99.403503418,
+        "name": "Leeds Municipal ",
+        "state": "North-Dakota"
+    },
+    "KD50": {
+        "lat": 48.9285011292,
+        "long": -103.2969970703,
+        "name": "Crosby Municipal ",
+        "state": "North-Dakota"
+    },
+    "KD54": {
+        "lat": 46.9007987976,
+        "long": -96.9187011719,
+        "name": "West Fargo Municipal ",
+        "state": "North-Dakota"
+    },
+    "KD55": {
+        "lat": 48.7529983521,
+        "long": -98.3933029175,
+        "name": "Robertson Field",
+        "state": "North-Dakota"
+    },
+    "KD56": {
+        "lat": 47.4749984741,
+        "long": -97.3337020874,
+        "name": "Mayville Municipal ",
+        "state": "North-Dakota"
+    },
+    "KD57": {
+        "lat": 46.8128013611,
+        "long": -101.8600006104,
+        "name": "Glen Ullin Regional ",
+        "state": "North-Dakota"
+    },
+    "KD60": {
+        "lat": 48.38050079,
+        "long": -102.8980026,
+        "name": "Tioga Municipal ",
+        "state": "North-Dakota"
+    },
+    "KD64": {
+        "lat": 48.9133987427,
+        "long": -101.0329971313,
+        "name": "Westhope Municipal ",
+        "state": "North-Dakota"
+    },
+    "KDIK": {
+        "lat": 46.7974014282,
+        "long": -102.802001953,
+        "name": "Dickinson Theodore Roosevelt Regional ",
+        "state": "North-Dakota"
+    },
+    "KDVL": {
+        "lat": 48.11420059,
+        "long": -98.90879822,
+        "name": "Devils Lake Regional ",
+        "state": "North-Dakota"
+    },
+    "KFAR": {
+        "lat": 46.9207000732,
+        "long": -96.8158035278,
+        "name": "Hector International ",
+        "state": "North-Dakota"
+    },
+    "KGAF": {
+        "lat": 48.4047012329,
+        "long": -97.3709030151,
+        "name": "Hutson Field",
+        "state": "North-Dakota"
+    },
+    "KGFK": {
+        "lat": 47.9492988586,
+        "long": -97.1761016846,
+        "name": "Grand Forks International ",
+        "state": "North-Dakota"
+    },
+    "KGWR": {
+        "lat": 46.2187004089,
+        "long": -97.6432037354,
+        "name": "Gwinner Roger Melroe Field",
+        "state": "North-Dakota"
+    },
+    "KHBC": {
+        "lat": 48.7683982849,
+        "long": -101.5370025635,
+        "name": "Mohall Municipal ",
+        "state": "North-Dakota"
+    },
+    "KHEI": {
+        "lat": 46.0149002075,
+        "long": -102.65599823,
+        "name": "Hettinger Municipal ",
+        "state": "North-Dakota"
+    },
+    "KHZE": {
+        "lat": 47.28990173,
+        "long": -101.5810013,
+        "name": "Mercer County Regional ",
+        "state": "North-Dakota"
+    },
+    "KISN": {
+        "lat": 48.177898407,
+        "long": -103.641998291,
+        "name": "Sloulin Field International ",
+        "state": "North-Dakota"
+    },
+    "KJMS": {
+        "lat": 46.92969894,
+        "long": -98.67819977,
+        "name": "Jamestown Regional ",
+        "state": "North-Dakota"
+    },
+    "KK74": {
+        "lat": 46.6487999,
+        "long": -96.99859619,
+        "name": "Hamry Field",
+        "state": "North-Dakota"
+    },
+    "KMIB": {
+        "lat": 48.41559982,
+        "long": -101.3580017,
+        "name": "Minot Air Force Base",
+        "state": "North-Dakota"
+    },
+    "KMOT": {
+        "lat": 48.2593994141,
+        "long": -101.2799987793,
+        "name": "Minot International ",
+        "state": "North-Dakota"
+    },
+    "KPMB": {
+        "lat": 48.9425010681,
+        "long": -97.2407989502,
+        "name": "Pembina Municipal ",
+        "state": "North-Dakota"
+    },
+    "KRDR": {
+        "lat": 47.961101532,
+        "long": -97.4011993408,
+        "name": "Grand Forks Air Force Base",
+        "state": "North-Dakota"
+    },
+    "KRUG": {
+        "lat": 48.3903999329,
+        "long": -100.0240020752,
+        "name": "Rugby Municipal ",
+        "state": "North-Dakota"
+    },
+    "KS25": {
+        "lat": 47.79570007,
+        "long": -103.2539978,
+        "name": "Watford City Municipal ",
+        "state": "North-Dakota"
+    },
+    "KS32": {
+        "lat": 47.4227981567,
+        "long": -98.1059036255,
+        "name": "Cooperstown Municipal ",
+        "state": "North-Dakota"
+    },
+    "KY19": {
+        "lat": 46.7681999207,
+        "long": -100.8939971924,
+        "name": "Mandan Municipal ",
+        "state": "North-Dakota"
+    },
+    "KY27": {
+        "lat": 46.0663986206,
+        "long": -100.6350021362,
+        "name": "Standing Rock ",
+        "state": "North-Dakota"
+    },
+    "KY37": {
+        "lat": 48.39400101,
+        "long": -97.78079987,
+        "name": "Park River W C Skjerven Field",
+        "state": "North-Dakota"
+    },
+    "KY74": {
+        "lat": 47.9364013672,
+        "long": -102.141998291,
+        "name": "Parshall Hankins ",
+        "state": "North-Dakota"
+    },
+    "NA01": {
+        "lat": 47.6683006287,
+        "long": -97.0054016113,
+        "name": "Jenson ",
+        "state": "North-Dakota"
+    },
+    "NA02": {
+        "lat": 47.7050018311,
+        "long": -97.0548019409,
+        "name": "Saure ",
+        "state": "North-Dakota"
+    },
+    "NA03": {
+        "lat": 48.6725006104,
+        "long": -100.858001709,
+        "name": "Boll Brothers Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA05": {
+        "lat": 46.6122016907,
+        "long": -97.4356002808,
+        "name": "Kraig Farms ",
+        "state": "North-Dakota"
+    },
+    "NA06": {
+        "lat": 47.8628005981,
+        "long": -98.9726028442,
+        "name": "Bouret Ranch ",
+        "state": "North-Dakota"
+    },
+    "NA07": {
+        "lat": 48.8863983154,
+        "long": -100.6949996948,
+        "name": "Kornkven Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA10": {
+        "lat": 48.3805999756,
+        "long": -99.0336990356,
+        "name": "Anderson Private ",
+        "state": "North-Dakota"
+    },
+    "NA12": {
+        "lat": 47.4317016602,
+        "long": -100.8420028687,
+        "name": "Johnson Private ",
+        "state": "North-Dakota"
+    },
+    "NA13": {
+        "lat": 48.1222000122,
+        "long": -100.93699646,
+        "name": "Linrud Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA17": {
+        "lat": 46.9426994324,
+        "long": -96.9290008545,
+        "name": "Jacob Gust ",
+        "state": "North-Dakota"
+    },
+    "NA18": {
+        "lat": 48.4133987427,
+        "long": -103.8359985352,
+        "name": "Hought Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA20": {
+        "lat": 46.2480010986,
+        "long": -97.2573013306,
+        "name": "Hudson's Strip",
+        "state": "North-Dakota"
+    },
+    "NA21": {
+        "lat": 46.2282981873,
+        "long": -97.2361984253,
+        "name": "Thompson Private ",
+        "state": "North-Dakota"
+    },
+    "NA22": {
+        "lat": 46.0125007629,
+        "long": -103.7959976196,
+        "name": "Vernon Miller Private ",
+        "state": "North-Dakota"
+    },
+    "NA25": {
+        "lat": 48.4986000061,
+        "long": -100.6529998779,
+        "name": "Holen Aerial Spray Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA30": {
+        "lat": 48.2722015381,
+        "long": -101.3960037231,
+        "name": "Behrens Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA32": {
+        "lat": 46.898601532,
+        "long": -98.8587036133,
+        "name": "Johnson Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA33": {
+        "lat": 48.0010986328,
+        "long": -99.9260025024,
+        "name": "Ripplinger Strip",
+        "state": "North-Dakota"
+    },
+    "NA38": {
+        "lat": 47.9505996704,
+        "long": -99.4296035767,
+        "name": "Sabbe Brothers Landing Strip",
+        "state": "North-Dakota"
+    },
+    "NA39": {
+        "lat": 47.8978004456,
+        "long": -101.8550033569,
+        "name": "Dorbrinski ",
+        "state": "North-Dakota"
+    },
+    "NA44": {
+        "lat": 47.6542015076,
+        "long": -99.1595993042,
+        "name": "Georgeson Farm Strip",
+        "state": "North-Dakota"
+    },
+    "NA49": {
+        "lat": 48.4178009033,
+        "long": -100.0550003052,
+        "name": "Paul Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA55": {
+        "lat": 46.2661018372,
+        "long": -97.0161972046,
+        "name": "Hager Strip",
+        "state": "North-Dakota"
+    },
+    "NA56": {
+        "lat": 46.3022003174,
+        "long": -96.9915008545,
+        "name": "Moffet Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA60": {
+        "lat": 47.2350006104,
+        "long": -97.0383987427,
+        "name": "Dakota ",
+        "state": "North-Dakota"
+    },
+    "NA61": {
+        "lat": 47.2956008911,
+        "long": -103.1890029907,
+        "name": "Tachenko Strip",
+        "state": "North-Dakota"
+    },
+    "NA63": {
+        "lat": 48.6666984558,
+        "long": -103.8560028076,
+        "name": "Storseth Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA65": {
+        "lat": 48.5313987732,
+        "long": -97.6280975342,
+        "name": "Anderson Strip",
+        "state": "North-Dakota"
+    },
+    "NA67": {
+        "lat": 48.9838981628,
+        "long": -97.4645004272,
+        "name": "Horsley Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA70": {
+        "lat": 47.7738990784,
+        "long": -98.9884033203,
+        "name": "Smith Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA71": {
+        "lat": 46.9958000183,
+        "long": -99.6712036133,
+        "name": "M. Bodvig Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA73": {
+        "lat": 48.5638999939,
+        "long": -101,
+        "name": "Welstad Farms Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA75": {
+        "lat": 47.676399231,
+        "long": -99.3904037476,
+        "name": "Lill Strip",
+        "state": "North-Dakota"
+    },
+    "NA77": {
+        "lat": 45.9866981506,
+        "long": -103.846000671,
+        "name": "Mc Gee Strip",
+        "state": "North-Dakota"
+    },
+    "NA79": {
+        "lat": 47.4042015076,
+        "long": -100.8820037842,
+        "name": "Philbrick Private Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA81": {
+        "lat": 47.6282997131,
+        "long": -97.0865020752,
+        "name": "Central Valley Aviation ",
+        "state": "North-Dakota"
+    },
+    "NA84": {
+        "lat": 46.8004989624,
+        "long": -99.0050964355,
+        "name": "L. Seckerson Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA86": {
+        "lat": 47.3333015442,
+        "long": -97.9009017944,
+        "name": "Johnson Private Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA88": {
+        "lat": 47.2238998413,
+        "long": -100.422996521,
+        "name": "Regan Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA89": {
+        "lat": 46.2221984863,
+        "long": -103.0210037231,
+        "name": "Holzman Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA90": {
+        "lat": 47.4667015076,
+        "long": -101.2229995728,
+        "name": "Circle Z Landing Strip",
+        "state": "North-Dakota"
+    },
+    "NA92": {
+        "lat": 48.5786018372,
+        "long": -103.466003418,
+        "name": "Roy Lohse ",
+        "state": "North-Dakota"
+    },
+    "NA98": {
+        "lat": 46.3025016785,
+        "long": -103.1699981689,
+        "name": "Dilse Private Airstrip",
+        "state": "North-Dakota"
+    },
+    "NA99": {
+        "lat": 46.5504989624,
+        "long": -97.0319976807,
+        "name": "Bakko Airstrip",
+        "state": "North-Dakota"
+    },
+    "ND01": {
+        "lat": 47.0457992554,
+        "long": -97.1865005493,
+        "name": "Nelson ",
+        "state": "North-Dakota"
+    },
+    "ND02": {
+        "lat": 47.8111000061,
+        "long": -97.9600982666,
+        "name": "Ricketyback Field",
+        "state": "North-Dakota"
+    },
+    "ND07": {
+        "lat": 47.0027999878,
+        "long": -97.4072036743,
+        "name": "Punton Private ",
+        "state": "North-Dakota"
+    },
+    "ND09": {
+        "lat": 47.1911010742,
+        "long": -98.1689987183,
+        "name": "Bryn ",
+        "state": "North-Dakota"
+    },
+    "ND10": {
+        "lat": 46.5489006042,
+        "long": -96.7864990234,
+        "name": "Flying-N-Ranch ",
+        "state": "North-Dakota"
+    },
+    "ND14": {
+        "lat": 48.2346992493,
+        "long": -97.8018035889,
+        "name": "Fordville ",
+        "state": "North-Dakota"
+    },
+    "ND16": {
+        "lat": 47.4416999817,
+        "long": -102.2419967651,
+        "name": "Frei Private ",
+        "state": "North-Dakota"
+    },
+    "ND18": {
+        "lat": 48.506401062,
+        "long": -101.2170028687,
+        "name": "Judy Strip",
+        "state": "North-Dakota"
+    },
+    "ND20": {
+        "lat": 47.7042007446,
+        "long": -97.3500976563,
+        "name": "Gensrich ",
+        "state": "North-Dakota"
+    },
+    "ND22": {
+        "lat": 47.6833000183,
+        "long": -101.5999984741,
+        "name": "Fischer Private ",
+        "state": "North-Dakota"
+    },
+    "ND23": {
+        "lat": 48.1880989075,
+        "long": -103.6200027466,
+        "name": "Wright Field",
+        "state": "North-Dakota"
+    },
+    "ND24": {
+        "lat": 48.1403007507,
+        "long": -97.6725997925,
+        "name": "Inkster ",
+        "state": "North-Dakota"
+    },
+    "ND26": {
+        "lat": 47.9000015259,
+        "long": -103.658996582,
+        "name": "Gajewski Field",
+        "state": "North-Dakota"
+    },
+    "ND29": {
+        "lat": 46.6666984558,
+        "long": -103.2340011597,
+        "name": "Swenson ",
+        "state": "North-Dakota"
+    },
+    "ND32": {
+        "lat": 46.9155006409,
+        "long": -99.8945007324,
+        "name": "Kalainov Private ",
+        "state": "North-Dakota"
+    },
+    "ND34": {
+        "lat": 48.2750015259,
+        "long": -103.3499984741,
+        "name": "Moen ",
+        "state": "North-Dakota"
+    },
+    "ND35": {
+        "lat": 46.7000007629,
+        "long": -97.7004013062,
+        "name": "Lindemann ",
+        "state": "North-Dakota"
+    },
+    "ND36": {
+        "lat": 48.6380004883,
+        "long": -97.4848022461,
+        "name": "Don's ",
+        "state": "North-Dakota"
+    },
+    "ND38": {
+        "lat": 47.9583015442,
+        "long": -99.5364990234,
+        "name": "Rices Airpark",
+        "state": "North-Dakota"
+    },
+    "ND40": {
+        "lat": 46.8166999817,
+        "long": -99.2503967285,
+        "name": "Rau Field",
+        "state": "North-Dakota"
+    },
+    "ND41": {
+        "lat": 46.1347007751,
+        "long": -100.1129989624,
+        "name": "Voller ",
+        "state": "North-Dakota"
+    },
+    "ND42": {
+        "lat": 48.103099823,
+        "long": -101.0780029297,
+        "name": "Warren Pietsch ",
+        "state": "North-Dakota"
+    },
+    "ND43": {
+        "lat": 48.2000007629,
+        "long": -101.4039993286,
+        "name": "Flying S Ranch ",
+        "state": "North-Dakota"
+    },
+    "ND44": {
+        "lat": 47.46670151,
+        "long": -101.1340027,
+        "name": "Underwood ",
+        "state": "North-Dakota"
+    },
+    "ND47": {
+        "lat": 46.6408004761,
+        "long": -97.5511016846,
+        "name": "Geske Airfield",
+        "state": "North-Dakota"
+    },
+    "ND49": {
+        "lat": 46.2235984802,
+        "long": -97.1304016113,
+        "name": "Krause Private ",
+        "state": "North-Dakota"
+    },
+    "ND52": {
+        "lat": 46.8027992249,
+        "long": -97.0121994019,
+        "name": "True North Airpark",
+        "state": "North-Dakota"
+    },
+    "ND54": {
+        "lat": 47.1291999817,
+        "long": -99.7304000854,
+        "name": "Whitman Field",
+        "state": "North-Dakota"
+    },
+    "ND59": {
+        "lat": 46.9874992371,
+        "long": -97.5295028687,
+        "name": "Grieve ",
+        "state": "North-Dakota"
+    },
+    "ND60": {
+        "lat": 47.9589004517,
+        "long": -97.4797973633,
+        "name": "Frokjer ",
+        "state": "North-Dakota"
+    },
+    "ND62": {
+        "lat": 46.8483009338,
+        "long": -102.4580001831,
+        "name": "Brands ",
+        "state": "North-Dakota"
+    },
+    "ND65": {
+        "lat": 46.988899231,
+        "long": -101.3539962769,
+        "name": "Letzring ",
+        "state": "North-Dakota"
+    },
+    "ND68": {
+        "lat": 46.9557991028,
+        "long": -97.3012008667,
+        "name": "Vining ",
+        "state": "North-Dakota"
+    },
+    "ND72": {
+        "lat": 47.6843986511,
+        "long": -100.0849990845,
+        "name": "Lonetree Airstrip",
+        "state": "North-Dakota"
+    },
+    "ND73": {
+        "lat": 47.0483016968,
+        "long": -97.2555999756,
+        "name": "Peterson ",
+        "state": "North-Dakota"
+    },
+    "ND74": {
+        "lat": 47.0166015625,
+        "long": -97.162902832,
+        "name": "Smith Private ",
+        "state": "North-Dakota"
+    },
+    "ND75": {
+        "lat": 47.7200012207,
+        "long": -100.2689971924,
+        "name": "Pete's Tractor Salvage ",
+        "state": "North-Dakota"
+    },
+    "ND76": {
+        "lat": 47.0597000122,
+        "long": -97.1567993164,
+        "name": "Turner Field",
+        "state": "North-Dakota"
+    },
+    "ND78": {
+        "lat": 47.0400009155,
+        "long": -97.5370025635,
+        "name": "Wilcox Farm ",
+        "state": "North-Dakota"
+    },
+    "ND80": {
+        "lat": 47.0816993713,
+        "long": -100.7249984741,
+        "name": "Spitzer ",
+        "state": "North-Dakota"
+    },
+    "ND85": {
+        "lat": 46.4930992126,
+        "long": -100.1790008545,
+        "name": "Humann Private Airstrip",
+        "state": "North-Dakota"
+    },
+    "ND86": {
+        "lat": 48.5638999939,
+        "long": -103.9629974365,
+        "name": "Peterson ",
+        "state": "North-Dakota"
+    },
+    "ND87": {
+        "lat": 47.6055984497,
+        "long": -102.1050033569,
+        "name": "Indian Hill Resort ",
+        "state": "North-Dakota"
+    },
+    "ND89": {
+        "lat": 47.0558013916,
+        "long": -98.5070037842,
+        "name": "Mutschler Field",
+        "state": "North-Dakota"
+    },
+    "ND90": {
+        "lat": 45.9665985107,
+        "long": -97.7337036133,
+        "name": "Dahl Private ",
+        "state": "North-Dakota"
+    },
+    "ND92": {
+        "lat": 46.7083015442,
+        "long": -97.1169967651,
+        "name": "Schroeder ",
+        "state": "North-Dakota"
+    },
+    "ND96": {
+        "lat": 46.801700592,
+        "long": -100.6790008545,
+        "name": "Sauter ",
+        "state": "North-Dakota"
+    },
+    "ND98": {
+        "lat": 46.760799408,
+        "long": -100.6549987793,
+        "name": "Cloud Nine ",
+        "state": "North-Dakota"
+    },
+    "ND99": {
+        "lat": 46.720199585,
+        "long": -96.8095016479,
+        "name": "Ellig Field",
+        "state": "North-Dakota"
+    },
+    "SD74": {
+        "lat": 45.9954986572,
+        "long": -100.3759994507,
+        "name": "Vander Wal Private ",
+        "state": "North-Dakota"
+    }
+}

@@ -1,0 +1,152 @@
+{
+  "DN50": {
+    "lat": 9.8846502304,
+    "long": 6.8186302185,
+    "name": "Shiroro "
+  },
+  "DN51": {
+    "lat": 7.4572401047,
+    "long": 6.4611301422,
+    "name": "Ajaokuta "
+  },
+  "DN53": {
+    "lat": 10.5988998413,
+    "long": 7.4487099648,
+    "name": "Kaduna Old "
+  },
+  "DN54": {
+    "lat": 10.9198999405,
+    "long": 11.5011997223,
+    "name": "Bajoga Northeast "
+  },
+  "DN55": {
+    "lat": 4.642179966,
+    "long": 7.9490399361,
+    "name": "Eket "
+  },
+  "DN56": {
+    "lat": 5.6253199577,
+    "long": 5.1923799515,
+    "name": "Escravos "
+  },
+  "DNAA": {
+    "lat": 9.0067901611,
+    "long": 7.2631697655,
+    "name": "Nnamdi Azikiwe International "
+  },
+  "DNAK": {
+    "lat": 7.2467398643,
+    "long": 5.3010101318,
+    "name": "Akure "
+  },
+  "DNAS": {
+    "lat": 6.2033333333,
+    "long": 6.6588888889,
+    "name": "Asaba International "
+  },
+  "DNBE": {
+    "lat": 6.3169798851,
+    "long": 5.5995001793,
+    "name": "Benin "
+  },
+  "DNBI": {
+    "lat": 9.1000003815,
+    "long": 6.0170001984,
+    "name": "Bida "
+  },
+  "DNCA": {
+    "lat": 4.9760198593,
+    "long": 8.3472003937,
+    "name": "Margaret Ekpo International "
+  },
+  "DNEN": {
+    "lat": 6.4742698669,
+    "long": 7.5619602203,
+    "name": "Akanu Ibiam International "
+  },
+  "DNGO": {
+    "lat": 10.2983333333,
+    "long": 10.8963888889,
+    "name": "Gombe Lawanti International "
+  },
+  "DNGU": {
+    "lat": 12.1716995239,
+    "long": 6.6961097717,
+    "name": "Gusau "
+  },
+  "DNIB": {
+    "lat": 7.3624601364,
+    "long": 3.9783298969,
+    "name": "Ibadan "
+  },
+  "DNIL": {
+    "lat": 8.4402103424,
+    "long": 4.4939198494,
+    "name": "Ilorin International "
+  },
+  "DNIM": {
+    "lat": 5.4270601273,
+    "long": 7.206029892,
+    "name": "Sam Mbakwe International "
+  },
+  "DNJO": {
+    "lat": 9.6398296356,
+    "long": 8.8690500259,
+    "name": "Yakubu Gowon "
+  },
+  "DNKA": {
+    "lat": 10.6960000992,
+    "long": 7.3201098442,
+    "name": "Kaduna "
+  },
+  "DNKN": {
+    "lat": 12.0475997925,
+    "long": 8.5246200562,
+    "name": "Mallam Aminu International "
+  },
+  "DNMA": {
+    "lat": 11.8552999496,
+    "long": 13.0809001923,
+    "name": "Maiduguri International "
+  },
+  "DNMK": {
+    "lat": 7.7038798332,
+    "long": 8.613940239,
+    "name": "Makurdi "
+  },
+  "DNMM": {
+    "lat": 6.5773701668,
+    "long": 3.321160078,
+    "name": "Murtala Muhammed International "
+  },
+  "DNMN": {
+    "lat": 9.6521701813,
+    "long": 6.4622597694,
+    "name": "Minna "
+  },
+  "DNOS": {
+    "lat": 7.7829999924,
+    "long": 4.4829998016,
+    "name": "Oshogbo "
+  },
+  "DNPO": {
+    "lat": 5.0154900551,
+    "long": 6.9495902061,
+    "name": "Port Harcourt International "
+  },
+  "DNSO": {
+    "lat": 12.9162998199,
+    "long": 5.2071900368,
+    "name": "Sadiq Abubakar III International "
+  },
+  "DNYO": {
+    "lat": 9.2575502396,
+    "long": 12.4303998947,
+    "name": "Yola "
+  },
+  "DNZA": {
+    "lat": 11.130200386,
+    "long": 7.6858100891,
+    "name": "Zaria "
+  }
+}

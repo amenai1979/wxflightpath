@@ -1,0 +1,42 @@
+{
+  "DGAA": {
+    "lat": 5.6051898003,
+    "long": -0.1667860001,
+    "name": "Kotoka International "
+  },
+  "DGLE": {
+    "lat": 9.5571899414,
+    "long": -0.863214016,
+    "name": "Tamale "
+  },
+  "DGLN": {
+    "lat": 10.8999996185,
+    "long": -1.1000000238,
+    "name": "Navrongo "
+  },
+  "DGLW": {
+    "lat": 10.0826997757,
+    "long": -2.5076899529,
+    "name": "Wa "
+  },
+  "DGLY": {
+    "lat": 9.4250001907,
+    "long": -0.0047220001,
+    "name": "Yendi "
+  },
+  "DGSI": {
+    "lat": 6.7145600319,
+    "long": -1.5908199549,
+    "name": "Kumasi "
+  },
+  "DGSN": {
+    "lat": 7.3618302345,
+    "long": -2.3287599087,
+    "name": "Sunyani "
+  },
+  "DGTK": {
+    "lat": 4.8960599899,
+    "long": -1.7747600079,
+    "name": "Takoradi "
+  }
+}

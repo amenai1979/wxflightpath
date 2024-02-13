@@ -1,0 +1,282 @@
+{
+  "DA10": {
+    "lat": 26.573600769,
+    "long": 8.4836597443,
+    "name": "Illizi "
+  },
+  "DA11": {
+    "lat": 30.8789997101,
+    "long": -3.0677499771,
+    "name": "Hamaguir "
+  },
+  "DA12": {
+    "lat": 32.8984985352,
+    "long": 0.5246940255,
+    "name": "El Abiodh Sidi Cheikh "
+  },
+  "DA13": {
+    "lat": 28.8792991638,
+    "long": -5.8228998184,
+    "name": "Tinfouchy "
+  },
+  "DA14": {
+    "lat": 35.9087982178,
+    "long": 0.1493829936,
+    "name": "Mostaganem "
+  },
+  "DA15": {
+    "lat": 34.8972015381,
+    "long": 0.1516939998,
+    "name": "Saida "
+  },
+  "DA16": {
+    "lat": 27.585899353,
+    "long": -7.5001101494,
+    "name": "Tindouf East "
+  },
+  "DAAB": {
+    "lat": 36.5036010742,
+    "long": 2.8141698837,
+    "name": "Blida "
+  },
+  "DAAD": {
+    "lat": 35.3325004578,
+    "long": 4.206389904,
+    "name": "Bou Saada "
+  },
+  "DAAE": {
+    "lat": 36.7120018005,
+    "long": 5.069920063,
+    "name": "Soummam "
+  },
+  "DAAG": {
+    "lat": 36.6910018921,
+    "long": 3.2154099941,
+    "name": "Houari Boumediene "
+  },
+  "DAAJ": {
+    "lat": 24.2928009033,
+    "long": 9.4524402618,
+    "name": "Djanet Inedbirene "
+  },
+  "DAAK": {
+    "lat": 36.5457992554,
+    "long": 2.8761100769,
+    "name": "Boufarik "
+  },
+  "DAAM": {
+    "lat": 36.1086997986,
+    "long": 6.3646001816,
+    "name": "Telerghma "
+  },
+  "DAAN": {
+    "lat": 26.710100174,
+    "long": 0.2856470048,
+    "name": "Reggane "
+  },
+  "DAAP": {
+    "lat": 26.7234992981,
+    "long": 8.6226501465,
+    "name": "Illizi Takhamalt "
+  },
+  "DAAQ": {
+    "lat": 35.5253982544,
+    "long": 2.8787100315,
+    "name": "Ain Oussera "
+  },
+  "DAAS": {
+    "lat": 36.1781005859,
+    "long": 5.3244900703,
+    "name": "Ain Arnat "
+  },
+  "DAAT": {
+    "lat": 22.8115005493,
+    "long": 5.4510798454,
+    "name": "Aguenar \u2013 Hadj Bey Akhamok "
+  },
+  "DAAV": {
+    "lat": 36.7951011658,
+    "long": 5.8736100197,
+    "name": "Jijel Ferhat Abbas "
+  },
+  "DAAW": {
+    "lat": 28.1313991547,
+    "long": 6.8336100578,
+    "name": "Bordj Omar Driss "
+  },
+  "DAAY": {
+    "lat": 33.535900116,
+    "long": -0.2423530072,
+    "name": "Mecheria "
+  },
+  "DAAZ": {
+    "lat": 35.7522010803,
+    "long": 0.6262720227,
+    "name": "Relizane "
+  },
+  "DABB": {
+    "lat": 36.8222007751,
+    "long": 7.8091697693,
+    "name": "Annaba "
+  },
+  "DABC": {
+    "lat": 36.2760009766,
+    "long": 6.6203899384,
+    "name": "Mohamed Boudiaf International "
+  },
+  "DABO": {
+    "lat": 35.879699707,
+    "long": 7.2708001137,
+    "name": "Oum el Bouaghi "
+  },
+  "DABS": {
+    "lat": 35.4315986633,
+    "long": 8.1207199097,
+    "name": "Cheikh Larbi Tebessi "
+  },
+  "DABT": {
+    "lat": 35.7521018982,
+    "long": 6.3085899353,
+    "name": "Batna "
+  },
+  "DAFH": {
+    "lat": 32.9304008484,
+    "long": 3.3115398884,
+    "name": "Hassi R'Mel "
+  },
+  "DAFI": {
+    "lat": 34.6657,
+    "long": 3.351,
+    "name": "Tsletsi "
+  },
+  "DAOB": {
+    "lat": 35.3410987854,
+    "long": 1.4631500244,
+    "name": "Bou Chekif "
+  },
+  "DAOC": {
+    "lat": 31.6424999237,
+    "long": -2.1838901043,
+    "name": "Ouakda "
+  },
+  "DAOE": {
+    "lat": 35.7354011536,
+    "long": -0.8053889871,
+    "name": "Bou Sfer "
+  },
+  "DAOF": {
+    "lat": 27.7003993988,
+    "long": -8.1670999527,
+    "name": "Tindouf "
+  },
+  "DAOI": {
+    "lat": 36.2126998901,
+    "long": 1.3317699432,
+    "name": "Ech Cheliff "
+  },
+  "DAOL": {
+    "lat": 35.5424003601,
+    "long": -0.5322780013,
+    "name": "Tafaraoui "
+  },
+  "DAON": {
+    "lat": 35.0167007446,
+    "long": -1.4500000477,
+    "name": "Zenata \u2013 Messali El Hadj "
+  },
+  "DAOO": {
+    "lat": 35.6239013672,
+    "long": -0.6211829782,
+    "name": "Es Senia "
+  },
+  "DAOR": {
+    "lat": 31.6457004547,
+    "long": -2.2698600292,
+    "name": "Bechar Boudghene Ben Ali Lotfi "
+  },
+  "DAOS": {
+    "lat": 35.1717987061,
+    "long": -0.5932750106,
+    "name": "Sidi Bel Abbes "
+  },
+  "DAOV": {
+    "lat": 35.207698822,
+    "long": 0.147141993,
+    "name": "Ghriss "
+  },
+  "DAOY": {
+    "lat": 33.7216666667,
+    "long": 1.0925,
+    "name": "El Bayadh "
+  },
+  "DATG": {
+    "lat": 19.5669994354,
+    "long": 5.75,
+    "name": "In Guezzam "
+  },
+  "DATM": {
+    "lat": 21.375,
+    "long": 0.9238889813,
+    "name": "Bordj Badji Mokhtar "
+  },
+  "DAUA": {
+    "lat": 27.837600708,
+    "long": -0.1864140034,
+    "name": "Touat Cheikh Sidi Mohamed Belkebir "
+  },
+  "DAUB": {
+    "lat": 34.7933006287,
+    "long": 5.7382302284,
+    "name": "Biskra "
+  },
+  "DAUE": {
+    "lat": 30.5713005066,
+    "long": 2.8595900536,
+    "name": "El Golea "
+  },
+  "DAUG": {
+    "lat": 32.3841018677,
+    "long": 3.7941100597,
+    "name": "Noumerat - Moufdi Zakaria "
+  },
+  "DAUH": {
+    "lat": 31.6730003357,
+    "long": 6.1404399872,
+    "name": "Oued Irara "
+  },
+  "DAUI": {
+    "lat": 27.2509994507,
+    "long": 2.5120201111,
+    "name": "In Salah "
+  },
+  "DAUK": {
+    "lat": 33.0677986145,
+    "long": 6.0886697769,
+    "name": "Touggourt Sidi Madhi "
+  },
+  "DAUL": {
+    "lat": 33.7644004822,
+    "long": 2.9283399582,
+    "name": "Laghouat "
+  },
+  "DAUO": {
+    "lat": 33.5113983154,
+    "long": 6.7767901421,
+    "name": "Guemar "
+  },
+  "DAUT": {
+    "lat": 29.2371006012,
+    "long": 0.2760330141,
+    "name": "Timimoun "
+  },
+  "DAUU": {
+    "lat": 31.9172000885,
+    "long": 5.412779808,
+    "name": "Ain el Beida "
+  },
+  "DAUZ": {
+    "lat": 28.0515003204,
+    "long": 9.6429100037,
+    "name": "In Amenas "
+  }
+}

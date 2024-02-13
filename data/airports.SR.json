@@ -1,0 +1,142 @@
+{
+  "SMAF": {
+    "lat": 4.998505,
+    "long": -54.992033,
+    "name": "Afobakka Airstrip"
+  },
+  "SMBN": {
+    "lat": 5.512720108,
+    "long": -54.0500984192,
+    "name": "Albina "
+  },
+  "SMBO": {
+    "lat": 4.2175110935,
+    "long": -55.4470539093,
+    "name": "Botopasi "
+  },
+  "SMCA": {
+    "lat": 3.898681,
+    "long": -55.577907,
+    "name": "Cayana Airstrip"
+  },
+  "SMCI": {
+    "lat": 3.367000103,
+    "long": -57.3330001831,
+    "name": "Coeroeni "
+  },
+  "SMCO": {
+    "lat": 5.8658299446,
+    "long": -56.3274993896,
+    "name": "Totness "
+  },
+  "SMCT": {
+    "lat": 3.85216,
+    "long": -54.228201,
+    "name": "Cottica Airstrip"
+  },
+  "SMDA": {
+    "lat": 4.1166667938,
+    "long": -54.6666717529,
+    "name": "Drietabbetje "
+  },
+  "SMDJ": {
+    "lat": 4.0057126106,
+    "long": -55.4816436768,
+    "name": "Djumu-Djomoe "
+  },
+  "SMDO": {
+    "lat": 4.3761082835,
+    "long": -55.4070568085,
+    "name": "Ladouanie "
+  },
+  "SMDU": {
+    "lat": 2.5235,
+    "long": -56.3247,
+    "name": "Alalapadu Airstrip"
+  },
+  "SMGH": {
+    "lat": 4.0583,
+    "long": -54.7861,
+    "name": "Godo Holo Airstrip"
+  },
+  "SMJP": {
+    "lat": 5.4528298378,
+    "long": -55.1878013611,
+    "name": "Johan Adolf Pengel International "
+  },
+  "SMKA": {
+    "lat": 4.4060001373,
+    "long": -57.2229995728,
+    "name": "Kabalebo "
+  },
+  "SMKE": {
+    "lat": 3.0999999046,
+    "long": -56.483001709,
+    "name": "Kayser "
+  },
+  "SMMO": {
+    "lat": 5.6076,
+    "long": -54.4003,
+    "name": "Moengo Airstrip"
+  },
+  "SMNI": {
+    "lat": 5.9555602074,
+    "long": -57.0393981934,
+    "name": "Nieuw Nickerie "
+  },
+  "SMPA": {
+    "lat": 3.345279932,
+    "long": -55.4425010681,
+    "name": "Vincent Fayks "
+  },
+  "SMPG": {
+    "lat": 4.397914,
+    "long": -55.793374,
+    "name": "Poesoegroenoe(Pusugrunu) Airstrip"
+  },
+  "SMSI": {
+    "lat": 1.9660500288,
+    "long": -56.0035018921,
+    "name": "Sipaliwini "
+  },
+  "SMSM": {
+    "lat": 2.333329916,
+    "long": -56.7833328247,
+    "name": "Kwamalasoemoetoe  "
+  },
+  "SMST": {
+    "lat": 4.3499999046,
+    "long": -54.4166679382,
+    "name": "Stoelmanseiland "
+  },
+  "SMTA": {
+    "lat": 3.619932,
+    "long": -54.142714,
+    "name": "Tabiki Airstrip"
+  },
+  "SMTB": {
+    "lat": 3.7829999924,
+    "long": -56.1500015259,
+    "name": "Rudi Kappel "
+  },
+  "SMTP": {
+    "lat": 3.1500000954,
+    "long": -55.716999054,
+    "name": "Tepoe Airstrip"
+  },
+  "SMWA": {
+    "lat": 5.7666668892,
+    "long": -56.6333312988,
+    "name": "Wageningen  "
+  },
+  "SMWS": {
+    "lat": 5.2501502037,
+    "long": -57.1738014221,
+    "name": "Washabo "
+  },
+  "SMZO": {
+    "lat": 5.8110799789,
+    "long": -55.190700531,
+    "name": "Zorg en Hoop "
+  }
+}

@@ -1,0 +1,762 @@
+{
+  "ESCF": {
+    "lat": 58.4023017883,
+    "long": 15.5256996155,
+    "name": "Malmen Air Base"
+  },
+  "ESCM": {
+    "lat": 59.8973007202,
+    "long": 17.5886001587,
+    "name": "Uppsala "
+  },
+  "ESDF": {
+    "lat": 56.2667007446,
+    "long": 15.2650003433,
+    "name": "Ronneby "
+  },
+  "ESFA": {
+    "lat": 56.1344069918,
+    "long": 13.8756465912,
+    "name": "Hassleholm Bokeberg "
+  },
+  "ESFH": {
+    "lat": 58.4096984863,
+    "long": 13.2630996704,
+    "name": "Hasslosa Air Base"
+  },
+  "ESFM": {
+    "lat": 58.5974998474,
+    "long": 14.1108999252,
+    "name": "Moholm Air Base"
+  },
+  "ESFQ": {
+    "lat": 56.8445014954,
+    "long": 15.4527997971,
+    "name": "Kosta Air Base"
+  },
+  "ESFR": {
+    "lat": 58.4981002808,
+    "long": 13.0531997681,
+    "name": "Rada Air Base"
+  },
+  "ESFS": {
+    "lat": 57.0680999756,
+    "long": 16.8612995148,
+    "name": "Sandvik "
+  },
+  "ESGA": {
+    "lat": 58.1772003174,
+    "long": 11.9735002518,
+    "name": "Backamo "
+  },
+  "ESGC": {
+    "lat": 58.1344985962,
+    "long": 13.6026000977,
+    "name": "Alleberg "
+  },
+  "ESGD": {
+    "lat": 58.1917991638,
+    "long": 13.9956998825,
+    "name": "Bammelshed "
+  },
+  "ESGE": {
+    "lat": 57.6955986023,
+    "long": 12.8428001404,
+    "name": "Viared "
+  },
+  "ESGF": {
+    "lat": 56.9712982178,
+    "long": 12.3891000748,
+    "name": "Morup "
+  },
+  "ESGG": {
+    "lat": 57.6627998352,
+    "long": 12.279800415,
+    "name": "Gothenburg-Landvetter "
+  },
+  "ESGH": {
+    "lat": 58.0293006897,
+    "long": 13.1082000732,
+    "name": "Herrljunga "
+  },
+  "ESGI": {
+    "lat": 57.949798584,
+    "long": 12.5780000687,
+    "name": "Alingsas "
+  },
+  "ESGJ": {
+    "lat": 57.757598877,
+    "long": 14.0686998367,
+    "name": "Jonkoping "
+  },
+  "ESGK": {
+    "lat": 58.1697998047,
+    "long": 13.5878000259,
+    "name": "Falkoping "
+  },
+  "ESGL": {
+    "lat": 58.4654998779,
+    "long": 13.1744003296,
+    "name": "Lidkoping-Hovby "
+  },
+  "ESGM": {
+    "lat": 57.4453010559,
+    "long": 12.6490001678,
+    "name": "Oresten "
+  },
+  "ESGN": {
+    "lat": 58.5786018372,
+    "long": 13.6106004715,
+    "name": "Brannebrona "
+  },
+  "ESGO": {
+    "lat": 58.0393981934,
+    "long": 12.7889003754,
+    "name": "Vargarda "
+  },
+  "ESGP": {
+    "lat": 57.7747001648,
+    "long": 11.8704004288,
+    "name": "Gothenburg City "
+  },
+  "ESGR": {
+    "lat": 58.456401825,
+    "long": 13.972700119,
+    "name": "Skovde "
+  },
+  "ESGS": {
+    "lat": 59.0167999268,
+    "long": 11.3437004089,
+    "name": "Nasinge "
+  },
+  "ESGT": {
+    "lat": 58.3180999756,
+    "long": 12.345000267,
+    "name": "Trollhattan-Vanersborg "
+  },
+  "ESGU": {
+    "lat": 58.3675994873,
+    "long": 11.7754001617,
+    "name": "Rorkarr "
+  },
+  "ESGV": {
+    "lat": 57.1245994568,
+    "long": 12.2283000946,
+    "name": "Varberg Getteron airfield"
+  },
+  "ESGY": {
+    "lat": 59.0912017822,
+    "long": 12.9586000443,
+    "name": "Saffle "
+  },
+  "ESIA": {
+    "lat": 58.5138015747,
+    "long": 14.5071001053,
+    "name": "Karlsborg Air Base"
+  },
+  "ESIB": {
+    "lat": 58.426399231,
+    "long": 12.7144002914,
+    "name": "Satenas Air Base"
+  },
+  "ESKA": {
+    "lat": 60.1328010559,
+    "long": 18.1049003601,
+    "name": "Gimo Air Base"
+  },
+  "ESKC": {
+    "lat": 59.9226989746,
+    "long": 17.5368003845,
+    "name": "Sundbro "
+  },
+  "ESKD": {
+    "lat": 60.556098938,
+    "long": 14.3770999908,
+    "name": "Dala Jarna "
+  },
+  "ESKG": {
+    "lat": 60.2869987488,
+    "long": 17.4216995239,
+    "name": "Gryttjom "
+  },
+  "ESKH": {
+    "lat": 60.154800415,
+    "long": 13.5285997391,
+    "name": "Eksharad "
+  },
+  "ESKK": {
+    "lat": 59.3459014893,
+    "long": 14.4959001541,
+    "name": "Karlskoga "
+  },
+  "ESKM": {
+    "lat": 60.957901001,
+    "long": 14.5114002228,
+    "name": "Mora "
+  },
+  "ESKN": {
+    "lat": 58.7886009216,
+    "long": 16.9122009277,
+    "name": "Stockholm Skavsta "
+  },
+  "ESKO": {
+    "lat": 59.7988014221,
+    "long": 13.4906997681,
+    "name": "Munkfors "
+  },
+  "ESKT": {
+    "lat": 60.3450012207,
+    "long": 17.4218997955,
+    "name": "Tierp Air Base"
+  },
+  "ESKU": {
+    "lat": 59.8601989746,
+    "long": 13.1128997803,
+    "name": "Sunne "
+  },
+  "ESKV": {
+    "lat": 59.6758995056,
+    "long": 12.6393995285,
+    "name": "Arvika "
+  },
+  "ESKX": {
+    "lat": 58.7907981873,
+    "long": 16.5711994171,
+    "name": "Bjorkvik Air Base"
+  },
+  "ESMA": {
+    "lat": 56.6108016968,
+    "long": 15.6048002243,
+    "name": "Emmaboda "
+  },
+  "ESMB": {
+    "lat": 56.8629989624,
+    "long": 16.6560993195,
+    "name": "Borglanda "
+  },
+  "ESMC": {
+    "lat": 57.6706008911,
+    "long": 14.9429998398,
+    "name": "Ranneslatt "
+  },
+  "ESME": {
+    "lat": 55.8483009338,
+    "long": 13.3283004761,
+    "name": "Eslov "
+  },
+  "ESMF": {
+    "lat": 56.3879013062,
+    "long": 13.4706001282,
+    "name": "Fagerhult "
+  },
+  "ESMG": {
+    "lat": 56.9502983093,
+    "long": 13.9216995239,
+    "name": "Feringe "
+  },
+  "ESMH": {
+    "lat": 56.1847991943,
+    "long": 12.5761003494,
+    "name": "Hoganas "
+  },
+  "ESMI": {
+    "lat": 55.5982017517,
+    "long": 13.6746997833,
+    "name": "Sjobo/Sovde "
+  },
+  "ESMJ": {
+    "lat": 55.9947013855,
+    "long": 13.0509004593,
+    "name": "Kagerod "
+  },
+  "ESMK": {
+    "lat": 55.9216995239,
+    "long": 14.0854997635,
+    "name": "Kristianstad "
+  },
+  "ESML": {
+    "lat": 55.9459991455,
+    "long": 12.8699998856,
+    "name": "Landskrona "
+  },
+  "ESMO": {
+    "lat": 57.3504981995,
+    "long": 16.4979991913,
+    "name": "Oskarshamn "
+  },
+  "ESMP": {
+    "lat": 57.2641983032,
+    "long": 13.5993995667,
+    "name": "Anderstorp "
+  },
+  "ESMQ": {
+    "lat": 56.6855010986,
+    "long": 16.2875995636,
+    "name": "Kalmar "
+  },
+  "ESMS": {
+    "lat": 55.536305364,
+    "long": 13.3761978149,
+    "name": "Malmo Sturup "
+  },
+  "ESMT": {
+    "lat": 56.6911010742,
+    "long": 12.8201999664,
+    "name": "Halmstad "
+  },
+  "ESMU": {
+    "lat": 56.5707015991,
+    "long": 14.1665000916,
+    "name": "Mockeln "
+  },
+  "ESMV": {
+    "lat": 57.2921981812,
+    "long": 14.1372003555,
+    "name": "Hagshult "
+  },
+  "ESMX": {
+    "lat": 56.9291000366,
+    "long": 14.7279996872,
+    "name": "Vaxjo Kronoberg "
+  },
+  "ESMY": {
+    "lat": 57.168598175,
+    "long": 13.440199852,
+    "name": "Smalandsstenar Smalanda "
+  },
+  "ESMZ": {
+    "lat": 57.3282356084,
+    "long": 17.0505237579,
+    "name": "Olanda "
+  },
+  "ESNA": {
+    "lat": 63.7383003235,
+    "long": 15.4582996368,
+    "name": "Hallviken "
+  },
+  "ESNB": {
+    "lat": 63.1711997986,
+    "long": 16.985200882,
+    "name": "Solleftea "
+  },
+  "ESNC": {
+    "lat": 62.4089012146,
+    "long": 13.7472000122,
+    "name": "Hedlanda "
+  },
+  "ESND": {
+    "lat": 62.0477981567,
+    "long": 14.4229001999,
+    "name": "Sveg "
+  },
+  "ESNE": {
+    "lat": 66.5287017822,
+    "long": 22.3500003815,
+    "name": "Overkalix "
+  },
+  "ESNF": {
+    "lat": 61.8979988098,
+    "long": 15.7053003311,
+    "name": "Farila Air Base"
+  },
+  "ESNG": {
+    "lat": 67.1324005127,
+    "long": 20.8145999908,
+    "name": "Gallivare "
+  },
+  "ESNI": {
+    "lat": 63.6324996948,
+    "long": 17.936000824,
+    "name": "Kubbe Air Base"
+  },
+  "ESNJ": {
+    "lat": 66.4962005615,
+    "long": 20.1471996307,
+    "name": "Jokkmokk "
+  },
+  "ESNK": {
+    "lat": 63.0485992432,
+    "long": 17.7688999176,
+    "name": "Kramfors Solleftea "
+  },
+  "ESNL": {
+    "lat": 64.5483016968,
+    "long": 18.7161998749,
+    "name": "Lycksele "
+  },
+  "ESNM": {
+    "lat": 63.1286010742,
+    "long": 14.8028001785,
+    "name": "Optand "
+  },
+  "ESNN": {
+    "lat": 62.5280990601,
+    "long": 17.4438991547,
+    "name": "Sundsvall-Harnosand "
+  },
+  "ESNO": {
+    "lat": 63.4082984924,
+    "long": 18.9899997711,
+    "name": "Ornskoldsvik "
+  },
+  "ESNP": {
+    "lat": 65.3983001709,
+    "long": 21.260799408,
+    "name": "Pitea "
+  },
+  "ESNQ": {
+    "lat": 67.8219985962,
+    "long": 20.3367996216,
+    "name": "Kiruna "
+  },
+  "ESNR": {
+    "lat": 61.1899986267,
+    "long": 14.7125997543,
+    "name": "Orsa "
+  },
+  "ESNS": {
+    "lat": 64.6248016357,
+    "long": 21.0769004822,
+    "name": "Skelleftea "
+  },
+  "ESNT": {
+    "lat": 62.4813995361,
+    "long": 17.0028991699,
+    "name": "Sattna "
+  },
+  "ESNU": {
+    "lat": 63.7918014526,
+    "long": 20.2828006744,
+    "name": "Umea "
+  },
+  "ESNV": {
+    "lat": 64.5791015625,
+    "long": 16.8335990906,
+    "name": "Vilhelmina "
+  },
+  "ESNX": {
+    "lat": 65.5903015137,
+    "long": 19.2819004059,
+    "name": "Arvidsjaur "
+  },
+  "ESNY": {
+    "lat": 61.2615013123,
+    "long": 17.0991001129,
+    "name": "Soderhamn "
+  },
+  "ESNZ": {
+    "lat": 63.1944007874,
+    "long": 14.5003004074,
+    "name": "Ostersund "
+  },
+  "ESOE": {
+    "lat": 59.2237014771,
+    "long": 15.0380001068,
+    "name": "Orebro "
+  },
+  "ESOH": {
+    "lat": 60.0200996399,
+    "long": 13.5789003372,
+    "name": "Hagfors "
+  },
+  "ESOK": {
+    "lat": 59.4446983337,
+    "long": 13.3374004364,
+    "name": "Karlstad "
+  },
+  "ESOL": {
+    "lat": 60.5878982544,
+    "long": 16.5867996216,
+    "name": "Lemstanas "
+  },
+  "ESOW": {
+    "lat": 59.5894012451,
+    "long": 16.633600235,
+    "name": "Stockholm Vasteras "
+  },
+  "ESPA": {
+    "lat": 65.543800354,
+    "long": 22.1219997406,
+    "name": "Lulea "
+  },
+  "ESPE": {
+    "lat": 65.8752975464,
+    "long": 20.1499004364,
+    "name": "Vidsel Air Base"
+  },
+  "ESPG": {
+    "lat": 65.8103027344,
+    "long": 21.6912994385,
+    "name": "Boden Army Air Base"
+  },
+  "ESPJ": {
+    "lat": 65.8383026123,
+    "long": 21.4687995911,
+    "name": "Hede Air Base"
+  },
+  "ESQO": {
+    "lat": 59.3866004944,
+    "long": 15.9240999222,
+    "name": "Arboga "
+  },
+  "ESSA": {
+    "lat": 59.6519012451,
+    "long": 17.9186000824,
+    "name": "Stockholm-Arlanda "
+  },
+  "ESSB": {
+    "lat": 59.3544006348,
+    "long": 17.9416999817,
+    "name": "Stockholm-Bromma "
+  },
+  "ESSC": {
+    "lat": 59.3838996887,
+    "long": 16.4419002533,
+    "name": "Ekeby "
+  },
+  "ESSD": {
+    "lat": 60.422000885,
+    "long": 15.5151996613,
+    "name": "Borlange "
+  },
+  "ESSE": {
+    "lat": 59.3451004028,
+    "long": 17.7404994965,
+    "name": "Ska-Edeby "
+  },
+  "ESSF": {
+    "lat": 57.5257987976,
+    "long": 15.8233003616,
+    "name": "Hultsfred "
+  },
+  "ESSG": {
+    "lat": 60.0882987976,
+    "long": 15.0964002609,
+    "name": "Ludvika "
+  },
+  "ESSH": {
+    "lat": 58.9786987305,
+    "long": 14.6661996841,
+    "name": "Laxa "
+  },
+  "ESSI": {
+    "lat": 58.098400116,
+    "long": 14.4026002884,
+    "name": "Visingso "
+  },
+  "ESSK": {
+    "lat": 60.5932998657,
+    "long": 16.9514007568,
+    "name": "Gavle Sandviken "
+  },
+  "ESSL": {
+    "lat": 58.4062004089,
+    "long": 15.6805000305,
+    "name": "Linkoping SAAB "
+  },
+  "ESSM": {
+    "lat": 59.6083984375,
+    "long": 13.9123001099,
+    "name": "Brattforshede "
+  },
+  "ESSN": {
+    "lat": 59.73279953,
+    "long": 18.6963996887,
+    "name": "Norrtalje "
+  },
+  "ESSP": {
+    "lat": 58.5862998962,
+    "long": 16.2506008148,
+    "name": "Norrkoping "
+  },
+  "ESST": {
+    "lat": 60.1576004028,
+    "long": 12.9912996292,
+    "name": "Torsby "
+  },
+  "ESSU": {
+    "lat": 59.3511009216,
+    "long": 16.7084007263,
+    "name": "Eskilstuna "
+  },
+  "ESSV": {
+    "lat": 57.6627998352,
+    "long": 18.346200943,
+    "name": "Visby "
+  },
+  "ESSW": {
+    "lat": 57.7799987793,
+    "long": 16.5235996246,
+    "name": "Vastervik "
+  },
+  "ESSX": {
+    "lat": 59.5758018494,
+    "long": 16.503200531,
+    "name": "Johannisberg "
+  },
+  "ESSZ": {
+    "lat": 59.1011009216,
+    "long": 17.2110996246,
+    "name": "Vangso "
+  },
+  "ESTA": {
+    "lat": 56.2961006165,
+    "long": 12.8471002579,
+    "name": "Angelholm-Helsingborg "
+  },
+  "ESTF": {
+    "lat": 58.6300086975,
+    "long": 11.314458847,
+    "name": "Fjallbacka Anra "
+  },
+  "ESTG": {
+    "lat": 56.2750015259,
+    "long": 16.4200000763,
+    "name": "Gronhogen "
+  },
+  "ESTL": {
+    "lat": 56.0828018188,
+    "long": 13.2124996185,
+    "name": "Ljungbyhed "
+  },
+  "ESTT": {
+    "lat": 55.3912021148,
+    "long": 13.0221033096,
+    "name": "Vellinge Airfield"
+  },
+  "ESUA": {
+    "lat": 64.570602417,
+    "long": 19.3141002655,
+    "name": "Amsele Air Base"
+  },
+  "ESUB": {
+    "lat": 61.5125007629,
+    "long": 16.3724994659,
+    "name": "Arbra "
+  },
+  "ESUD": {
+    "lat": 64.960899353,
+    "long": 17.6965999603,
+    "name": "Storuman "
+  },
+  "ESUE": {
+    "lat": 61.8697013855,
+    "long": 12.6893997192,
+    "name": "Idre "
+  },
+  "ESUF": {
+    "lat": 65.1075973511,
+    "long": 20.761100769,
+    "name": "Fallfors Air Base"
+  },
+  "ESUG": {
+    "lat": 65.3052978516,
+    "long": 17.9755001068,
+    "name": "Gargnas "
+  },
+  "ESUH": {
+    "lat": 62.6324691772,
+    "long": 17.9817008972,
+    "name": "Myran "
+  },
+  "ESUI": {
+    "lat": 63.3983001709,
+    "long": 18.3283004761,
+    "name": "Mellansel "
+  },
+  "ESUJ": {
+    "lat": 62.5652999878,
+    "long": 15.8346996307,
+    "name": "Talje "
+  },
+  "ESUK": {
+    "lat": 67.7648010254,
+    "long": 20.2572002411,
+    "name": "Kalixfors "
+  },
+  "ESUL": {
+    "lat": 61.8170013428,
+    "long": 16.0042991638,
+    "name": "Ljusdal "
+  },
+  "ESUM": {
+    "lat": 61.2911987305,
+    "long": 16.8463001251,
+    "name": "Mohed "
+  },
+  "ESUO": {
+    "lat": 63.0416984558,
+    "long": 14.0013999939,
+    "name": "Graftavallen "
+  },
+  "ESUP": {
+    "lat": 67.2455978394,
+    "long": 23.0688991547,
+    "name": "Pajala "
+  },
+  "ESUR": {
+    "lat": 63.4902992249,
+    "long": 16.4834003448,
+    "name": "Ramsele "
+  },
+  "ESUS": {
+    "lat": 64.1591033936,
+    "long": 17.2742996216,
+    "name": "Asele "
+  },
+  "ESUT": {
+    "lat": 65.806098938,
+    "long": 15.0827999115,
+    "name": "Hemavan "
+  },
+  "ESUV": {
+    "lat": 65.6456985474,
+    "long": 21.0611000061,
+    "name": "Alvsbyn "
+  },
+  "ESUY": {
+    "lat": 61.3870010376,
+    "long": 15.8333997726,
+    "name": "Edsby "
+  },
+  "ESVA": {
+    "lat": 60.1804008484,
+    "long": 16.122800827,
+    "name": "Avesta "
+  },
+  "ESVB": {
+    "lat": 57.8497009277,
+    "long": 19.0349998474,
+    "name": "Bunge Private "
+  },
+  "ESVG": {
+    "lat": 60.551700592,
+    "long": 15.0816001892,
+    "name": "Gagnef "
+  },
+  "ESVH": {
+    "lat": 59.867401123,
+    "long": 14.4238996506,
+    "name": "Hallefors "
+  },
+  "ESVK": {
+    "lat": 59.0223007202,
+    "long": 16.2203006744,
+    "name": "Katrineholm "
+  },
+  "ESVM": {
+    "lat": 60.6587982178,
+    "long": 13.7265996933,
+    "name": "Skinnlanda "
+  },
+  "ESVQ": {
+    "lat": 59.5275001526,
+    "long": 15.9696998596,
+    "name": "Koping "
+  },
+  "ESVS": {
+    "lat": 60.7850990295,
+    "long": 14.8271999359,
+    "name": "Siljansnas "
+  }
+}

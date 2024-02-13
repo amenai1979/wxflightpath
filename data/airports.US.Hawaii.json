@@ -1,0 +1,218 @@
+{
+    "HI01": {
+        "lat": 22.2091999054,
+        "long": -159.4459991455,
+        "name": "Princeville ",
+        "state": "Hawaii"
+    },
+    "HI02": {
+        "lat": 19.9022006989,
+        "long": -155.1660003662,
+        "name": "Peleau ",
+        "state": "Hawaii"
+    },
+    "HI03": {
+        "lat": 22.0412998199,
+        "long": -159.3899993896,
+        "name": "Hanamaulu Airstrip",
+        "state": "Hawaii"
+    },
+    "HI05": {
+        "lat": 20.0835990906,
+        "long": -155.5019989014,
+        "name": "Honokaa Airstrip",
+        "state": "Hawaii"
+    },
+    "HI13": {
+        "lat": 19.7886009216,
+        "long": -155.8500061035,
+        "name": "Puu Waa Waa Ranch ",
+        "state": "Hawaii"
+    },
+    "HI23": {
+        "lat": 19.5475006104,
+        "long": -155.108001709,
+        "name": "Mountain View Airstrip",
+        "state": "Hawaii"
+    },
+    "HI25": {
+        "lat": 19.122800827,
+        "long": -155.5780029297,
+        "name": "Kaalaiki Airstrip",
+        "state": "Hawaii"
+    },
+    "HI27": {
+        "lat": 20.0282993317,
+        "long": -155.3880004883,
+        "name": "Upper Paauilo Airstrip",
+        "state": "Hawaii"
+    },
+    "HI28": {
+        "lat": 19.2161998749,
+        "long": -155.4689941406,
+        "name": "Pahala Airstrip",
+        "state": "Hawaii"
+    },
+    "HI29": {
+        "lat": 19.2275009155,
+        "long": -155.5090026855,
+        "name": "Upper Paauau ",
+        "state": "Hawaii"
+    },
+    "HI31": {
+        "lat": 19.7639007568,
+        "long": -155.1380004883,
+        "name": "Mauna Kea-Honolii ",
+        "state": "Hawaii"
+    },
+    "HI32": {
+        "lat": 19.8446998596,
+        "long": -155.1130065918,
+        "name": "Pepeekeo Airstrip",
+        "state": "Hawaii"
+    },
+    "HI33": {
+        "lat": 21.9423999786,
+        "long": -159.4400024414,
+        "name": "Haiku Airstrip",
+        "state": "Hawaii"
+    },
+    "HI46": {
+        "lat": 21.9657993317,
+        "long": -159.4270019531,
+        "name": "Hi 23 Airstrip",
+        "state": "Hawaii"
+    },
+    "HI49": {
+        "lat": 21.1478996277,
+        "long": -157.2590026855,
+        "name": "Panda ",
+        "state": "Hawaii"
+    },
+    "PHBK": {
+        "lat": 22.0228004456,
+        "long": -159.785003662,
+        "name": "Barking Sands ",
+        "state": "Hawaii"
+    },
+    "PHDH": {
+        "lat": 21.5795001984,
+        "long": -158.197006226,
+        "name": "Dillingham Airfield",
+        "state": "Hawaii"
+    },
+    "PHHF": {
+        "lat": 23.8694000244,
+        "long": -166.2850036621,
+        "name": "French Frigate Shoals ",
+        "state": "Hawaii"
+    },
+    "PHHI": {
+        "lat": 21.48349953,
+        "long": -158.0399933,
+        "name": "Wheeler Army Airfield",
+        "state": "Hawaii"
+    },
+    "PHHN": {
+        "lat": 20.7956008911,
+        "long": -156.0140075684,
+        "name": "Hana ",
+        "state": "Hawaii"
+    },
+    "PHJH": {
+        "lat": 20.9629001617,
+        "long": -156.6730041504,
+        "name": "Kapalua ",
+        "state": "Hawaii"
+    },
+    "PHJR": {
+        "lat": 21.30739975,
+        "long": -158.0700073,
+        "name": "Kalaeloa (John Rodgers Field) ",
+        "state": "Hawaii"
+    },
+    "PHKO": {
+        "lat": 19.7388000488,
+        "long": -156.046005249,
+        "name": "Kona International At Keahole ",
+        "state": "Hawaii"
+    },
+    "PHLI": {
+        "lat": 21.9759998322,
+        "long": -159.3390045166,
+        "name": "Lihue ",
+        "state": "Hawaii"
+    },
+    "PHLU": {
+        "lat": 21.21100044,
+        "long": -156.973999,
+        "name": "Kalaupapa ",
+        "state": "Hawaii"
+    },
+    "PHMK": {
+        "lat": 21.1529006958,
+        "long": -157.095993042,
+        "name": "Molokai ",
+        "state": "Hawaii"
+    },
+    "PHMU": {
+        "lat": 20.0013008118,
+        "long": -155.6679992676,
+        "name": "Waimea Kohala ",
+        "state": "Hawaii"
+    },
+    "PHNG": {
+        "lat": 21.4505004883,
+        "long": -157.768005371,
+        "name": "Kaneohe Bay MCAS (Marion E. Carl Field) ",
+        "state": "Hawaii"
+    },
+    "PHNL": {
+        "lat": 21.3187007904,
+        "long": -157.9219970703,
+        "name": "Honolulu International ",
+        "state": "Hawaii"
+    },
+    "PHNP": {
+        "lat": 21.364900589,
+        "long": -157.9600067139,
+        "name": "Ford Island Naval Auxiliary Landing Field",
+        "state": "Hawaii"
+    },
+    "PHNY": {
+        "lat": 20.7856006622,
+        "long": -156.9510040283,
+        "name": "Lanai ",
+        "state": "Hawaii"
+    },
+    "PHOG": {
+        "lat": 20.8985996246,
+        "long": -156.4299926758,
+        "name": "Kahului ",
+        "state": "Hawaii"
+    },
+    "PHPA": {
+        "lat": 21.896900177,
+        "long": -159.602996826,
+        "name": "Port Allen ",
+        "state": "Hawaii"
+    },
+    "PHSF": {
+        "lat": 19.760099411,
+        "long": -155.554000854,
+        "name": "Bradshaw Army Airfield",
+        "state": "Hawaii"
+    },
+    "PHTO": {
+        "lat": 19.7213993073,
+        "long": -155.0480041504,
+        "name": "Hilo International ",
+        "state": "Hawaii"
+    },
+    "PHUP": {
+        "lat": 20.2653007507,
+        "long": -155.8600006104,
+        "name": "Upolu ",
+        "state": "Hawaii"
+    }
+}

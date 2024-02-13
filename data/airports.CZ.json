@@ -1,0 +1,497 @@
+{
+  "LKBA": {
+    "lat": 48.7900009155,
+    "long": 16.8924999237,
+    "name": "Breclav "
+  },
+  "LKBE": {
+    "lat": 49.7407989502,
+    "long": 14.6447000504,
+    "name": "Benesov "
+  },
+  "LKBO": {
+    "lat": 49.6706008911,
+    "long": 17.2950000763,
+    "name": "Bohunovice "
+  },
+  "LKBR": {
+    "lat": 50.5619010925,
+    "long": 16.3428001404,
+    "name": "Broumov "
+  },
+  "LKBU": {
+    "lat": 49.9743995667,
+    "long": 14.1780996323,
+    "name": "Bubovice "
+  },
+  "LKCB": {
+    "lat": 50.0661010742,
+    "long": 12.4117002487,
+    "name": "Cheb "
+  },
+  "LKCE": {
+    "lat": 50.709400177,
+    "long": 14.5666999817,
+    "name": "Ceska Lipa "
+  },
+  "LKCH": {
+    "lat": 50.4688987732,
+    "long": 13.4680995941,
+    "name": "Chomutov "
+  },
+  "LKCL": {
+    "lat": 49.1775016785,
+    "long": 16.6608009338,
+    "name": "Cernovice Air Base"
+  },
+  "LKCM": {
+    "lat": 49.2366981506,
+    "long": 16.5550003052,
+    "name": "Medlanky "
+  },
+  "LKCO": {
+    "lat": 49.9772796631,
+    "long": 16.1849212646,
+    "name": "Chocen "
+  },
+  "LKCR": {
+    "lat": 49.9364013672,
+    "long": 15.7805995941,
+    "name": "Chrudim "
+  },
+  "LKCS": {
+    "lat": 48.9463996887,
+    "long": 14.4274997711,
+    "name": "Ceske Budejovice "
+  },
+  "LKCT": {
+    "lat": 49.685798645,
+    "long": 15.6760997772,
+    "name": "Chotebor "
+  },
+  "LKCV": {
+    "lat": 49.9397010803,
+    "long": 15.3817996979,
+    "name": "Caslav Air Base"
+  },
+  "LKDK": {
+    "lat": 50.4141998291,
+    "long": 15.8368997574,
+    "name": "Dvur Kralove Nad Labem "
+  },
+  "LKER": {
+    "lat": 49.8027992249,
+    "long": 13.0381002426,
+    "name": "Erpuzice "
+  },
+  "LKFR": {
+    "lat": 49.5894012451,
+    "long": 18.3791999817,
+    "name": "Frydlant "
+  },
+  "LKHB": {
+    "lat": 49.5971984863,
+    "long": 15.549200058,
+    "name": "Havlickuv Brod "
+  },
+  "LKHC": {
+    "lat": 50.3572006226,
+    "long": 15.5767002106,
+    "name": "Horice "
+  },
+  "LKHD": {
+    "lat": 50.6571998596,
+    "long": 15.0777997971,
+    "name": "Hodkovice Nad Mohelkou "
+  },
+  "LKHK": {
+    "lat": 50.253200531,
+    "long": 15.845199585,
+    "name": "Hradec Kralove "
+  },
+  "LKHN": {
+    "lat": 49.5461006165,
+    "long": 17.7043991089,
+    "name": "Hranice "
+  },
+  "LKHO": {
+    "lat": 49.3143997192,
+    "long": 17.5688991547,
+    "name": "Holesov "
+  },
+  "LKHR": {
+    "lat": 50.6205558777,
+    "long": 14.7380561829,
+    "name": "Hradcany "
+  },
+  "LKHS": {
+    "lat": 49.0400009155,
+    "long": 14.4949998856,
+    "name": "Hosin "
+  },
+  "LKHV": {
+    "lat": 49.8480987549,
+    "long": 13.8935003281,
+    "name": "Horovice "
+  },
+  "LKJA": {
+    "lat": 50.331401825,
+    "long": 15.9539003372,
+    "name": "Jaromer "
+  },
+  "LKJC": {
+    "lat": 50.4300003052,
+    "long": 15.3331003189,
+    "name": "Jicin "
+  },
+  "LKJH": {
+    "lat": 49.1502990723,
+    "long": 14.9710998535,
+    "name": "Jindrichuv Hradec "
+  },
+  "LKJI": {
+    "lat": 49.4193992615,
+    "long": 15.6352996826,
+    "name": "Jihlava "
+  },
+  "LKKA": {
+    "lat": 49.3683013916,
+    "long": 16.1161003113,
+    "name": "Krizanov "
+  },
+  "LKKB": {
+    "lat": 50.1213989258,
+    "long": 14.5436000824,
+    "name": "Kbely Air Base"
+  },
+  "LKKC": {
+    "lat": 49.8706016541,
+    "long": 12.7725000381,
+    "name": "Krizenec Plana "
+  },
+  "LKKL": {
+    "lat": 50.1128005981,
+    "long": 14.0896997452,
+    "name": "Kladno "
+  },
+  "LKKM": {
+    "lat": 49.2855987549,
+    "long": 17.4158000946,
+    "name": "Kromeriz "
+  },
+  "LKKO": {
+    "lat": 50.0018997192,
+    "long": 15.1732997894,
+    "name": "Kolin "
+  },
+  "LKKR": {
+    "lat": 50.0741996765,
+    "long": 17.6947002411,
+    "name": "Krnov "
+  },
+  "LKKT": {
+    "lat": 49.4183006287,
+    "long": 13.3219003677,
+    "name": "Klatovy "
+  },
+  "LKKU": {
+    "lat": 49.0293998718,
+    "long": 17.439699173,
+    "name": "Kunovice "
+  },
+  "LKKV": {
+    "lat": 50.202999115,
+    "long": 12.9149999619,
+    "name": "Karlovy Vary International "
+  },
+  "LKKY": {
+    "lat": 48.9799995422,
+    "long": 17.1247005463,
+    "name": "Kyjov "
+  },
+  "LKLB": {
+    "lat": 50.7682991028,
+    "long": 15.0249996185,
+    "name": "Liberec "
+  },
+  "LKLN": {
+    "lat": 49.675201416,
+    "long": 13.274600029,
+    "name": "Plzen Line "
+  },
+  "LKLT": {
+    "lat": 50.131401062,
+    "long": 14.5256004333,
+    "name": "Letnany "
+  },
+  "LKMB": {
+    "lat": 50.3983001709,
+    "long": 14.8983001709,
+    "name": "Mlada Boleslav "
+  },
+  "LKMH": {
+    "lat": 50.5401992798,
+    "long": 15.0066003799,
+    "name": "Mnichovo Hradiste "
+  },
+  "LKMI": {
+    "lat": 50.301700592,
+    "long": 17.2975006104,
+    "name": "Mikulovice "
+  },
+  "LKMK": {
+    "lat": 49.7983016968,
+    "long": 16.6877994537,
+    "name": "Moravska Trebova "
+  },
+  "LKMO": {
+    "lat": 50.5250015259,
+    "long": 13.6830997467,
+    "name": "Most "
+  },
+  "LKMR": {
+    "lat": 49.9227981567,
+    "long": 12.7246999741,
+    "name": "Marianske Lazne "
+  },
+  "LKMT": {
+    "lat": 49.6963005066,
+    "long": 18.1110992432,
+    "name": "Ostrava Leos Janacek "
+  },
+  "LKNA": {
+    "lat": 49.1657981873,
+    "long": 16.1249008179,
+    "name": "Namest Air Base"
+  },
+  "LKNM": {
+    "lat": 50.364200592,
+    "long": 16.1135997772,
+    "name": "Nove Mesto "
+  },
+  "LKNY": {
+    "lat": 50.168598175,
+    "long": 15.0524997711,
+    "name": "Nymburk Ul Ploch "
+  },
+  "LKOL": {
+    "lat": 49.5877990723,
+    "long": 17.2108001709,
+    "name": "Olomouc Glider "
+  },
+  "LKOT": {
+    "lat": 49.198299408,
+    "long": 17.5177993774,
+    "name": "Otrokovice Zlin "
+  },
+  "LKPA": {
+    "lat": 49.7393989563,
+    "long": 16.2588996887,
+    "name": "Policka "
+  },
+  "LKPC": {
+    "lat": 50.306098938,
+    "long": 13.9342002869,
+    "name": "Panensky Tynec "
+  },
+  "LKPD": {
+    "lat": 50.0134010315,
+    "long": 15.7385997772,
+    "name": "Pardubice "
+  },
+  "LKPI": {
+    "lat": 49.5807991028,
+    "long": 15.7628002167,
+    "name": "Pribyslav "
+  },
+  "LKPJ": {
+    "lat": 49.4477996826,
+    "long": 17.1338996887,
+    "name": "Prostejov "
+  },
+  "LKPL": {
+    "lat": 49.7230987549,
+    "long": 13.4521999359,
+    "name": "Letkov "
+  },
+  "LKPM": {
+    "lat": 49.7201004028,
+    "long": 14.1006002426,
+    "name": "Pribram "
+  },
+  "LKPN": {
+    "lat": 49.939201355,
+    "long": 15.5496997833,
+    "name": "Podhorany Glider "
+  },
+  "LKPO": {
+    "lat": 49.4258003235,
+    "long": 17.4046993256,
+    "name": "Prerov Air Base"
+  },
+  "LKPR": {
+    "lat": 50.1007995605,
+    "long": 14.2600002289,
+    "name": "Vaclav Havel "
+  },
+  "LKPS": {
+    "lat": 49.92029953,
+    "long": 13.3768997192,
+    "name": "Plasy Rybnice "
+  },
+  "LKRA": {
+    "lat": 50.4039001465,
+    "long": 13.7518997192,
+    "name": "Rana Loumy "
+  },
+  "LKRK": {
+    "lat": 50.0942001343,
+    "long": 13.6888999939,
+    "name": "Rakovnik Glider "
+  },
+  "LKRO": {
+    "lat": 50.4105987549,
+    "long": 14.226099968,
+    "name": "Roudnice Mad "
+  },
+  "LKSA": {
+    "lat": 49.5666999817,
+    "long": 13.0486001968,
+    "name": "Stankov Glider "
+  },
+  "LKSB": {
+    "lat": 49.4860992432,
+    "long": 17.0555992126,
+    "name": "Stichovice Pluml "
+  },
+  "LKSK": {
+    "lat": 49.8278007507,
+    "long": 16.0058002472,
+    "name": "Skutec "
+  },
+  "LKSN": {
+    "lat": 50.2167015076,
+    "long": 14.0886001587,
+    "name": "Slany "
+  },
+  "LKSO": {
+    "lat": 49.2467002869,
+    "long": 14.7136001587,
+    "name": "Sobeslav "
+  },
+  "LKSR": {
+    "lat": 49.0825004578,
+    "long": 14.075799942,
+    "name": "Strunkovice "
+  },
+  "LKST": {
+    "lat": 49.251701355,
+    "long": 13.8928003311,
+    "name": "Strakonice "
+  },
+  "LKSU": {
+    "lat": 49.9606018066,
+    "long": 17.0177993774,
+    "name": "Sumperk "
+  },
+  "LKSZ": {
+    "lat": 50.3246994019,
+    "long": 14.2588996887,
+    "name": "Sazena Kralupy "
+  },
+  "LKTA": {
+    "lat": 49.3911018372,
+    "long": 14.7082996368,
+    "name": "Tabor "
+  },
+  "LKTB": {
+    "lat": 49.1512985229,
+    "long": 16.6944007874,
+    "name": "Brno-Turany "
+  },
+  "LKTC": {
+    "lat": 49.9852981567,
+    "long": 14.4260997772,
+    "name": "Tocna Praha Glider "
+  },
+  "LKTD": {
+    "lat": 49.7977981567,
+    "long": 12.7068996429,
+    "name": "Tachov Oldrichov "
+  },
+  "LKTO": {
+    "lat": 50.0863990784,
+    "long": 12.9527997971,
+    "name": "Touzim "
+  },
+  "LKTV": {
+    "lat": 49.4378013611,
+    "long": 14.6217002869,
+    "name": "Tabor Vsechov Ultralight "
+  },
+  "LKUL": {
+    "lat": 50.6996994019,
+    "long": 13.9696998596,
+    "name": "Usti Nad Labem "
+  },
+  "LKUO": {
+    "lat": 49.9785995483,
+    "long": 16.426399231,
+    "name": "Usti Mad Orlici "
+  },
+  "LKVL": {
+    "lat": 49.7289009094,
+    "long": 14.8788995743,
+    "name": "Vlasin Glider "
+  },
+  "LKVM": {
+    "lat": 49.9268989563,
+    "long": 16.1858005524,
+    "name": "Vysoke Myto Glider "
+  },
+  "LKVO": {
+    "lat": 50.2165985107,
+    "long": 14.3957996368,
+    "name": "Vodochody "
+  },
+  "LKVP": {
+    "lat": 50.4678001404,
+    "long": 16.2056007385,
+    "name": "Velke Porici Glider "
+  },
+  "LKVR": {
+    "lat": 50.6241989136,
+    "long": 15.6464004517,
+    "name": "Vrchlabi "
+  },
+  "LKVY": {
+    "lat": 49.3003005981,
+    "long": 17.0252990723,
+    "name": "Vyskov "
+  },
+  "LKZA": {
+    "lat": 49.9282989502,
+    "long": 18.0783004761,
+    "name": "Zabreh Ostrava "
+  },
+  "LKZB": {
+    "lat": 49.814201355,
+    "long": 15.2017002106,
+    "name": "Zbraslavice Glider "
+  },
+  "LKZD": {
+    "lat": 50.3175010681,
+    "long": 13.5128002167,
+    "name": "Zatec Macerka Ar "
+  },
+  "LKZM": {
+    "lat": 50.0839004517,
+    "long": 16.4438991547,
+    "name": "Zamberk "
+  },
+  "LKZN": {
+    "lat": 48.8177986145,
+    "long": 16.0657997131,
+    "name": "Znojmo "
+  }
+}

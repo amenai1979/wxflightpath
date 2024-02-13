@@ -1,0 +1,362 @@
+{
+    "K12V": {
+        "lat": 38.4408988953,
+        "long": -82.2007980347,
+        "name": "Ona Airpark",
+        "state": "West-Virginia"
+    },
+    "K3G5": {
+        "lat": 39.4500999451,
+        "long": -79.6663970947,
+        "name": "Dawson Army Air Field",
+        "state": "West-Virginia"
+    },
+    "K3I2": {
+        "lat": 38.9146003723,
+        "long": -82.0986022949,
+        "name": "Mason County ",
+        "state": "West-Virginia"
+    },
+    "K3I4": {
+        "lat": 38.2583999634,
+        "long": -80.6507034302,
+        "name": "Richwood Municipal ",
+        "state": "West-Virginia"
+    },
+    "K48I": {
+        "lat": 38.68700027,
+        "long": -80.65180206,
+        "name": "Braxton County ",
+        "state": "West-Virginia"
+    },
+    "K4I0": {
+        "lat": 37.6875991821,
+        "long": -82.2610015869,
+        "name": "Mingo County ",
+        "state": "West-Virginia"
+    },
+    "K79D": {
+        "lat": 39.16619873,
+        "long": -80.06259918,
+        "name": "Philippi Barbour County Regional ",
+        "state": "West-Virginia"
+    },
+    "KBKW": {
+        "lat": 37.7873001099,
+        "long": -81.1241989136,
+        "name": "Raleigh County Memorial ",
+        "state": "West-Virginia"
+    },
+    "KCBE": {
+        "lat": 39.615398407,
+        "long": -78.7609024048,
+        "name": "Greater Cumberland Regional ",
+        "state": "West-Virginia"
+    },
+    "KCKB": {
+        "lat": 39.2966003418,
+        "long": -80.2281036377,
+        "name": "North Central West Virginia ",
+        "state": "West-Virginia"
+    },
+    "KCRW": {
+        "lat": 38.3731002808,
+        "long": -81.5932006836,
+        "name": "Yeager ",
+        "state": "West-Virginia"
+    },
+    "KEKN": {
+        "lat": 38.88940048,
+        "long": -79.85710144,
+        "name": "Elkins-Randolph Co-Jennings Randolph Field",
+        "state": "West-Virginia"
+    },
+    "KHLG": {
+        "lat": 40.1749992371,
+        "long": -80.6463012695,
+        "name": "Wheeling Ohio County ",
+        "state": "West-Virginia"
+    },
+    "KHTS": {
+        "lat": 38.36669922,
+        "long": -82.55799866,
+        "name": "Tri-State/Milton J. Ferguson Field",
+        "state": "West-Virginia"
+    },
+    "KI16": {
+        "lat": 37.6003990173,
+        "long": -81.5593032837,
+        "name": "Kee Field",
+        "state": "West-Virginia"
+    },
+    "KI18": {
+        "lat": 38.9297981262,
+        "long": -81.8195037842,
+        "name": "Jackson County ",
+        "state": "West-Virginia"
+    },
+    "KLWB": {
+        "lat": 37.8582992554,
+        "long": -80.3994979858,
+        "name": "Greenbrier Valley ",
+        "state": "West-Virginia"
+    },
+    "KMGW": {
+        "lat": 39.64289856,
+        "long": -79.91629791,
+        "name": "Morgantown Municipal Walter L. Bill Hart Field",
+        "state": "West-Virginia"
+    },
+    "KMPG": {
+        "lat": 39.8807983398,
+        "long": -80.7358016968,
+        "name": "Marshall County ",
+        "state": "West-Virginia"
+    },
+    "KMRB": {
+        "lat": 39.40190125,
+        "long": -77.98459625,
+        "name": "Eastern Wv Regional Shepherd Field",
+        "state": "West-Virginia"
+    },
+    "KPKB": {
+        "lat": 39.3451004028,
+        "long": -81.439201355,
+        "name": "Mid Ohio Valley Regional ",
+        "state": "West-Virginia"
+    },
+    "KSXL": {
+        "lat": 38.2316017151,
+        "long": -80.8707962036,
+        "name": "Summersville ",
+        "state": "West-Virginia"
+    },
+    "KW22": {
+        "lat": 39.00049973,
+        "long": -80.2736969,
+        "name": "Upshur County Regional ",
+        "state": "West-Virginia"
+    },
+    "KW35": {
+        "lat": 39.6926002502,
+        "long": -78.1660995483,
+        "name": "Potomac Airpark",
+        "state": "West-Virginia"
+    },
+    "WV00": {
+        "lat": 38.4707984924,
+        "long": -79.8005981445,
+        "name": "Deer Creek Farm ",
+        "state": "West-Virginia"
+    },
+    "WV01": {
+        "lat": 38.1292991638,
+        "long": -81.0537033081,
+        "name": "Lee Massey ",
+        "state": "West-Virginia"
+    },
+    "WV06": {
+        "lat": 39.2850990295,
+        "long": -78.7382965088,
+        "name": "Lost Mountain ",
+        "state": "West-Virginia"
+    },
+    "WV08": {
+        "lat": 38.2168006897,
+        "long": -81.533203125,
+        "name": "Island ",
+        "state": "West-Virginia"
+    },
+    "WV09": {
+        "lat": 37.5587005615,
+        "long": -81.3507003784,
+        "name": "Mike Ferrell Field",
+        "state": "West-Virginia"
+    },
+    "WV10": {
+        "lat": 37.4011993408,
+        "long": -80.8072967529,
+        "name": "Peterstown ",
+        "state": "West-Virginia"
+    },
+    "WV11": {
+        "lat": 37.5665016174,
+        "long": -81.6193008423,
+        "name": "Swope Farm ",
+        "state": "West-Virginia"
+    },
+    "WV12": {
+        "lat": 38.3350982666,
+        "long": -81.7317962646,
+        "name": "Mallory ",
+        "state": "West-Virginia"
+    },
+    "WV15": {
+        "lat": 39.4833984375,
+        "long": -78.926399231,
+        "name": "Gerstell Farms ",
+        "state": "West-Virginia"
+    },
+    "WV17": {
+        "lat": 39.3933982849,
+        "long": -78.1557998657,
+        "name": "Michaels Farms ",
+        "state": "West-Virginia"
+    },
+    "WV18": {
+        "lat": 39.4084014893,
+        "long": -79.0136032104,
+        "name": "Miller Field",
+        "state": "West-Virginia"
+    },
+    "WV19": {
+        "lat": 39.4448013306,
+        "long": -79.689201355,
+        "name": "Moore Field",
+        "state": "West-Virginia"
+    },
+    "WV21": {
+        "lat": 39.3306007385,
+        "long": -77.7947006226,
+        "name": "Needwood Farm ",
+        "state": "West-Virginia"
+    },
+    "WV22": {
+        "lat": 39.5746994019,
+        "long": -77.971496582,
+        "name": "Green Landings ",
+        "state": "West-Virginia"
+    },
+    "WV23": {
+        "lat": 39.0914993286,
+        "long": -80.4694976807,
+        "name": "Louis Bennett Field",
+        "state": "West-Virginia"
+    },
+    "WV28": {
+        "lat": 39.3245010376,
+        "long": -80.3967971802,
+        "name": "Ruth Field",
+        "state": "West-Virginia"
+    },
+    "WV29": {
+        "lat": 39.5797996521,
+        "long": -79.6498031616,
+        "name": "Valley Point ",
+        "state": "West-Virginia"
+    },
+    "WV30": {
+        "lat": 37.9486999512,
+        "long": -80.7164993286,
+        "name": "Rainelle ",
+        "state": "West-Virginia"
+    },
+    "WV32": {
+        "lat": 38.0890007019,
+        "long": -81.0651016235,
+        "name": "New River Gorge ",
+        "state": "West-Virginia"
+    },
+    "WV47": {
+        "lat": 39.1357002258,
+        "long": -80.2104034424,
+        "name": "Rexroad ",
+        "state": "West-Virginia"
+    },
+    "WV52": {
+        "lat": 38.4306983948,
+        "long": -79.8255996704,
+        "name": "Nrao Green Bank ",
+        "state": "West-Virginia"
+    },
+    "WV53": {
+        "lat": 39.3720016479,
+        "long": -79.8927993774,
+        "name": "Larew ",
+        "state": "West-Virginia"
+    },
+    "WV57": {
+        "lat": 39.4631004333,
+        "long": -79.5425033569,
+        "name": "Mckee Sky Ranch ",
+        "state": "West-Virginia"
+    },
+    "WV59": {
+        "lat": 38.0267982483,
+        "long": -81.1197967529,
+        "name": "Fayette ",
+        "state": "West-Virginia"
+    },
+    "WV61": {
+        "lat": 39.4695014954,
+        "long": -78.2356033325,
+        "name": "Buzzards Gap Ultralightport",
+        "state": "West-Virginia"
+    },
+    "WV62": {
+        "lat": 39.0550994873,
+        "long": -79.4313964844,
+        "name": "Windwood Fly-In Resort ",
+        "state": "West-Virginia"
+    },
+    "WV63": {
+        "lat": 38.3345985413,
+        "long": -80.6530990601,
+        "name": "Herold ",
+        "state": "West-Virginia"
+    },
+    "WV64": {
+        "lat": 39.1781005859,
+        "long": -81.5236968994,
+        "name": "Scott Field",
+        "state": "West-Virginia"
+    },
+    "WV65": {
+        "lat": 39.44929886,
+        "long": -80.01139832,
+        "name": "Carr ",
+        "state": "West-Virginia"
+    },
+    "WV66": {
+        "lat": 39.9486999512,
+        "long": -80.7594985962,
+        "name": "Glendale Fokker Field",
+        "state": "West-Virginia"
+    },
+    "WV67": {
+        "lat": 39.3946990967,
+        "long": -78.679397583,
+        "name": "Eastview ",
+        "state": "West-Virginia"
+    },
+    "WV68": {
+        "lat": 38.9500007629,
+        "long": -80.0306015015,
+        "name": "Durrett Ranches ",
+        "state": "West-Virginia"
+    },
+    "WV70": {
+        "lat": 38.956199646,
+        "long": -79.7886962891,
+        "name": "Fairview ",
+        "state": "West-Virginia"
+    },
+    "WV71": {
+        "lat": 38.8992004395,
+        "long": -81.9297027588,
+        "name": "Lieving ",
+        "state": "West-Virginia"
+    },
+    "WV76": {
+        "lat": 38.7775993347,
+        "long": -81.3104019165,
+        "name": "Slate Run ",
+        "state": "West-Virginia"
+    },
+    "WV77": {
+        "lat": 37.679599762,
+        "long": -80.7104034424,
+        "name": "Hinton-Alderson ",
+        "state": "West-Virginia"
+    }
+}

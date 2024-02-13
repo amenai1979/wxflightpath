@@ -1,0 +1,652 @@
+{
+  "RJ04": {
+    "lat": 42.0449981689,
+    "long": 140.7929992676,
+    "name": "Shikabe "
+  },
+  "RJAA": {
+    "lat": 35.7647018433,
+    "long": 140.3860015869,
+    "name": "Narita International "
+  },
+  "RJAF": {
+    "lat": 36.1668014526,
+    "long": 137.9230041504,
+    "name": "Matsumoto "
+  },
+  "RJAH": {
+    "lat": 36.181098938,
+    "long": 140.414993286,
+    "name": "Hyakuri "
+  },
+  "RJAK": {
+    "lat": 36.0346984863,
+    "long": 140.1929931641,
+    "name": "Kasumigaura "
+  },
+  "RJAM": {
+    "lat": 24.2896995544,
+    "long": 153.979003906,
+    "name": "Minami Torishima "
+  },
+  "RJAN": {
+    "lat": 34.3694000244,
+    "long": 139.2689971924,
+    "name": "Nijima "
+  },
+  "RJAW": {
+    "lat": 24.7840003967,
+    "long": 141.3229980469,
+    "name": "Iwo Jima "
+  },
+  "RJAZ": {
+    "lat": 34.1899986267,
+    "long": 139.1340026855,
+    "name": "Kozushima "
+  },
+  "RJBB": {
+    "lat": 34.4272994995,
+    "long": 135.2440032959,
+    "name": "Kansai International "
+  },
+  "RJBD": {
+    "lat": 33.6622009277,
+    "long": 135.363998413,
+    "name": "Nanki Shirahama "
+  },
+  "RJBE": {
+    "lat": 34.6328010559,
+    "long": 135.2239990234,
+    "name": "Kobe "
+  },
+  "RJBH": {
+    "lat": 34.3669013977,
+    "long": 132.4140014648,
+    "name": "Hiroshimanishi "
+  },
+  "RJBK": {
+    "lat": 34.590801239,
+    "long": 133.9329986572,
+    "name": "Kohnan "
+  },
+  "RJBT": {
+    "lat": 35.5127983093,
+    "long": 134.7870025635,
+    "name": "Tajima "
+  },
+  "RJCA": {
+    "lat": 43.7952003479,
+    "long": 142.3630065918,
+    "name": "Asahikawa "
+  },
+  "RJCB": {
+    "lat": 42.7332992554,
+    "long": 143.216995239,
+    "name": "Tokachi-Obihiro "
+  },
+  "RJCC": {
+    "lat": 42.7751998901,
+    "long": 141.6920013428,
+    "name": "New Chitose "
+  },
+  "RJCH": {
+    "lat": 41.7700004578,
+    "long": 140.822006226,
+    "name": "Hakodate "
+  },
+  "RJCJ": {
+    "lat": 42.7944984436,
+    "long": 141.666000366,
+    "name": "Chitose Air Base"
+  },
+  "RJCK": {
+    "lat": 43.0410003662,
+    "long": 144.192993164,
+    "name": "Kushiro "
+  },
+  "RJCM": {
+    "lat": 43.8805999756,
+    "long": 144.164001465,
+    "name": "Memanbetsu "
+  },
+  "RJCN": {
+    "lat": 43.5774993896,
+    "long": 144.960006714,
+    "name": "Nakashibetsu "
+  },
+  "RJCO": {
+    "lat": 43.1161003113,
+    "long": 141.3800048828,
+    "name": "Okadama "
+  },
+  "RJCR": {
+    "lat": 45.4550018311,
+    "long": 141.0390014648,
+    "name": "Rebun  "
+  },
+  "RJCT": {
+    "lat": 42.890499115,
+    "long": 143.1580047607,
+    "name": "Tokachi "
+  },
+  "RJCW": {
+    "lat": 45.4042015076,
+    "long": 141.800994873,
+    "name": "Wakkanai "
+  },
+  "RJDA": {
+    "lat": 32.4824981689,
+    "long": 130.158996582,
+    "name": "Amakusa "
+  },
+  "RJDB": {
+    "lat": 33.7490005493,
+    "long": 129.785003662,
+    "name": "Iki "
+  },
+  "RJDC": {
+    "lat": 33.9300003052,
+    "long": 131.279006958,
+    "name": "Yamaguchi Ube "
+  },
+  "RJDK": {
+    "lat": 33.0130996704,
+    "long": 129.1920013428,
+    "name": "Kamigoto "
+  },
+  "RJDM": {
+    "lat": 33.3252983093,
+    "long": 130.4140014648,
+    "name": "Metabaru Air Base"
+  },
+  "RJDO": {
+    "lat": 33.1907997131,
+    "long": 129.0899963379,
+    "name": "Ojika "
+  },
+  "RJDT": {
+    "lat": 34.2849006653,
+    "long": 129.330993652,
+    "name": "Tsushima "
+  },
+  "RJEB": {
+    "lat": 44.3039016724,
+    "long": 143.404006958,
+    "name": "Monbetsu "
+  },
+  "RJEC": {
+    "lat": 43.6707992554,
+    "long": 142.4470062256,
+    "name": "Asahikawa "
+  },
+  "RJEO": {
+    "lat": 42.0717010498,
+    "long": 139.4329986572,
+    "name": "Okushiri "
+  },
+  "RJER": {
+    "lat": 45.2420005798,
+    "long": 141.186004639,
+    "name": "Rishiri "
+  },
+  "RJFA": {
+    "lat": 33.8830986023,
+    "long": 130.6529998779,
+    "name": "Ashiya "
+  },
+  "RJFC": {
+    "lat": 30.3855991364,
+    "long": 130.658996582,
+    "name": "Yakushima "
+  },
+  "RJFE": {
+    "lat": 32.6663017273,
+    "long": 128.8329925537,
+    "name": "Fukue "
+  },
+  "RJFF": {
+    "lat": 33.585899353,
+    "long": 130.4510040283,
+    "name": "Fukuoka "
+  },
+  "RJFG": {
+    "lat": 30.6051006317,
+    "long": 130.9909973145,
+    "name": "New Tanegashima "
+  },
+  "RJFK": {
+    "lat": 31.8034000397,
+    "long": 130.7189941406,
+    "name": "Kagoshima "
+  },
+  "RJFM": {
+    "lat": 31.877199173,
+    "long": 131.449005127,
+    "name": "Miyazaki "
+  },
+  "RJFN": {
+    "lat": 32.0835990906,
+    "long": 131.4510040283,
+    "name": "Nyutabaru "
+  },
+  "RJFO": {
+    "lat": 33.4794006348,
+    "long": 131.736999512,
+    "name": "Oita "
+  },
+  "RJFR": {
+    "lat": 33.8459014893,
+    "long": 131.035003662,
+    "name": "Kitakyushu "
+  },
+  "RJFS": {
+    "lat": 33.1497001648,
+    "long": 130.302001953,
+    "name": "Saga "
+  },
+  "RJFT": {
+    "lat": 32.8372993469,
+    "long": 130.8549957275,
+    "name": "Kumamoto "
+  },
+  "RJFU": {
+    "lat": 32.9169006348,
+    "long": 129.914001465,
+    "name": "Nagasaki "
+  },
+  "RJFY": {
+    "lat": 31.3675994873,
+    "long": 130.8450012207,
+    "name": "Kanoya "
+  },
+  "RJFZ": {
+    "lat": 33.6850013733,
+    "long": 131.0399932861,
+    "name": "Tsuiki "
+  },
+  "RJGG": {
+    "lat": 34.8583984375,
+    "long": 136.8049926758,
+    "name": "Chubu Centrair International "
+  },
+  "RJKA": {
+    "lat": 28.4305992126,
+    "long": 129.7129974365,
+    "name": "Amami "
+  },
+  "RJKB": {
+    "lat": 27.4255008698,
+    "long": 128.7010040283,
+    "name": "Okierabu "
+  },
+  "RJKI": {
+    "lat": 28.3213005066,
+    "long": 129.9279937744,
+    "name": "Kikai "
+  },
+  "RJKN": {
+    "lat": 27.8363990784,
+    "long": 128.8809967041,
+    "name": "Tokunoshima "
+  },
+  "RJNA": {
+    "lat": 35.2550010681,
+    "long": 136.9239959717,
+    "name": "Nagoya "
+  },
+  "RJNF": {
+    "lat": 36.1427993774,
+    "long": 136.2239990234,
+    "name": "Fukui "
+  },
+  "RJNG": {
+    "lat": 35.3941001892,
+    "long": 136.8699951172,
+    "name": "Gifu "
+  },
+  "RJNH": {
+    "lat": 34.7501983643,
+    "long": 137.7030029297,
+    "name": "Hamamatsu "
+  },
+  "RJNK": {
+    "lat": 36.3945999146,
+    "long": 136.4069976807,
+    "name": "Komatsu "
+  },
+  "RJNO": {
+    "lat": 36.181098938,
+    "long": 133.3249969482,
+    "name": "Oki "
+  },
+  "RJNS": {
+    "lat": 34.7960434679,
+    "long": 138.18775177,
+    "name": "Mt. Fuji Shizuoka "
+  },
+  "RJNT": {
+    "lat": 36.6483001709,
+    "long": 137.18800354,
+    "name": "Toyama "
+  },
+  "RJNW": {
+    "lat": 37.2930984497,
+    "long": 136.962005615,
+    "name": "Noto "
+  },
+  "RJNY": {
+    "lat": 34.8128013611,
+    "long": 138.2980041504,
+    "name": "Shizuhama "
+  },
+  "RJOA": {
+    "lat": 34.4361000061,
+    "long": 132.919006348,
+    "name": "Hiroshima "
+  },
+  "RJOB": {
+    "lat": 34.7569007874,
+    "long": 133.854995728,
+    "name": "Okayama "
+  },
+  "RJOC": {
+    "lat": 35.4136009216,
+    "long": 132.88999939,
+    "name": "Izumo "
+  },
+  "RJOE": {
+    "lat": 34.5332984924,
+    "long": 136.6719970703,
+    "name": "Akeno "
+  },
+  "RJOF": {
+    "lat": 34.0346984863,
+    "long": 131.5489959717,
+    "name": "Hofu "
+  },
+  "RJOH": {
+    "lat": 35.4921989441,
+    "long": 133.2359924316,
+    "name": "Miho Yonago "
+  },
+  "RJOI": {
+    "lat": 34.143901825,
+    "long": 132.2359924316,
+    "name": "Iwakuni Marine Corps Air Station"
+  },
+  "RJOK": {
+    "lat": 33.5461006165,
+    "long": 133.669006348,
+    "name": "Kochi Ryoma "
+  },
+  "RJOM": {
+    "lat": 33.8272018433,
+    "long": 132.6999969482,
+    "name": "Matsuyama "
+  },
+  "RJOO": {
+    "lat": 34.7854995728,
+    "long": 135.43800354,
+    "name": "Osaka International "
+  },
+  "RJOR": {
+    "lat": 35.5301017761,
+    "long": 134.167007446,
+    "name": "Tottori "
+  },
+  "RJOS": {
+    "lat": 34.1328010559,
+    "long": 134.606994629,
+    "name": "Tokushima "
+  },
+  "RJOT": {
+    "lat": 34.2141990662,
+    "long": 134.01600647,
+    "name": "Takamatsu "
+  },
+  "RJOW": {
+    "lat": 34.676399231,
+    "long": 131.789993286,
+    "name": "Iwami "
+  },
+  "RJOY": {
+    "lat": 34.5962982178,
+    "long": 135.6029968262,
+    "name": "Yao "
+  },
+  "RJOZ": {
+    "lat": 34.04529953,
+    "long": 131.0520019531,
+    "name": "Ozuki "
+  },
+  "RJSA": {
+    "lat": 40.7346992493,
+    "long": 140.6909942627,
+    "name": "Aomori "
+  },
+  "RJSC": {
+    "lat": 38.4118995667,
+    "long": 140.371002197,
+    "name": "Yamagata "
+  },
+  "RJSD": {
+    "lat": 38.0601997375,
+    "long": 138.4140014648,
+    "name": "Sado "
+  },
+  "RJSF": {
+    "lat": 37.2274017334,
+    "long": 140.4309997559,
+    "name": "Fukushima "
+  },
+  "RJSH": {
+    "lat": 40.5564002991,
+    "long": 141.466003418,
+    "name": "Hachinohe "
+  },
+  "RJSI": {
+    "lat": 39.4286003113,
+    "long": 141.1349945068,
+    "name": "Hanamaki "
+  },
+  "RJSK": {
+    "lat": 39.6156005859,
+    "long": 140.2189941406,
+    "name": "Akita "
+  },
+  "RJSM": {
+    "lat": 40.7032012939,
+    "long": 141.367996216,
+    "name": "Misawa Air Base"
+  },
+  "RJSN": {
+    "lat": 37.9558982849,
+    "long": 139.121002197,
+    "name": "Niigata "
+  },
+  "RJSO": {
+    "lat": 41.233001709,
+    "long": 141.1329956055,
+    "name": "JASDF "
+  },
+  "RJSR": {
+    "lat": 40.1918983459,
+    "long": 140.371002197,
+    "name": "Odate Noshiro "
+  },
+  "RJSS": {
+    "lat": 38.1397018433,
+    "long": 140.917007446,
+    "name": "Sendai "
+  },
+  "RJST": {
+    "lat": 38.4048995972,
+    "long": 141.220001221,
+    "name": "Matsushima Air Base"
+  },
+  "RJSU": {
+    "lat": 38.2355995178,
+    "long": 140.9230041504,
+    "name": "Sendai Kasuminom "
+  },
+  "RJSY": {
+    "lat": 38.8121986389,
+    "long": 139.787002563,
+    "name": "Shonai "
+  },
+  "RJTA": {
+    "lat": 35.4546012878,
+    "long": 139.4499969482,
+    "name": "Atsugi Naval Air Facility"
+  },
+  "RJTC": {
+    "lat": 35.7108001709,
+    "long": 139.4029998779,
+    "name": "Tachikawa Airfield"
+  },
+  "RJTE": {
+    "lat": 34.9870986938,
+    "long": 139.828994751,
+    "name": "Tateyama "
+  },
+  "RJTF": {
+    "lat": 35.6716995239,
+    "long": 139.5279998779,
+    "name": "Chofu "
+  },
+  "RJTH": {
+    "lat": 33.1150016785,
+    "long": 139.785995483,
+    "name": "Hachijojima "
+  },
+  "RJTJ": {
+    "lat": 35.8418998718,
+    "long": 139.4109954834,
+    "name": "Iruma Air Base"
+  },
+  "RJTK": {
+    "lat": 35.3983001709,
+    "long": 139.9100036621,
+    "name": "Kisarazu "
+  },
+  "RJTL": {
+    "lat": 35.7989006042,
+    "long": 140.0110015869,
+    "name": "Shimofusa "
+  },
+  "RJTO": {
+    "lat": 34.7820014954,
+    "long": 139.36000061,
+    "name": "Oshima "
+  },
+  "RJTQ": {
+    "lat": 34.073600769,
+    "long": 139.559997559,
+    "name": "Miyakejima "
+  },
+  "RJTR": {
+    "lat": 35.5138015747,
+    "long": 139.3939971924,
+    "name": "Kastner Army Air Field"
+  },
+  "RJTT": {
+    "lat": 35.5522994995,
+    "long": 139.7799987793,
+    "name": "Tokyo International "
+  },
+  "RJTU": {
+    "lat": 36.5144996643,
+    "long": 139.8710021973,
+    "name": "Utsunomiya "
+  },
+  "RJTY": {
+    "lat": 35.748500824,
+    "long": 139.3480072021,
+    "name": "Yokota Air Base"
+  },
+  "ROAH": {
+    "lat": 26.1958007812,
+    "long": 127.646003723,
+    "name": "Naha "
+  },
+  "RODE": {
+    "lat": 26.7257575989,
+    "long": 127.7649002075,
+    "name": "Ie Shima Auxiliary Air Base"
+  },
+  "RODN": {
+    "lat": 26.3556003571,
+    "long": 127.7679977417,
+    "name": "Kadena Air Base"
+  },
+  "ROIG": {
+    "lat": 24.344499588,
+    "long": 124.18699646,
+    "name": "Ishigaki "
+  },
+  "ROKJ": {
+    "lat": 26.3635005951,
+    "long": 126.7139968872,
+    "name": "Kumejima "
+  },
+  "ROKR": {
+    "lat": 26.1683006287,
+    "long": 127.2929992676,
+    "name": "Kerama "
+  },
+  "ROMD": {
+    "lat": 25.8465003967,
+    "long": 131.2630004883,
+    "name": "Minami Daito "
+  },
+  "ROMY": {
+    "lat": 24.7828006744,
+    "long": 125.294998169,
+    "name": "Miyako "
+  },
+  "RORA": {
+    "lat": 26.5925006866,
+    "long": 127.2409973145,
+    "name": "Aguni "
+  },
+  "RORE": {
+    "lat": 26.7220001221,
+    "long": 127.7850036621,
+    "name": "Ie Jima "
+  },
+  "RORH": {
+    "lat": 24.0589008331,
+    "long": 123.8059997559,
+    "name": "Hateruma "
+  },
+  "RORK": {
+    "lat": 25.9447002411,
+    "long": 131.3269958496,
+    "name": "Kitadaito "
+  },
+  "RORS": {
+    "lat": 24.8267002106,
+    "long": 125.1449966431,
+    "name": "Shimojishima "
+  },
+  "RORT": {
+    "lat": 24.6539001465,
+    "long": 124.6750030518,
+    "name": "Tarama "
+  },
+  "RORY": {
+    "lat": 27.0440006256,
+    "long": 128.4019927979,
+    "name": "Yoron "
+  },
+  "ROTM": {
+    "lat": 26.2742996216,
+    "long": 127.7559967041,
+    "name": "Futenma Marine Corps Air Station"
+  },
+  "ROYN": {
+    "lat": 24.4668998718,
+    "long": 122.9779968262,
+    "name": "Yonaguni "
+  }
+}

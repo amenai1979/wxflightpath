@@ -1,0 +1,1856 @@
+{
+    "00VA": {
+        "lat": 36.57600021,
+        "long": -78.9991684,
+        "name": "Vaughan ",
+        "state": "Virginia"
+    },
+    "00VI": {
+        "lat": 36.6632995605,
+        "long": -80.49949646,
+        "name": "Groundhog Mountain ",
+        "state": "Virginia"
+    },
+    "01VA": {
+        "lat": 39.125,
+        "long": -77.9250030518,
+        "name": "Pickles ",
+        "state": "Virginia"
+    },
+    "02VA": {
+        "lat": 38.4356994629,
+        "long": -77.8572006226,
+        "name": "The Greenhouse ",
+        "state": "Virginia"
+    },
+    "04VG": {
+        "lat": 37.7144012451,
+        "long": -77.2117996216,
+        "name": "Manquin Flight Park Ultralightport",
+        "state": "Virginia"
+    },
+    "05VA": {
+        "lat": 37.2242012024,
+        "long": -78.4186019897,
+        "name": "Providence ",
+        "state": "Virginia"
+    },
+    "06VA": {
+        "lat": 38.2490005493,
+        "long": -78.8553009033,
+        "name": "Mount Horeb Field",
+        "state": "Virginia"
+    },
+    "07VA": {
+        "lat": 36.8195991516,
+        "long": -78.7830963135,
+        "name": "Alpha Hotel ",
+        "state": "Virginia"
+    },
+    "08VA": {
+        "lat": 37.5540008545,
+        "long": -79.7498016357,
+        "name": "Springwood Airstrip",
+        "state": "Virginia"
+    },
+    "09VA": {
+        "lat": 36.9765014648,
+        "long": -80.4938964844,
+        "name": "Alum Ridge STOLport",
+        "state": "Virginia"
+    },
+    "0VA1": {
+        "lat": 37.2335014343,
+        "long": -79.5852966309,
+        "name": "Johnson Fox Field",
+        "state": "Virginia"
+    },
+    "0VA2": {
+        "lat": 37.7965011597,
+        "long": -79.7667007446,
+        "name": "Riverwood ",
+        "state": "Virginia"
+    },
+    "0VA3": {
+        "lat": 37.6987991333,
+        "long": -77.0952987671,
+        "name": "Hunt ",
+        "state": "Virginia"
+    },
+    "0VA4": {
+        "lat": 36.9500999451,
+        "long": -79.8795013428,
+        "name": "Worley Field",
+        "state": "Virginia"
+    },
+    "0VA5": {
+        "lat": 37.6941443722,
+        "long": -77.6608943939,
+        "name": "Coffman Field",
+        "state": "Virginia"
+    },
+    "0VA7": {
+        "lat": 37.5232009888,
+        "long": -77.8193969727,
+        "name": "Flatrock Air Strip",
+        "state": "Virginia"
+    },
+    "0VA8": {
+        "lat": 37.2858009338,
+        "long": -77.7911987305,
+        "name": "Jayarz ",
+        "state": "Virginia"
+    },
+    "0VA9": {
+        "lat": 37.4473991394,
+        "long": -76.4537963867,
+        "name": "Handy Strip",
+        "state": "Virginia"
+    },
+    "0VI1": {
+        "lat": 37.6888999939,
+        "long": -77.1014022827,
+        "name": "Brooklyn ",
+        "state": "Virginia"
+    },
+    "10VA": {
+        "lat": 37.3862991333,
+        "long": -78.8131027222,
+        "name": "Nashs ",
+        "state": "Virginia"
+    },
+    "11VG": {
+        "lat": 38.209400177,
+        "long": -77.0006027222,
+        "name": "Devil's Reach Landing ",
+        "state": "Virginia"
+    },
+    "12VA": {
+        "lat": 37.7881011963,
+        "long": -79.7677993774,
+        "name": "Hop-Along ",
+        "state": "Virginia"
+    },
+    "14VA": {
+        "lat": 39.2290000916,
+        "long": -77.7466964722,
+        "name": "Krens Farm ",
+        "state": "Virginia"
+    },
+    "15VA": {
+        "lat": 38.7223014832,
+        "long": -77.8996963501,
+        "name": "Fox Acres ",
+        "state": "Virginia"
+    },
+    "19VA": {
+        "lat": 36.8897018433,
+        "long": -82.2977981567,
+        "name": "Flying W ",
+        "state": "Virginia"
+    },
+    "1VA0": {
+        "lat": 37.6292991638,
+        "long": -77.7474975586,
+        "name": "Sabot ",
+        "state": "Virginia"
+    },
+    "1VA1": {
+        "lat": 36.7351989746,
+        "long": -80.4487991333,
+        "name": "Micro ",
+        "state": "Virginia"
+    },
+    "1VA3": {
+        "lat": 37.6581993103,
+        "long": -78.945602417,
+        "name": "Tye River ",
+        "state": "Virginia"
+    },
+    "1VA5": {
+        "lat": 37.270401001,
+        "long": -76.3927001953,
+        "name": "Hoffman's Farm ",
+        "state": "Virginia"
+    },
+    "1VA7": {
+        "lat": 36.6660003662,
+        "long": -78.7225036621,
+        "name": "Aaron Penston Field",
+        "state": "Virginia"
+    },
+    "1VA8": {
+        "lat": 36.8619003296,
+        "long": -78.4111022949,
+        "name": "Hazelswart ",
+        "state": "Virginia"
+    },
+    "1VA9": {
+        "lat": 38.4328994751,
+        "long": -77.4704971313,
+        "name": "Flying T Farm ",
+        "state": "Virginia"
+    },
+    "1VG2": {
+        "lat": 38.1277008057,
+        "long": -76.689201355,
+        "name": "Whithall Farm ",
+        "state": "Virginia"
+    },
+    "20VA": {
+        "lat": 38.0824012756,
+        "long": -77.4882965088,
+        "name": "Woodford Airpark",
+        "state": "Virginia"
+    },
+    "20VG": {
+        "lat": 37.2887001038,
+        "long": -79.4468994141,
+        "name": "Hawk Ridge ",
+        "state": "Virginia"
+    },
+    "21VA": {
+        "lat": 37.3031997681,
+        "long": -75.9348983765,
+        "name": "Eagles Nest ",
+        "state": "Virginia"
+    },
+    "23VA": {
+        "lat": 37.5570983887,
+        "long": -78.6200027466,
+        "name": "Wheatland ",
+        "state": "Virginia"
+    },
+    "23VG": {
+        "lat": 36.7097015381,
+        "long": -78.4281005859,
+        "name": "Murdock's Holly Bu ",
+        "state": "Virginia"
+    },
+    "24VA": {
+        "lat": 37.2882003784,
+        "long": -75.9997024536,
+        "name": "Cherrystone ",
+        "state": "Virginia"
+    },
+    "25VA": {
+        "lat": 37.8176002502,
+        "long": -77.1029968262,
+        "name": "Toddsbury Farm ",
+        "state": "Virginia"
+    },
+    "29VA": {
+        "lat": 38.5293006897,
+        "long": -77.738899231,
+        "name": "Rhynalds Ranch ",
+        "state": "Virginia"
+    },
+    "2VA0": {
+        "lat": 37.1125984192,
+        "long": -79.6091995239,
+        "name": "Red Birds Airyard ",
+        "state": "Virginia"
+    },
+    "2VA1": {
+        "lat": 37.8959999084,
+        "long": -76.3552017212,
+        "name": "Jett Airpark",
+        "state": "Virginia"
+    },
+    "2VA2": {
+        "lat": 37.1459999084,
+        "long": -76.7900009155,
+        "name": "Melville Airstrip",
+        "state": "Virginia"
+    },
+    "2VA3": {
+        "lat": 37.3149986267,
+        "long": -77.8660964966,
+        "name": "Merlin Aerodrome",
+        "state": "Virginia"
+    },
+    "2VA5": {
+        "lat": 37.6306991577,
+        "long": -76.5650024414,
+        "name": "Rosegill Farm Airstrip",
+        "state": "Virginia"
+    },
+    "2VA6": {
+        "lat": 37.6237983704,
+        "long": -76.6010971069,
+        "name": "Arrowhead Point ",
+        "state": "Virginia"
+    },
+    "2VA8": {
+        "lat": 36.6837997437,
+        "long": -76.8300018311,
+        "name": "Brandywyne Farms ",
+        "state": "Virginia"
+    },
+    "2VA9": {
+        "lat": 38.757900238,
+        "long": -77.7872009277,
+        "name": "Airlie ",
+        "state": "Virginia"
+    },
+    "2VG2": {
+        "lat": 38.9718017578,
+        "long": -77.8696975708,
+        "name": "Upperville ",
+        "state": "Virginia"
+    },
+    "2VG3": {
+        "lat": 38.5485992432,
+        "long": -78.8711013794,
+        "name": "Cub Haven ",
+        "state": "Virginia"
+    },
+    "2VG7": {
+        "lat": 38.163898468,
+        "long": -77.8499984741,
+        "name": "Seven Gables ",
+        "state": "Virginia"
+    },
+    "2VG8": {
+        "lat": 37.8722000122,
+        "long": -76.7311019897,
+        "name": "Folly Neck ",
+        "state": "Virginia"
+    },
+    "31VA": {
+        "lat": 37.0237998962,
+        "long": -76.5886001587,
+        "name": "Aberdeen Field",
+        "state": "Virginia"
+    },
+    "32VA": {
+        "lat": 36.677778,
+        "long": -81.928722,
+        "name": "Old South Aerodrome",
+        "state": "Virginia"
+    },
+    "33VA": {
+        "lat": 36.7843017578,
+        "long": -79.049697876,
+        "name": "Fox Fire ",
+        "state": "Virginia"
+    },
+    "3VA0": {
+        "lat": 38.7759017944,
+        "long": -77.9105987549,
+        "name": "Ayres-Aicp ",
+        "state": "Virginia"
+    },
+    "3VA1": {
+        "lat": 38.7742996216,
+        "long": -77.799697876,
+        "name": "The Meadows ",
+        "state": "Virginia"
+    },
+    "3VA2": {
+        "lat": 38.6242980957,
+        "long": -77.7861022949,
+        "name": "Aviacres ",
+        "state": "Virginia"
+    },
+    "3VA3": {
+        "lat": 38.5503997803,
+        "long": -77.7157974243,
+        "name": "Flying Circus Aerodrome",
+        "state": "Virginia"
+    },
+    "3VA4": {
+        "lat": 37.8576011658,
+        "long": -76.7358016968,
+        "name": "Shandy Hall Farm ",
+        "state": "Virginia"
+    },
+    "3VA5": {
+        "lat": 39.028889,
+        "long": -77.625,
+        "name": "Goose Hunt Farm ",
+        "state": "Virginia"
+    },
+    "3VA7": {
+        "lat": 39.0625991821,
+        "long": -78.0914001465,
+        "name": "White Post ",
+        "state": "Virginia"
+    },
+    "3VA8": {
+        "lat": 36.856300354,
+        "long": -76.6821975708,
+        "name": "Garner ",
+        "state": "Virginia"
+    },
+    "3VG2": {
+        "lat": 37.3883018494,
+        "long": -75.8925018311,
+        "name": "Machipongo International ",
+        "state": "Virginia"
+    },
+    "3VG3": {
+        "lat": 37.9361000061,
+        "long": -76.3486022949,
+        "name": "Serenity Farm ",
+        "state": "Virginia"
+    },
+    "3VG4": {
+        "lat": 36.558333,
+        "long": -76.116389,
+        "name": "Knight'S Landing Llc",
+        "state": "Virginia"
+    },
+    "3VG7": {
+        "lat": 38.4846000671,
+        "long": -77.6128005981,
+        "name": "Hartwood ",
+        "state": "Virginia"
+    },
+    "3VG9": {
+        "lat": 36.701944,
+        "long": -79.133889,
+        "name": "Birch Creek Plantation ",
+        "state": "Virginia"
+    },
+    "42VA": {
+        "lat": 36.6781997681,
+        "long": -76.0329971313,
+        "name": "Virginia Beach ",
+        "state": "Virginia"
+    },
+    "44VA": {
+        "lat": 37.7312011719,
+        "long": -79.8112030029,
+        "name": "Big Hill ",
+        "state": "Virginia"
+    },
+    "45VA": {
+        "lat": 37.695098877,
+        "long": -76.9950027466,
+        "name": "Frog Hollow Farm ",
+        "state": "Virginia"
+    },
+    "46VA": {
+        "lat": 37.8188018799,
+        "long": -78.047203064,
+        "name": "Byrd Creek ",
+        "state": "Virginia"
+    },
+    "48VA": {
+        "lat": 39.2906990051,
+        "long": -78.3507995605,
+        "name": "Al's Field",
+        "state": "Virginia"
+    },
+    "4VA0": {
+        "lat": 37.6365013123,
+        "long": -78.7300033569,
+        "name": "Wood Farm ",
+        "state": "Virginia"
+    },
+    "4VA1": {
+        "lat": 36.6867980957,
+        "long": -79.6660995483,
+        "name": "Davis Field",
+        "state": "Virginia"
+    },
+    "4VA3": {
+        "lat": 37.429901123,
+        "long": -77.3944015503,
+        "name": "Flying W ",
+        "state": "Virginia"
+    },
+    "4VA4": {
+        "lat": 38.9347991943,
+        "long": -78.5400009155,
+        "name": "Hepner ",
+        "state": "Virginia"
+    },
+    "4VA5": {
+        "lat": 37.6595993042,
+        "long": -78.922203064,
+        "name": "Starr ",
+        "state": "Virginia"
+    },
+    "4VA6": {
+        "lat": 37.8806991577,
+        "long": -75.5059967041,
+        "name": "Taylor ",
+        "state": "Virginia"
+    },
+    "4VA8": {
+        "lat": 37.6138000488,
+        "long": -77.2957992554,
+        "name": "Christian's ",
+        "state": "Virginia"
+    },
+    "4VA9": {
+        "lat": 38.5690002441,
+        "long": -77.920501709,
+        "name": "Pleasantdale Field",
+        "state": "Virginia"
+    },
+    "4VG2": {
+        "lat": 37.858056,
+        "long": -77.547222,
+        "name": "Cool Water ",
+        "state": "Virginia"
+    },
+    "51VA": {
+        "lat": 38.7162017822,
+        "long": -77.6339035034,
+        "name": "Skyview ",
+        "state": "Virginia"
+    },
+    "53VA": {
+        "lat": 38.6339988708,
+        "long": -77.7574996948,
+        "name": "Horse Feathers ",
+        "state": "Virginia"
+    },
+    "57VA": {
+        "lat": 37.4510002136,
+        "long": -78.6785964966,
+        "name": "Toga ",
+        "state": "Virginia"
+    },
+    "58VA": {
+        "lat": 38.5951004028,
+        "long": -77.6461029053,
+        "name": "Walnut Hill ",
+        "state": "Virginia"
+    },
+    "5VA5": {
+        "lat": 38.4034996033,
+        "long": -77.3158035278,
+        "name": "Chimney View ",
+        "state": "Virginia"
+    },
+    "5VA9": {
+        "lat": 37.6926002502,
+        "long": -76.3182983398,
+        "name": "Kilmarnock/Tolbert Field",
+        "state": "Virginia"
+    },
+    "61VA": {
+        "lat": 39.2354011536,
+        "long": -78.0119018555,
+        "name": "High View Farm ",
+        "state": "Virginia"
+    },
+    "62VA": {
+        "lat": 36.6698989868,
+        "long": -76.7285995483,
+        "name": "Grasso Salvage ",
+        "state": "Virginia"
+    },
+    "67VA": {
+        "lat": 38.837600708,
+        "long": -78.5195007324,
+        "name": "Karmy's ",
+        "state": "Virginia"
+    },
+    "69VA": {
+        "lat": 37.8571014404,
+        "long": -77.420501709,
+        "name": "Meadow Farm ",
+        "state": "Virginia"
+    },
+    "6VA0": {
+        "lat": 37.8186988831,
+        "long": -76.3177032471,
+        "name": "Remo Private ",
+        "state": "Virginia"
+    },
+    "6VA2": {
+        "lat": 36.7417984009,
+        "long": -79.8478012085,
+        "name": "Loury Lester Airpark",
+        "state": "Virginia"
+    },
+    "6VA4": {
+        "lat": 37.2849006653,
+        "long": -80.0698013306,
+        "name": "Trussmark ",
+        "state": "Virginia"
+    },
+    "6VA9": {
+        "lat": 36.8426017761,
+        "long": -80.2384033203,
+        "name": "Bush ",
+        "state": "Virginia"
+    },
+    "70NC": {
+        "lat": 36.5446014404,
+        "long": -78.1480026245,
+        "name": "Martindale Executive Airpark",
+        "state": "Virginia"
+    },
+    "70VA": {
+        "lat": 37.0754013062,
+        "long": -79.8273010254,
+        "name": "Burnt Chimney ",
+        "state": "Virginia"
+    },
+    "77VA": {
+        "lat": 37.8881988525,
+        "long": -78.2857971191,
+        "name": "Camp Friendship Airfield",
+        "state": "Virginia"
+    },
+    "78VA": {
+        "lat": 38.2463989258,
+        "long": -78.4753036499,
+        "name": "Hilldale ",
+        "state": "Virginia"
+    },
+    "7VA5": {
+        "lat": 37.188999176,
+        "long": -78.8296966553,
+        "name": "Redhouse Airfield",
+        "state": "Virginia"
+    },
+    "7VA9": {
+        "lat": 38.398333,
+        "long": -79.600278,
+        "name": "Hannah Field",
+        "state": "Virginia"
+    },
+    "7VG0": {
+        "lat": 38.6557006836,
+        "long": -77.7872009277,
+        "name": "Warrenton Air Park",
+        "state": "Virginia"
+    },
+    "80VA": {
+        "lat": 37.7913017273,
+        "long": -77.8246994019,
+        "name": "Holly Springs ",
+        "state": "Virginia"
+    },
+    "81VA": {
+        "lat": 37.1180992126,
+        "long": -79.7885971069,
+        "name": "Ferguson ",
+        "state": "Virginia"
+    },
+    "82VA": {
+        "lat": 38.1731987,
+        "long": -78.9692001343,
+        "name": "Root Field",
+        "state": "Virginia"
+    },
+    "87VA": {
+        "lat": 38.0811004639,
+        "long": -78.695602417,
+        "name": "Cottonwood Farm ",
+        "state": "Virginia"
+    },
+    "88VA": {
+        "lat": 38.3741989136,
+        "long": -77.991897583,
+        "name": "Belmont Farm ",
+        "state": "Virginia"
+    },
+    "89VA": {
+        "lat": 38.5223007202,
+        "long": -78.5242004395,
+        "name": "Hidden River ",
+        "state": "Virginia"
+    },
+    "8VA1": {
+        "lat": 38.4542999268,
+        "long": -78.1864013672,
+        "name": "Grand Pre Farm ",
+        "state": "Virginia"
+    },
+    "8VA2": {
+        "lat": 38.0089988708,
+        "long": -76.56300354,
+        "name": "Shivok ",
+        "state": "Virginia"
+    },
+    "8VA4": {
+        "lat": 37.6729011536,
+        "long": -78.7033004761,
+        "name": "Lotus International ",
+        "state": "Virginia"
+    },
+    "8VA6": {
+        "lat": 37.7382011414,
+        "long": -78.9621963501,
+        "name": "Flatwoods ",
+        "state": "Virginia"
+    },
+    "90VA": {
+        "lat": 38.2181015015,
+        "long": -78.2118988037,
+        "name": "Hen & Bacon ",
+        "state": "Virginia"
+    },
+    "91VA": {
+        "lat": 37.3275985718,
+        "long": -79.404800415,
+        "name": "Miller ",
+        "state": "Virginia"
+    },
+    "92VA": {
+        "lat": 37.3446998596,
+        "long": -76.5643997192,
+        "name": "New Quarter Farm ",
+        "state": "Virginia"
+    },
+    "93VA": {
+        "lat": 37.5363006592,
+        "long": -79.023399353,
+        "name": "Timberdoodle ",
+        "state": "Virginia"
+    },
+    "94VA": {
+        "lat": 37.2630996704,
+        "long": -78.8494033813,
+        "name": "Highview Farms ",
+        "state": "Virginia"
+    },
+    "95VA": {
+        "lat": 36.6231994629,
+        "long": -79.3559036255,
+        "name": "Buck Hollar ",
+        "state": "Virginia"
+    },
+    "97VA": {
+        "lat": 38.2107009888,
+        "long": -79.7134017944,
+        "name": "Singleton ",
+        "state": "Virginia"
+    },
+    "98VA": {
+        "lat": 38.9422988892,
+        "long": -77.5421981812,
+        "name": "Glascock ",
+        "state": "Virginia"
+    },
+    "99VA": {
+        "lat": 37.7999992371,
+        "long": -78.4666976929,
+        "name": "Anderson ",
+        "state": "Virginia"
+    },
+    "9VA0": {
+        "lat": 38.0526008606,
+        "long": -79.7288970947,
+        "name": "Bath Alum ",
+        "state": "Virginia"
+    },
+    "9VA1": {
+        "lat": 37.4053993225,
+        "long": -76.3882980347,
+        "name": "Holly Point ",
+        "state": "Virginia"
+    },
+    "9VA3": {
+        "lat": 37.7629013062,
+        "long": -75.5718994141,
+        "name": "Crippen Creek Farm ",
+        "state": "Virginia"
+    },
+    "9VA4": {
+        "lat": 38.6908988953,
+        "long": -78.6295013428,
+        "name": "Franwood Farms Inc. ",
+        "state": "Virginia"
+    },
+    "9VG9": {
+        "lat": 39.3721008301,
+        "long": -78.3044967651,
+        "name": "Jucapa Farms ",
+        "state": "Virginia"
+    },
+    "K0V4": {
+        "lat": 37.1417007446,
+        "long": -79.0164031982,
+        "name": "Brookneal/Campbell County ",
+        "state": "Virginia"
+    },
+    "K0VG": {
+        "lat": 36.6540985107,
+        "long": -83.2177963257,
+        "name": "Lee County ",
+        "state": "Virginia"
+    },
+    "K8W2": {
+        "lat": 38.6557006836,
+        "long": -78.7080993652,
+        "name": "New Market ",
+        "state": "Virginia"
+    },
+    "KAKQ": {
+        "lat": 36.9872016907,
+        "long": -77.0010986328,
+        "name": "Wakefield Municipal ",
+        "state": "Virginia"
+    },
+    "KAPH": {
+        "lat": 38.06890106,
+        "long": -77.31829834,
+        "name": "A P Hill Aaf (Fort A P Hill) ",
+        "state": "Virginia"
+    },
+    "KAVC": {
+        "lat": 36.68830109,
+        "long": -78.05449677,
+        "name": "Mecklenburg Brunswick Regional ",
+        "state": "Virginia"
+    },
+    "KBCB": {
+        "lat": 37.2075996399,
+        "long": -80.4077987671,
+        "name": "Virginia Tech Montgomery Executive ",
+        "state": "Virginia"
+    },
+    "KBKT": {
+        "lat": 37.0741996765,
+        "long": -77.9574966431,
+        "name": "Allen C Perkinson Blackstone Army Air Field",
+        "state": "Virginia"
+    },
+    "KCHO": {
+        "lat": 38.1385993958,
+        "long": -78.4529037476,
+        "name": "Charlottesville Albemarle ",
+        "state": "Virginia"
+    },
+    "KCJR": {
+        "lat": 38.5266990662,
+        "long": -77.8589019775,
+        "name": "Culpeper Regional ",
+        "state": "Virginia"
+    },
+    "KCPK": {
+        "lat": 36.66559982,
+        "long": -76.3207016,
+        "name": "Chesapeake Regional ",
+        "state": "Virginia"
+    },
+    "KCXE": {
+        "lat": 36.7882995605,
+        "long": -78.5016021729,
+        "name": "Chase City Municipal ",
+        "state": "Virginia"
+    },
+    "KDAA": {
+        "lat": 38.7150001526,
+        "long": -77.1809997559,
+        "name": "Davison Army Air Field",
+        "state": "Virginia"
+    },
+    "KDAN": {
+        "lat": 36.5728988647,
+        "long": -79.3360977173,
+        "name": "Danville Regional ",
+        "state": "Virginia"
+    },
+    "KDCA": {
+        "lat": 38.8521003723,
+        "long": -77.0376968384,
+        "name": "Ronald Reagan Washington National ",
+        "state": "Virginia"
+    },
+    "KEMV": {
+        "lat": 36.6869010925,
+        "long": -77.4828033447,
+        "name": "Emporia Greensville Regional ",
+        "state": "Virginia"
+    },
+    "KEZF": {
+        "lat": 38.2667999268,
+        "long": -77.4492034912,
+        "name": "Shannon ",
+        "state": "Virginia"
+    },
+    "KFAF": {
+        "lat": 37.1324996948,
+        "long": -76.6088027954,
+        "name": "Felker Army Air Field",
+        "state": "Virginia"
+    },
+    "KFCI": {
+        "lat": 37.40650177,
+        "long": -77.52500153,
+        "name": "Chesterfield County ",
+        "state": "Virginia"
+    },
+    "KFKN": {
+        "lat": 36.6981010437,
+        "long": -76.9038009644,
+        "name": "Franklin Municipal John Beverly Rose ",
+        "state": "Virginia"
+    },
+    "KFRR": {
+        "lat": 38.9174995422,
+        "long": -78.2535018921,
+        "name": "Front Royal Warren County ",
+        "state": "Virginia"
+    },
+    "KFVX": {
+        "lat": 37.35749817,
+        "long": -78.43779755,
+        "name": "Farmville Regional ",
+        "state": "Virginia"
+    },
+    "KFYJ": {
+        "lat": 37.52119827,
+        "long": -76.76470184,
+        "name": "Middle Peninsula Regional ",
+        "state": "Virginia"
+    },
+    "KGDY": {
+        "lat": 37.2323989868,
+        "long": -82.125,
+        "name": "Grundy Municipal ",
+        "state": "Virginia"
+    },
+    "KHEF": {
+        "lat": 38.72140121,
+        "long": -77.51540375,
+        "name": "Manassas Regional Harry P. Davis field",
+        "state": "Virginia"
+    },
+    "KHLX": {
+        "lat": 36.7661018372,
+        "long": -80.823600769,
+        "name": "Twin County ",
+        "state": "Virginia"
+    },
+    "KHSP": {
+        "lat": 37.95140076,
+        "long": -79.83390045,
+        "name": "Ingalls Field",
+        "state": "Virginia"
+    },
+    "KHWY": {
+        "lat": 38.5862998962,
+        "long": -77.7106018066,
+        "name": "Warrenton Fauquier ",
+        "state": "Virginia"
+    },
+    "KIAD": {
+        "lat": 38.94449997,
+        "long": -77.45580292,
+        "name": "Washington Dulles International ",
+        "state": "Virginia"
+    },
+    "KJFZ": {
+        "lat": 37.06370163,
+        "long": -81.7983017,
+        "name": "Tazewell County ",
+        "state": "Virginia"
+    },
+    "KJGG": {
+        "lat": 37.239200592,
+        "long": -76.7161026001,
+        "name": "Williamsburg Jamestown ",
+        "state": "Virginia"
+    },
+    "KJYO": {
+        "lat": 39.077999115,
+        "long": -77.5575027466,
+        "name": "Leesburg Executive ",
+        "state": "Virginia"
+    },
+    "KLFI": {
+        "lat": 37.082901001,
+        "long": -76.360496521,
+        "name": "Langley Air Force Base",
+        "state": "Virginia"
+    },
+    "KLKU": {
+        "lat": 38.00979996,
+        "long": -77.9701004,
+        "name": "Louisa County-Freeman field",
+        "state": "Virginia"
+    },
+    "KLNP": {
+        "lat": 36.9874992371,
+        "long": -82.5299987793,
+        "name": "Lonesome Pine ",
+        "state": "Virginia"
+    },
+    "KLVL": {
+        "lat": 36.7728004456,
+        "long": -77.7942962646,
+        "name": "Lawrenceville Brunswick Municipal ",
+        "state": "Virginia"
+    },
+    "KLYH": {
+        "lat": 37.3266983032,
+        "long": -79.2004013062,
+        "name": "Lynchburg Regional Preston Glenn Field",
+        "state": "Virginia"
+    },
+    "KMFV": {
+        "lat": 37.646900177,
+        "long": -75.761100769,
+        "name": "Accomack County ",
+        "state": "Virginia"
+    },
+    "KMKJ": {
+        "lat": 36.8949012756,
+        "long": -81.349899292,
+        "name": "Mountain Empire ",
+        "state": "Virginia"
+    },
+    "KMTV": {
+        "lat": 36.6306991577,
+        "long": -80.0183029175,
+        "name": "Blue Ridge ",
+        "state": "Virginia"
+    },
+    "KNDY": {
+        "lat": 38.33250046,
+        "long": -77.03720093,
+        "name": "Dahlgren Naval Surface Warfare Center ",
+        "state": "Virginia"
+    },
+    "KNFE": {
+        "lat": 36.69509888,
+        "long": -76.13549805,
+        "name": "Fentress Naval Auxiliary Landing Field",
+        "state": "Virginia"
+    },
+    "KNGU": {
+        "lat": 36.93759918,
+        "long": -76.28929901,
+        "name": "Norfolk Ns (Chambers Fld) ",
+        "state": "Virginia"
+    },
+    "KNTU": {
+        "lat": 36.8207016,
+        "long": -76.03350067,
+        "name": "Oceana Nas /Apollo Soucek Field/ Station",
+        "state": "Virginia"
+    },
+    "KNYG": {
+        "lat": 38.50170135,
+        "long": -77.30529785,
+        "name": "Quantico MCAF /Turner field",
+        "state": "Virginia"
+    },
+    "KOFP": {
+        "lat": 37.70899963,
+        "long": -77.43669891,
+        "name": "Hanover County Municipal ",
+        "state": "Virginia"
+    },
+    "KOKV": {
+        "lat": 39.14350128,
+        "long": -78.14440155,
+        "name": "Winchester Regional ",
+        "state": "Virginia"
+    },
+    "KOMH": {
+        "lat": 38.2472000122,
+        "long": -78.0456008911,
+        "name": "Orange County ",
+        "state": "Virginia"
+    },
+    "KORF": {
+        "lat": 36.8945999146,
+        "long": -76.2012023926,
+        "name": "Norfolk International ",
+        "state": "Virginia"
+    },
+    "KPHF": {
+        "lat": 37.13190079,
+        "long": -76.49299622,
+        "name": "Newport News Williamsburg International ",
+        "state": "Virginia"
+    },
+    "KPSK": {
+        "lat": 37.137298584,
+        "long": -80.6784973145,
+        "name": "New River Valley ",
+        "state": "Virginia"
+    },
+    "KPTB": {
+        "lat": 37.1837997437,
+        "long": -77.5074005127,
+        "name": "Dinwiddie County ",
+        "state": "Virginia"
+    },
+    "KPVG": {
+        "lat": 36.7802009583,
+        "long": -76.4487991333,
+        "name": "Hampton Roads Executive ",
+        "state": "Virginia"
+    },
+    "KRIC": {
+        "lat": 37.5051994324,
+        "long": -77.3197021484,
+        "name": "Richmond International ",
+        "state": "Virginia"
+    },
+    "KRMN": {
+        "lat": 38.3981018066,
+        "long": -77.4554977417,
+        "name": "Stafford Regional ",
+        "state": "Virginia"
+    },
+    "KROA": {
+        "lat": 37.3255004883,
+        "long": -79.975402832,
+        "name": "Roanoke Regional Woodrum Field",
+        "state": "Virginia"
+    },
+    "KSFQ": {
+        "lat": 36.6823997498,
+        "long": -76.6018981934,
+        "name": "Suffolk Executive ",
+        "state": "Virginia"
+    },
+    "KSHD": {
+        "lat": 38.2638015747,
+        "long": -78.8964004517,
+        "name": "Shenandoah Valley Regional ",
+        "state": "Virginia"
+    },
+    "KTGI": {
+        "lat": 37.8250999451,
+        "long": -75.9978027344,
+        "name": "Tangier Island ",
+        "state": "Virginia"
+    },
+    "KVJI": {
+        "lat": 36.6870994568,
+        "long": -82.0333023071,
+        "name": "Virginia Highlands ",
+        "state": "Virginia"
+    },
+    "KW31": {
+        "lat": 36.9602012634,
+        "long": -78.1849975586,
+        "name": "Lunenburg County ",
+        "state": "Virginia"
+    },
+    "KW63": {
+        "lat": 36.5957984924,
+        "long": -78.5600967407,
+        "name": "Lake Country Regional ",
+        "state": "Virginia"
+    },
+    "KW78": {
+        "lat": 36.7099990845,
+        "long": -78.8479995728,
+        "name": "William M Tuck ",
+        "state": "Virginia"
+    },
+    "KW81": {
+        "lat": 37.1809997559,
+        "long": -78.0982971191,
+        "name": "Crewe Municipal ",
+        "state": "Virginia"
+    },
+    "KW90": {
+        "lat": 37.2718009949,
+        "long": -79.335899353,
+        "name": "New London ",
+        "state": "Virginia"
+    },
+    "KW91": {
+        "lat": 37.1077003479,
+        "long": -79.5924987793,
+        "name": "Smith Mountain Lake ",
+        "state": "Virginia"
+    },
+    "KW94": {
+        "lat": 37.30559921,
+        "long": -76.63749695,
+        "name": "Camp Peary Landing Strip",
+        "state": "Virginia"
+    },
+    "KW96": {
+        "lat": 37.503200531,
+        "long": -77.12550354,
+        "name": "New Kent County ",
+        "state": "Virginia"
+    },
+    "KWAL": {
+        "lat": 37.9402008057,
+        "long": -75.4664001465,
+        "name": "Wallops Flight Facility ",
+        "state": "Virginia"
+    },
+    "KXSA": {
+        "lat": 37.8596000671,
+        "long": -76.8940963745,
+        "name": "Tappahannock-Essex County ",
+        "state": "Virginia"
+    },
+    "VA00": {
+        "lat": 37.9281997681,
+        "long": -79.1781005859,
+        "name": "Brook Hill Farm ",
+        "state": "Virginia"
+    },
+    "VA02": {
+        "lat": 36.5853996277,
+        "long": -79.8938980103,
+        "name": "Pace ",
+        "state": "Virginia"
+    },
+    "VA04": {
+        "lat": 37.492099762,
+        "long": -79.9287033081,
+        "name": "Barrows ",
+        "state": "Virginia"
+    },
+    "VA06": {
+        "lat": 36.9943008423,
+        "long": -80.454498291,
+        "name": "Deer Run ",
+        "state": "Virginia"
+    },
+    "VA07": {
+        "lat": 37.0956993103,
+        "long": -81.3693008423,
+        "name": "Burkes Garden ",
+        "state": "Virginia"
+    },
+    "VA08": {
+        "lat": 37.7170982361,
+        "long": -76.3588027954,
+        "name": "Longbranch ",
+        "state": "Virginia"
+    },
+    "VA10": {
+        "lat": 37.2801017761,
+        "long": -80.301399231,
+        "name": "Catawba Valley ",
+        "state": "Virginia"
+    },
+    "VA11": {
+        "lat": 36.8078994751,
+        "long": -81.7012023926,
+        "name": "White Oak Stand ",
+        "state": "Virginia"
+    },
+    "VA12": {
+        "lat": 36.6468009949,
+        "long": -79.7969970703,
+        "name": "Gravely ",
+        "state": "Virginia"
+    },
+    "VA13": {
+        "lat": 37.2653999329,
+        "long": -79.0428009033,
+        "name": "Breezy Knoll ",
+        "state": "Virginia"
+    },
+    "VA14": {
+        "lat": 36.7406997681,
+        "long": -77.2627029419,
+        "name": "Southampton Correctional Center ",
+        "state": "Virginia"
+    },
+    "VA15": {
+        "lat": 37.6562995911,
+        "long": -78.0449981689,
+        "name": "Stokes ",
+        "state": "Virginia"
+    },
+    "VA16": {
+        "lat": 38.8792991638,
+        "long": -77.4843978882,
+        "name": "Centreville ",
+        "state": "Virginia"
+    },
+    "VA17": {
+        "lat": 39.035900116,
+        "long": -78.3921966553,
+        "name": "Mulberry Run ",
+        "state": "Virginia"
+    },
+    "VA18": {
+        "lat": 37.96849823,
+        "long": -78.6821975708,
+        "name": "Bundoran ",
+        "state": "Virginia"
+    },
+    "VA19": {
+        "lat": 37.9539985657,
+        "long": -78.3692016602,
+        "name": "Snow Hill ",
+        "state": "Virginia"
+    },
+    "VA22": {
+        "lat": 36.6750984192,
+        "long": -78.6949996948,
+        "name": "Big River Ranch ",
+        "state": "Virginia"
+    },
+    "VA23": {
+        "lat": 38.1189994812,
+        "long": -76.6136016846,
+        "name": "Sanford Field",
+        "state": "Virginia"
+    },
+    "VA24": {
+        "lat": 37.4142990112,
+        "long": -78.9642028809,
+        "name": "Skovhus ",
+        "state": "Virginia"
+    },
+    "VA25": {
+        "lat": 36.7643013,
+        "long": -78.360496521,
+        "name": "Twin Towers ",
+        "state": "Virginia"
+    },
+    "VA26": {
+        "lat": 36.650100708,
+        "long": -80.1164016724,
+        "name": "Trent Farm Airstrip",
+        "state": "Virginia"
+    },
+    "VA27": {
+        "lat": 36.5598983765,
+        "long": -80.137802124,
+        "name": "Moorefield's Airstrip",
+        "state": "Virginia"
+    },
+    "VA28": {
+        "lat": 37.1212997437,
+        "long": -78.6436004639,
+        "name": "Layne Farm Airstrip",
+        "state": "Virginia"
+    },
+    "VA30": {
+        "lat": 38.5267982483,
+        "long": -77.9563980103,
+        "name": "Berryvale ",
+        "state": "Virginia"
+    },
+    "VA31": {
+        "lat": 37.7625999451,
+        "long": -76.3462982178,
+        "name": "Apple Grove ",
+        "state": "Virginia"
+    },
+    "VA32": {
+        "lat": 38.8042984009,
+        "long": -78.5719985962,
+        "name": "Longs ",
+        "state": "Virginia"
+    },
+    "VA33": {
+        "lat": 37.0443000793,
+        "long": -76.7682037354,
+        "name": "Beaver Dam Airpark",
+        "state": "Virginia"
+    },
+    "VA34": {
+        "lat": 37.2835006714,
+        "long": -78.4496994019,
+        "name": "Big Buffalo Airstrip",
+        "state": "Virginia"
+    },
+    "VA36": {
+        "lat": 37.7445983887,
+        "long": -78.2703018188,
+        "name": "F. U. M. A. ",
+        "state": "Virginia"
+    },
+    "VA41": {
+        "lat": 37.9346008301,
+        "long": -75.6099014282,
+        "name": "High Hopes ",
+        "state": "Virginia"
+    },
+    "VA42": {
+        "lat": 38.3585014343,
+        "long": -77.4522018433,
+        "name": "Dogwood Airpark",
+        "state": "Virginia"
+    },
+    "VA43": {
+        "lat": 37.6473999023,
+        "long": -79.4247970581,
+        "name": "Balcony Downs Airstrip",
+        "state": "Virginia"
+    },
+    "VA44": {
+        "lat": 37.7168006897,
+        "long": -77.8839035034,
+        "name": "Rose Retreat Farm ",
+        "state": "Virginia"
+    },
+    "VA45": {
+        "lat": 38.1278991699,
+        "long": -78.1635971069,
+        "name": "Lous ",
+        "state": "Virginia"
+    },
+    "VA46": {
+        "lat": 39.2961997986,
+        "long": -78.362197876,
+        "name": "Timber Ridge Airpark",
+        "state": "Virginia"
+    },
+    "VA49": {
+        "lat": 37.7053985596,
+        "long": -77.3724975586,
+        "name": "Robertson ",
+        "state": "Virginia"
+    },
+    "VA50": {
+        "lat": 37.7150993347,
+        "long": -77.3024978638,
+        "name": "Woods Farm Airstrip",
+        "state": "Virginia"
+    },
+    "VA52": {
+        "lat": 38.4850997925,
+        "long": -78.9452972412,
+        "name": "Frank Field",
+        "state": "Virginia"
+    },
+    "VA56": {
+        "lat": 37.0035018921,
+        "long": -76.8274993896,
+        "name": "Wells ",
+        "state": "Virginia"
+    },
+    "VA57": {
+        "lat": 38.248500824,
+        "long": -77.2191009521,
+        "name": "Powhatan ",
+        "state": "Virginia"
+    },
+    "VA58": {
+        "lat": 38.9061012268,
+        "long": -78.4443969727,
+        "name": "River Bend ",
+        "state": "Virginia"
+    },
+    "VA59": {
+        "lat": 36.6357002258,
+        "long": -76.1516036987,
+        "name": "Weatherly & Son ",
+        "state": "Virginia"
+    },
+    "VA61": {
+        "lat": 39.263999939,
+        "long": -77.6572036743,
+        "name": "Scott Airpark",
+        "state": "Virginia"
+    },
+    "VA63": {
+        "lat": 37.679599762,
+        "long": -79.4203033447,
+        "name": "Twin River ",
+        "state": "Virginia"
+    },
+    "VA64": {
+        "lat": 37.4160003662,
+        "long": -77.9539031982,
+        "name": "Hill Top ",
+        "state": "Virginia"
+    },
+    "VA65": {
+        "lat": 37.3945999146,
+        "long": -79.324798584,
+        "name": "Ivy Hill ",
+        "state": "Virginia"
+    },
+    "VA66": {
+        "lat": 38.6076011658,
+        "long": -77.5693969727,
+        "name": "Breeden ",
+        "state": "Virginia"
+    },
+    "VA67": {
+        "lat": 38.570098877,
+        "long": -77.9349975586,
+        "name": "Homeland ",
+        "state": "Virginia"
+    },
+    "VA68": {
+        "lat": 37.1188011169,
+        "long": -79.6027984619,
+        "name": "Lakeview Aerodrome",
+        "state": "Virginia"
+    },
+    "VA71": {
+        "lat": 38.6484985352,
+        "long": -77.5327987671,
+        "name": "Aden Field",
+        "state": "Virginia"
+    },
+    "VA72": {
+        "lat": 36.6001014709,
+        "long": -80.0386962891,
+        "name": "Covington ",
+        "state": "Virginia"
+    },
+    "VA73": {
+        "lat": 37.2445983887,
+        "long": -77.4942016602,
+        "name": "Mazza ",
+        "state": "Virginia"
+    },
+    "VA75": {
+        "lat": 38.3026008606,
+        "long": -79.508102417,
+        "name": "Smith Field",
+        "state": "Virginia"
+    },
+    "VA76": {
+        "lat": 36.9875984192,
+        "long": -77.771697998,
+        "name": "Baskerville ",
+        "state": "Virginia"
+    },
+    "VA77": {
+        "lat": 37.6940002441,
+        "long": -77.3768997192,
+        "name": "Hanover Air Park",
+        "state": "Virginia"
+    },
+    "VA79": {
+        "lat": 38.9528999329,
+        "long": -77.7469024658,
+        "name": "Hickory Tree Farm ",
+        "state": "Virginia"
+    },
+    "VA80": {
+        "lat": 37.4788017273,
+        "long": -77.7018966675,
+        "name": "Woodle ",
+        "state": "Virginia"
+    },
+    "VA81": {
+        "lat": 37.945400238,
+        "long": -77.8993988037,
+        "name": "Cub Field",
+        "state": "Virginia"
+    },
+    "VA83": {
+        "lat": 37.5223999023,
+        "long": -79.8519973755,
+        "name": "Fincastle ",
+        "state": "Virginia"
+    },
+    "VA85": {
+        "lat": 37.4835014343,
+        "long": -80.0998001099,
+        "name": "New Castle International ",
+        "state": "Virginia"
+    },
+    "VA86": {
+        "lat": 38.6893005371,
+        "long": -78.7063980103,
+        "name": "Buddy Davis Field",
+        "state": "Virginia"
+    },
+    "VA87": {
+        "lat": 38.6917991638,
+        "long": -77.5511016846,
+        "name": "Valley View ",
+        "state": "Virginia"
+    },
+    "VA89": {
+        "lat": 37.5646018982,
+        "long": -75.9263000488,
+        "name": "Chance ",
+        "state": "Virginia"
+    },
+    "VA90": {
+        "lat": 37.496799469,
+        "long": -76.4135971069,
+        "name": "Hudgins Farm Ultralightport",
+        "state": "Virginia"
+    },
+    "VA91": {
+        "lat": 37.7048988342,
+        "long": -75.726600647,
+        "name": "Johnson Field",
+        "state": "Virginia"
+    },
+    "VA92": {
+        "lat": 37.7224006653,
+        "long": -75.7857971191,
+        "name": "Peace and Plenty Farm ",
+        "state": "Virginia"
+    },
+    "VA93": {
+        "lat": 38.9051017761,
+        "long": -78.6547012329,
+        "name": "Ayers ",
+        "state": "Virginia"
+    },
+    "VA94": {
+        "lat": 37.5357017517,
+        "long": -77.8914031982,
+        "name": "Plainview ",
+        "state": "Virginia"
+    },
+    "VA95": {
+        "lat": 37.5970993042,
+        "long": -77.8003005981,
+        "name": "Spring Valley ",
+        "state": "Virginia"
+    },
+    "VA96": {
+        "lat": 37.8254013062,
+        "long": -78.7316970825,
+        "name": "Faber ",
+        "state": "Virginia"
+    },
+    "VA97": {
+        "lat": 38.9126014709,
+        "long": -77.8816986084,
+        "name": "Harris ",
+        "state": "Virginia"
+    },
+    "VA98": {
+        "lat": 37.8282012939,
+        "long": -76.2733001709,
+        "name": "Reedville ",
+        "state": "Virginia"
+    },
+    "VA99": {
+        "lat": 37.90599823,
+        "long": -76.2904968262,
+        "name": "Federhart-Ophelia STOLport",
+        "state": "Virginia"
+    },
+    "VG00": {
+        "lat": 37.3698997498,
+        "long": -75.9468994141,
+        "name": "Mears Field",
+        "state": "Virginia"
+    },
+    "VG01": {
+        "lat": 37.0624008179,
+        "long": -78.5616989136,
+        "name": "Eureka ",
+        "state": "Virginia"
+    },
+    "VG05": {
+        "lat": 37.8796005249,
+        "long": -78.0575027466,
+        "name": "Payne ",
+        "state": "Virginia"
+    },
+    "VG06": {
+        "lat": 37.7251014709,
+        "long": -79.0830993652,
+        "name": "Fulcher Family Farms ",
+        "state": "Virginia"
+    },
+    "VG07": {
+        "lat": 38.538898468,
+        "long": -77.8283004761,
+        "name": "Rular ",
+        "state": "Virginia"
+    },
+    "VG09": {
+        "lat": 37.2277984619,
+        "long": -75.9832992554,
+        "name": "Starbase ",
+        "state": "Virginia"
+    },
+    "VG10": {
+        "lat": 37.927898407,
+        "long": -78.551399231,
+        "name": "Cathro ",
+        "state": "Virginia"
+    },
+    "VG12": {
+        "lat": 38.3334999084,
+        "long": -77.8664016724,
+        "name": "Simpsonville ",
+        "state": "Virginia"
+    },
+    "VG16": {
+        "lat": 36.6250991821,
+        "long": -80.1706008911,
+        "name": "Collins ",
+        "state": "Virginia"
+    },
+    "VG18": {
+        "lat": 38.8158988953,
+        "long": -78.7703018188,
+        "name": "Sky Bryce ",
+        "state": "Virginia"
+    },
+    "VG19": {
+        "lat": 37.9906997681,
+        "long": -75.5919036865,
+        "name": "Sawyer STOLport",
+        "state": "Virginia"
+    },
+    "VG20": {
+        "lat": 37.6750984192,
+        "long": -75.7098999023,
+        "name": "Onley ",
+        "state": "Virginia"
+    },
+    "VG22": {
+        "lat": 37.8796005249,
+        "long": -78.8936004639,
+        "name": "Rockfish Airpark",
+        "state": "Virginia"
+    },
+    "VG23": {
+        "lat": 38.927898407,
+        "long": -77.5627975464,
+        "name": "Smith ",
+        "state": "Virginia"
+    },
+    "VG24": {
+        "lat": 37.7817993164,
+        "long": -77.4938964844,
+        "name": "Mayers ",
+        "state": "Virginia"
+    },
+    "VG25": {
+        "lat": 37.3484992981,
+        "long": -79.5719985962,
+        "name": "Robinson ",
+        "state": "Virginia"
+    },
+    "VG27": {
+        "lat": 37.2692985535,
+        "long": -79.4358978271,
+        "name": "Windy Ridge ",
+        "state": "Virginia"
+    },
+    "VG28": {
+        "lat": 36.5489997864,
+        "long": -77.1913986206,
+        "name": "Mann ",
+        "state": "Virginia"
+    },
+    "VG29": {
+        "lat": 37.9707984924,
+        "long": -76.7097015381,
+        "name": "Branham Mill Airpark",
+        "state": "Virginia"
+    },
+    "VG30": {
+        "lat": 37.2271003723,
+        "long": -75.9768981934,
+        "name": "Scott Farm Strip",
+        "state": "Virginia"
+    },
+    "VG31": {
+        "lat": 38.7134017944,
+        "long": -78.863899231,
+        "name": "Sager Field",
+        "state": "Virginia"
+    },
+    "VG32": {
+        "lat": 37.6142997742,
+        "long": -78.6035995483,
+        "name": "Eastview ",
+        "state": "Virginia"
+    },
+    "VG33": {
+        "lat": 37.1545982361,
+        "long": -75.9569015503,
+        "name": "Bull Farm ",
+        "state": "Virginia"
+    },
+    "VG34": {
+        "lat": 36.5845985413,
+        "long": -78.5008010864,
+        "name": "Merifield ",
+        "state": "Virginia"
+    },
+    "VG36": {
+        "lat": 37.0382003784,
+        "long": -78.4627990723,
+        "name": "Keysville ",
+        "state": "Virginia"
+    },
+    "VG37": {
+        "lat": 36.5892982483,
+        "long": -76.6380004883,
+        "name": "Umphlett Airstrip",
+        "state": "Virginia"
+    },
+    "VG38": {
+        "lat": 37.3695983887,
+        "long": -78.0830993652,
+        "name": "Easter Field",
+        "state": "Virginia"
+    },
+    "VG39": {
+        "lat": 37.2207984924,
+        "long": -76.0074996948,
+        "name": "Earth ",
+        "state": "Virginia"
+    },
+    "VG40": {
+        "lat": 36.8835983276,
+        "long": -79.8523025513,
+        "name": "Woody Field ",
+        "state": "Virginia"
+    },
+    "VG42": {
+        "lat": 37.2523994446,
+        "long": -77.1527023315,
+        "name": "Henshaw ",
+        "state": "Virginia"
+    },
+    "VG43": {
+        "lat": 38.3064002991,
+        "long": -78.0988998413,
+        "name": "Arrowpoint ",
+        "state": "Virginia"
+    },
+    "VG52": {
+        "lat": 37.8391990662,
+        "long": -78.8217010498,
+        "name": "Woodridge Field",
+        "state": "Virginia"
+    },
+    "VG53": {
+        "lat": 37.043598175,
+        "long": -79.801399231,
+        "name": "Venning's Landing ",
+        "state": "Virginia"
+    },
+    "VG55": {
+        "lat": 38.8819999695,
+        "long": -78.557800293,
+        "name": "Woodstock ",
+        "state": "Virginia"
+    },
+    "VG56": {
+        "lat": 37.8083000183,
+        "long": -75.6027984619,
+        "name": "Midway ",
+        "state": "Virginia"
+    },
+    "VG57": {
+        "lat": 38.6057014465,
+        "long": -77.5847015381,
+        "name": "Maples Field",
+        "state": "Virginia"
+    },
+    "VG58": {
+        "lat": 36.945333,
+        "long": -79.796667,
+        "name": "Abbott ",
+        "state": "Virginia"
+    },
+    "VG64": {
+        "lat": 37.5615,
+        "long": -76.852528,
+        "name": "Lee Field",
+        "state": "Virginia"
+    }
+}

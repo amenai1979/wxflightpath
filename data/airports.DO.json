@@ -1,0 +1,172 @@
+{
+  "MDAB": {
+    "lat": 19.198600769,
+    "long": -69.4298019409,
+    "name": "Arroyo Barril "
+  },
+  "MDAD": {
+    "lat": 18.4255008698,
+    "long": -70.7313995361,
+    "name": "Azua "
+  },
+  "MDAN": {
+    "lat": 19.1315994263,
+    "long": -70.2216033936,
+    "name": "Cotui Angelina "
+  },
+  "MDBA": {
+    "lat": 18.6833324432,
+    "long": -69.3833312988,
+    "name": "Consuelo Batey Anita "
+  },
+  "MDBC": {
+    "lat": 18.4797000885,
+    "long": -68.9159011841,
+    "name": "La Romana Batey Cacata "
+  },
+  "MDBE": {
+    "lat": 18.5867996216,
+    "long": -69.0553970337,
+    "name": "La Romana Batey Lechuga "
+  },
+  "MDBG": {
+    "lat": 18.6315994263,
+    "long": -68.7378005981,
+    "name": "Higuey "
+  },
+  "MDBH": {
+    "lat": 18.251499176,
+    "long": -71.1203994751,
+    "name": "Maria Montez International "
+  },
+  "MDBL": {
+    "lat": 18.450799942,
+    "long": -69.5925979614,
+    "name": "Boca Chica "
+  },
+  "MDBM": {
+    "lat": 18.4480991364,
+    "long": -69.2811965942,
+    "name": "San Pedro De Macoris "
+  },
+  "MDCR": {
+    "lat": 17.9290008545,
+    "long": -71.6447982788,
+    "name": "Cabo Rojo "
+  },
+  "MDCY": {
+    "lat": 19.2670001984,
+    "long": -69.7419967651,
+    "name": "Samana El Catey International "
+  },
+  "MDCZ": {
+    "lat": 18.9074993134,
+    "long": -70.7219009399,
+    "name": "Constanza Dom Re "
+  },
+  "MDDJ": {
+    "lat": 19.5636005402,
+    "long": -71.6808013916,
+    "name": "Dajabon "
+  },
+  "MDER": {
+    "lat": 19.1848132376,
+    "long": -70.3649640083,
+    "name": "El Ranchito "
+  },
+  "MDES": {
+    "lat": 19.5841122474,
+    "long": -70.95672369,
+    "name": "Penuela / Esperanza Field"
+  },
+  "MDHN": {
+    "lat": 17.8725186193,
+    "long": -71.2687182426,
+    "name": "Juancho Enriquillo "
+  },
+  "MDJB": {
+    "lat": 18.5725002289,
+    "long": -69.9856033325,
+    "name": "La Isabela International "
+  },
+  "MDJI": {
+    "lat": 18.49285,
+    "long": -71.869999,
+    "name": "Jimani "
+  },
+  "MDLL": {
+    "lat": 18.5964259778,
+    "long": -69.5257759094,
+    "name": "Los Llanos de Sabanatosa "
+  },
+  "MDLM": {
+    "lat": 18.521233,
+    "long": -70.099132,
+    "name": "Los Montones "
+  },
+  "MDLR": {
+    "lat": 18.4507007599,
+    "long": -68.9117965698,
+    "name": "Casa De Campo International "
+  },
+  "MDMA": {
+    "lat": 18.501933,
+    "long": -68.799099,
+    "name": "Magdalena Cuya "
+  },
+  "MDMC": {
+    "lat": 19.8652992249,
+    "long": -71.6453018188,
+    "name": "Monte Cristi "
+  },
+  "MDPC": {
+    "lat": 18.5673999786,
+    "long": -68.3634033203,
+    "name": "Punta Cana International "
+  },
+  "MDPM": {
+    "lat": 19.5977273869,
+    "long": -71.205970645,
+    "name": "Piloto "
+  },
+  "MDPO": {
+    "lat": 19.3214150435,
+    "long": -69.4959121943,
+    "name": "Samana El Portillo "
+  },
+  "MDPP": {
+    "lat": 19.757900238,
+    "long": -70.5699996948,
+    "name": "Gregorio Luperon International "
+  },
+  "MDSA": {
+    "lat": 18.8255004883,
+    "long": -71.2313995361,
+    "name": "San Juan De La Maguana "
+  },
+  "MDSB": {
+    "lat": 19.0618991852,
+    "long": -69.3852005005,
+    "name": "Sabana de Mar "
+  },
+  "MDSD": {
+    "lat": 18.4297008514,
+    "long": -69.6688995361,
+    "name": "Las Americas International "
+  },
+  "MDSI": {
+    "lat": 18.5037002563,
+    "long": -69.7617034912,
+    "name": "San Isidro Air Base"
+  },
+  "MDST": {
+    "lat": 19.4060993195,
+    "long": -70.6046981812,
+    "name": "Cibao International "
+  },
+  "MDWO": {
+    "lat": 19.757867,
+    "long": -71.623482,
+    "name": "Walterio "
+  }
+}

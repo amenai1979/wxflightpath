@@ -1,0 +1,22 @@
+{
+  "LCEN": {
+    "lat": 35.1547012329,
+    "long": 33.4961013794,
+    "name": "Ercan International "
+  },
+  "LCLK": {
+    "lat": 34.8750991821,
+    "long": 33.6249008179,
+    "name": "Larnaca International "
+  },
+  "LCPH": {
+    "lat": 34.7179985046,
+    "long": 32.4856987,
+    "name": "Paphos International "
+  },
+  "LCRA": {
+    "lat": 34.5904006958,
+    "long": 32.9878997803,
+    "name": "RAF Akrotiri"
+  }
+}

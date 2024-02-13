@@ -1,0 +1,22 @@
+{
+  "OTBD": {
+    "lat": 25.261100769,
+    "long": 51.5651016235,
+    "name": "Doha International "
+  },
+  "OTBH": {
+    "lat": 25.1173000336,
+    "long": 51.3149986267,
+    "name": "Al Udeid Air Base"
+  },
+  "OTBK": {
+    "lat": 25.6296005249,
+    "long": 51.5066986084,
+    "name": "Al Khawr "
+  },
+  "OTHH": {
+    "lat": 25.2605946,
+    "long": 51.6137665,
+    "name": "Hamad International "
+  }
+}

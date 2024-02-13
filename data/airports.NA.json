@@ -1,0 +1,317 @@
+{
+  "FYAB": {
+    "lat": -26.7761001587,
+    "long": 19.6331005096,
+    "name": "Aroab B "
+  },
+  "FYAM": {
+    "lat": -23.6557998657,
+    "long": 19.3516998291,
+    "name": "Aminuis Airstrip"
+  },
+  "FYAR": {
+    "lat": -22.4622001648,
+    "long": 14.9799995422,
+    "name": "Arandis "
+  },
+  "FYAS": {
+    "lat": -26.6938991547,
+    "long": 16.3188991547,
+    "name": "Aus "
+  },
+  "FYAV": {
+    "lat": -28.1189002991,
+    "long": 19.8339004517,
+    "name": "Ariamsvley "
+  },
+  "FYBC": {
+    "lat": -26.5897006989,
+    "long": 17.1674995422,
+    "name": "Bethanien "
+  },
+  "FYBJ": {
+    "lat": -23.875,
+    "long": 17.9911003113,
+    "name": "Bitterwasser Lodge & Flying Club Airfield"
+  },
+  "FYEK": {
+    "lat": -21.786699295,
+    "long": 19.1061000824,
+    "name": "Epukiro "
+  },
+  "FYEN": {
+    "lat": -17.4829998016,
+    "long": 16.3220005035,
+    "name": "Eenhana "
+  },
+  "FYGB": {
+    "lat": -22.5044002533,
+    "long": 18.9731006622,
+    "name": "Gobabis "
+  },
+  "FYGC": {
+    "lat": -24.8563995361,
+    "long": 18.8178005219,
+    "name": "Gochas Airstrip"
+  },
+  "FYGF": {
+    "lat": -19.6021995544,
+    "long": 18.1226997375,
+    "name": "Grootfontein "
+  },
+  "FYGK": {
+    "lat": -24.6299991608,
+    "long": 15.9392004013,
+    "name": "Geluk Kuala Lodge "
+  },
+  "FYGL": {
+    "lat": -21.3260993958,
+    "long": 16.0893993378,
+    "name": "Omaruru Game Lodge "
+  },
+  "FYGV": {
+    "lat": -23.4589004517,
+    "long": 17.497800827,
+    "name": "Gravenstein Prv "
+  },
+  "FYHH": {
+    "lat": -25.8633003235,
+    "long": 16.8099994659,
+    "name": "Helmeringhausen "
+  },
+  "FYHS": {
+    "lat": -27.6243991852,
+    "long": 17.6933002472,
+    "name": "Hobas "
+  },
+  "FYIA": {
+    "lat": -24.088300705,
+    "long": 17.9517002106,
+    "name": "Intu Africa Pan "
+  },
+  "FYKA": {
+    "lat": -21.8477993011,
+    "long": 15.9027996063,
+    "name": "Karibib "
+  },
+  "FYKD": {
+    "lat": -20.9013996124,
+    "long": 16.2077999115,
+    "name": "Kalkfeld "
+  },
+  "FYKE": {
+    "lat": -25.6511001587,
+    "long": 19.8780994415,
+    "name": "Kalahari Game Lodge "
+  },
+  "FYKJ": {
+    "lat": -19.5205993652,
+    "long": 14.8233003616,
+    "name": "Kamanjab "
+  },
+  "FYKM": {
+    "lat": -17.6343994141,
+    "long": 24.176700592,
+    "name": "Katima Mulilo "
+  },
+  "FYKT": {
+    "lat": -26.5398006439,
+    "long": 18.1114006042,
+    "name": "Keetmanshoop "
+  },
+  "FYLS": {
+    "lat": -18.1166992188,
+    "long": 23.3932991028,
+    "name": "Lianshulu "
+  },
+  "FYLZ": {
+    "lat": -26.6874008179,
+    "long": 15.2428998947,
+    "name": "Luderitz "
+  },
+  "FYMB": {
+    "lat": -24.6170005798,
+    "long": 14.6829996109,
+    "name": "Meob Bay Landing Site"
+  },
+  "FYME": {
+    "lat": -21.0233001709,
+    "long": 16.4528007507,
+    "name": "Mount Etjo "
+  },
+  "FYMH": {
+    "lat": -24.771900177,
+    "long": 16.9794006348,
+    "name": "Maltahoehe Airstrip"
+  },
+  "FYML": {
+    "lat": -24.6054000854,
+    "long": 17.9253997803,
+    "name": "Mariental "
+  },
+  "FYMO": {
+    "lat": -18.8127994537,
+    "long": 17.0594005585,
+    "name": "Mokuti Lodge "
+  },
+  "FYNA": {
+    "lat": -18.8064002991,
+    "long": 16.9272003174,
+    "name": "Namutoni "
+  },
+  "FYOA": {
+    "lat": -17.878200531,
+    "long": 15.9525995255,
+    "name": "Ondangwa "
+  },
+  "FYOE": {
+    "lat": -18.0303001404,
+    "long": 22.189699173,
+    "name": "Omega "
+  },
+  "FYOG": {
+    "lat": -28.5846996307,
+    "long": 16.4466991425,
+    "name": "Oranjemund "
+  },
+  "FYOJ": {
+    "lat": -20.0753002167,
+    "long": 16.1247005463,
+    "name": "Outjo "
+  },
+  "FYOM": {
+    "lat": -21.4150009155,
+    "long": 15.9380998611,
+    "name": "Omaruru "
+  },
+  "FYON": {
+    "lat": -22.0139007568,
+    "long": 16.8974990845,
+    "name": "Okahandja Airstrip"
+  },
+  "FYOO": {
+    "lat": -19.1492004395,
+    "long": 15.9118995667,
+    "name": "Okaukuejo "
+  },
+  "FYOU": {
+    "lat": -18.6093997955,
+    "long": 17.1497001648,
+    "name": "Operet "
+  },
+  "FYOW": {
+    "lat": -20.4347000122,
+    "long": 16.6608009338,
+    "name": "Otjiwarongo "
+  },
+  "FYPO": {
+    "lat": -23.6499996185,
+    "long": 17.7299995422,
+    "name": "Pokweni Glider "
+  },
+  "FYRC": {
+    "lat": -17.4206008911,
+    "long": 14.3717002869,
+    "name": "Ruacana "
+  },
+  "FYRP": {
+    "lat": -27.9643001556,
+    "long": 16.753900528,
+    "name": "Rosh Pinah "
+  },
+  "FYRR": {
+    "lat": -20.5380992889,
+    "long": 14.4330997467,
+    "name": "Rag Rock "
+  },
+  "FYRU": {
+    "lat": -17.9564990997,
+    "long": 19.7194004059,
+    "name": "Rundu "
+  },
+  "FYSA": {
+    "lat": -27.8763999939,
+    "long": 16.6478004456,
+    "name": "Skorpion Mine "
+  },
+  "FYSL": {
+    "lat": -24.8033008575,
+    "long": 15.8910999298,
+    "name": "Sossusvlei Moun "
+  },
+  "FYSM": {
+    "lat": -22.6618995667,
+    "long": 14.5680999756,
+    "name": "Swakopmund "
+  },
+  "FYSN": {
+    "lat": -22.10779953,
+    "long": 16.9797000885,
+    "name": "Osona Airstrip"
+  },
+  "FYSO": {
+    "lat": -23.900800705,
+    "long": 16.004699707,
+    "name": "Solitaire "
+  },
+  "FYSP": {
+    "lat": -24.3521995544,
+    "long": 18.4333000183,
+    "name": "Stampriet Pan "
+  },
+  "FYSS": {
+    "lat": -24.5128002167,
+    "long": 15.7467002869,
+    "name": "Sesriem Airstrip"
+  },
+  "FYST": {
+    "lat": -23.9678001404,
+    "long": 18.5489006042,
+    "name": "Strate "
+  },
+  "FYTK": {
+    "lat": -19.5849990845,
+    "long": 20.4528007507,
+    "name": "Tsumkwe "
+  },
+  "FYTM": {
+    "lat": -19.2618999481,
+    "long": 17.7325000763,
+    "name": "Tsumeb "
+  },
+  "FYUS": {
+    "lat": -21.2299995422,
+    "long": 14.8671998978,
+    "name": "Uis Mine "
+  },
+  "FYWB": {
+    "lat": -22.9799003601,
+    "long": 14.6452999115,
+    "name": "Walvis Bay "
+  },
+  "FYWD": {
+    "lat": -25.1168994904,
+    "long": 16.0006008148,
+    "name": "Wolwedans "
+  },
+  "FYWE": {
+    "lat": -22.6121997833,
+    "long": 17.0804004669,
+    "name": "Eros "
+  },
+  "FYWH": {
+    "lat": -22.4799003601,
+    "long": 17.4708995819,
+    "name": "Hosea Kutako International "
+  },
+  "FYWI": {
+    "lat": -22.4053001404,
+    "long": 18.4591999054,
+    "name": "Witvlei "
+  },
+  "FYXX": {
+    "lat": -27.6597003937,
+    "long": 17.8377990723,
+    "name": "Canon Lodge "
+  }
+}

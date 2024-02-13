@@ -1,0 +1,2900 @@
+{
+    "00OH": {
+        "lat": 41.5909004211,
+        "long": -84.1421966553,
+        "name": "Exit 3 ",
+        "state": "Ohio"
+    },
+    "02OH": {
+        "lat": 41.3763999939,
+        "long": -83.0832977295,
+        "name": "Zimmerman ",
+        "state": "Ohio"
+    },
+    "02OI": {
+        "lat": 41.8019981384,
+        "long": -80.5653991699,
+        "name": "Murtha ",
+        "state": "Ohio"
+    },
+    "03OH": {
+        "lat": 41.4183998108,
+        "long": -83.0174026489,
+        "name": "Gibbs Field",
+        "state": "Ohio"
+    },
+    "04OH": {
+        "lat": 41.2476997375,
+        "long": -81.1007003784,
+        "name": "Bossow ",
+        "state": "Ohio"
+    },
+    "05OI": {
+        "lat": 41.2883987427,
+        "long": -81.962600708,
+        "name": "Dorlon Airpark",
+        "state": "Ohio"
+    },
+    "06OH": {
+        "lat": 41.5097999573,
+        "long": -80.5912017822,
+        "name": "Hal Joy Airfield",
+        "state": "Ohio"
+    },
+    "06OI": {
+        "lat": 39.7347984314,
+        "long": -84.3822021484,
+        "name": "Green Acres ",
+        "state": "Ohio"
+    },
+    "08OH": {
+        "lat": 41.2916984558,
+        "long": -80.5636978149,
+        "name": "Kenley ",
+        "state": "Ohio"
+    },
+    "0OH2": {
+        "lat": 39.9706001282,
+        "long": -83.9115982056,
+        "name": "Jenkins Field",
+        "state": "Ohio"
+    },
+    "0OH6": {
+        "lat": 39.6006011963,
+        "long": -84.0196990967,
+        "name": "Fry Field",
+        "state": "Ohio"
+    },
+    "0OH7": {
+        "lat": 40.1432991028,
+        "long": -84.1718978882,
+        "name": "Apple ",
+        "state": "Ohio"
+    },
+    "0OH8": {
+        "lat": 40.1884002686,
+        "long": -84.2561035156,
+        "name": "Fry ",
+        "state": "Ohio"
+    },
+    "0OH9": {
+        "lat": 40.0717010498,
+        "long": -83.2298965454,
+        "name": "Parknavy STOLport",
+        "state": "Ohio"
+    },
+    "0OI2": {
+        "lat": 39.3597984314,
+        "long": -83.4177017212,
+        "name": "Unger Field",
+        "state": "Ohio"
+    },
+    "0OI3": {
+        "lat": 41.3820991516,
+        "long": -82.7161026001,
+        "name": "Galloway ",
+        "state": "Ohio"
+    },
+    "0OI4": {
+        "lat": 41.3242645264,
+        "long": -81.1593093872,
+        "name": "Salt Box ",
+        "state": "Ohio"
+    },
+    "0OI6": {
+        "lat": 41.8381004333,
+        "long": -80.643699646,
+        "name": "Victor's Landing ",
+        "state": "Ohio"
+    },
+    "0OI9": {
+        "lat": 38.8945007324,
+        "long": -83.1135025024,
+        "name": "Hidden Quarry ",
+        "state": "Ohio"
+    },
+    "10OH": {
+        "lat": 41.4028015137,
+        "long": -82.6290969849,
+        "name": "Zoellner ",
+        "state": "Ohio"
+    },
+    "11OA": {
+        "lat": 39.6431007385,
+        "long": -82.466796875,
+        "name": "Hide-A-Way Hills Resort ",
+        "state": "Ohio"
+    },
+    "12OH": {
+        "lat": 39.8348007202,
+        "long": -84.3347015381,
+        "name": "Mcgregor Airfield",
+        "state": "Ohio"
+    },
+    "13OH": {
+        "lat": 41.3302993774,
+        "long": -84.2983016968,
+        "name": "Rose Field",
+        "state": "Ohio"
+    },
+    "14OH": {
+        "lat": 40.6688995361,
+        "long": -83.4434967041,
+        "name": "Heilman ",
+        "state": "Ohio"
+    },
+    "14OI": {
+        "lat": 40.9192008972,
+        "long": -82.1139984131,
+        "name": "Pleasant Home Gliding Club Gliderport",
+        "state": "Ohio"
+    },
+    "16OI": {
+        "lat": 40.1253013611,
+        "long": -84.5824966431,
+        "name": "Trump ",
+        "state": "Ohio"
+    },
+    "17OH": {
+        "lat": 41.2425994873,
+        "long": -82.2702026367,
+        "name": "Kosik Private ",
+        "state": "Ohio"
+    },
+    "17OI": {
+        "lat": 39.2266998291,
+        "long": -83.3177032471,
+        "name": "Haas ",
+        "state": "Ohio"
+    },
+    "18OH": {
+        "lat": 41.2561988831,
+        "long": -82.1437988281,
+        "name": "Jer-Mar Airpark",
+        "state": "Ohio"
+    },
+    "18OI": {
+        "lat": 41.4234008789,
+        "long": -82.9826965332,
+        "name": "Boggy Bottoms ",
+        "state": "Ohio"
+    },
+    "19OH": {
+        "lat": 41.1730995178,
+        "long": -82.0593032837,
+        "name": "Harris Corn Field",
+        "state": "Ohio"
+    },
+    "1OA1": {
+        "lat": 40.0458984375,
+        "long": -84.3343963623,
+        "name": "Bashore ",
+        "state": "Ohio"
+    },
+    "1OA2": {
+        "lat": 41.2616996765,
+        "long": -81.9906997681,
+        "name": "Mole ",
+        "state": "Ohio"
+    },
+    "1OA3": {
+        "lat": 39.3334007263,
+        "long": -83.8554992676,
+        "name": "Barnett Airpark",
+        "state": "Ohio"
+    },
+    "1OA4": {
+        "lat": 39.9235992432,
+        "long": -83.6616973877,
+        "name": "Kepes Flying Field",
+        "state": "Ohio"
+    },
+    "1OA5": {
+        "lat": 39.2195014954,
+        "long": -83.9526977539,
+        "name": "Double J ",
+        "state": "Ohio"
+    },
+    "1OA6": {
+        "lat": 39.3362007141,
+        "long": -84.0457992554,
+        "name": "Frith ",
+        "state": "Ohio"
+    },
+    "1OA7": {
+        "lat": 40.8417015076,
+        "long": -81.2415008545,
+        "name": "Yoder ",
+        "state": "Ohio"
+    },
+    "1OA8": {
+        "lat": 40.346698761,
+        "long": -82.9044036865,
+        "name": "Erdy Farm ",
+        "state": "Ohio"
+    },
+    "1OH1": {
+        "lat": 40.301399231,
+        "long": -83.9760971069,
+        "name": "S and S Field",
+        "state": "Ohio"
+    },
+    "1OH2": {
+        "lat": 41.2439994812,
+        "long": -82.8663024902,
+        "name": "Dougherty ",
+        "state": "Ohio"
+    },
+    "1OH3": {
+        "lat": 41.3891983032,
+        "long": -82.7627029419,
+        "name": "Mather Field",
+        "state": "Ohio"
+    },
+    "1OH4": {
+        "lat": 40.5553016663,
+        "long": -84.3865966797,
+        "name": "Fortman ",
+        "state": "Ohio"
+    },
+    "1OH7": {
+        "lat": 39.9939994812,
+        "long": -81.8637008667,
+        "name": "Derry Landing Strip",
+        "state": "Ohio"
+    },
+    "1OH8": {
+        "lat": 39.8666992188,
+        "long": -83.6333007813,
+        "name": "Lisbon Airfield",
+        "state": "Ohio"
+    },
+    "1OH9": {
+        "lat": 38.9351005554,
+        "long": -83.3993988037,
+        "name": "Lewis ",
+        "state": "Ohio"
+    },
+    "1OI1": {
+        "lat": 41.4283981323,
+        "long": -81.0640029907,
+        "name": "Pauls ",
+        "state": "Ohio"
+    },
+    "1OI6": {
+        "lat": 39.7700996399,
+        "long": -84.4166030884,
+        "name": "Stone ",
+        "state": "Ohio"
+    },
+    "1OI7": {
+        "lat": 41.1584014893,
+        "long": -82.5665969849,
+        "name": "Knight ",
+        "state": "Ohio"
+    },
+    "1OI9": {
+        "lat": 40.1772994995,
+        "long": -84.2944030762,
+        "name": "Mc Colloch's ",
+        "state": "Ohio"
+    },
+    "20OH": {
+        "lat": 41.1431007385,
+        "long": -82.028503418,
+        "name": "Kruggel ",
+        "state": "Ohio"
+    },
+    "21OI": {
+        "lat": 39.1281013489,
+        "long": -84.0926971436,
+        "name": "Clearwater Airpark",
+        "state": "Ohio"
+    },
+    "22OI": {
+        "lat": 41.1488990784,
+        "long": -80.8401031494,
+        "name": "Giovannone ",
+        "state": "Ohio"
+    },
+    "23OA": {
+        "lat": 40.050278,
+        "long": -84.013056,
+        "name": "Dade Field",
+        "state": "Ohio"
+    },
+    "24OH": {
+        "lat": 40.8805999756,
+        "long": -81.2914962769,
+        "name": "Milburn ",
+        "state": "Ohio"
+    },
+    "24OI": {
+        "lat": 40.0778007507,
+        "long": -83.8972015381,
+        "name": "Reeds ",
+        "state": "Ohio"
+    },
+    "25OH": {
+        "lat": 40.9131011963,
+        "long": -81.259803772,
+        "name": "Hammond ",
+        "state": "Ohio"
+    },
+    "25OI": {
+        "lat": 41.4225997925,
+        "long": -80.8778991699,
+        "name": "Morrison Field",
+        "state": "Ohio"
+    },
+    "26OH": {
+        "lat": 40.8753013611,
+        "long": -81.2950973511,
+        "name": "Hitz ",
+        "state": "Ohio"
+    },
+    "27OH": {
+        "lat": 40.9467010498,
+        "long": -83.679901123,
+        "name": "Schaller ",
+        "state": "Ohio"
+    },
+    "27OI": {
+        "lat": 41.4103012085,
+        "long": -81.2843017578,
+        "name": "Auburn ",
+        "state": "Ohio"
+    },
+    "28OH": {
+        "lat": 41.7033996582,
+        "long": -84.0027008057,
+        "name": "Newbury ",
+        "state": "Ohio"
+    },
+    "29OH": {
+        "lat": 40.6864013672,
+        "long": -81.3025970459,
+        "name": "Fox ",
+        "state": "Ohio"
+    },
+    "2OA1": {
+        "lat": 41.4151000977,
+        "long": -80.8843002319,
+        "name": "Bristol Airstrip",
+        "state": "Ohio"
+    },
+    "2OA2": {
+        "lat": 39.2481002808,
+        "long": -83.9150009155,
+        "name": "Mackie's ",
+        "state": "Ohio"
+    },
+    "2OA4": {
+        "lat": 39.9318008423,
+        "long": -83.9075012207,
+        "name": "Victory Field",
+        "state": "Ohio"
+    },
+    "2OA5": {
+        "lat": 40.1824989319,
+        "long": -83.3508987427,
+        "name": "Fl-Airfield",
+        "state": "Ohio"
+    },
+    "2OA6": {
+        "lat": 40.0864982605,
+        "long": -81.5882034302,
+        "name": "Hilltop ",
+        "state": "Ohio"
+    },
+    "2OA7": {
+        "lat": 38.85139847,
+        "long": -84.10559845,
+        "name": "Utter Field",
+        "state": "Ohio"
+    },
+    "2OH0": {
+        "lat": 40.345500946,
+        "long": -82.9404983521,
+        "name": "Bohannan ",
+        "state": "Ohio"
+    },
+    "2OH2": {
+        "lat": 39.4720001221,
+        "long": -83.4898986816,
+        "name": "Merritt ",
+        "state": "Ohio"
+    },
+    "2OH4": {
+        "lat": 40.6245002747,
+        "long": -82.6354980469,
+        "name": "Cedar Creek ",
+        "state": "Ohio"
+    },
+    "2OH6": {
+        "lat": 40.0120010376,
+        "long": -84.2813034058,
+        "name": "Leavelle Airstrip",
+        "state": "Ohio"
+    },
+    "2OH7": {
+        "lat": 38.9112014771,
+        "long": -84.0260009766,
+        "name": "Jbr ",
+        "state": "Ohio"
+    },
+    "2OH8": {
+        "lat": 39.79529953,
+        "long": -83.223197937,
+        "name": "Port-O-John ",
+        "state": "Ohio"
+    },
+    "2OH9": {
+        "lat": 39.4766998291,
+        "long": -84.0938034058,
+        "name": "Caesar Creek Gliderport",
+        "state": "Ohio"
+    },
+    "2OI2": {
+        "lat": 39.5611000061,
+        "long": -84.051902771,
+        "name": "Air Jordan ",
+        "state": "Ohio"
+    },
+    "2OI4": {
+        "lat": 41.04529953,
+        "long": -81.9365005493,
+        "name": "Aero Lake Farm ",
+        "state": "Ohio"
+    },
+    "2OI8": {
+        "lat": 40.863899231,
+        "long": -82.4206008911,
+        "name": "K & D Airways ",
+        "state": "Ohio"
+    },
+    "32OH": {
+        "lat": 40.7611999512,
+        "long": -82.4179000854,
+        "name": "Rall Field",
+        "state": "Ohio"
+    },
+    "33OH": {
+        "lat": 40.1852989197,
+        "long": -83.1735992432,
+        "name": "Sunset Strip",
+        "state": "Ohio"
+    },
+    "33OI": {
+        "lat": 41.0828018188,
+        "long": -82.0431976318,
+        "name": "Soaring Horse ",
+        "state": "Ohio"
+    },
+    "34OH": {
+        "lat": 41.2569999695,
+        "long": -84.6416015625,
+        "name": "Arend ",
+        "state": "Ohio"
+    },
+    "34OI": {
+        "lat": 40.6944999695,
+        "long": -82.1178970337,
+        "name": "Snoddy Air Strip",
+        "state": "Ohio"
+    },
+    "36OH": {
+        "lat": 40.1902999878,
+        "long": -81.9739990234,
+        "name": "Wright's Field",
+        "state": "Ohio"
+    },
+    "36OI": {
+        "lat": 41.0731010437,
+        "long": -84.2126998901,
+        "name": "Verhoff ",
+        "state": "Ohio"
+    },
+    "37OI": {
+        "lat": 40.8250999451,
+        "long": -82.7967987061,
+        "name": "Cole Airfield",
+        "state": "Ohio"
+    },
+    "38OH": {
+        "lat": 39.8447990417,
+        "long": -82.5795974731,
+        "name": "Industry Air Park",
+        "state": "Ohio"
+    },
+    "38OI": {
+        "lat": 39.6851005554,
+        "long": -83.0718994141,
+        "name": "Ronshausen ",
+        "state": "Ohio"
+    },
+    "39OH": {
+        "lat": 40.8123016357,
+        "long": -81.0550994873,
+        "name": "Crosswind Meadows ",
+        "state": "Ohio"
+    },
+    "3OA8": {
+        "lat": 39.2375984192,
+        "long": -83.2606964111,
+        "name": "Valley Vista ",
+        "state": "Ohio"
+    },
+    "3OH0": {
+        "lat": 39.9309005737,
+        "long": -84.0134963989,
+        "name": "Andy Barnhart Memorial ",
+        "state": "Ohio"
+    },
+    "3OH1": {
+        "lat": 39.6972999573,
+        "long": -84.5427017212,
+        "name": "Morningstar North ",
+        "state": "Ohio"
+    },
+    "3OH3": {
+        "lat": 39.9838981628,
+        "long": -83.6132965088,
+        "name": "Pelz Field",
+        "state": "Ohio"
+    },
+    "3OH4": {
+        "lat": 41.6039009094,
+        "long": -80.5897979736,
+        "name": "Riceland Aerodrome",
+        "state": "Ohio"
+    },
+    "3OH5": {
+        "lat": 40.9673995972,
+        "long": -81.2058029175,
+        "name": "Stub's Field",
+        "state": "Ohio"
+    },
+    "3OH6": {
+        "lat": 40.7832984924,
+        "long": -84.3677978516,
+        "name": "Youngpeter ",
+        "state": "Ohio"
+    },
+    "3OH7": {
+        "lat": 39.0301017761,
+        "long": -84.0466003418,
+        "name": "Creager ",
+        "state": "Ohio"
+    },
+    "3OH8": {
+        "lat": 40.3608016968,
+        "long": -81.4233016968,
+        "name": "Gnadenhutten ",
+        "state": "Ohio"
+    },
+    "3OH9": {
+        "lat": 39.5535011292,
+        "long": -83.8520965576,
+        "name": "Merts Field",
+        "state": "Ohio"
+    },
+    "3OI6": {
+        "lat": 40.9612007141,
+        "long": -82.3706970215,
+        "name": "Vogel Airpark",
+        "state": "Ohio"
+    },
+    "40OH": {
+        "lat": 41.4511985779,
+        "long": -81.2348022461,
+        "name": "Bucks ",
+        "state": "Ohio"
+    },
+    "40OI": {
+        "lat": 41.0616989136,
+        "long": -81.9835968018,
+        "name": "M.C.R. ",
+        "state": "Ohio"
+    },
+    "41OH": {
+        "lat": 40.7836990356,
+        "long": -81.0989990234,
+        "name": "Sleepy Hollow ",
+        "state": "Ohio"
+    },
+    "42OH": {
+        "lat": 41.1558990479,
+        "long": -81.0039978027,
+        "name": "Dunn Field",
+        "state": "Ohio"
+    },
+    "43OA": {
+        "lat": 39.580972,
+        "long": -84.092194,
+        "name": "Anderson Airfield",
+        "state": "Ohio"
+    },
+    "43OI": {
+        "lat": 41.1986999512,
+        "long": -83.7007980347,
+        "name": "Windswept ",
+        "state": "Ohio"
+    },
+    "45OH": {
+        "lat": 38.975994,
+        "long": -84.219511,
+        "name": "Boober ",
+        "state": "Ohio"
+    },
+    "45OI": {
+        "lat": 40.5611991882,
+        "long": -81.5457000732,
+        "name": "Plane Country ",
+        "state": "Ohio"
+    },
+    "46OH": {
+        "lat": 41.1036987305,
+        "long": -80.826499939,
+        "name": "Wetzl ",
+        "state": "Ohio"
+    },
+    "46OI": {
+        "lat": 41.6833992004,
+        "long": -83.7666015625,
+        "name": "Kellers Strip",
+        "state": "Ohio"
+    },
+    "47OH": {
+        "lat": 41.2000999451,
+        "long": -82.5735015869,
+        "name": "Chapin ",
+        "state": "Ohio"
+    },
+    "48OH": {
+        "lat": 41.2541999817,
+        "long": -82.1970977783,
+        "name": "Dechant Farms ",
+        "state": "Ohio"
+    },
+    "49OH": {
+        "lat": 41.3666992188,
+        "long": -81.9664993286,
+        "name": "Gilbert ",
+        "state": "Ohio"
+    },
+    "4OA8": {
+        "lat": 40.1086006165,
+        "long": -84.299697876,
+        "name": "Bowman ",
+        "state": "Ohio"
+    },
+    "4OH1": {
+        "lat": 41.716999054,
+        "long": -81.1067962646,
+        "name": "Sky Haven ",
+        "state": "Ohio"
+    },
+    "4OH3": {
+        "lat": 40.9831008911,
+        "long": -80.7011032104,
+        "name": "Bieber Field",
+        "state": "Ohio"
+    },
+    "4OH4": {
+        "lat": 39.7928009033,
+        "long": -83.1172027588,
+        "name": "Millertime ",
+        "state": "Ohio"
+    },
+    "4OH8": {
+        "lat": 41.5,
+        "long": -84.2499008179,
+        "name": "Huffman Farm ",
+        "state": "Ohio"
+    },
+    "4OI7": {
+        "lat": 41.4537010193,
+        "long": -81.9701004028,
+        "name": "R & M Aviation ",
+        "state": "Ohio"
+    },
+    "4OI8": {
+        "lat": 41.057800293,
+        "long": -80.7545013428,
+        "name": "Brocker Field",
+        "state": "Ohio"
+    },
+    "4OI9": {
+        "lat": 39.1021995544,
+        "long": -82.6107025146,
+        "name": "Baisden ",
+        "state": "Ohio"
+    },
+    "50OH": {
+        "lat": 41.6631011963,
+        "long": -83.4154968262,
+        "name": "Culver Field",
+        "state": "Ohio"
+    },
+    "50OI": {
+        "lat": 39.7425994873,
+        "long": -83.0382003784,
+        "name": "Beckman Field",
+        "state": "Ohio"
+    },
+    "51OH": {
+        "lat": 41.0703010559,
+        "long": -84.0863037109,
+        "name": "Agner ",
+        "state": "Ohio"
+    },
+    "51OI": {
+        "lat": 40.8550987244,
+        "long": -81.5989990234,
+        "name": "Clay's Rv ",
+        "state": "Ohio"
+    },
+    "53OH": {
+        "lat": 41.1344985962,
+        "long": -84.4507980347,
+        "name": "Charloe ",
+        "state": "Ohio"
+    },
+    "54OH": {
+        "lat": 41.1234016418,
+        "long": -84.6176986694,
+        "name": "Buehler ",
+        "state": "Ohio"
+    },
+    "55OI": {
+        "lat": 40.8586997986,
+        "long": -80.5353012085,
+        "name": "Aero Flight Center ",
+        "state": "Ohio"
+    },
+    "56OH": {
+        "lat": 40.9072990417,
+        "long": -80.5514984131,
+        "name": "Richey ",
+        "state": "Ohio"
+    },
+    "56OI": {
+        "lat": 41.2056007385,
+        "long": -82.3312988281,
+        "name": "Double S Farms ",
+        "state": "Ohio"
+    },
+    "57OH": {
+        "lat": 40.3362007141,
+        "long": -81.4900970459,
+        "name": "Fillmans Farms Field",
+        "state": "Ohio"
+    },
+    "57OI": {
+        "lat": 39.9967002869,
+        "long": -83.8546981812,
+        "name": "Logan's Chance ",
+        "state": "Ohio"
+    },
+    "58OH": {
+        "lat": 41.6791992188,
+        "long": -82.8470993042,
+        "name": "Rattlesnake Island ",
+        "state": "Ohio"
+    },
+    "59OH": {
+        "lat": 38.9752998352,
+        "long": -84.0342025757,
+        "name": "Kelch ",
+        "state": "Ohio"
+    },
+    "5OH0": {
+        "lat": 40.904800415,
+        "long": -83.6446990967,
+        "name": "Alge ",
+        "state": "Ohio"
+    },
+    "5OH4": {
+        "lat": 41.7291984558,
+        "long": -80.8789978027,
+        "name": "Armington ",
+        "state": "Ohio"
+    },
+    "5OH6": {
+        "lat": 41.4319992065,
+        "long": -81.974899292,
+        "name": "Johnsons Field",
+        "state": "Ohio"
+    },
+    "5OH7": {
+        "lat": 41.4467010498,
+        "long": -82.0071029663,
+        "name": "Keller ",
+        "state": "Ohio"
+    },
+    "5OH9": {
+        "lat": 40.6972007751,
+        "long": -81.1791992188,
+        "name": "Furey ",
+        "state": "Ohio"
+    },
+    "5OI0": {
+        "lat": 39.284198761,
+        "long": -84.2113037109,
+        "name": "Rohrer ",
+        "state": "Ohio"
+    },
+    "5OI3": {
+        "lat": 41.4137001038,
+        "long": -80.5248031616,
+        "name": "Sheets Field",
+        "state": "Ohio"
+    },
+    "5OI5": {
+        "lat": 40.6934013367,
+        "long": -84.7805023193,
+        "name": "Hamrick ",
+        "state": "Ohio"
+    },
+    "5OI7": {
+        "lat": 41.5924987793,
+        "long": -83.37550354,
+        "name": "Gruetter ",
+        "state": "Ohio"
+    },
+    "5OI8": {
+        "lat": 40.1902999878,
+        "long": -82.6546020508,
+        "name": "Mc Knight ",
+        "state": "Ohio"
+    },
+    "5OI9": {
+        "lat": 41.3278007507,
+        "long": -84.5577011108,
+        "name": "Rogers Private ",
+        "state": "Ohio"
+    },
+    "60OI": {
+        "lat": 41.3567008972,
+        "long": -82.6249008179,
+        "name": "Zorn Acres ",
+        "state": "Ohio"
+    },
+    "61OH": {
+        "lat": 41.1981010437,
+        "long": -81.2095031738,
+        "name": "Jetway ",
+        "state": "Ohio"
+    },
+    "62OH": {
+        "lat": 39.6843986511,
+        "long": -82.466796875,
+        "name": "Willard Field",
+        "state": "Ohio"
+    },
+    "63OH": {
+        "lat": 39.7028007507,
+        "long": -83.0939025879,
+        "name": "White's ",
+        "state": "Ohio"
+    },
+    "63OI": {
+        "lat": 40.3350982666,
+        "long": -83.1360015869,
+        "name": "Bowman Field",
+        "state": "Ohio"
+    },
+    "64OH": {
+        "lat": 40.8987007141,
+        "long": -80.9292984009,
+        "name": "O K Dies ",
+        "state": "Ohio"
+    },
+    "65OH": {
+        "lat": 41.0717010498,
+        "long": -81.7511978149,
+        "name": "Wiita Farms ",
+        "state": "Ohio"
+    },
+    "66OI": {
+        "lat": 40.7813987732,
+        "long": -82.0557022095,
+        "name": "Gorman-Freeman ",
+        "state": "Ohio"
+    },
+    "67OH": {
+        "lat": 41.413898468,
+        "long": -81.4525985718,
+        "name": "Harper Ridge ",
+        "state": "Ohio"
+    },
+    "69OH": {
+        "lat": 40.2630996704,
+        "long": -82.5143966675,
+        "name": "Dwight Field",
+        "state": "Ohio"
+    },
+    "69OI": {
+        "lat": 40.9500999451,
+        "long": -82.9248962402,
+        "name": "Schulze's ",
+        "state": "Ohio"
+    },
+    "6OH1": {
+        "lat": 41.2862014771,
+        "long": -82.8666000366,
+        "name": "Missler-Bellevue ",
+        "state": "Ohio"
+    },
+    "6OH3": {
+        "lat": 41.7051010132,
+        "long": -83.8287963867,
+        "name": "R C Ford Field",
+        "state": "Ohio"
+    },
+    "6OH4": {
+        "lat": 41.3583984375,
+        "long": -83.5582962036,
+        "name": "Aring Field",
+        "state": "Ohio"
+    },
+    "6OH6": {
+        "lat": 41.3644981384,
+        "long": -83.5474014282,
+        "name": "Shelton ",
+        "state": "Ohio"
+    },
+    "6OH7": {
+        "lat": 41.4126014709,
+        "long": -83.6797027588,
+        "name": "Nietz ",
+        "state": "Ohio"
+    },
+    "6OH9": {
+        "lat": 40.1058998108,
+        "long": -84.3999023438,
+        "name": "Kemps Field of Dreams ",
+        "state": "Ohio"
+    },
+    "6OI0": {
+        "lat": 41.3759002686,
+        "long": -81.2573013306,
+        "name": "Derecsky ",
+        "state": "Ohio"
+    },
+    "6OI5": {
+        "lat": 40.137298584,
+        "long": -83.2180023193,
+        "name": "Mitchell ",
+        "state": "Ohio"
+    },
+    "70OH": {
+        "lat": 40.9201011658,
+        "long": -82.4791030884,
+        "name": "Shenandoah Airpark",
+        "state": "Ohio"
+    },
+    "71OH": {
+        "lat": 41.6417007446,
+        "long": -83.8749008179,
+        "name": "Sattler Landing Strip",
+        "state": "Ohio"
+    },
+    "72OH": {
+        "lat": 41.6044998169,
+        "long": -83.8676986694,
+        "name": "Zeigler Landing Strip",
+        "state": "Ohio"
+    },
+    "72OI": {
+        "lat": 41.0736999512,
+        "long": -83.6847000122,
+        "name": "Tathams' STOLport",
+        "state": "Ohio"
+    },
+    "73OH": {
+        "lat": 41.6469993591,
+        "long": -81.0086975098,
+        "name": "Thompson Drag Raceway ",
+        "state": "Ohio"
+    },
+    "73OI": {
+        "lat": 41.5745010376,
+        "long": -81.0756988525,
+        "name": "Rick's ",
+        "state": "Ohio"
+    },
+    "75OH": {
+        "lat": 41.2592010498,
+        "long": -84.7936019897,
+        "name": "Howensting ",
+        "state": "Ohio"
+    },
+    "75OI": {
+        "lat": 40.5037002563,
+        "long": -83.0902023315,
+        "name": "Soltis Field",
+        "state": "Ohio"
+    },
+    "76OI": {
+        "lat": 41.2573013306,
+        "long": -83.2060012817,
+        "name": "Hull ",
+        "state": "Ohio"
+    },
+    "77OH": {
+        "lat": 39.3628005981,
+        "long": -84.3413009644,
+        "name": "Collins-Flege Airpark",
+        "state": "Ohio"
+    },
+    "78OH": {
+        "lat": 41.2569999695,
+        "long": -81.970703125,
+        "name": "Valley City Flying Club ",
+        "state": "Ohio"
+    },
+    "79OH": {
+        "lat": 41.2098007202,
+        "long": -80.6830978394,
+        "name": "Smith-Stewart Field",
+        "state": "Ohio"
+    },
+    "79OI": {
+        "lat": 39.8172988892,
+        "long": -83.7557983398,
+        "name": "Flying J ",
+        "state": "Ohio"
+    },
+    "7OA7": {
+        "lat": 39.6791992188,
+        "long": -83.8707962036,
+        "name": "Skydive Greene County Inc ",
+        "state": "Ohio"
+    },
+    "7OH1": {
+        "lat": 41.2099990845,
+        "long": -81.9736022949,
+        "name": "Rauhaus Field",
+        "state": "Ohio"
+    },
+    "7OH2": {
+        "lat": 40.9002990723,
+        "long": -81.5336990356,
+        "name": "Canal Fulton ",
+        "state": "Ohio"
+    },
+    "7OH3": {
+        "lat": 40.3527984619,
+        "long": -83.0510025024,
+        "name": "Obi One ",
+        "state": "Ohio"
+    },
+    "7OH5": {
+        "lat": 41.034198761,
+        "long": -80.7817001343,
+        "name": "Mahoning County Joint Vocational School ",
+        "state": "Ohio"
+    },
+    "7OH7": {
+        "lat": 39.7801017761,
+        "long": -83.8999023438,
+        "name": "Hydebrook ",
+        "state": "Ohio"
+    },
+    "7OH8": {
+        "lat": 41.6377983093,
+        "long": -81.1014022827,
+        "name": "Curtis ",
+        "state": "Ohio"
+    },
+    "7OI0": {
+        "lat": 41.3342018127,
+        "long": -84.1635971069,
+        "name": "Christy's ",
+        "state": "Ohio"
+    },
+    "7OI1": {
+        "lat": 41.2072982788,
+        "long": -84.2696990967,
+        "name": "Blevins ",
+        "state": "Ohio"
+    },
+    "7OI5": {
+        "lat": 41.5205993652,
+        "long": -83.2751998901,
+        "name": "Bea-D ",
+        "state": "Ohio"
+    },
+    "7OI7": {
+        "lat": 41.2994995117,
+        "long": -83.0112991333,
+        "name": "Southcreek ",
+        "state": "Ohio"
+    },
+    "7OI9": {
+        "lat": 40.0690002441,
+        "long": -82.1360015869,
+        "name": "Massengill ",
+        "state": "Ohio"
+    },
+    "80OH": {
+        "lat": 41.2667007446,
+        "long": -80.7665023804,
+        "name": "Sloas ",
+        "state": "Ohio"
+    },
+    "81OH": {
+        "lat": 38.8917007446,
+        "long": -83.983001709,
+        "name": "Elbel ",
+        "state": "Ohio"
+    },
+    "82OH": {
+        "lat": 41.5078010559,
+        "long": -83.7713012695,
+        "name": "Rocky Ridge Airpark",
+        "state": "Ohio"
+    },
+    "82OI": {
+        "lat": 40.1542015076,
+        "long": -83.2749023438,
+        "name": "J-Em Farm ",
+        "state": "Ohio"
+    },
+    "83OH": {
+        "lat": 40.0623016357,
+        "long": -84.3794021606,
+        "name": "Adams Strip",
+        "state": "Ohio"
+    },
+    "84OH": {
+        "lat": 39.581199646,
+        "long": -83.6510009766,
+        "name": "Hanshell Flying Apple ",
+        "state": "Ohio"
+    },
+    "85OH": {
+        "lat": 41.4137001038,
+        "long": -80.9469985962,
+        "name": "Tounshendeaux ",
+        "state": "Ohio"
+    },
+    "86OH": {
+        "lat": 41.0127983093,
+        "long": -81.9200973511,
+        "name": "Westfield ",
+        "state": "Ohio"
+    },
+    "87OH": {
+        "lat": 41.7056007385,
+        "long": -84.3735961914,
+        "name": "Mundron Field",
+        "state": "Ohio"
+    },
+    "87OI": {
+        "lat": 41.2723007202,
+        "long": -82.6230010986,
+        "name": "Lake Air Ranch ",
+        "state": "Ohio"
+    },
+    "88OH": {
+        "lat": 41.5999984741,
+        "long": -83.3165969849,
+        "name": "Chippewa Field",
+        "state": "Ohio"
+    },
+    "89OI": {
+        "lat": 41.038898468,
+        "long": -80.9840011597,
+        "name": "Circle C ",
+        "state": "Ohio"
+    },
+    "8OA6": {
+        "lat": 41.3861999512,
+        "long": -82.897102356,
+        "name": "Warner Airstrip",
+        "state": "Ohio"
+    },
+    "8OA7": {
+        "lat": 39.5564994812,
+        "long": -81.78099823,
+        "name": "Bald Eagle Field",
+        "state": "Ohio"
+    },
+    "8OA9": {
+        "lat": 41.0444984436,
+        "long": -81.8156967163,
+        "name": "Margos Sky Ranch ",
+        "state": "Ohio"
+    },
+    "8OH3": {
+        "lat": 41.1172981262,
+        "long": -80.5225982666,
+        "name": "J and B Sky Ranch ",
+        "state": "Ohio"
+    },
+    "8OH4": {
+        "lat": 40.8438987732,
+        "long": -80.7025985718,
+        "name": "York Aerodrome",
+        "state": "Ohio"
+    },
+    "8OH5": {
+        "lat": 41.3819999695,
+        "long": -80.7123031616,
+        "name": "Urban ",
+        "state": "Ohio"
+    },
+    "8OH7": {
+        "lat": 40.8823013306,
+        "long": -80.6003036499,
+        "name": "Morris Field",
+        "state": "Ohio"
+    },
+    "8OH8": {
+        "lat": 41.6680984497,
+        "long": -80.6856002808,
+        "name": "Allen ",
+        "state": "Ohio"
+    },
+    "8OI0": {
+        "lat": 41.4542007446,
+        "long": -81.2453994751,
+        "name": "Brannon Field",
+        "state": "Ohio"
+    },
+    "8OI3": {
+        "lat": 41.3734016418,
+        "long": -80.6689987183,
+        "name": "Allen ",
+        "state": "Ohio"
+    },
+    "8OI5": {
+        "lat": 39.8816986084,
+        "long": -82.4145965576,
+        "name": "Clum ",
+        "state": "Ohio"
+    },
+    "8OI9": {
+        "lat": 39.0992012024,
+        "long": -83.1166000366,
+        "name": "Morkassel Field",
+        "state": "Ohio"
+    },
+    "90OI": {
+        "lat": 39.6041984558,
+        "long": -84.6350021362,
+        "name": "Joe Cimprich ",
+        "state": "Ohio"
+    },
+    "91OH": {
+        "lat": 40.7333984375,
+        "long": -81.8928985596,
+        "name": "Stine Field",
+        "state": "Ohio"
+    },
+    "91OI": {
+        "lat": 40.7773017883,
+        "long": -81.4587020874,
+        "name": "Cross ",
+        "state": "Ohio"
+    },
+    "93OH": {
+        "lat": 41.0444984436,
+        "long": -81.1858978271,
+        "name": "Gay ",
+        "state": "Ohio"
+    },
+    "95OH": {
+        "lat": 40.9709014893,
+        "long": -83.4582977295,
+        "name": "Tong Farm ",
+        "state": "Ohio"
+    },
+    "98OH": {
+        "lat": 41.8250999451,
+        "long": -80.883102417,
+        "name": "Paine's ",
+        "state": "Ohio"
+    },
+    "9OA3": {
+        "lat": 39.0834007263,
+        "long": -81.7776031494,
+        "name": "Bellville Dam Landing Strip",
+        "state": "Ohio"
+    },
+    "9OA4": {
+        "lat": 39.8302993774,
+        "long": -84.5096969604,
+        "name": "Gilmer ",
+        "state": "Ohio"
+    },
+    "9OA5": {
+        "lat": 39.9623184204,
+        "long": -82.5499801636,
+        "name": "Buckeye Executive ",
+        "state": "Ohio"
+    },
+    "9OA7": {
+        "lat": 41.3097991943,
+        "long": -83.1159973145,
+        "name": "Jenkins ",
+        "state": "Ohio"
+    },
+    "9OA8": {
+        "lat": 41.2822990417,
+        "long": -81.9489974976,
+        "name": "Crocker ",
+        "state": "Ohio"
+    },
+    "9OA9": {
+        "lat": 40.6213989258,
+        "long": -82.5337982178,
+        "name": "Bender ",
+        "state": "Ohio"
+    },
+    "9OH1": {
+        "lat": 41.4542007446,
+        "long": -83.2651977539,
+        "name": "Haar ",
+        "state": "Ohio"
+    },
+    "9OH2": {
+        "lat": 41.5155982971,
+        "long": -83.3058013916,
+        "name": "Toussaint Airpark",
+        "state": "Ohio"
+    },
+    "9OH4": {
+        "lat": 41.4039001465,
+        "long": -82.1064987183,
+        "name": "Richards ",
+        "state": "Ohio"
+    },
+    "9OH6": {
+        "lat": 41.0353012085,
+        "long": -83.5690002441,
+        "name": "Weaver ",
+        "state": "Ohio"
+    },
+    "9OH7": {
+        "lat": 40.9617004395,
+        "long": -83.595199585,
+        "name": "Lutz ",
+        "state": "Ohio"
+    },
+    "9OH8": {
+        "lat": 40.976398468,
+        "long": -83.6416015625,
+        "name": "Ferrell ",
+        "state": "Ohio"
+    },
+    "9OH9": {
+        "lat": 40.8287010193,
+        "long": -83.5138015747,
+        "name": "Forest Field",
+        "state": "Ohio"
+    },
+    "9OI3": {
+        "lat": 39.898601532,
+        "long": -82.1102981567,
+        "name": "Johns Landing ",
+        "state": "Ohio"
+    },
+    "9OI5": {
+        "lat": 40.3081016541,
+        "long": -83.5417022705,
+        "name": "Transportation Research Center of Ohio ",
+        "state": "Ohio"
+    },
+    "9OI6": {
+        "lat": 40.6328010559,
+        "long": -82.1768035889,
+        "name": "Nesta ",
+        "state": "Ohio"
+    },
+    "9OI7": {
+        "lat": 40.3400993347,
+        "long": -83.2841033936,
+        "name": "Bayes ",
+        "state": "Ohio"
+    },
+    "9OI8": {
+        "lat": 40.0322990417,
+        "long": -81.4651031494,
+        "name": "Brothers Aviation ",
+        "state": "Ohio"
+    },
+    "K02G": {
+        "lat": 40.6733016968,
+        "long": -80.6414031982,
+        "name": "Columbiana County ",
+        "state": "Ohio"
+    },
+    "K04G": {
+        "lat": 41.1305007935,
+        "long": -80.6195983887,
+        "name": "Lansdowne ",
+        "state": "Ohio"
+    },
+    "K0G6": {
+        "lat": 41.4673995972,
+        "long": -84.5065994263,
+        "name": "Williams County ",
+        "state": "Ohio"
+    },
+    "K10G": {
+        "lat": 40.5372009277,
+        "long": -81.9543991089,
+        "name": "Holmes County ",
+        "state": "Ohio"
+    },
+    "K12G": {
+        "lat": 40.8728981018,
+        "long": -82.6974029541,
+        "name": "Shelby Community ",
+        "state": "Ohio"
+    },
+    "K14G": {
+        "lat": 41.3330993652,
+        "long": -83.1612014771,
+        "name": "Fremont ",
+        "state": "Ohio"
+    },
+    "K16G": {
+        "lat": 41.0941009521,
+        "long": -83.2125015259,
+        "name": "Seneca County ",
+        "state": "Ohio"
+    },
+    "K17G": {
+        "lat": 40.7816009521,
+        "long": -82.9748001099,
+        "name": "Port-Bucyrus-Crawford County ",
+        "state": "Ohio"
+    },
+    "K1G0": {
+        "lat": 41.3909988403,
+        "long": -83.6300964355,
+        "name": "Wood County ",
+        "state": "Ohio"
+    },
+    "K1G1": {
+        "lat": 41.3315010071,
+        "long": -82.1003036499,
+        "name": "Elyria ",
+        "state": "Ohio"
+    },
+    "K1G3": {
+        "lat": 41.15140152,
+        "long": -81.4151001,
+        "name": "Kent State University ",
+        "state": "Ohio"
+    },
+    "K1G5": {
+        "lat": 41.131401062,
+        "long": -81.7649002075,
+        "name": "Medina Municipal ",
+        "state": "Ohio"
+    },
+    "K22I": {
+        "lat": 39.3280982971,
+        "long": -82.4418029785,
+        "name": "Vinton County ",
+        "state": "Ohio"
+    },
+    "K29G": {
+        "lat": 41.2102012634,
+        "long": -81.2516021729,
+        "name": "Portage County ",
+        "state": "Ohio"
+    },
+    "K2G1": {
+        "lat": 41.6669998169,
+        "long": -81.1971969604,
+        "name": "Concord Airpark",
+        "state": "Ohio"
+    },
+    "K2G2": {
+        "lat": 40.3594017029,
+        "long": -80.7001037598,
+        "name": "Jefferson County Airpark",
+        "state": "Ohio"
+    },
+    "K38D": {
+        "lat": 40.9481010437,
+        "long": -80.8620986938,
+        "name": "Salem Airpark Inc ",
+        "state": "Ohio"
+    },
+    "K3G3": {
+        "lat": 41.0031013489,
+        "long": -81.7565002441,
+        "name": "Wadsworth Municipal ",
+        "state": "Ohio"
+    },
+    "K3G4": {
+        "lat": 40.9029998779,
+        "long": -82.2555999756,
+        "name": "Ashland County ",
+        "state": "Ohio"
+    },
+    "K3G6": {
+        "lat": 40.90599823,
+        "long": -81,
+        "name": "Tri City ",
+        "state": "Ohio"
+    },
+    "K3I7": {
+        "lat": 39.9132995605,
+        "long": -84.4003982544,
+        "name": "Phillipsburg ",
+        "state": "Ohio"
+    },
+    "K41N": {
+        "lat": 41.2112007141,
+        "long": -80.9692993164,
+        "name": "Braceville ",
+        "state": "Ohio"
+    },
+    "K42I": {
+        "lat": 40.0069999695,
+        "long": -82.0123977661,
+        "name": "Parr ",
+        "state": "Ohio"
+    },
+    "K4G4": {
+        "lat": 40.9617996216,
+        "long": -80.6772994995,
+        "name": "Youngstown Elser Metro ",
+        "state": "Ohio"
+    },
+    "K4G5": {
+        "lat": 39.7789993286,
+        "long": -81.1027984619,
+        "name": "Monroe County ",
+        "state": "Ohio"
+    },
+    "K4G8": {
+        "lat": 41.3188018799,
+        "long": -81.9601974487,
+        "name": "Columbia ",
+        "state": "Ohio"
+    },
+    "K4I3": {
+        "lat": 40.32870102,
+        "long": -82.52380371,
+        "name": "Knox County ",
+        "state": "Ohio"
+    },
+    "K4I9": {
+        "lat": 40.5245018005,
+        "long": -82.8500976563,
+        "name": "Morrow County ",
+        "state": "Ohio"
+    },
+    "K56D": {
+        "lat": 40.8833999634,
+        "long": -83.3144989014,
+        "name": "Wyandot County ",
+        "state": "Ohio"
+    },
+    "K5A1": {
+        "lat": 41.2448005676,
+        "long": -82.5512008667,
+        "name": "Norwalk Huron County ",
+        "state": "Ohio"
+    },
+    "K5G7": {
+        "lat": 40.8853988647,
+        "long": -83.868598938,
+        "name": "Bluffton ",
+        "state": "Ohio"
+    },
+    "K62D": {
+        "lat": 41.266998291,
+        "long": -80.9273986816,
+        "name": "Warren ",
+        "state": "Ohio"
+    },
+    "K6G4": {
+        "lat": 40.3651008606,
+        "long": -82.4956970215,
+        "name": "Wynkoop ",
+        "state": "Ohio"
+    },
+    "K6G5": {
+        "lat": 40.0023994446,
+        "long": -81.1918029785,
+        "name": "Barnesville Bradfield ",
+        "state": "Ohio"
+    },
+    "K6I6": {
+        "lat": 39.9420013428,
+        "long": -83.2049026489,
+        "name": "Darby Dan ",
+        "state": "Ohio"
+    },
+    "K7D9": {
+        "lat": 41.7778015137,
+        "long": -80.9039993286,
+        "name": "Germack ",
+        "state": "Ohio"
+    },
+    "K7G8": {
+        "lat": 41.4496002197,
+        "long": -81.0628967285,
+        "name": "Geauga County ",
+        "state": "Ohio"
+    },
+    "K7W5": {
+        "lat": 41.3742980957,
+        "long": -84.0679016113,
+        "name": "Henry County ",
+        "state": "Ohio"
+    },
+    "K8G1": {
+        "lat": 41.0387001038,
+        "long": -82.7246017456,
+        "name": "Willard ",
+        "state": "Ohio"
+    },
+    "K8G6": {
+        "lat": 40.2383995056,
+        "long": -81.0129013062,
+        "name": "Harrison County ",
+        "state": "Ohio"
+    },
+    "KAKR": {
+        "lat": 41.0374984741,
+        "long": -81.4669036865,
+        "name": "Akron Fulton International ",
+        "state": "Ohio"
+    },
+    "KAMT": {
+        "lat": 38.8515014648,
+        "long": -83.5662994385,
+        "name": "Alexander Salamon ",
+        "state": "Ohio"
+    },
+    "KAOH": {
+        "lat": 40.7069015503,
+        "long": -84.0267028809,
+        "name": "Lima Allen County ",
+        "state": "Ohio"
+    },
+    "KAXV": {
+        "lat": 40.49340057,
+        "long": -84.29889679,
+        "name": "Neil Armstrong ",
+        "state": "Ohio"
+    },
+    "KBJJ": {
+        "lat": 40.8748016357,
+        "long": -81.8882980347,
+        "name": "Wayne County ",
+        "state": "Ohio"
+    },
+    "KBKL": {
+        "lat": 41.5175018311,
+        "long": -81.6832962036,
+        "name": "Burke Lakefront ",
+        "state": "Ohio"
+    },
+    "KCAK": {
+        "lat": 40.9160995483,
+        "long": -81.442199707,
+        "name": "Akron Canton Regional ",
+        "state": "Ohio"
+    },
+    "KCDI": {
+        "lat": 39.9749984741,
+        "long": -81.5775985718,
+        "name": "Cambridge Municipal ",
+        "state": "Ohio"
+    },
+    "KCGF": {
+        "lat": 41.5651016235,
+        "long": -81.4863967896,
+        "name": "Cuyahoga County ",
+        "state": "Ohio"
+    },
+    "KCLE": {
+        "lat": 41.4117012024,
+        "long": -81.8498001099,
+        "name": "Cleveland Hopkins International ",
+        "state": "Ohio"
+    },
+    "KCMH": {
+        "lat": 39.9980010986,
+        "long": -82.8918991089,
+        "name": "Port Columbus International ",
+        "state": "Ohio"
+    },
+    "KCQA": {
+        "lat": 40.4841003418,
+        "long": -84.5600967407,
+        "name": "Lakefield ",
+        "state": "Ohio"
+    },
+    "KCYO": {
+        "lat": 39.51599884,
+        "long": -82.98210144,
+        "name": "Pickaway County Memorial ",
+        "state": "Ohio"
+    },
+    "KDAY": {
+        "lat": 39.9024009705,
+        "long": -84.2193984985,
+        "name": "James M Cox Dayton International ",
+        "state": "Ohio"
+    },
+    "KDFI": {
+        "lat": 41.3375015259,
+        "long": -84.4288024902,
+        "name": "Defiance Memorial ",
+        "state": "Ohio"
+    },
+    "KDLZ": {
+        "lat": 40.2797012329,
+        "long": -83.1147994995,
+        "name": "Delaware Municipal ",
+        "state": "Ohio"
+    },
+    "KEDJ": {
+        "lat": 40.37229919,
+        "long": -83.81900024,
+        "name": "Bellefontaine Regional ",
+        "state": "Ohio"
+    },
+    "KEOP": {
+        "lat": 39.1669006348,
+        "long": -82.9281997681,
+        "name": "Pike County ",
+        "state": "Ohio"
+    },
+    "KFDW": {
+        "lat": 34.3154983521,
+        "long": -81.1088027954,
+        "name": "Fairfield County ",
+        "state": "Ohio"
+    },
+    "KFDY": {
+        "lat": 41.0135002136,
+        "long": -83.6687011719,
+        "name": "Findlay ",
+        "state": "Ohio"
+    },
+    "KFFO": {
+        "lat": 39.8260993958,
+        "long": -84.0483016968,
+        "name": "Wright Patterson Air Force Base",
+        "state": "Ohio"
+    },
+    "KFZI": {
+        "lat": 41.19079971,
+        "long": -83.39450073,
+        "name": "Fostoria Metropolitan ",
+        "state": "Ohio"
+    },
+    "KGAS": {
+        "lat": 38.8340988159,
+        "long": -82.1633987427,
+        "name": "Gallia Meigs Regional ",
+        "state": "Ohio"
+    },
+    "KGEO": {
+        "lat": 38.8819007874,
+        "long": -83.8826980591,
+        "name": "Brown County ",
+        "state": "Ohio"
+    },
+    "KGQQ": {
+        "lat": 40.7533988953,
+        "long": -82.7238006592,
+        "name": "Galion Municipal ",
+        "state": "Ohio"
+    },
+    "KHAO": {
+        "lat": 39.3638000488,
+        "long": -84.5220031738,
+        "name": "Butler Co Regional ",
+        "state": "Ohio"
+    },
+    "KHOC": {
+        "lat": 39.1888008118,
+        "long": -83.5388031006,
+        "name": "Highland County ",
+        "state": "Ohio"
+    },
+    "KHTW": {
+        "lat": 38.4193000793,
+        "long": -82.4943008423,
+        "name": "Lawrence County Airpark",
+        "state": "Ohio"
+    },
+    "KHZY": {
+        "lat": 41.7779998779,
+        "long": -80.6955032349,
+        "name": "Ashtabula County ",
+        "state": "Ohio"
+    },
+    "KI10": {
+        "lat": 39.8009986877,
+        "long": -81.5363006592,
+        "name": "Noble County ",
+        "state": "Ohio"
+    },
+    "KI12": {
+        "lat": 40.2414016724,
+        "long": -84.1509017944,
+        "name": "Sidney Municipal ",
+        "state": "Ohio"
+    },
+    "KI17": {
+        "lat": 40.16469955,
+        "long": -84.30840302,
+        "name": "Piqua -Hartzell Field",
+        "state": "Ohio"
+    },
+    "KI23": {
+        "lat": 39.570400238,
+        "long": -83.420501709,
+        "name": "Fayette County ",
+        "state": "Ohio"
+    },
+    "KI40": {
+        "lat": 40.3092002869,
+        "long": -81.8534011841,
+        "name": "Richard Downing ",
+        "state": "Ohio"
+    },
+    "KI43": {
+        "lat": 38.9813995361,
+        "long": -82.5779037476,
+        "name": "James A Rhodes ",
+        "state": "Ohio"
+    },
+    "KI54": {
+        "lat": 40.0200996399,
+        "long": -83.8284988403,
+        "name": "Mad River Inc ",
+        "state": "Ohio"
+    },
+    "KI64": {
+        "lat": 41.2930984497,
+        "long": -82.3706970215,
+        "name": "Wakeman ",
+        "state": "Ohio"
+    },
+    "KI66": {
+        "lat": 39.5032997131,
+        "long": -83.8628005981,
+        "name": "Clinton Field",
+        "state": "Ohio"
+    },
+    "KI67": {
+        "lat": 39.2588996887,
+        "long": -84.7742996216,
+        "name": "Cincinnati West ",
+        "state": "Ohio"
+    },
+    "KI68": {
+        "lat": 39.4622001648,
+        "long": -84.2518005371,
+        "name": "Lebanon Warren County ",
+        "state": "Ohio"
+    },
+    "KI69": {
+        "lat": 39.07839966,
+        "long": -84.21019745,
+        "name": "Clermont County ",
+        "state": "Ohio"
+    },
+    "KI71": {
+        "lat": 39.6542015076,
+        "long": -81.8031997681,
+        "name": "Morgan County ",
+        "state": "Ohio"
+    },
+    "KI73": {
+        "lat": 39.682598114,
+        "long": -84.2429962158,
+        "name": "Moraine Air Park",
+        "state": "Ohio"
+    },
+    "KI74": {
+        "lat": 40.13259888,
+        "long": -83.75340271,
+        "name": "Grimes Field",
+        "state": "Ohio"
+    },
+    "KI86": {
+        "lat": 39.6916007996,
+        "long": -82.1977996826,
+        "name": "Perry County ",
+        "state": "Ohio"
+    },
+    "KI95": {
+        "lat": 40.6106987,
+        "long": -83.6436004639,
+        "name": "Hardin County ",
+        "state": "Ohio"
+    },
+    "KILN": {
+        "lat": 39.427898407,
+        "long": -83.792098999,
+        "name": "Airborne Airpark",
+        "state": "Ohio"
+    },
+    "KLCK": {
+        "lat": 39.8138008118,
+        "long": -82.9278030396,
+        "name": "Rickenbacker International ",
+        "state": "Ohio"
+    },
+    "KLHQ": {
+        "lat": 39.7555999756,
+        "long": -82.6570968628,
+        "name": "Fairfield County ",
+        "state": "Ohio"
+    },
+    "KLNN": {
+        "lat": 41.6839981079,
+        "long": -81.3897018433,
+        "name": "Willoughby Lost Nation Municipal ",
+        "state": "Ohio"
+    },
+    "KLPR": {
+        "lat": 41.34429932,
+        "long": -82.17759705,
+        "name": "Lorain County Regional ",
+        "state": "Ohio"
+    },
+    "KLUK": {
+        "lat": 39.10329819,
+        "long": -84.41860199,
+        "name": "Cincinnati Municipal  Lunken Field",
+        "state": "Ohio"
+    },
+    "KMFD": {
+        "lat": 40.8213996887,
+        "long": -82.5166015625,
+        "name": "Mansfield Lahm Regional ",
+        "state": "Ohio"
+    },
+    "KMGY": {
+        "lat": 39.5890007019,
+        "long": -84.224899292,
+        "name": "Dayton Wright Brothers ",
+        "state": "Ohio"
+    },
+    "KMNN": {
+        "lat": 40.6161994934,
+        "long": -83.0634994507,
+        "name": "Marion Municipal ",
+        "state": "Ohio"
+    },
+    "KMRT": {
+        "lat": 40.2247009277,
+        "long": -83.351600647,
+        "name": "Union County ",
+        "state": "Ohio"
+    },
+    "KMWO": {
+        "lat": 39.53099823,
+        "long": -84.39530182,
+        "name": "Middletown Regional-Hook Field Municipal ",
+        "state": "Ohio"
+    },
+    "KOSU": {
+        "lat": 40.0797996521,
+        "long": -83.0729980469,
+        "name": "Ohio State University ",
+        "state": "Ohio"
+    },
+    "KOWX": {
+        "lat": 41.03559875,
+        "long": -83.98200226,
+        "name": "Putnam County ",
+        "state": "Ohio"
+    },
+    "KOXD": {
+        "lat": 39.50230026,
+        "long": -84.78440094,
+        "name": "Miami University ",
+        "state": "Ohio"
+    },
+    "KPCW": {
+        "lat": 41.5163002014,
+        "long": -82.8686981201,
+        "name": "Carl R Keller Field",
+        "state": "Ohio"
+    },
+    "KPHD": {
+        "lat": 40.4709014893,
+        "long": -81.4197006226,
+        "name": "Harry Clever Field",
+        "state": "Ohio"
+    },
+    "KPMH": {
+        "lat": 38.8404998779,
+        "long": -82.8472976685,
+        "name": "Greater Portsmouth Regional ",
+        "state": "Ohio"
+    },
+    "KR47": {
+        "lat": 41.10309982,
+        "long": -84.05190277,
+        "name": "Ruhe's ",
+        "state": "Ohio"
+    },
+    "KRZT": {
+        "lat": 39.4403991699,
+        "long": -83.0231018066,
+        "name": "Ross County ",
+        "state": "Ohio"
+    },
+    "KS24": {
+        "lat": 41.29575,
+        "long": -83.0372222,
+        "name": "Sandusky County Regional ",
+        "state": "Ohio"
+    },
+    "KSGH": {
+        "lat": 39.8403015137,
+        "long": -83.8402023315,
+        "name": "Springfield Beckley Municipal ",
+        "state": "Ohio"
+    },
+    "KSKY": {
+        "lat": 41.4333992004,
+        "long": -82.6522979736,
+        "name": "Griffing Sandusky ",
+        "state": "Ohio"
+    },
+    "KTDZ": {
+        "lat": 41.56489944,
+        "long": -83.4822998,
+        "name": "Metcalf Field",
+        "state": "Ohio"
+    },
+    "KTOL": {
+        "lat": 41.58679962,
+        "long": -83.80780029,
+        "name": "Toledo Express ",
+        "state": "Ohio"
+    },
+    "KTSO": {
+        "lat": 40.56190109,
+        "long": -81.07749939,
+        "name": "Carroll County-Tolson ",
+        "state": "Ohio"
+    },
+    "KTZR": {
+        "lat": 39.9011993408,
+        "long": -83.1369018555,
+        "name": "Bolton Field",
+        "state": "Ohio"
+    },
+    "KUNI": {
+        "lat": 39.2109985352,
+        "long": -82.2313995361,
+        "name": "Ohio University Snyder Field",
+        "state": "Ohio"
+    },
+    "KUSE": {
+        "lat": 41.6100997925,
+        "long": -84.1271972656,
+        "name": "Fulton County ",
+        "state": "Ohio"
+    },
+    "KUYF": {
+        "lat": 39.93270111,
+        "long": -83.46199799,
+        "name": "Madison County ",
+        "state": "Ohio"
+    },
+    "KVES": {
+        "lat": 40.2043991089,
+        "long": -84.5318984985,
+        "name": "Darke County ",
+        "state": "Ohio"
+    },
+    "KVNW": {
+        "lat": 40.8647003174,
+        "long": -84.6093978882,
+        "name": "Van Wert County ",
+        "state": "Ohio"
+    },
+    "KVTA": {
+        "lat": 40.0247001648,
+        "long": -82.4617996216,
+        "name": "Newark Heath ",
+        "state": "Ohio"
+    },
+    "KYNG": {
+        "lat": 41.26070023,
+        "long": -80.67910004,
+        "name": "Youngstown Warren Regional ",
+        "state": "Ohio"
+    },
+    "KZZV": {
+        "lat": 39.9444007874,
+        "long": -81.8920974731,
+        "name": "Zanesville Municipal ",
+        "state": "Ohio"
+    },
+    "OA00": {
+        "lat": 40.1170005798,
+        "long": -81.5711975098,
+        "name": "Taildragger ",
+        "state": "Ohio"
+    },
+    "OA04": {
+        "lat": 41.0975990295,
+        "long": -83.5027008057,
+        "name": "Rutter ",
+        "state": "Ohio"
+    },
+    "OA05": {
+        "lat": 39.4241981506,
+        "long": -84.6591033936,
+        "name": "Hogan ",
+        "state": "Ohio"
+    },
+    "OA07": {
+        "lat": 41.7014007568,
+        "long": -80.8602981567,
+        "name": "Hemlock Field",
+        "state": "Ohio"
+    },
+    "OA10": {
+        "lat": 39.0085983276,
+        "long": -83.9092025757,
+        "name": "Bernie's ",
+        "state": "Ohio"
+    },
+    "OA11": {
+        "lat": 40.3760986328,
+        "long": -84.2549972534,
+        "name": "Heitman Field",
+        "state": "Ohio"
+    },
+    "OA12": {
+        "lat": 39.334400177,
+        "long": -84.0699996948,
+        "name": "Buena Vista Farm ",
+        "state": "Ohio"
+    },
+    "OA14": {
+        "lat": 40.422222,
+        "long": -81.318056,
+        "name": "Roxford ",
+        "state": "Ohio"
+    },
+    "OA16": {
+        "lat": 39.156111,
+        "long": -84.781667,
+        "name": "Lost Bridge ",
+        "state": "Ohio"
+    },
+    "OA19": {
+        "lat": 40.898889,
+        "long": -81.3,
+        "name": "Kiko Farm ",
+        "state": "Ohio"
+    },
+    "OA23": {
+        "lat": 39.968667,
+        "long": -84.539,
+        "name": "Heins Field",
+        "state": "Ohio"
+    },
+    "OA51": {
+        "lat": 40.206111,
+        "long": -83.228611,
+        "name": "Fighter Field ",
+        "state": "Ohio"
+    },
+    "OA85": {
+        "lat": 40.1365013123,
+        "long": -81.9936981201,
+        "name": "Riverview ",
+        "state": "Ohio"
+    },
+    "OH02": {
+        "lat": 41.2944984436,
+        "long": -83.9546966553,
+        "name": "Eickmeier ",
+        "state": "Ohio"
+    },
+    "OH03": {
+        "lat": 41.792301178,
+        "long": -81.0581970215,
+        "name": "Woodworth ",
+        "state": "Ohio"
+    },
+    "OH07": {
+        "lat": 40.943901062,
+        "long": -81.2389984131,
+        "name": "Sunset Strip",
+        "state": "Ohio"
+    },
+    "OH11": {
+        "lat": 39.1105995178,
+        "long": -82.0922012329,
+        "name": "Arnold ",
+        "state": "Ohio"
+    },
+    "OH13": {
+        "lat": 40.7681007385,
+        "long": -81.0581970215,
+        "name": "Bulick Field",
+        "state": "Ohio"
+    },
+    "OH14": {
+        "lat": 40.2792015076,
+        "long": -82.9168014526,
+        "name": "Brown's Lakeside Landings ",
+        "state": "Ohio"
+    },
+    "OH15": {
+        "lat": 40.7458992004,
+        "long": -81.1443023682,
+        "name": "Minerva ",
+        "state": "Ohio"
+    },
+    "OH17": {
+        "lat": 40.1626014709,
+        "long": -82.7817993164,
+        "name": "August Acres ",
+        "state": "Ohio"
+    },
+    "OH18": {
+        "lat": 40.9324989319,
+        "long": -83.140296936,
+        "name": "Freefall Field",
+        "state": "Ohio"
+    },
+    "OH19": {
+        "lat": 41.1549987793,
+        "long": -84.2148971558,
+        "name": "Hiltner ",
+        "state": "Ohio"
+    },
+    "OH20": {
+        "lat": 40.9197998047,
+        "long": -81.7012023926,
+        "name": "Spring Valley Farm ",
+        "state": "Ohio"
+    },
+    "OH21": {
+        "lat": 40.7361984253,
+        "long": -82.7527008057,
+        "name": "Horning ",
+        "state": "Ohio"
+    },
+    "OH22": {
+        "lat": 40.7611999512,
+        "long": -81.7789993286,
+        "name": "Stoltzfus Airfield",
+        "state": "Ohio"
+    },
+    "OH24": {
+        "lat": 41.2248001099,
+        "long": -80.5790023804,
+        "name": "Brookfield Airpark",
+        "state": "Ohio"
+    },
+    "OH26": {
+        "lat": 41.6563987732,
+        "long": -81.1062011719,
+        "name": "Birdland ",
+        "state": "Ohio"
+    },
+    "OH27": {
+        "lat": 40.807800293,
+        "long": -80.8453979492,
+        "name": "Salem Lakefront ",
+        "state": "Ohio"
+    },
+    "OH28": {
+        "lat": 39.3666992188,
+        "long": -83.5999984741,
+        "name": "Donner Field",
+        "state": "Ohio"
+    },
+    "OH29": {
+        "lat": 40.9006004333,
+        "long": -80.5553970337,
+        "name": "Petersburg ",
+        "state": "Ohio"
+    },
+    "OH32": {
+        "lat": 41.006401062,
+        "long": -83.4273986816,
+        "name": "Stone ",
+        "state": "Ohio"
+    },
+    "OH33": {
+        "lat": 39.0567016602,
+        "long": -84.2041015625,
+        "name": "Humphries Rotordrome ",
+        "state": "Ohio"
+    },
+    "OH34": {
+        "lat": 40.2058982849,
+        "long": -84.6615982056,
+        "name": "Leis ",
+        "state": "Ohio"
+    },
+    "OH35": {
+        "lat": 39.4283981323,
+        "long": -82.8227005005,
+        "name": "Mission Field",
+        "state": "Ohio"
+    },
+    "OH36": {
+        "lat": 39.9861984253,
+        "long": -81.9837036133,
+        "name": "Riverside ",
+        "state": "Ohio"
+    },
+    "OH37": {
+        "lat": 39.0116996765,
+        "long": -82.7884979248,
+        "name": "Glade STOLport",
+        "state": "Ohio"
+    },
+    "OH38": {
+        "lat": 39.3144989014,
+        "long": -81.6165008545,
+        "name": "Blue Bird ",
+        "state": "Ohio"
+    },
+    "OH39": {
+        "lat": 40.2347984314,
+        "long": -82.9192962646,
+        "name": "Pine Lake ",
+        "state": "Ohio"
+    },
+    "OH41": {
+        "lat": 40.1930999756,
+        "long": -83.1119003296,
+        "name": "Cutler Field",
+        "state": "Ohio"
+    },
+    "OH42": {
+        "lat": 40.5401000977,
+        "long": -82.3937988281,
+        "name": "Hawk's Nest ",
+        "state": "Ohio"
+    },
+    "OH43": {
+        "lat": 39.8334007263,
+        "long": -82.7332000732,
+        "name": "Anderson ",
+        "state": "Ohio"
+    },
+    "OH44": {
+        "lat": 40.2206001282,
+        "long": -82.9462966919,
+        "name": "Grover ",
+        "state": "Ohio"
+    },
+    "OH45": {
+        "lat": 41.4542007446,
+        "long": -83.5863037109,
+        "name": "Drake ",
+        "state": "Ohio"
+    },
+    "OH48": {
+        "lat": 40.9056015015,
+        "long": -81.0651016235,
+        "name": "Alliance ",
+        "state": "Ohio"
+    },
+    "OH50": {
+        "lat": 39.6875991821,
+        "long": -83.0969009399,
+        "name": "Lindsey L.S. ",
+        "state": "Ohio"
+    },
+    "OH51": {
+        "lat": 39.8433990479,
+        "long": -84.3312988281,
+        "name": "Miami Valley Career Technology Center ",
+        "state": "Ohio"
+    },
+    "OH57": {
+        "lat": 40.2588996887,
+        "long": -83.0118026733,
+        "name": "Berlin Station Lndg Strip",
+        "state": "Ohio"
+    },
+    "OH59": {
+        "lat": 39.6958999634,
+        "long": -84.448600769,
+        "name": "Mc Intosh ",
+        "state": "Ohio"
+    },
+    "OH60": {
+        "lat": 40.9537010193,
+        "long": -84.2735977173,
+        "name": "Gerker Airfield",
+        "state": "Ohio"
+    },
+    "OH61": {
+        "lat": 39.6352996826,
+        "long": -82.7378997803,
+        "name": "Amanda ",
+        "state": "Ohio"
+    },
+    "OH63": {
+        "lat": 39.6001014709,
+        "long": -84.4166030884,
+        "name": "Jims ",
+        "state": "Ohio"
+    },
+    "OH64": {
+        "lat": 39.5931015015,
+        "long": -84.3438034058,
+        "name": "Hummel ",
+        "state": "Ohio"
+    },
+    "OH65": {
+        "lat": 39.2393989563,
+        "long": -84.1003036499,
+        "name": "Antique Acres Airpark",
+        "state": "Ohio"
+    },
+    "OH66": {
+        "lat": 39.2394981384,
+        "long": -84.1763000488,
+        "name": "Obannon Creek Aerodrome",
+        "state": "Ohio"
+    },
+    "OH67": {
+        "lat": 40.1206016541,
+        "long": -84.4535980225,
+        "name": "Sell Field",
+        "state": "Ohio"
+    },
+    "OH68": {
+        "lat": 39.3000984192,
+        "long": -84.7499008179,
+        "name": "Raylene ",
+        "state": "Ohio"
+    },
+    "OH71": {
+        "lat": 40.2947998047,
+        "long": -82.731300354,
+        "name": "Chapman Memorial Field",
+        "state": "Ohio"
+    },
+    "OH74": {
+        "lat": 40.0937004089,
+        "long": -82.716796875,
+        "name": "Kearns ",
+        "state": "Ohio"
+    },
+    "OH77": {
+        "lat": 39.5531005859,
+        "long": -83.8548965454,
+        "name": "Lumberton ",
+        "state": "Ohio"
+    },
+    "OH78": {
+        "lat": 39.9676017761,
+        "long": -84.4087982178,
+        "name": "Swigart ",
+        "state": "Ohio"
+    },
+    "OH81": {
+        "lat": 41.2256011963,
+        "long": -81.9414978027,
+        "name": "Graham's Landing ",
+        "state": "Ohio"
+    },
+    "OH82": {
+        "lat": 40.1534004211,
+        "long": -81.9735031128,
+        "name": "Graham Farm ",
+        "state": "Ohio"
+    },
+    "OH86": {
+        "lat": 39.648399353,
+        "long": -82.5399017334,
+        "name": "Deeds Field",
+        "state": "Ohio"
+    },
+    "OH88": {
+        "lat": 39.8527984619,
+        "long": -83.4704971313,
+        "name": "Roberts ",
+        "state": "Ohio"
+    },
+    "OH90": {
+        "lat": 41.7072982788,
+        "long": -84.234703064,
+        "name": "Hochstetler ",
+        "state": "Ohio"
+    },
+    "OH91": {
+        "lat": 40.70009995,
+        "long": -84.23439789,
+        "name": "Dave Rice Ultralightport",
+        "state": "Ohio"
+    },
+    "OH92": {
+        "lat": 39.9542007446,
+        "long": -82.1831970215,
+        "name": "Porter ",
+        "state": "Ohio"
+    },
+    "OH93": {
+        "lat": 40.1403007507,
+        "long": -83.3901977539,
+        "name": "Darby ",
+        "state": "Ohio"
+    },
+    "OH94": {
+        "lat": 38.837600708,
+        "long": -82.8348999023,
+        "name": "Knore ",
+        "state": "Ohio"
+    },
+    "OH95": {
+        "lat": 39.3842010498,
+        "long": -84.168296814,
+        "name": "Maplewood Orchard ",
+        "state": "Ohio"
+    },
+    "OH96": {
+        "lat": 39.0335998535,
+        "long": -83.886100769,
+        "name": "Neals ",
+        "state": "Ohio"
+    },
+    "OH97": {
+        "lat": 41.3591995239,
+        "long": -81.2177963257,
+        "name": "Carcioppolo Field",
+        "state": "Ohio"
+    },
+    "OH98": {
+        "lat": 40.0494995117,
+        "long": -82.7882003784,
+        "name": "Lyttle ",
+        "state": "Ohio"
+    },
+    "OH99": {
+        "lat": 40.1139984131,
+        "long": -82.4581985474,
+        "name": "Planevue ",
+        "state": "Ohio"
+    },
+    "OI01": {
+        "lat": 39.5136985779,
+        "long": -82.4489974976,
+        "name": "Lazy-W ",
+        "state": "Ohio"
+    },
+    "OI06": {
+        "lat": 39.9914016724,
+        "long": -84.2916030884,
+        "name": "Wagner International ",
+        "state": "Ohio"
+    },
+    "OI07": {
+        "lat": 40.827999115,
+        "long": -81.9796981812,
+        "name": "Varns Farms ",
+        "state": "Ohio"
+    },
+    "OI08": {
+        "lat": 40.738899231,
+        "long": -81.8716964722,
+        "name": "Davies Air Field",
+        "state": "Ohio"
+    },
+    "OI11": {
+        "lat": 40.637298584,
+        "long": -81.1126022339,
+        "name": "Hibbetts ",
+        "state": "Ohio"
+    },
+    "OI12": {
+        "lat": 40.2503013611,
+        "long": -82.9943008423,
+        "name": "Fly-A-Way Farm ",
+        "state": "Ohio"
+    },
+    "OI22": {
+        "lat": 41.3339004517,
+        "long": -82.1026000977,
+        "name": "Carroll's ",
+        "state": "Ohio"
+    },
+    "OI25": {
+        "lat": 39.3652992249,
+        "long": -83.3544006348,
+        "name": "Ross Field",
+        "state": "Ohio"
+    },
+    "OI26": {
+        "lat": 39.5055999756,
+        "long": -84.6987991333,
+        "name": "Hillcrest ",
+        "state": "Ohio"
+    },
+    "OI27": {
+        "lat": 39.5567016602,
+        "long": -81.5696029663,
+        "name": "Checkpoint Charlie ",
+        "state": "Ohio"
+    },
+    "OI28": {
+        "lat": 40.5839004517,
+        "long": -82.6792984009,
+        "name": "Lanker ",
+        "state": "Ohio"
+    },
+    "OI29": {
+        "lat": 38.8541984558,
+        "long": -83.2304992676,
+        "name": "Yellowbird Farm ",
+        "state": "Ohio"
+    },
+    "OI31": {
+        "lat": 41.7098007202,
+        "long": -81.1248016357,
+        "name": "Pheasant Run ",
+        "state": "Ohio"
+    },
+    "OI32": {
+        "lat": 41.1680984497,
+        "long": -81.287902832,
+        "name": "Stoney's ",
+        "state": "Ohio"
+    },
+    "OI34": {
+        "lat": 39.6130981445,
+        "long": -83.992401123,
+        "name": "Fricke ",
+        "state": "Ohio"
+    },
+    "OI36": {
+        "lat": 39.6225013733,
+        "long": -84.4831008911,
+        "name": "Farpoint Airfield",
+        "state": "Ohio"
+    },
+    "OI38": {
+        "lat": 40.3087005615,
+        "long": -83.615196228,
+        "name": "Hillview Airstrip",
+        "state": "Ohio"
+    },
+    "OI39": {
+        "lat": 40.1067008972,
+        "long": -82.1321029663,
+        "name": "Vensil Farms ",
+        "state": "Ohio"
+    },
+    "OI40": {
+        "lat": 39.2025985718,
+        "long": -84.1046981812,
+        "name": "Hallelujah Field",
+        "state": "Ohio"
+    },
+    "OI41": {
+        "lat": 41.295728,
+        "long": -81.158165,
+        "name": "Far View ",
+        "state": "Ohio"
+    },
+    "OI42": {
+        "lat": 41.1328010559,
+        "long": -82.4607009888,
+        "name": "D. A. Chandler ",
+        "state": "Ohio"
+    },
+    "OI45": {
+        "lat": 41.2650985718,
+        "long": -81.6586990356,
+        "name": "Shootz Field",
+        "state": "Ohio"
+    },
+    "OI46": {
+        "lat": 41.1151008606,
+        "long": -81.7151031494,
+        "name": "Sharondale Field",
+        "state": "Ohio"
+    },
+    "OI49": {
+        "lat": 40.3838996887,
+        "long": -83.1069030762,
+        "name": "Flying Acres ",
+        "state": "Ohio"
+    },
+    "OI52": {
+        "lat": 39.6250991821,
+        "long": -83.7833023071,
+        "name": "Lyons Field",
+        "state": "Ohio"
+    },
+    "OI55": {
+        "lat": 40.7509002686,
+        "long": -82.0043029785,
+        "name": "Scheibe Field",
+        "state": "Ohio"
+    },
+    "OI56": {
+        "lat": 39.95320129,
+        "long": -82.64070129,
+        "name": "Lee's Dogpatch ",
+        "state": "Ohio"
+    },
+    "OI57": {
+        "lat": 38.9269981384,
+        "long": -83.9885025024,
+        "name": "Mc Kinney Field",
+        "state": "Ohio"
+    },
+    "OI58": {
+        "lat": 40.8417015076,
+        "long": -81.4378967285,
+        "name": "Lockeridge ",
+        "state": "Ohio"
+    },
+    "OI59": {
+        "lat": 39.1316986084,
+        "long": -81.9318008423,
+        "name": "Miller ",
+        "state": "Ohio"
+    },
+    "OI60": {
+        "lat": 40.7547988892,
+        "long": -82.3916015625,
+        "name": "Gorman ",
+        "state": "Ohio"
+    },
+    "OI62": {
+        "lat": 41.476398468,
+        "long": -81.3171005249,
+        "name": "Rataiczak ",
+        "state": "Ohio"
+    },
+    "OI64": {
+        "lat": 41.6805992126,
+        "long": -81.0301971436,
+        "name": "Bush Field",
+        "state": "Ohio"
+    },
+    "OI66": {
+        "lat": 40.7408981323,
+        "long": -83.6709976196,
+        "name": "Eibling Circle E ",
+        "state": "Ohio"
+    },
+    "OI67": {
+        "lat": 40.6083984375,
+        "long": -80.9330978394,
+        "name": "Mc Clain Field",
+        "state": "Ohio"
+    },
+    "OI68": {
+        "lat": 40.9413986206,
+        "long": -81.7977981567,
+        "name": "Hilty Field",
+        "state": "Ohio"
+    },
+    "OI69": {
+        "lat": 41.7784004211,
+        "long": -81.1669998169,
+        "name": "Blackacre Farm ",
+        "state": "Ohio"
+    },
+    "OI72": {
+        "lat": 41.5222015381,
+        "long": -84.7208023071,
+        "name": "Marvin Thiel Field",
+        "state": "Ohio"
+    },
+    "OI73": {
+        "lat": 39.712600708,
+        "long": -83.8038024902,
+        "name": "Williamson ",
+        "state": "Ohio"
+    },
+    "OI77": {
+        "lat": 41.2159004211,
+        "long": -83.5579986572,
+        "name": "Mc Ardle ",
+        "state": "Ohio"
+    },
+    "OI78": {
+        "lat": 41.0848007202,
+        "long": -83.4363021851,
+        "name": "Diebleys ",
+        "state": "Ohio"
+    },
+    "OI81": {
+        "lat": 41.0713996887,
+        "long": -80.7585983276,
+        "name": "Mollica ",
+        "state": "Ohio"
+    },
+    "OI82": {
+        "lat": 38.9122009277,
+        "long": -82.724899292,
+        "name": "Russ ",
+        "state": "Ohio"
+    },
+    "OI84": {
+        "lat": 39.3871002197,
+        "long": -84.7978973389,
+        "name": "King Knoll ",
+        "state": "Ohio"
+    },
+    "OI85": {
+        "lat": 40.2683982849,
+        "long": -83.2216033936,
+        "name": "Mill Creek ",
+        "state": "Ohio"
+    },
+    "OI88": {
+        "lat": 41.0111999512,
+        "long": -82.4359970093,
+        "name": "Mindzak Airfield",
+        "state": "Ohio"
+    },
+    "OI89": {
+        "lat": 39.6495018005,
+        "long": -84.6299972534,
+        "name": "Mite ",
+        "state": "Ohio"
+    },
+    "OI91": {
+        "lat": 39.7797012329,
+        "long": -83.9092025757,
+        "name": "Hammond ",
+        "state": "Ohio"
+    },
+    "OI92": {
+        "lat": 41.3917007446,
+        "long": -83.7033004761,
+        "name": "Conklin ",
+        "state": "Ohio"
+    },
+    "OI99": {
+        "lat": 40.5733985901,
+        "long": -84.4899978638,
+        "name": "Mulholland ",
+        "state": "Ohio"
+    }
+}

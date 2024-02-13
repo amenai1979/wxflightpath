@@ -1,0 +1,230 @@
+{
+    "K2B3": {
+        "lat": 43.3880996704,
+        "long": -72.1893005371,
+        "name": "Parlin Field",
+        "state": "New-Hampshire"
+    },
+    "K5M3": {
+        "lat": 43.7683982849,
+        "long": -71.3867034912,
+        "name": "Moultonboro ",
+        "state": "New-Hampshire"
+    },
+    "K8B1": {
+        "lat": 43.0666999817,
+        "long": -71.8994979858,
+        "name": "Hawthorne Feather Airpark",
+        "state": "New-Hampshire"
+    },
+    "KAFN": {
+        "lat": 42.8050994873,
+        "long": -72.0029983521,
+        "name": "Jaffrey  Silver Ranch ",
+        "state": "New-Hampshire"
+    },
+    "KASH": {
+        "lat": 42.7817001343,
+        "long": -71.5148010254,
+        "name": "Boire Field",
+        "state": "New-Hampshire"
+    },
+    "KBML": {
+        "lat": 44.57540131,
+        "long": -71.17590332,
+        "name": "Berlin Regional ",
+        "state": "New-Hampshire"
+    },
+    "KCNH": {
+        "lat": 43.3703994751,
+        "long": -72.3686981201,
+        "name": "Claremont Municipal ",
+        "state": "New-Hampshire"
+    },
+    "KCON": {
+        "lat": 43.20270157,
+        "long": -71.50229645,
+        "name": "Concord Municipal ",
+        "state": "New-Hampshire"
+    },
+    "KEEN": {
+        "lat": 42.898399353,
+        "long": -72.2707977295,
+        "name": "Dillant Hopkins ",
+        "state": "New-Hampshire"
+    },
+    "KERR": {
+        "lat": 44.7924995422,
+        "long": -71.1641998291,
+        "name": "Errol ",
+        "state": "New-Hampshire"
+    },
+    "KHIE": {
+        "lat": 44.3675994873,
+        "long": -71.5445022583,
+        "name": "Mount Washington Regional ",
+        "state": "New-Hampshire"
+    },
+    "KLCI": {
+        "lat": 43.5727005005,
+        "long": -71.4188995361,
+        "name": "Laconia Municipal ",
+        "state": "New-Hampshire"
+    },
+    "KLEB": {
+        "lat": 43.6260986328,
+        "long": -72.3041992188,
+        "name": "Lebanon Municipal ",
+        "state": "New-Hampshire"
+    },
+    "KMHT": {
+        "lat": 42.932598114,
+        "long": -71.4356994629,
+        "name": "Manchester ",
+        "state": "New-Hampshire"
+    },
+    "KPSM": {
+        "lat": 43.0778999329,
+        "long": -70.8233032227,
+        "name": "Portsmouth International at Pease ",
+        "state": "New-Hampshire"
+    },
+    "NH07": {
+        "lat": 43.2803993225,
+        "long": -71.4565963745,
+        "name": "Cooper Farm ",
+        "state": "New-Hampshire"
+    },
+    "NH15": {
+        "lat": 43.3866996765,
+        "long": -71.2333984375,
+        "name": "Locke Lake ",
+        "state": "New-Hampshire"
+    },
+    "NH16": {
+        "lat": 42.7417984009,
+        "long": -71.7076034546,
+        "name": "Brookline ",
+        "state": "New-Hampshire"
+    },
+    "NH17": {
+        "lat": 42.7276000977,
+        "long": -71.7175979614,
+        "name": "Zim ",
+        "state": "New-Hampshire"
+    },
+    "NH18": {
+        "lat": 43.73339844,
+        "long": -71.15119934,
+        "name": "Chickville ",
+        "state": "New-Hampshire"
+    },
+    "NH20": {
+        "lat": 43.4922981262,
+        "long": -71.6458969116,
+        "name": "Ward Field",
+        "state": "New-Hampshire"
+    },
+    "NH25": {
+        "lat": 43.6866989136,
+        "long": -71.2891998291,
+        "name": "Flying H Skyport ",
+        "state": "New-Hampshire"
+    },
+    "NH31": {
+        "lat": 43.650100708,
+        "long": -71.1494979858,
+        "name": "Mountain View Field",
+        "state": "New-Hampshire"
+    },
+    "NH38": {
+        "lat": 43.9725990295,
+        "long": -71.1697998047,
+        "name": "Leavitt ",
+        "state": "New-Hampshire"
+    },
+    "NH39": {
+        "lat": 43.0334014893,
+        "long": -72.4298019409,
+        "name": "Frank D. Comerford ",
+        "state": "New-Hampshire"
+    },
+    "NH40": {
+        "lat": 43.4047012329,
+        "long": -71.9504013062,
+        "name": "Eagles Nest ",
+        "state": "New-Hampshire"
+    },
+    "NH43": {
+        "lat": 43.1795005798,
+        "long": -71.1370010376,
+        "name": "Murphy-Sherwood Park ",
+        "state": "New-Hampshire"
+    },
+    "NH49": {
+        "lat": 43.9702987671,
+        "long": -71.6794967651,
+        "name": "Bradley Field",
+        "state": "New-Hampshire"
+    },
+    "NH60": {
+        "lat": 42.9606018066,
+        "long": -71.6533966064,
+        "name": "Huff Memorial ",
+        "state": "New-Hampshire"
+    },
+    "NH61": {
+        "lat": 42.9681015015,
+        "long": -71.1811981201,
+        "name": "Heaton ",
+        "state": "New-Hampshire"
+    },
+    "NH67": {
+        "lat": 42.9784011841,
+        "long": -71.0094985962,
+        "name": "Winterwood ",
+        "state": "New-Hampshire"
+    },
+    "NH69": {
+        "lat": 43.8306007385,
+        "long": -71.18699646,
+        "name": "Windsock Village ",
+        "state": "New-Hampshire"
+    },
+    "NH76": {
+        "lat": 42.7290000916,
+        "long": -71.7842025757,
+        "name": "Mason Airfield",
+        "state": "New-Hampshire"
+    },
+    "NH78": {
+        "lat": 42.7472000122,
+        "long": -71.3692016602,
+        "name": "Steck Farm ",
+        "state": "New-Hampshire"
+    },
+    "NH84": {
+        "lat": 43.2075996399,
+        "long": -71.2211990356,
+        "name": "Northwood ",
+        "state": "New-Hampshire"
+    },
+    "NH86": {
+        "lat": 43.1750984192,
+        "long": -71.7873001099,
+        "name": "Intervale ",
+        "state": "New-Hampshire"
+    },
+    "NH88": {
+        "lat": 43.0672988892,
+        "long": -71.6111984253,
+        "name": "Country Club Air Park",
+        "state": "New-Hampshire"
+    },
+    "NH96": {
+        "lat": 43.873444,
+        "long": -71.904722,
+        "name": "Wentworth Aerodrome ",
+        "state": "New-Hampshire"
+    }
+}

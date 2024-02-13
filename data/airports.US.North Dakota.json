@@ -1,0 +1,644 @@
+{
+    "03ND": {
+        "lat": 48.6263999939,
+        "long": -97.8290023804,
+        "name": "Olafson Brothers ",
+        "state": "North Dakota"
+    },
+    "06ND": {
+        "lat": 46.7489013672,
+        "long": -101.6689987183,
+        "name": "Fitterer's Strip",
+        "state": "North Dakota"
+    },
+    "08ND": {
+        "lat": 47.3231010437,
+        "long": -102.0979995728,
+        "name": "Brecht Strip",
+        "state": "North Dakota"
+    },
+    "0NA1": {
+        "lat": 46.2454986572,
+        "long": -97.0375976563,
+        "name": "Goerger ",
+        "state": "North Dakota"
+    },
+    "0NA5": {
+        "lat": 48.0010986328,
+        "long": -99.5628967285,
+        "name": "Sorlie ",
+        "state": "North Dakota"
+    },
+    "0NA9": {
+        "lat": 46.75,
+        "long": -103.8010025024,
+        "name": "Boyd's Turf ",
+        "state": "North Dakota"
+    },
+    "0ND0": {
+        "lat": 47.9291992188,
+        "long": -99.4003982544,
+        "name": "Gilbertson Field",
+        "state": "North Dakota"
+    },
+    "0ND6": {
+        "lat": 46.0550003052,
+        "long": -99.917098999,
+        "name": "Schumacher Strip",
+        "state": "North Dakota"
+    },
+    "0ND7": {
+        "lat": 46.4653015137,
+        "long": -100.1050033569,
+        "name": "Saville Private ",
+        "state": "North Dakota"
+    },
+    "10ND": {
+        "lat": 47.1875,
+        "long": -102.3619995117,
+        "name": "Smith Strip",
+        "state": "North Dakota"
+    },
+    "12ND": {
+        "lat": 48.29529953,
+        "long": -101.4270019531,
+        "name": "Pietschtree Airstrip",
+        "state": "North Dakota"
+    },
+    "14ND": {
+        "lat": 46.2078018188,
+        "long": -102.9079971313,
+        "name": "Hagen Private ",
+        "state": "North Dakota"
+    },
+    "19ND": {
+        "lat": 47.7332992554,
+        "long": -98.4887008667,
+        "name": "Breckheimer ",
+        "state": "North Dakota"
+    },
+    "1NA0": {
+        "lat": 48.7322006226,
+        "long": -97.889503479,
+        "name": "Bohn Airstrip",
+        "state": "North Dakota"
+    },
+    "1NA5": {
+        "lat": 46.625,
+        "long": -99.4504013062,
+        "name": "Gienger/Box Bar Ranch ",
+        "state": "North Dakota"
+    },
+    "1NA8": {
+        "lat": 46.6904983521,
+        "long": -100.0950012207,
+        "name": "Preszler Airstrip",
+        "state": "North Dakota"
+    },
+    "1NA9": {
+        "lat": 47.0332984924,
+        "long": -102.4960021973,
+        "name": "Myran Airstrip",
+        "state": "North Dakota"
+    },
+    "1ND3": {
+        "lat": 46.6477012634,
+        "long": -97.1305999756,
+        "name": "Andvik ",
+        "state": "North Dakota"
+    },
+    "1ND4": {
+        "lat": 47.0583000183,
+        "long": -97.016998291,
+        "name": "Walkinshaw ",
+        "state": "North Dakota"
+    },
+    "1ND7": {
+        "lat": 46.8291015625,
+        "long": -97.266998291,
+        "name": "Dittmer ",
+        "state": "North Dakota"
+    },
+    "20ND": {
+        "lat": 47.6539001465,
+        "long": -100.8909988403,
+        "name": "Crooked Lake Airstrip",
+        "state": "North Dakota"
+    },
+    "21ND": {
+        "lat": 48.5821990967,
+        "long": -100.8550033569,
+        "name": "Rosenau ",
+        "state": "North Dakota"
+    },
+    "23ND": {
+        "lat": 47.0821990967,
+        "long": -101.266998291,
+        "name": "Minnkota Private ",
+        "state": "North Dakota"
+    },
+    "26ND": {
+        "lat": 47.7097015381,
+        "long": -103.6439971924,
+        "name": "Chitwood Airstrip",
+        "state": "North Dakota"
+    },
+    "2NA0": {
+        "lat": 47.2566986084,
+        "long": -100.7959976196,
+        "name": "Soderquist ",
+        "state": "North Dakota"
+    },
+    "2NA7": {
+        "lat": 48.028301239,
+        "long": -99.6165008545,
+        "name": "Slater Farm ",
+        "state": "North Dakota"
+    },
+    "2ND0": {
+        "lat": 46.8143997192,
+        "long": -97.0497970581,
+        "name": "Kraft ",
+        "state": "North Dakota"
+    },
+    "2ND1": {
+        "lat": 47.4925003052,
+        "long": -100.6999969482,
+        "name": "Westerlind ",
+        "state": "North Dakota"
+    },
+    "2ND2": {
+        "lat": 47.5668983459,
+        "long": -100.7210006714,
+        "name": "Makeeff ",
+        "state": "North Dakota"
+    },
+    "2ND3": {
+        "lat": 48.0008010864,
+        "long": -97.1223983765,
+        "name": "Casslindan ",
+        "state": "North Dakota"
+    },
+    "2ND7": {
+        "lat": 48.751701355,
+        "long": -100.8140029907,
+        "name": "Johnson ",
+        "state": "North Dakota"
+    },
+    "2ND9": {
+        "lat": 48.8166999817,
+        "long": -101.9169998169,
+        "name": "Brekhus Field",
+        "state": "North Dakota"
+    },
+    "34ND": {
+        "lat": 46.7057991028,
+        "long": -97.15650177,
+        "name": "Plath Farms ",
+        "state": "North Dakota"
+    },
+    "37ND": {
+        "lat": 47.2319984436,
+        "long": -102.5090026855,
+        "name": "Sunset Strip",
+        "state": "North Dakota"
+    },
+    "38ND": {
+        "lat": 47.0979995728,
+        "long": -97.4011993408,
+        "name": "Schroeder Private ",
+        "state": "North Dakota"
+    },
+    "3NA0": {
+        "lat": 47.4166984558,
+        "long": -97.5114974976,
+        "name": "Erickson ",
+        "state": "North Dakota"
+    },
+    "3NA2": {
+        "lat": 47.3027992249,
+        "long": -101.0670013428,
+        "name": "Lorentzen ",
+        "state": "North Dakota"
+    },
+    "3NA6": {
+        "lat": 47.7705993652,
+        "long": -99.4617996216,
+        "name": "Risovi Ranch Strip",
+        "state": "North Dakota"
+    },
+    "3ND5": {
+        "lat": 47.0611000061,
+        "long": -97.7712020874,
+        "name": "Gage Flying Farmer ",
+        "state": "North Dakota"
+    },
+    "44ND": {
+        "lat": 47.5278015137,
+        "long": -102.2409973145,
+        "name": "Fredericks Ranch ",
+        "state": "North Dakota"
+    },
+    "48ND": {
+        "lat": 46.5125007629,
+        "long": -100.5500030518,
+        "name": "Schirmeister Private ",
+        "state": "North Dakota"
+    },
+    "4NA0": {
+        "lat": 48.0083999634,
+        "long": -103.591003418,
+        "name": "Lindvig Airstrip",
+        "state": "North Dakota"
+    },
+    "4NA1": {
+        "lat": 48.254699707,
+        "long": -103.672996521,
+        "name": "Ring Rock Ranch ",
+        "state": "North Dakota"
+    },
+    "4NA3": {
+        "lat": 48.8572006226,
+        "long": -101.3020019531,
+        "name": "Peterson Airstrip",
+        "state": "North Dakota"
+    },
+    "4NA5": {
+        "lat": 48.2882995605,
+        "long": -101.8280029297,
+        "name": "Berg Strip",
+        "state": "North Dakota"
+    },
+    "4NA6": {
+        "lat": 48.4550018311,
+        "long": -103.8799972534,
+        "name": "Nicks Landing ",
+        "state": "North Dakota"
+    },
+    "4ND1": {
+        "lat": 47.7928009033,
+        "long": -97.1537017822,
+        "name": "Knutson ",
+        "state": "North Dakota"
+    },
+    "4ND4": {
+        "lat": 48.5638999939,
+        "long": -100.8799972534,
+        "name": "Pfau Private ",
+        "state": "North Dakota"
+    },
+    "4ND8": {
+        "lat": 46.3540992737,
+        "long": -97.1169967651,
+        "name": "Sanden ",
+        "state": "North Dakota"
+    },
+    "52ND": {
+        "lat": 47.1893997192,
+        "long": -97.2894973755,
+        "name": "Richtsmeier ",
+        "state": "North Dakota"
+    },
+    "53ND": {
+        "lat": 47.5480995178,
+        "long": -99.9470977783,
+        "name": "R. Leep Strip",
+        "state": "North Dakota"
+    },
+    "55ND": {
+        "lat": 47.3555984497,
+        "long": -102.7109985352,
+        "name": "Pete's Port ",
+        "state": "North Dakota"
+    },
+    "57ND": {
+        "lat": 46.6082992554,
+        "long": -97.0595016479,
+        "name": "Odegaard ",
+        "state": "North Dakota"
+    },
+    "5NA0": {
+        "lat": 47.773601532,
+        "long": -101.2789993286,
+        "name": "Semchenko ",
+        "state": "North Dakota"
+    },
+    "5NA2": {
+        "lat": 47.5377998352,
+        "long": -97.3637008667,
+        "name": "Haugen Farm Airstrip",
+        "state": "North Dakota"
+    },
+    "5ND0": {
+        "lat": 48.0764007568,
+        "long": -104.0319976807,
+        "name": "Stiehl ",
+        "state": "North Dakota"
+    },
+    "5ND3": {
+        "lat": 48.8554992676,
+        "long": -97.3219985962,
+        "name": "Craig Private ",
+        "state": "North Dakota"
+    },
+    "5ND4": {
+        "lat": 46.1436004639,
+        "long": -97.2431030273,
+        "name": "Tesch Strip",
+        "state": "North Dakota"
+    },
+    "5ND9": {
+        "lat": 47.4846992493,
+        "long": -97.074798584,
+        "name": "Deck ",
+        "state": "North Dakota"
+    },
+    "61ND": {
+        "lat": 47.9474983215,
+        "long": -97.6620025635,
+        "name": "Bakke ",
+        "state": "North Dakota"
+    },
+    "62ND": {
+        "lat": 47.7792015076,
+        "long": -97.7594985962,
+        "name": "Morten ",
+        "state": "North Dakota"
+    },
+    "63ND": {
+        "lat": 46.3652000427,
+        "long": -97.7282028198,
+        "name": "Moellenkamp ",
+        "state": "North Dakota"
+    },
+    "64ND": {
+        "lat": 46.8507995605,
+        "long": -101.0749969482,
+        "name": "Z. P. Field",
+        "state": "North Dakota"
+    },
+    "67ND": {
+        "lat": 46.5433006287,
+        "long": -98.3823013306,
+        "name": "Waldie Farms ",
+        "state": "North Dakota"
+    },
+    "69ND": {
+        "lat": 48.7430992126,
+        "long": -101.0419998169,
+        "name": "Tengesdal ",
+        "state": "North Dakota"
+    },
+    "6NA0": {
+        "lat": 48.9930992126,
+        "long": -102.7379989624,
+        "name": "Strom Private ",
+        "state": "North Dakota"
+    },
+    "6NA2": {
+        "lat": 46.7924995422,
+        "long": -96.8037033081,
+        "name": "South Hector Airstrip",
+        "state": "North Dakota"
+    },
+    "6NA5": {
+        "lat": 46.9127998352,
+        "long": -102.0090026855,
+        "name": "Chase Airstrip",
+        "state": "North Dakota"
+    },
+    "6NA6": {
+        "lat": 48.6192016602,
+        "long": -100.9779968262,
+        "name": "Marsh Brothers Airstrip",
+        "state": "North Dakota"
+    },
+    "6NA7": {
+        "lat": 48.7303009033,
+        "long": -100.9219970703,
+        "name": "Kersten Brothers ",
+        "state": "North Dakota"
+    },
+    "6ND2": {
+        "lat": 46.2588996887,
+        "long": -98.3879013062,
+        "name": "Larson ",
+        "state": "North Dakota"
+    },
+    "6ND3": {
+        "lat": 47.0696983337,
+        "long": -96.9405975342,
+        "name": "Lisburg ",
+        "state": "North Dakota"
+    },
+    "6ND6": {
+        "lat": 47.5167007446,
+        "long": -97.5503997803,
+        "name": "Fugleberg Farm ",
+        "state": "North Dakota"
+    },
+    "6ND9": {
+        "lat": 48.3927993774,
+        "long": -101.763999939,
+        "name": "Skinningsrud ",
+        "state": "North Dakota"
+    },
+    "72ND": {
+        "lat": 47.6610984802,
+        "long": -97.5920028687,
+        "name": "Berg Field",
+        "state": "North Dakota"
+    },
+    "73ND": {
+        "lat": 46.5716018677,
+        "long": -98.6884002686,
+        "name": "M Heart Ranch ",
+        "state": "North Dakota"
+    },
+    "75ND": {
+        "lat": 46.9075012207,
+        "long": -102.4909973145,
+        "name": "Jurgens Airstrip",
+        "state": "North Dakota"
+    },
+    "78ND": {
+        "lat": 46.2949981689,
+        "long": -103.4319992065,
+        "name": "Folske Ranch ",
+        "state": "North Dakota"
+    },
+    "79ND": {
+        "lat": 47.323299408,
+        "long": -99.0011978149,
+        "name": "Reimers ",
+        "state": "North Dakota"
+    },
+    "7NA0": {
+        "lat": 47.3574981689,
+        "long": -97.0280990601,
+        "name": "Downs Farm Private ",
+        "state": "North Dakota"
+    },
+    "7NA2": {
+        "lat": 48.6878013611,
+        "long": -101.3499984741,
+        "name": "Undlin Airstrip",
+        "state": "North Dakota"
+    },
+    "7NA3": {
+        "lat": 46.3499984741,
+        "long": -97.6942977905,
+        "name": "Hiam Private ",
+        "state": "North Dakota"
+    },
+    "7NA4": {
+        "lat": 47.51720047,
+        "long": -97.3337020874,
+        "name": "Ingebretson Airspray ",
+        "state": "North Dakota"
+    },
+    "7NA9": {
+        "lat": 48.9282989502,
+        "long": -100.5780029297,
+        "name": "Sjule Private Airstrip",
+        "state": "North Dakota"
+    },
+    "7ND1": {
+        "lat": 47.0360984802,
+        "long": -102.7779998779,
+        "name": "Wolberg's Private ",
+        "state": "North Dakota"
+    },
+    "7ND2": {
+        "lat": 48.3727989197,
+        "long": -97.320098877,
+        "name": "Kelly's Field",
+        "state": "North Dakota"
+    },
+    "7ND5": {
+        "lat": 47.3596992493,
+        "long": -99.6225967407,
+        "name": "Buchmiller ",
+        "state": "North Dakota"
+    },
+    "7ND7": {
+        "lat": 47.6824989319,
+        "long": -103.7279968262,
+        "name": "Haugen's ",
+        "state": "North Dakota"
+    },
+    "7ND8": {
+        "lat": 48.8521995544,
+        "long": -98.7481994629,
+        "name": "Forest ",
+        "state": "North Dakota"
+    },
+    "80ND": {
+        "lat": 48.8786010742,
+        "long": -103.3700027466,
+        "name": "Troy Field",
+        "state": "North Dakota"
+    },
+    "81ND": {
+        "lat": 48.3885993958,
+        "long": -101.0449981689,
+        "name": "Millers Airstrip",
+        "state": "North Dakota"
+    },
+    "84ND": {
+        "lat": 48.0008010864,
+        "long": -97.7570037842,
+        "name": "Kyllo ",
+        "state": "North Dakota"
+    },
+    "88ND": {
+        "lat": 48.7089004517,
+        "long": -97.9940032959,
+        "name": "Goodman Strip",
+        "state": "North Dakota"
+    },
+    "89ND": {
+        "lat": 47.9113998413,
+        "long": -101.2490005493,
+        "name": "Poleschook ",
+        "state": "North Dakota"
+    },
+    "8NA0": {
+        "lat": 46.8810997009,
+        "long": -99.630897522,
+        "name": "Tappen Airstrip",
+        "state": "North Dakota"
+    },
+    "8NA5": {
+        "lat": 46.6629981995,
+        "long": -98.6304016113,
+        "name": "Liechty Farm ",
+        "state": "North Dakota"
+    },
+    "8NA9": {
+        "lat": 47.327999115,
+        "long": -97.6790008545,
+        "name": "Hashbarger Farm Airstrip",
+        "state": "North Dakota"
+    },
+    "8ND0": {
+        "lat": 48.9014015198,
+        "long": -99.0167999268,
+        "name": "Amble-Tiger North Farms ",
+        "state": "North Dakota"
+    },
+    "8ND4": {
+        "lat": 48.073600769,
+        "long": -97.1862030029,
+        "name": "Heyde ",
+        "state": "North Dakota"
+    },
+    "8ND5": {
+        "lat": 46.7639007568,
+        "long": -97.4054031372,
+        "name": "Ausk Strip",
+        "state": "North Dakota"
+    },
+    "8ND6": {
+        "lat": 46.7126998901,
+        "long": -97.3908996582,
+        "name": "J Vining ",
+        "state": "North Dakota"
+    },
+    "94ND": {
+        "lat": 48.6659011841,
+        "long": -100.9179992676,
+        "name": "Michael Zurcher Farm Strip",
+        "state": "North Dakota"
+    },
+    "97ND": {
+        "lat": 48.4308013916,
+        "long": -97.7080993652,
+        "name": "Walser Strip",
+        "state": "North Dakota"
+    },
+    "98ND": {
+        "lat": 48.2633018494,
+        "long": -97.6222991943,
+        "name": "Sobolik ",
+        "state": "North Dakota"
+    },
+    "9NA4": {
+        "lat": 48.6660995483,
+        "long": -101.8909988403,
+        "name": "Bodmer ",
+        "state": "North Dakota"
+    },
+    "9ND1": {
+        "lat": 48.6479988098,
+        "long": -97.2684020996,
+        "name": "Elliott Farms ",
+        "state": "North Dakota"
+    },
+    "9ND8": {
+        "lat": 48.7854995728,
+        "long": -97.6723022461,
+        "name": "Hinkle ",
+        "state": "North Dakota"
+    }
+}

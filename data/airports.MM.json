@@ -1,0 +1,357 @@
+{
+  "VY02": {
+    "lat": 20.1536006927,
+    "long": 94.9686965942,
+    "name": "New Magway "
+  },
+  "VY03": {
+    "lat": 11.1493997574,
+    "long": 98.7359008789,
+    "name": "Toungkomei "
+  },
+  "VYAN": {
+    "lat": 19.7691993713,
+    "long": 94.0261001587,
+    "name": "Ann "
+  },
+  "VYAS": {
+    "lat": 21.9554004669,
+    "long": 96.4060974121,
+    "name": "Anisakan "
+  },
+  "VYBG": {
+    "lat": 21.1788005829,
+    "long": 94.9301986694,
+    "name": "Bagan "
+  },
+  "VYBM": {
+    "lat": 24.2689990997,
+    "long": 97.2462005615,
+    "name": "Banmaw "
+  },
+  "VYBP": {
+    "lat": 11.2670001984,
+    "long": 98.766998291,
+    "name": "Bokpyinn "
+  },
+  "VYCI": {
+    "lat": 14.141500473,
+    "long": 93.3684997559,
+    "name": "Coco Island "
+  },
+  "VYCZ": {
+    "lat": 21.9405002594,
+    "long": 96.0895996094,
+    "name": "Chanmyathazi "
+  },
+  "VYDW": {
+    "lat": 14.1038999557,
+    "long": 98.2035980225,
+    "name": "Dawei "
+  },
+  "VYEL": {
+    "lat": 19.623500824,
+    "long": 96.2009963989,
+    "name": "Naypyidaw "
+  },
+  "VYGG": {
+    "lat": 22.1746997833,
+    "long": 94.1343994141,
+    "name": "Gangaw "
+  },
+  "VYGW": {
+    "lat": 17.6000003815,
+    "long": 94.5832977295,
+    "name": "Gwa "
+  },
+  "VYHB": {
+    "lat": 17.1166992188,
+    "long": 96.0667037964,
+    "name": "Hmawbi Air Base"
+  },
+  "VYHH": {
+    "lat": 20.7469997406,
+    "long": 96.7919998169,
+    "name": "Heho "
+  },
+  "VYHL": {
+    "lat": 24.8995990753,
+    "long": 94.9140014648,
+    "name": "Hommalinn "
+  },
+  "VYHN": {
+    "lat": 21.7000007629,
+    "long": 94.0999984741,
+    "name": "Tilin "
+  },
+  "VYKG": {
+    "lat": 21.3015995026,
+    "long": 99.6360015869,
+    "name": "Kengtung "
+  },
+  "VYKI": {
+    "lat": 25.9883003235,
+    "long": 95.6744003296,
+    "name": "Kanti "
+  },
+  "VYKL": {
+    "lat": 23.1888008118,
+    "long": 94.0511016846,
+    "name": "Kalay "
+  },
+  "VYKP": {
+    "lat": 19.426399231,
+    "long": 93.5347976685,
+    "name": "Kyaukpyu "
+  },
+  "VYKT": {
+    "lat": 10.0493001938,
+    "long": 98.5380020142,
+    "name": "Kawthoung "
+  },
+  "VYKU": {
+    "lat": 21.3999996185,
+    "long": 94.1333007813,
+    "name": "Kyauktu "
+  },
+  "VYLK": {
+    "lat": 19.6914997101,
+    "long": 97.2147979736,
+    "name": "Loikaw "
+  },
+  "VYLN": {
+    "lat": 25.6499996185,
+    "long": 96.3669967651,
+    "name": "Lonekin "
+  },
+  "VYLS": {
+    "lat": 22.9778995514,
+    "long": 97.7521972656,
+    "name": "Lashio "
+  },
+  "VYLY": {
+    "lat": 20.9403991699,
+    "long": 94.8226013184,
+    "name": "Lanywa "
+  },
+  "VYMD": {
+    "lat": 21.7021999359,
+    "long": 95.977897644,
+    "name": "Mandalay International "
+  },
+  "VYME": {
+    "lat": 12.4398002625,
+    "long": 98.6214981079,
+    "name": "Myeik "
+  },
+  "VYMH": {
+    "lat": 20.8330001831,
+    "long": 99.9499969482,
+    "name": "Mong Hpayak "
+  },
+  "VYMI": {
+    "lat": 22.4829998016,
+    "long": 98.0329971313,
+    "name": "Mongyai "
+  },
+  "VYMK": {
+    "lat": 25.383600235,
+    "long": 97.3518981934,
+    "name": "Myitkyina "
+  },
+  "VYML": {
+    "lat": 20.8864002228,
+    "long": 95.892791748,
+    "name": "Meiktila Air Base"
+  },
+  "VYMM": {
+    "lat": 16.4447002411,
+    "long": 97.660697937,
+    "name": "Mawlamyine "
+  },
+  "VYMN": {
+    "lat": 18.8458003998,
+    "long": 93.6889038086,
+    "name": "Manaung "
+  },
+  "VYMO": {
+    "lat": 23.0925006866,
+    "long": 96.6453018188,
+    "name": "Momeik "
+  },
+  "VYMP": {
+    "lat": 21.3500003815,
+    "long": 99.0329971313,
+    "name": "Mongpyin "
+  },
+  "VYMS": {
+    "lat": 20.5167999268,
+    "long": 99.2567977905,
+    "name": "Mong Hsat "
+  },
+  "VYMT": {
+    "lat": 20.2966995239,
+    "long": 98.8989028931,
+    "name": "Mong Tong "
+  },
+  "VYMU": {
+    "lat": 20.5669994354,
+    "long": 93.1999969482,
+    "name": "Myauk U "
+  },
+  "VYMW": {
+    "lat": 20.165599823,
+    "long": 94.9413986206,
+    "name": "Magway "
+  },
+  "VYMY": {
+    "lat": 22.2329998016,
+    "long": 95.1169967651,
+    "name": "Monywar "
+  },
+  "VYNM": {
+    "lat": 27.5,
+    "long": 97.8170013428,
+    "name": "Naungmom "
+  },
+  "VYNP": {
+    "lat": 25.3544006348,
+    "long": 97.2951965332,
+    "name": "Nampong Air Base"
+  },
+  "VYNS": {
+    "lat": 20.890499115,
+    "long": 97.7359008789,
+    "name": "Namsang "
+  },
+  "VYNT": {
+    "lat": 23.0830001831,
+    "long": 97.3830032349,
+    "name": "Namtu "
+  },
+  "VYPA": {
+    "lat": 16.893699646,
+    "long": 97.6745986938,
+    "name": "Hpa-N "
+  },
+  "VYPB": {
+    "lat": 24.25,
+    "long": 94.7829971313,
+    "name": "Phonngbyin "
+  },
+  "VYPE": {
+    "lat": 21.2999992371,
+    "long": 92.9169998169,
+    "name": "Paletwa "
+  },
+  "VYPI": {
+    "lat": 11.2829999924,
+    "long": 98.1999969482,
+    "name": "Pearl Island "
+  },
+  "VYPK": {
+    "lat": 21.4491996765,
+    "long": 94.4869003296,
+    "name": "Pauk "
+  },
+  "VYPL": {
+    "lat": 24.0830001831,
+    "long": 95.3669967651,
+    "name": "Pinlebu "
+  },
+  "VYPN": {
+    "lat": 16.8152008057,
+    "long": 94.7798995972,
+    "name": "Pathein "
+  },
+  "VYPP": {
+    "lat": 18.0666999817,
+    "long": 97.449798584,
+    "name": "Hpapun "
+  },
+  "VYPT": {
+    "lat": 27.3299007416,
+    "long": 97.4263000488,
+    "name": "Putao "
+  },
+  "VYPU": {
+    "lat": 21.4043,
+    "long": 95.11125,
+    "name": "Pakhokku "
+  },
+  "VYPW": {
+    "lat": 12.9499998093,
+    "long": 98.6500015259,
+    "name": "Palaw "
+  },
+  "VYPY": {
+    "lat": 18.8244991302,
+    "long": 95.2659988403,
+    "name": "Pyay "
+  },
+  "VYSA": {
+    "lat": 21.1669998169,
+    "long": 94.1669998169,
+    "name": "Saw "
+  },
+  "VYSL": {
+    "lat": 22.1000003815,
+    "long": 95.016998291,
+    "name": "Salingyi "
+  },
+  "VYSO": {
+    "lat": 20.4500007629,
+    "long": 94.233001709,
+    "name": "Sedoktayar "
+  },
+  "VYST": {
+    "lat": 20.9416999817,
+    "long": 95.9144973755,
+    "name": "Shante Air Base"
+  },
+  "VYSW": {
+    "lat": 20.1326999664,
+    "long": 92.8725967407,
+    "name": "Sittwe "
+  },
+  "VYTD": {
+    "lat": 18.4606990814,
+    "long": 94.3001022339,
+    "name": "Thandwe "
+  },
+  "VYTL": {
+    "lat": 20.4838008881,
+    "long": 99.9354019165,
+    "name": "Tachileik "
+  },
+  "VYTN": {
+    "lat": 26.3670005798,
+    "long": 96.733001709,
+    "name": "Tanai "
+  },
+  "VYTO": {
+    "lat": 19.0312995911,
+    "long": 96.4011993408,
+    "name": "Taungoo "
+  },
+  "VYTY": {
+    "lat": 22.4829998016,
+    "long": 98.4000015259,
+    "name": "Tanyang "
+  },
+  "VYXG": {
+    "lat": 21.4067001343,
+    "long": 94.1303024292,
+    "name": "Kyaukhtu South "
+  },
+  "VYYE": {
+    "lat": 15.3000001907,
+    "long": 97.8669967651,
+    "name": "Ye "
+  },
+  "VYYY": {
+    "lat": 16.9073009491,
+    "long": 96.1332015991,
+    "name": "Yangon International "
+  }
+}

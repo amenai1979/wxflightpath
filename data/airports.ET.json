@@ -1,0 +1,222 @@
+{
+  "HAAB": {
+    "lat": 8.9778900147,
+    "long": 38.7993011475,
+    "name": "Bole International "
+  },
+  "HAAD": {
+    "lat": 7.0500001907,
+    "long": 39.4000015259,
+    "name": "Adaba "
+  },
+  "HAAL": {
+    "lat": 9.0036802292,
+    "long": 38.7260017395,
+    "name": "Lideta Army "
+  },
+  "HAAM": {
+    "lat": 6.0393900871,
+    "long": 37.5904998779,
+    "name": "Arba Minch "
+  },
+  "HAAX": {
+    "lat": 14.1468000412,
+    "long": 38.7728004456,
+    "name": "Axum "
+  },
+  "HABC": {
+    "lat": 5.7828698158,
+    "long": 36.5620002747,
+    "name": "Baco "
+  },
+  "HABD": {
+    "lat": 11.6080999374,
+    "long": 37.3216018677,
+    "name": "Bahir Dar "
+  },
+  "HABE": {
+    "lat": 9.3863897324,
+    "long": 34.521900177,
+    "name": "Beica "
+  },
+  "HADC": {
+    "lat": 11.0825004578,
+    "long": 39.7113990784,
+    "name": "Combolcha "
+  },
+  "HADD": {
+    "lat": 8.5539999008,
+    "long": 34.858001709,
+    "name": "Dembidollo "
+  },
+  "HADM": {
+    "lat": 10.3500003815,
+    "long": 37.716999054,
+    "name": "Debra Marcos "
+  },
+  "HADO": {
+    "lat": 7.0205597878,
+    "long": 39.0511016846,
+    "name": "Dodola "
+  },
+  "HADR": {
+    "lat": 9.6246995926,
+    "long": 41.8541984558,
+    "name": "Aba Tenna Dejazmach Yilma International "
+  },
+  "HADT": {
+    "lat": 11.9670000076,
+    "long": 38,
+    "name": "Debre Tabor "
+  },
+  "HAFN": {
+    "lat": 9.5830001831,
+    "long": 37.3499984741,
+    "name": "Fincha "
+  },
+  "HAGB": {
+    "lat": 7.0170001984,
+    "long": 40,
+    "name": "Robe "
+  },
+  "HAGH": {
+    "lat": 7.1500000954,
+    "long": 40.716999054,
+    "name": "Ghinnir "
+  },
+  "HAGM": {
+    "lat": 8.1287603378,
+    "long": 34.5630989075,
+    "name": "Gambella "
+  },
+  "HAGN": {
+    "lat": 12.519900322,
+    "long": 37.4339981079,
+    "name": "Gonder "
+  },
+  "HAGO": {
+    "lat": 5.9351301193,
+    "long": 43.5786018372,
+    "name": "Gode "
+  },
+  "HAGR": {
+    "lat": 8.1614,
+    "long": 35.5529,
+    "name": "Gore "
+  },
+  "HAHM": {
+    "lat": 8.7163,
+    "long": 39.0059,
+    "name": "Harar Meda "
+  },
+  "HAHU": {
+    "lat": 14.25,
+    "long": 36.5830001831,
+    "name": "Humera "
+  },
+  "HAJJ": {
+    "lat": 9.330833,
+    "long": 42.911111,
+    "name": "Jijiga "
+  },
+  "HAJM": {
+    "lat": 7.6660900116,
+    "long": 36.8166007996,
+    "name": "Jimma "
+  },
+  "HAKD": {
+    "lat": 6.734000206,
+    "long": 44.2529983521,
+    "name": "Kabri Dehar "
+  },
+  "HAKL": {
+    "lat": 5.6570000648,
+    "long": 44.3499984741,
+    "name": "Kelafo East "
+  },
+  "HALA": {
+    "lat": 7.0669999123,
+    "long": 38.5,
+    "name": "Awassa "
+  },
+  "HALL": {
+    "lat": 11.9750003815,
+    "long": 38.9799995422,
+    "name": "Lalibella "
+  },
+  "HAMJ": {
+    "lat": 5.8330001831,
+    "long": 35.533000946,
+    "name": "Tume "
+  },
+  "HAMK": {
+    "lat": 13.4673995972,
+    "long": 39.5335006714,
+    "name": "Mekele "
+  },
+  "HAML": {
+    "lat": 6.4080600739,
+    "long": 39.7238998413,
+    "name": "Masslo "
+  },
+  "HAMM": {
+    "lat": 12.9329996109,
+    "long": 36.1669998169,
+    "name": "Metema "
+  },
+  "HAMN": {
+    "lat": 9.7670001984,
+    "long": 35.0999984741,
+    "name": "Mendi "
+  },
+  "HAMT": {
+    "lat": 6.9571,
+    "long": 35.5547,
+    "name": "Mizan Teferi "
+  },
+  "HANJ": {
+    "lat": 9.5500001907,
+    "long": 35.466999054,
+    "name": "Nejjo "
+  },
+  "HANK": {
+    "lat": 9.0500001907,
+    "long": 36.5999984741,
+    "name": "Nekemte "
+  },
+  "HASC": {
+    "lat": 14.079444,
+    "long": 38.270833,
+    "name": "Shire "
+  },
+  "HASD": {
+    "lat": 6.8169999123,
+    "long": 37.75,
+    "name": "Soddu "
+  },
+  "HASH": {
+    "lat": 7.1500000954,
+    "long": 40.5670013428,
+    "name": "Sheik Hussein "
+  },
+  "HASM": {
+    "lat": 11.7875,
+    "long": 40.991667,
+    "name": "Semera "
+  },
+  "HASO": {
+    "lat": 10.0185003281,
+    "long": 34.5862998962,
+    "name": "Asosa "
+  },
+  "HATP": {
+    "lat": 7.2024,
+    "long": 35.415,
+    "name": "Tippi "
+  },
+  "HAWC": {
+    "lat": 7.1669998169,
+    "long": 37.1669998169,
+    "name": "Waca "
+  }
+}

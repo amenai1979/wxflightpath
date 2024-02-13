@@ -1,0 +1,87 @@
+{
+  "UAFA": {
+    "lat": 42.1530990601,
+    "long": 77.5639038086,
+    "name": "Tamga "
+  },
+  "UAFB": {
+    "lat": 40.0427017212,
+    "long": 70.8380966187,
+    "name": "Batken "
+  },
+  "UAFE": {
+    "lat": 41.484500885,
+    "long": 71.7337036133,
+    "name": "Kerben "
+  },
+  "UAFF": {
+    "lat": 42.8288993835,
+    "long": 75.3359985352,
+    "name": "Tokmok "
+  },
+  "UAFG": {
+    "lat": 42.6537017822,
+    "long": 77.0567016602,
+    "name": "Cholpon-Ata "
+  },
+  "UAFI": {
+    "lat": 39.8247374413,
+    "long": 69.5688199997,
+    "name": "Isfana "
+  },
+  "UAFJ": {
+    "lat": 40.9444007874,
+    "long": 72.9777984619,
+    "name": "Jalal-Abad "
+  },
+  "UAFN": {
+    "lat": 41.4415016174,
+    "long": 76.1305999756,
+    "name": "Naryn "
+  },
+  "UAFR": {
+    "lat": 42.4374008179,
+    "long": 76.1307983398,
+    "name": "Balykchy "
+  },
+  "UAFS": {
+    "lat": 40.2717018127,
+    "long": 72.0470962524,
+    "name": "Kyzyl-Kiya "
+  },
+  "UAFT": {
+    "lat": 42.5059013367,
+    "long": 72.2630996704,
+    "name": "Talas "
+  },
+  "UAFW": {
+    "lat": 42.8531990051,
+    "long": 74.846496582,
+    "name": "Kant Air Base"
+  },
+  "UAFZ": {
+    "lat": 41.4102908129,
+    "long": 74.044418335,
+    "name": "Kazarman "
+  },
+  "UCFL": {
+    "lat": 42.585714,
+    "long": 76.701811,
+    "name": "Issyk-Kul International "
+  },
+  "UCFM": {
+    "lat": 43.061272,
+    "long": 74.477508,
+    "name": "Manas International "
+  },
+  "UCFO": {
+    "lat": 40.608997,
+    "long": 72.793214,
+    "name": "Osh "
+  },
+  "UCFP": {
+    "lat": 42.508333,
+    "long": 78.407778,
+    "name": "Karakol "
+  }
+}

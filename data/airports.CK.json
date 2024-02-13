@@ -1,0 +1,47 @@
+{
+  "NCAI": {
+    "lat": -18.8309001923,
+    "long": -159.7640075684,
+    "name": "Aitutaki "
+  },
+  "NCAT": {
+    "lat": -19.9678001404,
+    "long": -158.1190032959,
+    "name": "Enua "
+  },
+  "NCMG": {
+    "lat": -21.895986557,
+    "long": -157.9066619873,
+    "name": "Mangaia Island "
+  },
+  "NCMH": {
+    "lat": -10.3767004013,
+    "long": -161.0019989014,
+    "name": "Manihiki Island "
+  },
+  "NCMK": {
+    "lat": -20.136100769,
+    "long": -157.3450012207,
+    "name": "Mauke "
+  },
+  "NCMN": {
+    "lat": -19.2667007446,
+    "long": -158.9600067139,
+    "name": "Manuae "
+  },
+  "NCMR": {
+    "lat": -19.8425006866,
+    "long": -157.7030029297,
+    "name": "Mitiaro Island "
+  },
+  "NCPY": {
+    "lat": -9.0143699646,
+    "long": -158.032409668,
+    "name": "Tongareva "
+  },
+  "NCRG": {
+    "lat": -21.2026996613,
+    "long": -159.8059997559,
+    "name": "Rarotonga International "
+  }
+}

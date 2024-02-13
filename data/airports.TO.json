@@ -1,0 +1,32 @@
+{
+  "NFTE": {
+    "lat": -21.3782997131,
+    "long": -174.957992554,
+    "name": "Kaufana "
+  },
+  "NFTF": {
+    "lat": -21.2411994934,
+    "long": -175.1499938965,
+    "name": "Fua'amotu International "
+  },
+  "NFTL": {
+    "lat": -19.7770004272,
+    "long": -174.341003418,
+    "name": "Lifuka Island "
+  },
+  "NFTO": {
+    "lat": -15.5707998276,
+    "long": -175.632995605,
+    "name": "Mata'aho "
+  },
+  "NFTP": {
+    "lat": -15.9773376519,
+    "long": -173.791029453,
+    "name": "Kuini Lavenia "
+  },
+  "NFTV": {
+    "lat": -18.5853004456,
+    "long": -173.9620056152,
+    "name": "Vava'u International "
+  }
+}

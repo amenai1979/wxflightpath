@@ -3,7 +3,7 @@ from functools import lru_cache
 
 import openai
 import requests
-from translate import Translator
+#from translate import Translator
 
 from wxflightpath import config
 
@@ -29,12 +29,13 @@ def rapidtranslate(input="text to translate", lang='fr'):
     return response.json()['data']['translatedText']
 
 
+"""
 @lru_cache(maxsize=None)
 def mstranslate(input="text to translate", lang="fr"):
     translator = Translator(to_lang=lang)
     translation = translator.translate(fixup(input.upper()))
     return translation
-
+"""
 
 @lru_cache(maxsize=None)
 def fixup(input="text"):

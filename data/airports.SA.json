@@ -1,0 +1,337 @@
+{
+  "OE43": {
+    "lat": 21.323600769,
+    "long": 41.198299408,
+    "name": "Arfa "
+  },
+  "OE45": {
+    "lat": 28.3899002075,
+    "long": 48.5164985657,
+    "name": "Ras Khafji "
+  },
+  "OE46": {
+    "lat": 20.47590065,
+    "long": 44.7574996948,
+    "name": "Al Lidem "
+  },
+  "OE47": {
+    "lat": 24.0607223511,
+    "long": 47.4108047485,
+    "name": "Al Kharj"
+  },
+  "OE48": {
+    "lat": 18.8931999207,
+    "long": 41.3549995422,
+    "name": "Quz South "
+  },
+  "OE49": {
+    "lat": 21.4375,
+    "long": 39.9942016602,
+    "name": "Mecca East "
+  },
+  "OE51": {
+    "lat": 24.0515003204,
+    "long": 47.6542015076,
+    "name": "Al Kharj East "
+  },
+  "OE52": {
+    "lat": 26.6116008759,
+    "long": 45.3219985962,
+    "name": "Al Artawiyah South "
+  },
+  "OE53": {
+    "lat": 24.9421005249,
+    "long": 46.3912010193,
+    "name": "King Abdul Aziz Military Academy "
+  },
+  "OE54": {
+    "lat": 25.9934005737,
+    "long": 46.5367012024,
+    "name": "Hafar Al Atk "
+  },
+  "OE55": {
+    "lat": 21.2269992828,
+    "long": 55.2672996521,
+    "name": "Ghafah "
+  },
+  "OE56": {
+    "lat": 22.710100174,
+    "long": 53.2812004089,
+    "name": "Khalfan "
+  },
+  "OEAA": {
+    "lat": 27.3190994263,
+    "long": 49.5871009827,
+    "name": "Abu Ali "
+  },
+  "OEAB": {
+    "lat": 18.2404003143,
+    "long": 42.6566009521,
+    "name": "Abha Regional "
+  },
+  "OEAH": {
+    "lat": 25.2852993011,
+    "long": 49.4851989746,
+    "name": "Al Ahsa "
+  },
+  "OEAO": {
+    "lat": 26.483333,
+    "long": 38.116944,
+    "name": "Prince Abdul Majeed bin Abdulaziz International "
+  },
+  "OEBA": {
+    "lat": 20.2961006165,
+    "long": 41.6343002319,
+    "name": "Al Baha "
+  },
+  "OEBH": {
+    "lat": 19.9843997955,
+    "long": 42.6208992004,
+    "name": "Bisha "
+  },
+  "OEBQ": {
+    "lat": 25.9113006592,
+    "long": 49.5912017822,
+    "name": "Abqaiq "
+  },
+  "OEDF": {
+    "lat": 26.471200943,
+    "long": 49.7979011536,
+    "name": "King Fahd International "
+  },
+  "OEDM": {
+    "lat": 24.4498996735,
+    "long": 44.1212005615,
+    "name": "Prince Salman Bin Abdulaziz "
+  },
+  "OEDR": {
+    "lat": 26.2653999329,
+    "long": 50.1520004272,
+    "name": "King Abdulaziz Air Base"
+  },
+  "OEDW": {
+    "lat": 24.5,
+    "long": 44.4000015259,
+    "name": "Dawadmi Domestic "
+  },
+  "OEGN": {
+    "lat": 16.9011001587,
+    "long": 42.5858001709,
+    "name": "Jizan Regional "
+  },
+  "OEGS": {
+    "lat": 26.3027992249,
+    "long": 43.7743988037,
+    "name": "Gassim "
+  },
+  "OEGT": {
+    "lat": 31.4118995667,
+    "long": 37.279499054,
+    "name": "Guriat Domestic "
+  },
+  "OEHL": {
+    "lat": 27.4379005432,
+    "long": 41.6862983704,
+    "name": "Hail "
+  },
+  "OEHR": {
+    "lat": 24.1329994202,
+    "long": 49.0670013428,
+    "name": "Harad "
+  },
+  "OEHW": {
+    "lat": 22.9678001404,
+    "long": 46.8995018005,
+    "name": "Hawtah "
+  },
+  "OEJB": {
+    "lat": 27.0389995575,
+    "long": 49.4051017761,
+    "name": "Jubail "
+  },
+  "OEJF": {
+    "lat": 21.3481006622,
+    "long": 39.1730003357,
+    "name": "King Faisal Naval Base"
+  },
+  "OEJN": {
+    "lat": 21.679599762,
+    "long": 39.15650177,
+    "name": "King Abdulaziz International "
+  },
+  "OEKK": {
+    "lat": 27.9008998871,
+    "long": 45.5281982422,
+    "name": "King Khaled Military City "
+  },
+  "OEKM": {
+    "lat": 18.2973003387,
+    "long": 42.8035011292,
+    "name": "King Khaled Air Base"
+  },
+  "OEKR": {
+    "lat": 25.0695991516,
+    "long": 48.1949005127,
+    "name": "Khurais "
+  },
+  "OEMA": {
+    "lat": 24.5534000397,
+    "long": 39.7051010132,
+    "name": "Prince Mohammad Bin Abdulaziz "
+  },
+  "OENG": {
+    "lat": 17.6114006042,
+    "long": 44.4192008972,
+    "name": "Nejran "
+  },
+  "OENR": {
+    "lat": 27.5,
+    "long": 48.5,
+    "name": "Nariya "
+  },
+  "OEPA": {
+    "lat": 28.3351993561,
+    "long": 46.1250991821,
+    "name": "Hafr Al Batin "
+  },
+  "OEPC": {
+    "lat": 25.1744995117,
+    "long": 47.4883995056,
+    "name": "Pump Station 3 "
+  },
+  "OEPF": {
+    "lat": 24.7103004456,
+    "long": 44.9645004272,
+    "name": "Pump Station 6 "
+  },
+  "OEPI": {
+    "lat": 24.2761001587,
+    "long": 42.143699646,
+    "name": "Pump Station 9 "
+  },
+  "OEPJ": {
+    "lat": 24.1072998047,
+    "long": 41.0359992981,
+    "name": "Pump Station 10 "
+  },
+  "OEPK": {
+    "lat": 27.9542007446,
+    "long": 46.7425994873,
+    "name": "Ipsa 3 "
+  },
+  "OEPS": {
+    "lat": 24.0627002716,
+    "long": 47.5805015564,
+    "name": "Prince Sultan Air Base"
+  },
+  "OERB": {
+    "lat": 22.7026004791,
+    "long": 39.0698013306,
+    "name": "Rabigh "
+  },
+  "OERF": {
+    "lat": 29.6263999939,
+    "long": 43.4906005859,
+    "name": "Rafha Domestic "
+  },
+  "OERK": {
+    "lat": 24.9575996399,
+    "long": 46.6987991333,
+    "name": "King Khaled International "
+  },
+  "OERM": {
+    "lat": 28.0795993805,
+    "long": 48.611000061,
+    "name": "Ras Mishab "
+  },
+  "OERR": {
+    "lat": 30.9066009521,
+    "long": 41.1381988525,
+    "name": "Arar Domestic "
+  },
+  "OERT": {
+    "lat": 26.7231006622,
+    "long": 50.0307998657,
+    "name": "Ras Tanura "
+  },
+  "OERY": {
+    "lat": 24.7098007202,
+    "long": 46.7252006531,
+    "name": "Riyadh Air Base"
+  },
+  "OESB": {
+    "lat": 22.5144996643,
+    "long": 53.964099884,
+    "name": "Shaibah "
+  },
+  "OESH": {
+    "lat": 17.4668998718,
+    "long": 47.1213989258,
+    "name": "Sharurah "
+  },
+  "OESK": {
+    "lat": 29.7851009369,
+    "long": 40.0999984741,
+    "name": "Al-Jawf Domestic "
+  },
+  "OESL": {
+    "lat": 20.4647006989,
+    "long": 45.6195983887,
+    "name": "Sulayel "
+  },
+  "OETB": {
+    "lat": 28.3654003143,
+    "long": 36.6189002991,
+    "name": "Tabuk "
+  },
+  "OETF": {
+    "lat": 21.4834003448,
+    "long": 40.5443000793,
+    "name": "Taif "
+  },
+  "OETH": {
+    "lat": 25.2129993439,
+    "long": 46.6409988403,
+    "name": "Thumamah "
+  },
+  "OETN": {
+    "lat": 27.8677997589,
+    "long": 48.7691001892,
+    "name": "Ras Tanajib "
+  },
+  "OETR": {
+    "lat": 31.6926994324,
+    "long": 38.7312011719,
+    "name": "Turaif Domestic "
+  },
+  "OEUD": {
+    "lat": 25.1511001587,
+    "long": 49.3288002014,
+    "name": "Udhailiyah "
+  },
+  "OEUM": {
+    "lat": 25.1669998169,
+    "long": 37.3330001831,
+    "name": "Umm Lajj "
+  },
+  "OEWD": {
+    "lat": 20.5042991638,
+    "long": 45.1996002197,
+    "name": "Wadi Al Dawasir "
+  },
+  "OEWJ": {
+    "lat": 26.198600769,
+    "long": 36.476398468,
+    "name": "Al Wajh Domestic "
+  },
+  "OEYN": {
+    "lat": 24.1441993713,
+    "long": 38.0634002686,
+    "name": "Yenbo "
+  },
+  "OEZL": {
+    "lat": 26.3500003815,
+    "long": 44.8330001831,
+    "name": "Zilfi "
+  }
+}

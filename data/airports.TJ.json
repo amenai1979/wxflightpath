@@ -1,0 +1,27 @@
+{
+  "UTDD": {
+    "lat": 38.5433006287,
+    "long": 68.8249969482,
+    "name": "Dushanbe "
+  },
+  "UTDK": {
+    "lat": 37.9880981445,
+    "long": 69.8050003052,
+    "name": "Kulob "
+  },
+  "UTDL": {
+    "lat": 40.2154006958,
+    "long": 69.6947021484,
+    "name": "Khudzhand "
+  },
+  "UTDT": {
+    "lat": 37.8664016724,
+    "long": 68.8647003174,
+    "name": "Qurghonteppa International "
+  },
+  "UTOD": {
+    "lat": 37.502222,
+    "long": 71.513333,
+    "name": "Khorog "
+  }
+}

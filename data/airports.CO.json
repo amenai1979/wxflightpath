@@ -1,0 +1,632 @@
+{
+  "SK53": {
+    "lat": 3.88,
+    "long": -73.339996,
+    "name": "Yaguarito "
+  },
+  "SKAC": {
+    "lat": -0.5833,
+    "long": -72.4083,
+    "name": "Araracuara "
+  },
+  "SKAD": {
+    "lat": 8.51667,
+    "long": -77.3,
+    "name": "Alcides Fernandez "
+  },
+  "SKAG": {
+    "lat": 8.3,
+    "long": -73.6306,
+    "name": "Aguachica "
+  },
+  "SKAM": {
+    "lat": 6.91667,
+    "long": -75.0667,
+    "name": "Amalfi "
+  },
+  "SKAN": {
+    "lat": 5.66667,
+    "long": -75.8833,
+    "name": "Andes "
+  },
+  "SKAP": {
+    "lat": 4.07607,
+    "long": -73.5627,
+    "name": "Gomez Nino Apiay Air Base"
+  },
+  "SKAR": {
+    "lat": 4.45278,
+    "long": -75.7664,
+    "name": "El Eden "
+  },
+  "SKAS": {
+    "lat": 0.505228,
+    "long": -76.5008,
+    "name": "Tres De Mayo "
+  },
+  "SKBC": {
+    "lat": 9.04554,
+    "long": -73.9749,
+    "name": "Las Flores "
+  },
+  "SKBE": {
+    "lat": 9.66278,
+    "long": -73.2744,
+    "name": "Becerril "
+  },
+  "SKBG": {
+    "lat": 7.1265,
+    "long": -73.1848,
+    "name": "Palonegro "
+  },
+  "SKBN": {
+    "lat": 10.8879,
+    "long": -72.9004,
+    "name": "Buenavista "
+  },
+  "SKBO": {
+    "lat": 4.70159,
+    "long": -74.1469,
+    "name": "El Dorado International "
+  },
+  "SKBQ": {
+    "lat": 10.8896,
+    "long": -74.7808,
+    "name": "Ernesto Cortissoz International "
+  },
+  "SKBR": {
+    "lat": 8.88331,
+    "long": -75.6832,
+    "name": "Berastegui "
+  },
+  "SKBS": {
+    "lat": 6.20292,
+    "long": -77.3947,
+    "name": "Jose Celestino Mutis "
+  },
+  "SKBU": {
+    "lat": 3.81963,
+    "long": -76.9898,
+    "name": "Gerardo Tobar Lopez "
+  },
+  "SKCA": {
+    "lat": 8.63333,
+    "long": -77.35,
+    "name": "Capurgana "
+  },
+  "SKCB": {
+    "lat": 9.68417,
+    "long": -75.1261,
+    "name": "Carmen De Bolivar "
+  },
+  "SKCC": {
+    "lat": 7.92757,
+    "long": -72.5115,
+    "name": "Camilo Daza International "
+  },
+  "SKCD": {
+    "lat": 5.08333,
+    "long": -76.7,
+    "name": "Mandinga "
+  },
+  "SKCG": {
+    "lat": 10.4424,
+    "long": -75.513,
+    "name": "Rafael Nunez International "
+  },
+  "SKCH": {
+    "lat": 1.35,
+    "long": -74.84,
+    "name": "El Pacifico "
+  },
+  "SKCI": {
+    "lat": 4.56417,
+    "long": -71.3364,
+    "name": "Carimagua "
+  },
+  "SKCL": {
+    "lat": 3.54322,
+    "long": -76.3816,
+    "name": "Alfonso Bonilla Aragon International "
+  },
+  "SKCM": {
+    "lat": 6.367,
+    "long": -73.967,
+    "name": "Cimitarra "
+  },
+  "SKCN": {
+    "lat": 6.31684,
+    "long": -70.2107,
+    "name": "Cravo Norte "
+  },
+  "SKCO": {
+    "lat": 1.81442,
+    "long": -78.7492,
+    "name": "La Florida "
+  },
+  "SKCP": {
+    "lat": 6.691944,
+    "long": -77.477222,
+    "name": "Cupica "
+  },
+  "SKCR": {
+    "lat": 1.0136,
+    "long": -71.2961,
+    "name": "Caruru "
+  },
+  "SKCU": {
+    "lat": 7.96847,
+    "long": -75.1985,
+    "name": "Juan H White "
+  },
+  "SKCV": {
+    "lat": 9.40092,
+    "long": -75.6913,
+    "name": "Covenas "
+  },
+  "SKCZ": {
+    "lat": 9.33274,
+    "long": -75.2856,
+    "name": "Las Brujas "
+  },
+  "SKEB": {
+    "lat": 7.59647,
+    "long": -74.8089,
+    "name": "El Bagre "
+  },
+  "SKEJ": {
+    "lat": 7.02433,
+    "long": -73.8068,
+    "name": "Yariguies "
+  },
+  "SKFL": {
+    "lat": 1.58919,
+    "long": -75.5644,
+    "name": "Gustavo Artunduaga Paredes "
+  },
+  "SKFR": {
+    "lat": 5.5275,
+    "long": -74.1869,
+    "name": "Furatena "
+  },
+  "SKFU": {
+    "lat": 10.5333,
+    "long": -74.2,
+    "name": "Fundacion "
+  },
+  "SKGA": {
+    "lat": 4.549722,
+    "long": -70.925,
+    "name": "La Gaviota "
+  },
+  "SKGB": {
+    "lat": 3.45899,
+    "long": -76.4966,
+    "name": "Marco Fidel Suarez Air Base"
+  },
+  "SKGI": {
+    "lat": 4.27624,
+    "long": -74.7967,
+    "name": "Santiago Vila "
+  },
+  "SKGO": {
+    "lat": 4.75818,
+    "long": -75.9557,
+    "name": "Santa Ana "
+  },
+  "SKGP": {
+    "lat": 2.57013,
+    "long": -77.8986,
+    "name": "Juan Casiano "
+  },
+  "SKGY": {
+    "lat": 4.81233,
+    "long": -74.0649,
+    "name": "Guaymaral "
+  },
+  "SKGZ": {
+    "lat": 2.1464,
+    "long": -75.6944,
+    "name": "Garzon La Jagua "
+  },
+  "SKHA": {
+    "lat": 3.717,
+    "long": -75.467,
+    "name": "Chaparral "
+  },
+  "SKHC": {
+    "lat": 6.15,
+    "long": -71.75,
+    "name": "Hato Corozal "
+  },
+  "SKIB": {
+    "lat": 4.42161,
+    "long": -75.1333,
+    "name": "Perales "
+  },
+  "SKIG": {
+    "lat": 7.68038,
+    "long": -76.6865,
+    "name": "Chigorodo "
+  },
+  "SKIO": {
+    "lat": 9.26878,
+    "long": -74.6523,
+    "name": "Cicuco "
+  },
+  "SKIP": {
+    "lat": 0.861925,
+    "long": -77.6718,
+    "name": "San Luis "
+  },
+  "SKLA": {
+    "lat": 6.70472,
+    "long": -72.7303,
+    "name": "Malaga "
+  },
+  "SKLC": {
+    "lat": 7.81196,
+    "long": -76.7164,
+    "name": "Antonio Roldan Betancourt "
+  },
+  "SKLG": {
+    "lat": -0.182278,
+    "long": -74.7708,
+    "name": "Caucaya "
+  },
+  "SKLM": {
+    "lat": 11.2325,
+    "long": -72.4901,
+    "name": "Jorge Isaac "
+  },
+  "SKLP": {
+    "lat": -1.32861,
+    "long": -69.5797,
+    "name": "La Pedrera "
+  },
+  "SKLT": {
+    "lat": -4.19355,
+    "long": -69.9432,
+    "name": "Alfredo Vasquez Cobo International "
+  },
+  "SKMA": {
+    "lat": 4.7278,
+    "long": -74.2754,
+    "name": "Madrid Air Base"
+  },
+  "SKMD": {
+    "lat": 6.220549,
+    "long": -75.590582,
+    "name": "Enrique Olaya Herrera "
+  },
+  "SKME": {
+    "lat": 4.21644,
+    "long": -74.635,
+    "name": "Melgar Air Base"
+  },
+  "SKMF": {
+    "lat": 1.35,
+    "long": -71.9444,
+    "name": "Miraflores "
+  },
+  "SKMG": {
+    "lat": 9.28474,
+    "long": -74.8461,
+    "name": "Baracoa "
+  },
+  "SKMJ": {
+    "lat": 11.3899,
+    "long": -72.239197,
+    "name": "Maicao "
+  },
+  "SKML": {
+    "lat": 7.97174,
+    "long": -75.4325,
+    "name": "Montelibano "
+  },
+  "SKMN": {
+    "lat": 4.83333,
+    "long": -72.2667,
+    "name": "Casanare "
+  },
+  "SKMP": {
+    "lat": 9.25872,
+    "long": -74.438,
+    "name": "San Bernardo "
+  },
+  "SKMR": {
+    "lat": 8.82374,
+    "long": -75.8258,
+    "name": "Los Garzones "
+  },
+  "SKMU": {
+    "lat": 1.25366,
+    "long": -70.2339,
+    "name": "Fabio Alberto Leon Bentley "
+  },
+  "SKMZ": {
+    "lat": 5.0296,
+    "long": -75.4647,
+    "name": "La Nubia "
+  },
+  "SKNC": {
+    "lat": 8.45,
+    "long": -76.7833,
+    "name": "Necocli "
+  },
+  "SKNQ": {
+    "lat": 5.6964,
+    "long": -77.2806,
+    "name": "Reyes Murillo "
+  },
+  "SKNV": {
+    "lat": 2.95015,
+    "long": -75.294,
+    "name": "Benito Salas "
+  },
+  "SKOC": {
+    "lat": 8.31506,
+    "long": -73.3583,
+    "name": "Aguas Claras "
+  },
+  "SKOE": {
+    "lat": 4.79222,
+    "long": -71.3564,
+    "name": "Orocue "
+  },
+  "SKOL": {
+    "lat": 4.089869,
+    "long": -72.976483,
+    "name": "Puerto Lopez "
+  },
+  "SKOR": {
+    "lat": 0.669444,
+    "long": -76.88,
+    "name": "Orito "
+  },
+  "SKOT": {
+    "lat": 7.01037,
+    "long": -74.7155,
+    "name": "Otu "
+  },
+  "SKPA": {
+    "lat": 5.76454,
+    "long": -73.1054,
+    "name": "Juan Jose Rondon "
+  },
+  "SKPB": {
+    "lat": 12.2215,
+    "long": -71.9848,
+    "name": "Puerto Bolivar "
+  },
+  "SKPC": {
+    "lat": 6.18472,
+    "long": -67.4932,
+    "name": "German Olano "
+  },
+  "SKPD": {
+    "lat": 3.85353,
+    "long": -67.9062,
+    "name": "Obando "
+  },
+  "SKPE": {
+    "lat": 4.81267,
+    "long": -75.7395,
+    "name": "Matecana International "
+  },
+  "SKPG": {
+    "lat": 4.30444,
+    "long": -72.0844,
+    "name": "Puerto Gaitan "
+  },
+  "SKPI": {
+    "lat": 1.85777,
+    "long": -76.0857,
+    "name": "Pitalito "
+  },
+  "SKPL": {
+    "lat": 9.8,
+    "long": -74.7833,
+    "name": "Plato "
+  },
+  "SKPN": {
+    "lat": 6.21002,
+    "long": -74.5906,
+    "name": "Puerto Nare "
+  },
+  "SKPP": {
+    "lat": 2.4544,
+    "long": -76.6093,
+    "name": "Guillermo Leon Valencia "
+  },
+  "SKPQ": {
+    "lat": 5.48361,
+    "long": -74.6574,
+    "name": "German Olano Air Base"
+  },
+  "SKPR": {
+    "lat": 6.46034,
+    "long": -74.4105,
+    "name": "Puerto Berrio "
+  },
+  "SKPS": {
+    "lat": 1.39625,
+    "long": -77.2915,
+    "name": "Antonio Narino "
+  },
+  "SKPV": {
+    "lat": 13.3569,
+    "long": -81.3583,
+    "name": "El Embrujo "
+  },
+  "SKPZ": {
+    "lat": 5.87615,
+    "long": -71.8866,
+    "name": "Paz De Ariporo "
+  },
+  "SKQU": {
+    "lat": 5.21256,
+    "long": -74.8836,
+    "name": "Jose Celestino Mutis "
+  },
+  "SKRG": {
+    "lat": 6.16454,
+    "long": -75.4231,
+    "name": "Jose Maria Cordova International "
+  },
+  "SKRH": {
+    "lat": 11.5262,
+    "long": -72.926,
+    "name": "Almirante Padilla "
+  },
+  "SKSA": {
+    "lat": 6.951389,
+    "long": -71.856944,
+    "name": "Los Colonizadores "
+  },
+  "SKSF": {
+    "lat": 6.500556,
+    "long": -75.8225,
+    "name": "Santa Fe De Antioquia "
+  },
+  "SKSG": {
+    "lat": 6.58444,
+    "long": -73.1283,
+    "name": "San Gil "
+  },
+  "SKSI": {
+    "lat": 4.73214,
+    "long": -72.323196,
+    "name": "Santiago I "
+  },
+  "SKSJ": {
+    "lat": 2.57969,
+    "long": -72.6394,
+    "name": "Jorge E. Gonzalez Torres "
+  },
+  "SKSM": {
+    "lat": 11.1196,
+    "long": -74.2306,
+    "name": "Simon Bolivar International "
+  },
+  "SKSO": {
+    "lat": 5.67732,
+    "long": -72.9703,
+    "name": "Alberto Lleras Camargo "
+  },
+  "SKSP": {
+    "lat": 12.5836,
+    "long": -81.7112,
+    "name": "Gustavo Rojas Pinilla International "
+  },
+  "SKSV": {
+    "lat": 2.15217,
+    "long": -74.7663,
+    "name": "Eduardo Falla Solano "
+  },
+  "SKTA": {
+    "lat": 5.01281,
+    "long": -72.7424,
+    "name": "Tauramena "
+  },
+  "SKTB": {
+    "lat": 8.63152,
+    "long": -72.7304,
+    "name": "Tibu "
+  },
+  "SKTD": {
+    "lat": 5.43278,
+    "long": -71.6625,
+    "name": "Trinidad "
+  },
+  "SKTI": {
+    "lat": 4.2448,
+    "long": -74.6499,
+    "name": "Tolemaida Air Base"
+  },
+  "SKTJ": {
+    "lat": 5.54138,
+    "long": -73.3445,
+    "name": "Tunja "
+  },
+  "SKTL": {
+    "lat": 9.50945,
+    "long": -75.5854,
+    "name": "Tolu "
+  },
+  "SKTM": {
+    "lat": 6.45108,
+    "long": -71.7603,
+    "name": "Gustavo Vargas "
+  },
+  "SKTQ": {
+    "lat": 0.7459,
+    "long": -75.234,
+    "name": "Tres Esquinas Air Base"
+  },
+  "SKTU": {
+    "lat": 8.07453,
+    "long": -76.7415,
+    "name": "Gonzalo Mejia "
+  },
+  "SKUA": {
+    "lat": 5.52448,
+    "long": -68.6856,
+    "name": "Marandua Air Base"
+  },
+  "SKUC": {
+    "lat": 7.06888,
+    "long": -70.7369,
+    "name": "Santiago Perez "
+  },
+  "SKUI": {
+    "lat": 5.69076,
+    "long": -76.6412,
+    "name": "El Carano "
+  },
+  "SKUL": {
+    "lat": 4.08836,
+    "long": -76.2351,
+    "name": "Farfan "
+  },
+  "SKUR": {
+    "lat": 6.32883,
+    "long": -76.1425,
+    "name": "Urrao "
+  },
+  "SKVG": {
+    "lat": 0.981944,
+    "long": -76.604167,
+    "name": "Villa Garzon "
+  },
+  "SKVL": {
+    "lat": 5.93904,
+    "long": -74.457,
+    "name": "Velasquez "
+  },
+  "SKVN": {
+    "lat": 4.62472,
+    "long": -72.9469,
+    "name": "Villanueva "
+  },
+  "SKVP": {
+    "lat": 10.435,
+    "long": -73.2495,
+    "name": "Alfonso Lopez Pumarejo "
+  },
+  "SKVV": {
+    "lat": 4.16787,
+    "long": -73.6138,
+    "name": "Vanguardia "
+  },
+  "SKYA": {
+    "lat": 1.54417,
+    "long": -73.9333,
+    "name": "Yaguara "
+  },
+  "SKYP": {
+    "lat": 5.31911,
+    "long": -72.384,
+    "name": "El Yopal "
+  }
+}

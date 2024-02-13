@@ -1,0 +1,242 @@
+{
+  "FCBA": {
+    "lat": -4.0830001831,
+    "long": 14.2329998016,
+    "name": "La Louila "
+  },
+  "FCBB": {
+    "lat": -4.2516999245,
+    "long": 15.2530002594,
+    "name": "Maya-Maya "
+  },
+  "FCBD": {
+    "lat": -2.5329999924,
+    "long": 14.75,
+    "name": "Djambala "
+  },
+  "FCBK": {
+    "lat": -3.9500000477,
+    "long": 14.5170001984,
+    "name": "Kindamba "
+  },
+  "FCBL": {
+    "lat": -2.4500000477,
+    "long": 14.5329999924,
+    "name": "Lague "
+  },
+  "FCBM": {
+    "lat": -4.0148739815,
+    "long": 13.9661121368,
+    "name": "Mouyondzi "
+  },
+  "FCBP": {
+    "lat": -4.367000103,
+    "long": 14.1499996185,
+    "name": "M'passa "
+  },
+  "FCBS": {
+    "lat": -3.6830000877,
+    "long": 13.3500003815,
+    "name": "Sibiti "
+  },
+  "FCBT": {
+    "lat": -4.2829999924,
+    "long": 13.8669996262,
+    "name": "Loutete "
+  },
+  "FCBU": {
+    "lat": -4.2670001984,
+    "long": 13.5329999924,
+    "name": "Aubeville "
+  },
+  "FCBY": {
+    "lat": -4.2170000076,
+    "long": 13.2829999924,
+    "name": "Yokangassi "
+  },
+  "FCBZ": {
+    "lat": -2.8499999046,
+    "long": 13.8170003891,
+    "name": "Zanaga "
+  },
+  "FCMA": {
+    "lat": -2.4500000477,
+    "long": 11.6499996185,
+    "name": "Mavinza "
+  },
+  "FCMB": {
+    "lat": -2.7170000076,
+    "long": 12.5329999924,
+    "name": "N'Ziba "
+  },
+  "FCMD": {
+    "lat": -2.867000103,
+    "long": 12.8669996262,
+    "name": "Sidetra "
+  },
+  "FCMF": {
+    "lat": -3,
+    "long": 12,
+    "name": "Loufoula "
+  },
+  "FCMG": {
+    "lat": -3.0329999924,
+    "long": 12.1330003738,
+    "name": "Gokango "
+  },
+  "FCMI": {
+    "lat": -2.7170000076,
+    "long": 11.8830003738,
+    "name": "Irogo "
+  },
+  "FCMK": {
+    "lat": -3.3169999123,
+    "long": 12.6169996262,
+    "name": "Kele Kibangou "
+  },
+  "FCML": {
+    "lat": -2.9000000954,
+    "long": 12.3669996262,
+    "name": "Leboulou "
+  },
+  "FCMM": {
+    "lat": -2.9500000477,
+    "long": 12.6999998093,
+    "name": "Mossendjo "
+  },
+  "FCMN": {
+    "lat": -2.9830000401,
+    "long": 12.1999998093,
+    "name": "N'gongo "
+  },
+  "FCMO": {
+    "lat": -2.6500000954,
+    "long": 12.8830003738,
+    "name": "Mandoro "
+  },
+  "FCMR": {
+    "lat": -2.9000000954,
+    "long": 12.6330003738,
+    "name": "Marala "
+  },
+  "FCMS": {
+    "lat": -2.867000103,
+    "long": 11.9499998093,
+    "name": "Nyanga "
+  },
+  "FCMY": {
+    "lat": -2.2170000076,
+    "long": 12.8330001831,
+    "name": "Legala "
+  },
+  "FCMZ": {
+    "lat": -3.1670000553,
+    "long": 12.8669996262,
+    "name": "N'Zabi "
+  },
+  "FCOB": {
+    "lat": -1.0329999924,
+    "long": 15.3830003738,
+    "name": "Boundji "
+  },
+  "FCOE": {
+    "lat": -0.8830000162,
+    "long": 14.8000001907,
+    "name": "Ewo "
+  },
+  "FCOG": {
+    "lat": -1.829403,
+    "long": 15.885237,
+    "name": "Gamboma "
+  },
+  "FCOI": {
+    "lat": 1.6169999838,
+    "long": 18.0669994354,
+    "name": "Impfondo "
+  },
+  "FCOK": {
+    "lat": -0.0829999968,
+    "long": 14.5329999924,
+    "name": "Kelle "
+  },
+  "FCOM": {
+    "lat": -0.0170000009,
+    "long": 15.5830001831,
+    "name": "Makoua "
+  },
+  "FCOO": {
+    "lat": -0.5313500166,
+    "long": 15.9500999451,
+    "name": "Owando "
+  },
+  "FCOS": {
+    "lat": 2.0669999123,
+    "long": 14.1330003738,
+    "name": "Souanke "
+  },
+  "FCOT": {
+    "lat": 3.0499999523,
+    "long": 18.5,
+    "name": "Betou "
+  },
+  "FCOU": {
+    "lat": 1.6159900427,
+    "long": 16.0379009247,
+    "name": "Ouesso "
+  },
+  "FCPA": {
+    "lat": -3.4830000401,
+    "long": 12.6169996262,
+    "name": "Makabana "
+  },
+  "FCPB": {
+    "lat": -3.6830000877,
+    "long": 13.1999998093,
+    "name": "Bangamba "
+  },
+  "FCPD": {
+    "lat": -4.20635,
+    "long": 12.6599,
+    "name": "Ngot Nzoungou "
+  },
+  "FCPE": {
+    "lat": -3.4330000877,
+    "long": 12.9329996109,
+    "name": "Leganda "
+  },
+  "FCPG": {
+    "lat": -3.4830000401,
+    "long": 12.3000001907,
+    "name": "Kibangou "
+  },
+  "FCPI": {
+    "lat": -3.7000000477,
+    "long": 12.1330003738,
+    "name": "Loubetsi "
+  },
+  "FCPK": {
+    "lat": -3.9170000553,
+    "long": 11.3830003738,
+    "name": "N'komo "
+  },
+  "FCPN": {
+    "lat": -4.1500000954,
+    "long": 11.3830003738,
+    "name": "Noumbi "
+  },
+  "FCPO": {
+    "lat": -2.867000103,
+    "long": 12.5329999924,
+    "name": "Pemo "
+  },
+  "FCPP": {
+    "lat": -4.8160300255,
+    "long": 11.8865995407,
+    "name": "Pointe Noire "
+  },
+  "FCPY": {
+    "lat": -4.0329999924,
+    "long": 11.5170001984,
+    "name": "Loukanyi "
+  }
+}

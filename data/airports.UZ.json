@@ -1,0 +1,147 @@
+{
+  "UA66": {
+    "lat": 41.5167999268,
+    "long": 69.5754013062,
+    "name": "Chirchik "
+  },
+  "UT1M": {
+    "lat": 37.6242980957,
+    "long": 67.5176010132,
+    "name": "Kakaydy "
+  },
+  "UT1N": {
+    "lat": 38.8018989563,
+    "long": 65.7746963501,
+    "name": "Karshi South "
+  },
+  "UT1O": {
+    "lat": 44.0541000366,
+    "long": 57.5477981567,
+    "name": "Beleuli North "
+  },
+  "UT1P": {
+    "lat": 39.6893997192,
+    "long": 64.5503997803,
+    "name": "Kagan South "
+  },
+  "UT1Q": {
+    "lat": 40.2527008057,
+    "long": 67.9107971191,
+    "name": "Pakhtakor "
+  },
+  "UT73": {
+    "lat": 39.1377983093,
+    "long": 65.1652984619,
+    "name": "Maymanak "
+  },
+  "UT77": {
+    "lat": 43.0830001831,
+    "long": 58.8842010498,
+    "name": "Kungrad "
+  },
+  "UTKA": {
+    "lat": 40.7276992798,
+    "long": 72.2939987183,
+    "name": "Andizhan "
+  },
+  "UTKF": {
+    "lat": 40.3587989807,
+    "long": 71.7450027466,
+    "name": "Fergana "
+  },
+  "UTKK": {
+    "lat": 40.5397987366,
+    "long": 70.9748001099,
+    "name": "Kokand "
+  },
+  "UTKN": {
+    "lat": 40.9846000671,
+    "long": 71.5567016602,
+    "name": "Namangan "
+  },
+  "UTNM": {
+    "lat": 43.7551994324,
+    "long": 59.0308990479,
+    "name": "Muynak "
+  },
+  "UTNN": {
+    "lat": 42.4883995056,
+    "long": 59.623298645,
+    "name": "Nukus "
+  },
+  "UTNT": {
+    "lat": 41.5750007629,
+    "long": 60.9665985107,
+    "name": "Turtkul "
+  },
+  "UTNU": {
+    "lat": 41.5843009949,
+    "long": 60.6417007446,
+    "name": "Urgench "
+  },
+  "UTSA": {
+    "lat": 40.1171989441,
+    "long": 65.1707992554,
+    "name": "Navoi "
+  },
+  "UTSB": {
+    "lat": 39.7750015259,
+    "long": 64.4832992554,
+    "name": "Bukhara "
+  },
+  "UTSH": {
+    "lat": 39.0690994263,
+    "long": 66.7543029785,
+    "name": "Shakhristabz "
+  },
+  "UTSK": {
+    "lat": 38.8025,
+    "long": 65.773056,
+    "name": "Karshi "
+  },
+  "UTSL": {
+    "lat": 38.8335990906,
+    "long": 65.9215011597,
+    "name": "Karshi Khanabad "
+  },
+  "UTSM": {
+    "lat": 41.7607917786,
+    "long": 64.6024017334,
+    "name": "Tandy Bulak "
+  },
+  "UTSN": {
+    "lat": 41.613899231,
+    "long": 64.2332000732,
+    "name": "Sugraly "
+  },
+  "UTSR": {
+    "lat": 38.4105987549,
+    "long": 67.9451980591,
+    "name": "Sariasiya "
+  },
+  "UTSS": {
+    "lat": 39.7005004883,
+    "long": 66.9838027954,
+    "name": "Samarkand "
+  },
+  "UTST": {
+    "lat": 37.2867012024,
+    "long": 67.3099975586,
+    "name": "Termez "
+  },
+  "UTSU": {
+    "lat": 42.0830993652,
+    "long": 63.4492988586,
+    "name": "Uchkuduk "
+  },
+  "UTTP": {
+    "lat": 41.3126983643,
+    "long": 69.3914031982,
+    "name": "Tashkent East "
+  },
+  "UTTT": {
+    "lat": 41.257900238,
+    "long": 69.2811965942,
+    "name": "Tashkent International "
+  }
+}

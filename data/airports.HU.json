@@ -1,0 +1,207 @@
+{
+  "LHBA": {
+    "lat": 48.078037262,
+    "long": 19.3217487335,
+    "name": "Balassagyarmat "
+  },
+  "LHBC": {
+    "lat": 46.6758003235,
+    "long": 21.1622009277,
+    "name": "Bekescsaba Glider "
+  },
+  "LHBP": {
+    "lat": 47.4369010925,
+    "long": 19.2555999756,
+    "name": "Budapest Ferenc Liszt International "
+  },
+  "LHBS": {
+    "lat": 47.4510993958,
+    "long": 18.9806003571,
+    "name": "Budaors Glider "
+  },
+  "LHDC": {
+    "lat": 47.488899231,
+    "long": 21.6152992249,
+    "name": "Debrecen International "
+  },
+  "LHDK": {
+    "lat": 47.613899231,
+    "long": 19.1432991028,
+    "name": "Dunakeszi "
+  },
+  "LHDV": {
+    "lat": 46.8958015442,
+    "long": 18.9139003754,
+    "name": "Dunaujvaros Glider "
+  },
+  "LHEC": {
+    "lat": 46.2462425232,
+    "long": 18.9210224152,
+    "name": "Ersekcsanad "
+  },
+  "LHEM": {
+    "lat": 47.7728004456,
+    "long": 18.7217006683,
+    "name": "Esztergom "
+  },
+  "LHFH": {
+    "lat": 47.4869003296,
+    "long": 18.9146995544,
+    "name": "Farkashegy "
+  },
+  "LHFM": {
+    "lat": 47.5828018188,
+    "long": 16.8453998566,
+    "name": "Fertoszentmiklos "
+  },
+  "LHGD": {
+    "lat": 47.5709991455,
+    "long": 19.3386001587,
+    "name": "Godollo "
+  },
+  "LHGM": {
+    "lat": 46.9561653137,
+    "long": 20.8831233978,
+    "name": "Gyomai "
+  },
+  "LHGY": {
+    "lat": 47.8144989014,
+    "long": 19.9776000977,
+    "name": "Gyongyos Pipishegy "
+  },
+  "LHHH": {
+    "lat": 47.5503005981,
+    "long": 18.9787006378,
+    "name": "Harmashatarhegy "
+  },
+  "LHHO": {
+    "lat": 47.4592018127,
+    "long": 21.3910999298,
+    "name": "Hajduszoboszlo "
+  },
+  "LHJK": {
+    "lat": 46.7472000122,
+    "long": 19.6056003571,
+    "name": "Jakabszallas "
+  },
+  "LHKD": {
+    "lat": 47.507900238,
+    "long": 18.3227005005,
+    "name": "Kecsked "
+  },
+  "LHKE": {
+    "lat": 46.9174995422,
+    "long": 19.7492008209,
+    "name": "Kecskemet "
+  },
+  "LHKH": {
+    "lat": 46.7331008911,
+    "long": 19.8932991028,
+    "name": "Kiskunfelegyhaza "
+  },
+  "LHKK": {
+    "lat": 47.1688852045,
+    "long": 19.0849685669,
+    "name": "Kiskunlachaza-"
+  },
+  "LHKV": {
+    "lat": 46.3863983154,
+    "long": 17.7339000702,
+    "name": "Kaposvar Kaposujlak Glider "
+  },
+  "LHMC": {
+    "lat": 48.1369018555,
+    "long": 20.7914009094,
+    "name": "Miskolc "
+  },
+  "LHMR": {
+    "lat": 47.8111000061,
+    "long": 20.4228000641,
+    "name": "Eger Maklar "
+  },
+  "LHNK": {
+    "lat": 46.4320007859,
+    "long": 16.9581699371,
+    "name": "Nagykanizsa "
+  },
+  "LHNY": {
+    "lat": 47.9838981628,
+    "long": 21.6923007965,
+    "name": "Nyiregyhaza "
+  },
+  "LHOY": {
+    "lat": 46.3039016724,
+    "long": 18.7691993713,
+    "name": "Ocseny "
+  },
+  "LHPA": {
+    "lat": 47.3636016846,
+    "long": 17.5007991791,
+    "name": "Papa "
+  },
+  "LHPP": {
+    "lat": 45.9908981323,
+    "long": 18.2409992218,
+    "name": "Pecs-Pogany "
+  },
+  "LHPR": {
+    "lat": 47.6244010925,
+    "long": 17.8136005402,
+    "name": "Gyor-Per International "
+  },
+  "LHSA": {
+    "lat": 47.0778999329,
+    "long": 17.9683990479,
+    "name": "Szentkiralyszabadja "
+  },
+  "LHSK": {
+    "lat": 46.8568992615,
+    "long": 18.0958003998,
+    "name": "Siofok-Kiliti "
+  },
+  "LHSM": {
+    "lat": 46.6864013672,
+    "long": 17.1590995789,
+    "name": "Sarmellek International "
+  },
+  "LHSN": {
+    "lat": 47.1228981018,
+    "long": 20.2355003357,
+    "name": "Szolnok "
+  },
+  "LHSS": {
+    "lat": 47.1444015503,
+    "long": 20.1977996826,
+    "name": "Szolnok-Szandaszolos Sport "
+  },
+  "LHSY": {
+    "lat": 47.2799987793,
+    "long": 16.6263999939,
+    "name": "Szombathely Info "
+  },
+  "LHSZ": {
+    "lat": 46.6133003235,
+    "long": 20.2828006744,
+    "name": "Szentes Aerodrome"
+  },
+  "LHTA": {
+    "lat": 46.3931007385,
+    "long": 17.9174995422,
+    "name": "Taszar Air Base"
+  },
+  "LHTL": {
+    "lat": 47.3452987671,
+    "long": 18.9808006287,
+    "name": "Tokol Air Base"
+  },
+  "LHUD": {
+    "lat": 46.2468986511,
+    "long": 20.0907993317,
+    "name": "Szeged Glider "
+  },
+  "LHZA": {
+    "lat": 46.8847007751,
+    "long": 16.7889003754,
+    "name": "Zalaegerszeg "
+  }
+}

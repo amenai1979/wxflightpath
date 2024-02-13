@@ -1,0 +1,1694 @@
+{
+    "02MI": {
+        "lat": 43.1571006775,
+        "long": -85.1484985352,
+        "name": "Fairplains Airpark",
+        "state": "Michigan"
+    },
+    "04MI": {
+        "lat": 42.5345001221,
+        "long": -84.6283035278,
+        "name": "Rapids Airway ",
+        "state": "Michigan"
+    },
+    "07MI": {
+        "lat": 43.864200592,
+        "long": -85.0239028931,
+        "name": "Scott Airstrip",
+        "state": "Michigan"
+    },
+    "0MI1": {
+        "lat": 44.1403007507,
+        "long": -84.4375,
+        "name": "Sugar Springs ",
+        "state": "Michigan"
+    },
+    "0MI2": {
+        "lat": 44.5222015381,
+        "long": -83.6832962036,
+        "name": "Stier Airstrip",
+        "state": "Michigan"
+    },
+    "0MI3": {
+        "lat": 44.6333999634,
+        "long": -84.4833984375,
+        "name": "Kelleys ",
+        "state": "Michigan"
+    },
+    "0MI4": {
+        "lat": 46.270198822,
+        "long": -87.3864974976,
+        "name": "Lesterson Field",
+        "state": "Michigan"
+    },
+    "0MI6": {
+        "lat": 46.3875007629,
+        "long": -85.1839981079,
+        "name": "Young's ",
+        "state": "Michigan"
+    },
+    "0MI8": {
+        "lat": 44.9000015259,
+        "long": -84.3000030518,
+        "name": "Twin Lakes ",
+        "state": "Michigan"
+    },
+    "12MI": {
+        "lat": 43.051700592,
+        "long": -83.491897583,
+        "name": "John's ",
+        "state": "Michigan"
+    },
+    "14MI": {
+        "lat": 42.8508987427,
+        "long": -85.5670013428,
+        "name": "East-West Paris ",
+        "state": "Michigan"
+    },
+    "16MI": {
+        "lat": 42.8891983032,
+        "long": -83.8666000366,
+        "name": "Barnstormers 5 ",
+        "state": "Michigan"
+    },
+    "1MI1": {
+        "lat": 46.7027015686,
+        "long": -88.9973983765,
+        "name": "Nikkila Farms ",
+        "state": "Michigan"
+    },
+    "1MI3": {
+        "lat": 45.1958007813,
+        "long": -84.3217010498,
+        "name": "Black River Ranch ",
+        "state": "Michigan"
+    },
+    "1MI4": {
+        "lat": 45.8389015198,
+        "long": -87.3224029541,
+        "name": "Ramsy Farm ",
+        "state": "Michigan"
+    },
+    "1MI5": {
+        "lat": 42.603099823,
+        "long": -83.859703064,
+        "name": "Mckenzie's Landing ",
+        "state": "Michigan"
+    },
+    "1MI6": {
+        "lat": 46.3777999878,
+        "long": -84.3110961914,
+        "name": "Rosedale ",
+        "state": "Michigan"
+    },
+    "1MI7": {
+        "lat": 44.3166999817,
+        "long": -84.0667037964,
+        "name": "Thompson ",
+        "state": "Michigan"
+    },
+    "1MI8": {
+        "lat": 44.846698761,
+        "long": -83.6369018555,
+        "name": "Vlachos Acres ",
+        "state": "Michigan"
+    },
+    "1MI9": {
+        "lat": 46.4721984863,
+        "long": -87.3500976563,
+        "name": "Southfork ",
+        "state": "Michigan"
+    },
+    "23MI": {
+        "lat": 44.573600769,
+        "long": -85.888999939,
+        "name": "Betsie River Airstrip",
+        "state": "Michigan"
+    },
+    "24MI": {
+        "lat": 42.7999992371,
+        "long": -85.3707962036,
+        "name": "Johnson ",
+        "state": "Michigan"
+    },
+    "25MI": {
+        "lat": 43.9166984558,
+        "long": -83.2750015259,
+        "name": "Farver Field",
+        "state": "Michigan"
+    },
+    "26MI": {
+        "lat": 42.9239006042,
+        "long": -85.3780975342,
+        "name": "Van Strien Company ",
+        "state": "Michigan"
+    },
+    "27MI": {
+        "lat": 43.3727989197,
+        "long": -83.4866027832,
+        "name": "Miller Field",
+        "state": "Michigan"
+    },
+    "28MI": {
+        "lat": 44.8744010925,
+        "long": -85.7926025391,
+        "name": "Miller-Herrold ",
+        "state": "Michigan"
+    },
+    "29MI": {
+        "lat": 42.5999984741,
+        "long": -84.4499969482,
+        "name": "Sawyer Field",
+        "state": "Michigan"
+    },
+    "2MI0": {
+        "lat": 43.2167015076,
+        "long": -84.047203064,
+        "name": "Woodside ",
+        "state": "Michigan"
+    },
+    "2MI3": {
+        "lat": 42.3125,
+        "long": -85.4633026123,
+        "name": "Larry D Boven ",
+        "state": "Michigan"
+    },
+    "2MI4": {
+        "lat": 43.4056015015,
+        "long": -84.5714035034,
+        "name": "Mc Jilton Field",
+        "state": "Michigan"
+    },
+    "2MI5": {
+        "lat": 42.9416999817,
+        "long": -85.4863967896,
+        "name": "Somerville ",
+        "state": "Michigan"
+    },
+    "2MI7": {
+        "lat": 43.3469009399,
+        "long": -82.5522003174,
+        "name": "Flugplatz ",
+        "state": "Michigan"
+    },
+    "2MI8": {
+        "lat": 43.3433990479,
+        "long": -83.5352020264,
+        "name": "Vassar Field",
+        "state": "Michigan"
+    },
+    "2MI9": {
+        "lat": 43.6241989136,
+        "long": -85.3178024292,
+        "name": "Capen ",
+        "state": "Michigan"
+    },
+    "30MI": {
+        "lat": 41.8591995239,
+        "long": -86.327796936,
+        "name": "Wolverton's Field",
+        "state": "Michigan"
+    },
+    "31MI": {
+        "lat": 41.779800415,
+        "long": -86.1772003174,
+        "name": "Rentz Ultralightport",
+        "state": "Michigan"
+    },
+    "33MI": {
+        "lat": 46.0666007996,
+        "long": -88.007598877,
+        "name": "Great Lakes ",
+        "state": "Michigan"
+    },
+    "34MI": {
+        "lat": 43.1002998352,
+        "long": -86.2233963013,
+        "name": "De Witt Property ",
+        "state": "Michigan"
+    },
+    "35MI": {
+        "lat": 42.6338996887,
+        "long": -84.9858016968,
+        "name": "Law Field",
+        "state": "Michigan"
+    },
+    "36MI": {
+        "lat": 42.032699585,
+        "long": -83.8783035278,
+        "name": "Tecumseh Products ",
+        "state": "Michigan"
+    },
+    "37MI": {
+        "lat": 42.8527984619,
+        "long": -83.2276992798,
+        "name": "Handleman Sky Ranch ",
+        "state": "Michigan"
+    },
+    "38MI": {
+        "lat": 42.4668998718,
+        "long": -85.9792022705,
+        "name": "Chicora Field",
+        "state": "Michigan"
+    },
+    "39MI": {
+        "lat": 46.168800354,
+        "long": -88.1724014282,
+        "name": "Huber ",
+        "state": "Michigan"
+    },
+    "3MI0": {
+        "lat": 43.9370002747,
+        "long": -85.0220031738,
+        "name": "Doss Field",
+        "state": "Michigan"
+    },
+    "3MI2": {
+        "lat": 45.3992004395,
+        "long": -85.8301010132,
+        "name": "South Fox Island ",
+        "state": "Michigan"
+    },
+    "3MI5": {
+        "lat": 43.4500007629,
+        "long": -83.0277023315,
+        "name": "Innes Acres ",
+        "state": "Michigan"
+    },
+    "3MI7": {
+        "lat": 42.8292007446,
+        "long": -83.368598938,
+        "name": "Willie Run ",
+        "state": "Michigan"
+    },
+    "42MI": {
+        "lat": 42.2153015137,
+        "long": -84.8069000244,
+        "name": "Midway ",
+        "state": "Michigan"
+    },
+    "43MI": {
+        "lat": 45.8591003418,
+        "long": -87.1167984009,
+        "name": "W Gladstone ",
+        "state": "Michigan"
+    },
+    "44MI": {
+        "lat": 42.773601532,
+        "long": -84.9000015259,
+        "name": "Airbatco Field",
+        "state": "Michigan"
+    },
+    "45MI": {
+        "lat": 46.2639007568,
+        "long": -84.1264038086,
+        "name": "Franklin's ",
+        "state": "Michigan"
+    },
+    "46MI": {
+        "lat": 42.5461006165,
+        "long": -84.1277999878,
+        "name": "Cloud Nine Field",
+        "state": "Michigan"
+    },
+    "47MI": {
+        "lat": 43.5334014893,
+        "long": -83.8541030884,
+        "name": "Kenneth Hayward ",
+        "state": "Michigan"
+    },
+    "4MI0": {
+        "lat": 42.8381004333,
+        "long": -82.9688034058,
+        "name": "Kriewall Strip",
+        "state": "Michigan"
+    },
+    "4MI1": {
+        "lat": 41.8306007385,
+        "long": -83.6874008179,
+        "name": "Air Rahe ",
+        "state": "Michigan"
+    },
+    "4MI3": {
+        "lat": 42.7277984619,
+        "long": -86.0402984619,
+        "name": "Phil's Field",
+        "state": "Michigan"
+    },
+    "4MI4": {
+        "lat": 42.1781005859,
+        "long": -85.6707992554,
+        "name": "Whitcomb Field",
+        "state": "Michigan"
+    },
+    "4MI6": {
+        "lat": 41.85779953,
+        "long": -86.6145019531,
+        "name": "Benedick ",
+        "state": "Michigan"
+    },
+    "4MI7": {
+        "lat": 43.8134002686,
+        "long": -84.8217010498,
+        "name": "Witbeck Aerodrone ",
+        "state": "Michigan"
+    },
+    "54MI": {
+        "lat": 42.8102989197,
+        "long": -84.0830993652,
+        "name": "Pingston Aeroworks ",
+        "state": "Michigan"
+    },
+    "5MI1": {
+        "lat": 43.2513999939,
+        "long": -85.5428009033,
+        "name": "Wilds Field",
+        "state": "Michigan"
+    },
+    "5MI2": {
+        "lat": 44.0772018433,
+        "long": -85.4375991821,
+        "name": "Mc Question's ",
+        "state": "Michigan"
+    },
+    "5MI3": {
+        "lat": 43.0511016846,
+        "long": -85.4199981689,
+        "name": "Cridler ",
+        "state": "Michigan"
+    },
+    "5MI4": {
+        "lat": 43.4283981323,
+        "long": -85.4548034668,
+        "name": "Anderson ",
+        "state": "Michigan"
+    },
+    "5MI7": {
+        "lat": 42.3610992432,
+        "long": -84.4247970581,
+        "name": "Williams Field",
+        "state": "Michigan"
+    },
+    "5MI8": {
+        "lat": 42.6716995239,
+        "long": -84.4882965088,
+        "name": "Lakeside ",
+        "state": "Michigan"
+    },
+    "60MI": {
+        "lat": 42.0414009094,
+        "long": -83.5669021606,
+        "name": "Maybee ",
+        "state": "Michigan"
+    },
+    "62MI": {
+        "lat": 41.8306007385,
+        "long": -83.5652999878,
+        "name": "Combs ",
+        "state": "Michigan"
+    },
+    "66MI": {
+        "lat": 42.2284011841,
+        "long": -85.4843978882,
+        "name": "East Lake ",
+        "state": "Michigan"
+    },
+    "68MI": {
+        "lat": 42.1464004517,
+        "long": -83.7919006348,
+        "name": "Saline ",
+        "state": "Michigan"
+    },
+    "69MI": {
+        "lat": 42.821389,
+        "long": -84.278889,
+        "name": "Perry Aero Park",
+        "state": "Michigan"
+    },
+    "6MI0": {
+        "lat": 44.6147003174,
+        "long": -84.952003479,
+        "name": "King Trout ",
+        "state": "Michigan"
+    },
+    "6MI1": {
+        "lat": 43.2630996704,
+        "long": -83.5637969971,
+        "name": "Jensen Field",
+        "state": "Michigan"
+    },
+    "6MI2": {
+        "lat": 42.9678001404,
+        "long": -85.9617004395,
+        "name": "Deyoung ",
+        "state": "Michigan"
+    },
+    "6MI3": {
+        "lat": 42.7630996704,
+        "long": -85.9828033447,
+        "name": "Curt's Place ",
+        "state": "Michigan"
+    },
+    "6MI6": {
+        "lat": 41.8527984619,
+        "long": -86.4360961914,
+        "name": "Hancock ",
+        "state": "Michigan"
+    },
+    "6MI7": {
+        "lat": 42.806098938,
+        "long": -85.9341964722,
+        "name": "J P's Field",
+        "state": "Michigan"
+    },
+    "71MI": {
+        "lat": 42.0843851004,
+        "long": -83.5170149803,
+        "name": "Belleville (Johnston) ",
+        "state": "Michigan"
+    },
+    "72MI": {
+        "lat": 46.285900116,
+        "long": -89.2774963379,
+        "name": "Northwoods ",
+        "state": "Michigan"
+    },
+    "75MI": {
+        "lat": 42.9714012146,
+        "long": -82.8478012085,
+        "name": "Norton Field",
+        "state": "Michigan"
+    },
+    "76MI": {
+        "lat": 43.1333007812,
+        "long": -85.7249984741,
+        "name": "Kozal Airfield",
+        "state": "Michigan"
+    },
+    "77MI": {
+        "lat": 42.0652999878,
+        "long": -85.2416000366,
+        "name": "David's ",
+        "state": "Michigan"
+    },
+    "78MI": {
+        "lat": 42.040599823,
+        "long": -83.3034973145,
+        "name": "Carls ",
+        "state": "Michigan"
+    },
+    "79MI": {
+        "lat": 46.980278,
+        "long": -88.54,
+        "name": "Pike River Landing",
+        "state": "Michigan"
+    },
+    "7MI2": {
+        "lat": 41.8910966258,
+        "long": -86.5867388248,
+        "name": "Sawyer / Southwest Lakes Airpark",
+        "state": "Michigan"
+    },
+    "7MI3": {
+        "lat": 42.1166992188,
+        "long": -85.5167007446,
+        "name": "Thrall Lake ",
+        "state": "Michigan"
+    },
+    "7MI4": {
+        "lat": 43.9221992493,
+        "long": -82.7485961914,
+        "name": "Ludington ",
+        "state": "Michigan"
+    },
+    "7MI5": {
+        "lat": 41.8875007629,
+        "long": -83.6765975952,
+        "name": "Lada ",
+        "state": "Michigan"
+    },
+    "7MI6": {
+        "lat": 43.1102981567,
+        "long": -84.1264038086,
+        "name": "Wightman ",
+        "state": "Michigan"
+    },
+    "7MI7": {
+        "lat": 42.3805999756,
+        "long": -85.5774993896,
+        "name": "Walker ",
+        "state": "Michigan"
+    },
+    "7MI8": {
+        "lat": 43.3391990662,
+        "long": -83.4760971069,
+        "name": "Letts Field",
+        "state": "Michigan"
+    },
+    "84MI": {
+        "lat": 44.4695014954,
+        "long": -83.8818969727,
+        "name": "Timbers Sky Camp ",
+        "state": "Michigan"
+    },
+    "85MI": {
+        "lat": 42.9323005676,
+        "long": -86.0138015747,
+        "name": "Dewind Field",
+        "state": "Michigan"
+    },
+    "86MI": {
+        "lat": 42.1528015137,
+        "long": -83.5673980713,
+        "name": "Downwind Acres ",
+        "state": "Michigan"
+    },
+    "8MI0": {
+        "lat": 42.4119987488,
+        "long": -86.1708984375,
+        "name": "Trowbridge Farms ",
+        "state": "Michigan"
+    },
+    "8MI3": {
+        "lat": 42.1958999634,
+        "long": -85.8056030273,
+        "name": "Mattawan Airpark",
+        "state": "Michigan"
+    },
+    "8MI4": {
+        "lat": 43.4958992004,
+        "long": -85.5736999512,
+        "name": "Howe ",
+        "state": "Michigan"
+    },
+    "8MI7": {
+        "lat": 46.1618995667,
+        "long": -86.4842987061,
+        "name": "Bass Lake ",
+        "state": "Michigan"
+    },
+    "8MI8": {
+        "lat": 42.9947013855,
+        "long": -85.4542007446,
+        "name": "Cupp/Sjvs Landing Strip",
+        "state": "Michigan"
+    },
+    "8MI9": {
+        "lat": 42.3050003052,
+        "long": -84.1066970825,
+        "name": "Winters Field",
+        "state": "Michigan"
+    },
+    "92MI": {
+        "lat": 42.861667,
+        "long": -84.619167,
+        "name": "Zischke ",
+        "state": "Michigan"
+    },
+    "95MI": {
+        "lat": 44.0894012451,
+        "long": -85.7230987549,
+        "name": "Guy Vander Jagt Airfield",
+        "state": "Michigan"
+    },
+    "9MI2": {
+        "lat": 41.9878997803,
+        "long": -83.3076019287,
+        "name": "Newport Woods ",
+        "state": "Michigan"
+    },
+    "9MI5": {
+        "lat": 43.2378005981,
+        "long": -83.5243988037,
+        "name": "Grass Roots STOLport",
+        "state": "Michigan"
+    },
+    "9MI6": {
+        "lat": 42.739200592,
+        "long": -83.7549972534,
+        "name": "Trollman's Field",
+        "state": "Michigan"
+    },
+    "K08C": {
+        "lat": 42.9359016418,
+        "long": -85.8050003052,
+        "name": "Riverview ",
+        "state": "Michigan"
+    },
+    "K13C": {
+        "lat": 43.4520988464,
+        "long": -85.2648010254,
+        "name": "Lakeview--Griffith Field",
+        "state": "Michigan"
+    },
+    "K35D": {
+        "lat": 42.53099823,
+        "long": -85.82510376,
+        "name": "Padgham Field",
+        "state": "Michigan"
+    },
+    "K3CM": {
+        "lat": 43.5469017,
+        "long": -83.89550018,
+        "name": "James Clements Municipal ",
+        "state": "Michigan"
+    },
+    "K3GM": {
+        "lat": 43.0340003967,
+        "long": -86.1981964111,
+        "name": "Grand Haven Memorial Airpark",
+        "state": "Michigan"
+    },
+    "K3RC": {
+        "lat": 44.4749984741,
+        "long": -84.5667037964,
+        "name": "Roscommon Conservation ",
+        "state": "Michigan"
+    },
+    "K3TR": {
+        "lat": 41.835899353,
+        "long": -86.2251968384,
+        "name": "Jerry Tyler Memorial ",
+        "state": "Michigan"
+    },
+    "K45G": {
+        "lat": 42.5698013306,
+        "long": -83.778503418,
+        "name": "Brighton ",
+        "state": "Michigan"
+    },
+    "K48D": {
+        "lat": 43.8344993591,
+        "long": -84.740196228,
+        "name": "Clare Municipal ",
+        "state": "Michigan"
+    },
+    "K4D0": {
+        "lat": 42.7742004395,
+        "long": -84.7331008911,
+        "name": "Abrams Municipal ",
+        "state": "Michigan"
+    },
+    "K4Y4": {
+        "lat": 44.9124984741,
+        "long": -84.8764038086,
+        "name": "Lakes of the North ",
+        "state": "Michigan"
+    },
+    "K50D": {
+        "lat": 46.0091018677,
+        "long": -88.2739028931,
+        "name": "Iron County ",
+        "state": "Michigan"
+    },
+    "K5Y1": {
+        "lat": 46.035900116,
+        "long": -84.4197998047,
+        "name": "Albert J Lindberg ",
+        "state": "Michigan"
+    },
+    "K6D6": {
+        "lat": 43.1422996521,
+        "long": -85.2537994385,
+        "name": "Greenville Municipal ",
+        "state": "Michigan"
+    },
+    "K6D9": {
+        "lat": 44.3128013611,
+        "long": -83.4223022461,
+        "name": "Iosco County ",
+        "state": "Michigan"
+    },
+    "K6G0": {
+        "lat": 43.0290985107,
+        "long": -83.5297012329,
+        "name": "Athelone Williams Memorial ",
+        "state": "Michigan"
+    },
+    "K6Y1": {
+        "lat": 45.7663002,
+        "long": -84.50379944,
+        "name": "Bois Blanc ",
+        "state": "Michigan"
+    },
+    "K76G": {
+        "lat": 42.7209014893,
+        "long": -82.595703125,
+        "name": "Marine City ",
+        "state": "Michigan"
+    },
+    "K77G": {
+        "lat": 43.3117980957,
+        "long": -83.0908966064,
+        "name": "Marlette ",
+        "state": "Michigan"
+    },
+    "K7D3": {
+        "lat": 43.8754997253,
+        "long": -85.8421020508,
+        "name": "Baldwin Municipal ",
+        "state": "Michigan"
+    },
+    "K80D": {
+        "lat": 44.0527992249,
+        "long": -84.8125,
+        "name": "Clare County ",
+        "state": "Michigan"
+    },
+    "K83D": {
+        "lat": 45.89170074,
+        "long": -84.73809814,
+        "name": "Mackinac County ",
+        "state": "Michigan"
+    },
+    "K8M8": {
+        "lat": 44.8064994812,
+        "long": -84.2761993408,
+        "name": "Garland ",
+        "state": "Michigan"
+    },
+    "K9C8": {
+        "lat": 43.8959007263,
+        "long": -85.2791976929,
+        "name": "Evart Municipal ",
+        "state": "Michigan"
+    },
+    "K9D9": {
+        "lat": 42.6636009216,
+        "long": -85.3462982178,
+        "name": "Hastings ",
+        "state": "Michigan"
+    },
+    "K9G2": {
+        "lat": 42.807598114,
+        "long": -83.7698974609,
+        "name": "Prices ",
+        "state": "Michigan"
+    },
+    "KACB": {
+        "lat": 44.9886016846,
+        "long": -85.1984024048,
+        "name": "Antrim County ",
+        "state": "Michigan"
+    },
+    "KADG": {
+        "lat": 41.8676986694,
+        "long": -84.0773010254,
+        "name": "Lenawee County ",
+        "state": "Michigan"
+    },
+    "KAMN": {
+        "lat": 43.322101593,
+        "long": -84.68800354,
+        "name": "RPD ",
+        "state": "Michigan"
+    },
+    "KANJ": {
+        "lat": 46.47919846,
+        "long": -84.36840057,
+        "name": "Sault Ste Marie Municipal Sanderson Field",
+        "state": "Michigan"
+    },
+    "KAPN": {
+        "lat": 45.0780983,
+        "long": -83.56030273,
+        "name": "Alpena County Regional ",
+        "state": "Michigan"
+    },
+    "KARB": {
+        "lat": 42.2229995728,
+        "long": -83.7455978394,
+        "name": "Ann Arbor Municipal ",
+        "state": "Michigan"
+    },
+    "KAZO": {
+        "lat": 42.2349014282,
+        "long": -85.5521011353,
+        "name": "Kalamazoo Battle Creek International ",
+        "state": "Michigan"
+    },
+    "KBAX": {
+        "lat": 43.78020096,
+        "long": -82.98539734,
+        "name": "Huron County Memorial ",
+        "state": "Michigan"
+    },
+    "KBEH": {
+        "lat": 42.1286010742,
+        "long": -86.4284973145,
+        "name": "Southwest Michigan Regional ",
+        "state": "Michigan"
+    },
+    "KBFA": {
+        "lat": 45.1657981873,
+        "long": -84.9241027832,
+        "name": "Boyne Mountain ",
+        "state": "Michigan"
+    },
+    "KBIV": {
+        "lat": 42.7429008484,
+        "long": -86.1073989868,
+        "name": "Tulip City ",
+        "state": "Michigan"
+    },
+    "KBTL": {
+        "lat": 42.3073005676,
+        "long": -85.2515029907,
+        "name": "W K Kellogg ",
+        "state": "Michigan"
+    },
+    "KC04": {
+        "lat": 43.6417007446,
+        "long": -86.3292007446,
+        "name": "Oceana County ",
+        "state": "Michigan"
+    },
+    "KC20": {
+        "lat": 41.9516983032,
+        "long": -86.3676986694,
+        "name": "Andrews University Airpark",
+        "state": "Michigan"
+    },
+    "KC91": {
+        "lat": 41.99290085,
+        "long": -86.12799835,
+        "name": "Dowagiac Municipal ",
+        "state": "Michigan"
+    },
+    "KCAD": {
+        "lat": 44.2752990723,
+        "long": -85.4188995361,
+        "name": "Wexford County ",
+        "state": "Michigan"
+    },
+    "KCFS": {
+        "lat": 43.4588012695,
+        "long": -83.4455032349,
+        "name": "Tuscola Area ",
+        "state": "Michigan"
+    },
+    "KCIU": {
+        "lat": 46.2508010864,
+        "long": -84.4723968506,
+        "name": "Chippewa County International ",
+        "state": "Michigan"
+    },
+    "KCMX": {
+        "lat": 47.1683998108,
+        "long": -88.4890975952,
+        "name": "Houghton County Memorial ",
+        "state": "Michigan"
+    },
+    "KCVX": {
+        "lat": 45.3047981262,
+        "long": -85.2748031616,
+        "name": "Charlevoix Municipal ",
+        "state": "Michigan"
+    },
+    "KD11": {
+        "lat": 43.7200012207,
+        "long": -85.0027999878,
+        "name": "Ojibwa Airpark",
+        "state": "Michigan"
+    },
+    "KD95": {
+        "lat": 43.0666007996,
+        "long": -83.2723007202,
+        "name": "Dupont Lapeer ",
+        "state": "Michigan"
+    },
+    "KD98": {
+        "lat": 42.79610062,
+        "long": -82.97499847,
+        "name": "Romeo State ",
+        "state": "Michigan"
+    },
+    "KDET": {
+        "lat": 42.40919876,
+        "long": -83.00990295,
+        "name": "Coleman A. Young Municipal ",
+        "state": "Michigan"
+    },
+    "KDRM": {
+        "lat": 46.0093002319,
+        "long": -83.7438964844,
+        "name": "Drummond Island ",
+        "state": "Michigan"
+    },
+    "KDTW": {
+        "lat": 42.2123985291,
+        "long": -83.3534011841,
+        "name": "Detroit Metropolitan Wayne County ",
+        "state": "Michigan"
+    },
+    "KDUH": {
+        "lat": 41.7359008789,
+        "long": -83.6554031372,
+        "name": "Toledo Suburban ",
+        "state": "Michigan"
+    },
+    "KERY": {
+        "lat": 46.3111991882,
+        "long": -85.4572982788,
+        "name": "Luce County ",
+        "state": "Michigan"
+    },
+    "KESC": {
+        "lat": 45.7226982117,
+        "long": -87.0936965942,
+        "name": "Delta County ",
+        "state": "Michigan"
+    },
+    "KFFX": {
+        "lat": 43.43930054,
+        "long": -85.99490356,
+        "name": "Fremont Municipal ",
+        "state": "Michigan"
+    },
+    "KFKS": {
+        "lat": 44.6251983643,
+        "long": -86.2007980347,
+        "name": "Frankfort Dow Memorial Field",
+        "state": "Michigan"
+    },
+    "KFNT": {
+        "lat": 42.9654006958,
+        "long": -83.743598938,
+        "name": "Bishop International ",
+        "state": "Michigan"
+    },
+    "KFPK": {
+        "lat": 42.5745010376,
+        "long": -84.8114013672,
+        "name": "Fitch H Beach ",
+        "state": "Michigan"
+    },
+    "KGDW": {
+        "lat": 43.9706001282,
+        "long": -84.4749984741,
+        "name": "Gladwin Zettel Memorial ",
+        "state": "Michigan"
+    },
+    "KGLR": {
+        "lat": 45.0135002136,
+        "long": -84.7035980225,
+        "name": "Gaylord Regional ",
+        "state": "Michigan"
+    },
+    "KGOV": {
+        "lat": 44.6803016663,
+        "long": -84.7288970947,
+        "name": "Grayling Army Air Field",
+        "state": "Michigan"
+    },
+    "KGRR": {
+        "lat": 42.88079834,
+        "long": -85.52279663,
+        "name": "Gerald R. Ford International ",
+        "state": "Michigan"
+    },
+    "KHAI": {
+        "lat": 41.9598007202,
+        "long": -85.5933990479,
+        "name": "Three Rivers Municipal Dr Haines ",
+        "state": "Michigan"
+    },
+    "KHLM": {
+        "lat": 42.7958984375,
+        "long": -86.1620025635,
+        "name": "Park Township ",
+        "state": "Michigan"
+    },
+    "KHTL": {
+        "lat": 44.35979843,
+        "long": -84.6710968,
+        "name": "Roscommon County - Blodgett Memorial ",
+        "state": "Michigan"
+    },
+    "KHYX": {
+        "lat": 43.4333992,
+        "long": -83.86229706,
+        "name": "Saginaw County H.W. Browne ",
+        "state": "Michigan"
+    },
+    "KIKW": {
+        "lat": 43.66289902,
+        "long": -84.26129913,
+        "name": "Jack Barstow ",
+        "state": "Michigan"
+    },
+    "KIMT": {
+        "lat": 45.8184013367,
+        "long": -88.1145019531,
+        "name": "Ford ",
+        "state": "Michigan"
+    },
+    "KIRS": {
+        "lat": 41.81330109,
+        "long": -85.43900299,
+        "name": "Kirsch Municipal ",
+        "state": "Michigan"
+    },
+    "KISQ": {
+        "lat": 45.97460175,
+        "long": -86.17179871,
+        "name": "Schoolcraft County ",
+        "state": "Michigan"
+    },
+    "KIWD": {
+        "lat": 46.5275001526,
+        "long": -90.131401062,
+        "name": "Gogebic Iron County ",
+        "state": "Michigan"
+    },
+    "KJXN": {
+        "lat": 42.2597999573,
+        "long": -84.4593963623,
+        "name": "Jackson County Reynolds Field",
+        "state": "Michigan"
+    },
+    "KJYM": {
+        "lat": 41.9212989807,
+        "long": -84.5858001709,
+        "name": "Hillsdale Municipal ",
+        "state": "Michigan"
+    },
+    "KLAN": {
+        "lat": 42.7787017822,
+        "long": -84.5874023438,
+        "name": "Capital City ",
+        "state": "Michigan"
+    },
+    "KLDM": {
+        "lat": 43.96250153,
+        "long": -86.40789795,
+        "name": "Mason County ",
+        "state": "Michigan"
+    },
+    "KLWA": {
+        "lat": 42.3512001038,
+        "long": -86.2556991577,
+        "name": "South Haven Area Regional ",
+        "state": "Michigan"
+    },
+    "KMBL": {
+        "lat": 44.2723999,
+        "long": -86.24690247,
+        "name": "Manistee Co Blacker ",
+        "state": "Michigan"
+    },
+    "KMBS": {
+        "lat": 43.5329017639,
+        "long": -84.0795974731,
+        "name": "MBS International ",
+        "state": "Michigan"
+    },
+    "KMCD": {
+        "lat": 45.86489868,
+        "long": -84.63729858,
+        "name": "Mackinac Island ",
+        "state": "Michigan"
+    },
+    "KMGN": {
+        "lat": 45.4255981445,
+        "long": -84.9133987427,
+        "name": "Harbor Springs ",
+        "state": "Michigan"
+    },
+    "KMKG": {
+        "lat": 43.16949844,
+        "long": -86.23819733,
+        "name": "Muskegon County ",
+        "state": "Michigan"
+    },
+    "KMNM": {
+        "lat": 45.126701355,
+        "long": -87.6383972168,
+        "name": "Menominee Marinette Twin County ",
+        "state": "Michigan"
+    },
+    "KMOP": {
+        "lat": 43.6217002869,
+        "long": -84.7375030518,
+        "name": "Mount Pleasant Municipal ",
+        "state": "Michigan"
+    },
+    "KMTC": {
+        "lat": 42.6082992554,
+        "long": -82.8355026245,
+        "name": "Selfridge Angb ",
+        "state": "Michigan"
+    },
+    "KN98": {
+        "lat": 45.2083015442,
+        "long": -84.9903030396,
+        "name": "Boyne City Municipal ",
+        "state": "Michigan"
+    },
+    "KOEB": {
+        "lat": 41.9333992,
+        "long": -85.05259705,
+        "name": "Branch County Memorial ",
+        "state": "Michigan"
+    },
+    "KOGM": {
+        "lat": 46.84550095,
+        "long": -89.36710358,
+        "name": "Ontonagon County Schuster Field",
+        "state": "Michigan"
+    },
+    "KONZ": {
+        "lat": 42.0990982056,
+        "long": -83.1614990234,
+        "name": "Grosse Ile Municipal ",
+        "state": "Michigan"
+    },
+    "KOSC": {
+        "lat": 44.45159912,
+        "long": -83.39409637,
+        "name": "Oscoda Wurtsmith ",
+        "state": "Michigan"
+    },
+    "KOZW": {
+        "lat": 42.62919998,
+        "long": -83.98210144,
+        "name": "Livingston County Spencer J. Hardy ",
+        "state": "Michigan"
+    },
+    "KPHN": {
+        "lat": 42.9109993,
+        "long": -82.52890015,
+        "name": "St Clair County International ",
+        "state": "Michigan"
+    },
+    "KPLN": {
+        "lat": 45.57089996,
+        "long": -84.79669952,
+        "name": "Pellston Regional  of Emmet County ",
+        "state": "Michigan"
+    },
+    "KPTK": {
+        "lat": 42.6655006409,
+        "long": -83.4200973511,
+        "name": "Oakland County International ",
+        "state": "Michigan"
+    },
+    "KPZQ": {
+        "lat": 45.4071006775,
+        "long": -83.8128967285,
+        "name": "Presque Isle County ",
+        "state": "Michigan"
+    },
+    "KRCT": {
+        "lat": 43.9000015259,
+        "long": -85.5167007446,
+        "name": "Nartron Field",
+        "state": "Michigan"
+    },
+    "KRNP": {
+        "lat": 42.9930000305,
+        "long": -84.1389007568,
+        "name": "Owosso Community ",
+        "state": "Michigan"
+    },
+    "KRQB": {
+        "lat": 43.7225990295,
+        "long": -85.5040969849,
+        "name": "Roben Hood ",
+        "state": "Michigan"
+    },
+    "KSAW": {
+        "lat": 46.3535995483,
+        "long": -87.395401001,
+        "name": "Sawyer International ",
+        "state": "Michigan"
+    },
+    "KSJX": {
+        "lat": 45.6922988892,
+        "long": -85.5665969849,
+        "name": "Beaver Island ",
+        "state": "Michigan"
+    },
+    "KSLH": {
+        "lat": 45.65370178,
+        "long": -84.51930237,
+        "name": "Cheboygan County ",
+        "state": "Michigan"
+    },
+    "KTEW": {
+        "lat": 42.56579971,
+        "long": -84.42320251,
+        "name": "Mason Jewett Field",
+        "state": "Michigan"
+    },
+    "KTTF": {
+        "lat": 41.9398994446,
+        "long": -83.4347000122,
+        "name": "Custer ",
+        "state": "Michigan"
+    },
+    "KTVC": {
+        "lat": 44.7414016724,
+        "long": -85.5821990967,
+        "name": "Cherry Capital ",
+        "state": "Michigan"
+    },
+    "KVLL": {
+        "lat": 42.54290009,
+        "long": -83.17790222,
+        "name": "Oakland Troy ",
+        "state": "Michigan"
+    },
+    "KY31": {
+        "lat": 44.2448005676,
+        "long": -84.1798019409,
+        "name": "West Branch Community ",
+        "state": "Michigan"
+    },
+    "KY47": {
+        "lat": 42.5031013489,
+        "long": -83.6237030029,
+        "name": "Oakland Southwest ",
+        "state": "Michigan"
+    },
+    "KY65": {
+        "lat": 45.4082984924,
+        "long": -84.5999984741,
+        "name": "Calvin Campbell Municipal ",
+        "state": "Michigan"
+    },
+    "KY70": {
+        "lat": 42.9379997253,
+        "long": -85.0605010986,
+        "name": "Ionia County ",
+        "state": "Michigan"
+    },
+    "KY83": {
+        "lat": 43.4542007446,
+        "long": -82.8494033813,
+        "name": "Sandusky City ",
+        "state": "Michigan"
+    },
+    "KY89": {
+        "lat": 44.7252006531,
+        "long": -85.2031021118,
+        "name": "Kalkaska City ",
+        "state": "Michigan"
+    },
+    "KY93": {
+        "lat": 45,
+        "long": -84.1333007813,
+        "name": "Atlanta Municipal ",
+        "state": "Michigan"
+    },
+    "KY94": {
+        "lat": 45.1301002502,
+        "long": -85.1065979004,
+        "name": "East Jordan City ",
+        "state": "Michigan"
+    },
+    "KY95": {
+        "lat": 45.0833015442,
+        "long": -83.9402999878,
+        "name": "Hillman ",
+        "state": "Michigan"
+    },
+    "KYIP": {
+        "lat": 42.23789978,
+        "long": -83.53040314,
+        "name": "Willow Run ",
+        "state": "Michigan"
+    },
+    "KZ98": {
+        "lat": 42.817199707,
+        "long": -85.9281005859,
+        "name": "Ottawa Executive ",
+        "state": "Michigan"
+    },
+    "MI00": {
+        "lat": 46.0522003174,
+        "long": -87.2582015991,
+        "name": "Bonnie Field",
+        "state": "Michigan"
+    },
+    "MI01": {
+        "lat": 43.057800293,
+        "long": -82.676902771,
+        "name": "Fasel Field",
+        "state": "Michigan"
+    },
+    "MI02": {
+        "lat": 41.9869995117,
+        "long": -83.8047027588,
+        "name": "Brablec Farms ",
+        "state": "Michigan"
+    },
+    "MI04": {
+        "lat": 43.3069000244,
+        "long": -84.6457977295,
+        "name": "Airborn Paraflite Ultralightport",
+        "state": "Michigan"
+    },
+    "MI05": {
+        "lat": 43.1666984558,
+        "long": -83.7874984741,
+        "name": "Crompton's Private Strip",
+        "state": "Michigan"
+    },
+    "MI06": {
+        "lat": 42.9230995178,
+        "long": -84.2833023071,
+        "name": "Lee Field",
+        "state": "Michigan"
+    },
+    "MI09": {
+        "lat": 42.0499992371,
+        "long": -83.740196228,
+        "name": "Milan ",
+        "state": "Michigan"
+    },
+    "MI10": {
+        "lat": 42.8652992249,
+        "long": -84.7054977417,
+        "name": "Hoerners Corners ",
+        "state": "Michigan"
+    },
+    "MI11": {
+        "lat": 42.534198761,
+        "long": -84.801399231,
+        "name": "Crippen Field",
+        "state": "Michigan"
+    },
+    "MI13": {
+        "lat": 43.1617012024,
+        "long": -85.0616989136,
+        "name": "Minikey ",
+        "state": "Michigan"
+    },
+    "MI15": {
+        "lat": 42.7291984558,
+        "long": -82.6651992798,
+        "name": "Wards Long Acres ",
+        "state": "Michigan"
+    },
+    "MI18": {
+        "lat": 43.0931015015,
+        "long": -83.8360977173,
+        "name": "Cedarville ",
+        "state": "Michigan"
+    },
+    "MI19": {
+        "lat": 43.9300003052,
+        "long": -86.1656036377,
+        "name": "Thorn ",
+        "state": "Michigan"
+    },
+    "MI21": {
+        "lat": 41.7374992371,
+        "long": -84.5649032593,
+        "name": "A.C. Miller ",
+        "state": "Michigan"
+    },
+    "MI22": {
+        "lat": 41.8736991882,
+        "long": -86.202796936,
+        "name": "Crump ",
+        "state": "Michigan"
+    },
+    "MI23": {
+        "lat": 43.3469009399,
+        "long": -83.8666992188,
+        "name": "Mckimmy Field",
+        "state": "Michigan"
+    },
+    "MI24": {
+        "lat": 45.1417007446,
+        "long": -85.0066986084,
+        "name": "Wilson Township ",
+        "state": "Michigan"
+    },
+    "MI25": {
+        "lat": 41.9222984314,
+        "long": -86.5456008911,
+        "name": "Myers ",
+        "state": "Michigan"
+    },
+    "MI26": {
+        "lat": 42.6109008789,
+        "long": -83.7326965332,
+        "name": "Hynes Field",
+        "state": "Michigan"
+    },
+    "MI27": {
+        "lat": 42.6124992371,
+        "long": -83.8541030884,
+        "name": "Haigh ",
+        "state": "Michigan"
+    },
+    "MI29": {
+        "lat": 42.3763999939,
+        "long": -83.7927017212,
+        "name": "Gooding ",
+        "state": "Michigan"
+    },
+    "MI31": {
+        "lat": 42.1015014648,
+        "long": -85.8378982544,
+        "name": "Cornish Field",
+        "state": "Michigan"
+    },
+    "MI33": {
+        "lat": 42.792301178,
+        "long": -82.6393966675,
+        "name": "Adair Airstrip",
+        "state": "Michigan"
+    },
+    "MI35": {
+        "lat": 42.0778007507,
+        "long": -84.8291015625,
+        "name": "Claucherty ",
+        "state": "Michigan"
+    },
+    "MI37": {
+        "lat": 42.7555999756,
+        "long": -82.5582962036,
+        "name": "Wenning Landing Area ",
+        "state": "Michigan"
+    },
+    "MI38": {
+        "lat": 42.6022987366,
+        "long": -84.426399231,
+        "name": "Eichmeier Field",
+        "state": "Michigan"
+    },
+    "MI39": {
+        "lat": 42.0750007629,
+        "long": -83.6082992554,
+        "name": "Laszlo ",
+        "state": "Michigan"
+    },
+    "MI41": {
+        "lat": 42.8316993713,
+        "long": -82.5345993042,
+        "name": "Crystal ",
+        "state": "Michigan"
+    },
+    "MI43": {
+        "lat": 43.1861000061,
+        "long": -83.9013977051,
+        "name": "Pewanogowink-Banks ",
+        "state": "Michigan"
+    },
+    "MI44": {
+        "lat": 43.6722984314,
+        "long": -84.7367019653,
+        "name": "D J ",
+        "state": "Michigan"
+    },
+    "MI45": {
+        "lat": 42.8081016541,
+        "long": -83.4518966675,
+        "name": "Ed Schulte's Place STOLport",
+        "state": "Michigan"
+    },
+    "MI47": {
+        "lat": 42.8083992004,
+        "long": -84.1902008057,
+        "name": "Dysinger ",
+        "state": "Michigan"
+    },
+    "MI48": {
+        "lat": 41.8334007263,
+        "long": -83.6832962036,
+        "name": "Ham-A-Lot Field",
+        "state": "Michigan"
+    },
+    "MI50": {
+        "lat": 42.7667007446,
+        "long": -82.9498977661,
+        "name": "Dodge ",
+        "state": "Michigan"
+    },
+    "MI51": {
+        "lat": 41.9968986511,
+        "long": -84.1885986328,
+        "name": "Loars Field",
+        "state": "Michigan"
+    },
+    "MI52": {
+        "lat": 42.0905990601,
+        "long": -83.9680023193,
+        "name": "Markham ",
+        "state": "Michigan"
+    },
+    "MI53": {
+        "lat": 42.0092010498,
+        "long": -83.2583007813,
+        "name": "Mills Field",
+        "state": "Michigan"
+    },
+    "MI55": {
+        "lat": 43.4900016785,
+        "long": -84.3653030396,
+        "name": "Zeitler ",
+        "state": "Michigan"
+    },
+    "MI58": {
+        "lat": 42.7545013428,
+        "long": -85.0286026001,
+        "name": "Stony Acres ",
+        "state": "Michigan"
+    },
+    "MI60": {
+        "lat": 44.5914001465,
+        "long": -85.310798645,
+        "name": "Tannehill Airfield",
+        "state": "Michigan"
+    },
+    "MI67": {
+        "lat": 43.2891998291,
+        "long": -85.7811965942,
+        "name": "Tyrone ",
+        "state": "Michigan"
+    },
+    "MI68": {
+        "lat": 41.9375,
+        "long": -86.5014038086,
+        "name": "Del Hickcox ",
+        "state": "Michigan"
+    },
+    "MI70": {
+        "lat": 42.0712013245,
+        "long": -83.8835983276,
+        "name": "Carl's ",
+        "state": "Michigan"
+    },
+    "MI71": {
+        "lat": 43.6445007324,
+        "long": -86.4529037476,
+        "name": "Silver Lake ",
+        "state": "Michigan"
+    },
+    "MI72": {
+        "lat": 41.8499984741,
+        "long": -86.3499984741,
+        "name": "Nelson ",
+        "state": "Michigan"
+    },
+    "MI73": {
+        "lat": 43.2583999634,
+        "long": -85.5458984375,
+        "name": "North Cedar ",
+        "state": "Michigan"
+    },
+    "MI76": {
+        "lat": 42.5499992371,
+        "long": -86.2166976929,
+        "name": "Reading ",
+        "state": "Michigan"
+    },
+    "MI77": {
+        "lat": 42.2999992371,
+        "long": -85.4167022705,
+        "name": "Shafter ",
+        "state": "Michigan"
+    },
+    "MI78": {
+        "lat": 42.9166984558,
+        "long": -85.7834014893,
+        "name": "Weller ",
+        "state": "Michigan"
+    },
+    "MI80": {
+        "lat": 43.1283988953,
+        "long": -85.3992004395,
+        "name": "Wabasis Lake ",
+        "state": "Michigan"
+    },
+    "MI82": {
+        "lat": 42.8763999939,
+        "long": -85.9555969238,
+        "name": "Harry's Field",
+        "state": "Michigan"
+    },
+    "MI84": {
+        "lat": 42.1983985901,
+        "long": -85.8067016602,
+        "name": "Kerby Field",
+        "state": "Michigan"
+    },
+    "MI86": {
+        "lat": 43.3424987793,
+        "long": -86.1868972778,
+        "name": "Midget ",
+        "state": "Michigan"
+    },
+    "MI88": {
+        "lat": 42.7322998047,
+        "long": -85.9052963257,
+        "name": "Bakers Field",
+        "state": "Michigan"
+    },
+    "MI89": {
+        "lat": 42.1487007141,
+        "long": -85.6528015137,
+        "name": "Perry ",
+        "state": "Michigan"
+    },
+    "MI92": {
+        "lat": 45.9327011108,
+        "long": -88.098197937,
+        "name": "Lilienthal ",
+        "state": "Michigan"
+    },
+    "MI93": {
+        "lat": 44.6878013611,
+        "long": -83.7438964844,
+        "name": "Circle T Ranch ",
+        "state": "Michigan"
+    },
+    "MI94": {
+        "lat": 45.7846984863,
+        "long": -88.0681991577,
+        "name": "Fontecchio ",
+        "state": "Michigan"
+    },
+    "MI95": {
+        "lat": 41.846698761,
+        "long": -85.8949966431,
+        "name": "Taylors Flight Park ",
+        "state": "Michigan"
+    },
+    "MI98": {
+        "lat": 46.2014007568,
+        "long": -84.7416992188,
+        "name": "Dowd Field",
+        "state": "Michigan"
+    },
+    "MI99": {
+        "lat": 42.7989006042,
+        "long": -82.6587982178,
+        "name": "Robertson Field",
+        "state": "Michigan"
+    }
+}

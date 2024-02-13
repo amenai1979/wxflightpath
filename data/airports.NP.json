@@ -1,0 +1,222 @@
+{
+  "VNBG": {
+    "lat": 29.5389995575,
+    "long": 81.1854019165,
+    "name": "Bajhang "
+  },
+  "VNBJ": {
+    "lat": 27.1473999023,
+    "long": 87.0507965088,
+    "name": "Bhojpur "
+  },
+  "VNBL": {
+    "lat": 28.2127990723,
+    "long": 83.6662979126,
+    "name": "Baglung "
+  },
+  "VNBP": {
+    "lat": 27.6781005859,
+    "long": 84.429397583,
+    "name": "Bharatpur "
+  },
+  "VNBR": {
+    "lat": 29.5020008087,
+    "long": 81.6689987183,
+    "name": "Bajura "
+  },
+  "VNBT": {
+    "lat": 29.4652996063,
+    "long": 80.5492019653,
+    "name": "Baitadi "
+  },
+  "VNBW": {
+    "lat": 27.5056991577,
+    "long": 83.4162979126,
+    "name": "Bhairahawa "
+  },
+  "VNCG": {
+    "lat": 26.5708007812,
+    "long": 88.0795974731,
+    "name": "Bhadrapur "
+  },
+  "VNDG": {
+    "lat": 28.1110992432,
+    "long": 82.2941970825,
+    "name": "Tulsipur "
+  },
+  "VNDH": {
+    "lat": 28.7532997131,
+    "long": 80.5819015503,
+    "name": "Dhangarhi "
+  },
+  "VNDL": {
+    "lat": 29.6692008972,
+    "long": 80.5484008789,
+    "name": "Darchula "
+  },
+  "VNDP": {
+    "lat": 28.9857006073,
+    "long": 82.8190994263,
+    "name": "Dolpa "
+  },
+  "VNDR": {
+    "lat": 28.5170001984,
+    "long": 83.0329971313,
+    "name": "Dhorpatan "
+  },
+  "VNDT": {
+    "lat": 29.2630996704,
+    "long": 80.9359970093,
+    "name": "Silgadi Doti "
+  },
+  "VNGK": {
+    "lat": 28.0499992371,
+    "long": 84.483001709,
+    "name": "Gorkha "
+  },
+  "VNJI": {
+    "lat": 27.6170005798,
+    "long": 86.2170028687,
+    "name": "Jiri "
+  },
+  "VNJL": {
+    "lat": 29.2742004395,
+    "long": 82.1932983398,
+    "name": "Jumla "
+  },
+  "VNJP": {
+    "lat": 26.7087993622,
+    "long": 85.9224014282,
+    "name": "Janakpur "
+  },
+  "VNJS": {
+    "lat": 28.780426,
+    "long": 83.723,
+    "name": "Jomsom "
+  },
+  "VNKL": {
+    "lat": 27.4106333137,
+    "long": 86.6465950012,
+    "name": "Kangel Danda "
+  },
+  "VNKT": {
+    "lat": 27.6965999603,
+    "long": 85.3591003418,
+    "name": "Tribhuvan International "
+  },
+  "VNLD": {
+    "lat": 27.2530994415,
+    "long": 86.6699981689,
+    "name": "Lamidanda "
+  },
+  "VNLK": {
+    "lat": 27.6868991852,
+    "long": 86.7296981812,
+    "name": "Lukla "
+  },
+  "VNLT": {
+    "lat": 28.2000007629,
+    "long": 85.5830001831,
+    "name": "Langtang "
+  },
+  "VNMA": {
+    "lat": 28.6413993835,
+    "long": 84.0892028809,
+    "name": "Manang "
+  },
+  "VNMG": {
+    "lat": 27.5774,
+    "long": 84.22875,
+    "name": "Meghauli "
+  },
+  "VNMN": {
+    "lat": 28.9631996155,
+    "long": 80.1479034424,
+    "name": "Mahendranagar "
+  },
+  "VNNG": {
+    "lat": 28.1035995483,
+    "long": 81.6669998169,
+    "name": "Nepalgunj "
+  },
+  "VNPK": {
+    "lat": 28.2008991241,
+    "long": 83.9821014404,
+    "name": "Pokhara "
+  },
+  "VNPL": {
+    "lat": 27.5177868809,
+    "long": 86.5844535828,
+    "name": "Phaplu "
+  },
+  "VNRB": {
+    "lat": 26.5170001984,
+    "long": 86.75,
+    "name": "Rajbiraj "
+  },
+  "VNRC": {
+    "lat": 27.3939990997,
+    "long": 86.0614013672,
+    "name": "Ramechhap "
+  },
+  "VNRK": {
+    "lat": 28.6270008087,
+    "long": 82.1949996948,
+    "name": "Rukumkot "
+  },
+  "VNRP": {
+    "lat": 28.2670001984,
+    "long": 82.766998291,
+    "name": "Rolpa "
+  },
+  "VNRT": {
+    "lat": 27.3034992218,
+    "long": 86.5503997803,
+    "name": "Rumjatar "
+  },
+  "VNSI": {
+    "lat": 27.1595001221,
+    "long": 84.9801025391,
+    "name": "Simara "
+  },
+  "VNSK": {
+    "lat": 28.5860004425,
+    "long": 81.6360015869,
+    "name": "Surkhet "
+  },
+  "VNSR": {
+    "lat": 29.2329998016,
+    "long": 81.2170028687,
+    "name": "Sanfebagar "
+  },
+  "VNST": {
+    "lat": 29.9710998535,
+    "long": 81.818901062,
+    "name": "Simikot "
+  },
+  "VNTH": {
+    "lat": 27.04787,
+    "long": 86.858022,
+    "name": "Thamkharka "
+  },
+  "VNTJ": {
+    "lat": 27.3509,
+    "long": 87.69525,
+    "name": "Suketar "
+  },
+  "VNTP": {
+    "lat": 28.5170001984,
+    "long": 81.1500015259,
+    "name": "Tikapur "
+  },
+  "VNTR": {
+    "lat": 27.3150005341,
+    "long": 87.1932983398,
+    "name": "Tumling Tar "
+  },
+  "VNVT": {
+    "lat": 26.4815006256,
+    "long": 87.263999939,
+    "name": "Biratnagar "
+  }
+}

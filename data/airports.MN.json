@@ -1,0 +1,102 @@
+{
+  "ZMAH": {
+    "lat": 46.2503013611,
+    "long": 102.8020019531,
+    "name": "Arvaikheer "
+  },
+  "ZMAT": {
+    "lat": 46.3763999939,
+    "long": 96.2210998535,
+    "name": "Altai "
+  },
+  "ZMBD": {
+    "lat": 48.6067008972,
+    "long": 110.608001709,
+    "name": "Binder "
+  },
+  "ZMBH": {
+    "lat": 46.1632995605,
+    "long": 100.7040023804,
+    "name": "Bayankhongor "
+  },
+  "ZMBN": {
+    "lat": 48.8549995422,
+    "long": 103.4759979248,
+    "name": "Bulgan "
+  },
+  "ZMBR": {
+    "lat": 43.749304182,
+    "long": 104.114985466,
+    "name": "Bulagtai Resort "
+  },
+  "ZMBS": {
+    "lat": 46.1006011963,
+    "long": 91.584197998,
+    "name": "Bulgan Sum "
+  },
+  "ZMBU": {
+    "lat": 46.6603012085,
+    "long": 113.2850036621,
+    "name": "Baruun Urt "
+  },
+  "ZMCD": {
+    "lat": 48.1357002258,
+    "long": 114.6460037231,
+    "name": "Choibalsan "
+  },
+  "ZMCK": {
+    "lat": 47.651581,
+    "long": 106.821772,
+    "name": "Chinggis Khaan International "
+  },
+  "ZMDZ": {
+    "lat": 43.5917015076,
+    "long": 104.4300003052,
+    "name": "Dalanzadgad "
+  },
+  "ZMHH": {
+    "lat": 47.246667,
+    "long": 102.826111,
+    "name": "Kharkhorin "
+  },
+  "ZMHU": {
+    "lat": 46.9258003235,
+    "long": 102.7730026245,
+    "name": "Khujirt "
+  },
+  "ZMKD": {
+    "lat": 47.9541015625,
+    "long": 91.6281967163,
+    "name": "Khovd "
+  },
+  "ZMMN": {
+    "lat": 49.6632995605,
+    "long": 100.0989990234,
+    "name": "Moron "
+  },
+  "ZMOT": {
+    "lat": 43.0157638761,
+    "long": 106.839991808,
+    "name": "Oyu Tolgoi"
+  },
+  "ZMSH": {
+    "lat": 44.9831008911,
+    "long": 110.1669998169,
+    "name": "Sainshand "
+  },
+  "ZMUB": {
+    "lat": 47.8431015015,
+    "long": 106.766998291,
+    "name": "Chinggis Khaan International "
+  },
+  "ZMUG": {
+    "lat": 49.973333,
+    "long": 92.079722,
+    "name": "Ulaangom "
+  },
+  "ZMUL": {
+    "lat": 48.9933013916,
+    "long": 89.9225006104,
+    "name": "Ulgii Mongolei "
+  }
+}

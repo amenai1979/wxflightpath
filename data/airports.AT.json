@@ -1,0 +1,277 @@
+{
+  "LOAA": {
+    "lat": 48.418598175,
+    "long": 15.2166996002,
+    "name": "Ottenschlag "
+  },
+  "LOAB": {
+    "lat": 48.9233016968,
+    "long": 15.2966995239,
+    "name": "Dobersberg "
+  },
+  "LOAD": {
+    "lat": 48.1617012024,
+    "long": 15.5882997513,
+    "name": "Voeltendorf "
+  },
+  "LOAG": {
+    "lat": 48.4468994141,
+    "long": 15.6350002289,
+    "name": "Krems "
+  },
+  "LOAL": {
+    "lat": 48.2266998291,
+    "long": 16.6721992493,
+    "name": "Leopoldsdorf "
+  },
+  "LOAN": {
+    "lat": 47.8432998657,
+    "long": 16.260099411,
+    "name": "Wiener Neustadt East "
+  },
+  "LOAR": {
+    "lat": 48.6660995483,
+    "long": 16.8250007629,
+    "name": "Altlichtenwarth "
+  },
+  "LOAS": {
+    "lat": 48.1021995544,
+    "long": 16.935300827,
+    "name": "Spitzerberg "
+  },
+  "LOAT": {
+    "lat": 47.7999992371,
+    "long": 16.5669994354,
+    "name": "Trausdorf "
+  },
+  "LOAU": {
+    "lat": 48.4099998474,
+    "long": 16.1916999817,
+    "name": "Stockerau "
+  },
+  "LOAV": {
+    "lat": 47.9650001526,
+    "long": 16.2600002289,
+    "name": "Voslau "
+  },
+  "LOGF": {
+    "lat": 47.0625,
+    "long": 16.0855998993,
+    "name": "Fuerstenfeld "
+  },
+  "LOGG": {
+    "lat": 47.1465301514,
+    "long": 16.3168430328,
+    "name": "Punitz-Gussing "
+  },
+  "LOGI": {
+    "lat": 47.4942016602,
+    "long": 14.4975004196,
+    "name": "Trieben "
+  },
+  "LOGK": {
+    "lat": 47.4583015442,
+    "long": 15.3299999237,
+    "name": "Kapfenberg "
+  },
+  "LOGL": {
+    "lat": 47.5567016602,
+    "long": 15.3249998093,
+    "name": "Turnau "
+  },
+  "LOGM": {
+    "lat": 47.7882995605,
+    "long": 15.3016996384,
+    "name": "Mariazell "
+  },
+  "LOGO": {
+    "lat": 47.4782981873,
+    "long": 14.0082998276,
+    "name": "Niederoeblarn "
+  },
+  "LOGP": {
+    "lat": 47.3866844177,
+    "long": 16.1126728058,
+    "name": "Pinkafeld "
+  },
+  "LOGT": {
+    "lat": 47.3800010681,
+    "long": 14.9682998657,
+    "name": "Timmersdorf "
+  },
+  "LOGW": {
+    "lat": 47.1707992554,
+    "long": 15.6653003693,
+    "name": "Unterfladnitz "
+  },
+  "LOIH": {
+    "lat": 47.3849983215,
+    "long": 9.6999998093,
+    "name": "Hohenems-Dornbirn "
+  },
+  "LOIJ": {
+    "lat": 47.5200996399,
+    "long": 12.4497003555,
+    "name": "St. Johann In Tirol "
+  },
+  "LOIK": {
+    "lat": 47.5651168823,
+    "long": 12.1280698776,
+    "name": "Langkampfen "
+  },
+  "LOIR": {
+    "lat": 47.4700012207,
+    "long": 10.6916999817,
+    "name": "Hoefen "
+  },
+  "LOKF": {
+    "lat": 46.7089004517,
+    "long": 14.0771999359,
+    "name": "Ossiacher See "
+  },
+  "LOKG": {
+    "lat": 46.5332984924,
+    "long": 14.3332996368,
+    "name": "Glainach "
+  },
+  "LOKH": {
+    "lat": 46.9282989502,
+    "long": 14.4333000183,
+    "name": "Hirt "
+  },
+  "LOKL": {
+    "lat": 46.7988014221,
+    "long": 12.8767995834,
+    "name": "Nikolsdorf "
+  },
+  "LOKM": {
+    "lat": 46.9757995605,
+    "long": 14.3717002869,
+    "name": "Mayerhofen "
+  },
+  "LOKN": {
+    "lat": 46.5811004639,
+    "long": 13.6291999817,
+    "name": "Notsch Im Gailtal "
+  },
+  "LOKW": {
+    "lat": 46.8182983398,
+    "long": 14.8263998032,
+    "name": "Wolfsberg "
+  },
+  "LOLC": {
+    "lat": 47.898601532,
+    "long": 13.9393997192,
+    "name": "Scharnstein "
+  },
+  "LOLE": {
+    "lat": 48.3382987976,
+    "long": 13.9849996567,
+    "name": "Eferding "
+  },
+  "LOLF": {
+    "lat": 48.5149993896,
+    "long": 14.4083003998,
+    "name": "Freistadt "
+  },
+  "LOLG": {
+    "lat": 48.1035995483,
+    "long": 14.950799942,
+    "name": "St. Georgen Am Ybbsfelde "
+  },
+  "LOLH": {
+    "lat": 48.1399993896,
+    "long": 14.3382997513,
+    "name": "Hb Hofkirchen "
+  },
+  "LOLK": {
+    "lat": 48.2122001648,
+    "long": 13.345000267,
+    "name": "Kirchheim "
+  },
+  "LOLM": {
+    "lat": 47.8708000183,
+    "long": 14.125,
+    "name": "Micheldorf "
+  },
+  "LOLO": {
+    "lat": 48.2999992371,
+    "long": 14.3332996368,
+    "name": "Linz-Ost "
+  },
+  "LOLS": {
+    "lat": 48.403301239,
+    "long": 13.4483003616,
+    "name": "Schaerding-Suben "
+  },
+  "LOLT": {
+    "lat": 48.0499992371,
+    "long": 14.6519002914,
+    "name": "Seitenstetten "
+  },
+  "LOLU": {
+    "lat": 47.9516983032,
+    "long": 13.8667001724,
+    "name": "Gmunden-Laakirchen "
+  },
+  "LOLW": {
+    "lat": 48.1833000183,
+    "long": 14.0409002304,
+    "name": "Wels "
+  },
+  "LOSM": {
+    "lat": 47.1324996948,
+    "long": 13.6969003677,
+    "name": "Mauterndorf "
+  },
+  "LOWG": {
+    "lat": 46.9911003113,
+    "long": 15.4395999908,
+    "name": "Graz "
+  },
+  "LOWI": {
+    "lat": 47.2602005005,
+    "long": 11.3439998627,
+    "name": "Innsbruck "
+  },
+  "LOWK": {
+    "lat": 46.6425018311,
+    "long": 14.3376998901,
+    "name": "Klagenfurt "
+  },
+  "LOWL": {
+    "lat": 48.2332000732,
+    "long": 14.1875,
+    "name": "Linz "
+  },
+  "LOWS": {
+    "lat": 47.7933006287,
+    "long": 13.0043001175,
+    "name": "Salzburg "
+  },
+  "LOWW": {
+    "lat": 48.1102981567,
+    "long": 16.5697002411,
+    "name": "Vienna International "
+  },
+  "LOWZ": {
+    "lat": 47.2933006287,
+    "long": 12.7882995605,
+    "name": "Zell Am See "
+  },
+  "LOXN": {
+    "lat": 47.8400001526,
+    "long": 16.2217006683,
+    "name": "Wiener Neustadt West "
+  },
+  "LOXT": {
+    "lat": 48.3166999817,
+    "long": 16.1166992188,
+    "name": "Brumowski  Air Base"
+  },
+  "LOXZ": {
+    "lat": 47.2028007507,
+    "long": 14.7441997528,
+    "name": "Hinterstoisser Air Base"
+  }
+}

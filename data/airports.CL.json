@@ -1,0 +1,1832 @@
+{
+  "SC1A": {
+    "lat": -20.4270992279,
+    "long": -69.6415023804,
+    "name": "Canchones West "
+  },
+  "SC49": {
+    "lat": -20.7346992493,
+    "long": -69.6257019043,
+    "name": "Oficina Victoria "
+  },
+  "SCAA": {
+    "lat": -41.0427780151,
+    "long": -73.0475006104,
+    "name": "Anorada "
+  },
+  "SCAB": {
+    "lat": -33.6588897705,
+    "long": -71.2891693115,
+    "name": "El Alba "
+  },
+  "SCAC": {
+    "lat": -41.9039001465,
+    "long": -73.7966995239,
+    "name": "Pupelde "
+  },
+  "SCAD": {
+    "lat": -30.628610611,
+    "long": -71.2730560303,
+    "name": "Santa Adriana "
+  },
+  "SCAE": {
+    "lat": -18.5100002289,
+    "long": -70.2891998291,
+    "name": "El Buitre "
+  },
+  "SCAF": {
+    "lat": -34.0555992126,
+    "long": -71.2369003296,
+    "name": "San Alfonso "
+  },
+  "SCAG": {
+    "lat": -34.5514755847,
+    "long": -71.3358914852,
+    "name": "Agua Santa "
+  },
+  "SCAH": {
+    "lat": -42.4494018555,
+    "long": -73.5246963501,
+    "name": "Tolquien "
+  },
+  "SCAJ": {
+    "lat": -36.1452789307,
+    "long": -71.763053894,
+    "name": "Las Alpacas "
+  },
+  "SCAK": {
+    "lat": -36.9194450378,
+    "long": -71.5774993896,
+    "name": "Atacalco "
+  },
+  "SCAL": {
+    "lat": -47.115556,
+    "long": -72.480278,
+    "name": "Valchac "
+  },
+  "SCAM": {
+    "lat": -34.8650016785,
+    "long": -71.1019439697,
+    "name": "Alempue "
+  },
+  "SCAN": {
+    "lat": -32.814201355,
+    "long": -70.646697998,
+    "name": "San Rafael "
+  },
+  "SCAO": {
+    "lat": -34.7330551147,
+    "long": -71.7408370972,
+    "name": "Palo Alto "
+  },
+  "SCAP": {
+    "lat": -43.6119003296,
+    "long": -71.806098938,
+    "name": "Alto Palena "
+  },
+  "SCAQ": {
+    "lat": -40.198299408,
+    "long": -72.0291976929,
+    "name": "Arquilhue "
+  },
+  "SCAR": {
+    "lat": -18.3484992981,
+    "long": -70.3386993408,
+    "name": "Chacalluta "
+  },
+  "SCAS": {
+    "lat": -45.3992004395,
+    "long": -72.6703033447,
+    "name": "Cabo 1\u00b0 Juan Roman "
+  },
+  "SCAT": {
+    "lat": -27.2611999512,
+    "long": -70.7791976929,
+    "name": "Desierto de Atacama "
+  },
+  "SCAU": {
+    "lat": -33.8936004639,
+    "long": -70.885597229,
+    "name": "Juan Enrique "
+  },
+  "SCAV": {
+    "lat": -36.6102790833,
+    "long": -72.0383300781,
+    "name": "La Vertiente "
+  },
+  "SCAY": {
+    "lat": -42.3108329773,
+    "long": -72.7902755737,
+    "name": "Ayacara "
+  },
+  "SCAZ": {
+    "lat": -54.4797210693,
+    "long": -68.936668396,
+    "name": "Azopardo "
+  },
+  "SCBA": {
+    "lat": -45.9160995483,
+    "long": -71.6894989014,
+    "name": "Balmaceda "
+  },
+  "SCBB": {
+    "lat": -37.587222,
+    "long": -72.503611,
+    "name": "Del Bio Bio "
+  },
+  "SCBC": {
+    "lat": -44.2311096191,
+    "long": -71.8641662598,
+    "name": "Cacique Blanco "
+  },
+  "SCBD": {
+    "lat": -34.6844444275,
+    "long": -71.2061080933,
+    "name": "El Boldal "
+  },
+  "SCBE": {
+    "lat": -22.1410999298,
+    "long": -70.0628967285,
+    "name": "Barriles "
+  },
+  "SCBI": {
+    "lat": -54.0449981689,
+    "long": -68.8316650391,
+    "name": "Pampa Guanaco "
+  },
+  "SCBN": {
+    "lat": -40.4006004333,
+    "long": -72.6613998413,
+    "name": "Cotreumo "
+  },
+  "SCBQ": {
+    "lat": -33.5617980957,
+    "long": -70.6884002686,
+    "name": "El Bosque "
+  },
+  "SCBR": {
+    "lat": -47.3919448853,
+    "long": -72.3174972534,
+    "name": "Lago Brown "
+  },
+  "SCBS": {
+    "lat": -52.2999992371,
+    "long": -68.9333343506,
+    "name": "Posesion "
+  },
+  "SCBT": {
+    "lat": -42.0288887024,
+    "long": -72.0961074829,
+    "name": "Rincon Bonito "
+  },
+  "SCBU": {
+    "lat": -35.341435,
+    "long": -70.9108,
+    "name": "El Baul Airstrip"
+  },
+  "SCBV": {
+    "lat": -35.1897239685,
+    "long": -71.2966690063,
+    "name": "Bellavista "
+  },
+  "SCCA": {
+    "lat": -35.9713897705,
+    "long": -72.2249984741,
+    "name": "El Boldo "
+  },
+  "SCCB": {
+    "lat": -31.221944809,
+    "long": -71.070274353,
+    "name": "Pedro Villarroel C. "
+  },
+  "SCCC": {
+    "lat": -46.5833015442,
+    "long": -71.6874008179,
+    "name": "Chile Chico "
+  },
+  "SCCE": {
+    "lat": -35.896389,
+    "long": -72.055833,
+    "name": "El Arenal "
+  },
+  "SCCF": {
+    "lat": -22.4981994629,
+    "long": -68.9036026001,
+    "name": "El Loa "
+  },
+  "SCCG": {
+    "lat": -31.0638885498,
+    "long": -70.9544448853,
+    "name": "La Pelicana "
+  },
+  "SCCH": {
+    "lat": -36.5825004578,
+    "long": -72.0314025879,
+    "name": "Gral. Bernardo O\u00b4Higgins "
+  },
+  "SCCI": {
+    "lat": -53.0026016235,
+    "long": -70.854598999,
+    "name": "Pdte. Carlos Ibanez del Campo "
+  },
+  "SCCK": {
+    "lat": -41.8003044128,
+    "long": -72.7222366333,
+    "name": "Contao "
+  },
+  "SCCL": {
+    "lat": -27.0781002045,
+    "long": -70.7953033447,
+    "name": "Caldera "
+  },
+  "SCCM": {
+    "lat": -39.8250007629,
+    "long": -72.0824966431,
+    "name": "Molco "
+  },
+  "SCCN": {
+    "lat": -35.880279541,
+    "long": -72.3272247314,
+    "name": "Alto Cauquenes "
+  },
+  "SCCP": {
+    "lat": -40.6202774048,
+    "long": -72.8463897705,
+    "name": "Callipulli "
+  },
+  "SCCQ": {
+    "lat": -30.198889,
+    "long": -71.246944,
+    "name": "Tambillos "
+  },
+  "SCCR": {
+    "lat": -47.787776947,
+    "long": -73.5202789307,
+    "name": "Enrique Mayer Soto "
+  },
+  "SCCS": {
+    "lat": -33.2775001526,
+    "long": -71.4563903809,
+    "name": "Santa Rita "
+  },
+  "SCCT": {
+    "lat": -35.3086013794,
+    "long": -72.3927993774,
+    "name": "Quivolgo "
+  },
+  "SCCU": {
+    "lat": -38.1580543518,
+    "long": -71.4238891602,
+    "name": "Lolco "
+  },
+  "SCCV": {
+    "lat": -33.4127998352,
+    "long": -71.1656036377,
+    "name": "Curacavi "
+  },
+  "SCCY": {
+    "lat": -45.5942001343,
+    "long": -72.1061019897,
+    "name": "Teniente Vidal "
+  },
+  "SCDA": {
+    "lat": -20.535200119,
+    "long": -70.1812973022,
+    "name": "Diego Aracena "
+  },
+  "SCDD": {
+    "lat": -41.2347221375,
+    "long": -72.5149993896,
+    "name": "Don Dobri "
+  },
+  "SCDH": {
+    "lat": -42.4888877869,
+    "long": -72.3505554199,
+    "name": "Vodudahue "
+  },
+  "SCDI": {
+    "lat": -32.1430549622,
+    "long": -71.505279541,
+    "name": "Pichidangui "
+  },
+  "SCDL": {
+    "lat": -32.4719429016,
+    "long": -70.993057251,
+    "name": "El Algarrobo "
+  },
+  "SCDM": {
+    "lat": -34.8780555725,
+    "long": -72.1455535889,
+    "name": "San Damian "
+  },
+  "SCDQ": {
+    "lat": -37.5233345032,
+    "long": -71.7261123657,
+    "name": "San Lorenzo "
+  },
+  "SCDS": {
+    "lat": -36.0055541992,
+    "long": -71.7666702271,
+    "name": "San Andres "
+  },
+  "SCDW": {
+    "lat": -53.6106987,
+    "long": -70.4704971313,
+    "name": "Almirante Schroeders "
+  },
+  "SCEA": {
+    "lat": -43.006111145,
+    "long": -72.4783325195,
+    "name": "El Amarillo "
+  },
+  "SCEB": {
+    "lat": -47.1841659546,
+    "long": -71.9761123657,
+    "name": "Entrada Baker "
+  },
+  "SCEC": {
+    "lat": -29.1448993683,
+    "long": -70.887802124,
+    "name": "Pelicano "
+  },
+  "SCED": {
+    "lat": -35.1549987793,
+    "long": -71.5852813721,
+    "name": "Los Cedros "
+  },
+  "SCEG": {
+    "lat": -33.7099990845,
+    "long": -70.9130554199,
+    "name": "El Corte "
+  },
+  "SCEH": {
+    "lat": -37.6472206116,
+    "long": -71.7538909912,
+    "name": "El Huachi "
+  },
+  "SCEK": {
+    "lat": -34.7397232056,
+    "long": -71.32472229,
+    "name": "Chepica "
+  },
+  "SCEL": {
+    "lat": -33.3930015564,
+    "long": -70.7857971191,
+    "name": "Comodoro Arturo Merino Benitez International "
+  },
+  "SCEO": {
+    "lat": -36.130279541,
+    "long": -71.8574981689,
+    "name": "El Salto "
+  },
+  "SCEP": {
+    "lat": -33.7249984741,
+    "long": -70.5102996826,
+    "name": "El Principal "
+  },
+  "SCER": {
+    "lat": -32.7901992798,
+    "long": -71.521697998,
+    "name": "Quintero "
+  },
+  "SCES": {
+    "lat": -26.3111000061,
+    "long": -69.7651977539,
+    "name": "Ricardo Garcia Posada "
+  },
+  "SCET": {
+    "lat": -34.4755554199,
+    "long": -71.0141677856,
+    "name": "El Tambo "
+  },
+  "SCEV": {
+    "lat": -41.1170005798,
+    "long": -73.0500030518,
+    "name": "El Avellano "
+  },
+  "SCEX": {
+    "lat": -46.353611,
+    "long": -73.327778,
+    "name": "Rio Exploradores "
+  },
+  "SCEY": {
+    "lat": -48.2014517431,
+    "long": -72.3275899887,
+    "name": "Entrada Mayer "
+  },
+  "SCFA": {
+    "lat": -23.4444999695,
+    "long": -70.445098877,
+    "name": "Cerro Moreno "
+  },
+  "SCFC": {
+    "lat": -46.551109314,
+    "long": -72.2180557251,
+    "name": "Fachinal "
+  },
+  "SCFF": {
+    "lat": -28.5263881683,
+    "long": -71.0619430542,
+    "name": "Freirina "
+  },
+  "SCFI": {
+    "lat": -41.0950012207,
+    "long": -73.126663208,
+    "name": "Fundo Tehuen "
+  },
+  "SCFJ": {
+    "lat": -30.6800003052,
+    "long": -71.5786132813,
+    "name": "Fray Jorge "
+  },
+  "SCFK": {
+    "lat": -36.6413879395,
+    "long": -72.0166702271,
+    "name": "Fundo El Carmen "
+  },
+  "SCFL": {
+    "lat": -33.2799987793,
+    "long": -71.3792037964,
+    "name": "Fundo Loma Larga "
+  },
+  "SCFM": {
+    "lat": -53.2537002563,
+    "long": -70.3191986084,
+    "name": "Capitan Fuentes Martinez  "
+  },
+  "SCFN": {
+    "lat": -53.7999992371,
+    "long": -69.266998291,
+    "name": "Russfin "
+  },
+  "SCFO": {
+    "lat": -35.4580574036,
+    "long": -71.2811126709,
+    "name": "La Reforma "
+  },
+  "SCFR": {
+    "lat": -41.1308326721,
+    "long": -73.0647201538,
+    "name": "Frutillar "
+  },
+  "SCFS": {
+    "lat": -42.6788902283,
+    "long": -73.8966674805,
+    "name": "Los Calafates "
+  },
+  "SCFT": {
+    "lat": -43.189201355,
+    "long": -71.8510971069,
+    "name": "Futaleufu "
+  },
+  "SCFU": {
+    "lat": -40.0663986206,
+    "long": -72.5378036499,
+    "name": "Loncopan "
+  },
+  "SCFX": {
+    "lat": -26.2938995361,
+    "long": -80.0961990356,
+    "name": "Isla San Felix "
+  },
+  "SCGA": {
+    "lat": -40.0018997192,
+    "long": -73.6964035034,
+    "name": "Punta Galera "
+  },
+  "SCGB": {
+    "lat": -37.9777793884,
+    "long": -72.9294433594,
+    "name": "Guadaba "
+  },
+  "SCGE": {
+    "lat": -37.4016990662,
+    "long": -72.4253997803,
+    "name": "Maria Dolores "
+  },
+  "SCGF": {
+    "lat": -40.140833,
+    "long": -72.283611,
+    "name": "Golfo Azul "
+  },
+  "SCGH": {
+    "lat": -37.4697227478,
+    "long": -72.1386108398,
+    "name": "Cholguahue "
+  },
+  "SCGI": {
+    "lat": -36.0011100769,
+    "long": -71.8294448853,
+    "name": "San Guillermo "
+  },
+  "SCGL": {
+    "lat": -34.1691665649,
+    "long": -71.5311126709,
+    "name": "Las Aguilas "
+  },
+  "SCGM": {
+    "lat": -34.3611106873,
+    "long": -70.881942749,
+    "name": "Los Gomeros "
+  },
+  "SCGN": {
+    "lat": -42.5636100769,
+    "long": -72.5997238159,
+    "name": "Caleta Gonzalo "
+  },
+  "SCGO": {
+    "lat": -37.7947006226,
+    "long": -72.6872024536,
+    "name": "Los Confines "
+  },
+  "SCGP": {
+    "lat": -39.5306015015,
+    "long": -72.3499984741,
+    "name": "Curaco "
+  },
+  "SCGS": {
+    "lat": -37.1772232056,
+    "long": -72.0797195435,
+    "name": "Siberia "
+  },
+  "SCGU": {
+    "lat": -24.1364002228,
+    "long": -69.8285980225,
+    "name": "Aguas Blancas "
+  },
+  "SCGV": {
+    "lat": -29.084444,
+    "long": -71.467222,
+    "name": "Punta Gaviota "
+  },
+  "SCGY": {
+    "lat": -39.0530548096,
+    "long": -71.9936141968,
+    "name": "Los Guayes "
+  },
+  "SCGZ": {
+    "lat": -54.931098938,
+    "long": -67.6262969971,
+    "name": "Guardiamarina Zanartu "
+  },
+  "SCHA": {
+    "lat": -27.2968997955,
+    "long": -70.4131011963,
+    "name": "Chamonate "
+  },
+  "SCHC": {
+    "lat": -33.2677764893,
+    "long": -70.6472244263,
+    "name": "Chicureo "
+  },
+  "SCHD": {
+    "lat": -42.5244445801,
+    "long": -72.816947937,
+    "name": "Chumilden "
+  },
+  "SCHE": {
+    "lat": -37.19972229,
+    "long": -71.8966674805,
+    "name": "Rucamanqui "
+  },
+  "SCHG": {
+    "lat": -34.3986129761,
+    "long": -71.3711090088,
+    "name": "Almahue "
+  },
+  "SCHH": {
+    "lat": -46.7936096191,
+    "long": -72.7952804565,
+    "name": "Punta Baja "
+  },
+  "SCHK": {
+    "lat": -40.1585998535,
+    "long": -73.6544036865,
+    "name": "Hueicolla "
+  },
+  "SCHL": {
+    "lat": -33.3352775574,
+    "long": -70.9111099243,
+    "name": "Hacienda Lipangue "
+  },
+  "SCHM": {
+    "lat": -38.4099998474,
+    "long": -73.9008331299,
+    "name": "Punta El Saco "
+  },
+  "SCHN": {
+    "lat": -39.8657989502,
+    "long": -72.131401062,
+    "name": "Chan Chan "
+  },
+  "SCHO": {
+    "lat": -31.8827781677,
+    "long": -71.4763870239,
+    "name": "Punta Chungo "
+  },
+  "SCHP": {
+    "lat": -36.0774993896,
+    "long": -71.7797241211,
+    "name": "Copihue "
+  },
+  "SCHR": {
+    "lat": -47.2438011169,
+    "long": -72.5884017944,
+    "name": "Cochrane "
+  },
+  "SCHT": {
+    "lat": -43.6130561829,
+    "long": -72.8974990845,
+    "name": "Tic Toc "
+  },
+  "SCHU": {
+    "lat": -28.0988883972,
+    "long": -71.1466674805,
+    "name": "Gran Canon "
+  },
+  "SCHW": {
+    "lat": -42.0286102295,
+    "long": -72.6894454956,
+    "name": "Hualaihue "
+  },
+  "SCIA": {
+    "lat": -42.5997238159,
+    "long": -73.2122192383,
+    "name": "Isla Apiao "
+  },
+  "SCIB": {
+    "lat": -42.3083343506,
+    "long": -73.1422195435,
+    "name": "Butachauques "
+  },
+  "SCIC": {
+    "lat": -34.9666671753,
+    "long": -71.2163925171,
+    "name": "General Freire "
+  },
+  "SCID": {
+    "lat": -52.8736114502,
+    "long": -70.75,
+    "name": "Marco Davison Bascur "
+  },
+  "SCIE": {
+    "lat": -36.7727012634,
+    "long": -73.0631027222,
+    "name": "Carriel Sur "
+  },
+  "SCIF": {
+    "lat": -40.2057991028,
+    "long": -72.2313995361,
+    "name": "Chollinco "
+  },
+  "SCIH": {
+    "lat": -45.1477775574,
+    "long": -73.5086135864,
+    "name": "Caleta Blanco "
+  },
+  "SCII": {
+    "lat": -46.2858314514,
+    "long": -71.9477767944,
+    "name": "Puerto Ingeniero Ibanez "
+  },
+  "SCIK": {
+    "lat": -42.7466659546,
+    "long": -72.9705581665,
+    "name": "Isla Talcan "
+  },
+  "SCIL": {
+    "lat": -31.5778007507,
+    "long": -71.1108016968,
+    "name": "Auco "
+  },
+  "SCIM": {
+    "lat": -38.3849983215,
+    "long": -73.8688964844,
+    "name": "Isla Mocha "
+  },
+  "SCIO": {
+    "lat": -48.9335784912,
+    "long": -72.7996139526,
+    "name": "Laguna Redonda "
+  },
+  "SCIP": {
+    "lat": -27.1648006439,
+    "long": -109.42199707,
+    "name": "Mataveri "
+  },
+  "SCIR": {
+    "lat": -33.6650009155,
+    "long": -78.9297027588,
+    "name": "Robinson Crusoe "
+  },
+  "SCIS": {
+    "lat": -37.0261116028,
+    "long": -73.506942749,
+    "name": "Puerto Sur "
+  },
+  "SCIT": {
+    "lat": -52.9550018311,
+    "long": -70.0327987671,
+    "name": "Ivan Martinez "
+  },
+  "SCIV": {
+    "lat": -35.7569007874,
+    "long": -71.4041976929,
+    "name": "Panimavida "
+  },
+  "SCJC": {
+    "lat": -36.581111908,
+    "long": -72.7733306885,
+    "name": "James Conrad "
+  },
+  "SCJK": {
+    "lat": -40.8844451904,
+    "long": -72.368888855,
+    "name": "Juan Kemp "
+  },
+  "SCJO": {
+    "lat": -40.6111984253,
+    "long": -73.0609970093,
+    "name": "Canal Bajo Carlos - Hott Siebert "
+  },
+  "SCJV": {
+    "lat": -35.5480537415,
+    "long": -71.7761077881,
+    "name": "El Parron "
+  },
+  "SCKA": {
+    "lat": -36.493057251,
+    "long": -71.8969421387,
+    "name": "Santa Marta "
+  },
+  "SCKB": {
+    "lat": -39.0574989319,
+    "long": -71.6897201538,
+    "name": "Llollenorte "
+  },
+  "SCKC": {
+    "lat": -38.9069442749,
+    "long": -72.2152786255,
+    "name": "Roberto Chavez "
+  },
+  "SCKD": {
+    "lat": -40.4678001404,
+    "long": -72.6849975586,
+    "name": "El Cardal "
+  },
+  "SCKE": {
+    "lat": -35.8544425964,
+    "long": -72.6458358765,
+    "name": "Piedra Negra "
+  },
+  "SCKI": {
+    "lat": -34.9038887024,
+    "long": -71.201385498,
+    "name": "Los Lirios "
+  },
+  "SCKK": {
+    "lat": -35.3849983215,
+    "long": -71.1066665649,
+    "name": "La Cascada "
+  },
+  "SCKL": {
+    "lat": -33.331111908,
+    "long": -70.8499984741,
+    "name": "Lipangui "
+  },
+  "SCKM": {
+    "lat": -41.4833335876,
+    "long": -72.3000030518,
+    "name": "Cochamo "
+  },
+  "SCKN": {
+    "lat": -34.9891662598,
+    "long": -72.0188903809,
+    "name": "Licancel "
+  },
+  "SCKO": {
+    "lat": -37.993888855,
+    "long": -72.249168396,
+    "name": "Agua Buena "
+  },
+  "SCKP": {
+    "lat": -20.7504997253,
+    "long": -68.6835021973,
+    "name": "Coposa "
+  },
+  "SCKQ": {
+    "lat": -39.3269462585,
+    "long": -72.0272216797,
+    "name": "Curimanque "
+  },
+  "SCKT": {
+    "lat": -36.4988899231,
+    "long": -72.6800003052,
+    "name": "Torreon "
+  },
+  "SCLA": {
+    "lat": -38.5427780151,
+    "long": -72.4547195435,
+    "name": "General Tovarias "
+  },
+  "SCLB": {
+    "lat": -37.6580543518,
+    "long": -73.629447937,
+    "name": "Los Pehuenches "
+  },
+  "SCLC": {
+    "lat": -33.3807983398,
+    "long": -70.5821990967,
+    "name": "Municipal de Vitacura "
+  },
+  "SCLD": {
+    "lat": -41.8666992188,
+    "long": -71.9344024658,
+    "name": "Llanada Grande "
+  },
+  "SCLE": {
+    "lat": -24.2947006226,
+    "long": -69.1316986084,
+    "name": "La Escondida "
+  },
+  "SCLF": {
+    "lat": -40.2442016602,
+    "long": -72.2369003296,
+    "name": "Calcurrupe "
+  },
+  "SCLG": {
+    "lat": -35.3427772522,
+    "long": -71.7769470215,
+    "name": "La Aguada "
+  },
+  "SCLI": {
+    "lat": -34.7833328247,
+    "long": -72.0508346558,
+    "name": "Torca "
+  },
+  "SCLJ": {
+    "lat": -43.975276947,
+    "long": -72.4130554199,
+    "name": "La Junta "
+  },
+  "SCLK": {
+    "lat": -39.0574989319,
+    "long": -72.0741653442,
+    "name": "Lago Colico "
+  },
+  "SCLL": {
+    "lat": -28.5963993073,
+    "long": -70.7559967041,
+    "name": "Vallenar "
+  },
+  "SCLM": {
+    "lat": -35.5,
+    "long": -71.8808364868,
+    "name": "Las Mercedes "
+  },
+  "SCLN": {
+    "lat": -35.8616981506,
+    "long": -71.5485992432,
+    "name": "Municipal de Linares "
+  },
+  "SCLO": {
+    "lat": -46.7655563354,
+    "long": -72.8183364868,
+    "name": "Leones "
+  },
+  "SCLP": {
+    "lat": -35.2155570984,
+    "long": -71.1086120605,
+    "name": "Los Petiles "
+  },
+  "SCLQ": {
+    "lat": -32.4524993896,
+    "long": -71.2588882446,
+    "name": "Diego Portales "
+  },
+  "SCLR": {
+    "lat": -42.7805557251,
+    "long": -72.6447219849,
+    "name": "Los Alerces "
+  },
+  "SCLS": {
+    "lat": -38.5488891602,
+    "long": -72.1458358765,
+    "name": "Esperanza "
+  },
+  "SCLU": {
+    "lat": -34.3525009155,
+    "long": -71.6638870239,
+    "name": "La Laguna "
+  },
+  "SCLV": {
+    "lat": -32.138053894,
+    "long": -71.3980560303,
+    "name": "La Vina "
+  },
+  "SCLY": {
+    "lat": -37.2163887024,
+    "long": -73.2330551147,
+    "name": "La Playa "
+  },
+  "SCMA": {
+    "lat": -43.7863883972,
+    "long": -72.9502792358,
+    "name": "Puerto Marin Balmaceda "
+  },
+  "SCMC": {
+    "lat": -46.7455558777,
+    "long": -72.5261077881,
+    "name": "Meseta Cosmelli "
+  },
+  "SCME": {
+    "lat": -33.676109314,
+    "long": -71.1433334351,
+    "name": "Los Cuatro Diablos "
+  },
+  "SCMF": {
+    "lat": -39.2558326721,
+    "long": -72.3433303833,
+    "name": "Malloco "
+  },
+  "SCMG": {
+    "lat": -35.5705566406,
+    "long": -72.0038909912,
+    "name": "Santa Maria de Mingre "
+  },
+  "SCMH": {
+    "lat": -34.2872238159,
+    "long": -71.5583343506,
+    "name": "La Esperanza "
+  },
+  "SCMI": {
+    "lat": -30.7374992371,
+    "long": -70.8597259521,
+    "name": "Los Tricahues "
+  },
+  "SCMK": {
+    "lat": -43.8950004578,
+    "long": -73.7388916016,
+    "name": "Melinka "
+  },
+  "SCML": {
+    "lat": -38.856111,
+    "long": -71.8125,
+    "name": "Melipeuco "
+  },
+  "SCMO": {
+    "lat": -35.1902770996,
+    "long": -71.4186096191,
+    "name": "Los Monos "
+  },
+  "SCMP": {
+    "lat": -33.6738891602,
+    "long": -71.193611145,
+    "name": "Melipilla "
+  },
+  "SCMR": {
+    "lat": -34.169167,
+    "long": -71.531111,
+    "name": "Las Aguilas Oriente "
+  },
+  "SCMS": {
+    "lat": -36.010278,
+    "long": -71.594444,
+    "name": "Las Moras "
+  },
+  "SCMU": {
+    "lat": -34.2811126709,
+    "long": -71.9469451904,
+    "name": "Panilonco "
+  },
+  "SCMV": {
+    "lat": -35.1058349609,
+    "long": -71.3277740479,
+    "name": "Vina San Pedro "
+  },
+  "SCMY": {
+    "lat": -22.7036113739,
+    "long": -70.2825012207,
+    "name": "Carolina "
+  },
+  "SCMZ": {
+    "lat": -34.1516685486,
+    "long": -71.4458312988,
+    "name": "Marina de Rapel "
+  },
+  "SCNA": {
+    "lat": -35.976389,
+    "long": -71.597222,
+    "name": "Fundo La Cana "
+  },
+  "SCND": {
+    "lat": -47.4730567932,
+    "long": -72.9519424438,
+    "name": "Nadis "
+  },
+  "SCNE": {
+    "lat": -22.3072223663,
+    "long": -69.7050018311,
+    "name": "Maria Elena "
+  },
+  "SCNG": {
+    "lat": -39.5505981445,
+    "long": -72.2902984619,
+    "name": "Papageno "
+  },
+  "SCNH": {
+    "lat": -38.683333,
+    "long": -72.243889,
+    "name": "Ainhoa "
+  },
+  "SCNI": {
+    "lat": -36.4344444275,
+    "long": -72.1569442749,
+    "name": "Santa Eugenia "
+  },
+  "SCNK": {
+    "lat": -31.8730564117,
+    "long": -70.6183319092,
+    "name": "Los Pelambres "
+  },
+  "SCNM": {
+    "lat": -37.7761116028,
+    "long": -73.3836135864,
+    "name": "Las Misiones "
+  },
+  "SCNO": {
+    "lat": -40.892868042,
+    "long": -72.8799972534,
+    "name": "Nochaco "
+  },
+  "SCNR": {
+    "lat": -34.3202781677,
+    "long": -70.9202804565,
+    "name": "Fundo Naicura "
+  },
+  "SCNS": {
+    "lat": -52.3961105347,
+    "long": -69.756942749,
+    "name": "Sandra Scabini "
+  },
+  "SCNT": {
+    "lat": -51.6715011597,
+    "long": -72.5283966064,
+    "name": "Tte. Julio Gallardo "
+  },
+  "SCNY": {
+    "lat": -54.8313903809,
+    "long": -68.8316650391,
+    "name": "Yendegaia "
+  },
+  "SCOA": {
+    "lat": -30.7894439697,
+    "long": -71.6183319092,
+    "name": "Estancia Los Loros "
+  },
+  "SCOB": {
+    "lat": -30.643333,
+    "long": -71.401944,
+    "name": "Tabali Bajo "
+  },
+  "SCOC": {
+    "lat": -40.993057251,
+    "long": -72.6597213745,
+    "name": "Las Araucarias "
+  },
+  "SCOE": {
+    "lat": -34.962223053,
+    "long": -71.0163879395,
+    "name": "San Miguel "
+  },
+  "SCOH": {
+    "lat": -48.4692115784,
+    "long": -72.5643157959,
+    "name": "Villa O'Higgins "
+  },
+  "SCOI": {
+    "lat": -34.912778,
+    "long": -71.660833,
+    "name": "Los Coipos "
+  },
+  "SCOL": {
+    "lat": -40.6894454956,
+    "long": -72.3455581665,
+    "name": "Refugio del Lago "
+  },
+  "SCOM": {
+    "lat": -32.9975013733,
+    "long": -71.1722259521,
+    "name": "Olmue "
+  },
+  "SCON": {
+    "lat": -43.1366996765,
+    "long": -73.6350021362,
+    "name": "Quellon "
+  },
+  "SCOO": {
+    "lat": -44.0975,
+    "long": -73.096944,
+    "name": "Melimoyu "
+  },
+  "SCOP": {
+    "lat": -40.5691680908,
+    "long": -73.1299972534,
+    "name": "Pilauco "
+  },
+  "SCOS": {
+    "lat": -40.5471992493,
+    "long": -73.1556015015,
+    "name": "Osorno Pampa Ale "
+  },
+  "SCOT": {
+    "lat": -30.6765003204,
+    "long": -71.4010009766,
+    "name": "Santa Rosa de Tabali "
+  },
+  "SCOV": {
+    "lat": -30.5592002869,
+    "long": -71.1755981445,
+    "name": "El Tuqui "
+  },
+  "SCOY": {
+    "lat": -30.4305553436,
+    "long": -71.5322189331,
+    "name": "Huayanay "
+  },
+  "SCPA": {
+    "lat": -24.6394004822,
+    "long": -70.3488998413,
+    "name": "Paranal "
+  },
+  "SCPB": {
+    "lat": -41.6622238159,
+    "long": -72.3022232056,
+    "name": "Puelo Bajo "
+  },
+  "SCPC": {
+    "lat": -39.2928009033,
+    "long": -71.9159011841,
+    "name": "Pucon "
+  },
+  "SCPE": {
+    "lat": -22.9216995239,
+    "long": -68.1584014893,
+    "name": "San Pedro de Atacama "
+  },
+  "SCPF": {
+    "lat": -41.4577789307,
+    "long": -72.9186096191,
+    "name": "Marcel Marchant "
+  },
+  "SCPG": {
+    "lat": -39.653301239,
+    "long": -72.3602981567,
+    "name": "Municipal de Panguipulli "
+  },
+  "SCPH": {
+    "lat": -44.3856010437,
+    "long": -72.5942001343,
+    "name": "Puyuhuapi "
+  },
+  "SCPI": {
+    "lat": -36.586667,
+    "long": -71.807778,
+    "name": "Pullami "
+  },
+  "SCPK": {
+    "lat": -44.7458343506,
+    "long": -72.700553894,
+    "name": "Puerto Cisnes "
+  },
+  "SCPL": {
+    "lat": -40.1288986206,
+    "long": -72.6616973877,
+    "name": "Calpulli "
+  },
+  "SCPM": {
+    "lat": -34.3941650391,
+    "long": -72.0191650391,
+    "name": "Pichilemu "
+  },
+  "SCPN": {
+    "lat": -42.5461120605,
+    "long": -72.4941635132,
+    "name": "Pillan "
+  },
+  "SCPO": {
+    "lat": -34.3280563354,
+    "long": -70.9641647339,
+    "name": "Los Paltos "
+  },
+  "SCPP": {
+    "lat": -37.8488883972,
+    "long": -72.0083312988,
+    "name": "Poco a Poco "
+  },
+  "SCPQ": {
+    "lat": -42.340278,
+    "long": -73.715556,
+    "name": "Mocopulli "
+  },
+  "SCPR": {
+    "lat": -40.9433326721,
+    "long": -73.1699981689,
+    "name": "Corte Alto "
+  },
+  "SCPS": {
+    "lat": -27.3516674042,
+    "long": -70.5894470215,
+    "name": "Perales "
+  },
+  "SCPT": {
+    "lat": -34.613056,
+    "long": -71.375833,
+    "name": "La Puerta "
+  },
+  "SCPU": {
+    "lat": -41.0541648865,
+    "long": -72.0083312988,
+    "name": "Peulla "
+  },
+  "SCPV": {
+    "lat": -41.3493995667,
+    "long": -72.9467010498,
+    "name": "El Mirador "
+  },
+  "SCPW": {
+    "lat": -34.4088897705,
+    "long": -71.1688919067,
+    "name": "Peumo "
+  },
+  "SCPX": {
+    "lat": -52.5916671753,
+    "long": -68.75,
+    "name": "Punta Catalina "
+  },
+  "SCPY": {
+    "lat": -51.26222229,
+    "long": -72.3375015259,
+    "name": "Cerro Castillo "
+  },
+  "SCQC": {
+    "lat": -38.3330574036,
+    "long": -72.5869445801,
+    "name": "La Colmena "
+  },
+  "SCQE": {
+    "lat": -42.4672241211,
+    "long": -73.3358306885,
+    "name": "Quenac "
+  },
+  "SCQI": {
+    "lat": -38.7497215271,
+    "long": -71.2177810669,
+    "name": "Icalma "
+  },
+  "SCQK": {
+    "lat": -38.3516654968,
+    "long": -73.488609314,
+    "name": "Lequecahue "
+  },
+  "SCQL": {
+    "lat": -32.8511123657,
+    "long": -71.2463912964,
+    "name": "El Boco "
+  },
+  "SCQM": {
+    "lat": -40.6383323669,
+    "long": -73.1275024414,
+    "name": "Las Quemas "
+  },
+  "SCQO": {
+    "lat": -45.580556,
+    "long": -73.225556,
+    "name": "Quitralco "
+  },
+  "SCQR": {
+    "lat": -36.1344451904,
+    "long": -72.8044433594,
+    "name": "Los Morros "
+  },
+  "SCQT": {
+    "lat": -30.0963993073,
+    "long": -71.3640975952,
+    "name": "LasTacas "
+  },
+  "SCQW": {
+    "lat": -42.1527786255,
+    "long": -73.5169448853,
+    "name": "Quemchi "
+  },
+  "SCQX": {
+    "lat": -42.8930549622,
+    "long": -73.4763870239,
+    "name": "Queilen "
+  },
+  "SCQY": {
+    "lat": -38.4499015808,
+    "long": -71.3547973633,
+    "name": "Villa Portales "
+  },
+  "SCRA": {
+    "lat": -26.3325004578,
+    "long": -70.6072998047,
+    "name": "Chanaral "
+  },
+  "SCRB": {
+    "lat": -47.9858322144,
+    "long": -73.138885498,
+    "name": "Rio Bravo "
+  },
+  "SCRC": {
+    "lat": -44.6263885498,
+    "long": -71.638885498,
+    "name": "Villa Tapera "
+  },
+  "SCRD": {
+    "lat": -33.0680999756,
+    "long": -71.5575027466,
+    "name": "Rodelillo "
+  },
+  "SCRE": {
+    "lat": -44.5,
+    "long": -71.3216629028,
+    "name": "Estancia Rio Cisnes "
+  },
+  "SCRF": {
+    "lat": -46.6388893127,
+    "long": -73.8499984741,
+    "name": "Laguna San Rafael "
+  },
+  "SCRG": {
+    "lat": -34.1736984253,
+    "long": -70.7757034302,
+    "name": "De La Independencia "
+  },
+  "SCRH": {
+    "lat": -42.5855560303,
+    "long": -72.4944458008,
+    "name": "Renihue "
+  },
+  "SCRI": {
+    "lat": -41.7333335876,
+    "long": -71.9666671753,
+    "name": "Rio Frio "
+  },
+  "SCRL": {
+    "lat": -34.2011108398,
+    "long": -71.4816665649,
+    "name": "La Estrella "
+  },
+  "SCRN": {
+    "lat": -41.962223053,
+    "long": -72.4538879395,
+    "name": "Rio Negro "
+  },
+  "SCRO": {
+    "lat": -34.9588890076,
+    "long": -71.1827774048,
+    "name": "Santa Barbara "
+  },
+  "SCRP": {
+    "lat": -34.1058006287,
+    "long": -71.512802124,
+    "name": "Rapelhuapi "
+  },
+  "SCRQ": {
+    "lat": -40.521900177,
+    "long": -72.7727966309,
+    "name": "Rucananco "
+  },
+  "SCRR": {
+    "lat": -40.365278,
+    "long": -72.776667,
+    "name": "Purrahuin "
+  },
+  "SCRS": {
+    "lat": -33.488889,
+    "long": -71.405556,
+    "name": "El Rosario "
+  },
+  "SCRT": {
+    "lat": -35.9605560303,
+    "long": -71.7933349609,
+    "name": "El Almendro "
+  },
+  "SCRU": {
+    "lat": -46.4533348083,
+    "long": -72.688331604,
+    "name": "Rio Murta "
+  },
+  "SCRV": {
+    "lat": -38.611389,
+    "long": -72.128889,
+    "name": "La Veronica "
+  },
+  "SCRW": {
+    "lat": -34.5486106873,
+    "long": -72.0452804565,
+    "name": "Rucalonco "
+  },
+  "SCRZ": {
+    "lat": -34.443333,
+    "long": -71.706111,
+    "name": "El Carrizal "
+  },
+  "SCSA": {
+    "lat": -33.0286102295,
+    "long": -70.8799972534,
+    "name": "Alberto Santos Dumont "
+  },
+  "SCSB": {
+    "lat": -52.7366981506,
+    "long": -69.3336029053,
+    "name": "Franco Bianco "
+  },
+  "SCSD": {
+    "lat": -34.5657997131,
+    "long": -70.9682998657,
+    "name": "San Fernando "
+  },
+  "SCSE": {
+    "lat": -29.9162006378,
+    "long": -71.1995010376,
+    "name": "La Florida "
+  },
+  "SCSF": {
+    "lat": -32.7458000183,
+    "long": -70.7050018311,
+    "name": "Victor Lafon "
+  },
+  "SCSG": {
+    "lat": -33.3532981873,
+    "long": -71.6260986328,
+    "name": "San Geronimo "
+  },
+  "SCSH": {
+    "lat": -39.0627784729,
+    "long": -73.1699981689,
+    "name": "El Budi "
+  },
+  "SCSJ": {
+    "lat": -35.6297225952,
+    "long": -71.69972229,
+    "name": "San Javier "
+  },
+  "SCSK": {
+    "lat": -35.6630554199,
+    "long": -71.3036117554,
+    "name": "Colorado "
+  },
+  "SCSL": {
+    "lat": -23.6488990784,
+    "long": -68.3050003052,
+    "name": "El Salar "
+  },
+  "SCSM": {
+    "lat": -23.5852775574,
+    "long": -68.382774353,
+    "name": "Minsal "
+  },
+  "SCSN": {
+    "lat": -33.6563987732,
+    "long": -71.614402771,
+    "name": "Santo Domingo "
+  },
+  "SCSO": {
+    "lat": -34.1208343506,
+    "long": -71.5272216797,
+    "name": "Costa del Sol "
+  },
+  "SCSP": {
+    "lat": -32.223611,
+    "long": -70.8,
+    "name": "El Sobrante "
+  },
+  "SCSQ": {
+    "lat": -40.3411102295,
+    "long": -73.3172225952,
+    "name": "Quilpe "
+  },
+  "SCSR": {
+    "lat": -42.0833320618,
+    "long": -71.8638916016,
+    "name": "Segundo Corral Alto "
+  },
+  "SCSS": {
+    "lat": -53.3170013428,
+    "long": -68.6500015259,
+    "name": "San Sebastian "
+  },
+  "SCST": {
+    "lat": -42.4902992249,
+    "long": -73.7727966309,
+    "name": "Gamboa "
+  },
+  "SCSU": {
+    "lat": -38.9191665649,
+    "long": -72.3666687012,
+    "name": "Santa Lucia "
+  },
+  "SCSV": {
+    "lat": -34.448890686,
+    "long": -71.3858337402,
+    "name": "Vinasutil "
+  },
+  "SCSZ": {
+    "lat": -46.5999984741,
+    "long": -72.6166687012,
+    "name": "Puerto Sanchez "
+  },
+  "SCTA": {
+    "lat": -37.743889,
+    "long": -71.71,
+    "name": "Santa Luisa "
+  },
+  "SCTB": {
+    "lat": -33.4562988281,
+    "long": -70.5466995239,
+    "name": "Eulogio Sanchez "
+  },
+  "SCTC": {
+    "lat": -38.7667999268,
+    "long": -72.6371002197,
+    "name": "Maquehue "
+  },
+  "SCTE": {
+    "lat": -41.4388999939,
+    "long": -73.09400177,
+    "name": "El Tepual "
+  },
+  "SCTG": {
+    "lat": -30.2663879395,
+    "long": -71.4836120605,
+    "name": "Tongoy "
+  },
+  "SCTH": {
+    "lat": -52.525278,
+    "long": -70.723889,
+    "name": "Tres Chorrillos "
+  },
+  "SCTL": {
+    "lat": -35.3777999878,
+    "long": -71.6016998291,
+    "name": "Panguilemo "
+  },
+  "SCTM": {
+    "lat": -34.9702758789,
+    "long": -70.8463897705,
+    "name": "La Montana "
+  },
+  "SCTN": {
+    "lat": -42.932800293,
+    "long": -72.6990966797,
+    "name": "Chaiten "
+  },
+  "SCTO": {
+    "lat": -38.2456016541,
+    "long": -72.3486022949,
+    "name": "Victoria "
+  },
+  "SCTP": {
+    "lat": -48.2277793884,
+    "long": -73.2977752686,
+    "name": "Rio Pascua "
+  },
+  "SCTQ": {
+    "lat": -29.2527999878,
+    "long": -70.0888977051,
+    "name": "Tres Quebradas "
+  },
+  "SCTR": {
+    "lat": -38.2713890076,
+    "long": -72.6624984741,
+    "name": "Traiguen "
+  },
+  "SCTS": {
+    "lat": -33.575553894,
+    "long": -71.2608337402,
+    "name": "Santa Teresa del Almendral "
+  },
+  "SCTT": {
+    "lat": -25.5643005371,
+    "long": -70.3759002686,
+    "name": "Las Breas "
+  },
+  "SCTU": {
+    "lat": -34.1105537415,
+    "long": -71.7158355713,
+    "name": "Litueche "
+  },
+  "SCTW": {
+    "lat": -33.3202781677,
+    "long": -71.3361129761,
+    "name": "El Tapihue "
+  },
+  "SCUI": {
+    "lat": -42.6958351135,
+    "long": -72.8333358765,
+    "name": "Pumalin "
+  },
+  "SCUL": {
+    "lat": -36.7936096191,
+    "long": -72.4208297729,
+    "name": "El Litral "
+  },
+  "SCUM": {
+    "lat": -35.3005561829,
+    "long": -71.3302764893,
+    "name": "La Obra "
+  },
+  "SCUN": {
+    "lat": -34.8130569458,
+    "long": -71.0461120605,
+    "name": "Uni Frutti "
+  },
+  "SCUP": {
+    "lat": -35.2822227478,
+    "long": -71.2363891602,
+    "name": "Lontuecito "
+  },
+  "SCUR": {
+    "lat": -36.8119430542,
+    "long": -72.1672210693,
+    "name": "Rucamalen "
+  },
+  "SCUT": {
+    "lat": -36.2125015259,
+    "long": -71.5444412231,
+    "name": "Verfrut Sur "
+  },
+  "SCUZ": {
+    "lat": -34.6491661072,
+    "long": -71.3861083984,
+    "name": "Aerosanta Cruz "
+  },
+  "SCVA": {
+    "lat": -33.3569450378,
+    "long": -71.3541641235,
+    "name": "Vinamar "
+  },
+  "SCVB": {
+    "lat": -36.4002761841,
+    "long": -71.563331604,
+    "name": "Hospital Villa Baviera "
+  },
+  "SCVC": {
+    "lat": -29.834444046,
+    "long": -70.0461120605,
+    "name": "El Indio "
+  },
+  "SCVD": {
+    "lat": -39.6500015259,
+    "long": -73.0860977173,
+    "name": "Pichoy "
+  },
+  "SCVE": {
+    "lat": -44.2708320618,
+    "long": -71.9166641235,
+    "name": "Lago Verde "
+  },
+  "SCVF": {
+    "lat": -34.0072212219,
+    "long": -71.3919448853,
+    "name": "Verfrut "
+  },
+  "SCVG": {
+    "lat": -39.8293991089,
+    "long": -72.4882965088,
+    "name": "El Vergel "
+  },
+  "SCVH": {
+    "lat": -33.0508346558,
+    "long": -70.7088851929,
+    "name": "La Victoria de Chacabuco "
+  },
+  "SCVI": {
+    "lat": -39.3125,
+    "long": -72.0622253418,
+    "name": "Villarrica "
+  },
+  "SCVJ": {
+    "lat": -34.3958320618,
+    "long": -71.5452804565,
+    "name": "Paredes Viejas "
+  },
+  "SCVK": {
+    "lat": -34.8477783203,
+    "long": -72.0222244263,
+    "name": "El Alamo "
+  },
+  "SCVL": {
+    "lat": -39.7969017029,
+    "long": -73.2416992188,
+    "name": "Las Marias "
+  },
+  "SCVM": {
+    "lat": -32.9496002197,
+    "long": -71.4785995483,
+    "name": "Vina del mar "
+  },
+  "SCVN": {
+    "lat": -30.0268993378,
+    "long": -70.7516021729,
+    "name": "Huancara "
+  },
+  "SCVO": {
+    "lat": -38.2319450378,
+    "long": -72.4833297729,
+    "name": "Maria Ester "
+  },
+  "SCVQ": {
+    "lat": -34.837223053,
+    "long": -72.0650024414,
+    "name": "Cuatro Pantanos "
+  },
+  "SCVS": {
+    "lat": -47.6772232056,
+    "long": -73.067779541,
+    "name": "Lago Vargas "
+  },
+  "SCVT": {
+    "lat": -33.7661094666,
+    "long": -70.9238891602,
+    "name": "Vina Tarapaca "
+  },
+  "SCVU": {
+    "lat": -38.6958351135,
+    "long": -72.3405532837,
+    "name": "Agromanzun "
+  },
+  "SCVV": {
+    "lat": -40.3163986206,
+    "long": -72.9772033691,
+    "name": "Los Maitenes de Villa Vieja "
+  },
+  "SCVY": {
+    "lat": -38.6913871765,
+    "long": -72.2855529785,
+    "name": "Malla "
+  },
+  "SCXA": {
+    "lat": -35.2394447327,
+    "long": -71.0708312988,
+    "name": "Alupenhue "
+  },
+  "SCXB": {
+    "lat": -31.7866668701,
+    "long": -71.0111083984,
+    "name": "Las Brujas "
+  },
+  "SCXR": {
+    "lat": -40.3199996948,
+    "long": -72.2249984741,
+    "name": "Las Bandurrias "
+  },
+  "SCYB": {
+    "lat": -37.1172218323,
+    "long": -72.4111099243,
+    "name": "Trilahue "
+  },
+  "SCYC": {
+    "lat": -40.6277770996,
+    "long": -72.76222229,
+    "name": "La Capilla "
+  },
+  "SCYL": {
+    "lat": -40.6413993835,
+    "long": -72.4111022949,
+    "name": "Lican "
+  },
+  "SCYO": {
+    "lat": -42.226667,
+    "long": -72.693611,
+    "name": "Poyo "
+  },
+  "SCYR": {
+    "lat": -36.031665802,
+    "long": -71.7411117554,
+    "name": "Los Maitenes "
+  },
+  "SCYU": {
+    "lat": -40.940556,
+    "long": -73.011667,
+    "name": "Cuyumaique "
+  },
+  "SCZB": {
+    "lat": -40.205278,
+    "long": -72.568056,
+    "name": "Pozo Brujo "
+  },
+  "SCZC": {
+    "lat": -32.5952758789,
+    "long": -71.3472213745,
+    "name": "Casas Viejas "
+  },
+  "SCZE": {
+    "lat": -33.7449989319,
+    "long": -70.549446106,
+    "name": "Estero Seco "
+  }
+}

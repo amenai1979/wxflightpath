@@ -1,0 +1,22 @@
+{
+  "PTKK": {
+    "lat": 7.4618701935,
+    "long": 151.8430023193,
+    "name": "Chuuk International "
+  },
+  "PTPN": {
+    "lat": 6.9850997925,
+    "long": 158.2089996338,
+    "name": "Pohnpei International "
+  },
+  "PTSA": {
+    "lat": 5.356979847,
+    "long": 162.957992554,
+    "name": "Kosrae International "
+  },
+  "PTYA": {
+    "lat": 9.4989099503,
+    "long": 138.0829925537,
+    "name": "Yap International "
+  }
+}

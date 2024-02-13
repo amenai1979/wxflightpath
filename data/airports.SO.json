@@ -1,0 +1,87 @@
+{
+  "HCMA": {
+    "lat": 11.9582,
+    "long": 50.748,
+    "name": "Alula "
+  },
+  "HCMB": {
+    "lat": 3.1022200584,
+    "long": 43.6286010742,
+    "name": "Baidoa "
+  },
+  "HCMC": {
+    "lat": 11.5,
+    "long": 49.9169998169,
+    "name": "Candala "
+  },
+  "HCMD": {
+    "lat": 2.336111,
+    "long": 42.307778,
+    "name": "Bardera "
+  },
+  "HCME": {
+    "lat": 7.9169998169,
+    "long": 49.7999992371,
+    "name": "Eil "
+  },
+  "HCMF": {
+    "lat": 11.2753000259,
+    "long": 49.1493988037,
+    "name": "Bosaso "
+  },
+  "HCMG": {
+    "lat": 9.5170001984,
+    "long": 49.0830001831,
+    "name": "Gardo "
+  },
+  "HCMH": {
+    "lat": 9.5181703568,
+    "long": 44.0887985229,
+    "name": "Egal International "
+  },
+  "HCMI": {
+    "lat": 10.3892002106,
+    "long": 44.9411010742,
+    "name": "Berbera "
+  },
+  "HCMK": {
+    "lat": -0.3773530126,
+    "long": 42.4592018127,
+    "name": "Kisimayu "
+  },
+  "HCMM": {
+    "lat": 2.0144400597,
+    "long": 45.3046989441,
+    "name": "Aden Adde International "
+  },
+  "HCMN": {
+    "lat": 4.6999998093,
+    "long": 45.216999054,
+    "name": "Belet Uen "
+  },
+  "HCMO": {
+    "lat": 5.3666667938,
+    "long": 48.5166664124,
+    "name": "Obbia "
+  },
+  "HCMR": {
+    "lat": 6.7808299065,
+    "long": 47.45470047,
+    "name": "Galcaio "
+  },
+  "HCMS": {
+    "lat": 10.3000001907,
+    "long": 50.233001709,
+    "name": "Scusciuban "
+  },
+  "HCMU": {
+    "lat": 10.642050549,
+    "long": 47.3879814148,
+    "name": "Erigavo "
+  },
+  "HCMV": {
+    "lat": 9.5275,
+    "long": 45.5549,
+    "name": "Burao "
+  }
+}

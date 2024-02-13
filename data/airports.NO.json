@@ -1,0 +1,427 @@
+{
+  "ENAE": {
+    "lat": 61.2574005127,
+    "long": 11.6688995361,
+    "name": "AEra Airfield"
+  },
+  "ENAL": {
+    "lat": 62.5625,
+    "long": 6.119699955,
+    "name": "Alesund "
+  },
+  "ENAN": {
+    "lat": 69.2925033569,
+    "long": 16.1441993713,
+    "name": "Andoya "
+  },
+  "ENAS": {
+    "lat": 78.9274978638,
+    "long": 11.8743000031,
+    "name": "Ny-Alesund  Hamnerabben"
+  },
+  "ENAT": {
+    "lat": 69.9760971069,
+    "long": 23.3717002869,
+    "name": "Alta "
+  },
+  "ENBL": {
+    "lat": 61.3911018372,
+    "long": 5.756939888,
+    "name": "Bringeland "
+  },
+  "ENBM": {
+    "lat": 60.6389007568,
+    "long": 6.5015001297,
+    "name": "Bomoen "
+  },
+  "ENBN": {
+    "lat": 65.4610977173,
+    "long": 12.217499733,
+    "name": "Bronnoysund "
+  },
+  "ENBO": {
+    "lat": 67.269203186,
+    "long": 14.3653001785,
+    "name": "Bodo "
+  },
+  "ENBR": {
+    "lat": 60.2933998108,
+    "long": 5.2181401253,
+    "name": "Bergen  Flesland"
+  },
+  "ENBS": {
+    "lat": 70.6005020142,
+    "long": 29.691400528,
+    "name": "Batsfjord "
+  },
+  "ENBV": {
+    "lat": 70.8713989258,
+    "long": 29.0342006683,
+    "name": "Berlevag "
+  },
+  "ENCN": {
+    "lat": 58.2042007446,
+    "long": 8.0853700638,
+    "name": "Kristiansand "
+  },
+  "ENDI": {
+    "lat": 60.417301178,
+    "long": 8.5183496475,
+    "name": "Geilo  Dagali"
+  },
+  "ENDO": {
+    "lat": 60.8333015442,
+    "long": 9.9166698456,
+    "name": "Dokka Thomlevold "
+  },
+  "ENDU": {
+    "lat": 69.0558013916,
+    "long": 18.5403995514,
+    "name": "Bardufoss "
+  },
+  "ENEG": {
+    "lat": 60.217300415,
+    "long": 10.3239002228,
+    "name": "Eggemoen "
+  },
+  "ENEV": {
+    "lat": 68.4913024902,
+    "long": 16.6781005859,
+    "name": "Harstad/Narvik  Evenes"
+  },
+  "ENFA": {
+    "lat": 63.7005996704,
+    "long": 8.7605695724,
+    "name": "Flatval "
+  },
+  "ENFG": {
+    "lat": 61.0155982971,
+    "long": 9.2880601883,
+    "name": "Leirin "
+  },
+  "ENFL": {
+    "lat": 61.5835990906,
+    "long": 5.024720192,
+    "name": "Floro "
+  },
+  "ENFY": {
+    "lat": 59.2000007629,
+    "long": 8.0866699219,
+    "name": "Fyresdal Airfield"
+  },
+  "ENGK": {
+    "lat": 58.5167007446,
+    "long": 8.6999998093,
+    "name": "Gullknapp Flpl "
+  },
+  "ENGM": {
+    "lat": 60.193901062,
+    "long": 11.100399971,
+    "name": "Oslo Gardermoen "
+  },
+  "ENGN": {
+    "lat": 62.1175003052,
+    "long": 10.1107997894,
+    "name": "Folldal Grimsmoe "
+  },
+  "ENGS": {
+    "lat": 64.1835861206,
+    "long": 12.1714782715,
+    "name": "Snasa Airfield Gronora"
+  },
+  "ENHA": {
+    "lat": 60.8180999756,
+    "long": 11.0679998398,
+    "name": "Stafsberg "
+  },
+  "ENHD": {
+    "lat": 59.3452987671,
+    "long": 5.2083601952,
+    "name": "Haugesund "
+  },
+  "ENHF": {
+    "lat": 70.6797027588,
+    "long": 23.6686000824,
+    "name": "Hammerfest "
+  },
+  "ENHK": {
+    "lat": 70.4867019653,
+    "long": 22.1396999359,
+    "name": "Hasvik "
+  },
+  "ENHN": {
+    "lat": 60.8800010681,
+    "long": 11.6731004715,
+    "name": "Elverum Starmoen "
+  },
+  "ENHS": {
+    "lat": 59.7668991089,
+    "long": 9.9113903046,
+    "name": "Hokksund Airfield"
+  },
+  "ENHT": {
+    "lat": 65.5947036743,
+    "long": 13.9891996384,
+    "name": "Hattfjelldal "
+  },
+  "ENHV": {
+    "lat": 71.0096969604,
+    "long": 25.9836006165,
+    "name": "Valan "
+  },
+  "ENJA": {
+    "lat": 70.9611111111,
+    "long": -8.5758333333,
+    "name": "Jan Mayen Jan Mayensfield"
+  },
+  "ENJB": {
+    "lat": 59.2999992371,
+    "long": 10.3667001724,
+    "name": "Jarlsberg Airfield"
+  },
+  "ENKA": {
+    "lat": 69.0402984619,
+    "long": 23.0340003967,
+    "name": "Kautokeino Air Base"
+  },
+  "ENKB": {
+    "lat": 63.1118011475,
+    "long": 7.8245201111,
+    "name": "Kristiansund  Kvernberget"
+  },
+  "ENKJ": {
+    "lat": 59.9692993164,
+    "long": 11.0361003876,
+    "name": "Kjeller "
+  },
+  "ENKL": {
+    "lat": 60.7914009094,
+    "long": 9.0505599976,
+    "name": "Gol "
+  },
+  "ENKR": {
+    "lat": 69.7257995605,
+    "long": 29.8913002014,
+    "name": "Kirkenes  Hoybuktmoen"
+  },
+  "ENLI": {
+    "lat": 58.0994987488,
+    "long": 6.6260499954,
+    "name": "Lista "
+  },
+  "ENLK": {
+    "lat": 68.1524963379,
+    "long": 13.6093997955,
+    "name": "Leknes "
+  },
+  "ENLU": {
+    "lat": 59.2980995178,
+    "long": 9.1327295303,
+    "name": "Lunde Nome Airfield"
+  },
+  "ENMH": {
+    "lat": 71.0297012329,
+    "long": 27.8267002106,
+    "name": "Mehamn "
+  },
+  "ENML": {
+    "lat": 62.7447013855,
+    "long": 7.2624998093,
+    "name": "Molde "
+  },
+  "ENMS": {
+    "lat": 65.783996582,
+    "long": 13.2149000168,
+    "name": "Mosjoen  Kjaerstad"
+  },
+  "ENNA": {
+    "lat": 70.0688018799,
+    "long": 24.9734992981,
+    "name": "Banak "
+  },
+  "ENNK": {
+    "lat": 68.4368972778,
+    "long": 17.3866996765,
+    "name": "Narvik Framnes "
+  },
+  "ENNM": {
+    "lat": 64.4721984863,
+    "long": 11.5785999298,
+    "name": "Namsos Hoknesora "
+  },
+  "ENNO": {
+    "lat": 59.565700531,
+    "long": 9.212220192,
+    "name": "Notodden "
+  },
+  "ENOL": {
+    "lat": 63.6988983154,
+    "long": 9.6040000916,
+    "name": "Orland "
+  },
+  "ENOP": {
+    "lat": 62.6498985291,
+    "long": 9.846739769,
+    "name": "Fagerhaug "
+  },
+  "ENOV": {
+    "lat": 62.1800003052,
+    "long": 6.0741000175,
+    "name": "Orsta-Volda  Hovden"
+  },
+  "ENRA": {
+    "lat": 66.363899231,
+    "long": 14.3014001846,
+    "name": "Mo i Rana  Rossvoll"
+  },
+  "ENRG": {
+    "lat": 67.0982971191,
+    "long": 15.4111003876,
+    "name": "Rognan "
+  },
+  "ENRI": {
+    "lat": 61.5454406738,
+    "long": 10.0615882874,
+    "name": "Ringebu Airfield Frya"
+  },
+  "ENRK": {
+    "lat": 59.3974990845,
+    "long": 11.3468999863,
+    "name": "Rakkestad Astorp "
+  },
+  "ENRM": {
+    "lat": 64.8383026123,
+    "long": 11.1461000443,
+    "name": "Rorvik  Ryum"
+  },
+  "ENRO": {
+    "lat": 62.5783996582,
+    "long": 11.342300415,
+    "name": "Roros "
+  },
+  "ENRS": {
+    "lat": 67.5278015137,
+    "long": 12.1033000946,
+    "name": "Rost "
+  },
+  "ENRV": {
+    "lat": 60.6721992493,
+    "long": 10.5675001144,
+    "name": "Reinsvoll "
+  },
+  "ENRY": {
+    "lat": 59.3788986206,
+    "long": 10.7855997086,
+    "name": "Moss  Rygge"
+  },
+  "ENSA": {
+    "lat": 77.9000015259,
+    "long": 16.6833000183,
+    "name": "Svea "
+  },
+  "ENSB": {
+    "lat": 78.2461013794,
+    "long": 15.4656000137,
+    "name": "Svalbard  Longyear"
+  },
+  "ENSD": {
+    "lat": 61.8300018311,
+    "long": 6.1058301926,
+    "name": "Sandane  Anda"
+  },
+  "ENSG": {
+    "lat": 61.1561012268,
+    "long": 7.1377801895,
+    "name": "Sogndal "
+  },
+  "ENSH": {
+    "lat": 68.2433013916,
+    "long": 14.6691999435,
+    "name": "Svolvaer Helle "
+  },
+  "ENSI": {
+    "lat": 59.7063903809,
+    "long": 10.8819446564,
+    "name": "Ski Airfield"
+  },
+  "ENSK": {
+    "lat": 68.5788269043,
+    "long": 15.033416748,
+    "name": "Stokmarknes Skagen "
+  },
+  "ENSN": {
+    "lat": 59.1850013733,
+    "long": 9.5669403076,
+    "name": "Skien "
+  },
+  "ENSO": {
+    "lat": 59.7919006348,
+    "long": 5.3408498764,
+    "name": "Stord "
+  },
+  "ENSR": {
+    "lat": 69.7867965698,
+    "long": 20.959400177,
+    "name": "Sorkjosen "
+  },
+  "ENSS": {
+    "lat": 70.3554000854,
+    "long": 31.0449008942,
+    "name": "Vardo  Svartnes"
+  },
+  "ENST": {
+    "lat": 65.9568023682,
+    "long": 12.4688997269,
+    "name": "Sandnessjoen  Stokka"
+  },
+  "ENSU": {
+    "lat": 62.6582984924,
+    "long": 8.6649999619,
+    "name": "Vinnu "
+  },
+  "ENTC": {
+    "lat": 69.6832962036,
+    "long": 18.9188995361,
+    "name": "Tromso "
+  },
+  "ENTO": {
+    "lat": 59.1866989136,
+    "long": 10.258600235,
+    "name": "Sandefjord  Torp"
+  },
+  "ENTS": {
+    "lat": 61.2292785645,
+    "long": 12.2664070129,
+    "name": "Trysil Saeterasen "
+  },
+  "ENTY": {
+    "lat": 62.2569007874,
+    "long": 10.6694002151,
+    "name": "Tynset "
+  },
+  "ENUL": {
+    "lat": 60.192199707,
+    "long": 5.4225001335,
+    "name": "Os Vaksinen Ulve "
+  },
+  "ENVA": {
+    "lat": 63.4578018188,
+    "long": 10.9239997864,
+    "name": "Trondheim  Vaernes"
+  },
+  "ENVD": {
+    "lat": 70.0652999878,
+    "long": 29.8446998596,
+    "name": "Vadso "
+  },
+  "ENVE": {
+    "lat": 59.0317230225,
+    "long": 7.5549030304,
+    "name": "Valle Airfield Araksoyne"
+  },
+  "ENZV": {
+    "lat": 58.876701355,
+    "long": 5.6377801895,
+    "name": "Stavanger  Sola"
+  }
+}

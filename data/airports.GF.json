@@ -1,0 +1,42 @@
+{
+  "SOCA": {
+    "lat": 4.8198099136,
+    "long": -52.3604011536,
+    "name": "Cayenne-Rochambeau "
+  },
+  "SOGS": {
+    "lat": 4.2858333333,
+    "long": -54.3730555556,
+    "name": "Grand-Santi "
+  },
+  "SOOA": {
+    "lat": 3.6575000286,
+    "long": -54.0372009277,
+    "name": "Maripasoula "
+  },
+  "SOOG": {
+    "lat": 3.8975999355,
+    "long": -51.8041000366,
+    "name": "Saint-Georges-de-l'Oyapock "
+  },
+  "SOOM": {
+    "lat": 5.4830598831,
+    "long": -54.0344009399,
+    "name": "Saint-Laurent-du-Maroni "
+  },
+  "SOOR": {
+    "lat": 4.3147201538,
+    "long": -52.1316986084,
+    "name": "Regina "
+  },
+  "SOOS": {
+    "lat": 3.6136100292,
+    "long": -53.2042007446,
+    "name": "Saul "
+  },
+  "SOOY": {
+    "lat": 5.3735799789,
+    "long": -52.9455986023,
+    "name": "Sinnamary"
+  }
+}

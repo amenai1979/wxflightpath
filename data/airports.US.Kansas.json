@@ -1,0 +1,1988 @@
+{
+    "00KS": {
+        "lat": 38.7277984619,
+        "long": -94.9304962158,
+        "name": "Hayden Farm ",
+        "state": "Kansas"
+    },
+    "01KS": {
+        "lat": 38.540599823,
+        "long": -97.0033035278,
+        "name": "Flying N Ranch ",
+        "state": "Kansas"
+    },
+    "02KS": {
+        "lat": 39.2221984863,
+        "long": -96.0552978516,
+        "name": "Jmj Landing ",
+        "state": "Kansas"
+    },
+    "05KS": {
+        "lat": 37.2662010193,
+        "long": -95.959197998,
+        "name": "Darbro Field",
+        "state": "Kansas"
+    },
+    "06SN": {
+        "lat": 37.5839004517,
+        "long": -97.2530975342,
+        "name": "Beyer Farm ",
+        "state": "Kansas"
+    },
+    "07KS": {
+        "lat": 37.7341995239,
+        "long": -96.9366989136,
+        "name": "Heape Field",
+        "state": "Kansas"
+    },
+    "07SN": {
+        "lat": 39.7728004456,
+        "long": -99.3600997925,
+        "name": "Churchill ",
+        "state": "Kansas"
+    },
+    "08KS": {
+        "lat": 39.0346984863,
+        "long": -97.5800018311,
+        "name": "Alderson ",
+        "state": "Kansas"
+    },
+    "09KS": {
+        "lat": 38.7070007324,
+        "long": -95.1382980347,
+        "name": "Coffman ",
+        "state": "Kansas"
+    },
+    "0KS0": {
+        "lat": 38.6333007813,
+        "long": -95.9253005981,
+        "name": "J V Ranch ",
+        "state": "Kansas"
+    },
+    "0KS2": {
+        "lat": 38.5600013733,
+        "long": -95.30909729,
+        "name": "Kellie Mann Airfield",
+        "state": "Kansas"
+    },
+    "0KS3": {
+        "lat": 38.5666999817,
+        "long": -95.366897583,
+        "name": "Camp Chippewa ",
+        "state": "Kansas"
+    },
+    "0KS4": {
+        "lat": 38.807239,
+        "long": -95.370056,
+        "name": "Norris ",
+        "state": "Kansas"
+    },
+    "0KS6": {
+        "lat": 37.4522018433,
+        "long": -97.3178024292,
+        "name": "Kendrigan ",
+        "state": "Kansas"
+    },
+    "0KS7": {
+        "lat": 37.6927986145,
+        "long": -97.8863983154,
+        "name": "Mono Aircraft ",
+        "state": "Kansas"
+    },
+    "0KS8": {
+        "lat": 37.3824996948,
+        "long": -95.3747024536,
+        "name": "Pearce Field",
+        "state": "Kansas"
+    },
+    "0KS9": {
+        "lat": 37.5158996582,
+        "long": -96.9197998047,
+        "name": "Lmn 120 ",
+        "state": "Kansas"
+    },
+    "11KS": {
+        "lat": 39.1166992188,
+        "long": -95.1489028931,
+        "name": "Sheller's ",
+        "state": "Kansas"
+    },
+    "12KS": {
+        "lat": 37.9352989197,
+        "long": -97.4878005981,
+        "name": "Sooter ",
+        "state": "Kansas"
+    },
+    "13KS": {
+        "lat": 37.6977996826,
+        "long": -97.1102981567,
+        "name": "Daniel's Landing ",
+        "state": "Kansas"
+    },
+    "14KS": {
+        "lat": 38.2691993713,
+        "long": -94.904800415,
+        "name": "G & S Space Port ",
+        "state": "Kansas"
+    },
+    "15KS": {
+        "lat": 38.4305992126,
+        "long": -96.0883026123,
+        "name": "Sickler Airstrip",
+        "state": "Kansas"
+    },
+    "17KS": {
+        "lat": 38.5027999878,
+        "long": -95.6772003174,
+        "name": "Tevis ",
+        "state": "Kansas"
+    },
+    "18KS": {
+        "lat": 37.3708992004,
+        "long": -97.1072998047,
+        "name": "Cherokee Strip",
+        "state": "Kansas"
+    },
+    "1KS0": {
+        "lat": 38.1694984436,
+        "long": -97.9711990356,
+        "name": "Huey ",
+        "state": "Kansas"
+    },
+    "1KS1": {
+        "lat": 38.4589004517,
+        "long": -95.2260971069,
+        "name": "Cochran ",
+        "state": "Kansas"
+    },
+    "1KS2": {
+        "lat": 39.313999176,
+        "long": -95.0716018677,
+        "name": "Risky ",
+        "state": "Kansas"
+    },
+    "1KS3": {
+        "lat": 39.3041992188,
+        "long": -96.7585983276,
+        "name": "Leo's Place STOLport",
+        "state": "Kansas"
+    },
+    "1KS4": {
+        "lat": 38.9000015259,
+        "long": -97.1169967651,
+        "name": "Prichard Airstrip",
+        "state": "Kansas"
+    },
+    "1KS5": {
+        "lat": 39.1624984741,
+        "long": -96.0963973999,
+        "name": "Keyser ",
+        "state": "Kansas"
+    },
+    "1KS6": {
+        "lat": 38.8666992188,
+        "long": -97.5363998413,
+        "name": "Silers Plane Valley ",
+        "state": "Kansas"
+    },
+    "1KS7": {
+        "lat": 37.6735992432,
+        "long": -101.016998291,
+        "name": "Hitch Feeders Ii Inc. ",
+        "state": "Kansas"
+    },
+    "1KS8": {
+        "lat": 38.5153007507,
+        "long": -100.9950027466,
+        "name": "Buehler ",
+        "state": "Kansas"
+    },
+    "1KS9": {
+        "lat": 39.0456008911,
+        "long": -94.9489974976,
+        "name": "Huff ",
+        "state": "Kansas"
+    },
+    "20KS": {
+        "lat": 37.6758003235,
+        "long": -96.8852996826,
+        "name": "Airpark Estates ",
+        "state": "Kansas"
+    },
+    "23KS": {
+        "lat": 39.0699996948,
+        "long": -94.948600769,
+        "name": "Ney ",
+        "state": "Kansas"
+    },
+    "24KS": {
+        "lat": 37.8582992554,
+        "long": -97.8178024292,
+        "name": "Blocker Field",
+        "state": "Kansas"
+    },
+    "25KS": {
+        "lat": 39.6833000183,
+        "long": -99.12840271,
+        "name": "Wyrill Farming ",
+        "state": "Kansas"
+    },
+    "27KS": {
+        "lat": 39.1288986206,
+        "long": -101.7170028687,
+        "name": "Bellamy Farm ",
+        "state": "Kansas"
+    },
+    "28KS": {
+        "lat": 38.5424995422,
+        "long": -95.1560974121,
+        "name": "Highland Farm ",
+        "state": "Kansas"
+    },
+    "29KS": {
+        "lat": 38.48279953,
+        "long": -97.0113983154,
+        "name": "Navrat ",
+        "state": "Kansas"
+    },
+    "2KS0": {
+        "lat": 37.2066993713,
+        "long": -96.0768966675,
+        "name": "Rupp ",
+        "state": "Kansas"
+    },
+    "2KS1": {
+        "lat": 39.7743988037,
+        "long": -95.2510986328,
+        "name": "Rush ",
+        "state": "Kansas"
+    },
+    "2KS2": {
+        "lat": 37.6556015015,
+        "long": -96.2906036377,
+        "name": "Stuber Flying Ranch ",
+        "state": "Kansas"
+    },
+    "2KS3": {
+        "lat": 38.8381004333,
+        "long": -98.4856033325,
+        "name": "Wilson ",
+        "state": "Kansas"
+    },
+    "2KS4": {
+        "lat": 37.4477996826,
+        "long": -98.2253036499,
+        "name": "Dick ",
+        "state": "Kansas"
+    },
+    "2KS5": {
+        "lat": 37.2709007263,
+        "long": -100.5879974365,
+        "name": "Plains Municipal ",
+        "state": "Kansas"
+    },
+    "2KS8": {
+        "lat": 39.1166992188,
+        "long": -98.4002990723,
+        "name": "Vonada ",
+        "state": "Kansas"
+    },
+    "2KS9": {
+        "lat": 38.9000015259,
+        "long": -95.5836029053,
+        "name": "Starshire Farm ",
+        "state": "Kansas"
+    },
+    "30KS": {
+        "lat": 37.1323013306,
+        "long": -97.0734024048,
+        "name": "Tyler ",
+        "state": "Kansas"
+    },
+    "31KS": {
+        "lat": 37.9958000183,
+        "long": -97.9294967651,
+        "name": "Mills Field",
+        "state": "Kansas"
+    },
+    "32KS": {
+        "lat": 38.5931015015,
+        "long": -100.6129989624,
+        "name": "Wilkens ",
+        "state": "Kansas"
+    },
+    "33KS": {
+        "lat": 39.1530990601,
+        "long": -95.6093978882,
+        "name": "Buena Terra ",
+        "state": "Kansas"
+    },
+    "35KS": {
+        "lat": 37.5335998535,
+        "long": -97.3116989136,
+        "name": "Selby Farm ",
+        "state": "Kansas"
+    },
+    "36KS": {
+        "lat": 37.4748001099,
+        "long": -95.3435974121,
+        "name": "White Farms ",
+        "state": "Kansas"
+    },
+    "37KS": {
+        "lat": 37.4819984436,
+        "long": -96.3377990723,
+        "name": "Bar P Ranch ",
+        "state": "Kansas"
+    },
+    "38KS": {
+        "lat": 37.7778015137,
+        "long": -97.2774963379,
+        "name": "Savute ",
+        "state": "Kansas"
+    },
+    "39KS": {
+        "lat": 38.7860984802,
+        "long": -95.3075027466,
+        "name": "Rolling Meadows ",
+        "state": "Kansas"
+    },
+    "3KS1": {
+        "lat": 39.1556015015,
+        "long": -95.7433013916,
+        "name": "Mesa Verde ",
+        "state": "Kansas"
+    },
+    "3KS3": {
+        "lat": 37.4000015259,
+        "long": -97.1920013428,
+        "name": "Rogers ",
+        "state": "Kansas"
+    },
+    "3KS4": {
+        "lat": 37.7677993774,
+        "long": -101.4349975586,
+        "name": "Eveleigh Farms ",
+        "state": "Kansas"
+    },
+    "3KS5": {
+        "lat": 37.8427155871,
+        "long": -97.3514413834,
+        "name": "High Point ",
+        "state": "Kansas"
+    },
+    "3KS7": {
+        "lat": 37.8292007446,
+        "long": -97.3488998413,
+        "name": "Berwick ",
+        "state": "Kansas"
+    },
+    "3KS8": {
+        "lat": 37.2565002441,
+        "long": -95.3336029053,
+        "name": "Reed-Wilsonton ",
+        "state": "Kansas"
+    },
+    "40KS": {
+        "lat": 38.5400009155,
+        "long": -95.4507980347,
+        "name": "Chanay ",
+        "state": "Kansas"
+    },
+    "41KS": {
+        "lat": 38.7355003357,
+        "long": -94.7973022461,
+        "name": "Flying Z Ranch ",
+        "state": "Kansas"
+    },
+    "43KS": {
+        "lat": 39.1018981934,
+        "long": -96.4178009033,
+        "name": "Smith ",
+        "state": "Kansas"
+    },
+    "44KS": {
+        "lat": 37.6102981567,
+        "long": -97.1624984741,
+        "name": "Vankirk ",
+        "state": "Kansas"
+    },
+    "45KS": {
+        "lat": 37.4039001465,
+        "long": -96.4533004761,
+        "name": "Liebau Ranch ",
+        "state": "Kansas"
+    },
+    "46KS": {
+        "lat": 37.8316993713,
+        "long": -97.3630981445,
+        "name": "Hidden Valley ",
+        "state": "Kansas"
+    },
+    "47KS": {
+        "lat": 38.7705993652,
+        "long": -95.2743988037,
+        "name": "Maxwell ",
+        "state": "Kansas"
+    },
+    "48KS": {
+        "lat": 38.8111000061,
+        "long": -97.4313964844,
+        "name": "R F Roesner ",
+        "state": "Kansas"
+    },
+    "49KS": {
+        "lat": 39.214099884,
+        "long": -96.6723022461,
+        "name": "N & N ",
+        "state": "Kansas"
+    },
+    "4KS1": {
+        "lat": 38.6852989197,
+        "long": -95.0329971313,
+        "name": "Amar Farms ",
+        "state": "Kansas"
+    },
+    "4KS2": {
+        "lat": 39.0186004639,
+        "long": -94.9543991089,
+        "name": "Ingels Aerodrome",
+        "state": "Kansas"
+    },
+    "4KS6": {
+        "lat": 38.2416992188,
+        "long": -95.9067001343,
+        "name": "Thomsen Field",
+        "state": "Kansas"
+    },
+    "4KS7": {
+        "lat": 37.5588989258,
+        "long": -97.0650024414,
+        "name": "Butler Airpark",
+        "state": "Kansas"
+    },
+    "4KS8": {
+        "lat": 39.5910987854,
+        "long": -101.5930023193,
+        "name": "Bursch Private ",
+        "state": "Kansas"
+    },
+    "50KS": {
+        "lat": 37.665599823,
+        "long": -98.6197967529,
+        "name": "Grandpa's Farm ",
+        "state": "Kansas"
+    },
+    "51KS": {
+        "lat": 38.6370010376,
+        "long": -97.2136001587,
+        "name": "Barnard ",
+        "state": "Kansas"
+    },
+    "52KS": {
+        "lat": 38.9028015137,
+        "long": -95.1322021484,
+        "name": "Bland ",
+        "state": "Kansas"
+    },
+    "53KS": {
+        "lat": 38.1082992554,
+        "long": -97.432800293,
+        "name": "Weaver Ranch ",
+        "state": "Kansas"
+    },
+    "54KS": {
+        "lat": 38.8027992249,
+        "long": -95.112701416,
+        "name": "Michael ",
+        "state": "Kansas"
+    },
+    "58KS": {
+        "lat": 38.9221992493,
+        "long": -97.7086029053,
+        "name": "Burger's Valley ",
+        "state": "Kansas"
+    },
+    "59KS": {
+        "lat": 38.4084014893,
+        "long": -95.0190963745,
+        "name": "Dunn Field",
+        "state": "Kansas"
+    },
+    "5KS1": {
+        "lat": 39.1938018799,
+        "long": -95.2163009644,
+        "name": "Threshing Bee ",
+        "state": "Kansas"
+    },
+    "5KS2": {
+        "lat": 39.3417015076,
+        "long": -101.6660003662,
+        "name": "Fortmeyer ",
+        "state": "Kansas"
+    },
+    "5KS3": {
+        "lat": 37.279499054,
+        "long": -98.0180969238,
+        "name": "Deweze ",
+        "state": "Kansas"
+    },
+    "5KS4": {
+        "lat": 39.2299995422,
+        "long": -101.983001709,
+        "name": "Hall Farms ",
+        "state": "Kansas"
+    },
+    "5KS6": {
+        "lat": 38.7667007446,
+        "long": -101.2570037842,
+        "name": "Mollenkamp Field",
+        "state": "Kansas"
+    },
+    "5KS8": {
+        "lat": 39.8180999756,
+        "long": -101.3479995728,
+        "name": "Jack Poore ",
+        "state": "Kansas"
+    },
+    "5KS9": {
+        "lat": 39.8258018494,
+        "long": -101.3629989624,
+        "name": "Black ",
+        "state": "Kansas"
+    },
+    "60KS": {
+        "lat": 37.5139007568,
+        "long": -97.0002975464,
+        "name": "Alley Field",
+        "state": "Kansas"
+    },
+    "61KS": {
+        "lat": 39.7588996887,
+        "long": -95.0958023071,
+        "name": "Masters Field",
+        "state": "Kansas"
+    },
+    "63KS": {
+        "lat": 39.3283004761,
+        "long": -97.0608978271,
+        "name": "5-D Ranch ",
+        "state": "Kansas"
+    },
+    "65KS": {
+        "lat": 39.507833,
+        "long": -98.586167,
+        "name": "Griffith Field",
+        "state": "Kansas"
+    },
+    "66KS": {
+        "lat": 37.163898468,
+        "long": -95.8722000122,
+        "name": "Patterson Farms ",
+        "state": "Kansas"
+    },
+    "67KS": {
+        "lat": 37.5875015259,
+        "long": -100.4349975586,
+        "name": "Montezuma Coop ",
+        "state": "Kansas"
+    },
+    "68KS": {
+        "lat": 38.567199707,
+        "long": -94.7825012207,
+        "name": "Cloud 9 ",
+        "state": "Kansas"
+    },
+    "69KS": {
+        "lat": 38.6697006226,
+        "long": -94.7425003052,
+        "name": "Chiles Airpark",
+        "state": "Kansas"
+    },
+    "6KS1": {
+        "lat": 39.0705986023,
+        "long": -100.25,
+        "name": "Quinter Air Strip",
+        "state": "Kansas"
+    },
+    "6KS2": {
+        "lat": 39.4416999817,
+        "long": -100.6299972534,
+        "name": "Stevenson Private ",
+        "state": "Kansas"
+    },
+    "6KS3": {
+        "lat": 38.8456001282,
+        "long": -101.7480010986,
+        "name": "Walker Strip",
+        "state": "Kansas"
+    },
+    "6KS4": {
+        "lat": 38.9053001404,
+        "long": -101.783996582,
+        "name": "Bussen ",
+        "state": "Kansas"
+    },
+    "6KS5": {
+        "lat": 38.2249984741,
+        "long": -94.6644973755,
+        "name": "Yeamans Fox Nest ",
+        "state": "Kansas"
+    },
+    "6KS6": {
+        "lat": 37.0153007507,
+        "long": -98.4959030151,
+        "name": "Kiowa ",
+        "state": "Kansas"
+    },
+    "6KS7": {
+        "lat": 39.984500885,
+        "long": -98.5102996826,
+        "name": "Shute ",
+        "state": "Kansas"
+    },
+    "6KS8": {
+        "lat": 38.3835983276,
+        "long": -96.1461029053,
+        "name": "Mary's Place ",
+        "state": "Kansas"
+    },
+    "71KS": {
+        "lat": 39.1041984558,
+        "long": -95.2960968018,
+        "name": "Stonehenge ",
+        "state": "Kansas"
+    },
+    "72KS": {
+        "lat": 39.2733001709,
+        "long": -94.8802032471,
+        "name": "Mount Muncie ",
+        "state": "Kansas"
+    },
+    "73KS": {
+        "lat": 38.7806015015,
+        "long": -99.2211990356,
+        "name": "Philip Ranch ",
+        "state": "Kansas"
+    },
+    "74KS": {
+        "lat": 37.9333992004,
+        "long": -95.2172012329,
+        "name": "Ensminger ",
+        "state": "Kansas"
+    },
+    "75KS": {
+        "lat": 37.3866996765,
+        "long": -99.8653030396,
+        "name": "Esplund Farm ",
+        "state": "Kansas"
+    },
+    "76KS": {
+        "lat": 38.2583999634,
+        "long": -100.8799972534,
+        "name": "Prima ",
+        "state": "Kansas"
+    },
+    "77KS": {
+        "lat": 37.3675003052,
+        "long": -96.87840271,
+        "name": "Abel Ranch ",
+        "state": "Kansas"
+    },
+    "78KS": {
+        "lat": 37.0167007446,
+        "long": -94.800201416,
+        "name": "Walter A Swalley Airpark",
+        "state": "Kansas"
+    },
+    "7KS0": {
+        "lat": 39.2714004517,
+        "long": -95.3169021606,
+        "name": "Flying T ",
+        "state": "Kansas"
+    },
+    "7KS2": {
+        "lat": 38.84999847,
+        "long": -95.46749878,
+        "name": "Cloud ",
+        "state": "Kansas"
+    },
+    "7KS3": {
+        "lat": 37.5292015076,
+        "long": -94.6960983276,
+        "name": "Youvan ",
+        "state": "Kansas"
+    },
+    "7KS4": {
+        "lat": 39.6333007812,
+        "long": -95.439201355,
+        "name": "Bent Nail Ranch ",
+        "state": "Kansas"
+    },
+    "7KS5": {
+        "lat": 37.7961997986,
+        "long": -95.3419036865,
+        "name": "Croisant ",
+        "state": "Kansas"
+    },
+    "7KS6": {
+        "lat": 38.6263999939,
+        "long": -94.7694015503,
+        "name": "Linders Cow-Chip ",
+        "state": "Kansas"
+    },
+    "7KS7": {
+        "lat": 38.9583015442,
+        "long": -100.8000030518,
+        "name": "Evans ",
+        "state": "Kansas"
+    },
+    "7KS8": {
+        "lat": 39.8306007385,
+        "long": -100.581001282,
+        "name": "Shaw Aerial Spraying ",
+        "state": "Kansas"
+    },
+    "7KS9": {
+        "lat": 37.8488998413,
+        "long": -97.5100021362,
+        "name": "Eagle Field",
+        "state": "Kansas"
+    },
+    "81KS": {
+        "lat": 39.1562004089,
+        "long": -95.5774993896,
+        "name": "Blackhawk ",
+        "state": "Kansas"
+    },
+    "83KS": {
+        "lat": 39.2352981567,
+        "long": -96.299697876,
+        "name": "Miller Aeroplane Field",
+        "state": "Kansas"
+    },
+    "85KS": {
+        "lat": 39.3009986877,
+        "long": -95.2145004272,
+        "name": "Sanders ",
+        "state": "Kansas"
+    },
+    "86KS": {
+        "lat": 38.786889,
+        "long": -100.419843,
+        "name": "Coberly ",
+        "state": "Kansas"
+    },
+    "87KS": {
+        "lat": 38.5875015259,
+        "long": -98.404800415,
+        "name": "Holyrood Municipal ",
+        "state": "Kansas"
+    },
+    "8KS0": {
+        "lat": 37.8125,
+        "long": -101.4589996338,
+        "name": "Morgan Farms ",
+        "state": "Kansas"
+    },
+    "8KS1": {
+        "lat": 39.1719017029,
+        "long": -94.980796814,
+        "name": "Neu Field",
+        "state": "Kansas"
+    },
+    "8KS2": {
+        "lat": 37.9388999939,
+        "long": -96.230796814,
+        "name": "King Ranch ",
+        "state": "Kansas"
+    },
+    "8KS3": {
+        "lat": 39.8527984619,
+        "long": -95.4804992676,
+        "name": "Davis Airfield",
+        "state": "Kansas"
+    },
+    "8KS4": {
+        "lat": 38.9049987793,
+        "long": -99.3508987427,
+        "name": "Rans ",
+        "state": "Kansas"
+    },
+    "8KS5": {
+        "lat": 37.3166999817,
+        "long": -95.2802963257,
+        "name": "Blue Sky ",
+        "state": "Kansas"
+    },
+    "8KS7": {
+        "lat": 38.7331008911,
+        "long": -94.6452026367,
+        "name": "Pine Sod Ranch ",
+        "state": "Kansas"
+    },
+    "8KS8": {
+        "lat": 38.9178009033,
+        "long": -97.0077972412,
+        "name": "Prairie Cottage ",
+        "state": "Kansas"
+    },
+    "8KS9": {
+        "lat": 38.4444999695,
+        "long": -95.4253005981,
+        "name": "The Wilderness ",
+        "state": "Kansas"
+    },
+    "90KS": {
+        "lat": 38.9824981689,
+        "long": -95.5950012207,
+        "name": "Sunset Strip Airpark",
+        "state": "Kansas"
+    },
+    "91KS": {
+        "lat": 39.243803,
+        "long": -96.033039,
+        "name": "St. Joseph'S Landing",
+        "state": "Kansas"
+    },
+    "94KS": {
+        "lat": 37.9749984741,
+        "long": -98.9656982422,
+        "name": "Smith Field",
+        "state": "Kansas"
+    },
+    "97KS": {
+        "lat": 38.8101005554,
+        "long": -94.7556991577,
+        "name": "Clear View Farm ",
+        "state": "Kansas"
+    },
+    "98KS": {
+        "lat": 37.4458999634,
+        "long": -100.4919967651,
+        "name": "Rexford ",
+        "state": "Kansas"
+    },
+    "99KS": {
+        "lat": 37.4093017578,
+        "long": -98.6493988037,
+        "name": "Elm Creek Farms ",
+        "state": "Kansas"
+    },
+    "9KS1": {
+        "lat": 38.6594444,
+        "long": -95.0922222,
+        "name": "Hartland ",
+        "state": "Kansas"
+    },
+    "9KS4": {
+        "lat": 39.6363983154,
+        "long": -98.3598022461,
+        "name": "Rose Port ",
+        "state": "Kansas"
+    },
+    "9KS5": {
+        "lat": 38.5778007507,
+        "long": -98.1003036499,
+        "name": "Rush Field",
+        "state": "Kansas"
+    },
+    "9KS6": {
+        "lat": 38.8130989075,
+        "long": -100.5709991455,
+        "name": "Lundgren Hereford Ranch ",
+        "state": "Kansas"
+    },
+    "9KS7": {
+        "lat": 38.2778015137,
+        "long": -95.4432983398,
+        "name": "Miller ",
+        "state": "Kansas"
+    },
+    "9KS9": {
+        "lat": 38.7907981873,
+        "long": -97.6183013916,
+        "name": "Dmh ",
+        "state": "Kansas"
+    },
+    "K0H1": {
+        "lat": 39.0045013428,
+        "long": -99.8928985596,
+        "name": "Trego Wakeeney ",
+        "state": "Kansas"
+    },
+    "K13K": {
+        "lat": 37.851600647,
+        "long": -96.2917022705,
+        "name": "Eureka Municipal ",
+        "state": "Kansas"
+    },
+    "K19S": {
+        "lat": 37.49140167,
+        "long": -100.8300018,
+        "name": "Sublette Flying Club ",
+        "state": "Kansas"
+    },
+    "K1F5": {
+        "lat": 39.3648986816,
+        "long": -100.439002991,
+        "name": "Hoxie-Sheridan County ",
+        "state": "Kansas"
+    },
+    "K1K1": {
+        "lat": 37.7744444,
+        "long": -97.1132222,
+        "name": "Lloyd Stearman Field ",
+        "state": "Kansas"
+    },
+    "K1K7": {
+        "lat": 37.5792007446,
+        "long": -95.8377990723,
+        "name": "Fredonia ",
+        "state": "Kansas"
+    },
+    "K1K9": {
+        "lat": 37.456401825,
+        "long": -100.9840011597,
+        "name": "Satanta Municipal ",
+        "state": "Kansas"
+    },
+    "K2K3": {
+        "lat": 37.582698822,
+        "long": -101.733001709,
+        "name": "Stanton County Municipal ",
+        "state": "Kansas"
+    },
+    "K2K7": {
+        "lat": 37.4353981018,
+        "long": -95.6461029053,
+        "name": "Neodesha Municipal ",
+        "state": "Kansas"
+    },
+    "K30K": {
+        "lat": 37.9070014954,
+        "long": -100.53099823,
+        "name": "Ingalls Municipal ",
+        "state": "Kansas"
+    },
+    "K33K": {
+        "lat": 37.9090003967,
+        "long": -99.4030990601,
+        "name": "Kinsley Municipal ",
+        "state": "Kansas"
+    },
+    "K36K": {
+        "lat": 37.9695014954,
+        "long": -101.2549972534,
+        "name": "Lakin ",
+        "state": "Kansas"
+    },
+    "K3AU": {
+        "lat": 37.6716003418,
+        "long": -97.0779037476,
+        "name": "Augusta Municipal ",
+        "state": "Kansas"
+    },
+    "K3JC": {
+        "lat": 39.0433006287,
+        "long": -96.8432998657,
+        "name": "Freeman Field",
+        "state": "Kansas"
+    },
+    "K3K3": {
+        "lat": 37.9916992188,
+        "long": -101.7460021973,
+        "name": "Syracuse Hamilton County Municipal ",
+        "state": "Kansas"
+    },
+    "K3K7": {
+        "lat": 38.4570007324,
+        "long": -101.3529968262,
+        "name": "Mark Hoard Memorial ",
+        "state": "Kansas"
+    },
+    "K3K8": {
+        "lat": 37.228099823,
+        "long": -99.3309020996,
+        "name": "Comanche County ",
+        "state": "Kansas"
+    },
+    "K45K": {
+        "lat": 39.0946998596,
+        "long": -97.7205963135,
+        "name": "Minneapolis City County ",
+        "state": "Kansas"
+    },
+    "K47K": {
+        "lat": 38.2090988159,
+        "long": -97.5027008057,
+        "name": "Moundridge Municipal ",
+        "state": "Kansas"
+    },
+    "K48K": {
+        "lat": 38.4710998535,
+        "long": -99.9080963135,
+        "name": "Ness City Municipal ",
+        "state": "Kansas"
+    },
+    "K55K": {
+        "lat": 37.2696990967,
+        "long": -97.0914001465,
+        "name": "Oxford Municipal ",
+        "state": "Kansas"
+    },
+    "K69K": {
+        "lat": 39.1972007751,
+        "long": -96.2589035034,
+        "name": "Wamego Municipal ",
+        "state": "Kansas"
+    },
+    "K8K2": {
+        "lat": 37.2781982422,
+        "long": -98.0435028076,
+        "name": "Harper Municipal ",
+        "state": "Kansas"
+    },
+    "K9K7": {
+        "lat": 38.7504005432,
+        "long": -98.2293014526,
+        "name": "Ellsworth Municipal ",
+        "state": "Kansas"
+    },
+    "K9K8": {
+        "lat": 37.66899872,
+        "long": -98.12390137,
+        "name": "Kingman  Clyde Cessna Field",
+        "state": "Kansas"
+    },
+    "KAAO": {
+        "lat": 37.74760056,
+        "long": -97.22109985,
+        "name": "Colonel James Jabara ",
+        "state": "Kansas"
+    },
+    "KADT": {
+        "lat": 39.84009933,
+        "long": -101.0419998,
+        "name": "Atwood-Rawlins County City ",
+        "state": "Kansas"
+    },
+    "KANY": {
+        "lat": 37.1585006714,
+        "long": -98.0795974731,
+        "name": "Anthony Municipal ",
+        "state": "Kansas"
+    },
+    "KBEC": {
+        "lat": 37.6944999695,
+        "long": -97.2149963379,
+        "name": "Beech Factory ",
+        "state": "Kansas"
+    },
+    "KCBK": {
+        "lat": 39.42750168,
+        "long": -101.0469971,
+        "name": "Shalz Field",
+        "state": "Kansas"
+    },
+    "KCEA": {
+        "lat": 37.648601532,
+        "long": -97.2506027222,
+        "name": "Cessna Acft Field",
+        "state": "Kansas"
+    },
+    "KCFV": {
+        "lat": 37.09400177,
+        "long": -95.5718994141,
+        "name": "Coffeyville Municipal ",
+        "state": "Kansas"
+    },
+    "KCNK": {
+        "lat": 39.5493011475,
+        "long": -97.6522979736,
+        "name": "Blosser Municipal ",
+        "state": "Kansas"
+    },
+    "KCNU": {
+        "lat": 37.668800354,
+        "long": -95.4850997925,
+        "name": "Chanute Martin Johnson ",
+        "state": "Kansas"
+    },
+    "KCYW": {
+        "lat": 39.3871002197,
+        "long": -97.1572036743,
+        "name": "Clay Center Municipal ",
+        "state": "Kansas"
+    },
+    "KDDC": {
+        "lat": 37.7634010315,
+        "long": -99.9655990601,
+        "name": "Dodge City Regional ",
+        "state": "Kansas"
+    },
+    "KEGT": {
+        "lat": 37.323600769,
+        "long": -97.3882980347,
+        "name": "Wellington Municipal ",
+        "state": "Kansas"
+    },
+    "KEHA": {
+        "lat": 37.0007019043,
+        "long": -101.8799972534,
+        "name": "Elkhart Morton County ",
+        "state": "Kansas"
+    },
+    "KEMP": {
+        "lat": 38.3320999146,
+        "long": -96.1912002563,
+        "name": "Emporia Municipal ",
+        "state": "Kansas"
+    },
+    "KEQA": {
+        "lat": 37.7741012573,
+        "long": -96.8175964355,
+        "name": "Captain Jack Thomas El Dorado ",
+        "state": "Kansas"
+    },
+    "KEWK": {
+        "lat": 38.0582008362,
+        "long": -97.2744979858,
+        "name": "Newton City-County ",
+        "state": "Kansas"
+    },
+    "KFLV": {
+        "lat": 39.3683013916,
+        "long": -94.9147033691,
+        "name": "Sherman Army Air Field",
+        "state": "Kansas"
+    },
+    "KFOE": {
+        "lat": 38.9509010315,
+        "long": -95.6635971069,
+        "name": "Forbes Field",
+        "state": "Kansas"
+    },
+    "KFRI": {
+        "lat": 39.05530167,
+        "long": -96.76450348,
+        "name": "Marshall Army Air Field",
+        "state": "Kansas"
+    },
+    "KFSK": {
+        "lat": 37.7984008789,
+        "long": -94.7694015503,
+        "name": "Fort Scott Municipal ",
+        "state": "Kansas"
+    },
+    "KGBD": {
+        "lat": 38.3442993164,
+        "long": -98.8591995239,
+        "name": "Great Bend Municipal ",
+        "state": "Kansas"
+    },
+    "KGCK": {
+        "lat": 37.9275016785,
+        "long": -100.7239990234,
+        "name": "Garden City Regional ",
+        "state": "Kansas"
+    },
+    "KGLD": {
+        "lat": 39.37060165,
+        "long": -101.6989975,
+        "name": "Renner Field-Goodland Municipal ",
+        "state": "Kansas"
+    },
+    "KHLC": {
+        "lat": 39.37879944,
+        "long": -99.83149719,
+        "name": "Hill City Municipal ",
+        "state": "Kansas"
+    },
+    "KHQG": {
+        "lat": 37.1631012,
+        "long": -101.3710022,
+        "name": "Hugoton Municipal ",
+        "state": "Kansas"
+    },
+    "KHRU": {
+        "lat": 38.6946983337,
+        "long": -96.8079986572,
+        "name": "Herington Regional ",
+        "state": "Kansas"
+    },
+    "KHUT": {
+        "lat": 38.0654983521,
+        "long": -97.8606033325,
+        "name": "Hutchinson Municipal ",
+        "state": "Kansas"
+    },
+    "KHYS": {
+        "lat": 38.84220123,
+        "long": -99.27320099,
+        "name": "Hays Regional ",
+        "state": "Kansas"
+    },
+    "KIAB": {
+        "lat": 37.62189865,
+        "long": -97.26820374,
+        "name": "Mc Connell Air Force Base",
+        "state": "Kansas"
+    },
+    "KICT": {
+        "lat": 37.6498985291,
+        "long": -97.4330978394,
+        "name": "Wichita Mid Continent ",
+        "state": "Kansas"
+    },
+    "KIDP": {
+        "lat": 37.1584014893,
+        "long": -95.7783966064,
+        "name": "Independence Municipal ",
+        "state": "Kansas"
+    },
+    "KIXD": {
+        "lat": 38.8308982849,
+        "long": -94.890296936,
+        "name": "New Century Aircenter ",
+        "state": "Kansas"
+    },
+    "KK32": {
+        "lat": 37.7481002808,
+        "long": -97.4067001343,
+        "name": "Riverside ",
+        "state": "Kansas"
+    },
+    "KK38": {
+        "lat": 39.73350143,
+        "long": -97.04769897,
+        "name": "Washington County Memorial ",
+        "state": "Kansas"
+    },
+    "KK51": {
+        "lat": 37.2625007629,
+        "long": -98.5462036133,
+        "name": "Medicine Lodge ",
+        "state": "Kansas"
+    },
+    "KK58": {
+        "lat": 37.1666984558,
+        "long": -99.775100708,
+        "name": "Harold Krier Field",
+        "state": "Kansas"
+    },
+    "KK59": {
+        "lat": 39.5704994202,
+        "long": -95.1802978516,
+        "name": "Amelia Earhart ",
+        "state": "Kansas"
+    },
+    "KK61": {
+        "lat": 39.4711990356,
+        "long": -98.1287994385,
+        "name": "Moritz Memorial ",
+        "state": "Kansas"
+    },
+    "KK75": {
+        "lat": 39.4291992188,
+        "long": -98.6794967651,
+        "name": "Osborne Municipal ",
+        "state": "Kansas"
+    },
+    "KK78": {
+        "lat": 38.9040985107,
+        "long": -97.2359008789,
+        "name": "Abilene Municipal ",
+        "state": "Kansas"
+    },
+    "KK79": {
+        "lat": 37.984500885,
+        "long": -99.8943023682,
+        "name": "Jetmore Municipal ",
+        "state": "Kansas"
+    },
+    "KK81": {
+        "lat": 38.540599823,
+        "long": -94.920501709,
+        "name": "Miami County ",
+        "state": "Kansas"
+    },
+    "KK82": {
+        "lat": 39.761100769,
+        "long": -98.7934036255,
+        "name": "Smith Center Municipal ",
+        "state": "Kansas"
+    },
+    "KK83": {
+        "lat": 39.9042015076,
+        "long": -95.7794036865,
+        "name": "Sabetha Municipal ",
+        "state": "Kansas"
+    },
+    "KK88": {
+        "lat": 37.870098114,
+        "long": -95.3863983154,
+        "name": "Allen County ",
+        "state": "Kansas"
+    },
+    "KK94": {
+        "lat": 38.5483016968,
+        "long": -99.2886962891,
+        "name": "Rush County ",
+        "state": "Kansas"
+    },
+    "KLBL": {
+        "lat": 37.0442009,
+        "long": -100.9599991,
+        "name": "Liberal Mid-America Regional ",
+        "state": "Kansas"
+    },
+    "KLQR": {
+        "lat": 38.20859909,
+        "long": -99.08599854,
+        "name": "Larned Pawnee County ",
+        "state": "Kansas"
+    },
+    "KLWC": {
+        "lat": 39.01119995,
+        "long": -95.21659851,
+        "name": "Lawrence Municipal ",
+        "state": "Kansas"
+    },
+    "KLYO": {
+        "lat": 38.34280014,
+        "long": -98.22689819,
+        "name": "Lyons Rice County Municipal ",
+        "state": "Kansas"
+    },
+    "KM66": {
+        "lat": 38.3431015015,
+        "long": -97.2142028809,
+        "name": "Alfred Schroeder Field",
+        "state": "Kansas"
+    },
+    "KMEJ": {
+        "lat": 37.2769012451,
+        "long": -100.3560028076,
+        "name": "Meade Municipal ",
+        "state": "Kansas"
+    },
+    "KMHK": {
+        "lat": 39.1409988403,
+        "long": -96.6707992554,
+        "name": "Manhattan Regional ",
+        "state": "Kansas"
+    },
+    "KMPR": {
+        "lat": 38.35240173,
+        "long": -97.69129944,
+        "name": "Mc Pherson ",
+        "state": "Kansas"
+    },
+    "KMYZ": {
+        "lat": 39.8553009033,
+        "long": -96.6305999756,
+        "name": "Marysville Municipal ",
+        "state": "Kansas"
+    },
+    "KNRN": {
+        "lat": 39.8503990173,
+        "long": -99.8946990967,
+        "name": "Norton Municipal ",
+        "state": "Kansas"
+    },
+    "KOEL": {
+        "lat": 39.1099014282,
+        "long": -100.8160018921,
+        "name": "Oakley Municipal ",
+        "state": "Kansas"
+    },
+    "KOIN": {
+        "lat": 39.8339004517,
+        "long": -100.5390014648,
+        "name": "Oberlin Municipal ",
+        "state": "Kansas"
+    },
+    "KOJC": {
+        "lat": 38.84759903,
+        "long": -94.73760223,
+        "name": "Johnson County Executive ",
+        "state": "Kansas"
+    },
+    "KOWI": {
+        "lat": 38.5387001038,
+        "long": -95.2529983521,
+        "name": "Ottawa Municipal ",
+        "state": "Kansas"
+    },
+    "KPHG": {
+        "lat": 39.7358016968,
+        "long": -99.3171005249,
+        "name": "Phillipsburg Municipal ",
+        "state": "Kansas"
+    },
+    "KPPF": {
+        "lat": 37.32989883,
+        "long": -95.5062027,
+        "name": "Tri City ",
+        "state": "Kansas"
+    },
+    "KPTS": {
+        "lat": 37.4495010376,
+        "long": -94.7311019897,
+        "name": "Atkinson Municipal ",
+        "state": "Kansas"
+    },
+    "KPTT": {
+        "lat": 37.70159912,
+        "long": -98.74690247,
+        "name": "Pratt Industrial ",
+        "state": "Kansas"
+    },
+    "KRCP": {
+        "lat": 39.346592,
+        "long": -99.304649,
+        "name": "Stockton / Rooks County Regional",
+        "state": "Kansas"
+    },
+    "KRPB": {
+        "lat": 39.8179016113,
+        "long": -97.6595993042,
+        "name": "Belleville Municipal ",
+        "state": "Kansas"
+    },
+    "KRSL": {
+        "lat": 38.8721008301,
+        "long": -98.8117980957,
+        "name": "Russell Municipal ",
+        "state": "Kansas"
+    },
+    "KSLN": {
+        "lat": 38.7910003662,
+        "long": -97.6521987915,
+        "name": "Salina Municipal ",
+        "state": "Kansas"
+    },
+    "KSYF": {
+        "lat": 39.76110077,
+        "long": -101.7959976,
+        "name": "Cheyenne County Municipal ",
+        "state": "Kansas"
+    },
+    "KTKO": {
+        "lat": 39.8027992249,
+        "long": -98.2211990356,
+        "name": "Mankato ",
+        "state": "Kansas"
+    },
+    "KTOP": {
+        "lat": 39.0686988831,
+        "long": -95.6224975586,
+        "name": "Philip Billard Municipal ",
+        "state": "Kansas"
+    },
+    "KTQK": {
+        "lat": 38.4743003845,
+        "long": -100.8850021362,
+        "name": "Scott City Municipal ",
+        "state": "Kansas"
+    },
+    "KUKL": {
+        "lat": 38.30250168,
+        "long": -95.72499847,
+        "name": "Coffey County ",
+        "state": "Kansas"
+    },
+    "KULS": {
+        "lat": 37.60400009,
+        "long": -101.3740005,
+        "name": "Ulysses ",
+        "state": "Kansas"
+    },
+    "KWLD": {
+        "lat": 37.168598175,
+        "long": -97.0375976563,
+        "name": "Strother Field",
+        "state": "Kansas"
+    },
+    "SN00": {
+        "lat": 38.8469009399,
+        "long": -97.5503005981,
+        "name": "J Roesner ",
+        "state": "Kansas"
+    },
+    "SN02": {
+        "lat": 39.4082984924,
+        "long": -102.0210037231,
+        "name": "Wright International ",
+        "state": "Kansas"
+    },
+    "SN03": {
+        "lat": 39.6293983459,
+        "long": -100.0149993896,
+        "name": "Lenora Municipal ",
+        "state": "Kansas"
+    },
+    "SN04": {
+        "lat": 38.4230995178,
+        "long": -96.3719024658,
+        "name": "Roberts Memorial ",
+        "state": "Kansas"
+    },
+    "SN05": {
+        "lat": 38.0313987732,
+        "long": -97.5092010498,
+        "name": "Halstead ",
+        "state": "Kansas"
+    },
+    "SN07": {
+        "lat": 37.659198761,
+        "long": -96.5271987915,
+        "name": "Beaumont Hotel ",
+        "state": "Kansas"
+    },
+    "SN08": {
+        "lat": 37.9916992188,
+        "long": -97.6564025879,
+        "name": "Fisher ",
+        "state": "Kansas"
+    },
+    "SN09": {
+        "lat": 39.113899231,
+        "long": -97.6830978394,
+        "name": "Solomon Valley Airpark",
+        "state": "Kansas"
+    },
+    "SN10": {
+        "lat": 37.3958015442,
+        "long": -97.2099990845,
+        "name": "Belle Plaine Farms ",
+        "state": "Kansas"
+    },
+    "SN12": {
+        "lat": 37.363899231,
+        "long": -100.4710006714,
+        "name": "Jenkinson ",
+        "state": "Kansas"
+    },
+    "SN13": {
+        "lat": 37.6582984924,
+        "long": -97.7744979858,
+        "name": "Albers ",
+        "state": "Kansas"
+    },
+    "SN14": {
+        "lat": 38.4166984558,
+        "long": -95.5168991089,
+        "name": "Schoolcraft ",
+        "state": "Kansas"
+    },
+    "SN16": {
+        "lat": 37.8563995361,
+        "long": -97.2697982788,
+        "name": "Curtis ",
+        "state": "Kansas"
+    },
+    "SN17": {
+        "lat": 37.0719985962,
+        "long": -99.6051025391,
+        "name": "Shupe ",
+        "state": "Kansas"
+    },
+    "SN18": {
+        "lat": 37.6666984558,
+        "long": -97.016998291,
+        "name": "Sills Air Park",
+        "state": "Kansas"
+    },
+    "SN19": {
+        "lat": 37.625,
+        "long": -97.0961990356,
+        "name": "Flying H Ranch ",
+        "state": "Kansas"
+    },
+    "SN20": {
+        "lat": 37.7195014954,
+        "long": -97.0488967896,
+        "name": "Brady-Pippin ",
+        "state": "Kansas"
+    },
+    "SN21": {
+        "lat": 38.8227996826,
+        "long": -95.2878036499,
+        "name": "Flory /Private/ ",
+        "state": "Kansas"
+    },
+    "SN22": {
+        "lat": 39.1122016907,
+        "long": -94.9561004639,
+        "name": "Hoelting ",
+        "state": "Kansas"
+    },
+    "SN23": {
+        "lat": 39.9119987488,
+        "long": -98.6656036377,
+        "name": "Overmiller ",
+        "state": "Kansas"
+    },
+    "SN25": {
+        "lat": 37.418598175,
+        "long": -101.5579986572,
+        "name": "Lucas ",
+        "state": "Kansas"
+    },
+    "SN26": {
+        "lat": 38.1777992249,
+        "long": -95.0029983521,
+        "name": "Horttor ",
+        "state": "Kansas"
+    },
+    "SN27": {
+        "lat": 39.0625,
+        "long": -94.9447021484,
+        "name": "Bovinair ",
+        "state": "Kansas"
+    },
+    "SN28": {
+        "lat": 38.86859894,
+        "long": -97.93779755,
+        "name": "Belcher ",
+        "state": "Kansas"
+    },
+    "SN29": {
+        "lat": 38.1875,
+        "long": -99.533996582,
+        "name": "Rucker Burdett ",
+        "state": "Kansas"
+    },
+    "SN32": {
+        "lat": 37.426399231,
+        "long": -97.2695007324,
+        "name": "Rands ",
+        "state": "Kansas"
+    },
+    "SN33": {
+        "lat": 39.4333000183,
+        "long": -97.1211013794,
+        "name": "Callaway Airpark",
+        "state": "Kansas"
+    },
+    "SN34": {
+        "lat": 37.5750007629,
+        "long": -97.4919967651,
+        "name": "Rucker ",
+        "state": "Kansas"
+    },
+    "SN36": {
+        "lat": 37.426399231,
+        "long": -97.637802124,
+        "name": "Wamsley Field",
+        "state": "Kansas"
+    },
+    "SN37": {
+        "lat": 38.3870010376,
+        "long": -96.7296981812,
+        "name": "Harold K. Wells ",
+        "state": "Kansas"
+    },
+    "SN39": {
+        "lat": 39.25,
+        "long": -97.6502990723,
+        "name": "Baldock Farm ",
+        "state": "Kansas"
+    },
+    "SN40": {
+        "lat": 37.523601532,
+        "long": -97.1984024048,
+        "name": "Olson Aerodrome",
+        "state": "Kansas"
+    },
+    "SN41": {
+        "lat": 37.5041999817,
+        "long": -94.8266983032,
+        "name": "Ziggy Carline ",
+        "state": "Kansas"
+    },
+    "SN42": {
+        "lat": 38.5614013672,
+        "long": -95.2081985474,
+        "name": "Harrod ",
+        "state": "Kansas"
+    },
+    "SN43": {
+        "lat": 39.5041999817,
+        "long": -95.4710998535,
+        "name": "Strafuss ",
+        "state": "Kansas"
+    },
+    "SN44": {
+        "lat": 37.3000984192,
+        "long": -95.9002990723,
+        "name": "Bob Faler ",
+        "state": "Kansas"
+    },
+    "SN45": {
+        "lat": 38.831401825,
+        "long": -95.2664031982,
+        "name": "Michael's ",
+        "state": "Kansas"
+    },
+    "SN46": {
+        "lat": 37.8718986511,
+        "long": -97.0721969604,
+        "name": "Taylor ",
+        "state": "Kansas"
+    },
+    "SN47": {
+        "lat": 38.7667007446,
+        "long": -96.1072006226,
+        "name": "Converse Farm ",
+        "state": "Kansas"
+    },
+    "SN48": {
+        "lat": 37.7882995605,
+        "long": -98.8498001099,
+        "name": "Moore Field",
+        "state": "Kansas"
+    },
+    "SN49": {
+        "lat": 39.6852989197,
+        "long": -97.9711990356,
+        "name": "Mc Collough Airfield",
+        "state": "Kansas"
+    },
+    "SN51": {
+        "lat": 39.5896987915,
+        "long": -100.4280014038,
+        "name": "Meitl ",
+        "state": "Kansas"
+    },
+    "SN52": {
+        "lat": 37.48139954,
+        "long": -97.01200104,
+        "name": "Pilot Pointe Estates ",
+        "state": "Kansas"
+    },
+    "SN53": {
+        "lat": 37.4333992004,
+        "long": -95.9169006348,
+        "name": "Bonner Field",
+        "state": "Kansas"
+    },
+    "SN55": {
+        "lat": 38.2153015137,
+        "long": -101.0029983521,
+        "name": "R J C Farms Inc ",
+        "state": "Kansas"
+    },
+    "SN57": {
+        "lat": 38.698600769,
+        "long": -95.3003005981,
+        "name": "Witham ",
+        "state": "Kansas"
+    },
+    "SN58": {
+        "lat": 37.8699989319,
+        "long": -96.646697998,
+        "name": "Foster Field",
+        "state": "Kansas"
+    },
+    "SN59": {
+        "lat": 38.8527984619,
+        "long": -94.9100036621,
+        "name": "Hermon Farm ",
+        "state": "Kansas"
+    },
+    "SN61": {
+        "lat": 37.6596984863,
+        "long": -97.6295013428,
+        "name": "Yoder Airpark",
+        "state": "Kansas"
+    },
+    "SN62": {
+        "lat": 37.8741989136,
+        "long": -97.5124969482,
+        "name": "Roberts Field",
+        "state": "Kansas"
+    },
+    "SN63": {
+        "lat": 37.6083984375,
+        "long": -99.1156997681,
+        "name": "Gail Ballard ",
+        "state": "Kansas"
+    },
+    "SN64": {
+        "lat": 37.6958007813,
+        "long": -97.5391998291,
+        "name": "Eck Field",
+        "state": "Kansas"
+    },
+    "SN65": {
+        "lat": 37.5917015076,
+        "long": -97.6169967651,
+        "name": "Lake Waltanna ",
+        "state": "Kansas"
+    },
+    "SN66": {
+        "lat": 38.8182983398,
+        "long": -100.4550018311,
+        "name": "Beesley Farms ",
+        "state": "Kansas"
+    },
+    "SN67": {
+        "lat": 38.3833007813,
+        "long": -98.7503967285,
+        "name": "Button ",
+        "state": "Kansas"
+    },
+    "SN68": {
+        "lat": 37.8791999817,
+        "long": -97.3103027344,
+        "name": "Lil Bird ",
+        "state": "Kansas"
+    },
+    "SN69": {
+        "lat": 37.9314002991,
+        "long": -94.6427001953,
+        "name": "Emmerson ",
+        "state": "Kansas"
+    },
+    "SN70": {
+        "lat": 37.2513999939,
+        "long": -97.954498291,
+        "name": "Kaypod ",
+        "state": "Kansas"
+    },
+    "SN71": {
+        "lat": 37.3027992249,
+        "long": -97.9642028809,
+        "name": "Bob Park ",
+        "state": "Kansas"
+    },
+    "SN72": {
+        "lat": 38.2999992371,
+        "long": -95.4400024414,
+        "name": "Graham Farms ",
+        "state": "Kansas"
+    },
+    "SN75": {
+        "lat": 39.8666992188,
+        "long": -95.3336029053,
+        "name": "Sommers ",
+        "state": "Kansas"
+    },
+    "SN76": {
+        "lat": 37.926399231,
+        "long": -97.9061965942,
+        "name": "Sunflower Aerodrome",
+        "state": "Kansas"
+    },
+    "SN77": {
+        "lat": 37.4000015259,
+        "long": -101.766998291,
+        "name": "Johns ",
+        "state": "Kansas"
+    },
+    "SN78": {
+        "lat": 38.6981010437,
+        "long": -94.7188034058,
+        "name": "Albright ",
+        "state": "Kansas"
+    },
+    "SN81": {
+        "lat": 39.1819000244,
+        "long": -94.8700027466,
+        "name": "Hancock ",
+        "state": "Kansas"
+    },
+    "SN83": {
+        "lat": 39.2271995544,
+        "long": -94.9514007568,
+        "name": "Highcrest Air Park",
+        "state": "Kansas"
+    },
+    "SN84": {
+        "lat": 39.2708015442,
+        "long": -94.987701416,
+        "name": "Blaser's ",
+        "state": "Kansas"
+    },
+    "SN85": {
+        "lat": 38.7336006165,
+        "long": -95.1022033691,
+        "name": "Fox Fire ",
+        "state": "Kansas"
+    },
+    "SN86": {
+        "lat": 38.7042007446,
+        "long": -101.4209976196,
+        "name": "Arrow B Ranch ",
+        "state": "Kansas"
+    },
+    "SN87": {
+        "lat": 37.2599983215,
+        "long": -100.9069976807,
+        "name": "Supreme Feeders ",
+        "state": "Kansas"
+    },
+    "SN88": {
+        "lat": 38.5713996887,
+        "long": -94.7126998901,
+        "name": "Crosswind Airfield",
+        "state": "Kansas"
+    },
+    "SN89": {
+        "lat": 38.5377998352,
+        "long": -94.7268981934,
+        "name": "Somerset ",
+        "state": "Kansas"
+    },
+    "SN90": {
+        "lat": 39.226398468,
+        "long": -95.1919021606,
+        "name": "D'Field ",
+        "state": "Kansas"
+    },
+    "SN91": {
+        "lat": 38.1096992493,
+        "long": -96.1156005859,
+        "name": "Godfrey ",
+        "state": "Kansas"
+    },
+    "SN92": {
+        "lat": 39.3333015442,
+        "long": -96.700302124,
+        "name": "Sunshine Ranch ",
+        "state": "Kansas"
+    },
+    "SN93": {
+        "lat": 38.6458015442,
+        "long": -95.9891967773,
+        "name": "Dickson /Private/ ",
+        "state": "Kansas"
+    },
+    "SN94": {
+        "lat": 37.4667015076,
+        "long": -100,
+        "name": "Amy ",
+        "state": "Kansas"
+    },
+    "SN95": {
+        "lat": 37.9775009155,
+        "long": -98.4041976929,
+        "name": "Roberts Air Field",
+        "state": "Kansas"
+    },
+    "SN97": {
+        "lat": 37.3264007568,
+        "long": -101.1979980469,
+        "name": "Brollier ",
+        "state": "Kansas"
+    },
+    "SN99": {
+        "lat": 39.4000015259,
+        "long": -96.6169967651,
+        "name": "Laflin Ranch ",
+        "state": "Kansas"
+    }
+}

@@ -1,0 +1,72 @@
+{
+  "DNTZ": {
+    "lat": 36.075833,
+    "long": 10.438611,
+    "name": "Enfidha Zine El Abidine Ben Ali International "
+  },
+  "DT70": {
+    "lat": 33.3502006531,
+    "long": 10.4440002441,
+    "name": "Medenine "
+  },
+  "DTKA": {
+    "lat": 36.9799995422,
+    "long": 8.8769397736,
+    "name": "Tabarka 7 Novembre "
+  },
+  "DTMB": {
+    "lat": 35.7580986023,
+    "long": 10.754699707,
+    "name": "Monastir Habib Bourguiba International "
+  },
+  "DTTA": {
+    "lat": 36.8510017395,
+    "long": 10.2271995544,
+    "name": "Tunis Carthage International "
+  },
+  "DTTB": {
+    "lat": 37.2453994751,
+    "long": 9.7914495468,
+    "name": "Sidi Ahmed Air Base"
+  },
+  "DTTD": {
+    "lat": 32.3061981201,
+    "long": 10.3821001053,
+    "name": "Remada Air Base"
+  },
+  "DTTF": {
+    "lat": 34.422000885,
+    "long": 8.8225002289,
+    "name": "Gafsa Ksar International "
+  },
+  "DTTG": {
+    "lat": 33.8768997192,
+    "long": 10.1033000946,
+    "name": "Gabes Matmata International "
+  },
+  "DTTI": {
+    "lat": 36.7212982178,
+    "long": 9.9431495667,
+    "name": "Borj El Amri "
+  },
+  "DTTJ": {
+    "lat": 33.875,
+    "long": 10.7755002975,
+    "name": "Djerba Zarzis International "
+  },
+  "DTTR": {
+    "lat": 31.7042999268,
+    "long": 9.2546195984,
+    "name": "El Borma "
+  },
+  "DTTX": {
+    "lat": 34.7179985046,
+    "long": 10.6909999847,
+    "name": "Sfax Thyna International "
+  },
+  "DTTZ": {
+    "lat": 33.9397010803,
+    "long": 8.1105604172,
+    "name": "Tozeur Nefta International "
+  }
+}

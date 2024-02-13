@@ -1,0 +1,728 @@
+{
+    "K1N1": {
+        "lat": 35.0945014954,
+        "long": -106.1669998169,
+        "name": "Sandia Airpark Estates East ",
+        "state": "New-Mexico"
+    },
+    "K1V0": {
+        "lat": 36.8083000183,
+        "long": -107.6510009766,
+        "name": "Navajo Lake ",
+        "state": "New-Mexico"
+    },
+    "K24N": {
+        "lat": 36.8284988403,
+        "long": -106.8840026855,
+        "name": "Jicarilla Apache Nation ",
+        "state": "New-Mexico"
+    },
+    "K5T6": {
+        "lat": 31.8810005188,
+        "long": -106.7050018311,
+        "name": "Dona Ana County At Santa Teresa ",
+        "state": "New-Mexico"
+    },
+    "K5V5": {
+        "lat": 36.6977996826,
+        "long": -108.7009963989,
+        "name": "Shiprock Airstrip",
+        "state": "New-Mexico"
+    },
+    "K94E": {
+        "lat": 32.7620010376,
+        "long": -108.2080001831,
+        "name": "Whiskey Creek ",
+        "state": "New-Mexico"
+    },
+    "K95E": {
+        "lat": 33.81900024,
+        "long": -106.6449966,
+        "name": "Stallion Army Air Field",
+        "state": "New-Mexico"
+    },
+    "KABQ": {
+        "lat": 35.0401992798,
+        "long": -106.6090011597,
+        "name": "Albuquerque International Sunport ",
+        "state": "New-Mexico"
+    },
+    "KAEG": {
+        "lat": 35.145198822,
+        "long": -106.7949981689,
+        "name": "Double Eagle II ",
+        "state": "New-Mexico"
+    },
+    "KALM": {
+        "lat": 32.8399009705,
+        "long": -105.9909973145,
+        "name": "Alamogordo White Sands Regional ",
+        "state": "New-Mexico"
+    },
+    "KATS": {
+        "lat": 32.8525009155,
+        "long": -104.468002319,
+        "name": "Artesia Municipal ",
+        "state": "New-Mexico"
+    },
+    "KAXX": {
+        "lat": 36.422000885,
+        "long": -105.290000916,
+        "name": "Angel Fire ",
+        "state": "New-Mexico"
+    },
+    "KCAO": {
+        "lat": 36.4462013245,
+        "long": -103.166999817,
+        "name": "Clayton Municipal Airpark",
+        "state": "New-Mexico"
+    },
+    "KCNM": {
+        "lat": 32.3375015259,
+        "long": -104.2630004883,
+        "name": "Cavern City Air Terminal",
+        "state": "New-Mexico"
+    },
+    "KCVN": {
+        "lat": 34.4250984192,
+        "long": -103.07900238,
+        "name": "Clovis Municipal ",
+        "state": "New-Mexico"
+    },
+    "KCVS": {
+        "lat": 34.3828010559,
+        "long": -103.3219985962,
+        "name": "Cannon Air Force Base",
+        "state": "New-Mexico"
+    },
+    "KDMN": {
+        "lat": 32.262298584,
+        "long": -107.7210006714,
+        "name": "Deming Municipal ",
+        "state": "New-Mexico"
+    },
+    "KE05": {
+        "lat": 32.6610984802,
+        "long": -107.1979980469,
+        "name": "Hatch Municipal ",
+        "state": "New-Mexico"
+    },
+    "KE06": {
+        "lat": 32.95389938,
+        "long": -103.4089966,
+        "name": "Lea County-Zip Franklin Memorial ",
+        "state": "New-Mexico"
+    },
+    "KE14": {
+        "lat": 36.0299987793,
+        "long": -106.04599762,
+        "name": "Ohkay Owingeh ",
+        "state": "New-Mexico"
+    },
+    "KE26": {
+        "lat": 32.1310997009,
+        "long": -103.1549987793,
+        "name": "Lea County Jal ",
+        "state": "New-Mexico"
+    },
+    "KE80": {
+        "lat": 34.645198822,
+        "long": -106.8339996338,
+        "name": "Alexander Municipal ",
+        "state": "New-Mexico"
+    },
+    "KE89": {
+        "lat": 35.3643989563,
+        "long": -104.1819992065,
+        "name": "Conchas Lake ",
+        "state": "New-Mexico"
+    },
+    "KE98": {
+        "lat": 34.7597999573,
+        "long": -106.7450027466,
+        "name": "Mid Valley Airpark",
+        "state": "New-Mexico"
+    },
+    "KF37": {
+        "lat": 33.6488990784,
+        "long": -105.8960037231,
+        "name": "Carrizozo Municipal ",
+        "state": "New-Mexico"
+    },
+    "KFMN": {
+        "lat": 36.7411994934,
+        "long": -108.2300033569,
+        "name": "Four Corners Regional ",
+        "state": "New-Mexico"
+    },
+    "KFSU": {
+        "lat": 34.4833984375,
+        "long": -104.2170028687,
+        "name": "Fort Sumner Municipal ",
+        "state": "New-Mexico"
+    },
+    "KGNT": {
+        "lat": 35.167301178,
+        "long": -107.9020004272,
+        "name": "Grants Milan Municipal ",
+        "state": "New-Mexico"
+    },
+    "KGUP": {
+        "lat": 35.511100769,
+        "long": -108.789001465,
+        "name": "Gallup Municipal ",
+        "state": "New-Mexico"
+    },
+    "KHMN": {
+        "lat": 32.8525009155,
+        "long": -106.1070022583,
+        "name": "Holloman Air Force Base",
+        "state": "New-Mexico"
+    },
+    "KHOB": {
+        "lat": 32.6875,
+        "long": -103.2170029,
+        "name": "Lea County Regional ",
+        "state": "New-Mexico"
+    },
+    "KLAM": {
+        "lat": 35.8797988892,
+        "long": -106.2689971924,
+        "name": "Los Alamos ",
+        "state": "New-Mexico"
+    },
+    "KLRU": {
+        "lat": 32.2893981934,
+        "long": -106.9219970703,
+        "name": "Las Cruces International ",
+        "state": "New-Mexico"
+    },
+    "KLSB": {
+        "lat": 32.3334999084,
+        "long": -108.6920013428,
+        "name": "Lordsburg Municipal ",
+        "state": "New-Mexico"
+    },
+    "KLVS": {
+        "lat": 35.6542015076,
+        "long": -105.141998291,
+        "name": "Las Vegas Municipal ",
+        "state": "New-Mexico"
+    },
+    "KN19": {
+        "lat": 36.8347015381,
+        "long": -108.0279998779,
+        "name": "Aztec Municipal ",
+        "state": "New-Mexico"
+    },
+    "KN24": {
+        "lat": 36.8003005981,
+        "long": -105.5979995728,
+        "name": "Questa Municipal Nr 2 ",
+        "state": "New-Mexico"
+    },
+    "KONM": {
+        "lat": 34.0224990845,
+        "long": -106.9029998779,
+        "name": "Socorro Municipal ",
+        "state": "New-Mexico"
+    },
+    "KPRZ": {
+        "lat": 34.1455001831,
+        "long": -103.4100036621,
+        "name": "Portales Municipal ",
+        "state": "New-Mexico"
+    },
+    "KROW": {
+        "lat": 33.3016014099,
+        "long": -104.53099823,
+        "name": "Roswell International Air Center ",
+        "state": "New-Mexico"
+    },
+    "KRTN": {
+        "lat": 36.74150085,
+        "long": -104.5019989,
+        "name": "Raton Municipal-Crews Field",
+        "state": "New-Mexico"
+    },
+    "KS42": {
+        "lat": 36.3269996643,
+        "long": -104.6200027466,
+        "name": "Springer Municipal ",
+        "state": "New-Mexico"
+    },
+    "KSAF": {
+        "lat": 35.617099762,
+        "long": -106.088996887,
+        "name": "Santa Fe Municipal ",
+        "state": "New-Mexico"
+    },
+    "KSKX": {
+        "lat": 36.45819855,
+        "long": -105.6719971,
+        "name": "Taos Regional ",
+        "state": "New-Mexico"
+    },
+    "KSRR": {
+        "lat": 33.4627990723,
+        "long": -105.5350036621,
+        "name": "Sierra Blanca Regional ",
+        "state": "New-Mexico"
+    },
+    "KSVC": {
+        "lat": 32.6365013123,
+        "long": -108.15599823,
+        "name": "Grant County ",
+        "state": "New-Mexico"
+    },
+    "KSXU": {
+        "lat": 34.93439865,
+        "long": -104.6429977,
+        "name": "Santa Rosa Route 66 ",
+        "state": "New-Mexico"
+    },
+    "KT16": {
+        "lat": 33.6941986084,
+        "long": -108.8489990234,
+        "name": "Reserve ",
+        "state": "New-Mexico"
+    },
+    "KTCC": {
+        "lat": 35.182800293,
+        "long": -103.6029968262,
+        "name": "Tucumcari Municipal ",
+        "state": "New-Mexico"
+    },
+    "KTCS": {
+        "lat": 33.2369003296,
+        "long": -107.2720031738,
+        "name": "Truth Or Consequences Municipal ",
+        "state": "New-Mexico"
+    },
+    "KWSD": {
+        "lat": 32.34149933,
+        "long": -106.4029999,
+        "name": "Condron Army Air Field",
+        "state": "New-Mexico"
+    },
+    "KZUN": {
+        "lat": 35.0831985474,
+        "long": -108.7919998169,
+        "name": "Black Rock ",
+        "state": "New-Mexico"
+    },
+    "NM01": {
+        "lat": 34.0974998474,
+        "long": -107.297996521,
+        "name": "Rancho Magdalena ",
+        "state": "New-Mexico"
+    },
+    "NM02": {
+        "lat": 34.92229843,
+        "long": -106.1669998,
+        "name": "Biplane Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM03": {
+        "lat": 33.275100708,
+        "long": -104.3690032959,
+        "name": "K-D Field",
+        "state": "New-Mexico"
+    },
+    "NM04": {
+        "lat": 36.6777992249,
+        "long": -108.0839996338,
+        "name": "Keller Field",
+        "state": "New-Mexico"
+    },
+    "NM05": {
+        "lat": 36.7447013855,
+        "long": -108.1500015259,
+        "name": "Williams ",
+        "state": "New-Mexico"
+    },
+    "NM08": {
+        "lat": 32.2625999451,
+        "long": -107.4039993286,
+        "name": "Solo Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM09": {
+        "lat": 31.8673000336,
+        "long": -107.6360015869,
+        "name": "First Aero Squadron Airpark",
+        "state": "New-Mexico"
+    },
+    "NM10": {
+        "lat": 35.8791999817,
+        "long": -103.81300354,
+        "name": "Tequesquite Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM13": {
+        "lat": 32.2472991943,
+        "long": -107.1920013428,
+        "name": "Burris E Station ",
+        "state": "New-Mexico"
+    },
+    "NM14": {
+        "lat": 32.3111991882,
+        "long": -107.2949981689,
+        "name": "Burris 'E' Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM15": {
+        "lat": 36.0461006165,
+        "long": -103.8870010376,
+        "name": "Clavel Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM16": {
+        "lat": 36.8666992188,
+        "long": -106.5670013428,
+        "name": "Chama Land & Cattle Co. ",
+        "state": "New-Mexico"
+    },
+    "NM17": {
+        "lat": 35.9305992126,
+        "long": -104.1839981079,
+        "name": "Ray Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM20": {
+        "lat": 33.2519989014,
+        "long": -104.4420013428,
+        "name": "Benedict Airpark",
+        "state": "New-Mexico"
+    },
+    "NM21": {
+        "lat": 35.1749992371,
+        "long": -105.8700027466,
+        "name": "Patterson Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM24": {
+        "lat": 36.9216995239,
+        "long": -106.5599975586,
+        "name": "Eastside ",
+        "state": "New-Mexico"
+    },
+    "NM25": {
+        "lat": 34.1241989136,
+        "long": -105.6709976196,
+        "name": "Lincoln Station ",
+        "state": "New-Mexico"
+    },
+    "NM26": {
+        "lat": 32.1001014709,
+        "long": -107.8229980469,
+        "name": "Luna Landing ",
+        "state": "New-Mexico"
+    },
+    "NM27": {
+        "lat": 36.4225006104,
+        "long": -108.861000061,
+        "name": "Sanostee ",
+        "state": "New-Mexico"
+    },
+    "NM28": {
+        "lat": 33.0569992065,
+        "long": -106.0250015259,
+        "name": "Beckett Farm ",
+        "state": "New-Mexico"
+    },
+    "NM29": {
+        "lat": 35.8342018127,
+        "long": -103.43699646,
+        "name": "Rosebud ",
+        "state": "New-Mexico"
+    },
+    "NM30": {
+        "lat": 34.8750991821,
+        "long": -103.0670013428,
+        "name": "Mitchell Farms ",
+        "state": "New-Mexico"
+    },
+    "NM31": {
+        "lat": 34.496208,
+        "long": -108.029722,
+        "name": "Elk Valley Airstrip",
+        "state": "New-Mexico"
+    },
+    "NM32": {
+        "lat": 35.7078018188,
+        "long": -104.0609970093,
+        "name": "Bell Ranch Waggoner ",
+        "state": "New-Mexico"
+    },
+    "NM33": {
+        "lat": 35.5475006104,
+        "long": -104.0839996338,
+        "name": "Bell Ranch Headquarters ",
+        "state": "New-Mexico"
+    },
+    "NM36": {
+        "lat": 34.9028015137,
+        "long": -108.5149993896,
+        "name": "Candy Kitchen Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM37": {
+        "lat": 33.576499939,
+        "long": -107.9000015259,
+        "name": "Adobe Ranch Private ",
+        "state": "New-Mexico"
+    },
+    "NM38": {
+        "lat": 34.1172981262,
+        "long": -104.4270019531,
+        "name": "Double V Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM39": {
+        "lat": 36.6328010559,
+        "long": -108.3109970093,
+        "name": "Davenport ",
+        "state": "New-Mexico"
+    },
+    "NM40": {
+        "lat": 32.9634017944,
+        "long": -105.9990005493,
+        "name": "Gorby Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM41": {
+        "lat": 34.0611991882,
+        "long": -108.0960006714,
+        "name": "Happy Mountain ",
+        "state": "New-Mexico"
+    },
+    "NM42": {
+        "lat": 34.4157981873,
+        "long": -103.1480026245,
+        "name": "Aero Tech Inc ",
+        "state": "New-Mexico"
+    },
+    "NM44": {
+        "lat": 34.0172996521,
+        "long": -104.1159973145,
+        "name": "Bojax Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM47": {
+        "lat": 32.7801017761,
+        "long": -104.3809967041,
+        "name": "2 X 4 Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM48": {
+        "lat": 36.7305984497,
+        "long": -106.4950027466,
+        "name": "Esenada ",
+        "state": "New-Mexico"
+    },
+    "NM49": {
+        "lat": 34.5815010071,
+        "long": -106.0749969482,
+        "name": "J & M Farms ",
+        "state": "New-Mexico"
+    },
+    "NM51": {
+        "lat": 33.3283996582,
+        "long": -107.6620025635,
+        "name": "Chloride ",
+        "state": "New-Mexico"
+    },
+    "NM52": {
+        "lat": 35.5746994019,
+        "long": -103.2870025635,
+        "name": "Camco Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM53": {
+        "lat": 35.5099983215,
+        "long": -104.5839996338,
+        "name": "San Miguel Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM55": {
+        "lat": 33.3628005981,
+        "long": -108.8639984131,
+        "name": "Whitewater Mesa Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM56": {
+        "lat": 35.1652984619,
+        "long": -108.458999634,
+        "name": "Mystic Bluffs ",
+        "state": "New-Mexico"
+    },
+    "NM59": {
+        "lat": 35.324798584,
+        "long": -106.6669998169,
+        "name": "Price's Dairy ",
+        "state": "New-Mexico"
+    },
+    "NM61": {
+        "lat": 35.1166992188,
+        "long": -106.1470031738,
+        "name": "New Mexico Soaring Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM63": {
+        "lat": 35.1657981873,
+        "long": -106.0120010376,
+        "name": "Big Sky ",
+        "state": "New-Mexico"
+    },
+    "NM64": {
+        "lat": 31.4587001801,
+        "long": -108.8629989624,
+        "name": "Gray Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM66": {
+        "lat": 34.4151992798,
+        "long": -108.077003479,
+        "name": "Poco Loco ",
+        "state": "New-Mexico"
+    },
+    "NM67": {
+        "lat": 36.8569984436,
+        "long": -104.4479980469,
+        "name": "La Mesa Park ",
+        "state": "New-Mexico"
+    },
+    "NM68": {
+        "lat": 33.8050994873,
+        "long": -108.3430023193,
+        "name": "Rael Ranch Horse Pasture ",
+        "state": "New-Mexico"
+    },
+    "NM69": {
+        "lat": 32.814201355,
+        "long": -107.9400024414,
+        "name": "Casas Adobes Airpark",
+        "state": "New-Mexico"
+    },
+    "NM70": {
+        "lat": 31.9500007629,
+        "long": -109.0419998169,
+        "name": "Rodeo ",
+        "state": "New-Mexico"
+    },
+    "NM71": {
+        "lat": 33.332901001,
+        "long": -106.0260009766,
+        "name": "Three Rivers Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM72": {
+        "lat": 32.7419013977,
+        "long": -108.2880020142,
+        "name": "Turner Ridgeport ",
+        "state": "New-Mexico"
+    },
+    "NM73": {
+        "lat": 34.7723007202,
+        "long": -103.8560028076,
+        "name": "Akin and Akin ",
+        "state": "New-Mexico"
+    },
+    "NM74": {
+        "lat": 35.0875015259,
+        "long": -107.56300354,
+        "name": "Cubero ",
+        "state": "New-Mexico"
+    },
+    "NM75": {
+        "lat": 35.8135986328,
+        "long": -104.9700012207,
+        "name": "Doolittle Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM76": {
+        "lat": 35.260799408,
+        "long": -104.9189987183,
+        "name": "Park Springs ",
+        "state": "New-Mexico"
+    },
+    "NM78": {
+        "lat": 31.8778991699,
+        "long": -107.6460037231,
+        "name": "Hacienda Sur Luna ",
+        "state": "New-Mexico"
+    },
+    "NM79": {
+        "lat": 32.4430999756,
+        "long": -106.6800003052,
+        "name": "Shoestring Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM80": {
+        "lat": 34.3403015137,
+        "long": -108.5149993896,
+        "name": "Quemado ",
+        "state": "New-Mexico"
+    },
+    "NM83": {
+        "lat": 32.7667999268,
+        "long": -103.2089996338,
+        "name": "Industrial Airpark",
+        "state": "New-Mexico"
+    },
+    "NM84": {
+        "lat": 33.5444984436,
+        "long": -105.3759994507,
+        "name": "G Bar F Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM86": {
+        "lat": 31.9368000031,
+        "long": -108.5370025635,
+        "name": "Playas Air Strip",
+        "state": "New-Mexico"
+    },
+    "NM87": {
+        "lat": 33.2383003235,
+        "long": -104.4710006714,
+        "name": "Jenkins ",
+        "state": "New-Mexico"
+    },
+    "NM88": {
+        "lat": 34.54330063,
+        "long": -106.7600021,
+        "name": "Skywagon Farm ",
+        "state": "New-Mexico"
+    },
+    "NM89": {
+        "lat": 34.7756996155,
+        "long": -106.5210037231,
+        "name": "Manzano-Mountain Air Ranch ",
+        "state": "New-Mexico"
+    },
+    "NM90": {
+        "lat": 31.9029998779,
+        "long": -109.0250015259,
+        "name": "Amigos Del Cielo ",
+        "state": "New-Mexico"
+    },
+    "NM91": {
+        "lat": 34.62229919,
+        "long": -108.7900009,
+        "name": "High Lonesome ",
+        "state": "New-Mexico"
+    },
+    "NM92": {
+        "lat": 35.295767,
+        "long": -105.6115,
+        "name": "Tierra De Dios ",
+        "state": "New-Mexico"
+    },
+    "TA50": {
+        "lat": 31.9092998505,
+        "long": -106.6409988403,
+        "name": "Cielo Dorado Estates ",
+        "state": "New-Mexico"
+    }
+}

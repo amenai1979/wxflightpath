@@ -1,0 +1,102 @@
+{
+  "AAXX": {
+    "lat": -67.5669411575,
+    "long": -68.1269931793,
+    "name": "Rothera Point "
+  },
+  "EGAH": {
+    "lat": -75.5830555556,
+    "long": -26.5669444444,
+    "name": "Halley Research Station"
+  },
+  "EGAR": {
+    "lat": -67.5675,
+    "long": -68.1274027778,
+    "name": "Rothera Research Station"
+  },
+  "NZ12": {
+    "lat": -64.7750015259,
+    "long": -64.054397583,
+    "name": "Palmer Station "
+  },
+  "NZIR": {
+    "lat": -77.8539962769,
+    "long": 166.4689941406,
+    "name": "McMurdo Station Ice Runway"
+  },
+  "NZPG": {
+    "lat": -77.9634017944,
+    "long": 166.5249938965,
+    "name": "McMurdo Station Pegasus Field"
+  },
+  "NZSP": {
+    "lat": -90,
+    "long": 0,
+    "name": "South Pole Station "
+  },
+  "NZWD": {
+    "lat": -77.867401123,
+    "long": 167.0570068359,
+    "name": "Williams Field"
+  },
+  "SAWB": {
+    "lat": -64.2382965088,
+    "long": -56.6307983398,
+    "name": "Marambio Base"
+  },
+  "SAWZ": {
+    "lat": -64,
+    "long": -60,
+    "name": "Matienzo Base"
+  },
+  "SAYB": {
+    "lat": -77.8740548037,
+    "long": -34.626159668,
+    "name": "Base Belgrano II "
+  },
+  "SAYE": {
+    "lat": -63.4000015259,
+    "long": -56.9832992554,
+    "name": "Esperanza Base"
+  },
+  "SAYJ": {
+    "lat": -62.2383003235,
+    "long": -58.6665992737,
+    "name": "Jubany Airbase"
+  },
+  "SAYO": {
+    "lat": -60.7402992249,
+    "long": -44.7425003052,
+    "name": "Orcadas Base"
+  },
+  "SAYS": {
+    "lat": -68.1166992188,
+    "long": -67.0999984741,
+    "name": "San Martin Base"
+  },
+  "SCBO": {
+    "lat": -63.344,
+    "long": -57.842,
+    "name": "General Bernardo O'Higgins Base Skyway"
+  },
+  "SCGC": {
+    "lat": -79.777778,
+    "long": -83.320833,
+    "name": "Union Glaciar "
+  },
+  "SCPZ": {
+    "lat": -80.3182983398,
+    "long": -81.3080978394,
+    "name": "Patriot Hills "
+  },
+  "SCRM": {
+    "lat": -62.1907997131,
+    "long": -58.9866981506,
+    "name": "Teniente Rodolfo Marsh Martin Base"
+  },
+  "YWKS": {
+    "lat": -66.690833,
+    "long": 111.523611,
+    "name": "Wilkins Runway"
+  }
+}

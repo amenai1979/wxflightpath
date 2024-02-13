@@ -1,0 +1,232 @@
+{
+  "HL50": {
+    "lat": 28.5870990753,
+    "long": 19.3034000397,
+    "name": "Zelten Sw New "
+  },
+  "HL54": {
+    "lat": 31.739200592,
+    "long": 13.954000473,
+    "name": "Beni Walid "
+  },
+  "HL56": {
+    "lat": 21.6877002716,
+    "long": 21.8309001923,
+    "name": "Matan al-Sarra Air Base"
+  },
+  "HL57": {
+    "lat": 24.1858997345,
+    "long": 14.5327997208,
+    "name": "Al Wigh "
+  },
+  "HL58": {
+    "lat": 30.7651004791,
+    "long": 20.191400528,
+    "name": "Agedabia "
+  },
+  "HL59": {
+    "lat": 31.998500824,
+    "long": 21.1917991638,
+    "name": "Al Khadim "
+  },
+  "HL62": {
+    "lat": 30.8701992035,
+    "long": 20.0755004883,
+    "name": "Zuetina "
+  },
+  "HL64": {
+    "lat": 31.9757003784,
+    "long": 20.0268993378,
+    "name": "Qaryat Al Karmal "
+  },
+  "HL66": {
+    "lat": 27.2401008606,
+    "long": 14.6562995911,
+    "name": "Taminhint "
+  },
+  "HL69": {
+    "lat": 29.1980991364,
+    "long": 16.0009994507,
+    "name": "Al Jufra "
+  },
+  "HL70": {
+    "lat": 27.2572994232,
+    "long": 21.6180992126,
+    "name": "Al Khuwaymat "
+  },
+  "HL71": {
+    "lat": 26.3323993683,
+    "long": 13.4221000671,
+    "name": "Bir Umran "
+  },
+  "HL72": {
+    "lat": 29.1392002106,
+    "long": 16.1602993011,
+    "name": "Waddan "
+  },
+  "HL78": {
+    "lat": 30.7019004822,
+    "long": 12.484000206,
+    "name": "Habit Awlad Muhammad "
+  },
+  "HL79": {
+    "lat": 25.3568000793,
+    "long": 16.8099994659,
+    "name": "Waw Al Kabir "
+  },
+  "HL80": {
+    "lat": 30.642999649,
+    "long": 18.3208007813,
+    "name": "Matratin "
+  },
+  "HL81": {
+    "lat": 29.5310993195,
+    "long": 12.9436998367,
+    "name": "Al Hamada Con 66 East "
+  },
+  "HL82": {
+    "lat": 28.9619007111,
+    "long": 17.5881004333,
+    "name": "Wadi Buzanad Sw "
+  },
+  "HL83": {
+    "lat": 31.7052001953,
+    "long": 14.9116001129,
+    "name": "Nanur "
+  },
+  "HL84": {
+    "lat": 27.9757003784,
+    "long": 22.3574008942,
+    "name": "Sarir Nw "
+  },
+  "HLAM": {
+    "lat": 29.4794998169,
+    "long": 21.1224002838,
+    "name": "Amal V12 "
+  },
+  "HLBD": {
+    "lat": 28.5032997131,
+    "long": 19.0027999878,
+    "name": "Beda (M-3) "
+  },
+  "HLFL": {
+    "lat": 28.7954006195,
+    "long": 22.0809001923,
+    "name": "Bu Attifel "
+  },
+  "HLGD": {
+    "lat": 31.0634994507,
+    "long": 16.5949993134,
+    "name": "Gardabya "
+  },
+  "HLGL": {
+    "lat": 28.6385002136,
+    "long": 21.4379997253,
+    "name": "Warehouse 59e "
+  },
+  "HLGN": {
+    "lat": 31.861000061,
+    "long": 23.906999588,
+    "name": "Gamal Abdel Nasser "
+  },
+  "HLGT": {
+    "lat": 25.1455993652,
+    "long": 10.1426000595,
+    "name": "Ghat "
+  },
+  "HLKF": {
+    "lat": 24.1786994934,
+    "long": 23.313999176,
+    "name": "Kufra "
+  },
+  "HLLB": {
+    "lat": 32.0968017578,
+    "long": 20.2695007324,
+    "name": "Benina International "
+  },
+  "HLLM": {
+    "lat": 32.8941001892,
+    "long": 13.2760000229,
+    "name": "Mitiga "
+  },
+  "HLLQ": {
+    "lat": 32.7887001038,
+    "long": 21.9643001556,
+    "name": "La Abraq "
+  },
+  "HLLS": {
+    "lat": 26.9869995117,
+    "long": 14.4724998474,
+    "name": "Sabha "
+  },
+  "HLLT": {
+    "lat": 32.6635017395,
+    "long": 13.1590003967,
+    "name": "Tripoli International "
+  },
+  "HLMB": {
+    "lat": 30.3780994415,
+    "long": 19.5764007568,
+    "name": "Marsa Brega "
+  },
+  "HLNF": {
+    "lat": 30.5,
+    "long": 18.5272006989,
+    "name": "Ras Lanuf Oil "
+  },
+  "HLNR": {
+    "lat": 29.2131996155,
+    "long": 21.5923995972,
+    "name": "Nafurah 1 "
+  },
+  "HLON": {
+    "lat": 29.1100997925,
+    "long": 15.9656000137,
+    "name": "Hon "
+  },
+  "HLRA": {
+    "lat": 29.4726009369,
+    "long": 17.9349002838,
+    "name": "Dahra "
+  },
+  "HLSA": {
+    "lat": 27.662399292,
+    "long": 22.508600235,
+    "name": "Sarir (C-4) "
+  },
+  "HLSD": {
+    "lat": 30.625,
+    "long": 18.3516998291,
+    "name": "Essider "
+  },
+  "HLTD": {
+    "lat": 30.1516990662,
+    "long": 9.7153100967,
+    "name": "Ghadames East "
+  },
+  "HLWA": {
+    "lat": 28.3223991394,
+    "long": 19.9300003052,
+    "name": "Warehouse 59A "
+  },
+  "HLZA": {
+    "lat": 28.5898990631,
+    "long": 17.2938995361,
+    "name": "Zella 74 "
+  },
+  "HLZG": {
+    "lat": 29.0062999725,
+    "long": 20.7861003876,
+    "name": "Oxy A 103 "
+  },
+  "HLZU": {
+    "lat": 30.875,
+    "long": 20.0699996948,
+    "name": "Zueitina "
+  },
+  "HLZW": {
+    "lat": 32.9523010254,
+    "long": 12.0155000687,
+    "name": "Zwara "
+  }
+}

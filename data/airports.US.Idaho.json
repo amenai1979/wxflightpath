@@ -1,0 +1,1010 @@
+{
+    "00ID": {
+        "lat": 48.1453018188,
+        "long": -116.2139968872,
+        "name": "Delta Shores ",
+        "state": "Idaho"
+    },
+    "01ID": {
+        "lat": 42.6082000732,
+        "long": -112.0319976807,
+        "name": "Lava Hot Springs ",
+        "state": "Idaho"
+    },
+    "02ID": {
+        "lat": 44.5555000305,
+        "long": -115.3050003052,
+        "name": "Morgan Ranch ",
+        "state": "Idaho"
+    },
+    "03ID": {
+        "lat": 44.7943000793,
+        "long": -116.5329971313,
+        "name": "Flying Y Ranch ",
+        "state": "Idaho"
+    },
+    "04ID": {
+        "lat": 43.8777008057,
+        "long": -116.5370025635,
+        "name": "Lanham Field",
+        "state": "Idaho"
+    },
+    "05ID": {
+        "lat": 45.914100647,
+        "long": -114.8359985352,
+        "name": "Running Creek Ranch ",
+        "state": "Idaho"
+    },
+    "06ID": {
+        "lat": 43.4626998901,
+        "long": -116.3590011597,
+        "name": "Larkin ",
+        "state": "Idaho"
+    },
+    "07ID": {
+        "lat": 42.2781982422,
+        "long": -113.3050003052,
+        "name": "Interstate ",
+        "state": "Idaho"
+    },
+    "08ID": {
+        "lat": 43.5693016052,
+        "long": -116.7770004272,
+        "name": "Symms ",
+        "state": "Idaho"
+    },
+    "09ID": {
+        "lat": 45.1039009094,
+        "long": -114.8550033569,
+        "name": "Taylor Ranch Landing Area ",
+        "state": "Idaho"
+    },
+    "0ID0": {
+        "lat": 43.6063995361,
+        "long": -115.1070022583,
+        "name": "South Fork Ranch ",
+        "state": "Idaho"
+    },
+    "0ID1": {
+        "lat": 42.6412010193,
+        "long": -114.6050033569,
+        "name": "Ziggy's ",
+        "state": "Idaho"
+    },
+    "0ID2": {
+        "lat": 44.4429016113,
+        "long": -113.773002625,
+        "name": "Flying Joseph Ranch ",
+        "state": "Idaho"
+    },
+    "0ID3": {
+        "lat": 43.0758018494,
+        "long": -115.672996521,
+        "name": "Coyote Run ",
+        "state": "Idaho"
+    },
+    "0ID4": {
+        "lat": 43.0476989746,
+        "long": -114.4700012207,
+        "name": "Black Butte Ranch ",
+        "state": "Idaho"
+    },
+    "0ID5": {
+        "lat": 43.0531005859,
+        "long": -116.4619979858,
+        "name": "Ez Lope Ranch ",
+        "state": "Idaho"
+    },
+    "0ID7": {
+        "lat": 43.230308,
+        "long": -116.763192,
+        "name": "Z X Ranch ",
+        "state": "Idaho"
+    },
+    "0ID8": {
+        "lat": 45.775197,
+        "long": -116.178475,
+        "name": "Pinnacle ",
+        "state": "Idaho"
+    },
+    "10ID": {
+        "lat": 43.4944000244,
+        "long": -113.9219970703,
+        "name": "Flat Top Airstrip",
+        "state": "Idaho"
+    },
+    "11ID": {
+        "lat": 42.1855010986,
+        "long": -116.1129989624,
+        "name": "Riddle ",
+        "state": "Idaho"
+    },
+    "12ID": {
+        "lat": 44.9679985046,
+        "long": -114.733001709,
+        "name": "Flying B Ranch Landing Strip",
+        "state": "Idaho"
+    },
+    "13ID": {
+        "lat": 44.2666015625,
+        "long": -115.0009994507,
+        "name": "Silva Ranch ",
+        "state": "Idaho"
+    },
+    "14ID": {
+        "lat": 43.6809997559,
+        "long": -116.2030029297,
+        "name": "Peaceful Cove ",
+        "state": "Idaho"
+    },
+    "17ID": {
+        "lat": 44.413898468,
+        "long": -116.591003418,
+        "name": "Coyote Ridge ",
+        "state": "Idaho"
+    },
+    "1ID3": {
+        "lat": 48.1679992676,
+        "long": -116.7269973755,
+        "name": "Beaux Ranch Field",
+        "state": "Idaho"
+    },
+    "1ID4": {
+        "lat": 43.3105555556,
+        "long": -115.9025,
+        "name": "Red Baron Airpark",
+        "state": "Idaho"
+    },
+    "1ID7": {
+        "lat": 42.5877990723,
+        "long": -114.3339996338,
+        "name": "Fairbanks Airfield",
+        "state": "Idaho"
+    },
+    "1ID9": {
+        "lat": 42.7806015015,
+        "long": -112.1709976196,
+        "name": "Skyline STOLport",
+        "state": "Idaho"
+    },
+    "20ID": {
+        "lat": 43.720439,
+        "long": -116.005667,
+        "name": "Harrington ",
+        "state": "Idaho"
+    },
+    "22ID": {
+        "lat": 43.9446983337,
+        "long": -115.9410018921,
+        "name": "Treasure Gulch ",
+        "state": "Idaho"
+    },
+    "26ID": {
+        "lat": 48.363889,
+        "long": -116.403611,
+        "name": "Seven Shamrock ",
+        "state": "Idaho"
+    },
+    "2ID2": {
+        "lat": 43.9543991089,
+        "long": -113.6470031738,
+        "name": "Linda's Roost ",
+        "state": "Idaho"
+    },
+    "2ID3": {
+        "lat": 42.751833,
+        "long": -116.677333,
+        "name": "Josephine Ranch ",
+        "state": "Idaho"
+    },
+    "2ID4": {
+        "lat": 47.9081993103,
+        "long": -116.7089996338,
+        "name": "Silverwood ",
+        "state": "Idaho"
+    },
+    "2ID5": {
+        "lat": 44.807467,
+        "long": -116.049483,
+        "name": "Splan ",
+        "state": "Idaho"
+    },
+    "2ID6": {
+        "lat": 43.927336,
+        "long": -116.946475,
+        "name": "Lemons Field",
+        "state": "Idaho"
+    },
+    "2ID7": {
+        "lat": 46.6665992737,
+        "long": -115.072998047,
+        "name": "Cayuse Creek /US Forest Service/ ",
+        "state": "Idaho"
+    },
+    "30ID": {
+        "lat": 42.432222,
+        "long": -114.166389,
+        "name": "Mason ",
+        "state": "Idaho"
+    },
+    "34ID": {
+        "lat": 46.570333,
+        "long": -116.343611,
+        "name": "Freeman Creek ",
+        "state": "Idaho"
+    },
+    "37ID": {
+        "lat": 45.782417,
+        "long": -115.938,
+        "name": "Hungry Ridge Ranch ",
+        "state": "Idaho"
+    },
+    "38ID": {
+        "lat": 43.5094444444,
+        "long": -116.667916667,
+        "name": "Sky Ranch North ",
+        "state": "Idaho"
+    },
+    "39ID": {
+        "lat": 42.3977012634,
+        "long": -113.5579986572,
+        "name": "Albion Municipal ",
+        "state": "Idaho"
+    },
+    "3ID2": {
+        "lat": 46.350675,
+        "long": -115.977,
+        "name": "The Last Resort ",
+        "state": "Idaho"
+    },
+    "3ID7": {
+        "lat": 43.4760017395,
+        "long": -116.4039993286,
+        "name": "Indian Creek Ranch ",
+        "state": "Idaho"
+    },
+    "41ID": {
+        "lat": 43.471383,
+        "long": -116.326417,
+        "name": "Black'S Airfield",
+        "state": "Idaho"
+    },
+    "44ID": {
+        "lat": 44.736942,
+        "long": -116.074158,
+        "name": "Boulder Creek Airstrip",
+        "state": "Idaho"
+    },
+    "68ID": {
+        "lat": 48.25,
+        "long": -116.466667,
+        "name": "Rapoport Ranch ",
+        "state": "Idaho"
+    },
+    "6ID1": {
+        "lat": 47.6436004639,
+        "long": -116.698997498,
+        "name": "Regan Ranch ",
+        "state": "Idaho"
+    },
+    "79ID": {
+        "lat": 46.0488642914,
+        "long": -115.869691372,
+        "name": "Kooskia (Clear Creek Int) ",
+        "state": "Idaho"
+    },
+    "7GE1": {
+        "lat": 43.6581993103,
+        "long": -116.7509994507,
+        "name": "Davison Ranch ",
+        "state": "Idaho"
+    },
+    "8ID8": {
+        "lat": 45.353333,
+        "long": -113.865,
+        "name": "Lewis And Clark Airstrip",
+        "state": "Idaho"
+    },
+    "96ID": {
+        "lat": 48.2355995178,
+        "long": -116.875,
+        "name": "Flying H Ranch ",
+        "state": "Idaho"
+    },
+    "ID00": {
+        "lat": 43.6957015991,
+        "long": -116.6380004883,
+        "name": "Hubler Field",
+        "state": "Idaho"
+    },
+    "ID01": {
+        "lat": 48.1380004883,
+        "long": -116.1979980469,
+        "name": "Cx Ranch ",
+        "state": "Idaho"
+    },
+    "ID04": {
+        "lat": 42.0290985107,
+        "long": -111.422996521,
+        "name": "J-Lazy-M Ranch ",
+        "state": "Idaho"
+    },
+    "ID05": {
+        "lat": 47.9567985535,
+        "long": -116.6770019531,
+        "name": "Hackney Airpark",
+        "state": "Idaho"
+    },
+    "ID06": {
+        "lat": 47.8288002014,
+        "long": -116.783996582,
+        "name": "Ranch Aero ",
+        "state": "Idaho"
+    },
+    "ID07": {
+        "lat": 47.6781005859,
+        "long": -117.0250015259,
+        "name": "Nichols Ranch ",
+        "state": "Idaho"
+    },
+    "ID09": {
+        "lat": 47.7402000427,
+        "long": -116.9980010986,
+        "name": "Otterson Ranch ",
+        "state": "Idaho"
+    },
+    "ID10": {
+        "lat": 46.9243011475,
+        "long": -116.9580001831,
+        "name": "Anderson-Plummer ",
+        "state": "Idaho"
+    },
+    "ID11": {
+        "lat": 46.3820991516,
+        "long": -116.5130004883,
+        "name": "Wood Brothers Ranch ",
+        "state": "Idaho"
+    },
+    "ID12": {
+        "lat": 43.1843986511,
+        "long": -112.466003418,
+        "name": "Russell W Anderson Strip",
+        "state": "Idaho"
+    },
+    "ID13": {
+        "lat": 47.322101593,
+        "long": -116.6399993896,
+        "name": "Sky Island Ranch ",
+        "state": "Idaho"
+    },
+    "ID16": {
+        "lat": 43.4034996033,
+        "long": -114.2730026245,
+        "name": "Sluder Airstrip",
+        "state": "Idaho"
+    },
+    "ID17": {
+        "lat": 45.0110015869,
+        "long": -116.6890029907,
+        "name": "Seven Devils ",
+        "state": "Idaho"
+    },
+    "ID19": {
+        "lat": 48.2309989929,
+        "long": -116.388999939,
+        "name": "Bird Nr 2 ",
+        "state": "Idaho"
+    },
+    "ID21": {
+        "lat": 47.7563018799,
+        "long": -117.0240020752,
+        "name": "Smith Ranch ",
+        "state": "Idaho"
+    },
+    "ID22": {
+        "lat": 47.9780006409,
+        "long": -116.7929992676,
+        "name": "Treeport ",
+        "state": "Idaho"
+    },
+    "ID23": {
+        "lat": 47.3923988342,
+        "long": -116.8730010986,
+        "name": "Rock Creek Farm ",
+        "state": "Idaho"
+    },
+    "ID24": {
+        "lat": 48.2234992981,
+        "long": -116.4390029907,
+        "name": "Timber Basin Airpark Inc ",
+        "state": "Idaho"
+    },
+    "ID25": {
+        "lat": 48.3507995605,
+        "long": -116.5540008545,
+        "name": "Olmstead Sky Ranch ",
+        "state": "Idaho"
+    },
+    "ID26": {
+        "lat": 43.224167,
+        "long": -115.966944,
+        "name": "P And R Field",
+        "state": "Idaho"
+    },
+    "ID27": {
+        "lat": 47.75550079,
+        "long": -116.8590012,
+        "name": "Hawk Haven ",
+        "state": "Idaho"
+    },
+    "ID28": {
+        "lat": 45.3791007996,
+        "long": -115.5049972534,
+        "name": "Mackay Bar ",
+        "state": "Idaho"
+    },
+    "ID29": {
+        "lat": 46.6973991394,
+        "long": -115.9840011597,
+        "name": "Big Island ",
+        "state": "Idaho"
+    },
+    "ID32": {
+        "lat": 48.1054992676,
+        "long": -116.1370010376,
+        "name": "Tuka STOLport",
+        "state": "Idaho"
+    },
+    "ID33": {
+        "lat": 46.936000824,
+        "long": -115.8649978638,
+        "name": "Stocking Meadows ",
+        "state": "Idaho"
+    },
+    "ID34": {
+        "lat": 47.9846000671,
+        "long": -116.6829986572,
+        "name": "Granite ",
+        "state": "Idaho"
+    },
+    "ID35": {
+        "lat": 44.2391014099,
+        "long": -116.1429977417,
+        "name": "High Valley Swanson ",
+        "state": "Idaho"
+    },
+    "ID36": {
+        "lat": 43.7630556,
+        "long": -113.3438889,
+        "name": "King Mountain Glider Park",
+        "state": "Idaho"
+    },
+    "ID39": {
+        "lat": 42.7957000732,
+        "long": -115.7340011597,
+        "name": "Owen Ranches Inc ",
+        "state": "Idaho"
+    },
+    "ID40": {
+        "lat": 43.4178009033,
+        "long": -116.7060012817,
+        "name": "Sunrise Skypark ",
+        "state": "Idaho"
+    },
+    "ID41": {
+        "lat": 44.8998985291,
+        "long": -115.3330001831,
+        "name": "Stibnite ",
+        "state": "Idaho"
+    },
+    "ID43": {
+        "lat": 47.5513000488,
+        "long": -116.763999939,
+        "name": "Carlin Bay ",
+        "state": "Idaho"
+    },
+    "ID44": {
+        "lat": 44.224899292,
+        "long": -116.1800003052,
+        "name": "Hidden Lakes ",
+        "state": "Idaho"
+    },
+    "ID48": {
+        "lat": 47.9287986755,
+        "long": -116.7109985352,
+        "name": "Western Spur ",
+        "state": "Idaho"
+    },
+    "ID50": {
+        "lat": 43.6012992859,
+        "long": -112.2429962158,
+        "name": "Q.B. One ",
+        "state": "Idaho"
+    },
+    "ID52": {
+        "lat": 43.9930000305,
+        "long": -111.5510025024,
+        "name": "Bowman Field",
+        "state": "Idaho"
+    },
+    "ID56": {
+        "lat": 43.9818992615,
+        "long": -114.0439987183,
+        "name": "Star 's' Ranch ",
+        "state": "Idaho"
+    },
+    "ID59": {
+        "lat": 44.8176002502,
+        "long": -116.0680007935,
+        "name": "Flying A Ranch ",
+        "state": "Idaho"
+    },
+    "ID60": {
+        "lat": 46.7131996155,
+        "long": -116.9970016479,
+        "name": "Fountains ",
+        "state": "Idaho"
+    },
+    "ID61": {
+        "lat": 48.2966003418,
+        "long": -117.0149993896,
+        "name": "Valenov Ranch ",
+        "state": "Idaho"
+    },
+    "ID62": {
+        "lat": 42.6082992554,
+        "long": -111.7289962769,
+        "name": "Simpson ",
+        "state": "Idaho"
+    },
+    "ID63": {
+        "lat": 43.6710014343,
+        "long": -117.0250015259,
+        "name": "Richards ",
+        "state": "Idaho"
+    },
+    "ID65": {
+        "lat": 47.5810012817,
+        "long": -116.7720031738,
+        "name": "Pisch's Place ",
+        "state": "Idaho"
+    },
+    "ID67": {
+        "lat": 44.8082008362,
+        "long": -114.8089981079,
+        "name": "Lower Loon Creek ",
+        "state": "Idaho"
+    },
+    "ID68": {
+        "lat": 43.4846000671,
+        "long": -116.4589996338,
+        "name": "Green Acres ",
+        "state": "Idaho"
+    },
+    "ID72": {
+        "lat": 43.4174003601,
+        "long": -111.2850036621,
+        "name": "Huskey ",
+        "state": "Idaho"
+    },
+    "ID74": {
+        "lat": 44.5365982056,
+        "long": -115.3509979248,
+        "name": "Sulphur Creek Ranch ",
+        "state": "Idaho"
+    },
+    "ID75": {
+        "lat": 48.1259994507,
+        "long": -116.1650009155,
+        "name": "Riverlake ",
+        "state": "Idaho"
+    },
+    "ID76": {
+        "lat": 45.3967018127,
+        "long": -115.483001709,
+        "name": "Wilson Bar US Forest Service ",
+        "state": "Idaho"
+    },
+    "ID77": {
+        "lat": 44.7052993774,
+        "long": -116.8069992065,
+        "name": "Cuddy Meadows ",
+        "state": "Idaho"
+    },
+    "ID78": {
+        "lat": 48.1416015625,
+        "long": -116.1819992065,
+        "name": "Cx Ranch Nr 2 ",
+        "state": "Idaho"
+    },
+    "ID79": {
+        "lat": 43.5083007812,
+        "long": -116.667999268,
+        "name": "Sky Ranch South ",
+        "state": "Idaho"
+    },
+    "ID82": {
+        "lat": 43.3082008362,
+        "long": -114.06300354,
+        "name": "Picabo ",
+        "state": "Idaho"
+    },
+    "ID84": {
+        "lat": 46.617099762,
+        "long": -115.8000030518,
+        "name": "Cptpa Headquarters ",
+        "state": "Idaho"
+    },
+    "ID85": {
+        "lat": 46.787399292,
+        "long": -116.1679992676,
+        "name": "Elk River ",
+        "state": "Idaho"
+    },
+    "ID86": {
+        "lat": 44.2977981567,
+        "long": -115.6409988403,
+        "name": "Deadwood Dam Airstrip",
+        "state": "Idaho"
+    },
+    "ID87": {
+        "lat": 43.4068984985,
+        "long": -111.9739990234,
+        "name": "Rainbow Ranch ",
+        "state": "Idaho"
+    },
+    "ID88": {
+        "lat": 43.287399292,
+        "long": -115.0800018311,
+        "name": "Tracy Ranch ",
+        "state": "Idaho"
+    },
+    "ID90": {
+        "lat": 45.8387985229,
+        "long": -116.658996582,
+        "name": "Spencer Ranch Landing Strip",
+        "state": "Idaho"
+    },
+    "ID92": {
+        "lat": 43.7288017273,
+        "long": -116.5230026245,
+        "name": "Snake River Skydiving ",
+        "state": "Idaho"
+    },
+    "ID93": {
+        "lat": 44.8942985535,
+        "long": -115.7129974365,
+        "name": "Reed Ranch ",
+        "state": "Idaho"
+    },
+    "ID94": {
+        "lat": 46.7766990662,
+        "long": -116.6910018921,
+        "name": "Friendly Persuasion Farm ",
+        "state": "Idaho"
+    },
+    "ID95": {
+        "lat": 43.861000061,
+        "long": -116.2409973145,
+        "name": "Loomis ",
+        "state": "Idaho"
+    },
+    "ID96": {
+        "lat": 44.7851982117,
+        "long": -116.0670013428,
+        "name": "Bear Air ",
+        "state": "Idaho"
+    },
+    "ID97": {
+        "lat": 47.1071014404,
+        "long": -116.8109970093,
+        "name": "Hangman Creek Ranch ",
+        "state": "Idaho"
+    },
+    "K1U2": {
+        "lat": 43.8482017517,
+        "long": -112.499000549,
+        "name": "Mud Lake/West Jefferson County/ ",
+        "state": "Idaho"
+    },
+    "K1U7": {
+        "lat": 42.2472000122,
+        "long": -111.3379974365,
+        "name": "Bear Lake County ",
+        "state": "Idaho"
+    },
+    "K65S": {
+        "lat": 48.72579956,
+        "long": -116.2949982,
+        "name": "Boundary County ",
+        "state": "Idaho"
+    },
+    "KAOC": {
+        "lat": 43.6035003662,
+        "long": -113.3339996338,
+        "name": "Arco Butte County ",
+        "state": "Idaho"
+    },
+    "KBOI": {
+        "lat": 43.56439972,
+        "long": -116.2229996,
+        "name": "Boise Air Terminal/Gowen field",
+        "state": "Idaho"
+    },
+    "KBYI": {
+        "lat": 42.5425987244,
+        "long": -113.7720031738,
+        "name": "Burley Municipal ",
+        "state": "Idaho"
+    },
+    "KCOE": {
+        "lat": 47.77429962,
+        "long": -116.8199997,
+        "name": "Coeur D'Alene - Pappy Boyington Field",
+        "state": "Idaho"
+    },
+    "KDIJ": {
+        "lat": 43.742401123,
+        "long": -111.0979995728,
+        "name": "Driggs Reed Memorial ",
+        "state": "Idaho"
+    },
+    "KEUL": {
+        "lat": 43.64189911,
+        "long": -116.6360016,
+        "name": "Caldwell Industrial ",
+        "state": "Idaho"
+    },
+    "KGIC": {
+        "lat": 45.94260025,
+        "long": -116.1230011,
+        "name": "Idaho County ",
+        "state": "Idaho"
+    },
+    "KGNG": {
+        "lat": 42.91719818,
+        "long": -114.7649994,
+        "name": "Gooding Municipal ",
+        "state": "Idaho"
+    },
+    "KIDA": {
+        "lat": 43.5145988464,
+        "long": -112.0709991455,
+        "name": "Idaho Falls Regional ",
+        "state": "Idaho"
+    },
+    "KJER": {
+        "lat": 42.7266998291,
+        "long": -114.4570007324,
+        "name": "Jerome County ",
+        "state": "Idaho"
+    },
+    "KLLJ": {
+        "lat": 44.5229988098,
+        "long": -114.2180023193,
+        "name": "Challis ",
+        "state": "Idaho"
+    },
+    "KLWS": {
+        "lat": 46.3745002747,
+        "long": -117.0149993896,
+        "name": "Lewiston Nez Perce County ",
+        "state": "Idaho"
+    },
+    "KMLD": {
+        "lat": 42.1665992737,
+        "long": -112.2969970703,
+        "name": "Malad City ",
+        "state": "Idaho"
+    },
+    "KMUO": {
+        "lat": 43.043598175,
+        "long": -115.8720016479,
+        "name": "Mountain Home Air Force Base",
+        "state": "Idaho"
+    },
+    "KMYL": {
+        "lat": 44.88970184,
+        "long": -116.1009979,
+        "name": "Mc Call Municipal ",
+        "state": "Idaho"
+    },
+    "KPIH": {
+        "lat": 42.9098014832,
+        "long": -112.5960006714,
+        "name": "Pocatello Regional ",
+        "state": "Idaho"
+    },
+    "KRXE": {
+        "lat": 43.8339004517,
+        "long": -111.805000305,
+        "name": "Rexburg Madison County ",
+        "state": "Idaho"
+    },
+    "KS67": {
+        "lat": 43.5812988281,
+        "long": -116.5230026245,
+        "name": "Nampa Municipal ",
+        "state": "Idaho"
+    },
+    "KS72": {
+        "lat": 47.3277015686,
+        "long": -116.577003479,
+        "name": "St Maries Municipal ",
+        "state": "Idaho"
+    },
+    "KS73": {
+        "lat": 46.2192993164,
+        "long": -116.0130004883,
+        "name": "Kamiah Municipal ",
+        "state": "Idaho"
+    },
+    "KS75": {
+        "lat": 44.0915985107,
+        "long": -116.9010009766,
+        "name": "Payette Municipal ",
+        "state": "Idaho"
+    },
+    "KS78": {
+        "lat": 43.849899292,
+        "long": -116.5429992676,
+        "name": "Emmett Municipal ",
+        "state": "Idaho"
+    },
+    "KS81": {
+        "lat": 44.7611389,
+        "long": -115.1073611,
+        "name": "Indian Creek USFS ",
+        "state": "Idaho"
+    },
+    "KS83": {
+        "lat": 47.5476989746,
+        "long": -116.18800354,
+        "name": "Shoshone County ",
+        "state": "Idaho"
+    },
+    "KS84": {
+        "lat": 46.0387992859,
+        "long": -116.3320007324,
+        "name": "Cottonwood Municipal ",
+        "state": "Idaho"
+    },
+    "KS87": {
+        "lat": 44.20679855,
+        "long": -116.961998,
+        "name": "Weiser Municipal ",
+        "state": "Idaho"
+    },
+    "KSMN": {
+        "lat": 45.1237983704,
+        "long": -113.8809967041,
+        "name": "Lemhi County ",
+        "state": "Idaho"
+    },
+    "KSUN": {
+        "lat": 43.50439835,
+        "long": -114.2959976,
+        "name": "Friedman Memorial ",
+        "state": "Idaho"
+    },
+    "KSZT": {
+        "lat": 48.2994995117,
+        "long": -116.5599975586,
+        "name": "Sandpoint ",
+        "state": "Idaho"
+    },
+    "KTWF": {
+        "lat": 42.48180008,
+        "long": -114.487999,
+        "name": "Joslin Field Magic Valley Regional ",
+        "state": "Idaho"
+    },
+    "KU00": {
+        "lat": 44.6738014221,
+        "long": -113.3529968262,
+        "name": "Leadore ",
+        "state": "Idaho"
+    },
+    "KU01": {
+        "lat": 42.7972984314,
+        "long": -112.8249969482,
+        "name": "American Falls ",
+        "state": "Idaho"
+    },
+    "KU02": {
+        "lat": 43.2093009949,
+        "long": -112.3499984741,
+        "name": "Mccarley Field",
+        "state": "Idaho"
+    },
+    "KU03": {
+        "lat": 42.5915985107,
+        "long": -114.7969970703,
+        "name": "Buhl Municipal ",
+        "state": "Idaho"
+    },
+    "KU10": {
+        "lat": 42.1068992615,
+        "long": -111.9130020142,
+        "name": "Preston ",
+        "state": "Idaho"
+    },
+    "KU12": {
+        "lat": 43.9457015991,
+        "long": -111.6839981079,
+        "name": "Stanford Field",
+        "state": "Idaho"
+    },
+    "KU36": {
+        "lat": 42.9210014343,
+        "long": -112.8809967041,
+        "name": "Aberdeen Municipal ",
+        "state": "Idaho"
+    },
+    "KU56": {
+        "lat": 43.6444015503,
+        "long": -111.9290008545,
+        "name": "Rigby Jefferson County ",
+        "state": "Idaho"
+    },
+    "KU58": {
+        "lat": 42.42630005,
+        "long": -112.1090012,
+        "name": "Downey/Hyde Memorial ",
+        "state": "Idaho"
+    },
+    "KU62": {
+        "lat": 43.90409851,
+        "long": -113.6009979,
+        "name": "Mackay ",
+        "state": "Idaho"
+    },
+    "KU63": {
+        "lat": 44.4155006409,
+        "long": -115.3170013428,
+        "name": "Bruce Meadows ",
+        "state": "Idaho"
+    },
+    "KU70": {
+        "lat": 44.4938011169,
+        "long": -116.01599884,
+        "name": "Cascade ",
+        "state": "Idaho"
+    },
+    "KU76": {
+        "lat": 43.13130188,
+        "long": -115.7300034,
+        "name": "Mountain Home Municipal ",
+        "state": "Idaho"
+    },
+    "KU78": {
+        "lat": 42.6416015625,
+        "long": -111.5800018311,
+        "name": "Allen H Tigert ",
+        "state": "Idaho"
+    },
+    "KU79": {
+        "lat": 45.3791007996,
+        "long": -115.1969985962,
+        "name": "Chamberlain Usfs ",
+        "state": "Idaho"
+    },
+    "KU81": {
+        "lat": 45.2915992737,
+        "long": -114.949996948,
+        "name": "Cold Meadows US Forest Service ",
+        "state": "Idaho"
+    },
+    "KU82": {
+        "lat": 44.7499008179,
+        "long": -116.4469985962,
+        "name": "Council Municipal ",
+        "state": "Idaho"
+    },
+    "KU89": {
+        "lat": 42.9457015991,
+        "long": -115.3300018311,
+        "name": "Glenns Ferry Municipal ",
+        "state": "Idaho"
+    }
+}

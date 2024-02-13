@@ -1,0 +1,117 @@
+{
+  "MSAC": {
+    "lat": 13.4479904175,
+    "long": -88.1201095581,
+    "name": "La Aramuaca "
+  },
+  "MSBS": {
+    "lat": 13.2652626038,
+    "long": -88.499130249,
+    "name": "Barillas "
+  },
+  "MSCD": {
+    "lat": 13.213010788,
+    "long": -88.6028137207,
+    "name": "Ceiba Doblada "
+  },
+  "MSCH": {
+    "lat": 13.1880998611,
+    "long": -88.4115982056,
+    "name": "La Chepona "
+  },
+  "MSCM": {
+    "lat": 13.2055883408,
+    "long": -88.5473403931,
+    "name": "Corral De Mulas "
+  },
+  "MSCN": {
+    "lat": 13.3099727631,
+    "long": -88.5058670044,
+    "name": "Casas Nuevas "
+  },
+  "MSCR": {
+    "lat": 13.3287029266,
+    "long": -88.5209197998,
+    "name": "La Carrera "
+  },
+  "MSES": {
+    "lat": 13.2193241119,
+    "long": -88.5540466309,
+    "name": "Espiritu Santo "
+  },
+  "MSET": {
+    "lat": 13.1625995636,
+    "long": -87.904800415,
+    "name": "El Tamarindo "
+  },
+  "MSJC": {
+    "lat": 13.5861539841,
+    "long": -89.7465209961,
+    "name": "El Jocotillo "
+  },
+  "MSLC": {
+    "lat": 14.0098104477,
+    "long": -89.1847610474,
+    "name": "La Cabana "
+  },
+  "MSLD": {
+    "lat": 13.7262001038,
+    "long": -88.1066970825,
+    "name": "Los Comandos "
+  },
+  "MSLG": {
+    "lat": 13.7147397995,
+    "long": -89.1913452148,
+    "name": "La Gloria "
+  },
+  "MSLM": {
+    "lat": 13.4870700836,
+    "long": -89.1926574707,
+    "name": "Las Mesas "
+  },
+  "MSLP": {
+    "lat": 13.4408998489,
+    "long": -89.0557022095,
+    "name": "El Salvador International "
+  },
+  "MSPT": {
+    "lat": 13.9453001022,
+    "long": -89.0627975464,
+    "name": "El Platanar "
+  },
+  "MSRC": {
+    "lat": 14.3187150955,
+    "long": -89.5068969727,
+    "name": "El Ronco "
+  },
+  "MSSA": {
+    "lat": 14.0672222222,
+    "long": -89.6322222222,
+    "name": "El Palmer "
+  },
+  "MSSJ": {
+    "lat": 13.1787347794,
+    "long": -88.47315979,
+    "name": "Punta San Juan "
+  },
+  "MSSM": {
+    "lat": 13.4441003799,
+    "long": -88.1269989014,
+    "name": "El Papalon "
+  },
+  "MSSN": {
+    "lat": 13.1974658966,
+    "long": -87.9609146118,
+    "name": "San Ramon "
+  },
+  "MSSS": {
+    "lat": 13.6995000839,
+    "long": -89.1199035645,
+    "name": "Ilopango International "
+  },
+  "MSZT": {
+    "lat": 13.7079544067,
+    "long": -90.0262680054,
+    "name": "El Zapote "
+  }
+}

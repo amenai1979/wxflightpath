@@ -1,0 +1,87 @@
+{
+  "SUAA": {
+    "lat": -34.7891998291,
+    "long": -56.2647018433,
+    "name": "Angel S Adami "
+  },
+  "SUAG": {
+    "lat": -30.4006996155,
+    "long": -56.507900238,
+    "name": "Artigas International "
+  },
+  "SUCA": {
+    "lat": -34.456401825,
+    "long": -57.7705993652,
+    "name": "Laguna de Los Patos International "
+  },
+  "SUCM": {
+    "lat": -33.9661102295,
+    "long": -58.3252792358,
+    "name": "Carmelo International "
+  },
+  "SUDU": {
+    "lat": -33.3588981628,
+    "long": -56.4991989136,
+    "name": "Santa Bernardina International "
+  },
+  "SULS": {
+    "lat": -34.8550987244,
+    "long": -55.0942993164,
+    "name": "Capitan Corbeta CA Curbelo International "
+  },
+  "SUME": {
+    "lat": -33.25,
+    "long": -58.0670013428,
+    "name": "Ricardo de Tomasi International "
+  },
+  "SUMO": {
+    "lat": -32.3378982544,
+    "long": -54.2167015076,
+    "name": "Cerro Largo International "
+  },
+  "SUMU": {
+    "lat": -34.8384017944,
+    "long": -56.0307998657,
+    "name": "Carrasco International /General C L Berisso "
+  },
+  "SUPE": {
+    "lat": -34.9169998169,
+    "long": -54.9169998169,
+    "name": "El Jaguel / Punta del Este "
+  },
+  "SUPU": {
+    "lat": -32.3633003235,
+    "long": -58.0619010925,
+    "name": "Tydeo Larre Borges "
+  },
+  "SURB": {
+    "lat": -32.5830574036,
+    "long": -53.4541664124,
+    "name": "Rio Branco "
+  },
+  "SURV": {
+    "lat": -30.9745998383,
+    "long": -55.4762001038,
+    "name": "Presidente General Don Oscar D. Gestido International "
+  },
+  "SUSO": {
+    "lat": -31.4384994507,
+    "long": -57.9852981567,
+    "name": "Nueva Hesperides International "
+  },
+  "SUTB": {
+    "lat": -31.7490005493,
+    "long": -55.9258003235,
+    "name": "Tacuarembo "
+  },
+  "SUTR": {
+    "lat": -33.2000007629,
+    "long": -54.3499984741,
+    "name": "Treinta y Tres "
+  },
+  "SUVO": {
+    "lat": -31.7670001984,
+    "long": -54.6170005798,
+    "name": "Vichadero "
+  }
+}

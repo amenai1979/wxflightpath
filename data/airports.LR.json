@@ -1,0 +1,57 @@
+{
+  "GLBU": {
+    "lat": 5.1676502228,
+    "long": -9.2834701538,
+    "name": "Buchanan "
+  },
+  "GLCM": {
+    "lat": 6.8000001907,
+    "long": -11.3669996262,
+    "name": "Robertsport/Cape Mount "
+  },
+  "GLCP": {
+    "lat": 4.3790202141,
+    "long": -7.6969499588,
+    "name": "Cape Palmas "
+  },
+  "GLGE": {
+    "lat": 5.034309864,
+    "long": -9.0668001175,
+    "name": "Greenville Sinoe "
+  },
+  "GLLB": {
+    "lat": 5.867000103,
+    "long": -10.0500001907,
+    "name": "Lamco "
+  },
+  "GLMR": {
+    "lat": 6.2890601158,
+    "long": -10.7587003708,
+    "name": "Spriggs Payne "
+  },
+  "GLNA": {
+    "lat": 7.5,
+    "long": -8.6000003815,
+    "name": "Nimba "
+  },
+  "GLRB": {
+    "lat": 6.2337899208,
+    "long": -10.3622999191,
+    "name": "Roberts International "
+  },
+  "GLST": {
+    "lat": 4.6666669846,
+    "long": -8.4333333969,
+    "name": "Sasstown "
+  },
+  "GLTN": {
+    "lat": 6.0456504822,
+    "long": -8.1387233734,
+    "name": "Tchien "
+  },
+  "GLVA": {
+    "lat": 8.3999996185,
+    "long": -9.7670001984,
+    "name": "Voinjama "
+  }
+}

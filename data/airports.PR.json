@@ -1,0 +1,82 @@
+{
+  "02PR": {
+    "lat": 18.4533004761,
+    "long": -66.366897583,
+    "name": "Cuylers "
+  },
+  "PR07": {
+    "lat": 18.2019004822,
+    "long": -65.8391036987,
+    "name": "Boqueron "
+  },
+  "PR10": {
+    "lat": 18.0107002258,
+    "long": -67.1412963867,
+    "name": "Boqueron "
+  },
+  "PR20": {
+    "lat": 18.1802005768,
+    "long": -66.7568969727,
+    "name": "Michael Gonzalez "
+  },
+  "PR24": {
+    "lat": 17.9764003754,
+    "long": -67.1707992554,
+    "name": "Cullingford Field"
+  },
+  "PR27": {
+    "lat": 17.9631996155,
+    "long": -66.3911972046,
+    "name": "Santa Isabel "
+  },
+  "TJAB": {
+    "lat": 18.4500007629,
+    "long": -66.6753005981,
+    "name": "Antonio Nery Juarbe Pol "
+  },
+  "TJBQ": {
+    "lat": 18.4948997498,
+    "long": -67.1294021606,
+    "name": "Rafael Hernandez "
+  },
+  "TJCP": {
+    "lat": 18.313289,
+    "long": -65.304324,
+    "name": "Benjamin Rivera Noriega "
+  },
+  "TJFA": {
+    "lat": 18.3089008331,
+    "long": -65.6619033813,
+    "name": "Diego Jimenez Torres "
+  },
+  "TJIG": {
+    "lat": 18.4568004608,
+    "long": -66.0980987549,
+    "name": "Fernando Luis Ribas Dominicci "
+  },
+  "TJMZ": {
+    "lat": 18.2556991577,
+    "long": -67.1484985352,
+    "name": "Eugenio Maria De Hostos "
+  },
+  "TJPS": {
+    "lat": 18.0083007813,
+    "long": -66.56300354,
+    "name": "Mercedita "
+  },
+  "TJRV": {
+    "lat": 18.245300293,
+    "long": -65.6434020996,
+    "name": "Jose Aponte de la Torre "
+  },
+  "TJSJ": {
+    "lat": 18.4393997192,
+    "long": -66.0018005371,
+    "name": "Luis Munoz Marin International "
+  },
+  "TJVQ": {
+    "lat": 18.1347999573,
+    "long": -65.493598938,
+    "name": "Antonio Rivera Rodriguez "
+  }
+}

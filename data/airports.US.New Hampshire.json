@@ -1,0 +1,38 @@
+{
+    "01NH": {
+        "lat": 43.6445007324,
+        "long": -72.0869979858,
+        "name": "Moore Airfield",
+        "state": "New Hampshire"
+    },
+    "06NH": {
+        "lat": 42.9283981323,
+        "long": -70.9730987549,
+        "name": "Cole Farm ",
+        "state": "New Hampshire"
+    },
+    "12NH": {
+        "lat": 43.495278,
+        "long": -71.654444,
+        "name": "Gile Pond ",
+        "state": "New Hampshire"
+    },
+    "21NH": {
+        "lat": 42.9169006348,
+        "long": -70.9353027344,
+        "name": "Propwash ",
+        "state": "New Hampshire"
+    },
+    "23NH": {
+        "lat": 43.13029861,
+        "long": -72.01499939,
+        "name": "Windswept ",
+        "state": "New Hampshire"
+    },
+    "2NH5": {
+        "lat": 42.9902992249,
+        "long": -72.4017028809,
+        "name": "Pilgrim's Home Airfield",
+        "state": "New Hampshire"
+    }
+}

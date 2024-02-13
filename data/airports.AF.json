@@ -1,0 +1,147 @@
+{
+  "OABN": {
+    "lat": 34.8170013428,
+    "long": 67.8170013428,
+    "name": "Bamiyan "
+  },
+  "OABT": {
+    "lat": 31.5597000122,
+    "long": 64.3649978638,
+    "name": "Bost "
+  },
+  "OACC": {
+    "lat": 34.533000946,
+    "long": 65.266998291,
+    "name": "Chakcharan "
+  },
+  "OADZ": {
+    "lat": 38.461101532,
+    "long": 70.8824996948,
+    "name": "Darwaz "
+  },
+  "OAFR": {
+    "lat": 32.3670005798,
+    "long": 62.1829986572,
+    "name": "Farah "
+  },
+  "OAFZ": {
+    "lat": 37.1211013794,
+    "long": 70.5180969238,
+    "name": "Faizabad "
+  },
+  "OAHN": {
+    "lat": 37.8829994202,
+    "long": 70.2170028687,
+    "name": "Khwahan "
+  },
+  "OAHR": {
+    "lat": 34.2099990845,
+    "long": 62.2282981873,
+    "name": "Herat "
+  },
+  "OAIX": {
+    "lat": 34.9460983276,
+    "long": 69.2649993896,
+    "name": "Bagram Air Base"
+  },
+  "OAJL": {
+    "lat": 34.3997993469,
+    "long": 70.4985961914,
+    "name": "Jalalabad "
+  },
+  "OAKB": {
+    "lat": 34.5658988953,
+    "long": 69.2123031616,
+    "name": "Kabul International "
+  },
+  "OAKG": {
+    "lat": 37.0830001831,
+    "long": 69.3669967651,
+    "name": "Khojaghar "
+  },
+  "OAKN": {
+    "lat": 31.5058002472,
+    "long": 65.8478012085,
+    "name": "Kandahar "
+  },
+  "OAKS": {
+    "lat": 33.3334007263,
+    "long": 69.952003479,
+    "name": "Khost "
+  },
+  "OAMN": {
+    "lat": 35.9308013916,
+    "long": 64.7609024048,
+    "name": "Maimana "
+  },
+  "OAMS": {
+    "lat": 36.7069015503,
+    "long": 67.2097015381,
+    "name": "Mazar I Sharif "
+  },
+  "OAQM": {
+    "lat": 36.1669998169,
+    "long": 70.7170028687,
+    "name": "Kron Monajn "
+  },
+  "OAQN": {
+    "lat": 34.9850006104,
+    "long": 63.1178016663,
+    "name": "Qala-I-Naw "
+  },
+  "OASA": {
+    "lat": 33.12575,
+    "long": 68.838517,
+    "name": "Sharana Airstrip"
+  },
+  "OASD": {
+    "lat": 33.3913002014,
+    "long": 62.2610015869,
+    "name": "Shindand "
+  },
+  "OASG": {
+    "lat": 36.7508010864,
+    "long": 65.9132003784,
+    "name": "Sheberghan "
+  },
+  "OASN": {
+    "lat": 37.5670013428,
+    "long": 71.5,
+    "name": "Sheghnan "
+  },
+  "OATN": {
+    "lat": 32.6041984558,
+    "long": 65.8657989502,
+    "name": "Tarin Kowt "
+  },
+  "OATQ": {
+    "lat": 36.7706985474,
+    "long": 69.5319976807,
+    "name": "Talolqan "
+  },
+  "OAUZ": {
+    "lat": 36.6651000977,
+    "long": 68.9107971191,
+    "name": "Konduz "
+  },
+  "OAYQ": {
+    "lat": 37.4589996338,
+    "long": 69.6465988159,
+    "name": "Yangi Qala "
+  },
+  "OAYW": {
+    "lat": 37.5616989136,
+    "long": 70.4417037964,
+    "name": "Yawan "
+  },
+  "OAZI": {
+    "lat": 31.8638000488,
+    "long": 64.2246017456,
+    "name": "Camp Bastion "
+  },
+  "OAZJ": {
+    "lat": 30.972222,
+    "long": 61.865833,
+    "name": "Zaranj "
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "AYAI": {
+    "lat": -3.1436111111,
+    "long": 142.346805556,
+    "name": "Aitape "
+  },
+  "AYAM": {
+    "lat": -3.586,
+    "long": 141.214333333,
+    "name": "Amanab "
+  },
+  "AYAN": {
+    "lat": -7.1372222222,
+    "long": 145.744722222,
+    "name": "Andakombe "
+  },
+  "AYAO": {
+    "lat": -5.145699978,
+    "long": 144.7307003,
+    "name": "Aiome "
+  },
+  "AYAQ": {
+    "lat": -5.3816666667,
+    "long": 143.924722222,
+    "name": "Kompiam "
+  },
+  "AYAT": {
+    "lat": -4.2156666667,
+    "long": 142.823166667,
+    "name": "Ambunti "
+  },
+  "AYAW": {
+    "lat": -8.0061101914,
+    "long": 142.748352051,
+    "name": "Awaba "
+  },
+  "AYAY": {
+    "lat": -6.3380555556,
+    "long": 145.904166667,
+    "name": "Aiyura "
+  },
+  "AYBA": {
+    "lat": -7.4968600273,
+    "long": 144.819900513,
+    "name": "Baimuru "
+  },
+  "AYBG": {
+    "lat": -6.3472222222,
+    "long": 146.942222222,
+    "name": "Baindoung "
+  },
+  "AYBK": {
+    "lat": -5.4223198891,
+    "long": 154.6730041504,
+    "name": "Buka "
+  },
+  "AYBM": {
+    "lat": -8.0500001907,
+    "long": 142.932998657,
+    "name": "Balimo "
+  },
+  "AYBU": {
+    "lat": -7.2162866714,
+    "long": 146.649541855,
+    "name": "Bulolo "
+  },
+  "AYBW": {
+    "lat": -2.618211,
+    "long": 141.091971,
+    "name": "Blackwara "
+  },
+  "AYCH": {
+    "lat": -6.0242900848,
+    "long": 144.970993042,
+    "name": "Chimbu "
+  },
+  "AYDE": {
+    "lat": -6.1447222222,
+    "long": 147.107222222,
+    "name": "Derim "
+  },
+  "AYDS": {
+    "lat": -5.184135,
+    "long": 144.411965,
+    "name": "Dusin "
+  },
+  "AYDU": {
+    "lat": -9.0867595673,
+    "long": 143.207992554,
+    "name": "Daru "
+  },
+  "AYED": {
+    "lat": -3.883986,
+    "long": 141.792234,
+    "name": "Edwaki "
+  },
+  "AYFA": {
+    "lat": -8.5492777778,
+    "long": 147.085833333,
+    "name": "Fane "
+  },
+  "AYFI": {
+    "lat": -6.621750109,
+    "long": 147.85405,
+    "name": "Finschhafen "
+  },
+  "AYFR": {
+    "lat": -4.610468,
+    "long": 141.960138,
+    "name": "Frieda River "
+  },
+  "AYGA": {
+    "lat": -6.0816898346,
+    "long": 145.391998291,
+    "name": "Goroka "
+  },
+  "AYGB": {
+    "lat": -6.8775170598,
+    "long": 143.721942902,
+    "name": "Gobe "
+  },
+  "AYGG": {
+    "lat": -7.980713,
+    "long": 147.213461,
+    "name": "Garasa "
+  },
+  "AYGI": {
+    "lat": -7.8756250275,
+    "long": 147.141265869,
+    "name": "Garaina "
+  },
+  "AYGN": {
+    "lat": -10.3114995956,
+    "long": 150.333999634,
+    "name": "Gurney "
+  },
+  "AYGP": {
+    "lat": -6.053196,
+    "long": 145.959047,
+    "name": "Gusap "
+  },
+  "AYGR": {
+    "lat": -8.8045396805,
+    "long": 148.309005737,
+    "name": "Girua "
+  },
+  "AYGT": {
+    "lat": -6.2711100578,
+    "long": 150.330993652,
+    "name": "Gasmata Island "
+  },
+  "AYGV": {
+    "lat": -3.9022428989,
+    "long": 141.170516968,
+    "name": "Green River "
+  },
+  "AYGW": {
+    "lat": -6.465838,
+    "long": 145.083968,
+    "name": "Guwasa "
+  },
+  "AYHA": {
+    "lat": -6.707421,
+    "long": 144.997398,
+    "name": "Haia "
+  },
+  "AYHK": {
+    "lat": -5.4621701241,
+    "long": 150.4049987793,
+    "name": "Kimbe "
+  },
+  "AYIQ": {
+    "lat": -6.305,
+    "long": 155.727778,
+    "name": "Aropa "
+  },
+  "AYKA": {
+    "lat": -8.5058202744,
+    "long": 151.0809936523,
+    "name": "Losuia "
+  },
+  "AYKB": {
+    "lat": -6.1554722222,
+    "long": 147.191472222,
+    "name": "Kabwum"
+  },
+  "AYKC": {
+    "lat": -6.2659,
+    "long": 149.5581,
+    "name": "Kandrian "
+  },
+  "AYKI": {
+    "lat": -6.1257100105,
+    "long": 141.2819976807,
+    "name": "Kiunga "
+  },
+  "AYKK": {
+    "lat": -7.4243798256,
+    "long": 144.2500762939,
+    "name": "Kikori "
+  },
+  "AYKM": {
+    "lat": -7.9636101723,
+    "long": 145.770996094,
+    "name": "Kerema "
+  },
+  "AYKO": {
+    "lat": -8.8846788406,
+    "long": 147.730957031,
+    "name": "Kokoda "
+  },
+  "AYKT": {
+    "lat": -7.50025,
+    "long": 146.033833333,
+    "name": "Kaintiba "
+  },
+  "AYKU": {
+    "lat": -7.135083,
+    "long": 143.276111,
+    "name": "Kuri "
+  },
+  "AYKV": {
+    "lat": -2.5794000626,
+    "long": 150.807998657,
+    "name": "Kavieng "
+  },
+  "AYKW": {
+    "lat": -7.9770069122,
+    "long": 142.823577881,
+    "name": "Kawito "
+  },
+  "AYKY": {
+    "lat": -3.043610096,
+    "long": 152.628997803,
+    "name": "Londolovit "
+  },
+  "AYLM": {
+    "lat": -7.0099201202,
+    "long": 141.494003296,
+    "name": "Lake Murray "
+  },
+  "AYLU": {
+    "lat": -3.4768395113,
+    "long": 142.041292191,
+    "name": "Lumi "
+  },
+  "AYMC": {
+    "lat": -7.2116666667,
+    "long": 146.019361111,
+    "name": "Menyamya "
+  },
+  "AYMD": {
+    "lat": -5.2070798874,
+    "long": 145.789001465,
+    "name": "Madang "
+  },
+  "AYMH": {
+    "lat": -5.826789856,
+    "long": 144.296005249,
+    "name": "Mount Hagen Kagamuga "
+  },
+  "AYMI": {
+    "lat": -6.4716666667,
+    "long": 147.441138889,
+    "name": "Mindik "
+  },
+  "AYMK": {
+    "lat": -5.730238,
+    "long": 149.056583,
+    "name": "Mok "
+  },
+  "AYML": {
+    "lat": -6.280859,
+    "long": 142.420775,
+    "name": "Mougulu "
+  },
+  "AYMN": {
+    "lat": -6.1477398872,
+    "long": 143.6569976807,
+    "name": "Mendi "
+  },
+  "AYMO": {
+    "lat": -2.0618898869,
+    "long": 147.4239959717,
+    "name": "Momote "
+  },
+  "AYMR": {
+    "lat": -6.3633298874,
+    "long": 143.238006592,
+    "name": "Moro "
+  },
+  "AYMS": {
+    "lat": -10.6892004013,
+    "long": 152.837997437,
+    "name": "Misima Island "
+  },
+  "AYNE": {
+    "lat": -6.567778,
+    "long": 144.703058,
+    "name": "Negarbo(Negabo) "
+  },
+  "AYNG": {
+    "lat": -5.577778,
+    "long": 151.792333,
+    "name": "Manguna "
+  },
+  "AYNU": {
+    "lat": -3.676651,
+    "long": 142.484334,
+    "name": "Nuku "
+  },
+  "AYNZ": {
+    "lat": -6.5698299408,
+    "long": 146.725997925,
+    "name": "Lae Nadzab "
+  },
+  "AYOG": {
+    "lat": -6.46675,
+    "long": 147.364166667,
+    "name": "Ogeranang "
+  },
+  "AYOM": {
+    "lat": -7.8277777778,
+    "long": 147.080638889,
+    "name": "Omora "
+  },
+  "AYPD": {
+    "lat": -6.4451388889,
+    "long": 147.515833333,
+    "name": "Pindiu "
+  },
+  "AYPU": {
+    "lat": -6.4751611111,
+    "long": 143.987222222,
+    "name": "Puri "
+  },
+  "AYPW": {
+    "lat": -7.6720555556,
+    "long": 143.124722222,
+    "name": "Panakawa "
+  },
+  "AYPY": {
+    "lat": -9.4433803558,
+    "long": 147.2200012207,
+    "name": "Port Moresby Jacksons International "
+  },
+  "AYQA": {
+    "lat": -4.5966666667,
+    "long": 143.5225,
+    "name": "Karawari Airstrip"
+  },
+  "AYRG": {
+    "lat": -5.8972222222,
+    "long": 141.271666667,
+    "name": "Rumginae "
+  },
+  "AYRI": {
+    "lat": -6.4921,
+    "long": 144.823,
+    "name": "Karimui "
+  },
+  "AYSA": {
+    "lat": -6.1044444444,
+    "long": 142.278333333,
+    "name": "Suabi "
+  },
+  "AYSE": {
+    "lat": -2.6622222222,
+    "long": 151.997777778,
+    "name": "Simberi "
+  },
+  "AYSG": {
+    "lat": -9.0735555556,
+    "long": 148.38925,
+    "name": "Sila "
+  },
+  "AYSJ": {
+    "lat": -5.2786111111,
+    "long": 144.544722222,
+    "name": "Simbai "
+  },
+  "AYST": {
+    "lat": -8.1525,
+    "long": 142.268444444,
+    "name": "Sturt Island "
+  },
+  "AYSU": {
+    "lat": -8.0466,
+    "long": 141.7222,
+    "name": "Suki "
+  },
+  "AYTA": {
+    "lat": -5.8449997902,
+    "long": 142.947998047,
+    "name": "Tari "
+  },
+  "AYTB": {
+    "lat": -5.2786102295,
+    "long": 141.2259979248,
+    "name": "Tabubil "
+  },
+  "AYTE": {
+    "lat": -5.1260804642,
+    "long": 141.641921997,
+    "name": "Telefomin "
+  },
+  "AYTI": {
+    "lat": -8.3566666667,
+    "long": 146.989166667,
+    "name": "Tapini "
+  },
+  "AYTJ": {
+    "lat": -3.1981918035,
+    "long": 142.430963516,
+    "name": "Tadji "
+  },
+  "AYTK": {
+    "lat": -4.3404598236,
+    "long": 152.380004883,
+    "name": "Tokua "
+  },
+  "AYTN": {
+    "lat": -5.2436666667,
+    "long": 142.165194444,
+    "name": "Tekin "
+  },
+  "AYTU": {
+    "lat": -9.0759544373,
+    "long": 149.319839478,
+    "name": "Tufi "
+  },
+  "AYVN": {
+    "lat": -2.6971700191,
+    "long": 141.3020019531,
+    "name": "Vanimo "
+  },
+  "AYWB": {
+    "lat": -6.9894444444,
+    "long": 145.075111111,
+    "name": "Wabo "
+  },
+  "AYWD": {
+    "lat": -5.6433000565,
+    "long": 143.8950042725,
+    "name": "Wapenamanda "
+  },
+  "AYWG": {
+    "lat": -9.3375,
+    "long": 149.155555556,
+    "name": "Wanigela "
+  },
+  "AYWK": {
+    "lat": -3.5838301182,
+    "long": 143.669006348,
+    "name": "Wewak International "
+  },
+  "AYWO": {
+    "lat": -6.7968611111,
+    "long": 145.891944444,
+    "name": "Wonenara "
+  },
+  "AYWS": {
+    "lat": -5.9617094492,
+    "long": 147.19822526,
+    "name": "Wasu "
+  },
+  "AYWT": {
+    "lat": -8.5458333333,
+    "long": 147.2525,
+    "name": "Woitape "
+  },
+  "AYWU": {
+    "lat": -7.3455555556,
+    "long": 146.718611111,
+    "name": "Wau "
+  }
+}

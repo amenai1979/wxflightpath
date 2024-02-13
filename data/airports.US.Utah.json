@@ -1,0 +1,608 @@
+{
+    "01UT": {
+        "lat": 38.3083000183,
+        "long": -109.3960037231,
+        "name": "La Sal Junction ",
+        "state": "Utah"
+    },
+    "02UT": {
+        "lat": 41.3662986755,
+        "long": -113.8430023193,
+        "name": "Lucin ",
+        "state": "Utah"
+    },
+    "03UT": {
+        "lat": 37.1208000183,
+        "long": -109.986000061,
+        "name": "A Z Minerals Corporation ",
+        "state": "Utah"
+    },
+    "04UT": {
+        "lat": 37.0083007812,
+        "long": -110.794998169,
+        "name": "Navajo Mountain ",
+        "state": "Utah"
+    },
+    "05UT": {
+        "lat": 37.0332984924,
+        "long": -110.3170013428,
+        "name": "Oljato ",
+        "state": "Utah"
+    },
+    "2UT2": {
+        "lat": 37.5208015442,
+        "long": -112.641998291,
+        "name": "High Meadow Ranch ",
+        "state": "Utah"
+    },
+    "2UT3": {
+        "lat": 41.4921989441,
+        "long": -112.591003418,
+        "name": "Fort Ranch ",
+        "state": "Utah"
+    },
+    "99UT": {
+        "lat": 40.3506011963,
+        "long": -109.4010009766,
+        "name": "Sundog ",
+        "state": "Utah"
+    },
+    "K1L7": {
+        "lat": 37.745300293,
+        "long": -111.5699996948,
+        "name": "Escalante Municipal ",
+        "state": "Utah"
+    },
+    "K1L8": {
+        "lat": 37.1389007568,
+        "long": -113.3059997559,
+        "name": "General Dick Stout Field",
+        "state": "Utah"
+    },
+    "K1L9": {
+        "lat": 37.8596992493,
+        "long": -112.8160018921,
+        "name": "Parowan ",
+        "state": "Utah"
+    },
+    "K33U": {
+        "lat": 40.9177017212,
+        "long": -109.3909988403,
+        "name": "Dutch John ",
+        "state": "Utah"
+    },
+    "K36U": {
+        "lat": 40.4818000793,
+        "long": -111.4290008545,
+        "name": "Heber City Municipal Russ Mcdonald Field",
+        "state": "Utah"
+    },
+    "K38U": {
+        "lat": 38.3624992371,
+        "long": -111.5960006714,
+        "name": "Wayne Wonderland ",
+        "state": "Utah"
+    },
+    "K40U": {
+        "lat": 40.9860992432,
+        "long": -109.6780014038,
+        "name": "Manila ",
+        "state": "Utah"
+    },
+    "K41U": {
+        "lat": 39.32910156,
+        "long": -111.6149979,
+        "name": "Manti Ephraim ",
+        "state": "Utah"
+    },
+    "K42U": {
+        "lat": 41.1487998962,
+        "long": -111.766998291,
+        "name": "Morgan County ",
+        "state": "Utah"
+    },
+    "K43U": {
+        "lat": 39.52470016,
+        "long": -111.4749985,
+        "name": "Mount Pleasant ",
+        "state": "Utah"
+    },
+    "K44U": {
+        "lat": 39.0290985107,
+        "long": -111.8379974365,
+        "name": "Salina Gunnison ",
+        "state": "Utah"
+    },
+    "K66V": {
+        "lat": 37.25,
+        "long": -109.6340026855,
+        "name": "Bluff ",
+        "state": "Utah"
+    },
+    "K69V": {
+        "lat": 39.3611984253,
+        "long": -110.9169998169,
+        "name": "Huntington Municipal ",
+        "state": "Utah"
+    },
+    "K74V": {
+        "lat": 40.278301239,
+        "long": -110.0510025024,
+        "name": "Roosevelt Municipal ",
+        "state": "Utah"
+    },
+    "KBCE": {
+        "lat": 37.706401825,
+        "long": -112.144996643,
+        "name": "Bryce Canyon ",
+        "state": "Utah"
+    },
+    "KBDG": {
+        "lat": 37.58330154,
+        "long": -109.4830017,
+        "name": "Blanding Municipal ",
+        "state": "Utah"
+    },
+    "KBMC": {
+        "lat": 41.5523986816,
+        "long": -112.06199646,
+        "name": "Brigham City ",
+        "state": "Utah"
+    },
+    "KBTF": {
+        "lat": 40.8694000244,
+        "long": -111.927001953,
+        "name": "Skypark ",
+        "state": "Utah"
+    },
+    "KCDC": {
+        "lat": 37.7010002136,
+        "long": -113.0989990234,
+        "name": "Cedar City Regional ",
+        "state": "Utah"
+    },
+    "KCNY": {
+        "lat": 38.75500107,
+        "long": -109.7549973,
+        "name": "Canyonlands Field",
+        "state": "Utah"
+    },
+    "KDPG": {
+        "lat": 40.19940186,
+        "long": -112.9369965,
+        "name": "Michael AAF (Dugway Proving Ground) ",
+        "state": "Utah"
+    },
+    "KDTA": {
+        "lat": 39.3805999756,
+        "long": -112.508003235,
+        "name": "Delta Municipal ",
+        "state": "Utah"
+    },
+    "KENV": {
+        "lat": 40.7187004089,
+        "long": -114.03099823,
+        "name": "Wendover ",
+        "state": "Utah"
+    },
+    "KFOM": {
+        "lat": 38.95830154,
+        "long": -112.362999,
+        "name": "Fillmore Municipal ",
+        "state": "Utah"
+    },
+    "KHCR": {
+        "lat": 40.4818056,
+        "long": -111.4288056,
+        "name": "Heber City Municipal  - Russ McDonald Field",
+        "state": "Utah"
+    },
+    "KHIF": {
+        "lat": 41.1239013672,
+        "long": -111.9729995728,
+        "name": "Hill Air Force Base",
+        "state": "Utah"
+    },
+    "KHVE": {
+        "lat": 38.4179992676,
+        "long": -110.7040023804,
+        "name": "Hanksville ",
+        "state": "Utah"
+    },
+    "KKNB": {
+        "lat": 37.011100769,
+        "long": -112.53099823,
+        "name": "Kanab Municipal ",
+        "state": "Utah"
+    },
+    "KLGU": {
+        "lat": 41.7911987305,
+        "long": -111.8519973755,
+        "name": "Logan Cache ",
+        "state": "Utah"
+    },
+    "KMLF": {
+        "lat": 38.42660141,
+        "long": -113.012001,
+        "name": "Milford Municipal-Ben and Judy Briscoe Field",
+        "state": "Utah"
+    },
+    "KOGD": {
+        "lat": 41.1958999634,
+        "long": -112.0120010376,
+        "name": "Ogden Hinckley ",
+        "state": "Utah"
+    },
+    "KPUC": {
+        "lat": 39.61389923,
+        "long": -110.7509995,
+        "name": "Carbon County Regional/Buck Davis Field",
+        "state": "Utah"
+    },
+    "KPVU": {
+        "lat": 40.2192001343,
+        "long": -111.7229995728,
+        "name": "Provo Municipal ",
+        "state": "Utah"
+    },
+    "KRIF": {
+        "lat": 38.7364006042,
+        "long": -112.0989990234,
+        "name": "Richfield Municipal ",
+        "state": "Utah"
+    },
+    "KSGU": {
+        "lat": 37.0363888889,
+        "long": -113.510305556,
+        "name": "St George Municipal ",
+        "state": "Utah"
+    },
+    "KSLC": {
+        "lat": 40.7883987427,
+        "long": -111.9779968262,
+        "name": "Salt Lake City International ",
+        "state": "Utah"
+    },
+    "KTVY": {
+        "lat": 40.61230087,
+        "long": -112.3509979,
+        "name": "Bolinder Field Tooele Valley ",
+        "state": "Utah"
+    },
+    "KU07": {
+        "lat": 37.54579926,
+        "long": -110.7129974,
+        "name": "Bullfrog Basin ",
+        "state": "Utah"
+    },
+    "KU13": {
+        "lat": 38.25,
+        "long": -112.2249984741,
+        "name": "Junction ",
+        "state": "Utah"
+    },
+    "KU14": {
+        "lat": 39.73880005,
+        "long": -111.8720016,
+        "name": "Nephi Municipal ",
+        "state": "Utah"
+    },
+    "KU34": {
+        "lat": 38.9613990784,
+        "long": -110.226997375,
+        "name": "Green River Municipal ",
+        "state": "Utah"
+    },
+    "KU42": {
+        "lat": 40.6195556,
+        "long": -111.9928889,
+        "name": "South Valley Regional ",
+        "state": "Utah"
+    },
+    "KU43": {
+        "lat": 37.9371986389,
+        "long": -109.3470001221,
+        "name": "Monticello ",
+        "state": "Utah"
+    },
+    "KU52": {
+        "lat": 38.23070145,
+        "long": -112.6750031,
+        "name": "Beaver Municipal ",
+        "state": "Utah"
+    },
+    "KU55": {
+        "lat": 37.84519958,
+        "long": -112.3919983,
+        "name": "Panguitch Municipal ",
+        "state": "Utah"
+    },
+    "KU64": {
+        "lat": 37.93243,
+        "long": -109.341225,
+        "name": "Monticello ",
+        "state": "Utah"
+    },
+    "KU69": {
+        "lat": 40.1918983459,
+        "long": -110.3809967041,
+        "name": "Duchesne Municipal ",
+        "state": "Utah"
+    },
+    "KU77": {
+        "lat": 40.1416015625,
+        "long": -111.6610031128,
+        "name": "Spanish Fork Springville ",
+        "state": "Utah"
+    },
+    "KU96": {
+        "lat": 37.442199707,
+        "long": -110.5699996948,
+        "name": "Cal Black Memorial ",
+        "state": "Utah"
+    },
+    "KVEL": {
+        "lat": 40.4408989,
+        "long": -109.5100021,
+        "name": "Vernal Regional ",
+        "state": "Utah"
+    },
+    "UT00": {
+        "lat": 37.4721984863,
+        "long": -112.6220016479,
+        "name": "Swains Creek ",
+        "state": "Utah"
+    },
+    "UT02": {
+        "lat": 38.0889015198,
+        "long": -111.0670013428,
+        "name": "Sandy Ranch ",
+        "state": "Utah"
+    },
+    "UT03": {
+        "lat": 37.8947016926,
+        "long": -110.379123688,
+        "name": "Hite ",
+        "state": "Utah"
+    },
+    "UT06": {
+        "lat": 38.9665985107,
+        "long": -109.7200012207,
+        "name": "Rogers Roost ",
+        "state": "Utah"
+    },
+    "UT07": {
+        "lat": 40.4249992371,
+        "long": -109.5920028687,
+        "name": "Air Village Strip",
+        "state": "Utah"
+    },
+    "UT08": {
+        "lat": 40.4319000244,
+        "long": -111.930999756,
+        "name": "Camp Williams Airfield",
+        "state": "Utah"
+    },
+    "UT09": {
+        "lat": 39.4832992554,
+        "long": -110.1510009766,
+        "name": "Tavapats Ranch ",
+        "state": "Utah"
+    },
+    "UT10": {
+        "lat": 40.3572006226,
+        "long": -112.0179977417,
+        "name": "Cedar Valley ",
+        "state": "Utah"
+    },
+    "UT13": {
+        "lat": 40.5638999939,
+        "long": -112.013999939,
+        "name": "Number 18 ",
+        "state": "Utah"
+    },
+    "UT15": {
+        "lat": 37.9286003113,
+        "long": -112.7689971924,
+        "name": "Flying Cal Ute Rancheros ",
+        "state": "Utah"
+    },
+    "UT17": {
+        "lat": 37.9322013855,
+        "long": -112.3320007324,
+        "name": "Pfeiler Ranch ",
+        "state": "Utah"
+    },
+    "UT24": {
+        "lat": 37.4933013916,
+        "long": -112.6449966431,
+        "name": "Strawberry Valley Estates ",
+        "state": "Utah"
+    },
+    "UT25": {
+        "lat": 37.0167007446,
+        "long": -110.2009963989,
+        "name": "Monument Valley ",
+        "state": "Utah"
+    },
+    "UT26": {
+        "lat": 37.584400177,
+        "long": -112.391998291,
+        "name": "Bryce Woodland Estates Landing Strip",
+        "state": "Utah"
+    },
+    "UT27": {
+        "lat": 37.2510986328,
+        "long": -113.2089996338,
+        "name": "Hurricane Mesa ",
+        "state": "Utah"
+    },
+    "UT28": {
+        "lat": 37.9749984741,
+        "long": -113.4629974365,
+        "name": "Sun Valley Estates ",
+        "state": "Utah"
+    },
+    "UT29": {
+        "lat": 41.7338981628,
+        "long": -112.1940002441,
+        "name": "Jack's ",
+        "state": "Utah"
+    },
+    "UT30": {
+        "lat": 37.3424987793,
+        "long": -112.2239990234,
+        "name": "Deer Springs Ranch ",
+        "state": "Utah"
+    },
+    "UT37": {
+        "lat": 37.2668991089,
+        "long": -112.7009963989,
+        "name": "Carmel Mountain Ranch ",
+        "state": "Utah"
+    },
+    "UT40": {
+        "lat": 41.0983009338,
+        "long": -112.1159973145,
+        "name": "Payne Field",
+        "state": "Utah"
+    },
+    "UT41": {
+        "lat": 40.3394012451,
+        "long": -111.9990005493,
+        "name": "Glenmar Ranch ",
+        "state": "Utah"
+    },
+    "UT42": {
+        "lat": 39.1467018127,
+        "long": -109.1449966431,
+        "name": "Westwater ",
+        "state": "Utah"
+    },
+    "UT43": {
+        "lat": 37.636100769,
+        "long": -113.2470016479,
+        "name": "Citabriair ",
+        "state": "Utah"
+    },
+    "UT47": {
+        "lat": 37.1018981934,
+        "long": -113.314002991,
+        "name": "Grassy Meadows/Sky Ranch Landowners Assn ",
+        "state": "Utah"
+    },
+    "UT48": {
+        "lat": 41.1501998901,
+        "long": -112.0989990234,
+        "name": "Lbl Farms ",
+        "state": "Utah"
+    },
+    "UT49": {
+        "lat": 39.459400177,
+        "long": -112.6549987793,
+        "name": "Desert Aviation ",
+        "state": "Utah"
+    },
+    "UT53": {
+        "lat": 38.4878005981,
+        "long": -109.4489974976,
+        "name": "Sky Ranch ",
+        "state": "Utah"
+    },
+    "UT54": {
+        "lat": 37.2532997131,
+        "long": -113.3339996338,
+        "name": "Crystal Springs Ranch ",
+        "state": "Utah"
+    },
+    "UT57": {
+        "lat": 38.5724983215,
+        "long": -112.5920028687,
+        "name": "Sulphurdale ",
+        "state": "Utah"
+    },
+    "UT59": {
+        "lat": 38.1758003235,
+        "long": -109.7440032959,
+        "name": "Needles Outpost ",
+        "state": "Utah"
+    },
+    "UT65": {
+        "lat": 39.9980010986,
+        "long": -113.9769973755,
+        "name": "Goshute ",
+        "state": "Utah"
+    },
+    "UT67": {
+        "lat": 40.4411010742,
+        "long": -109.8470001221,
+        "name": "Paradise Air Park",
+        "state": "Utah"
+    },
+    "UT68": {
+        "lat": 38.4728012085,
+        "long": -109.6600036621,
+        "name": "Tangri-La ",
+        "state": "Utah"
+    },
+    "UT69": {
+        "lat": 40.1814002991,
+        "long": -109.6719970703,
+        "name": "Pelican Lake ",
+        "state": "Utah"
+    },
+    "UT70": {
+        "lat": 38.9649009705,
+        "long": -114.0370025635,
+        "name": "Garrison ",
+        "state": "Utah"
+    },
+    "UT74": {
+        "lat": 37.6483001709,
+        "long": -110.1669998169,
+        "name": "Fry Canyon Field",
+        "state": "Utah"
+    },
+    "UT75": {
+        "lat": 38.5315831779,
+        "long": -109.995889664,
+        "name": "Mineral Canyon Strip",
+        "state": "Utah"
+    },
+    "UT79": {
+        "lat": 40.415599823,
+        "long": -109.34400177,
+        "name": "3-I Rocker Ranch ",
+        "state": "Utah"
+    },
+    "UT80": {
+        "lat": 37.6347007751,
+        "long": -113.158996582,
+        "name": "Hamilton Fort Ranch ",
+        "state": "Utah"
+    },
+    "UT82": {
+        "lat": 37.7099990845,
+        "long": -113.6460037231,
+        "name": "Beryl Junction ",
+        "state": "Utah"
+    },
+    "UT83": {
+        "lat": 40.2578010559,
+        "long": -110.8590011597,
+        "name": "Thunder Ridge Airpark",
+        "state": "Utah"
+    },
+    "UT97": {
+        "lat": 38.1571998596,
+        "long": -110.2919998169,
+        "name": "Happy Canyon ",
+        "state": "Utah"
+    },
+    "UT99": {
+        "lat": 40.2425994873,
+        "long": -112.0930023193,
+        "name": "West Desert Airpark",
+        "state": "Utah"
+    }
+}

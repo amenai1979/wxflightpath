@@ -1,0 +1,2570 @@
+{
+    "00WI": {
+        "lat": 44.3042984009,
+        "long": -89.0501022339,
+        "name": "Northern Lite ",
+        "state": "Wisconsin"
+    },
+    "01WI": {
+        "lat": 44.0099983215,
+        "long": -90.3891983032,
+        "name": "Prehn Cranberry Company ",
+        "state": "Wisconsin"
+    },
+    "02WI": {
+        "lat": 45.0318984985,
+        "long": -92.6557998657,
+        "name": "Beer ",
+        "state": "Wisconsin"
+    },
+    "03WI": {
+        "lat": 44.0275001526,
+        "long": -88.880897522,
+        "name": "Zink ",
+        "state": "Wisconsin"
+    },
+    "04WI": {
+        "lat": 42.523399353,
+        "long": -88.0167007446,
+        "name": "Dutch Gap Airstrip",
+        "state": "Wisconsin"
+    },
+    "05WI": {
+        "lat": 42.6511001587,
+        "long": -88.7459030151,
+        "name": "Ames Private ",
+        "state": "Wisconsin"
+    },
+    "06WI": {
+        "lat": 45.6627006531,
+        "long": -92.4502029419,
+        "name": "Young Private ",
+        "state": "Wisconsin"
+    },
+    "07WI": {
+        "lat": 42.9653015137,
+        "long": -88.3915023804,
+        "name": "Bartell Strip",
+        "state": "Wisconsin"
+    },
+    "09WI": {
+        "lat": 44.0036010742,
+        "long": -91.3076019287,
+        "name": "Parkway Farm Strip",
+        "state": "Wisconsin"
+    },
+    "0WI1": {
+        "lat": 45.5071983337,
+        "long": -92.1418991089,
+        "name": "Mort's Landing ",
+        "state": "Wisconsin"
+    },
+    "0WI2": {
+        "lat": 43.2014007568,
+        "long": -88.3333969116,
+        "name": "Doering Farms Airfield",
+        "state": "Wisconsin"
+    },
+    "0WI4": {
+        "lat": 43.8293991089,
+        "long": -89.3526000977,
+        "name": "Snow Crest Ranch ",
+        "state": "Wisconsin"
+    },
+    "0WI5": {
+        "lat": 42.7933998108,
+        "long": -87.8906021118,
+        "name": "Crash In International ",
+        "state": "Wisconsin"
+    },
+    "0WI6": {
+        "lat": 42.8736000061,
+        "long": -88.1578979492,
+        "name": "Simandl Field/Private ",
+        "state": "Wisconsin"
+    },
+    "0WI7": {
+        "lat": 44.1335983276,
+        "long": -88.4992980957,
+        "name": "With Wings And A Halo ",
+        "state": "Wisconsin"
+    },
+    "0WI8": {
+        "lat": 43.1389007568,
+        "long": -88.4722976685,
+        "name": "Oconomowoc ",
+        "state": "Wisconsin"
+    },
+    "0WI9": {
+        "lat": 42.9314002991,
+        "long": -89.3386993408,
+        "name": "Mc Manus Hoonch-Na-Shee-Kaw ",
+        "state": "Wisconsin"
+    },
+    "0WN5": {
+        "lat": 42.7997016907,
+        "long": -88.0486984253,
+        "name": "Potts Field",
+        "state": "Wisconsin"
+    },
+    "10WI": {
+        "lat": 45.1157989502,
+        "long": -88.1894989014,
+        "name": "Buds Landing ",
+        "state": "Wisconsin"
+    },
+    "13WI": {
+        "lat": 43.6963996887,
+        "long": -88.9996032715,
+        "name": "Nowatzski Field",
+        "state": "Wisconsin"
+    },
+    "14WS": {
+        "lat": 45.7779998779,
+        "long": -91.5585021973,
+        "name": "Lakewood Lodge ",
+        "state": "Wisconsin"
+    },
+    "15WI": {
+        "lat": 42.9275016785,
+        "long": -89.4181976318,
+        "name": "Peterson Field",
+        "state": "Wisconsin"
+    },
+    "17WI": {
+        "lat": 43.0360984802,
+        "long": -88.8932037354,
+        "name": "Ha-Rail ",
+        "state": "Wisconsin"
+    },
+    "19WI": {
+        "lat": 45.1952018738,
+        "long": -92.0570983887,
+        "name": "Erickson Field",
+        "state": "Wisconsin"
+    },
+    "1WI0": {
+        "lat": 42.6425018311,
+        "long": -89.3112030029,
+        "name": "Spring Valley Farm ",
+        "state": "Wisconsin"
+    },
+    "1WI1": {
+        "lat": 43.932800293,
+        "long": -88.7045974731,
+        "name": "Williams ",
+        "state": "Wisconsin"
+    },
+    "1WI2": {
+        "lat": 43.3652992249,
+        "long": -87.8870010376,
+        "name": "Flying S Ranch ",
+        "state": "Wisconsin"
+    },
+    "1WI3": {
+        "lat": 43.8499984741,
+        "long": -89.1167984009,
+        "name": "Bed-Ah-Wick Field",
+        "state": "Wisconsin"
+    },
+    "1WI6": {
+        "lat": 42.8403015137,
+        "long": -88.0640029907,
+        "name": "Aero Estates ",
+        "state": "Wisconsin"
+    },
+    "1WI7": {
+        "lat": 44.0222015381,
+        "long": -89.096496582,
+        "name": "Buzzards Roost ",
+        "state": "Wisconsin"
+    },
+    "1WI8": {
+        "lat": 44.635799408,
+        "long": -87.4402008057,
+        "name": "Jorgensen - Stoller ",
+        "state": "Wisconsin"
+    },
+    "1WI9": {
+        "lat": 42.913898468,
+        "long": -88.8667984009,
+        "name": "Blackhawk Island ",
+        "state": "Wisconsin"
+    },
+    "1WN1": {
+        "lat": 43.6679992676,
+        "long": -88.1953964233,
+        "name": "Kettle Moraine ",
+        "state": "Wisconsin"
+    },
+    "1WN2": {
+        "lat": 43.3292007446,
+        "long": -87.9972991943,
+        "name": "Covered Bridge Fields ",
+        "state": "Wisconsin"
+    },
+    "1WN3": {
+        "lat": 45.2118988037,
+        "long": -92.5360031128,
+        "name": "Danielson Field ",
+        "state": "Wisconsin"
+    },
+    "1WN5": {
+        "lat": 46.1547012329,
+        "long": -89.3174972534,
+        "name": "Simons Airfield",
+        "state": "Wisconsin"
+    },
+    "20WI": {
+        "lat": 44.0214004517,
+        "long": -89.0792999268,
+        "name": "Harju ",
+        "state": "Wisconsin"
+    },
+    "22WN": {
+        "lat": 43.0685997009,
+        "long": -90.2194976807,
+        "name": "Southwind ",
+        "state": "Wisconsin"
+    },
+    "23WN": {
+        "lat": 45.9110984802,
+        "long": -91.6285018921,
+        "name": "Willie's ",
+        "state": "Wisconsin"
+    },
+    "24WI": {
+        "lat": 45.095500946,
+        "long": -92.6737976074,
+        "name": "Irlbeck ",
+        "state": "Wisconsin"
+    },
+    "24WN": {
+        "lat": 42.5541000366,
+        "long": -88.4274978638,
+        "name": "Prairie View Farm ",
+        "state": "Wisconsin"
+    },
+    "25WN": {
+        "lat": 44.528718,
+        "long": -92.120341,
+        "name": "Little Plum Creek ",
+        "state": "Wisconsin"
+    },
+    "26WI": {
+        "lat": 45.6991004944,
+        "long": -91.3034973145,
+        "name": "Kitty-Wompus ",
+        "state": "Wisconsin"
+    },
+    "27WI": {
+        "lat": 44.8077011108,
+        "long": -92.7137985229,
+        "name": "Tegeler ",
+        "state": "Wisconsin"
+    },
+    "28WI": {
+        "lat": 44.6040992737,
+        "long": -92.0466003418,
+        "name": "Rutherford ",
+        "state": "Wisconsin"
+    },
+    "29WI": {
+        "lat": 44.3255004883,
+        "long": -90.0273971558,
+        "name": "Whittlesey Cranberry Co ",
+        "state": "Wisconsin"
+    },
+    "2WI0": {
+        "lat": 44.8526992798,
+        "long": -89.6000976563,
+        "name": "Bender's ",
+        "state": "Wisconsin"
+    },
+    "2WI1": {
+        "lat": 42.9435997009,
+        "long": -89.2865982056,
+        "name": "Uff-Da ",
+        "state": "Wisconsin"
+    },
+    "2WI2": {
+        "lat": 42.5569000244,
+        "long": -90.2276000977,
+        "name": "Shullsburg ",
+        "state": "Wisconsin"
+    },
+    "2WI4": {
+        "lat": 42.6427993774,
+        "long": -88.3986968994,
+        "name": "Plows & Props ",
+        "state": "Wisconsin"
+    },
+    "2WI5": {
+        "lat": 46.0974006653,
+        "long": -90.1632003784,
+        "name": "Blair Lake ",
+        "state": "Wisconsin"
+    },
+    "2WI6": {
+        "lat": 42.9136009216,
+        "long": -89.1862030029,
+        "name": "Matson ",
+        "state": "Wisconsin"
+    },
+    "2WI7": {
+        "lat": 42.9696998596,
+        "long": -89.665397644,
+        "name": "Hecklers' Strip",
+        "state": "Wisconsin"
+    },
+    "2WI8": {
+        "lat": 43.5974998474,
+        "long": -87.7789993286,
+        "name": "Davies ",
+        "state": "Wisconsin"
+    },
+    "2WI9": {
+        "lat": 43.7599983215,
+        "long": -89.634803772,
+        "name": "Bulldog Ranch ",
+        "state": "Wisconsin"
+    },
+    "2WN2": {
+        "lat": 43.6542015076,
+        "long": -89.6303024292,
+        "name": "Gaffney ",
+        "state": "Wisconsin"
+    },
+    "2WN3": {
+        "lat": 44.3578987122,
+        "long": -88.7613983154,
+        "name": "Curns ",
+        "state": "Wisconsin"
+    },
+    "2WN4": {
+        "lat": 44.3394012451,
+        "long": -88.7811965942,
+        "name": "Mcfaul ",
+        "state": "Wisconsin"
+    },
+    "2WN5": {
+        "lat": 44.006401062,
+        "long": -90.019203186,
+        "name": "Murmuring Springs ",
+        "state": "Wisconsin"
+    },
+    "2WN6": {
+        "lat": 44.5297012329,
+        "long": -90.4192962646,
+        "name": "Cunningham ",
+        "state": "Wisconsin"
+    },
+    "2WN7": {
+        "lat": 43.9486999512,
+        "long": -88.6732025146,
+        "name": "Planeacres ",
+        "state": "Wisconsin"
+    },
+    "2WN8": {
+        "lat": 44.015228,
+        "long": -88.714269,
+        "name": "Oshkosh Sky Ranch ",
+        "state": "Wisconsin"
+    },
+    "2WS2": {
+        "lat": 45.913686,
+        "long": -92.293239,
+        "name": "Connor'S Lake Landing",
+        "state": "Wisconsin"
+    },
+    "2WS3": {
+        "lat": 44.280428,
+        "long": -88.093578,
+        "name": "C. R. Acres ",
+        "state": "Wisconsin"
+    },
+    "30WI": {
+        "lat": 45.1918983459,
+        "long": -87.3592987061,
+        "name": "Chambers Island ",
+        "state": "Wisconsin"
+    },
+    "31WI": {
+        "lat": 43.0071983337,
+        "long": -88.6019973755,
+        "name": "Mcdermott Air Park",
+        "state": "Wisconsin"
+    },
+    "31WN": {
+        "lat": 43.9916000366,
+        "long": -88.962600708,
+        "name": "Berlin Field",
+        "state": "Wisconsin"
+    },
+    "32WI": {
+        "lat": 44.3163986206,
+        "long": -88.7008972168,
+        "name": "Dalonia ",
+        "state": "Wisconsin"
+    },
+    "32WN": {
+        "lat": 45.099606,
+        "long": -88.419733,
+        "name": "Bowman Airstrip",
+        "state": "Wisconsin"
+    },
+    "34WI": {
+        "lat": 43.4178009033,
+        "long": -89.7654037476,
+        "name": "Thiessen Field",
+        "state": "Wisconsin"
+    },
+    "35WI": {
+        "lat": 42.7456016541,
+        "long": -88.4375991821,
+        "name": "Barker Strip",
+        "state": "Wisconsin"
+    },
+    "36WI": {
+        "lat": 44.0321998596,
+        "long": -91.2995986938,
+        "name": "Holland Air Park",
+        "state": "Wisconsin"
+    },
+    "37WI": {
+        "lat": 42.9911003113,
+        "long": -89.7535018921,
+        "name": "Docken Field",
+        "state": "Wisconsin"
+    },
+    "38WI": {
+        "lat": 44.3885993958,
+        "long": -88.8526000977,
+        "name": "Northport ",
+        "state": "Wisconsin"
+    },
+    "39WI": {
+        "lat": 43.4846992493,
+        "long": -90.6199035645,
+        "name": "S & S Ranch ",
+        "state": "Wisconsin"
+    },
+    "3WI0": {
+        "lat": 44.64220047,
+        "long": -87.4197998047,
+        "name": "Carnot Field",
+        "state": "Wisconsin"
+    },
+    "3WI1": {
+        "lat": 42.6570014954,
+        "long": -88.087600708,
+        "name": "Olson's ",
+        "state": "Wisconsin"
+    },
+    "3WI2": {
+        "lat": 43.1528015137,
+        "long": -88.9845962524,
+        "name": "Tesmer ",
+        "state": "Wisconsin"
+    },
+    "3WI3": {
+        "lat": 44.7652015686,
+        "long": -89.4073028564,
+        "name": "Plover River Airfield",
+        "state": "Wisconsin"
+    },
+    "3WI4": {
+        "lat": 44.9235992432,
+        "long": -89.4022979736,
+        "name": "Flying 'O' ",
+        "state": "Wisconsin"
+    },
+    "3WI5": {
+        "lat": 42.8125,
+        "long": -88.7265014648,
+        "name": "Clover Valley ",
+        "state": "Wisconsin"
+    },
+    "3WI6": {
+        "lat": 42.5900993347,
+        "long": -88.8746032715,
+        "name": "Melin Farms ",
+        "state": "Wisconsin"
+    },
+    "3WI7": {
+        "lat": 43.0332984924,
+        "long": -88.4581985474,
+        "name": "Bark River ",
+        "state": "Wisconsin"
+    },
+    "3WI8": {
+        "lat": 44.0532989502,
+        "long": -89.1218032837,
+        "name": "Plantation Pine ",
+        "state": "Wisconsin"
+    },
+    "3WI9": {
+        "lat": 44.9937591553,
+        "long": -91.3777542114,
+        "name": "Rosenbaum Field",
+        "state": "Wisconsin"
+    },
+    "3WN2": {
+        "lat": 46.6916007996,
+        "long": -90.8706970215,
+        "name": "Old Dairy ",
+        "state": "Wisconsin"
+    },
+    "3WN4": {
+        "lat": 44.3069000244,
+        "long": -88.7711029053,
+        "name": "Mark's Park & Airfield",
+        "state": "Wisconsin"
+    },
+    "3WN6": {
+        "lat": 45.2389984131,
+        "long": -91.7118988037,
+        "name": "Knutson Farms ",
+        "state": "Wisconsin"
+    },
+    "3WN7": {
+        "lat": 44.1500015259,
+        "long": -87.6177978516,
+        "name": "Woodland Airstrip",
+        "state": "Wisconsin"
+    },
+    "3WN8": {
+        "lat": 44.9356002808,
+        "long": -91.4307022095,
+        "name": "Blunt Field",
+        "state": "Wisconsin"
+    },
+    "3WN9": {
+        "lat": 44.5569000244,
+        "long": -91.366897583,
+        "name": "Brion Memorial ",
+        "state": "Wisconsin"
+    },
+    "40WI": {
+        "lat": 44.0583000183,
+        "long": -91.4307022095,
+        "name": "Schubert Airstrip",
+        "state": "Wisconsin"
+    },
+    "41WI": {
+        "lat": 42.7386016846,
+        "long": -88.5798034668,
+        "name": "Paddock Field",
+        "state": "Wisconsin"
+    },
+    "43WI": {
+        "lat": 45.031533,
+        "long": -91.7325,
+        "name": "Eagle Ridge Ultralightport",
+        "state": "Wisconsin"
+    },
+    "44WI": {
+        "lat": 44.772217,
+        "long": -90.385067,
+        "name": "Stoiber ",
+        "state": "Wisconsin"
+    },
+    "45WI": {
+        "lat": 45,
+        "long": -92.2835006714,
+        "name": "Windsong Farm ",
+        "state": "Wisconsin"
+    },
+    "47WI": {
+        "lat": 42.8899993896,
+        "long": -88.8081970215,
+        "name": "Oakbrook ",
+        "state": "Wisconsin"
+    },
+    "48WI": {
+        "lat": 45.793800354,
+        "long": -89.7301025391,
+        "name": "Circle A Ranch ",
+        "state": "Wisconsin"
+    },
+    "49WI": {
+        "lat": 43.3791999817,
+        "long": -90.0154037476,
+        "name": "Tri-Center ",
+        "state": "Wisconsin"
+    },
+    "4WI0": {
+        "lat": 44.9333000183,
+        "long": -91.2723999023,
+        "name": "Wissota ",
+        "state": "Wisconsin"
+    },
+    "4WI1": {
+        "lat": 43.4832992554,
+        "long": -89.1834030151,
+        "name": "Bancroft East ",
+        "state": "Wisconsin"
+    },
+    "4WI2": {
+        "lat": 45.606098175,
+        "long": -89.0214996338,
+        "name": "Island View ",
+        "state": "Wisconsin"
+    },
+    "4WI3": {
+        "lat": 45.3251991272,
+        "long": -88.137298584,
+        "name": "Neveln Field",
+        "state": "Wisconsin"
+    },
+    "4WI4": {
+        "lat": 45.5741004944,
+        "long": -89.7480010986,
+        "name": "Turner ",
+        "state": "Wisconsin"
+    },
+    "4WI5": {
+        "lat": 44.7235984802,
+        "long": -91.4598999023,
+        "name": "Carlson ",
+        "state": "Wisconsin"
+    },
+    "4WI6": {
+        "lat": 43.8041992188,
+        "long": -87.8973007202,
+        "name": "Feldmann Field",
+        "state": "Wisconsin"
+    },
+    "4WI8": {
+        "lat": 44.0513000488,
+        "long": -91.3762969971,
+        "name": "Carhart Farms ",
+        "state": "Wisconsin"
+    },
+    "4WI9": {
+        "lat": 45.0069007874,
+        "long": -92.1918029785,
+        "name": "Mar-O-Dae Farm ",
+        "state": "Wisconsin"
+    },
+    "4WN2": {
+        "lat": 44.4169998169,
+        "long": -89.9863967896,
+        "name": "Swensen ",
+        "state": "Wisconsin"
+    },
+    "4WN3": {
+        "lat": 45.3320999146,
+        "long": -88.5360031128,
+        "name": "Lakewood Airpark",
+        "state": "Wisconsin"
+    },
+    "4WN4": {
+        "lat": 45.2941017151,
+        "long": -91.2329025269,
+        "name": "River Ridge Aero Estates ",
+        "state": "Wisconsin"
+    },
+    "4WN5": {
+        "lat": 45.4570007324,
+        "long": -92.3783035278,
+        "name": "Romeo Airstrip",
+        "state": "Wisconsin"
+    },
+    "4WN9": {
+        "lat": 42.5975,
+        "long": -88.146389,
+        "name": "Digger Dougs ",
+        "state": "Wisconsin"
+    },
+    "50WI": {
+        "lat": 44.113899231,
+        "long": -88.5270996094,
+        "name": "Earl's Air Park",
+        "state": "Wisconsin"
+    },
+    "51WI": {
+        "lat": 44.0628013611,
+        "long": -88.5572967529,
+        "name": "Gallinger ",
+        "state": "Wisconsin"
+    },
+    "52WI": {
+        "lat": 45.159644,
+        "long": -90.056883,
+        "name": "John'S Field",
+        "state": "Wisconsin"
+    },
+    "53WI": {
+        "lat": 42.6981010437,
+        "long": -89.7867965698,
+        "name": "Kelly ",
+        "state": "Wisconsin"
+    },
+    "54WI": {
+        "lat": 45.0083007813,
+        "long": -92.2751998901,
+        "name": "Flyplassen ",
+        "state": "Wisconsin"
+    },
+    "55WI": {
+        "lat": 44.3180007935,
+        "long": -89.9686965942,
+        "name": "Cranmoor Airstrip",
+        "state": "Wisconsin"
+    },
+    "56WI": {
+        "lat": 44.773399353,
+        "long": -89.5936965942,
+        "name": "Jaks Field",
+        "state": "Wisconsin"
+    },
+    "58WI": {
+        "lat": 45.6450996399,
+        "long": -92.3664016724,
+        "name": "Geo Jensen ",
+        "state": "Wisconsin"
+    },
+    "59WI": {
+        "lat": 43.0339012146,
+        "long": -89.1925964355,
+        "name": "Little Wheel Field",
+        "state": "Wisconsin"
+    },
+    "5WI0": {
+        "lat": 44.7027015686,
+        "long": -91.1337966919,
+        "name": "Grandpa's Farm ",
+        "state": "Wisconsin"
+    },
+    "5WI1": {
+        "lat": 45.9019012451,
+        "long": -91.6771011353,
+        "name": "Springbrook ",
+        "state": "Wisconsin"
+    },
+    "5WI2": {
+        "lat": 44.2224998474,
+        "long": -89.4953994751,
+        "name": "Plainfield International ",
+        "state": "Wisconsin"
+    },
+    "5WI3": {
+        "lat": 43.2078018188,
+        "long": -89.0170974731,
+        "name": "Der Schwarzwald ",
+        "state": "Wisconsin"
+    },
+    "5WI4": {
+        "lat": 45.081401825,
+        "long": -87.6792984009,
+        "name": "Larson ",
+        "state": "Wisconsin"
+    },
+    "5WI5": {
+        "lat": 45.2750015259,
+        "long": -89.4917984009,
+        "name": "Haymeadow ",
+        "state": "Wisconsin"
+    },
+    "5WI6": {
+        "lat": 44.3669013977,
+        "long": -91.3957977295,
+        "name": "Independence ",
+        "state": "Wisconsin"
+    },
+    "5WI8": {
+        "lat": 45.0760993958,
+        "long": -88.0043029785,
+        "name": "Ermis-Ridgeview ",
+        "state": "Wisconsin"
+    },
+    "5WI9": {
+        "lat": 45.129699707,
+        "long": -88.1648025513,
+        "name": "Patz ",
+        "state": "Wisconsin"
+    },
+    "5WN2": {
+        "lat": 43.2682991028,
+        "long": -89.4843978882,
+        "name": "Eberle Ranch ",
+        "state": "Wisconsin"
+    },
+    "5WN8": {
+        "lat": 45.0323982239,
+        "long": -89.401802063,
+        "name": "Knight Sky ",
+        "state": "Wisconsin"
+    },
+    "5WN9": {
+        "lat": 44.5943984985,
+        "long": -92.2584991455,
+        "name": "Ottman Landing ",
+        "state": "Wisconsin"
+    },
+    "61WI": {
+        "lat": 43.7083015442,
+        "long": -88.285697937,
+        "name": "Dinnerbell ",
+        "state": "Wisconsin"
+    },
+    "63WI": {
+        "lat": 42.6657981873,
+        "long": -89.7376022339,
+        "name": "Flying H ",
+        "state": "Wisconsin"
+    },
+    "64WI": {
+        "lat": 44.0414009094,
+        "long": -88.7001037598,
+        "name": "Sky Diving ",
+        "state": "Wisconsin"
+    },
+    "65WI": {
+        "lat": 43.6192016602,
+        "long": -87.8219985962,
+        "name": "Dulmes Field",
+        "state": "Wisconsin"
+    },
+    "65WN": {
+        "lat": 42.676399231,
+        "long": -89.93800354,
+        "name": "Whoopy Hollow Aerodrome",
+        "state": "Wisconsin"
+    },
+    "66WI": {
+        "lat": 43.0774993896,
+        "long": -88.662902832,
+        "name": "J-3 Cub Field",
+        "state": "Wisconsin"
+    },
+    "67WI": {
+        "lat": 43.9710998535,
+        "long": -89.9971008301,
+        "name": "Accurate ",
+        "state": "Wisconsin"
+    },
+    "6WI0": {
+        "lat": 45.1805000305,
+        "long": -91.987701416,
+        "name": "Cub Acres ",
+        "state": "Wisconsin"
+    },
+    "6WI1": {
+        "lat": 44.4952011108,
+        "long": -89.9125976563,
+        "name": "Winch Airfield",
+        "state": "Wisconsin"
+    },
+    "6WI2": {
+        "lat": 44.8438987732,
+        "long": -92.7557983398,
+        "name": "St Croix Riviera ",
+        "state": "Wisconsin"
+    },
+    "6WI3": {
+        "lat": 45.6772003174,
+        "long": -91.5625,
+        "name": "Will-Be-Gone ",
+        "state": "Wisconsin"
+    },
+    "6WI4": {
+        "lat": 46.515499115,
+        "long": -90.431602478,
+        "name": "Saxon ",
+        "state": "Wisconsin"
+    },
+    "6WI5": {
+        "lat": 44.8891983032,
+        "long": -88.0208969116,
+        "name": "Dolata ",
+        "state": "Wisconsin"
+    },
+    "6WI6": {
+        "lat": 44.6839981079,
+        "long": -87.6279983521,
+        "name": "Mick Shier Field",
+        "state": "Wisconsin"
+    },
+    "6WI7": {
+        "lat": 42.6104011536,
+        "long": -89.2761001587,
+        "name": "Walnut Wash ",
+        "state": "Wisconsin"
+    },
+    "6WI9": {
+        "lat": 43.7966003418,
+        "long": -89.2678985596,
+        "name": "Rex Ranch ",
+        "state": "Wisconsin"
+    },
+    "6WN5": {
+        "lat": 44.4998016357,
+        "long": -92.1987991333,
+        "name": "Airwolfe ",
+        "state": "Wisconsin"
+    },
+    "6WN6": {
+        "lat": 43.3800010681,
+        "long": -89.0106964111,
+        "name": "Fountain Prairie ",
+        "state": "Wisconsin"
+    },
+    "70WI": {
+        "lat": 45.0321998596,
+        "long": -92.3544006348,
+        "name": "Kanten Field",
+        "state": "Wisconsin"
+    },
+    "72WI": {
+        "lat": 44.0461006165,
+        "long": -87.9928970337,
+        "name": "Windhaven ",
+        "state": "Wisconsin"
+    },
+    "73WI": {
+        "lat": 45.2405014038,
+        "long": -91.5087966919,
+        "name": "Vetterkind Strip",
+        "state": "Wisconsin"
+    },
+    "75WI": {
+        "lat": 43.5889015198,
+        "long": -87.7843017578,
+        "name": "Smies ",
+        "state": "Wisconsin"
+    },
+    "77WI": {
+        "lat": 42.5717010498,
+        "long": -88.2031021118,
+        "name": "Foxewood ",
+        "state": "Wisconsin"
+    },
+    "7WI0": {
+        "lat": 43.3730010986,
+        "long": -91.1099014282,
+        "name": "Turkey Bluff ",
+        "state": "Wisconsin"
+    },
+    "7WI2": {
+        "lat": 43.4430007935,
+        "long": -89.1781997681,
+        "name": "Higgins ",
+        "state": "Wisconsin"
+    },
+    "7WI4": {
+        "lat": 44.3004989624,
+        "long": -90.9878997803,
+        "name": "Lewis ",
+        "state": "Wisconsin"
+    },
+    "7WI5": {
+        "lat": 42.8824996948,
+        "long": -89.4007034302,
+        "name": "Syvrud ",
+        "state": "Wisconsin"
+    },
+    "7WI6": {
+        "lat": 43.470500946,
+        "long": -89.3590011597,
+        "name": "Weatherbee Field",
+        "state": "Wisconsin"
+    },
+    "7WI7": {
+        "lat": 45.1589012146,
+        "long": -90.1492996216,
+        "name": "Charlies ",
+        "state": "Wisconsin"
+    },
+    "7WI8": {
+        "lat": 44.7806015015,
+        "long": -87.6024017334,
+        "name": "Crispy Cedars ",
+        "state": "Wisconsin"
+    },
+    "7WI9": {
+        "lat": 43.8305015564,
+        "long": -88.3254013062,
+        "name": "Nett Construction ",
+        "state": "Wisconsin"
+    },
+    "80WI": {
+        "lat": 44.0229988098,
+        "long": -89.1384963989,
+        "name": "Spring Creek ",
+        "state": "Wisconsin"
+    },
+    "81WI": {
+        "lat": 45.0786018372,
+        "long": -90.1764984131,
+        "name": "Gunner Field",
+        "state": "Wisconsin"
+    },
+    "82WI": {
+        "lat": 44.1492004395,
+        "long": -87.8143997192,
+        "name": "Triple S Ranch ",
+        "state": "Wisconsin"
+    },
+    "83WI": {
+        "lat": 44.970500946,
+        "long": -90.3461990356,
+        "name": "Jones ",
+        "state": "Wisconsin"
+    },
+    "85WI": {
+        "lat": 45.0443992615,
+        "long": -92.2928009033,
+        "name": "Cub Bear ",
+        "state": "Wisconsin"
+    },
+    "86WI": {
+        "lat": 42.8252983093,
+        "long": -89.8701019287,
+        "name": "Bakers Field",
+        "state": "Wisconsin"
+    },
+    "87WI": {
+        "lat": 43.0194015503,
+        "long": -89.1854019165,
+        "name": "Quale ",
+        "state": "Wisconsin"
+    },
+    "88WI": {
+        "lat": 44.5083007813,
+        "long": -87.8607025146,
+        "name": "Nicolet ",
+        "state": "Wisconsin"
+    },
+    "89WI": {
+        "lat": 42.9068984985,
+        "long": -90.0320968628,
+        "name": "Tuschen ",
+        "state": "Wisconsin"
+    },
+    "8WI0": {
+        "lat": 43.7439002991,
+        "long": -89.8143005371,
+        "name": "Wood ",
+        "state": "Wisconsin"
+    },
+    "8WI1": {
+        "lat": 44.7536010742,
+        "long": -88.7282028198,
+        "name": "Dillenburg's ",
+        "state": "Wisconsin"
+    },
+    "8WI2": {
+        "lat": 44.2247009277,
+        "long": -89.53099823,
+        "name": "Runway Leasing Inc Nr 1 ",
+        "state": "Wisconsin"
+    },
+    "8WI3": {
+        "lat": 44.4207992554,
+        "long": -89.5553970337,
+        "name": "Rwnway Leasing Inc Nr 2 ",
+        "state": "Wisconsin"
+    },
+    "8WI5": {
+        "lat": 44.515496,
+        "long": -88.54164,
+        "name": "Wolf River Landing Strip",
+        "state": "Wisconsin"
+    },
+    "8WI6": {
+        "lat": 44.6096992493,
+        "long": -87.6529006958,
+        "name": "Funk Aerodrome",
+        "state": "Wisconsin"
+    },
+    "8WI7": {
+        "lat": 45.6511001587,
+        "long": -88.1820983887,
+        "name": "Dunbar ",
+        "state": "Wisconsin"
+    },
+    "8WI8": {
+        "lat": 42.9766998291,
+        "long": -90.6482009888,
+        "name": "Stupek Farms ",
+        "state": "Wisconsin"
+    },
+    "8WN8": {
+        "lat": 45.2350997925,
+        "long": -87.0674972534,
+        "name": "Mave's Lakeview Road ",
+        "state": "Wisconsin"
+    },
+    "90WI": {
+        "lat": 45.5750007629,
+        "long": -88.7083969116,
+        "name": "Heritage Acres ",
+        "state": "Wisconsin"
+    },
+    "91WI": {
+        "lat": 44.2938995361,
+        "long": -90.0320968628,
+        "name": "Gottschalk Field",
+        "state": "Wisconsin"
+    },
+    "92WI": {
+        "lat": 45.2961006165,
+        "long": -89.6410980225,
+        "name": "Knight Aire ",
+        "state": "Wisconsin"
+    },
+    "93WI": {
+        "lat": 43.2536010742,
+        "long": -88.2095031738,
+        "name": "Arrowhead Springs ",
+        "state": "Wisconsin"
+    },
+    "95WI": {
+        "lat": 42.9361000061,
+        "long": -89.129699707,
+        "name": "Wisersky ",
+        "state": "Wisconsin"
+    },
+    "97WI": {
+        "lat": 44.9632987976,
+        "long": -90.8602981567,
+        "name": "North Fork ",
+        "state": "Wisconsin"
+    },
+    "99WI": {
+        "lat": 44.6808013916,
+        "long": -87.3805999756,
+        "name": "Foscoro ",
+        "state": "Wisconsin"
+    },
+    "9WI1": {
+        "lat": 44.3293991089,
+        "long": -88.6235961914,
+        "name": "Black Otter ",
+        "state": "Wisconsin"
+    },
+    "9WI2": {
+        "lat": 44.2874984741,
+        "long": -87.7958984375,
+        "name": "Flying Dollar Ranch ",
+        "state": "Wisconsin"
+    },
+    "9WI3": {
+        "lat": 44.2854995728,
+        "long": -87.9868011475,
+        "name": "Buchholz Farm ",
+        "state": "Wisconsin"
+    },
+    "9WI4": {
+        "lat": 42.9785995483,
+        "long": -88.134803772,
+        "name": "Faken ",
+        "state": "Wisconsin"
+    },
+    "9WI5": {
+        "lat": 42.8283004761,
+        "long": -88.5745010376,
+        "name": "Tamarack ",
+        "state": "Wisconsin"
+    },
+    "9WI6": {
+        "lat": 45.1040992737,
+        "long": -89.0167999268,
+        "name": "Kitty Hawk Estates ",
+        "state": "Wisconsin"
+    },
+    "9WI8": {
+        "lat": 42.693901062,
+        "long": -88.3793029785,
+        "name": "Fletcher ",
+        "state": "Wisconsin"
+    },
+    "9WI9": {
+        "lat": 46.6208000183,
+        "long": -92.0819015503,
+        "name": "Carlson ",
+        "state": "Wisconsin"
+    },
+    "9WN1": {
+        "lat": 44.1068992615,
+        "long": -88.6839981079,
+        "name": "Courtney Plummer ",
+        "state": "Wisconsin"
+    },
+    "9WN2": {
+        "lat": 45.9665985107,
+        "long": -92.1460037231,
+        "name": "Voyager Village Airstrip",
+        "state": "Wisconsin"
+    },
+    "9WN3": {
+        "lat": 43.4213981628,
+        "long": -87.888999939,
+        "name": "Ozaukee ",
+        "state": "Wisconsin"
+    },
+    "9WN4": {
+        "lat": 45.0839996338,
+        "long": -89.029800415,
+        "name": "Rag Wing ",
+        "state": "Wisconsin"
+    },
+    "9WN5": {
+        "lat": 43.3333015442,
+        "long": -89.5210037231,
+        "name": "Lodi Lakeland ",
+        "state": "Wisconsin"
+    },
+    "9WN9": {
+        "lat": 44.0600013733,
+        "long": -89.5668029785,
+        "name": "Coloma Municipal ",
+        "state": "Wisconsin"
+    },
+    "9WS2": {
+        "lat": 44.367639,
+        "long": -88.158678,
+        "name": "Antique Aerodrome",
+        "state": "Wisconsin"
+    },
+    "JB01": {
+        "lat": 43.7571983337,
+        "long": -89.6526031494,
+        "name": "Clearwater Aero Estates ",
+        "state": "Wisconsin"
+    },
+    "K02C": {
+        "lat": 43.0902222222,
+        "long": -88.1781602778,
+        "name": "Capitol ",
+        "state": "Wisconsin"
+    },
+    "K3CU": {
+        "lat": 46.1941986084,
+        "long": -91.2463989258,
+        "name": "Cable Union ",
+        "state": "Wisconsin"
+    },
+    "K3T3": {
+        "lat": 45.0439987183,
+        "long": -92.020401001,
+        "name": "Boyceville Municipal ",
+        "state": "Wisconsin"
+    },
+    "K44C": {
+        "lat": 42.4977989197,
+        "long": -88.9675979614,
+        "name": "Beloit ",
+        "state": "Wisconsin"
+    },
+    "K4R5": {
+        "lat": 46.7887001038,
+        "long": -90.7586975098,
+        "name": "Madeline Island ",
+        "state": "Wisconsin"
+    },
+    "K57C": {
+        "lat": 42.7971992493,
+        "long": -88.3725967407,
+        "name": "East Troy Municipal ",
+        "state": "Wisconsin"
+    },
+    "K5N2": {
+        "lat": 45.5429992676,
+        "long": -90.279296875,
+        "name": "Prentice ",
+        "state": "Wisconsin"
+    },
+    "K60C": {
+        "lat": 43.706401825,
+        "long": -90.257598877,
+        "name": "Elroy Municipal ",
+        "state": "Wisconsin"
+    },
+    "K61C": {
+        "lat": 42.9631996155,
+        "long": -88.8175964355,
+        "name": "Fort Atkinson Municipal ",
+        "state": "Wisconsin"
+    },
+    "K63C": {
+        "lat": 43.9612007141,
+        "long": -89.7880020142,
+        "name": "Adams County Legion Field",
+        "state": "Wisconsin"
+    },
+    "K73C": {
+        "lat": 42.7804985046,
+        "long": -90.6809997559,
+        "name": "Lancaster Municipal ",
+        "state": "Wisconsin"
+    },
+    "K7V3": {
+        "lat": 42.5256996155,
+        "long": -88.6529998779,
+        "name": "Big Foot Airfield",
+        "state": "Wisconsin"
+    },
+    "K82C": {
+        "lat": 43.8386993408,
+        "long": -90.1377029419,
+        "name": "Mauston New Lisbon Union ",
+        "state": "Wisconsin"
+    },
+    "K87Y": {
+        "lat": 43.10490036,
+        "long": -89.1855011,
+        "name": "Blackhawk Airfield",
+        "state": "Wisconsin"
+    },
+    "K8D1": {
+        "lat": 43.9441986084,
+        "long": -88.1135025024,
+        "name": "New Holstein Municipal ",
+        "state": "Wisconsin"
+    },
+    "K93C": {
+        "lat": 43.2834014893,
+        "long": -90.2983016968,
+        "name": "Richland ",
+        "state": "Wisconsin"
+    },
+    "KAHH": {
+        "lat": 45.2811012268,
+        "long": -92.3753967285,
+        "name": "Amery Municipal ",
+        "state": "Wisconsin"
+    },
+    "KAIG": {
+        "lat": 45.1542015076,
+        "long": -89.1107025146,
+        "name": "Langlade County ",
+        "state": "Wisconsin"
+    },
+    "KARV": {
+        "lat": 45.92789841,
+        "long": -89.73090363,
+        "name": "Lakeland-Noble F. Lee Memorial field",
+        "state": "Wisconsin"
+    },
+    "KASX": {
+        "lat": 46.54850006,
+        "long": -90.91899872,
+        "name": "John F Kennedy Memorial ",
+        "state": "Wisconsin"
+    },
+    "KATW": {
+        "lat": 44.2580986023,
+        "long": -88.5190963745,
+        "name": "Appleton International ",
+        "state": "Wisconsin"
+    },
+    "KAUW": {
+        "lat": 44.9262008667,
+        "long": -89.6266021729,
+        "name": "Wausau Downtown ",
+        "state": "Wisconsin"
+    },
+    "KBCK": {
+        "lat": 44.2507019043,
+        "long": -90.8553009033,
+        "name": "Black River Falls Area ",
+        "state": "Wisconsin"
+    },
+    "KBDJ": {
+        "lat": 46.1374015808,
+        "long": -89.6460037231,
+        "name": "Boulder Junction ",
+        "state": "Wisconsin"
+    },
+    "KC02": {
+        "lat": 42.6148986816,
+        "long": -88.3896026611,
+        "name": "Grand Geneva Resort ",
+        "state": "Wisconsin"
+    },
+    "KC29": {
+        "lat": 43.1142997742,
+        "long": -89.53150177,
+        "name": "Middleton Municipal Morey Field",
+        "state": "Wisconsin"
+    },
+    "KC35": {
+        "lat": 43.5259017944,
+        "long": -89.9832000732,
+        "name": "Reedsburg Municipal ",
+        "state": "Wisconsin"
+    },
+    "KC47": {
+        "lat": 43.5602989197,
+        "long": -89.4829025269,
+        "name": "Portage Municipal ",
+        "state": "Wisconsin"
+    },
+    "KC74": {
+        "lat": 42.7042007446,
+        "long": -90.9645996094,
+        "name": "Cassville Municipal ",
+        "state": "Wisconsin"
+    },
+    "KCLI": {
+        "lat": 44.6138000488,
+        "long": -88.731300354,
+        "name": "Clintonville Municipal ",
+        "state": "Wisconsin"
+    },
+    "KCMY": {
+        "lat": 43.9583015442,
+        "long": -90.7378997803,
+        "name": "Sparta Fort Mc Coy ",
+        "state": "Wisconsin"
+    },
+    "KCWA": {
+        "lat": 44.7775993347,
+        "long": -89.6668014526,
+        "name": "Central Wisconsin ",
+        "state": "Wisconsin"
+    },
+    "KD25": {
+        "lat": 46.1220016479,
+        "long": -89.8823013306,
+        "name": "Manitowish Waters ",
+        "state": "Wisconsin"
+    },
+    "KDAF": {
+        "lat": 44.0334014893,
+        "long": -90.0850982666,
+        "name": "Necedah ",
+        "state": "Wisconsin"
+    },
+    "KDLL": {
+        "lat": 43.52270126,
+        "long": -89.77020264,
+        "name": "Baraboo Wisconsin Dells ",
+        "state": "Wisconsin"
+    },
+    "KEAU": {
+        "lat": 44.8657989502,
+        "long": -91.4842987061,
+        "name": "Chippewa Valley Regional ",
+        "state": "Wisconsin"
+    },
+    "KEFT": {
+        "lat": 42.6148986816,
+        "long": -89.5904006958,
+        "name": "Monroe Municipal ",
+        "state": "Wisconsin"
+    },
+    "KEGV": {
+        "lat": 45.9323005676,
+        "long": -89.2683029175,
+        "name": "Eagle River Union ",
+        "state": "Wisconsin"
+    },
+    "KENW": {
+        "lat": 42.59569931,
+        "long": -87.92780304,
+        "name": "Kenosha Regional ",
+        "state": "Wisconsin"
+    },
+    "KETB": {
+        "lat": 43.4221992493,
+        "long": -88.1278991699,
+        "name": "West Bend Municipal ",
+        "state": "Wisconsin"
+    },
+    "KEZS": {
+        "lat": 44.7869987488,
+        "long": -88.5589981079,
+        "name": "Shawano Municipal ",
+        "state": "Wisconsin"
+    },
+    "KFLD": {
+        "lat": 43.7711982727,
+        "long": -88.4884033203,
+        "name": "Fond du Lac County ",
+        "state": "Wisconsin"
+    },
+    "KGRB": {
+        "lat": 44.4850997925,
+        "long": -88.1296005249,
+        "name": "Austin Straubel International ",
+        "state": "Wisconsin"
+    },
+    "KGTG": {
+        "lat": 45.7980995178,
+        "long": -92.6643981934,
+        "name": "Grantsburg Municipal ",
+        "state": "Wisconsin"
+    },
+    "KHBW": {
+        "lat": 43.6566009521,
+        "long": -90.3282012939,
+        "name": "Joshua Sanford Field",
+        "state": "Wisconsin"
+    },
+    "KHXF": {
+        "lat": 43.34930038,
+        "long": -88.39109802,
+        "name": "Hartford Municipal ",
+        "state": "Wisconsin"
+    },
+    "KHYR": {
+        "lat": 46.0251998901,
+        "long": -91.4442977905,
+        "name": "Sawyer County ",
+        "state": "Wisconsin"
+    },
+    "KISW": {
+        "lat": 44.3602981567,
+        "long": -89.8389968872,
+        "name": "Alexander Field South Wood County ",
+        "state": "Wisconsin"
+    },
+    "KJVL": {
+        "lat": 42.620300293,
+        "long": -89.0416030884,
+        "name": "Southern Wisconsin Regional ",
+        "state": "Wisconsin"
+    },
+    "KLNL": {
+        "lat": 46.15399933,
+        "long": -89.21209717,
+        "name": "Kings Land O' Lakes ",
+        "state": "Wisconsin"
+    },
+    "KLNR": {
+        "lat": 43.2117004395,
+        "long": -90.181602478,
+        "name": "Tri-County Regional ",
+        "state": "Wisconsin"
+    },
+    "KLSE": {
+        "lat": 43.87900162,
+        "long": -91.25669861,
+        "name": "La Crosse Municipal ",
+        "state": "Wisconsin"
+    },
+    "KLUM": {
+        "lat": 44.8922996521,
+        "long": -91.8678970337,
+        "name": "Menomonie Municipal Score Field",
+        "state": "Wisconsin"
+    },
+    "KMDZ": {
+        "lat": 45.10100174,
+        "long": -90.30329895,
+        "name": "Taylor County ",
+        "state": "Wisconsin"
+    },
+    "KMFI": {
+        "lat": 44.6369018555,
+        "long": -90.1893005371,
+        "name": "Marshfield Municipal ",
+        "state": "Wisconsin"
+    },
+    "KMKE": {
+        "lat": 42.9472007751,
+        "long": -87.8965988159,
+        "name": "General Mitchell International ",
+        "state": "Wisconsin"
+    },
+    "KMRJ": {
+        "lat": 42.8867988586,
+        "long": -90.2361984253,
+        "name": "Iowa County ",
+        "state": "Wisconsin"
+    },
+    "KMSN": {
+        "lat": 43.1399002075,
+        "long": -89.3375015259,
+        "name": "Dane County Regional Truax Field",
+        "state": "Wisconsin"
+    },
+    "KMTW": {
+        "lat": 44.1287994385,
+        "long": -87.6806030273,
+        "name": "Manitowoc County ",
+        "state": "Wisconsin"
+    },
+    "KMWC": {
+        "lat": 43.1104011536,
+        "long": -88.0344009399,
+        "name": "Lawrence J Timmerman ",
+        "state": "Wisconsin"
+    },
+    "KOCQ": {
+        "lat": 44.87419891,
+        "long": -87.9095993,
+        "name": "J. Douglas Bake Memorial ",
+        "state": "Wisconsin"
+    },
+    "KOEO": {
+        "lat": 45.3100013733,
+        "long": -92.6919021606,
+        "name": "L O Simenstad Municipal ",
+        "state": "Wisconsin"
+    },
+    "KOLG": {
+        "lat": 46.3148002625,
+        "long": -91.8163986206,
+        "name": "Solon Springs Municipal ",
+        "state": "Wisconsin"
+    },
+    "KOSH": {
+        "lat": 43.9844017029,
+        "long": -88.5569992065,
+        "name": "Wittman Regional ",
+        "state": "Wisconsin"
+    },
+    "KOVS": {
+        "lat": 43.16019821,
+        "long": -90.67549896,
+        "name": "Boscobel ",
+        "state": "Wisconsin"
+    },
+    "KPBH": {
+        "lat": 45.7089996338,
+        "long": -90.4024963379,
+        "name": "Price County ",
+        "state": "Wisconsin"
+    },
+    "KPCZ": {
+        "lat": 44.33330154,
+        "long": -89.01979828,
+        "name": "Waupaca Municipal ",
+        "state": "Wisconsin"
+    },
+    "KPDC": {
+        "lat": 43.0192985535,
+        "long": -91.1237030029,
+        "name": "Prairie Du Chien Municipal ",
+        "state": "Wisconsin"
+    },
+    "KPKF": {
+        "lat": 45.9550018311,
+        "long": -90.4244003296,
+        "name": "Park Falls Municipal ",
+        "state": "Wisconsin"
+    },
+    "KPVB": {
+        "lat": 42.68939972,
+        "long": -90.44439697,
+        "name": "Platteville Municipal ",
+        "state": "Wisconsin"
+    },
+    "KRAC": {
+        "lat": 42.7606010437,
+        "long": -87.8152008057,
+        "name": "John H Batten ",
+        "state": "Wisconsin"
+    },
+    "KRCX": {
+        "lat": 45.496799469,
+        "long": -91.00050354,
+        "name": "Rusk County ",
+        "state": "Wisconsin"
+    },
+    "KRGK": {
+        "lat": 44.58940125,
+        "long": -92.48500061,
+        "name": "Red Wing Regional ",
+        "state": "Wisconsin"
+    },
+    "KRHI": {
+        "lat": 45.6311988831,
+        "long": -89.4674987793,
+        "name": "Rhinelander Oneida County ",
+        "state": "Wisconsin"
+    },
+    "KRIE": {
+        "lat": 45.4785995483,
+        "long": -91.7221984863,
+        "name": "Rice Lake ",
+        "state": "Wisconsin"
+    },
+    "KRNH": {
+        "lat": 45.14830017,
+        "long": -92.5381012,
+        "name": "New Richmond Regional ",
+        "state": "Wisconsin"
+    },
+    "KRPD": {
+        "lat": 45.41899872,
+        "long": -91.77349854,
+        "name": "Rice Lake Regional Carl's Field",
+        "state": "Wisconsin"
+    },
+    "KRRL": {
+        "lat": 45.1988983154,
+        "long": -89.7128982544,
+        "name": "Merrill Municipal ",
+        "state": "Wisconsin"
+    },
+    "KRYV": {
+        "lat": 43.1696014404,
+        "long": -88.723197937,
+        "name": "Watertown Municipal ",
+        "state": "Wisconsin"
+    },
+    "KRZN": {
+        "lat": 45.8227005005,
+        "long": -92.3724975586,
+        "name": "Burnett County ",
+        "state": "Wisconsin"
+    },
+    "KSBM": {
+        "lat": 43.76959991,
+        "long": -87.85140228,
+        "name": "Sheboygan County Memorial ",
+        "state": "Wisconsin"
+    },
+    "KSSQ": {
+        "lat": 45.73139954,
+        "long": -91.92070007,
+        "name": "Shell Lake Municipal ",
+        "state": "Wisconsin"
+    },
+    "KSTE": {
+        "lat": 44.5452003479,
+        "long": -89.5302963257,
+        "name": "Stevens Point Municipal ",
+        "state": "Wisconsin"
+    },
+    "KSUE": {
+        "lat": 44.84370041,
+        "long": -87.42150116,
+        "name": "Door County Cherryland ",
+        "state": "Wisconsin"
+    },
+    "KSUW": {
+        "lat": 46.6897010803,
+        "long": -92.0947036743,
+        "name": "Richard I Bong ",
+        "state": "Wisconsin"
+    },
+    "KTKV": {
+        "lat": 45.46910095,
+        "long": -89.80570221,
+        "name": "Tomahawk Regional ",
+        "state": "Wisconsin"
+    },
+    "KUBE": {
+        "lat": 45.5060005188,
+        "long": -91.9811019897,
+        "name": "Cumberland Municipal ",
+        "state": "Wisconsin"
+    },
+    "KUES": {
+        "lat": 43.0410003662,
+        "long": -88.2370986938,
+        "name": "Waukesha County ",
+        "state": "Wisconsin"
+    },
+    "KUNU": {
+        "lat": 43.42660141,
+        "long": -88.70320129,
+        "name": "Dodge County ",
+        "state": "Wisconsin"
+    },
+    "KVIQ": {
+        "lat": 44.5581016541,
+        "long": -90.5121994019,
+        "name": "Neillsville Municipal ",
+        "state": "Wisconsin"
+    },
+    "KVOK": {
+        "lat": 43.938999176,
+        "long": -90.25340271,
+        "name": "Volk Field",
+        "state": "Wisconsin"
+    },
+    "KY23": {
+        "lat": 45.30619812,
+        "long": -91.63619995,
+        "name": "Chetek Municipal Southworth ",
+        "state": "Wisconsin"
+    },
+    "KY50": {
+        "lat": 44.0415992737,
+        "long": -89.3044967651,
+        "name": "Wautoma Municipal ",
+        "state": "Wisconsin"
+    },
+    "KY51": {
+        "lat": 43.5793991089,
+        "long": -90.9131011963,
+        "name": "Viroqua Municipal ",
+        "state": "Wisconsin"
+    },
+    "KY55": {
+        "lat": 45.5166015625,
+        "long": -88.9334030151,
+        "name": "Crandon Municipal ",
+        "state": "Wisconsin"
+    },
+    "KY72": {
+        "lat": 43.97499847,
+        "long": -90.48349762,
+        "name": "Bloyer Field",
+        "state": "Wisconsin"
+    },
+    "WI00": {
+        "lat": 44.8739013672,
+        "long": -89.2306976318,
+        "name": "Norrie Brook ",
+        "state": "Wisconsin"
+    },
+    "WI02": {
+        "lat": 42.5069999695,
+        "long": -88.9148025513,
+        "name": "Turtle ",
+        "state": "Wisconsin"
+    },
+    "WI03": {
+        "lat": 42.7980995178,
+        "long": -88.1333999634,
+        "name": "Horner Farms ",
+        "state": "Wisconsin"
+    },
+    "WI05": {
+        "lat": 44.8083000183,
+        "long": -91.6844024658,
+        "name": "Stocktrade ",
+        "state": "Wisconsin"
+    },
+    "WI07": {
+        "lat": 43.6222000122,
+        "long": -88.7667999268,
+        "name": "Waupun ",
+        "state": "Wisconsin"
+    },
+    "WI09": {
+        "lat": 42.9771995544,
+        "long": -88.4757995605,
+        "name": "Heitman Field ",
+        "state": "Wisconsin"
+    },
+    "WI11": {
+        "lat": 42.5914001465,
+        "long": -89.2406997681,
+        "name": "Mumm Field",
+        "state": "Wisconsin"
+    },
+    "WI12": {
+        "lat": 45.7066001892,
+        "long": -91.6249008179,
+        "name": "Lilac Time ",
+        "state": "Wisconsin"
+    },
+    "WI13": {
+        "lat": 44.254833,
+        "long": -89.8395,
+        "name": "Jennie'S Field",
+        "state": "Wisconsin"
+    },
+    "WI14": {
+        "lat": 44.9665985107,
+        "long": -92.3877029419,
+        "name": "Baldwin ",
+        "state": "Wisconsin"
+    },
+    "WI16": {
+        "lat": 42.853099823,
+        "long": -90.129699707,
+        "name": "Jim Benson Field",
+        "state": "Wisconsin"
+    },
+    "WI18": {
+        "lat": 45.1333007813,
+        "long": -91.4502029419,
+        "name": "Gateway ",
+        "state": "Wisconsin"
+    },
+    "WI19": {
+        "lat": 43.7999992371,
+        "long": -89.4335021973,
+        "name": "Cacic ",
+        "state": "Wisconsin"
+    },
+    "WI20": {
+        "lat": 44.8829994202,
+        "long": -88.0920028687,
+        "name": "Larson Studio ",
+        "state": "Wisconsin"
+    },
+    "WI21": {
+        "lat": 44.9096984863,
+        "long": -91.2417984009,
+        "name": "Crane Field",
+        "state": "Wisconsin"
+    },
+    "WI22": {
+        "lat": 44.3231010437,
+        "long": -88.6007995605,
+        "name": "Rocket City ",
+        "state": "Wisconsin"
+    },
+    "WI23": {
+        "lat": 46.8666000366,
+        "long": -91.0835037231,
+        "name": "Cornucopia Field",
+        "state": "Wisconsin"
+    },
+    "WI24": {
+        "lat": 42.8810997009,
+        "long": -89.7521972656,
+        "name": "Cardinal Ridge ",
+        "state": "Wisconsin"
+    },
+    "WI25": {
+        "lat": 44.538898468,
+        "long": -92.0140991211,
+        "name": "Durand Municipal ",
+        "state": "Wisconsin"
+    },
+    "WI26": {
+        "lat": 44.7050018311,
+        "long": -91.4654006958,
+        "name": "Mertinkes ",
+        "state": "Wisconsin"
+    },
+    "WI27": {
+        "lat": 44.9202003479,
+        "long": -91.974899292,
+        "name": "Skyport ",
+        "state": "Wisconsin"
+    },
+    "WI28": {
+        "lat": 44.586101532,
+        "long": -87.5576019287,
+        "name": "Walter's Agri-Center ",
+        "state": "Wisconsin"
+    },
+    "WI29": {
+        "lat": 44.9054985046,
+        "long": -92.4834976196,
+        "name": "Rush River ",
+        "state": "Wisconsin"
+    },
+    "WI31": {
+        "lat": 46.4143981934,
+        "long": -91.6510009766,
+        "name": "Minnesuing ",
+        "state": "Wisconsin"
+    },
+    "WI32": {
+        "lat": 44.9873008728,
+        "long": -91.3303985596,
+        "name": "T-Bo Field ",
+        "state": "Wisconsin"
+    },
+    "WI33": {
+        "lat": 46.1035995483,
+        "long": -91.9023971558,
+        "name": "Ben Sutherland ",
+        "state": "Wisconsin"
+    },
+    "WI36": {
+        "lat": 45.8265991211,
+        "long": -89.6201019287,
+        "name": "Dolhun Field",
+        "state": "Wisconsin"
+    },
+    "WI37": {
+        "lat": 45.8083000183,
+        "long": -91.0962982178,
+        "name": "Rainbow ",
+        "state": "Wisconsin"
+    },
+    "WI40": {
+        "lat": 42.9132995605,
+        "long": -89.3523025513,
+        "name": "Spiegel Field",
+        "state": "Wisconsin"
+    },
+    "WI42": {
+        "lat": 45.6571998596,
+        "long": -89.5298995972,
+        "name": "Pine Grove ",
+        "state": "Wisconsin"
+    },
+    "WI43": {
+        "lat": 42.9488983154,
+        "long": -89.825302124,
+        "name": "Atkins Ridge ",
+        "state": "Wisconsin"
+    },
+    "WI46": {
+        "lat": 43.8828010559,
+        "long": -88.5399017334,
+        "name": "Fun-Air ",
+        "state": "Wisconsin"
+    },
+    "WI47": {
+        "lat": 44.4333000183,
+        "long": -89.150100708,
+        "name": "Timberline ",
+        "state": "Wisconsin"
+    },
+    "WI48": {
+        "lat": 44.004699707,
+        "long": -88.8709030151,
+        "name": "Edinger Field",
+        "state": "Wisconsin"
+    },
+    "WI50": {
+        "lat": 42.7181015015,
+        "long": -89.4236984253,
+        "name": "Albany ",
+        "state": "Wisconsin"
+    },
+    "WI51": {
+        "lat": 43.3213996887,
+        "long": -89.3209991455,
+        "name": "Del Monte ",
+        "state": "Wisconsin"
+    },
+    "WI52": {
+        "lat": 44.6178016663,
+        "long": -88.6668014526,
+        "name": "Schewe ",
+        "state": "Wisconsin"
+    },
+    "WI53": {
+        "lat": 42.9453010559,
+        "long": -89.8990020752,
+        "name": "Desmet ",
+        "state": "Wisconsin"
+    },
+    "WI58": {
+        "lat": 42.5222015381,
+        "long": -88.0279006958,
+        "name": "Winfield ",
+        "state": "Wisconsin"
+    },
+    "WI60": {
+        "lat": 44.8328018188,
+        "long": -88.4632034302,
+        "name": "Deer Haven Ranch ",
+        "state": "Wisconsin"
+    },
+    "WI61": {
+        "lat": 43.3488998413,
+        "long": -87.9943008423,
+        "name": "Ashenfelter Aerodrome",
+        "state": "Wisconsin"
+    },
+    "WI67": {
+        "lat": 43.8765983582,
+        "long": -88.9007034302,
+        "name": "Bennet Field",
+        "state": "Wisconsin"
+    },
+    "WI69": {
+        "lat": 42.7999992371,
+        "long": -88.3333969116,
+        "name": "Air Troy Estates - Restricted ",
+        "state": "Wisconsin"
+    },
+    "WI71": {
+        "lat": 42.6875,
+        "long": -88.6019973755,
+        "name": "Weedhopper Meadow ",
+        "state": "Wisconsin"
+    },
+    "WI72": {
+        "lat": 42.7999992371,
+        "long": -90.5718002319,
+        "name": "Martin Fierro ",
+        "state": "Wisconsin"
+    },
+    "WI73": {
+        "lat": 44,
+        "long": -88.8333969116,
+        "name": "Happy Jacks Air Strip",
+        "state": "Wisconsin"
+    },
+    "WI75": {
+        "lat": 44.4989013672,
+        "long": -92.2031021118,
+        "name": "Bogus Creek ",
+        "state": "Wisconsin"
+    },
+    "WI76": {
+        "lat": 42.948600769,
+        "long": -88.7759017944,
+        "name": "J Rock ",
+        "state": "Wisconsin"
+    },
+    "WI77": {
+        "lat": 43.2070007324,
+        "long": -88.1604003906,
+        "name": "Willow Creek ",
+        "state": "Wisconsin"
+    },
+    "WI78": {
+        "lat": 44.4258003235,
+        "long": -87.9349975586,
+        "name": "Martins Aerodrome",
+        "state": "Wisconsin"
+    },
+    "WI79": {
+        "lat": 44.8526992798,
+        "long": -90.5565032959,
+        "name": "Town Line ",
+        "state": "Wisconsin"
+    },
+    "WI81": {
+        "lat": 42.5242004395,
+        "long": -90.591003418,
+        "name": "Rigdon Private ",
+        "state": "Wisconsin"
+    },
+    "WI86": {
+        "lat": 42.660900116,
+        "long": -88.1359024048,
+        "name": "Flaglor ",
+        "state": "Wisconsin"
+    },
+    "WI87": {
+        "lat": 45.2033004761,
+        "long": -89.5243988037,
+        "name": "Pine River ",
+        "state": "Wisconsin"
+    },
+    "WI88": {
+        "lat": 42.625,
+        "long": -88.4501037598,
+        "name": "Mount Fuji ",
+        "state": "Wisconsin"
+    },
+    "WI89": {
+        "lat": 42.5722007751,
+        "long": -88.3673019409,
+        "name": "Lake Geneva Aire Estates ",
+        "state": "Wisconsin"
+    },
+    "WI90": {
+        "lat": 44.2961006165,
+        "long": -90.0437011719,
+        "name": "Speedwing Field",
+        "state": "Wisconsin"
+    },
+    "WI91": {
+        "lat": 44.2028007507,
+        "long": -88.6396026611,
+        "name": "Larson ",
+        "state": "Wisconsin"
+    },
+    "WI95": {
+        "lat": 42.5778007507,
+        "long": -88.0154037476,
+        "name": "Chilcott Farms ",
+        "state": "Wisconsin"
+    },
+    "WI97": {
+        "lat": 43.2578010559,
+        "long": -89.0647964478,
+        "name": "Mathaire Field",
+        "state": "Wisconsin"
+    },
+    "WI98": {
+        "lat": 42.8582992554,
+        "long": -89.197303772,
+        "name": "Blackburn ",
+        "state": "Wisconsin"
+    },
+    "WI99": {
+        "lat": 42.8135986328,
+        "long": -88.9971008301,
+        "name": "Meier ",
+        "state": "Wisconsin"
+    },
+    "WN03": {
+        "lat": 43.6786003113,
+        "long": -87.7256011963,
+        "name": "Van Der Vaart ",
+        "state": "Wisconsin"
+    },
+    "WN27": {
+        "lat": 44.0792007446,
+        "long": -87.9757003784,
+        "name": "Redoft ",
+        "state": "Wisconsin"
+    },
+    "WN28": {
+        "lat": 44.98279953,
+        "long": -87.3095016479,
+        "name": "Sunny Slope Runway ",
+        "state": "Wisconsin"
+    },
+    "WN39": {
+        "lat": 43.4818992615,
+        "long": -89.320098877,
+        "name": "Knutson Field",
+        "state": "Wisconsin"
+    },
+    "WN44": {
+        "lat": 45.2393989563,
+        "long": -89.5690002441,
+        "name": "Podeweltz ",
+        "state": "Wisconsin"
+    },
+    "WN46": {
+        "lat": 43.0675010681,
+        "long": -88.5086975098,
+        "name": "Battle Creek ",
+        "state": "Wisconsin"
+    },
+    "WN63": {
+        "lat": 42.5367012024,
+        "long": -88.0039978027,
+        "name": "Bristol ",
+        "state": "Wisconsin"
+    },
+    "WN75": {
+        "lat": 43.2447013855,
+        "long": -88.3722991943,
+        "name": "Erin Aero ",
+        "state": "Wisconsin"
+    },
+    "WN85": {
+        "lat": 43.2747001648,
+        "long": -89.350402832,
+        "name": "Morrisonville International ",
+        "state": "Wisconsin"
+    },
+    "WN86": {
+        "lat": 45.2639007568,
+        "long": -92.62159729,
+        "name": "St Croix Valley ",
+        "state": "Wisconsin"
+    },
+    "WN90": {
+        "lat": 45.375,
+        "long": -91.2918014526,
+        "name": "Taylorport ",
+        "state": "Wisconsin"
+    },
+    "WN98": {
+        "lat": 45.6594009399,
+        "long": -91.5224990845,
+        "name": "Florida North ",
+        "state": "Wisconsin"
+    },
+    "WN99": {
+        "lat": 44.6571998596,
+        "long": -91.8086013794,
+        "name": "Hayes Road ",
+        "state": "Wisconsin"
+    },
+    "WS02": {
+        "lat": 43.7425003052,
+        "long": -89.716003418,
+        "name": "Polish Paradise ",
+        "state": "Wisconsin"
+    },
+    "WS04": {
+        "lat": 44.0325012207,
+        "long": -89.8650970459,
+        "name": "Zanadu ",
+        "state": "Wisconsin"
+    },
+    "WS05": {
+        "lat": 45.4771995544,
+        "long": -90.6250991821,
+        "name": "Lonely Pines ",
+        "state": "Wisconsin"
+    },
+    "WS06": {
+        "lat": 45.987701416,
+        "long": -90.1634979248,
+        "name": "Springstead ",
+        "state": "Wisconsin"
+    },
+    "WS08": {
+        "lat": 44.4179992676,
+        "long": -88.3769989014,
+        "name": "Five Corners Airways ",
+        "state": "Wisconsin"
+    },
+    "WS09": {
+        "lat": 44.0133018494,
+        "long": -89.5248031616,
+        "name": "Rox ",
+        "state": "Wisconsin"
+    },
+    "WS10": {
+        "lat": 44.408000946,
+        "long": -89.0158996582,
+        "name": "Casey Lake ",
+        "state": "Wisconsin"
+    },
+    "WS11": {
+        "lat": 45.1002998352,
+        "long": -88.1333999634,
+        "name": "Frievalt ",
+        "state": "Wisconsin"
+    },
+    "WS12": {
+        "lat": 43.2644004822,
+        "long": -89.3231964111,
+        "name": "Elert ",
+        "state": "Wisconsin"
+    },
+    "WS13": {
+        "lat": 45.3119010925,
+        "long": -91.5896987915,
+        "name": "Cloud Dancer Private ",
+        "state": "Wisconsin"
+    },
+    "WS14": {
+        "lat": 44.464099884,
+        "long": -89.3587036133,
+        "name": "Lake Ell Field",
+        "state": "Wisconsin"
+    },
+    "WS15": {
+        "lat": 43.4952011108,
+        "long": -89.2654037476,
+        "name": "Mill House Field",
+        "state": "Wisconsin"
+    },
+    "WS16": {
+        "lat": 44.8471984863,
+        "long": -89.8014984131,
+        "name": "Scherrico Meadows ",
+        "state": "Wisconsin"
+    },
+    "WS17": {
+        "lat": 43.9893989563,
+        "long": -88.5783996582,
+        "name": "Pioneer ",
+        "state": "Wisconsin"
+    },
+    "WS19": {
+        "lat": 46.8935012817,
+        "long": -90.8207015991,
+        "name": "Petit Cache ",
+        "state": "Wisconsin"
+    },
+    "WS20": {
+        "lat": 43.95299912,
+        "long": -90.66259766,
+        "name": "Young Tactical Landing Site ",
+        "state": "Wisconsin"
+    },
+    "WS22": {
+        "lat": 44.3946990967,
+        "long": -88.6894989014,
+        "name": "Wolfgram ",
+        "state": "Wisconsin"
+    },
+    "WS23": {
+        "lat": 45.2160987854,
+        "long": -89.7472000122,
+        "name": "R & S Landing Strip",
+        "state": "Wisconsin"
+    },
+    "WS25": {
+        "lat": 45.5816001892,
+        "long": -87.8453979492,
+        "name": "Shangrila ",
+        "state": "Wisconsin"
+    },
+    "WS26": {
+        "lat": 44.3591995239,
+        "long": -87.6070022583,
+        "name": "Ranch Side ",
+        "state": "Wisconsin"
+    },
+    "WS28": {
+        "lat": 43.5536003113,
+        "long": -89.3898010254,
+        "name": "Coleman ",
+        "state": "Wisconsin"
+    },
+    "WS29": {
+        "lat": 45.120300293,
+        "long": -88.1434020996,
+        "name": "Tachick Field",
+        "state": "Wisconsin"
+    },
+    "WS30": {
+        "lat": 45.1890983582,
+        "long": -92.5483016968,
+        "name": "Hexum Flight Park Ultralightport",
+        "state": "Wisconsin"
+    },
+    "WS31": {
+        "lat": 44.2778015137,
+        "long": -87.9445037842,
+        "name": "Otto-Gibbons ",
+        "state": "Wisconsin"
+    },
+    "WS32": {
+        "lat": 43.4836006165,
+        "long": -89.2947998047,
+        "name": "Prescott Field",
+        "state": "Wisconsin"
+    },
+    "WS33": {
+        "lat": 42.909198761,
+        "long": -89.4509963989,
+        "name": "Storytown Airfield",
+        "state": "Wisconsin"
+    },
+    "WS36": {
+        "lat": 44.2714004517,
+        "long": -89.4371032715,
+        "name": "Swan Field",
+        "state": "Wisconsin"
+    },
+    "WS39": {
+        "lat": 45.6994018555,
+        "long": -89.662399292,
+        "name": "Pinewood Air Park",
+        "state": "Wisconsin"
+    },
+    "WS41": {
+        "lat": 45.0121994019,
+        "long": -92.5513000488,
+        "name": "Rusmar Farms ",
+        "state": "Wisconsin"
+    },
+    "WS42": {
+        "lat": 44.9500007629,
+        "long": -90.6000976563,
+        "name": "Owen-Withee ",
+        "state": "Wisconsin"
+    },
+    "WS43": {
+        "lat": 44.3554992676,
+        "long": -88.0584030151,
+        "name": "Birch Creek ",
+        "state": "Wisconsin"
+    },
+    "WS44": {
+        "lat": 45.5365982056,
+        "long": -90.7049026489,
+        "name": "Diderrich Ranch ",
+        "state": "Wisconsin"
+    },
+    "WS45": {
+        "lat": 45.3415985107,
+        "long": -89.6745986938,
+        "name": "Circle K ",
+        "state": "Wisconsin"
+    },
+    "WS46": {
+        "lat": 43.8310012817,
+        "long": -88.8887023926,
+        "name": "J & L Aviation ",
+        "state": "Wisconsin"
+    },
+    "WS49": {
+        "lat": 42.9067001343,
+        "long": -88.8776016235,
+        "name": "Christie Aerodrome",
+        "state": "Wisconsin"
+    },
+    "WS51": {
+        "lat": 43.3527984619,
+        "long": -90.6809997559,
+        "name": "Leeward Farm ",
+        "state": "Wisconsin"
+    },
+    "WS55": {
+        "lat": 42.5175018311,
+        "long": -88.7453994751,
+        "name": "Barten ",
+        "state": "Wisconsin"
+    },
+    "WS60": {
+        "lat": 44.9338989258,
+        "long": -90.8310012817,
+        "name": "Vern Air Park",
+        "state": "Wisconsin"
+    },
+    "WS62": {
+        "lat": 42.9636001587,
+        "long": -89.5810012817,
+        "name": "Sugar Ridge ",
+        "state": "Wisconsin"
+    },
+    "WS67": {
+        "lat": 46.7999000549,
+        "long": -91.2085037231,
+        "name": "Vietmeier ",
+        "state": "Wisconsin"
+    },
+    "WS68": {
+        "lat": 43.7816009521,
+        "long": -89.3078994751,
+        "name": "Krist Island ",
+        "state": "Wisconsin"
+    },
+    "WS69": {
+        "lat": 44.5750007629,
+        "long": -91.5470962524,
+        "name": "Log Cabin ",
+        "state": "Wisconsin"
+    },
+    "WS71": {
+        "lat": 45.4305000305,
+        "long": -92.6155014038,
+        "name": "Flying J ",
+        "state": "Wisconsin"
+    },
+    "WS72": {
+        "lat": 44.8527984619,
+        "long": -88.0120010376,
+        "name": "Cain's Field",
+        "state": "Wisconsin"
+    },
+    "WS74": {
+        "lat": 43.1631011963,
+        "long": -88.8245010376,
+        "name": "Al's Airway ",
+        "state": "Wisconsin"
+    },
+    "WS76": {
+        "lat": 44.4706993103,
+        "long": -88.8245010376,
+        "name": "Black Dog Farm ",
+        "state": "Wisconsin"
+    },
+    "WS77": {
+        "lat": 45.6839981079,
+        "long": -92.6871032715,
+        "name": "Circle T ",
+        "state": "Wisconsin"
+    },
+    "WS78": {
+        "lat": 45.5503005981,
+        "long": -89.4878005981,
+        "name": "River Valley ",
+        "state": "Wisconsin"
+    },
+    "WS81": {
+        "lat": 45.9480018616,
+        "long": -92.1084976196,
+        "name": "Alpha Hotel ",
+        "state": "Wisconsin"
+    },
+    "WS91": {
+        "lat": 43.2085990906,
+        "long": -90.6636962891,
+        "name": "Sky Hollow ",
+        "state": "Wisconsin"
+    },
+    "WS96": {
+        "lat": 42.6208000183,
+        "long": -89.7673034668,
+        "name": "Hughes ",
+        "state": "Wisconsin"
+    }
+}

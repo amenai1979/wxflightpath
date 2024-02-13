@@ -1,0 +1,102 @@
+{
+  "GQNA": {
+    "lat": 16.7112998962,
+    "long": -9.6378803253,
+    "name": "Aioun el Atrouss "
+  },
+  "GQNB": {
+    "lat": 17.533000946,
+    "long": -14.6829996109,
+    "name": "Boutilimit "
+  },
+  "GQNC": {
+    "lat": 18.4500007629,
+    "long": -9.5170001984,
+    "name": "Tichitt "
+  },
+  "GQND": {
+    "lat": 18.5701007843,
+    "long": -11.423500061,
+    "name": "Tidjikja "
+  },
+  "GQNE": {
+    "lat": 16.6333141327,
+    "long": -14.2000007629,
+    "name": "Abbaye "
+  },
+  "GQNF": {
+    "lat": 16.5900001526,
+    "long": -11.4062004089,
+    "name": "Kiffa "
+  },
+  "GQNH": {
+    "lat": 16.2329998016,
+    "long": -8.1669998169,
+    "name": "Timbedra "
+  },
+  "GQNI": {
+    "lat": 16.6219997406,
+    "long": -7.3165998459,
+    "name": "Nema "
+  },
+  "GQNJ": {
+    "lat": 19.7330169678,
+    "long": -14.3832492828,
+    "name": "Akjoujt "
+  },
+  "GQNK": {
+    "lat": 16.1595001221,
+    "long": -13.5075998306,
+    "name": "Kaedi "
+  },
+  "GQNL": {
+    "lat": 17.75,
+    "long": -12.5,
+    "name": "Letfotar "
+  },
+  "GQNM": {
+    "lat": 16.2999992371,
+    "long": -8.0500001907,
+    "name": "Dahara "
+  },
+  "GQNN": {
+    "lat": 18.0981998444,
+    "long": -15.9484996796,
+    "name": "Nouakchott International "
+  },
+  "GQNS": {
+    "lat": 15.1796998978,
+    "long": -12.2073001862,
+    "name": "Selibaby "
+  },
+  "GQNT": {
+    "lat": 17.2329998016,
+    "long": -10.8170003891,
+    "name": "Tamchakett "
+  },
+  "GQPA": {
+    "lat": 20.5067996979,
+    "long": -13.0431995392,
+    "name": "Atar International "
+  },
+  "GQPF": {
+    "lat": 22.6669998169,
+    "long": -12.7329998016,
+    "name": "Fderik "
+  },
+  "GQPP": {
+    "lat": 20.9330997467,
+    "long": -17.0300006866,
+    "name": "Nouadhibou International "
+  },
+  "GQPT": {
+    "lat": 25.236700058,
+    "long": -11.5887002945,
+    "name": "Bir Moghrein "
+  },
+  "GQPZ": {
+    "lat": 22.7563991547,
+    "long": -12.4835996628,
+    "name": "Tazadit "
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "LQBI": {
+    "lat": 44.7959367906,
+    "long": 15.9035682678,
+    "name": "Bihac Golubic "
+  },
+  "LQBK": {
+    "lat": 44.9413986206,
+    "long": 17.2975006104,
+    "name": "Banja Luka International "
+  },
+  "LQBZ": {
+    "lat": 44.7913856506,
+    "long": 17.2146568298,
+    "name": "Zaluzani "
+  },
+  "LQJL": {
+    "lat": 44.4578018188,
+    "long": 18.8083000183,
+    "name": "Tuzla Jegin Lug Sport Airfield"
+  },
+  "LQLV": {
+    "lat": 43.7930984497,
+    "long": 16.9069004059,
+    "name": "Livno Brda Bosni "
+  },
+  "LQMO": {
+    "lat": 43.2829017639,
+    "long": 17.8458995819,
+    "name": "Mostar International "
+  },
+  "LQPD": {
+    "lat": 44.9880981445,
+    "long": 16.7357997894,
+    "name": "Prijedor Urije "
+  },
+  "LQSA": {
+    "lat": 43.8246002197,
+    "long": 18.3314990997,
+    "name": "Sarajevo International "
+  },
+  "LQTZ": {
+    "lat": 44.4586982727,
+    "long": 18.7248001099,
+    "name": "Tuzla International "
+  },
+  "LQVI": {
+    "lat": 44.0249769612,
+    "long": 18.0970573425,
+    "name": "Visoko Sport Airfield"
+  }
+}

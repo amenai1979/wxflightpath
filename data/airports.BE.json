@@ -1,0 +1,297 @@
+{
+  "EBAM": {
+    "lat": 50.7401008606,
+    "long": 3.4848999977,
+    "name": "Amougies "
+  },
+  "EBAR": {
+    "lat": 49.6627998352,
+    "long": 5.8869400024,
+    "name": "Sterpenich "
+  },
+  "EBAV": {
+    "lat": 50.7066993713,
+    "long": 5.0680599213,
+    "name": "Avernas-le-Bauduin "
+  },
+  "EBAW": {
+    "lat": 51.1893997192,
+    "long": 4.4602799416,
+    "name": "Antwerp International  (Deurne)"
+  },
+  "EBBE": {
+    "lat": 50.7585983276,
+    "long": 4.7683300972,
+    "name": "Beauvechain Air Base"
+  },
+  "EBBG": {
+    "lat": 50.0527992249,
+    "long": 5.7986102104,
+    "name": "Michamps "
+  },
+  "EBBL": {
+    "lat": 51.1683006287,
+    "long": 5.4699997902,
+    "name": "Kleine Brogel Air Base"
+  },
+  "EBBN": {
+    "lat": 50.4150009155,
+    "long": 6.2763900757,
+    "name": "Bullingen "
+  },
+  "EBBO": {
+    "lat": 49.8664016724,
+    "long": 5.0680599213,
+    "name": "Mogimont "
+  },
+  "EBBR": {
+    "lat": 50.9014015198,
+    "long": 4.4844398499,
+    "name": "Brussels "
+  },
+  "EBBT": {
+    "lat": 51.340801239,
+    "long": 4.5043997765,
+    "name": "Brasschaat Air Base"
+  },
+  "EBBW": {
+    "lat": 50.778301239,
+    "long": 5.6166701317,
+    "name": "Wonck "
+  },
+  "EBBX": {
+    "lat": 49.8917007446,
+    "long": 5.2238898277,
+    "name": "Jehonville Air Base"
+  },
+  "EBBY": {
+    "lat": 50.568611145,
+    "long": 4.4347219467,
+    "name": "Baisy-Thy "
+  },
+  "EBBZ": {
+    "lat": 50.5416984558,
+    "long": 4.3811101913,
+    "name": "Buzet Airstrip"
+  },
+  "EBCF": {
+    "lat": 50.1528015137,
+    "long": 4.3872199059,
+    "name": "Cerfontaine Nouv "
+  },
+  "EBCI": {
+    "lat": 50.4592018127,
+    "long": 4.4538202286,
+    "name": "Brussels South Charleroi "
+  },
+  "EBCR": {
+    "lat": 50.2472229004,
+    "long": 5.1138892174,
+    "name": "Ronvaux "
+  },
+  "EBCS": {
+    "lat": 50.0583000183,
+    "long": 4.2819399834,
+    "name": "Saint-Remy "
+  },
+  "EBCV": {
+    "lat": 50.5758018494,
+    "long": 3.8310000896,
+    "name": "Chievres Air Base"
+  },
+  "EBDT": {
+    "lat": 50.9991989136,
+    "long": 5.065559864,
+    "name": "Schaffen "
+  },
+  "EBFN": {
+    "lat": 51.0903015137,
+    "long": 2.652780056,
+    "name": "Koksijde Air Base"
+  },
+  "EBFS": {
+    "lat": 50.2433013916,
+    "long": 4.6458301544,
+    "name": "Florennes Air Base"
+  },
+  "EBGB": {
+    "lat": 50.9494018555,
+    "long": 4.3933300972,
+    "name": "Grimbergen "
+  },
+  "EBGG": {
+    "lat": 50.7555999756,
+    "long": 3.8638899326,
+    "name": "Overboelare "
+  },
+  "EBHE": {
+    "lat": 50.538898468,
+    "long": 5.10916996,
+    "name": "Couthuin "
+  },
+  "EBHN": {
+    "lat": 51.306098938,
+    "long": 4.3872199059,
+    "name": "Hoevenen "
+  },
+  "EBIS": {
+    "lat": 50.6641998291,
+    "long": 3.8044400215,
+    "name": "Ath/Isieres "
+  },
+  "EBKH": {
+    "lat": 51.1782989502,
+    "long": 5.2209200859,
+    "name": "Balekeiheuvel "
+  },
+  "EBKT": {
+    "lat": 50.817199707,
+    "long": 3.2047200203,
+    "name": "Wevelgem "
+  },
+  "EBLB": {
+    "lat": 50.4817008972,
+    "long": 6.1819400787,
+    "name": "Elsenborn "
+  },
+  "EBLE": {
+    "lat": 51.1194000244,
+    "long": 5.3008298874,
+    "name": "Beverlo Air Base"
+  },
+  "EBLG": {
+    "lat": 50.6374015808,
+    "long": 5.4432201385,
+    "name": "Liege "
+  },
+  "EBLI": {
+    "lat": 50.2867012024,
+    "long": 5.8363900185,
+    "name": "Lierneux "
+  },
+  "EBLN": {
+    "lat": 50.5806007385,
+    "long": 4.7925000191,
+    "name": "Liernu "
+  },
+  "EBMB": {
+    "lat": 50.901389,
+    "long": 4.484444,
+    "name": "Melsbroek Air Base"
+  },
+  "EBMG": {
+    "lat": 50.1046981812,
+    "long": 4.6380600929,
+    "name": "Matagne-la-Petite "
+  },
+  "EBML": {
+    "lat": 50.3741989136,
+    "long": 4.9277801514,
+    "name": "Maillen "
+  },
+  "EBMO": {
+    "lat": 50.8527984619,
+    "long": 3.1473100185,
+    "name": "Moorsele "
+  },
+  "EBNE": {
+    "lat": 51.2119445801,
+    "long": 5.4786109924,
+    "name": "Neerpelt "
+  },
+  "EBNM": {
+    "lat": 50.4879989624,
+    "long": 4.7689199448,
+    "name": "Suarlee "
+  },
+  "EBNO": {
+    "lat": 50.8544006348,
+    "long": 3.9852800369,
+    "name": "Outer "
+  },
+  "EBOR": {
+    "lat": 49.9071998596,
+    "long": 4.9363899231,
+    "name": "Orchimont "
+  },
+  "EBOS": {
+    "lat": 51.1988983154,
+    "long": 2.8622200489,
+    "name": "Ostend-Bruges International "
+  },
+  "EBSG": {
+    "lat": 50.4575004578,
+    "long": 3.8202800751,
+    "name": "Saint-Ghislain "
+  },
+  "EBSH": {
+    "lat": 50.035900116,
+    "long": 5.404250145,
+    "name": "St Hubert "
+  },
+  "EBSL": {
+    "lat": 50.9474983215,
+    "long": 5.5905599594,
+    "name": "Zutendaal Air Base"
+  },
+  "EBSP": {
+    "lat": 50.4824981689,
+    "long": 5.910299778,
+    "name": "Spa (la Sauveniere) "
+  },
+  "EBST": {
+    "lat": 50.7919006348,
+    "long": 5.2016701698,
+    "name": "Sint Truiden "
+  },
+  "EBSU": {
+    "lat": 50.0344009399,
+    "long": 5.4408102036,
+    "name": "Saint Hubert Air Base"
+  },
+  "EBTN": {
+    "lat": 50.7817001343,
+    "long": 4.9577798843,
+    "name": "Goetsenhoven Air Base"
+  },
+  "EBTX": {
+    "lat": 50.5526008606,
+    "long": 5.8550300598,
+    "name": "Theux (Verviers) "
+  },
+  "EBTY": {
+    "lat": 50.5297012329,
+    "long": 3.4945499897,
+    "name": "Tournai/Maubray "
+  },
+  "EBUL": {
+    "lat": 51.1441993713,
+    "long": 3.4755599499,
+    "name": "Ursel Air Base"
+  },
+  "EBWE": {
+    "lat": 51.3947982788,
+    "long": 4.9601898193,
+    "name": "Weelde Air Base"
+  },
+  "EBZH": {
+    "lat": 50.9700012207,
+    "long": 5.3750700951,
+    "name": "Hasselt "
+  },
+  "EBZR": {
+    "lat": 51.2647018433,
+    "long": 4.7533302307,
+    "name": "Oostmalle Air Base"
+  },
+  "EBZU": {
+    "lat": 51.2566986084,
+    "long": 3.1405599117,
+    "name": "Zuienkerke "
+  },
+  "EBZW": {
+    "lat": 51.0153999329,
+    "long": 5.5264701843,
+    "name": "Genk Zwartberg "
+  }
+}

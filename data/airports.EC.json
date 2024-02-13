@@ -1,0 +1,402 @@
+{
+  "SE01": {
+    "lat": -2.166670084,
+    "long": -79.2833023071,
+    "name": "Alba Elena "
+  },
+  "SE02": {
+    "lat": -2.7733900547,
+    "long": -79.7024993896,
+    "name": "Guabital "
+  },
+  "SE03": {
+    "lat": -2.9471600056,
+    "long": -80.1007003784,
+    "name": "Las Penas "
+  },
+  "SE08": {
+    "lat": -2.0547199249,
+    "long": -79.4330978394,
+    "name": "San Carlos Costa "
+  },
+  "SE09": {
+    "lat": -2.1816699505,
+    "long": -79.2367019653,
+    "name": "San Rafael "
+  },
+  "SE10": {
+    "lat": -1.5961099863,
+    "long": -79.7260971069,
+    "name": "Vinces "
+  },
+  "SE11": {
+    "lat": -0.5366669893,
+    "long": -79.3688964844,
+    "name": "Km 60 "
+  },
+  "SE13": {
+    "lat": -1.7033530474,
+    "long": -79.5380477905,
+    "name": "Babahoyo North "
+  },
+  "SE14": {
+    "lat": -2.1665520668,
+    "long": -79.4337005615,
+    "name": "San Carlos "
+  },
+  "SE15": {
+    "lat": -0.999826014,
+    "long": -79.4153594971,
+    "name": "Quevedo North "
+  },
+  "SE16": {
+    "lat": -3.8814239502,
+    "long": -79.2347488403,
+    "name": "Loja "
+  },
+  "SE22": {
+    "lat": -3.2793300152,
+    "long": -79.8009033203,
+    "name": "Celia Maria "
+  },
+  "SE58": {
+    "lat": -3.3409399986,
+    "long": -79.8638000488,
+    "name": "Banasur "
+  },
+  "SE59": {
+    "lat": -3.20291996,
+    "long": -79.7982025146,
+    "name": "La Mina "
+  },
+  "SE60": {
+    "lat": -2.4428501129,
+    "long": -79.3989028931,
+    "name": "La Puntilla "
+  },
+  "SEAM": {
+    "lat": -1.2120699883,
+    "long": -78.5746002197,
+    "name": "Chachoan "
+  },
+  "SEAP": {
+    "lat": -1.8576200008,
+    "long": -77.9413986206,
+    "name": "Arapicos "
+  },
+  "SEAR": {
+    "lat": -1.235730052,
+    "long": -77.6854019165,
+    "name": "Arajuno "
+  },
+  "SEAS": {
+    "lat": -0.0833332986,
+    "long": -78.2833328247,
+    "name": "Ascazubi "
+  },
+  "SEAY": {
+    "lat": -1.9777779579,
+    "long": -80.739440918,
+    "name": "Ayangue "
+  },
+  "SEBF": {
+    "lat": -0.8981379867,
+    "long": -79.4855422974,
+    "name": "Buena Fe "
+  },
+  "SECH": {
+    "lat": -0.6951010227,
+    "long": -80.0886001587,
+    "name": "Chone "
+  },
+  "SECM": {
+    "lat": -1.7062699795,
+    "long": -79.3788986206,
+    "name": "Hacienda Clementina "
+  },
+  "SECO": {
+    "lat": -0.4628860056,
+    "long": -76.9868011475,
+    "name": "Francisco De Orellana "
+  },
+  "SECQ": {
+    "lat": 9.999e-07,
+    "long": -80.0999984741,
+    "name": "Coaque "
+  },
+  "SECR": {
+    "lat": -1.3780299425,
+    "long": -76.939201355,
+    "name": "Curaray "
+  },
+  "SECU": {
+    "lat": -2.8894701004,
+    "long": -78.9843978882,
+    "name": "Mariscal Lamar "
+  },
+  "SEGE": {
+    "lat": -1.6166700125,
+    "long": -80.2332992554,
+    "name": "Guale "
+  },
+  "SEGS": {
+    "lat": -0.4537580013,
+    "long": -90.2658996582,
+    "name": "Seymour "
+  },
+  "SEGU": {
+    "lat": -2.15741992,
+    "long": -79.8835983276,
+    "name": "Simon Bolivar International "
+  },
+  "SEGZ": {
+    "lat": -3.4232099056,
+    "long": -78.5670013428,
+    "name": "Gualaquiza "
+  },
+  "SEHI": {
+    "lat": -0.302940011,
+    "long": -78.2683029175,
+    "name": "Cotachachi "
+  },
+  "SEIB": {
+    "lat": 0.3384189904,
+    "long": -78.1363983154,
+    "name": "Atahualpa "
+  },
+  "SEII": {
+    "lat": -0.942628026,
+    "long": -90.9530029297,
+    "name": "General Villamil "
+  },
+  "SEIS": {
+    "lat": -1.8666700125,
+    "long": -79.7332992554,
+    "name": "Isabel Maria "
+  },
+  "SEJI": {
+    "lat": -1,
+    "long": -80.6666641235,
+    "name": "Jipijapa "
+  },
+  "SEJM": {
+    "lat": -0.2014970034,
+    "long": -80.2654037476,
+    "name": "Jama "
+  },
+  "SEKK": {
+    "lat": 0.1842029989,
+    "long": -79.391998291,
+    "name": "Km 192 "
+  },
+  "SELI": {
+    "lat": -0.4063630104,
+    "long": -76.6238021851,
+    "name": "Limoncocha "
+  },
+  "SELJ": {
+    "lat": -1.7043800354,
+    "long": -79.5522994995,
+    "name": "Hacienda La Julia "
+  },
+  "SELM": {
+    "lat": -1.5015799999,
+    "long": -79.4809036255,
+    "name": "Loma Larga "
+  },
+  "SELT": {
+    "lat": -0.906832993,
+    "long": -78.6157989502,
+    "name": "Cotopaxi International "
+  },
+  "SEMA": {
+    "lat": -4.3782300949,
+    "long": -79.9410018921,
+    "name": "Jose Maria Velasco Ibarra "
+  },
+  "SEMC": {
+    "lat": -2.2991700172,
+    "long": -78.1207962036,
+    "name": "Coronel E Carvajal "
+  },
+  "SEMH": {
+    "lat": -3.2688999176,
+    "long": -79.9616012573,
+    "name": "General Manuel Serrano "
+  },
+  "SEMO": {
+    "lat": -2.0670099258,
+    "long": -76.9757003784,
+    "name": "El Carmen "
+  },
+  "SEMT": {
+    "lat": -0.9460780025,
+    "long": -80.6788024902,
+    "name": "Eloy Alfaro International "
+  },
+  "SEMX": {
+    "lat": -2.851099968,
+    "long": -79.8035964966,
+    "name": "Maragrosa "
+  },
+  "SEMY": {
+    "lat": -1.7397199869,
+    "long": -79.6214981079,
+    "name": "Martinica "
+  },
+  "SENL": {
+    "lat": 0.0930560008,
+    "long": -76.8675003052,
+    "name": "Nueva Loja "
+  },
+  "SEPB": {
+    "lat": -1.8115930557,
+    "long": -80.232460022,
+    "name": "Pedro Carbo "
+  },
+  "SEPC": {
+    "lat": -2.7517199516,
+    "long": -78.2636032104,
+    "name": "Patuca "
+  },
+  "SEPD": {
+    "lat": 0.0676190034,
+    "long": -80.0504989624,
+    "name": "Pedernales "
+  },
+  "SEPO": {
+    "lat": -2.6820299625,
+    "long": -80.2755966187,
+    "name": "Posorja "
+  },
+  "SEPS": {
+    "lat": -3.3196699619,
+    "long": -79.769203186,
+    "name": "Amable Calle Gutierrez "
+  },
+  "SEPT": {
+    "lat": 0.0833330005,
+    "long": -75.9000015259,
+    "name": "Putumayo "
+  },
+  "SEPU": {
+    "lat": -2.7336800098,
+    "long": -79.9152984619,
+    "name": "Puna "
+  },
+  "SEPV": {
+    "lat": -1.0416500568,
+    "long": -80.4721984863,
+    "name": "Reales Tamarindos "
+  },
+  "SEPX": {
+    "lat": -2.3099999428,
+    "long": -79.4599990845,
+    "name": "Payo "
+  },
+  "SEPZ": {
+    "lat": -0.9537220001,
+    "long": -79.3751983643,
+    "name": "Los Perez "
+  },
+  "SEQE": {
+    "lat": -0.9894000292,
+    "long": -79.4651031494,
+    "name": "Quevedo "
+  },
+  "SEQM": {
+    "lat": -0.1291666667,
+    "long": -78.3575,
+    "name": "Nuevo Aeropuerto Internacional Mariscal Sucre"
+  },
+  "SERB": {
+    "lat": -1.653429985,
+    "long": -78.6560974121,
+    "name": "Chimborazo "
+  },
+  "SERO": {
+    "lat": -3.4351599217,
+    "long": -79.9777984619,
+    "name": "Coronel Artilleria Victor Larrea "
+  },
+  "SESA": {
+    "lat": -2.2049899101,
+    "long": -80.988899231,
+    "name": "General Ulpiano Paez "
+  },
+  "SESC": {
+    "lat": -2.4830000401,
+    "long": -78.1669998169,
+    "name": "Sucua "
+  },
+  "SESD": {
+    "lat": -0.2482219934,
+    "long": -79.2144012451,
+    "name": "Santo Domingo de Los Colorados "
+  },
+  "SESM": {
+    "lat": -1.5052399635,
+    "long": -78.0626983643,
+    "name": "Rio Amazonas "
+  },
+  "SEST": {
+    "lat": -0.9102060199,
+    "long": -89.617401123,
+    "name": "San Cristobal "
+  },
+  "SESV": {
+    "lat": -0.6081110239,
+    "long": -80.4027023315,
+    "name": "Los Perales "
+  },
+  "SETA": {
+    "lat": -2.2610399723,
+    "long": -79.6801986694,
+    "name": "Taura "
+  },
+  "SETE": {
+    "lat": -0.986766994,
+    "long": -77.8195037842,
+    "name": "Mayor Galo Torres "
+  },
+  "SETG": {
+    "lat": -2.9986000061,
+    "long": -79.7947006226,
+    "name": "Tenguel "
+  },
+  "SETH": {
+    "lat": -2.3816699982,
+    "long": -77.5027999878,
+    "name": "Taisha "
+  },
+  "SETI": {
+    "lat": -0.7761110067,
+    "long": -75.5263977051,
+    "name": "Tiputini "
+  },
+  "SETM": {
+    "lat": -3.9958899021,
+    "long": -79.3719024658,
+    "name": "Camilo Ponce Enriquez "
+  },
+  "SETN": {
+    "lat": 0.9785190225,
+    "long": -79.6266021729,
+    "name": "General Rivadeneira "
+  },
+  "SETR": {
+    "lat": -0.1229560003,
+    "long": -76.3377990723,
+    "name": "Tarapoa "
+  },
+  "SETU": {
+    "lat": 0.8095059991,
+    "long": -77.7080993652,
+    "name": "Teniente Coronel Luis a Mantilla "
+  },
+  "SEVR": {
+    "lat": -1.75,
+    "long": -78.6166687012,
+    "name": "El Vergel "
+  }
+}

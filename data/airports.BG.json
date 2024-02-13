@@ -1,0 +1,227 @@
+{
+  "LB11": {
+    "lat": 42.1876983643,
+    "long": 24.5349006653,
+    "name": "Tsalapita "
+  },
+  "LB13": {
+    "lat": 42.4441986084,
+    "long": 22.983499527,
+    "name": "Radomir Dolni Rakovets Airfield"
+  },
+  "LB18": {
+    "lat": 42.3464012146,
+    "long": 26.5739002228,
+    "name": "Tenevo "
+  },
+  "LB19": {
+    "lat": 42.6004981995,
+    "long": 26.6336994171,
+    "name": "Zimnitsa "
+  },
+  "LB22": {
+    "lat": 42.3116989136,
+    "long": 23.2469005585,
+    "name": "Stanke Dimitrov "
+  },
+  "LB27": {
+    "lat": 43.5481987,
+    "long": 24.5904006958,
+    "name": "Podem "
+  },
+  "LB29": {
+    "lat": 43.4053993225,
+    "long": 25.4740009308,
+    "name": "Maslarevo "
+  },
+  "LB30": {
+    "lat": 42.2853012085,
+    "long": 24.8684997559,
+    "name": "Stryama "
+  },
+  "LB32": {
+    "lat": 42.0723991394,
+    "long": 25.0533008575,
+    "name": "Konush "
+  },
+  "LB33": {
+    "lat": 43.726600647,
+    "long": 27.686000824,
+    "name": "Leskovo "
+  },
+  "LB34": {
+    "lat": 43.5069007874,
+    "long": 27.8449001312,
+    "name": "Stefanovo "
+  },
+  "LB35": {
+    "lat": 43.6278991699,
+    "long": 27.6940994263,
+    "name": "Golyama Smolnitsa "
+  },
+  "LB36": {
+    "lat": 43.4756011963,
+    "long": 28.1026992798,
+    "name": "Sokolovo "
+  },
+  "LB37": {
+    "lat": 42.1757011414,
+    "long": 23.0508995056,
+    "name": "Stanke Dimitrov Highway Strip"
+  },
+  "LB38": {
+    "lat": 41.8400001526,
+    "long": 26.3097000122,
+    "name": "Mustrak "
+  },
+  "LB39": {
+    "lat": 42.2631988525,
+    "long": 24.7192993164,
+    "name": "Graf Ignatievo South "
+  },
+  "LB42": {
+    "lat": 43.3273010254,
+    "long": 25.0034008026,
+    "name": "Kamenets "
+  },
+  "LB45": {
+    "lat": 41.448299408,
+    "long": 23.2171001434,
+    "name": "Petrich "
+  },
+  "LBBG": {
+    "lat": 42.5695991516,
+    "long": 27.5151996613,
+    "name": "Burgas "
+  },
+  "LBBO": {
+    "lat": 43.306388855,
+    "long": 24.6913890839,
+    "name": "Bohot "
+  },
+  "LBDB": {
+    "lat": 42.3085289001,
+    "long": 23.8204174042,
+    "name": "Dolna Banya "
+  },
+  "LBGO": {
+    "lat": 43.1514015198,
+    "long": 25.7129001617,
+    "name": "Gorna Oryahovitsa "
+  },
+  "LBGR": {
+    "lat": 43.4000015259,
+    "long": 24.7666664124,
+    "name": "Grivitsa "
+  },
+  "LBHS": {
+    "lat": 41.976398468,
+    "long": 25.589799881,
+    "name": "Uzundzhovo Air Base"
+  },
+  "LBHT": {
+    "lat": 42.4218902588,
+    "long": 23.7672214508,
+    "name": "Ihtiman "
+  },
+  "LBIA": {
+    "lat": 42.4548988342,
+    "long": 26.3521995544,
+    "name": "Bezmer Air Base"
+  },
+  "LBKJ": {
+    "lat": 43.9704170227,
+    "long": 27.4695568085,
+    "name": "Kainardzha "
+  },
+  "LBKL": {
+    "lat": 42.5862503052,
+    "long": 25.4262504578,
+    "name": "Kalvacha "
+  },
+  "LBLS": {
+    "lat": 42.6344985962,
+    "long": 23.6464443207,
+    "name": "Lesnovo "
+  },
+  "LBMG": {
+    "lat": 43.5443000793,
+    "long": 23.2724990845,
+    "name": "Gabrovnitsa Air Base"
+  },
+  "LBPD": {
+    "lat": 42.0677986145,
+    "long": 24.8507995605,
+    "name": "Plovdiv International "
+  },
+  "LBPG": {
+    "lat": 42.2904014587,
+    "long": 24.7140007019,
+    "name": "Graf Ignatievo Air Base"
+  },
+  "LBPL": {
+    "lat": 43.4514007568,
+    "long": 24.5027999878,
+    "name": "Dolna Mitropoliya Air Base"
+  },
+  "LBPR": {
+    "lat": 42.2633323669,
+    "long": 27.7016677856,
+    "name": "Primorsko "
+  },
+  "LBRD": {
+    "lat": 43.499168396,
+    "long": 23.3047218323,
+    "name": "Erden "
+  },
+  "LBSF": {
+    "lat": 42.6966934204,
+    "long": 23.4114360809,
+    "name": "Sofia "
+  },
+  "LBSL": {
+    "lat": 42.6463012695,
+    "long": 26.3593997955,
+    "name": "Sliven Airfield"
+  },
+  "LBSS": {
+    "lat": 44.0551986694,
+    "long": 27.1788005829,
+    "name": "Silistra Polkovnik Lambrinovo Airfield"
+  },
+  "LBST": {
+    "lat": 42.5402793884,
+    "long": 24.8252220154,
+    "name": "Stryama "
+  },
+  "LBSZ": {
+    "lat": 42.376701355,
+    "long": 25.6551990509,
+    "name": "Stara Zagora "
+  },
+  "LBTG": {
+    "lat": 43.3065986633,
+    "long": 26.7008991241,
+    "name": "Bukhovtsi Airfield"
+  },
+  "LBVD": {
+    "lat": 44.0223999023,
+    "long": 22.8160991669,
+    "name": "Vidin Smurdan Airfield"
+  },
+  "LBWB": {
+    "lat": 43.4238014221,
+    "long": 28.1812992096,
+    "name": "Balchik Air Base"
+  },
+  "LBWN": {
+    "lat": 43.2321014404,
+    "long": 27.8250999451,
+    "name": "Varna "
+  },
+  "LBWV": {
+    "lat": 43.2772216797,
+    "long": 27.7019443512,
+    "name": "Izgrev "
+  }
+}

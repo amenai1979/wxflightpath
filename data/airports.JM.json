@@ -1,0 +1,32 @@
+{
+  "MKBS": {
+    "lat": 18.4041996002,
+    "long": -76.96900177,
+    "name": "Boscobel Aerodrome"
+  },
+  "MKJP": {
+    "lat": 17.9356994629,
+    "long": -76.7874984741,
+    "name": "Norman Manley International "
+  },
+  "MKJS": {
+    "lat": 18.5037002563,
+    "long": -77.9133987427,
+    "name": "Sangster International "
+  },
+  "MKKJ": {
+    "lat": 18.1987991333,
+    "long": -76.5345001221,
+    "name": "Ken Jones "
+  },
+  "MKNG": {
+    "lat": 18.3428001404,
+    "long": -78.3320999146,
+    "name": "Negril "
+  },
+  "MKTP": {
+    "lat": 17.9885997772,
+    "long": -76.8237991333,
+    "name": "Tinson Pen "
+  }
+}

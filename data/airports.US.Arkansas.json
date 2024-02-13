@@ -1,0 +1,1460 @@
+{
+    "02AR": {
+        "lat": 34.8224449158,
+        "long": -92.4444198608,
+        "name": "Three Rivers ",
+        "state": "Arkansas"
+    },
+    "05AR": {
+        "lat": 36.000633,
+        "long": -93.57025,
+        "name": "Ozark Skies Airpark",
+        "state": "Arkansas"
+    },
+    "05XS": {
+        "lat": 33.0792999268,
+        "long": -91.5431976318,
+        "name": "Johnson Memorial ",
+        "state": "Arkansas"
+    },
+    "06AR": {
+        "lat": 35.5444984436,
+        "long": -92.1848983765,
+        "name": "Bondair ",
+        "state": "Arkansas"
+    },
+    "07AR": {
+        "lat": 35.1944999695,
+        "long": -92.800201416,
+        "name": "Morrilton ",
+        "state": "Arkansas"
+    },
+    "0AR1": {
+        "lat": 35.0946998596,
+        "long": -93.202003479,
+        "name": "Hooterville South ",
+        "state": "Arkansas"
+    },
+    "0AR2": {
+        "lat": 35.2667999268,
+        "long": -90.3500976563,
+        "name": "Mission Field-Marotti Memorial ",
+        "state": "Arkansas"
+    },
+    "0AR3": {
+        "lat": 35.8989982605,
+        "long": -93.2610015869,
+        "name": "Taylor's Air Strip",
+        "state": "Arkansas"
+    },
+    "0AR7": {
+        "lat": 33.9500999451,
+        "long": -91.1811981201,
+        "name": "Yancopin ",
+        "state": "Arkansas"
+    },
+    "12AR": {
+        "lat": 34.515444,
+        "long": -90.973722,
+        "name": "Gibbons ",
+        "state": "Arkansas"
+    },
+    "12XS": {
+        "lat": 34.95470047,
+        "long": -91.8371963501,
+        "name": "Mc Croskey Field",
+        "state": "Arkansas"
+    },
+    "14AR": {
+        "lat": 35.0527992249,
+        "long": -90.6750030518,
+        "name": "Rice-Bell Field ",
+        "state": "Arkansas"
+    },
+    "15AR": {
+        "lat": 34.8259010315,
+        "long": -90.543296814,
+        "name": "Dawson's ",
+        "state": "Arkansas"
+    },
+    "16AR": {
+        "lat": 35.3011016846,
+        "long": -92.5733032227,
+        "name": "Heifer Creek Ranch ",
+        "state": "Arkansas"
+    },
+    "17AR": {
+        "lat": 34.5531005859,
+        "long": -92.0914001465,
+        "name": "Bredlow Farm ",
+        "state": "Arkansas"
+    },
+    "18AR": {
+        "lat": 36.3442001343,
+        "long": -93.831703186,
+        "name": "Buck Mountain ",
+        "state": "Arkansas"
+    },
+    "19AR": {
+        "lat": 35.15670013,
+        "long": -92.22419739,
+        "name": "Naylor field",
+        "state": "Arkansas"
+    },
+    "1AR0": {
+        "lat": 35.3987007141,
+        "long": -91.1334991455,
+        "name": "Breckenridge ",
+        "state": "Arkansas"
+    },
+    "1AR1": {
+        "lat": 34.5271987915,
+        "long": -91.8727035522,
+        "name": "Walls ",
+        "state": "Arkansas"
+    },
+    "1AR2": {
+        "lat": 34.9868011475,
+        "long": -91.5503005981,
+        "name": "Taylor Airstrip",
+        "state": "Arkansas"
+    },
+    "1AR3": {
+        "lat": 34.9732017517,
+        "long": -91.5260009766,
+        "name": "Bob Norman Airstrip",
+        "state": "Arkansas"
+    },
+    "1AR4": {
+        "lat": 36.0178985596,
+        "long": -94.0184020996,
+        "name": "Foggy River ",
+        "state": "Arkansas"
+    },
+    "1AR5": {
+        "lat": 36.2994003296,
+        "long": -94.5847015381,
+        "name": "Cherokee Strip",
+        "state": "Arkansas"
+    },
+    "1AR6": {
+        "lat": 35.5032997131,
+        "long": -92.1967010498,
+        "name": "Diamond Bluff ",
+        "state": "Arkansas"
+    },
+    "1AR8": {
+        "lat": 35.3256988525,
+        "long": -94.1867980957,
+        "name": "Flying W Air Park Inc ",
+        "state": "Arkansas"
+    },
+    "1AR9": {
+        "lat": 34.8138999939,
+        "long": -92,
+        "name": "Country Air Estates ",
+        "state": "Arkansas"
+    },
+    "20AR": {
+        "lat": 35.30789948,
+        "long": -92.32019806,
+        "name": "Rak ",
+        "state": "Arkansas"
+    },
+    "21AR": {
+        "lat": 34.7176017761,
+        "long": -91.5390014648,
+        "name": "Skarda/Tollville ",
+        "state": "Arkansas"
+    },
+    "23AR": {
+        "lat": 35.8259010315,
+        "long": -90.547203064,
+        "name": "Classic Airstrip",
+        "state": "Arkansas"
+    },
+    "24AR": {
+        "lat": 34.1981010437,
+        "long": -90.952796936,
+        "name": "Griffin Agricultural ",
+        "state": "Arkansas"
+    },
+    "25AR": {
+        "lat": 35.9305992126,
+        "long": -91.7460021973,
+        "name": "Reeves Private ",
+        "state": "Arkansas"
+    },
+    "26AR": {
+        "lat": 35.2154998779,
+        "long": -91.807800293,
+        "name": "Fly N K ",
+        "state": "Arkansas"
+    },
+    "28AR": {
+        "lat": 35.8333015442,
+        "long": -91.4332962036,
+        "name": "Henley Aerodrome",
+        "state": "Arkansas"
+    },
+    "2AR0": {
+        "lat": 34.8680992126,
+        "long": -91.9742965698,
+        "name": "Bully Henry ",
+        "state": "Arkansas"
+    },
+    "2AR1": {
+        "lat": 36.292098999,
+        "long": -94.0952987671,
+        "name": "Seratt ",
+        "state": "Arkansas"
+    },
+    "2AR2": {
+        "lat": 36.0152015686,
+        "long": -91.7966003418,
+        "name": "Davidson Field",
+        "state": "Arkansas"
+    },
+    "2AR4": {
+        "lat": 35.6707000732,
+        "long": -90.5278015137,
+        "name": "Jaynes Field",
+        "state": "Arkansas"
+    },
+    "2AR5": {
+        "lat": 36.3830986023,
+        "long": -94.2938995361,
+        "name": "Ashmore Field",
+        "state": "Arkansas"
+    },
+    "2AR6": {
+        "lat": 33.8818016052,
+        "long": -93.9284973145,
+        "name": "Glenn Winchester ",
+        "state": "Arkansas"
+    },
+    "2AR7": {
+        "lat": 33.8490982056,
+        "long": -93.4791030884,
+        "name": "Head Airfield",
+        "state": "Arkansas"
+    },
+    "2AR8": {
+        "lat": 36.3527984619,
+        "long": -94.3330993652,
+        "name": "L C Hickman ",
+        "state": "Arkansas"
+    },
+    "30AR": {
+        "lat": 35.54436111,
+        "long": -92.0561676,
+        "name": "Phalanx ",
+        "state": "Arkansas"
+    },
+    "33AR": {
+        "lat": 35.6021995544,
+        "long": -92.1425018311,
+        "name": "Skypoint Estates ",
+        "state": "Arkansas"
+    },
+    "34AR": {
+        "lat": 35.5811004639,
+        "long": -90.3852996826,
+        "name": "Woodbridge Field",
+        "state": "Arkansas"
+    },
+    "35AR": {
+        "lat": 36.3563995361,
+        "long": -93.6863021851,
+        "name": "Black Horse Landing Ultralightport",
+        "state": "Arkansas"
+    },
+    "36AR": {
+        "lat": 35.206401825,
+        "long": -91.318901062,
+        "name": "David Stanley Memorial ",
+        "state": "Arkansas"
+    },
+    "37AR": {
+        "lat": 33.1824989319,
+        "long": -91.6283035278,
+        "name": "Beech Creek ",
+        "state": "Arkansas"
+    },
+    "38AR": {
+        "lat": 36.1188011169,
+        "long": -94.4682006836,
+        "name": "Williams Field",
+        "state": "Arkansas"
+    },
+    "39AR": {
+        "lat": 35.4171981812,
+        "long": -94.3264007568,
+        "name": "Twin Cities ",
+        "state": "Arkansas"
+    },
+    "3AR0": {
+        "lat": 34.8306007385,
+        "long": -90.853302002,
+        "name": "Frost Flying Inc ",
+        "state": "Arkansas"
+    },
+    "3AR2": {
+        "lat": 36.320098877,
+        "long": -93.2015991211,
+        "name": "Ridgeway Field",
+        "state": "Arkansas"
+    },
+    "3AR3": {
+        "lat": 35.0596008301,
+        "long": -92.0820007324,
+        "name": "Cypress Creek ",
+        "state": "Arkansas"
+    },
+    "3AR4": {
+        "lat": 35.0056991577,
+        "long": -92.0774002075,
+        "name": "Four Mile Creek Ranch ",
+        "state": "Arkansas"
+    },
+    "3AR5": {
+        "lat": 35.1179008484,
+        "long": -91.6119003296,
+        "name": "Tripp Strip",
+        "state": "Arkansas"
+    },
+    "3AR6": {
+        "lat": 34.7285995483,
+        "long": -92.5164031982,
+        "name": "Crystal Ridge ",
+        "state": "Arkansas"
+    },
+    "3AR7": {
+        "lat": 36.2877998352,
+        "long": -94.1866989136,
+        "name": "Taylor Field",
+        "state": "Arkansas"
+    },
+    "3AR8": {
+        "lat": 35.4667015076,
+        "long": -91.966796875,
+        "name": "River Acres ",
+        "state": "Arkansas"
+    },
+    "3AR9": {
+        "lat": 36.0519981384,
+        "long": -90.3583984375,
+        "name": "Quinn Field",
+        "state": "Arkansas"
+    },
+    "40AR": {
+        "lat": 36.3927993774,
+        "long": -93.912399292,
+        "name": "Lost Bridge Village ",
+        "state": "Arkansas"
+    },
+    "41AR": {
+        "lat": 34.123298645,
+        "long": -93.3497009277,
+        "name": "Ashworth ",
+        "state": "Arkansas"
+    },
+    "43AR": {
+        "lat": 35.6114006042,
+        "long": -91.2414016724,
+        "name": "Haigwood Landing Strip",
+        "state": "Arkansas"
+    },
+    "45AR": {
+        "lat": 36.3671989441,
+        "long": -92.6401977539,
+        "name": "Thunder Ridge Ranch",
+        "state": "Arkansas"
+    },
+    "46AR": {
+        "lat": 34.8461990356,
+        "long": -92.1720962524,
+        "name": "Robert Chris Mc Intosh ",
+        "state": "Arkansas"
+    },
+    "47AR": {
+        "lat": 36.043598175,
+        "long": -91.943901062,
+        "name": "Mabry Field",
+        "state": "Arkansas"
+    },
+    "4AR1": {
+        "lat": 35.0413017273,
+        "long": -92.1009979248,
+        "name": "Shurley Field ",
+        "state": "Arkansas"
+    },
+    "4AR2": {
+        "lat": 34.9099998474,
+        "long": -92.0066986084,
+        "name": "Red Oak ",
+        "state": "Arkansas"
+    },
+    "4AR4": {
+        "lat": 33.3479003906,
+        "long": -93.7315979004,
+        "name": "Reed-Joseph Land Co. ",
+        "state": "Arkansas"
+    },
+    "4AR5": {
+        "lat": 35.3708000183,
+        "long": -90.7506027222,
+        "name": "Lawrence Field",
+        "state": "Arkansas"
+    },
+    "4AR6": {
+        "lat": 34.3792991638,
+        "long": -93.6377029419,
+        "name": "Williams Ranch ",
+        "state": "Arkansas"
+    },
+    "4AR7": {
+        "lat": 35.0834007263,
+        "long": -94.116897583,
+        "name": "Worth James Ranch ",
+        "state": "Arkansas"
+    },
+    "4AR9": {
+        "lat": 35.7761993408,
+        "long": -90.6467971802,
+        "name": "Scudder ",
+        "state": "Arkansas"
+    },
+    "52AR": {
+        "lat": 35.2801017761,
+        "long": -92.2415008545,
+        "name": "Ira's Airstrip",
+        "state": "Arkansas"
+    },
+    "54AR": {
+        "lat": 35.392856,
+        "long": -93.758706,
+        "name": "Winfield Airpark",
+        "state": "Arkansas"
+    },
+    "5AR1": {
+        "lat": 33.712600708,
+        "long": -91.4611968994,
+        "name": "Tillar ",
+        "state": "Arkansas"
+    },
+    "5AR2": {
+        "lat": 35.375,
+        "long": -90.2063980103,
+        "name": "Turrell Flying Service ",
+        "state": "Arkansas"
+    },
+    "5AR3": {
+        "lat": 34.3501014709,
+        "long": -91.7835006714,
+        "name": "Wabbaseka Flying Service ",
+        "state": "Arkansas"
+    },
+    "5AR7": {
+        "lat": 35.6866989136,
+        "long": -90.7936019897,
+        "name": "Keller Airfield",
+        "state": "Arkansas"
+    },
+    "5AR8": {
+        "lat": 33.6167984009,
+        "long": -94.116897583,
+        "name": "Pine Prairie ",
+        "state": "Arkansas"
+    },
+    "61AR": {
+        "lat": 36.3083992,
+        "long": -92.53070068,
+        "name": "The Valley ",
+        "state": "Arkansas"
+    },
+    "63AR": {
+        "lat": 35.251499176,
+        "long": -90.4598007202,
+        "name": "Mc Neely ",
+        "state": "Arkansas"
+    },
+    "64AR": {
+        "lat": 35.6125984192,
+        "long": -90.0208969116,
+        "name": "Lowrance ",
+        "state": "Arkansas"
+    },
+    "65AR": {
+        "lat": 35.2265014648,
+        "long": -90.4654006958,
+        "name": "Bernard Manor ",
+        "state": "Arkansas"
+    },
+    "67AR": {
+        "lat": 36.0978012085,
+        "long": -94.3075027466,
+        "name": "Wedington Woods ",
+        "state": "Arkansas"
+    },
+    "6AR0": {
+        "lat": 35.0542984009,
+        "long": -92.1171035767,
+        "name": "Cypress Creek Airpark",
+        "state": "Arkansas"
+    },
+    "6AR1": {
+        "lat": 36.2779006958,
+        "long": -94.1966018677,
+        "name": "Elder Airstrip",
+        "state": "Arkansas"
+    },
+    "6AR2": {
+        "lat": 35.020401001,
+        "long": -93.0649032593,
+        "name": "A J's ",
+        "state": "Arkansas"
+    },
+    "6AR5": {
+        "lat": 36.0346984863,
+        "long": -91.3707962036,
+        "name": "Mc Donald's Airstrip",
+        "state": "Arkansas"
+    },
+    "6AR6": {
+        "lat": 34.8405990601,
+        "long": -92.4417037964,
+        "name": "Two Rivers ",
+        "state": "Arkansas"
+    },
+    "6AR8": {
+        "lat": 35.3300018311,
+        "long": -94.0419006348,
+        "name": "Flying W Airpark II ",
+        "state": "Arkansas"
+    },
+    "6AR9": {
+        "lat": 36.4152984619,
+        "long": -92.6943969727,
+        "name": "Pine Mountain Airpark",
+        "state": "Arkansas"
+    },
+    "70AR": {
+        "lat": 35.9944992065,
+        "long": -89.9972991943,
+        "name": "Randal Field",
+        "state": "Arkansas"
+    },
+    "73AR": {
+        "lat": 35.048500061,
+        "long": -92.0537033081,
+        "name": "Dogwood ",
+        "state": "Arkansas"
+    },
+    "75AR": {
+        "lat": 36.2961997986,
+        "long": -92.216003418,
+        "name": "The Bluffs ",
+        "state": "Arkansas"
+    },
+    "78AR": {
+        "lat": 34.9375991821,
+        "long": -90.4709014893,
+        "name": "Tucker Field",
+        "state": "Arkansas"
+    },
+    "79AR": {
+        "lat": 34.8529014587,
+        "long": -92.0482025146,
+        "name": "Perrys ",
+        "state": "Arkansas"
+    },
+    "7AR0": {
+        "lat": 36.4314002991,
+        "long": -93.6992034912,
+        "name": "Hammer Field ",
+        "state": "Arkansas"
+    },
+    "7AR1": {
+        "lat": 33.0499992371,
+        "long": -91.3415985107,
+        "name": "Ward's ",
+        "state": "Arkansas"
+    },
+    "7AR2": {
+        "lat": 35.5572013855,
+        "long": -92.1321029663,
+        "name": "Verser's Landing ",
+        "state": "Arkansas"
+    },
+    "7AR3": {
+        "lat": 35.1511001587,
+        "long": -90.8155975342,
+        "name": "Runsick Flying Service ",
+        "state": "Arkansas"
+    },
+    "7AR4": {
+        "lat": 35.292222,
+        "long": -91.89,
+        "name": "Brown'S ",
+        "state": "Arkansas"
+    },
+    "80AR": {
+        "lat": 35.5000991821,
+        "long": -90.2583999634,
+        "name": "Price Field",
+        "state": "Arkansas"
+    },
+    "81AR": {
+        "lat": 34.7500991821,
+        "long": -91.8487014771,
+        "name": "Smith's Strip",
+        "state": "Arkansas"
+    },
+    "86AR": {
+        "lat": 34.8292999268,
+        "long": -91.9542999268,
+        "name": "Goacher ",
+        "state": "Arkansas"
+    },
+    "8AR0": {
+        "lat": 34.5125999451,
+        "long": -91.5640029907,
+        "name": "Hargrove ",
+        "state": "Arkansas"
+    },
+    "8AR1": {
+        "lat": 36.4893989563,
+        "long": -92.6421966553,
+        "name": "Totty Field ",
+        "state": "Arkansas"
+    },
+    "90AR": {
+        "lat": 33.9250984192,
+        "long": -91.5111999512,
+        "name": "Reedville ",
+        "state": "Arkansas"
+    },
+    "93AR": {
+        "lat": 35.6208992004,
+        "long": -89.9861984253,
+        "name": "Ohlendorf ",
+        "state": "Arkansas"
+    },
+    "9AR0": {
+        "lat": 35.188999176,
+        "long": -91.2064971924,
+        "name": "Robertson ",
+        "state": "Arkansas"
+    },
+    "9AR9": {
+        "lat": 34.887389,
+        "long": -91.989486,
+        "name": "Henry Field",
+        "state": "Arkansas"
+    },
+    "AR01": {
+        "lat": 33.1085014343,
+        "long": -91.2500991821,
+        "name": "Baker Flying Service ",
+        "state": "Arkansas"
+    },
+    "AR03": {
+        "lat": 35.1186981201,
+        "long": -93.2015991211,
+        "name": "Centerville Airstrip",
+        "state": "Arkansas"
+    },
+    "AR04": {
+        "lat": 36.2616996765,
+        "long": -94.248298645,
+        "name": "Gunem Field",
+        "state": "Arkansas"
+    },
+    "AR05": {
+        "lat": 35.2159004211,
+        "long": -93.304901123,
+        "name": "John Harris Field",
+        "state": "Arkansas"
+    },
+    "AR06": {
+        "lat": 35.2324981689,
+        "long": -92.3432998657,
+        "name": "Cantrell Farms ",
+        "state": "Arkansas"
+    },
+    "AR08": {
+        "lat": 36.3152999878,
+        "long": -93.6666030884,
+        "name": "Flying Machines Airstrip",
+        "state": "Arkansas"
+    },
+    "AR09": {
+        "lat": 36.413898468,
+        "long": -94.4389038086,
+        "name": "Bella Vista Field",
+        "state": "Arkansas"
+    },
+    "AR10": {
+        "lat": 34.8067016602,
+        "long": -91.6082992554,
+        "name": "Greenwalt Company ",
+        "state": "Arkansas"
+    },
+    "AR11": {
+        "lat": 36.28889847,
+        "long": -94.09030151,
+        "name": "Ozark Aerodrome",
+        "state": "Arkansas"
+    },
+    "AR12": {
+        "lat": 35.3205986023,
+        "long": -92.018699646,
+        "name": "Mc Donald's Strip",
+        "state": "Arkansas"
+    },
+    "AR13": {
+        "lat": 34.9861984253,
+        "long": -92.6334991455,
+        "name": "Pearson Field",
+        "state": "Arkansas"
+    },
+    "AR17": {
+        "lat": 34.9833984375,
+        "long": -90.9151000977,
+        "name": "Burns Aerodrome",
+        "state": "Arkansas"
+    },
+    "AR18": {
+        "lat": 34.7714996338,
+        "long": -90.8404006958,
+        "name": "Gerrard ",
+        "state": "Arkansas"
+    },
+    "AR19": {
+        "lat": 35.2128982544,
+        "long": -93.7520980835,
+        "name": "Wesson-Davis Field",
+        "state": "Arkansas"
+    },
+    "AR22": {
+        "lat": 34.3815002441,
+        "long": -91.9585037231,
+        "name": "Tommy's Flying Service Inc ",
+        "state": "Arkansas"
+    },
+    "AR23": {
+        "lat": 35.1333999634,
+        "long": -93.4751968384,
+        "name": "Cedar Creek Ranch ",
+        "state": "Arkansas"
+    },
+    "AR25": {
+        "lat": 35.1186981201,
+        "long": -92.1893005371,
+        "name": "Vilonia ",
+        "state": "Arkansas"
+    },
+    "AR27": {
+        "lat": 35.938999176,
+        "long": -93.845703125,
+        "name": "Lollars Creek Farm ",
+        "state": "Arkansas"
+    },
+    "AR28": {
+        "lat": 34.9393005371,
+        "long": -92.024597168,
+        "name": "Odom Field",
+        "state": "Arkansas"
+    },
+    "AR34": {
+        "lat": 34.9819984436,
+        "long": -92.4451980591,
+        "name": "Pine Village ",
+        "state": "Arkansas"
+    },
+    "AR35": {
+        "lat": 36.0867004395,
+        "long": -94.1052017212,
+        "name": "Henson Farm ",
+        "state": "Arkansas"
+    },
+    "AR43": {
+        "lat": 35.1001014709,
+        "long": -92.7835006714,
+        "name": "Brickey Private ",
+        "state": "Arkansas"
+    },
+    "AR44": {
+        "lat": 33.5125999451,
+        "long": -94.0134963989,
+        "name": "Flying W ",
+        "state": "Arkansas"
+    },
+    "AR46": {
+        "lat": 35.1893005371,
+        "long": -91.048500061,
+        "name": "Penrose ",
+        "state": "Arkansas"
+    },
+    "AR50": {
+        "lat": 35.2667999268,
+        "long": -90.9834976196,
+        "name": "Hess Strip",
+        "state": "Arkansas"
+    },
+    "AR54": {
+        "lat": 34.9187011719,
+        "long": -91.9151000977,
+        "name": "Ralph Fulmer Field",
+        "state": "Arkansas"
+    },
+    "AR55": {
+        "lat": 34.7397994995,
+        "long": -92.0901031494,
+        "name": "R.V. Stewart Field",
+        "state": "Arkansas"
+    },
+    "AR56": {
+        "lat": 35.6001014709,
+        "long": -91.4335021973,
+        "name": "Amos ",
+        "state": "Arkansas"
+    },
+    "AR64": {
+        "lat": 35.9211997986,
+        "long": -92.0050964355,
+        "name": "White River ",
+        "state": "Arkansas"
+    },
+    "AR79": {
+        "lat": 33.6931991577,
+        "long": -91.3796005249,
+        "name": "Flying G Ranch ",
+        "state": "Arkansas"
+    },
+    "AR81": {
+        "lat": 34.1623001099,
+        "long": -92.6037979126,
+        "name": "Katheryn's Landing ",
+        "state": "Arkansas"
+    },
+    "AR82": {
+        "lat": 34.1711997986,
+        "long": -92.6959991455,
+        "name": "Gillespie Strip",
+        "state": "Arkansas"
+    },
+    "AR83": {
+        "lat": 34.1762008667,
+        "long": -92.7009963989,
+        "name": "Heard ",
+        "state": "Arkansas"
+    },
+    "AR84": {
+        "lat": 34.9664993286,
+        "long": -92.2993011475,
+        "name": "Bobwhite Hill Ranch ",
+        "state": "Arkansas"
+    },
+    "AR88": {
+        "lat": 35.0547981262,
+        "long": -92.3539962769,
+        "name": "Poe's ",
+        "state": "Arkansas"
+    },
+    "AR89": {
+        "lat": 35.400100708,
+        "long": -93.0660018921,
+        "name": "Landers Loop ",
+        "state": "Arkansas"
+    },
+    "AR91": {
+        "lat": 36.2258987427,
+        "long": -94.0320968628,
+        "name": "Circle S Farms ",
+        "state": "Arkansas"
+    },
+    "AR93": {
+        "lat": 36.4855995178,
+        "long": -90.2804031372,
+        "name": "Ark-Mo ",
+        "state": "Arkansas"
+    },
+    "AR94": {
+        "lat": 35.4854011536,
+        "long": -94.1382980347,
+        "name": "Squirrel Run ",
+        "state": "Arkansas"
+    },
+    "AR97": {
+        "lat": 35.2201004028,
+        "long": -92.4964981079,
+        "name": "Chael ",
+        "state": "Arkansas"
+    },
+    "AR98": {
+        "lat": 35.2644996643,
+        "long": -91.1890029907,
+        "name": "Johnson Field",
+        "state": "Arkansas"
+    },
+    "K0M0": {
+        "lat": 33.8847999573,
+        "long": -91.5345001221,
+        "name": "Billy Free Municipal ",
+        "state": "Arkansas"
+    },
+    "K0R6": {
+        "lat": 33.5225982666,
+        "long": -92.4602966309,
+        "name": "Hampton Municipal ",
+        "state": "Arkansas"
+    },
+    "K2A2": {
+        "lat": 35.6506996155,
+        "long": -92.4038009644,
+        "name": "Holley Mountain Airpark",
+        "state": "Arkansas"
+    },
+    "K2A6": {
+        "lat": 34.5824012756,
+        "long": -91.1651992798,
+        "name": "Holly Grove Municipal ",
+        "state": "Arkansas"
+    },
+    "K32A": {
+        "lat": 35.0870018005,
+        "long": -93.4274978638,
+        "name": "Danville Municipal ",
+        "state": "Arkansas"
+    },
+    "K37T": {
+        "lat": 36.1645011902,
+        "long": -92.1445007324,
+        "name": "Calico Rock Izard County ",
+        "state": "Arkansas"
+    },
+    "K3M0": {
+        "lat": 36.3490556,
+        "long": -92.5558056,
+        "name": "Gastons ",
+        "state": "Arkansas"
+    },
+    "K3M9": {
+        "lat": 33.5603981018,
+        "long": -92.0854034424,
+        "name": "Warren Municipal ",
+        "state": "Arkansas"
+    },
+    "K42A": {
+        "lat": 36.07099915,
+        "long": -91.83010101,
+        "name": "Melbourne Municipal John E Miller Field",
+        "state": "Arkansas"
+    },
+    "K4A5": {
+        "lat": 35.8969993591,
+        "long": -92.658996582,
+        "name": "Searcy County ",
+        "state": "Arkansas"
+    },
+    "K4F7": {
+        "lat": 33.8039016724,
+        "long": -93.362197876,
+        "name": "Kizer Field",
+        "state": "Arkansas"
+    },
+    "K4F8": {
+        "lat": 33.4435997009,
+        "long": -93.0541000366,
+        "name": "Wilson ",
+        "state": "Arkansas"
+    },
+    "K4M1": {
+        "lat": 36.38130188,
+        "long": -93.62460327,
+        "name": "Carroll County ",
+        "state": "Arkansas"
+    },
+    "K4M2": {
+        "lat": 35.1495018005,
+        "long": -93.8620986938,
+        "name": "Booneville Municipal ",
+        "state": "Arkansas"
+    },
+    "K4M3": {
+        "lat": 34.80820084,
+        "long": -91.71209717,
+        "name": "Carlisle Municipal ",
+        "state": "Arkansas"
+    },
+    "K4M9": {
+        "lat": 36.4042015076,
+        "long": -90.6479034424,
+        "name": "Corning Municipal ",
+        "state": "Arkansas"
+    },
+    "K55M": {
+        "lat": 33.9261016846,
+        "long": -91.8774032593,
+        "name": "Star City Municipal ",
+        "state": "Arkansas"
+    },
+    "K5M4": {
+        "lat": 33.8457984924,
+        "long": -92.3655014038,
+        "name": "Fordyce Municipal ",
+        "state": "Arkansas"
+    },
+    "K5M5": {
+        "lat": 36.3436012268,
+        "long": -94.4448013306,
+        "name": "Crystal Lake ",
+        "state": "Arkansas"
+    },
+    "K5M8": {
+        "lat": 33.9239006042,
+        "long": -93.1687011719,
+        "name": "Gurdon Lowe Field",
+        "state": "Arkansas"
+    },
+    "K6M0": {
+        "lat": 34.7593994141,
+        "long": -91.6380996704,
+        "name": "Hazen Municipal ",
+        "state": "Arkansas"
+    },
+    "K6M2": {
+        "lat": 36.2214012146,
+        "long": -91.7555007935,
+        "name": "Horseshoe Bend ",
+        "state": "Arkansas"
+    },
+    "K6M7": {
+        "lat": 34.78030014,
+        "long": -90.81060028,
+        "name": "Marianna Lee County Steve Edwards Field",
+        "state": "Arkansas"
+    },
+    "K7M1": {
+        "lat": 33.62020111,
+        "long": -91.3647995,
+        "name": "Mc Gehee Municipal ",
+        "state": "Arkansas"
+    },
+    "K7M2": {
+        "lat": 35.8644981384,
+        "long": -92.0903015137,
+        "name": "Mountain View Wilcox Memorial Field",
+        "state": "Arkansas"
+    },
+    "K7M3": {
+        "lat": 34.52930069,
+        "long": -93.52709961,
+        "name": "Bearce ",
+        "state": "Arkansas"
+    },
+    "K7M4": {
+        "lat": 35.6911010742,
+        "long": -90.0101013184,
+        "name": "Osceola Municipal ",
+        "state": "Arkansas"
+    },
+    "K7M5": {
+        "lat": 35.5107002258,
+        "long": -93.839302063,
+        "name": "Ozark Franklin County ",
+        "state": "Arkansas"
+    },
+    "K7M8": {
+        "lat": 36.2500991821,
+        "long": -90.3195037842,
+        "name": "Rector ",
+        "state": "Arkansas"
+    },
+    "K7M9": {
+        "lat": 36.3558998108,
+        "long": -91.8310012817,
+        "name": "Salem ",
+        "state": "Arkansas"
+    },
+    "K9M8": {
+        "lat": 34.3283996582,
+        "long": -92.3509979248,
+        "name": "Sheridan Municipal ",
+        "state": "Arkansas"
+    },
+    "KAGO": {
+        "lat": 33.22800064,
+        "long": -93.21700287,
+        "name": "Magnolia Municipal ",
+        "state": "Arkansas"
+    },
+    "KARG": {
+        "lat": 36.1246667,
+        "long": -90.9251111,
+        "name": "Walnut Ridge Regional ",
+        "state": "Arkansas"
+    },
+    "KASG": {
+        "lat": 36.176399231,
+        "long": -94.1193008423,
+        "name": "Springdale Municipal ",
+        "state": "Arkansas"
+    },
+    "KAWM": {
+        "lat": 35.1351013184,
+        "long": -90.2343978882,
+        "name": "West Memphis Municipal ",
+        "state": "Arkansas"
+    },
+    "KBDQ": {
+        "lat": 35.1361999512,
+        "long": -92.7135009766,
+        "name": "Morrilton Municipal ",
+        "state": "Arkansas"
+    },
+    "KBPK": {
+        "lat": 36.3689002991,
+        "long": -92.4704971313,
+        "name": "Ozark Regional ",
+        "state": "Arkansas"
+    },
+    "KBVX": {
+        "lat": 35.7262001,
+        "long": -91.64730072,
+        "name": "Batesville Regional ",
+        "state": "Arkansas"
+    },
+    "KBYH": {
+        "lat": 35.9642982483,
+        "long": -89.9440002441,
+        "name": "Arkansas International ",
+        "state": "Arkansas"
+    },
+    "KCCA": {
+        "lat": 35.5978012085,
+        "long": -92.4515991211,
+        "name": "Clinton Municipal ",
+        "state": "Arkansas"
+    },
+    "KCDH": {
+        "lat": 33.6227989197,
+        "long": -92.7633972168,
+        "name": "Harrell Field",
+        "state": "Arkansas"
+    },
+    "KCRT": {
+        "lat": 33.1782989502,
+        "long": -91.8802032471,
+        "name": "Z M Jack Stell Field",
+        "state": "Arkansas"
+    },
+    "KCVK": {
+        "lat": 36.26490021,
+        "long": -91.56259918,
+        "name": "Sharp County Regional ",
+        "state": "Arkansas"
+    },
+    "KCWI": {
+        "lat": 41.8311004639,
+        "long": -90.3291015625,
+        "name": "Clinton Municipal ",
+        "state": "Arkansas"
+    },
+    "KCWS": {
+        "lat": 35.0807991,
+        "long": -92.42500305,
+        "name": "Dennis F Cantrell Field",
+        "state": "Arkansas"
+    },
+    "KDEQ": {
+        "lat": 34.047000885,
+        "long": -94.3993988037,
+        "name": "J Lynn Helms Sevier County ",
+        "state": "Arkansas"
+    },
+    "KELD": {
+        "lat": 33.2210006714,
+        "long": -92.8133010864,
+        "name": "South Arkansas Regional At Goodwin Field",
+        "state": "Arkansas"
+    },
+    "KF43": {
+        "lat": 33.19120026,
+        "long": -92.66320038,
+        "name": "El Dorado Downtown-Stevens field",
+        "state": "Arkansas"
+    },
+    "KFCY": {
+        "lat": 34.9420013428,
+        "long": -90.7750015259,
+        "name": "Forrest City Municipal ",
+        "state": "Arkansas"
+    },
+    "KFLP": {
+        "lat": 36.29090118,
+        "long": -92.59030151,
+        "name": "Marion County Regional ",
+        "state": "Arkansas"
+    },
+    "KFSM": {
+        "lat": 35.3366012573,
+        "long": -94.367401123,
+        "name": "Fort Smith Regional ",
+        "state": "Arkansas"
+    },
+    "KFYV": {
+        "lat": 36.0051002502,
+        "long": -94.1700973511,
+        "name": "Drake Field",
+        "state": "Arkansas"
+    },
+    "KH34": {
+        "lat": 36.0782012939,
+        "long": -93.7547988892,
+        "name": "Huntsville Municipal ",
+        "state": "Arkansas"
+    },
+    "KH35": {
+        "lat": 35.4706993103,
+        "long": -93.4272003174,
+        "name": "Clarksville Municipal ",
+        "state": "Arkansas"
+    },
+    "KHBZ": {
+        "lat": 35.5116996765,
+        "long": -92.0130004883,
+        "name": "Heber Springs Municipal ",
+        "state": "Arkansas"
+    },
+    "KHEE": {
+        "lat": 34.576499939,
+        "long": -90.6759033203,
+        "name": "Thompson Robbins ",
+        "state": "Arkansas"
+    },
+    "KHKA": {
+        "lat": 35.9403991699,
+        "long": -89.8308029175,
+        "name": "Blytheville Municipal ",
+        "state": "Arkansas"
+    },
+    "KHRO": {
+        "lat": 36.2615013123,
+        "long": -93.1547012329,
+        "name": "Boone County ",
+        "state": "Arkansas"
+    },
+    "KJBR": {
+        "lat": 35.8316993713,
+        "long": -90.6464004517,
+        "name": "Jonesboro Municipal ",
+        "state": "Arkansas"
+    },
+    "KLIT": {
+        "lat": 34.7294006348,
+        "long": -92.2242965698,
+        "name": "Adams Field",
+        "state": "Arkansas"
+    },
+    "KLLQ": {
+        "lat": 33.6385994,
+        "long": -91.75099945,
+        "name": "Monticello Municipal Ellis Field",
+        "state": "Arkansas"
+    },
+    "KLRF": {
+        "lat": 34.9169006348,
+        "long": -92.1496963501,
+        "name": "Little Rock Air Force Base",
+        "state": "Arkansas"
+    },
+    "KM18": {
+        "lat": 33.7201004028,
+        "long": -93.6587982178,
+        "name": "Hope Municipal ",
+        "state": "Arkansas"
+    },
+    "KM19": {
+        "lat": 35.6376991272,
+        "long": -91.176399231,
+        "name": "Newport Municipal ",
+        "state": "Arkansas"
+    },
+    "KM27": {
+        "lat": 34.8759994507,
+        "long": -94.1092987061,
+        "name": "Waldron Municipal ",
+        "state": "Arkansas"
+    },
+    "KM32": {
+        "lat": 33.3460006714,
+        "long": -91.3156967163,
+        "name": "Lake Village Municipal ",
+        "state": "Arkansas"
+    },
+    "KM36": {
+        "lat": 34.8802986145,
+        "long": -91.176399231,
+        "name": "Frank Federer Memorial ",
+        "state": "Arkansas"
+    },
+    "KM60": {
+        "lat": 35.271900177,
+        "long": -91.2696990967,
+        "name": "Woodruff County ",
+        "state": "Arkansas"
+    },
+    "KM65": {
+        "lat": 35.2316017151,
+        "long": -90.7615966797,
+        "name": "Wynne Municipal ",
+        "state": "Arkansas"
+    },
+    "KM70": {
+        "lat": 36.2454986572,
+        "long": -90.9552001953,
+        "name": "Pocahontas Municipal ",
+        "state": "Arkansas"
+    },
+    "KM73": {
+        "lat": 34.4123001099,
+        "long": -91.4663009644,
+        "name": "Almyra Municipal ",
+        "state": "Arkansas"
+    },
+    "KM77": {
+        "lat": 33.9967002869,
+        "long": -93.8380966187,
+        "name": "Howard County ",
+        "state": "Arkansas"
+    },
+    "KM78": {
+        "lat": 34.3333015442,
+        "long": -92.7614974976,
+        "name": "Malvern Municipal ",
+        "state": "Arkansas"
+    },
+    "KM89": {
+        "lat": 34.0998001099,
+        "long": -93.0661010742,
+        "name": "Dexter B Florence Memorial Field",
+        "state": "Arkansas"
+    },
+    "KM99": {
+        "lat": 34.5565986633,
+        "long": -92.6069030762,
+        "name": "Saline County/Watts Field",
+        "state": "Arkansas"
+    },
+    "KMEZ": {
+        "lat": 34.54539871,
+        "long": -94.20269775,
+        "name": "Mena Intermountain Municipal ",
+        "state": "Arkansas"
+    },
+    "KMPJ": {
+        "lat": 35.1389007568,
+        "long": -92.9092025757,
+        "name": "Petit Jean Park ",
+        "state": "Arkansas"
+    },
+    "KMXA": {
+        "lat": 35.8944015503,
+        "long": -90.1546020508,
+        "name": "Manila Municipal ",
+        "state": "Arkansas"
+    },
+    "KORK": {
+        "lat": 34.83309937,
+        "long": -92.25409698,
+        "name": "North Little Rock Municipal ",
+        "state": "Arkansas"
+    },
+    "KPBF": {
+        "lat": 34.1730995178,
+        "long": -91.9356002808,
+        "name": "Grider Field",
+        "state": "Arkansas"
+    },
+    "KPGR": {
+        "lat": 36.06290054,
+        "long": -90.50779724,
+        "name": "Kirk Field",
+        "state": "Arkansas"
+    },
+    "KRBM": {
+        "lat": 34.85010147,
+        "long": -92.30020142,
+        "name": "Robinson Army Air Field",
+        "state": "Arkansas"
+    },
+    "KROG": {
+        "lat": 36.37229919,
+        "long": -94.10690308,
+        "name": "Rogers Municipal Carter Field",
+        "state": "Arkansas"
+    },
+    "KRUE": {
+        "lat": 35.25910187,
+        "long": -93.09329987,
+        "name": "Russellville Regional ",
+        "state": "Arkansas"
+    },
+    "KSGT": {
+        "lat": 34.5994987488,
+        "long": -91.5749969482,
+        "name": "Stuttgart Municipal ",
+        "state": "Arkansas"
+    },
+    "KSLG": {
+        "lat": 36.19189835,
+        "long": -94.48999786,
+        "name": "Smith Field",
+        "state": "Arkansas"
+    },
+    "KSMD": {
+        "lat": 41.14339828,
+        "long": -85.15280151,
+        "name": "Smith Field",
+        "state": "Arkansas"
+    },
+    "KSRC": {
+        "lat": 35.21060181,
+        "long": -91.73750305,
+        "name": "Searcy Municipal ",
+        "state": "Arkansas"
+    },
+    "KSUZ": {
+        "lat": 34.59059906,
+        "long": -92.47940063,
+        "name": "Saline County Regional ",
+        "state": "Arkansas"
+    },
+    "KTXK": {
+        "lat": 33.4537010193,
+        "long": -93.9909973145,
+        "name": "Texarkana Regional Webb Field",
+        "state": "Arkansas"
+    },
+    "KVBT": {
+        "lat": 36.34569931,
+        "long": -94.21929932,
+        "name": "Bentonville Municipal-Louise M Thaden Field",
+        "state": "Arkansas"
+    },
+    "KXNA": {
+        "lat": 36.2818984985,
+        "long": -94.3068008423,
+        "name": "Northwest Arkansas Regional ",
+        "state": "Arkansas"
+    },
+    "NX01": {
+        "lat": 35.2779006958,
+        "long": -94.2242965698,
+        "name": "Cole Landing Zone ",
+        "state": "Arkansas"
+    }
+}

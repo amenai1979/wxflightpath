@@ -1,0 +1,42 @@
+{
+  "WPAT": {
+    "lat": -8.2105197906,
+    "long": 125.6159973145,
+    "name": "Atauro "
+  },
+  "WPDB": {
+    "lat": -9.3033103943,
+    "long": 125.2870025635,
+    "name": "Suai "
+  },
+  "WPDL": {
+    "lat": -8.5464000702,
+    "long": 125.526000977,
+    "name": "Presidente Nicolau Lobato International "
+  },
+  "WPEC": {
+    "lat": -8.4890298843,
+    "long": 126.401000977,
+    "name": "Cakung "
+  },
+  "WPFL": {
+    "lat": -8.4436101913,
+    "long": 126.9889984131,
+    "name": "Abisu Airfield"
+  },
+  "WPMN": {
+    "lat": -8.972240448,
+    "long": 125.2149963379,
+    "name": "Maliana "
+  },
+  "WPOC": {
+    "lat": -9.1980600357,
+    "long": 124.3430023193,
+    "name": "Oecussi "
+  },
+  "WPVQ": {
+    "lat": -8.8837995529,
+    "long": 126.3730010986,
+    "name": "Viqueque "
+  }
+}

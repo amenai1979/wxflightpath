@@ -1,0 +1,986 @@
+{
+    "K0A7": {
+        "lat": 35.307598114,
+        "long": -82.4331970215,
+        "name": "Hendersonville ",
+        "state": "North-Carolina"
+    },
+    "K14A": {
+        "lat": 35.6129989624,
+        "long": -80.8993988037,
+        "name": "Lake Norman Airpark",
+        "state": "North-Carolina"
+    },
+    "K1A5": {
+        "lat": 35.2225990295,
+        "long": -83.4189987183,
+        "name": "Macon County ",
+        "state": "North-Carolina"
+    },
+    "K22W": {
+        "lat": 35.2703018188,
+        "long": -82.644203186,
+        "name": "Transylvania County ",
+        "state": "North-Carolina"
+    },
+    "K24A": {
+        "lat": 35.317401886,
+        "long": -83.2098999023,
+        "name": "Jackson County ",
+        "state": "North-Carolina"
+    },
+    "K2A5": {
+        "lat": 35.9118003845,
+        "long": -79.6175994873,
+        "name": "Causey ",
+        "state": "North-Carolina"
+    },
+    "K2GC": {
+        "lat": 34.893699646,
+        "long": -78.84349823,
+        "name": "Grays Creek ",
+        "state": "North-Carolina"
+    },
+    "K3A4": {
+        "lat": 35.9420013428,
+        "long": -79.6855010986,
+        "name": "Southeast Greensboro ",
+        "state": "North-Carolina"
+    },
+    "K43A": {
+        "lat": 35.3881988525,
+        "long": -79.7928009033,
+        "name": "Montgomery County ",
+        "state": "North-Carolina"
+    },
+    "K5W4": {
+        "lat": 35.0199012756,
+        "long": -79.1910018921,
+        "name": "P K Airpark",
+        "state": "North-Carolina"
+    },
+    "K5W5": {
+        "lat": 35.620300293,
+        "long": -78.700302124,
+        "name": "Triple W ",
+        "state": "North-Carolina"
+    },
+    "K5W8": {
+        "lat": 35.7042999268,
+        "long": -79.5042037964,
+        "name": "Siler City Municipal ",
+        "state": "North-Carolina"
+    },
+    "K60J": {
+        "lat": 33.9085006714,
+        "long": -78.4366989136,
+        "name": "Odell Williamson Municipal ",
+        "state": "North-Carolina"
+    },
+    "K7A8": {
+        "lat": 35.9445991516,
+        "long": -81.9956970215,
+        "name": "Avery County Morrison Field",
+        "state": "North-Carolina"
+    },
+    "K7W6": {
+        "lat": 35.5624008179,
+        "long": -75.9552001953,
+        "name": "Hyde County ",
+        "state": "North-Carolina"
+    },
+    "K8A6": {
+        "lat": 35.2137985229,
+        "long": -80.6700973511,
+        "name": "Wilgrove Air Park",
+        "state": "North-Carolina"
+    },
+    "KACZ": {
+        "lat": 34.7178993225,
+        "long": -78.0036010742,
+        "name": "Henderson Field",
+        "state": "North-Carolina"
+    },
+    "KAFP": {
+        "lat": 35.0205993652,
+        "long": -80.0771026611,
+        "name": "Anson County ",
+        "state": "North-Carolina"
+    },
+    "KAKH": {
+        "lat": 35.2025985718,
+        "long": -81.1499023438,
+        "name": "Gastonia Municipal ",
+        "state": "North-Carolina"
+    },
+    "KASJ": {
+        "lat": 36.2975006104,
+        "long": -77.1708984375,
+        "name": "Tri County ",
+        "state": "North-Carolina"
+    },
+    "KAVL": {
+        "lat": 35.4361991882,
+        "long": -82.5418014526,
+        "name": "Asheville Regional ",
+        "state": "North-Carolina"
+    },
+    "KBUY": {
+        "lat": 36.048500061,
+        "long": -79.474899292,
+        "name": "Burlington Alamance Regional ",
+        "state": "North-Carolina"
+    },
+    "KCLT": {
+        "lat": 35.2140007019,
+        "long": -80.9430999756,
+        "name": "Charlotte Douglas International ",
+        "state": "North-Carolina"
+    },
+    "KCPC": {
+        "lat": 34.27289963,
+        "long": -78.71499634,
+        "name": "Columbus County Municipal ",
+        "state": "North-Carolina"
+    },
+    "KCTZ": {
+        "lat": 34.9756011963,
+        "long": -78.3646011353,
+        "name": "Sampson County ",
+        "state": "North-Carolina"
+    },
+    "KDPL": {
+        "lat": 35.00009918,
+        "long": -77.98169708,
+        "name": "Duplin County ",
+        "state": "North-Carolina"
+    },
+    "KECG": {
+        "lat": 36.26060104,
+        "long": -76.17459869,
+        "name": "Elizabeth City Regional  & Coast Guard Air Station",
+        "state": "North-Carolina"
+    },
+    "KEDE": {
+        "lat": 36.0276985168,
+        "long": -76.5671005249,
+        "name": "Northeastern Regional ",
+        "state": "North-Carolina"
+    },
+    "KEHO": {
+        "lat": 35.25559998,
+        "long": -81.60099792,
+        "name": "Shelby-Cleveland County Regional ",
+        "state": "North-Carolina"
+    },
+    "KEQY": {
+        "lat": 35.01879883,
+        "long": -80.62020111,
+        "name": "Charlotte-Monroe Executive ",
+        "state": "North-Carolina"
+    },
+    "KETC": {
+        "lat": 35.9370994568,
+        "long": -77.5466003418,
+        "name": "Tarboro Edgecombe ",
+        "state": "North-Carolina"
+    },
+    "KEWN": {
+        "lat": 35.0730018616,
+        "long": -77.0429000854,
+        "name": "Coastal Carolina Regional ",
+        "state": "North-Carolina"
+    },
+    "KEXX": {
+        "lat": 35.7811012268,
+        "long": -80.3038024902,
+        "name": "Davidson County ",
+        "state": "North-Carolina"
+    },
+    "KEYF": {
+        "lat": 34.60179901,
+        "long": -78.57929993,
+        "name": "Curtis L Brown Jr Field",
+        "state": "North-Carolina"
+    },
+    "KFAY": {
+        "lat": 34.9911994934,
+        "long": -78.8803024292,
+        "name": "Fayetteville Regional Grannis Field",
+        "state": "North-Carolina"
+    },
+    "KFBG": {
+        "lat": 35.13180161,
+        "long": -78.93669891,
+        "name": "Simmons Army Air Field",
+        "state": "North-Carolina"
+    },
+    "KFFA": {
+        "lat": 36.0181999207,
+        "long": -75.6713027954,
+        "name": "First Flight ",
+        "state": "North-Carolina"
+    },
+    "KFQD": {
+        "lat": 35.42819977,
+        "long": -81.93509674,
+        "name": "Rutherford Co Marchman Field",
+        "state": "North-Carolina"
+    },
+    "KGEV": {
+        "lat": 36.4323997498,
+        "long": -81.4197006226,
+        "name": "Ashe County ",
+        "state": "North-Carolina"
+    },
+    "KGSB": {
+        "lat": 35.33940125,
+        "long": -77.96060181,
+        "name": "Seymour Johnson Air Force Base",
+        "state": "North-Carolina"
+    },
+    "KGSO": {
+        "lat": 36.0978012085,
+        "long": -79.9373016357,
+        "name": "Piedmont Triad International ",
+        "state": "North-Carolina"
+    },
+    "KGWW": {
+        "lat": 35.4606018066,
+        "long": -77.9648971558,
+        "name": "Goldsboro-Wayne Municipal ",
+        "state": "North-Carolina"
+    },
+    "KHBI": {
+        "lat": 35.65449905,
+        "long": -79.8946991,
+        "name": "Asheboro Regional ",
+        "state": "North-Carolina"
+    },
+    "KHFF": {
+        "lat": 35.03649902,
+        "long": -79.49749756,
+        "name": "Mackall Army Air Field",
+        "state": "North-Carolina"
+    },
+    "KHKY": {
+        "lat": 35.74110031,
+        "long": -81.38950348,
+        "name": "Hickory Regional ",
+        "state": "North-Carolina"
+    },
+    "KHNZ": {
+        "lat": 36.36159897,
+        "long": -78.52919769,
+        "name": "Henderson Oxford ",
+        "state": "North-Carolina"
+    },
+    "KHRJ": {
+        "lat": 35.37939835,
+        "long": -78.73300171,
+        "name": "Harnett Regional Jetport ",
+        "state": "North-Carolina"
+    },
+    "KHSE": {
+        "lat": 35.23279953,
+        "long": -75.6177978516,
+        "name": "Billy Mitchell ",
+        "state": "North-Carolina"
+    },
+    "KIGX": {
+        "lat": 35.9350013733,
+        "long": -79.06590271,
+        "name": "Horace Williams ",
+        "state": "North-Carolina"
+    },
+    "KILM": {
+        "lat": 34.2705993652,
+        "long": -77.9026031494,
+        "name": "Wilmington International ",
+        "state": "North-Carolina"
+    },
+    "KINT": {
+        "lat": 36.1337013245,
+        "long": -80.2220001221,
+        "name": "Smith Reynolds ",
+        "state": "North-Carolina"
+    },
+    "KIPJ": {
+        "lat": 35.48329926,
+        "long": -81.16130066,
+        "name": "Lincolnton Lincoln County Regional ",
+        "state": "North-Carolina"
+    },
+    "KISO": {
+        "lat": 35.331401825,
+        "long": -77.6088027954,
+        "name": "Kinston Regional Jetport At Stallings Field",
+        "state": "North-Carolina"
+    },
+    "KIXA": {
+        "lat": 36.32979965,
+        "long": -77.63523102,
+        "name": "Halifax-Northampton Regional ",
+        "state": "North-Carolina"
+    },
+    "KJNX": {
+        "lat": 35.54090118,
+        "long": -78.39029694,
+        "name": "Johnston County ",
+        "state": "North-Carolina"
+    },
+    "KJQF": {
+        "lat": 35.3877983093,
+        "long": -80.7090988159,
+        "name": "Concord Regional ",
+        "state": "North-Carolina"
+    },
+    "KLBT": {
+        "lat": 34.6099014282,
+        "long": -79.0594024658,
+        "name": "Lumberton Municipal ",
+        "state": "North-Carolina"
+    },
+    "KLHZ": {
+        "lat": 36.0233001709,
+        "long": -78.3302993774,
+        "name": "Franklin County ",
+        "state": "North-Carolina"
+    },
+    "KMCZ": {
+        "lat": 35.8622016907,
+        "long": -77.1781997681,
+        "name": "Martin County ",
+        "state": "North-Carolina"
+    },
+    "KMEB": {
+        "lat": 34.79190063,
+        "long": -79.36579895,
+        "name": "Laurinburg Maxton ",
+        "state": "North-Carolina"
+    },
+    "KMQI": {
+        "lat": 35.91899872,
+        "long": -75.69550323,
+        "name": "Dare County Regional ",
+        "state": "North-Carolina"
+    },
+    "KMRH": {
+        "lat": 34.73360062,
+        "long": -76.66059875,
+        "name": "Michael J. Smith Field",
+        "state": "North-Carolina"
+    },
+    "KMRN": {
+        "lat": 35.8202018738,
+        "long": -81.6113967896,
+        "name": "Foothills Regional ",
+        "state": "North-Carolina"
+    },
+    "KMWK": {
+        "lat": 36.45970154,
+        "long": -80.5530014,
+        "name": "Mount Airy Surry County ",
+        "state": "North-Carolina"
+    },
+    "KN52": {
+        "lat": 34.8638000488,
+        "long": -80.7480010986,
+        "name": "Jaars Townsend ",
+        "state": "North-Carolina"
+    },
+    "KNCA": {
+        "lat": 34.70840073,
+        "long": -77.43969727,
+        "name": "New River MCAS /H/ /Mccutcheon Fld/ ",
+        "state": "North-Carolina"
+    },
+    "KNJM": {
+        "lat": 34.69039917,
+        "long": -77.02970123,
+        "name": "Bogue Field Mcalf ",
+        "state": "North-Carolina"
+    },
+    "KNKT": {
+        "lat": 34.90090179,
+        "long": -76.88069916,
+        "name": "Cherry Point MCAS /Cunningham Field/",
+        "state": "North-Carolina"
+    },
+    "KOAJ": {
+        "lat": 34.8292007446,
+        "long": -77.6120986938,
+        "name": "Albert J Ellis ",
+        "state": "North-Carolina"
+    },
+    "KONX": {
+        "lat": 36.39889908,
+        "long": -76.01629639,
+        "name": "Currituck County Regional ",
+        "state": "North-Carolina"
+    },
+    "KPGV": {
+        "lat": 35.6352005,
+        "long": -77.38529968,
+        "name": "Pitt Greenville ",
+        "state": "North-Carolina"
+    },
+    "KPMZ": {
+        "lat": 35.8083992004,
+        "long": -76.7593002319,
+        "name": "Plymouth Municipal ",
+        "state": "North-Carolina"
+    },
+    "KPOB": {
+        "lat": 35.1708984375,
+        "long": -79.014503479,
+        "name": "Pope Air Force Base",
+        "state": "North-Carolina"
+    },
+    "KRCZ": {
+        "lat": 34.8913002,
+        "long": -79.75959778,
+        "name": "Richmond County ",
+        "state": "North-Carolina"
+    },
+    "KRDU": {
+        "lat": 35.8776016235,
+        "long": -78.7874984741,
+        "name": "Raleigh Durham International ",
+        "state": "North-Carolina"
+    },
+    "KRHP": {
+        "lat": 35.19520187,
+        "long": -83.86299896,
+        "name": "Western Carolina Regional ",
+        "state": "North-Carolina"
+    },
+    "KRUQ": {
+        "lat": 35.64590073,
+        "long": -80.52030182,
+        "name": "Rowan County ",
+        "state": "North-Carolina"
+    },
+    "KRWI": {
+        "lat": 35.856300354,
+        "long": -77.8918991089,
+        "name": "Rocky Mount Wilson Regional ",
+        "state": "North-Carolina"
+    },
+    "KRZZ": {
+        "lat": 36.4394989014,
+        "long": -77.7092971802,
+        "name": "Halifax County ",
+        "state": "North-Carolina"
+    },
+    "KSIF": {
+        "lat": 36.43719864,
+        "long": -79.85099792,
+        "name": "Rockingham County Nc Shiloh ",
+        "state": "North-Carolina"
+    },
+    "KSOP": {
+        "lat": 35.23740005,
+        "long": -79.3911972,
+        "name": "Moore County ",
+        "state": "North-Carolina"
+    },
+    "KSUT": {
+        "lat": 33.9292984,
+        "long": -78.07499695,
+        "name": "Brunswick County ",
+        "state": "North-Carolina"
+    },
+    "KSVH": {
+        "lat": 35.7653007507,
+        "long": -80.9539031982,
+        "name": "Statesville Regional ",
+        "state": "North-Carolina"
+    },
+    "KTDF": {
+        "lat": 36.28490067,
+        "long": -78.98419952,
+        "name": "Person County ",
+        "state": "North-Carolina"
+    },
+    "KTTA": {
+        "lat": 35.58369827,
+        "long": -79.10079956,
+        "name": "Sanford-Lee County Regional ",
+        "state": "North-Carolina"
+    },
+    "KUKF": {
+        "lat": 36.2228012085,
+        "long": -81.0982971191,
+        "name": "Wilkes County ",
+        "state": "North-Carolina"
+    },
+    "KVUJ": {
+        "lat": 35.4166984558,
+        "long": -80.1508026123,
+        "name": "Stanly County ",
+        "state": "North-Carolina"
+    },
+    "KW03": {
+        "lat": 35.770401001,
+        "long": -77.9698028564,
+        "name": "Wilson Industrial Air Center ",
+        "state": "North-Carolina"
+    },
+    "KW40": {
+        "lat": 35.22219849,
+        "long": -78.03780365,
+        "name": "Mount Olive Municipal ",
+        "state": "North-Carolina"
+    },
+    "KW95": {
+        "lat": 35.1012001038,
+        "long": -75.966003418,
+        "name": "Ocracoke Island ",
+        "state": "North-Carolina"
+    },
+    "KZEF": {
+        "lat": 36.2799987793,
+        "long": -80.7861022949,
+        "name": "Elkin Municipal ",
+        "state": "North-Carolina"
+    },
+    "NC00": {
+        "lat": 35.5600013733,
+        "long": -79.1936035156,
+        "name": "Moretz Riverside Landing ",
+        "state": "North-Carolina"
+    },
+    "NC01": {
+        "lat": 36.0961990356,
+        "long": -76.3271026611,
+        "name": "Harvey Point Defense Testing Activity ",
+        "state": "North-Carolina"
+    },
+    "NC02": {
+        "lat": 35.212600708,
+        "long": -81.8665008545,
+        "name": "Boomerang ",
+        "state": "North-Carolina"
+    },
+    "NC03": {
+        "lat": 35.9085006714,
+        "long": -79.9872970581,
+        "name": "Darr Field",
+        "state": "North-Carolina"
+    },
+    "NC05": {
+        "lat": 35.4086990356,
+        "long": -80.7941970825,
+        "name": "Bradford Field ",
+        "state": "North-Carolina"
+    },
+    "NC06": {
+        "lat": 36.1604003906,
+        "long": -81.8967971802,
+        "name": "Elk River ",
+        "state": "North-Carolina"
+    },
+    "NC08": {
+        "lat": 35.0853996277,
+        "long": -83.7362976074,
+        "name": "Tusquittee Landing ",
+        "state": "North-Carolina"
+    },
+    "NC09": {
+        "lat": 35.8838996887,
+        "long": -80.7767028809,
+        "name": "Stoneriver ",
+        "state": "North-Carolina"
+    },
+    "NC10": {
+        "lat": 36.5418014526,
+        "long": -78.0579986572,
+        "name": "Nocarva ",
+        "state": "North-Carolina"
+    },
+    "NC11": {
+        "lat": 35.7415008545,
+        "long": -78.924697876,
+        "name": "Deck Airpark",
+        "state": "North-Carolina"
+    },
+    "NC12": {
+        "lat": 35.3895988464,
+        "long": -76.7846984863,
+        "name": "Lee Creek ",
+        "state": "North-Carolina"
+    },
+    "NC13": {
+        "lat": 35.751499176,
+        "long": -79.6706008911,
+        "name": "Yorks Field",
+        "state": "North-Carolina"
+    },
+    "NC14": {
+        "lat": 36.1968002319,
+        "long": -81.639503479,
+        "name": "Boone Inc ",
+        "state": "North-Carolina"
+    },
+    "NC15": {
+        "lat": 35.9570999146,
+        "long": -80.9789962769,
+        "name": "Raeford Rhyne Airpark",
+        "state": "North-Carolina"
+    },
+    "NC16": {
+        "lat": 35.2225990295,
+        "long": -82.7267990112,
+        "name": "Brevard ",
+        "state": "North-Carolina"
+    },
+    "NC17": {
+        "lat": 34.9802017212,
+        "long": -76.3079986572,
+        "name": "Wolf's Den ",
+        "state": "North-Carolina"
+    },
+    "NC18": {
+        "lat": 34.414100647,
+        "long": -77.9496994019,
+        "name": "Brickhouse Field",
+        "state": "North-Carolina"
+    },
+    "NC19": {
+        "lat": 35.3917999268,
+        "long": -80.5755996704,
+        "name": "Propst ",
+        "state": "North-Carolina"
+    },
+    "NC20": {
+        "lat": 35.08727264,
+        "long": -77.16246796,
+        "name": "Canaan Air Base",
+        "state": "North-Carolina"
+    },
+    "NC21": {
+        "lat": 34.9917984009,
+        "long": -80.7483978271,
+        "name": "Aero Plantation ",
+        "state": "North-Carolina"
+    },
+    "NC22": {
+        "lat": 35.2275009155,
+        "long": -78.5551986694,
+        "name": "Charles Field",
+        "state": "North-Carolina"
+    },
+    "NC25": {
+        "lat": 35.5089988708,
+        "long": -80.3112030029,
+        "name": "Gold Hill ",
+        "state": "North-Carolina"
+    },
+    "NC26": {
+        "lat": 35.6609992981,
+        "long": -80.9705963135,
+        "name": "Long Island ",
+        "state": "North-Carolina"
+    },
+    "NC27": {
+        "lat": 35.9445991516,
+        "long": -81.4900970459,
+        "name": "Lower Creek ",
+        "state": "North-Carolina"
+    },
+    "NC28": {
+        "lat": 36.2001991272,
+        "long": -76.2358016968,
+        "name": "Meadstown Airstrip",
+        "state": "North-Carolina"
+    },
+    "NC29": {
+        "lat": 35.620098114,
+        "long": -80.5976028442,
+        "name": "Bradley Field",
+        "state": "North-Carolina"
+    },
+    "NC30": {
+        "lat": 35.6139984131,
+        "long": -80.7415008545,
+        "name": "Miller Air Park",
+        "state": "North-Carolina"
+    },
+    "NC31": {
+        "lat": 35.7649002075,
+        "long": -80.0242004395,
+        "name": "Quiet Acres ",
+        "state": "North-Carolina"
+    },
+    "NC32": {
+        "lat": 36.0257987976,
+        "long": -80.4364013672,
+        "name": "Berts ",
+        "state": "North-Carolina"
+    },
+    "NC34": {
+        "lat": 35.9704017639,
+        "long": -79.1247024536,
+        "name": "Miles ",
+        "state": "North-Carolina"
+    },
+    "NC35": {
+        "lat": 35.4029006958,
+        "long": -80.6220016479,
+        "name": "Spencer ",
+        "state": "North-Carolina"
+    },
+    "NC36": {
+        "lat": 35.5028991699,
+        "long": -78.0302963257,
+        "name": "Benton's Airfield",
+        "state": "North-Carolina"
+    },
+    "NC37": {
+        "lat": 36.3400993347,
+        "long": -79.8411026001,
+        "name": "Mountain View Aerodrome",
+        "state": "North-Carolina"
+    },
+    "NC39": {
+        "lat": 35.5242996216,
+        "long": -80.6477966309,
+        "name": "Enochville ",
+        "state": "North-Carolina"
+    },
+    "NC40": {
+        "lat": 36.4996986389,
+        "long": -79.118598938,
+        "name": "Holeman Field",
+        "state": "North-Carolina"
+    },
+    "NC42": {
+        "lat": 36.072101593,
+        "long": -80.699798584,
+        "name": "Piney Ridge ",
+        "state": "North-Carolina"
+    },
+    "NC43": {
+        "lat": 34.1251983643,
+        "long": -78.3380966187,
+        "name": "Bear Pen ",
+        "state": "North-Carolina"
+    },
+    "NC44": {
+        "lat": 35.4668998718,
+        "long": -78.6838989258,
+        "name": "Barclaysville Field",
+        "state": "North-Carolina"
+    },
+    "NC45": {
+        "lat": 36.2172012329,
+        "long": -77.6374969482,
+        "name": "Enfield-Shearin ",
+        "state": "North-Carolina"
+    },
+    "NC47": {
+        "lat": 35.48279953,
+        "long": -77.353302002,
+        "name": "South Oak Aerodrome",
+        "state": "North-Carolina"
+    },
+    "NC48": {
+        "lat": 34.7501983643,
+        "long": -78.0599975586,
+        "name": "Safe Field",
+        "state": "North-Carolina"
+    },
+    "NC49": {
+        "lat": 35.5278015137,
+        "long": -77.1967010498,
+        "name": "Boyd Field",
+        "state": "North-Carolina"
+    },
+    "NC50": {
+        "lat": 36.4600982666,
+        "long": -81.3615036011,
+        "name": "Skyland ",
+        "state": "North-Carolina"
+    },
+    "NC52": {
+        "lat": 35.7285003662,
+        "long": -81.7289962769,
+        "name": "Silver Creek ",
+        "state": "North-Carolina"
+    },
+    "NC54": {
+        "lat": 34.8777008057,
+        "long": -76.3565979004,
+        "name": "Jackson Private ",
+        "state": "North-Carolina"
+    },
+    "NC56": {
+        "lat": 36.20470047,
+        "long": -78.4689025879,
+        "name": "Deer Run ",
+        "state": "North-Carolina"
+    },
+    "NC58": {
+        "lat": 35.9210014343,
+        "long": -81.1201019287,
+        "name": "Gryder-Teague ",
+        "state": "North-Carolina"
+    },
+    "NC59": {
+        "lat": 35.8507003784,
+        "long": -81.1439971924,
+        "name": "Alexander County ",
+        "state": "North-Carolina"
+    },
+    "NC61": {
+        "lat": 36.459400177,
+        "long": -76.2108001709,
+        "name": "Blackwater Airstrip",
+        "state": "North-Carolina"
+    },
+    "NC63": {
+        "lat": 36.1351013184,
+        "long": -80.1847991943,
+        "name": "Robertson Field",
+        "state": "North-Carolina"
+    },
+    "NC64": {
+        "lat": 35.5278015137,
+        "long": -80.6967010498,
+        "name": "Barringer Field",
+        "state": "North-Carolina"
+    },
+    "NC65": {
+        "lat": 34.5596008301,
+        "long": -78.2680969238,
+        "name": "Yonder ",
+        "state": "North-Carolina"
+    },
+    "NC66": {
+        "lat": 36.1313018799,
+        "long": -77.2957992554,
+        "name": "Ventosa Plantation ",
+        "state": "North-Carolina"
+    },
+    "NC67": {
+        "lat": 35.467778,
+        "long": -82.4525,
+        "name": "Six Oaks ",
+        "state": "North-Carolina"
+    },
+    "NC69": {
+        "lat": 34.8709983826,
+        "long": -78.4741973877,
+        "name": "Twin Oak ",
+        "state": "North-Carolina"
+    },
+    "NC70": {
+        "lat": 34.504901886,
+        "long": -79.1025009155,
+        "name": "Mckee ",
+        "state": "North-Carolina"
+    },
+    "NC71": {
+        "lat": 34.9179000854,
+        "long": -79.0524978638,
+        "name": "E T Field",
+        "state": "North-Carolina"
+    },
+    "NC72": {
+        "lat": 35.451499939,
+        "long": -78.1600036621,
+        "name": "Hinton Field",
+        "state": "North-Carolina"
+    },
+    "NC73": {
+        "lat": 35.4388008118,
+        "long": -76.4494018555,
+        "name": "Hodges Farm ",
+        "state": "North-Carolina"
+    },
+    "NC75": {
+        "lat": 35.8983001709,
+        "long": -80.7202987671,
+        "name": "Schneider Haven Airstrip",
+        "state": "North-Carolina"
+    },
+    "NC76": {
+        "lat": 35.3179016113,
+        "long": -78.387802124,
+        "name": "Massengill ",
+        "state": "North-Carolina"
+    },
+    "NC77": {
+        "lat": 35.4556999207,
+        "long": -80.5755996704,
+        "name": "Chalfant ",
+        "state": "North-Carolina"
+    },
+    "NC78": {
+        "lat": 34.2102012634,
+        "long": -78.9552993774,
+        "name": "Turbeville ",
+        "state": "North-Carolina"
+    },
+    "NC79": {
+        "lat": 35.4071006775,
+        "long": -80.3575973511,
+        "name": "Bear Creek ",
+        "state": "North-Carolina"
+    },
+    "NC81": {
+        "lat": 35.7518005371,
+        "long": -78.859703064,
+        "name": "Cox ",
+        "state": "North-Carolina"
+    },
+    "NC82": {
+        "lat": 34.6696014404,
+        "long": -78.7024993896,
+        "name": "Dublin Field",
+        "state": "North-Carolina"
+    },
+    "NC86": {
+        "lat": 34.7336006165,
+        "long": -78.7530975342,
+        "name": "Rocking A Farm ",
+        "state": "North-Carolina"
+    },
+    "NC87": {
+        "lat": 34.8818016052,
+        "long": -76.9427032471,
+        "name": "Dogwood Farm ",
+        "state": "North-Carolina"
+    },
+    "NC93": {
+        "lat": 35.7778015137,
+        "long": -80.5014038086,
+        "name": "South River ",
+        "state": "North-Carolina"
+    },
+    "NC97": {
+        "lat": 35.3689002991,
+        "long": -81.5224990845,
+        "name": "Dirt Dobber's Grass Strip",
+        "state": "North-Carolina"
+    },
+    "NC99": {
+        "lat": 35.6743011475,
+        "long": -78.6072006226,
+        "name": "Bagwell ",
+        "state": "North-Carolina"
+    },
+    "NR02": {
+        "lat": 35.237778,
+        "long": -79.995556,
+        "name": "Jordan Field",
+        "state": "North-Carolina"
+    },
+    "NR04": {
+        "lat": 35.960278,
+        "long": -81.173056,
+        "name": "Southern Skies Airstrip",
+        "state": "North-Carolina"
+    }
+}

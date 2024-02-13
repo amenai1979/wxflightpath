@@ -1,0 +1,1157 @@
+{
+  "VA1B": {
+    "lat": 19.9946994781,
+    "long": 79.2225036621,
+    "name": "Chanda "
+  },
+  "VA1C": {
+    "lat": 23.4468994141,
+    "long": 75.4203033447,
+    "name": "Birlagram "
+  },
+  "VA1D": {
+    "lat": 24.1252002716,
+    "long": 83.0406036377,
+    "name": "Muirpur "
+  },
+  "VA1E": {
+    "lat": 21.2942008972,
+    "long": 81.3795013428,
+    "name": "Bhilai "
+  },
+  "VA1F": {
+    "lat": 24.402299881,
+    "long": 81.8147964478,
+    "name": "Sidhi "
+  },
+  "VA1G": {
+    "lat": 24.5034008026,
+    "long": 81.2202987671,
+    "name": "Chorhata "
+  },
+  "VA1H": {
+    "lat": 25.141500473,
+    "long": 74.6115036011,
+    "name": "Ondwa "
+  },
+  "VA1J": {
+    "lat": 23.7535991669,
+    "long": 78.855796814,
+    "name": "Dhana "
+  },
+  "VA1K": {
+    "lat": 23.2222995758,
+    "long": 68.8912963867,
+    "name": "Raedhanpur "
+  },
+  "VA1L": {
+    "lat": 21.926399231,
+    "long": 78.1136016846,
+    "name": "Amla "
+  },
+  "VA1M": {
+    "lat": 17.285900116,
+    "long": 74.1580963135,
+    "name": "Karad "
+  },
+  "VA1N": {
+    "lat": 24.4307994843,
+    "long": 74.8677978516,
+    "name": "Nimach "
+  },
+  "VA1O": {
+    "lat": 23.235200882,
+    "long": 81.5037002563,
+    "name": "Burhar "
+  },
+  "VA1P": {
+    "lat": 20.7131004333,
+    "long": 70.9210968018,
+    "name": "Diu "
+  },
+  "VA2A": {
+    "lat": 27.1128997803,
+    "long": 72.388999939,
+    "name": "Phalodi "
+  },
+  "VA2B": {
+    "lat": 28.9048995972,
+    "long": 77.6772994995,
+    "name": "Meerut Sw "
+  },
+  "VA2C": {
+    "lat": 21.5261993408,
+    "long": 80.290397644,
+    "name": "Gondia "
+  },
+  "VA2D": {
+    "lat": 23.3813991547,
+    "long": 75.0255966187,
+    "name": "Ratlam "
+  },
+  "VA38": {
+    "lat": 24.8950996399,
+    "long": 72.8459014893,
+    "name": "Sirohi "
+  },
+  "VA47": {
+    "lat": 20.9622001648,
+    "long": 75.626701355,
+    "name": "Jalgaon "
+  },
+  "VA51": {
+    "lat": 23.5897006989,
+    "long": 74.3126983643,
+    "name": "Banswara "
+  },
+  "VA53": {
+    "lat": 20.9265003204,
+    "long": 74.7370986938,
+    "name": "Dhulia "
+  },
+  "VA74": {
+    "lat": 24.4941997528,
+    "long": 72.78150177,
+    "name": "Abu Road "
+  },
+  "VAAH": {
+    "lat": 23.0771999359,
+    "long": 72.6346969604,
+    "name": "Sardar Vallabhbhai Patel International "
+  },
+  "VAAK": {
+    "lat": 20.6989994049,
+    "long": 77.0586013794,
+    "name": "Akola "
+  },
+  "VAAU": {
+    "lat": 19.8626995087,
+    "long": 75.3981018066,
+    "name": "Aurangabad "
+  },
+  "VABB": {
+    "lat": 19.0886993408,
+    "long": 72.8678970337,
+    "name": "Chhatrapati Shivaji International "
+  },
+  "VABI": {
+    "lat": 21.9883995056,
+    "long": 82.111000061,
+    "name": "Bilaspur "
+  },
+  "VABJ": {
+    "lat": 23.2877998352,
+    "long": 69.6701965332,
+    "name": "Bhuj "
+  },
+  "VABM": {
+    "lat": 15.8592996597,
+    "long": 74.6183013916,
+    "name": "Belgaum "
+  },
+  "VABO": {
+    "lat": 22.3362007141,
+    "long": 73.2263031006,
+    "name": "Vadodara "
+  },
+  "VABP": {
+    "lat": 23.2875003815,
+    "long": 77.3374023438,
+    "name": "Bhopal "
+  },
+  "VABV": {
+    "lat": 21.752199173,
+    "long": 72.1852035522,
+    "name": "Bhavnagar "
+  },
+  "VADN": {
+    "lat": 20.4344005585,
+    "long": 72.8432006836,
+    "name": "Daman "
+  },
+  "VADS": {
+    "lat": 24.2679004669,
+    "long": 72.2043991089,
+    "name": "Deesa "
+  },
+  "VAGN": {
+    "lat": 24.6546993256,
+    "long": 77.3472976685,
+    "name": "Guna "
+  },
+  "VAHB": {
+    "lat": 15.361700058,
+    "long": 75.0848999023,
+    "name": "Hubli "
+  },
+  "VAID": {
+    "lat": 22.7217998505,
+    "long": 75.8011016846,
+    "name": "Devi Ahilyabai Holkar "
+  },
+  "VAJB": {
+    "lat": 23.1777992249,
+    "long": 80.0520019531,
+    "name": "Jabalpur "
+  },
+  "VAJJ": {
+    "lat": 19.0981006622,
+    "long": 72.834197998,
+    "name": "Juhu Aerodrome"
+  },
+  "VAJM": {
+    "lat": 22.4654998779,
+    "long": 70.0126037598,
+    "name": "Jamnagar "
+  },
+  "VAKE": {
+    "lat": 23.1126995087,
+    "long": 70.1003036499,
+    "name": "Kandla "
+  },
+  "VAKJ": {
+    "lat": 24.817199707,
+    "long": 79.9186019897,
+    "name": "Khajuraho "
+  },
+  "VAKP": {
+    "lat": 16.6646995544,
+    "long": 74.2893981934,
+    "name": "Kolhapur "
+  },
+  "VAKS": {
+    "lat": 21.3171005249,
+    "long": 70.270401001,
+    "name": "Keshod "
+  },
+  "VALT": {
+    "lat": 18.4115009308,
+    "long": 76.4646987915,
+    "name": "Murod Kond "
+  },
+  "VAND": {
+    "lat": 19.1833000183,
+    "long": 77.3167037964,
+    "name": "Nanded "
+  },
+  "VANP": {
+    "lat": 21.0921993256,
+    "long": 79.047203064,
+    "name": "Dr. Babasaheb Ambedkar International "
+  },
+  "VANR": {
+    "lat": 19.9636993408,
+    "long": 73.8076019287,
+    "name": "Gandhinagar "
+  },
+  "VAOZ": {
+    "lat": 20.1191005707,
+    "long": 73.912902832,
+    "name": "Ozar Air Force Station"
+  },
+  "VAPO": {
+    "lat": 18.5820999146,
+    "long": 73.9197006226,
+    "name": "Pune "
+  },
+  "VAPR": {
+    "lat": 21.6487007141,
+    "long": 69.6572036743,
+    "name": "Porbandar "
+  },
+  "VARG": {
+    "lat": 17.0135993958,
+    "long": 73.327796936,
+    "name": "Ratnagiri "
+  },
+  "VARK": {
+    "lat": 22.3092002869,
+    "long": 70.7795028687,
+    "name": "Rajkot "
+  },
+  "VARP": {
+    "lat": 21.1804008484,
+    "long": 81.7388000488,
+    "name": "Raipur "
+  },
+  "VASD": {
+    "lat": 19.688611,
+    "long": 74.378889,
+    "name": "Shirdi "
+  },
+  "VASL": {
+    "lat": 17.6280002594,
+    "long": 75.9347991943,
+    "name": "Solapur "
+  },
+  "VASU": {
+    "lat": 21.1140995026,
+    "long": 72.7417984009,
+    "name": "Surat "
+  },
+  "VAUD": {
+    "lat": 24.6177005768,
+    "long": 73.8961029053,
+    "name": "Maharana Pratap "
+  },
+  "VE23": {
+    "lat": 23.6315002441,
+    "long": 86.9755020142,
+    "name": "Burnpur "
+  },
+  "VE24": {
+    "lat": 27.5529003143,
+    "long": 95.570602417,
+    "name": "Sookerating "
+  },
+  "VE36": {
+    "lat": 20.5116996765,
+    "long": 83.448097229,
+    "name": "Nuagaon "
+  },
+  "VE41": {
+    "lat": 24.2019004822,
+    "long": 86.2898025513,
+    "name": "Giridih "
+  },
+  "VE44": {
+    "lat": 26.698299408,
+    "long": 89.369102478,
+    "name": "Hashimara Air Force Station"
+  },
+  "VE54": {
+    "lat": 24.0193004608,
+    "long": 84.0951004028,
+    "name": "Daltonganj "
+  },
+  "VE62": {
+    "lat": 20.5496006012,
+    "long": 85.8862991333,
+    "name": "Cuttack "
+  },
+  "VE67": {
+    "lat": 28.6024580064,
+    "long": 94.1261386871,
+    "name": "Machuka Advanced Landing Ground"
+  },
+  "VE91": {
+    "lat": 27.1935997009,
+    "long": 97.0037002563,
+    "name": "Vijaynagar Advanced Landing Ground"
+  },
+  "VE96": {
+    "lat": 22.0016002655,
+    "long": 78.9171981812,
+    "name": "Thuniabhand "
+  },
+  "VEAL": {
+    "lat": 20.910556,
+    "long": 85.035,
+    "name": "Savitri Jindal "
+  },
+  "VEAN": {
+    "lat": 28.1753005981,
+    "long": 94.8020019531,
+    "name": "Along "
+  },
+  "VEAT": {
+    "lat": 23.8869991302,
+    "long": 91.2404022217,
+    "name": "Agartala "
+  },
+  "VEBA": {
+    "lat": 22.5042304993,
+    "long": 88.2934265137,
+    "name": "Behala "
+  },
+  "VEBD": {
+    "lat": 26.6812000275,
+    "long": 88.3285980225,
+    "name": "Bagdogra "
+  },
+  "VEBG": {
+    "lat": 25.2616996765,
+    "long": 88.7956008911,
+    "name": "Balurghat "
+  },
+  "VEBI": {
+    "lat": 25.7035999298,
+    "long": 91.9786987305,
+    "name": "Shillong "
+  },
+  "VEBK": {
+    "lat": 23.6434993744,
+    "long": 86.1489028931,
+    "name": "Bokaro "
+  },
+  "VEBN": {
+    "lat": 25.451167,
+    "long": 82.858667,
+    "name": "Lal Bahadur Shastri "
+  },
+  "VEBS": {
+    "lat": 20.2444000244,
+    "long": 85.8178024292,
+    "name": "Biju Patnaik "
+  },
+  "VECA": {
+    "lat": 27.4622001648,
+    "long": 95.1176986694,
+    "name": "Chabua Air Force Station"
+  },
+  "VECC": {
+    "lat": 22.6546993256,
+    "long": 88.4467010498,
+    "name": "Netaji Subhash Chandra Bose International "
+  },
+  "VECK": {
+    "lat": 22.4605998993,
+    "long": 86.7078018188,
+    "name": "Chakulia "
+  },
+  "VECO": {
+    "lat": 26.330499649,
+    "long": 89.4672012329,
+    "name": "Cooch Behar "
+  },
+  "VEDB": {
+    "lat": 23.8339996338,
+    "long": 86.4253005981,
+    "name": "Dhanbad "
+  },
+  "VEDH": {
+    "lat": 26.194722,
+    "long": 85.9175,
+    "name": "Darbhanga "
+  },
+  "VEDO": {
+    "lat": 24.444722,
+    "long": 86.7025,
+    "name": "Deoghar "
+  },
+  "VEDX": {
+    "lat": 22.3395004272,
+    "long": 87.2145004272,
+    "name": "Kalaikunda Air Force Station"
+  },
+  "VEDZ": {
+    "lat": 27.9855003357,
+    "long": 94.2228012085,
+    "name": "Daporijo "
+  },
+  "VEGK": {
+    "lat": 26.7397003174,
+    "long": 83.4496994019,
+    "name": "Gorakhpur "
+  },
+  "VEGT": {
+    "lat": 26.1061000824,
+    "long": 91.585899353,
+    "name": "Lokpriya Gopinath Bordoloi International "
+  },
+  "VEGY": {
+    "lat": 24.7443008423,
+    "long": 84.9512023926,
+    "name": "Gaya "
+  },
+  "VEHK": {
+    "lat": 21.5802001953,
+    "long": 84.0056991577,
+    "name": "Hirakud "
+  },
+  "VEIM": {
+    "lat": 24.7600002289,
+    "long": 93.896697998,
+    "name": "Imphal "
+  },
+  "VEJH": {
+    "lat": 21.9134998322,
+    "long": 84.0503997803,
+    "name": "Jharsuguda "
+  },
+  "VEJP": {
+    "lat": 18.8799991608,
+    "long": 82.5520019531,
+    "name": "Jeypore "
+  },
+  "VEJS": {
+    "lat": 22.8131999969,
+    "long": 86.168800354,
+    "name": "Jamshedpur "
+  },
+  "VEJT": {
+    "lat": 26.7315006256,
+    "long": 94.1754989624,
+    "name": "Jorhat "
+  },
+  "VEKM": {
+    "lat": 24.1317005157,
+    "long": 91.814201355,
+    "name": "Kamalpur "
+  },
+  "VEKR": {
+    "lat": 24.3082008362,
+    "long": 92.0072021484,
+    "name": "Kailashahar "
+  },
+  "VEKU": {
+    "lat": 24.9129009247,
+    "long": 92.9786987305,
+    "name": "Silchar "
+  },
+  "VEKW": {
+    "lat": 24.0618991852,
+    "long": 91.6038970947,
+    "name": "Khowai "
+  },
+  "VELP": {
+    "lat": 23.8405990601,
+    "long": 92.6196975708,
+    "name": "Lengpui "
+  },
+  "VELR": {
+    "lat": 27.2954998016,
+    "long": 94.0976028442,
+    "name": "North Lakhimpur "
+  },
+  "VEMH": {
+    "lat": 25.033000946,
+    "long": 88.1330032349,
+    "name": "Malda "
+  },
+  "VEMN": {
+    "lat": 27.4839000702,
+    "long": 95.0168991089,
+    "name": "Dibrugarh "
+  },
+  "VEMR": {
+    "lat": 25.8838996887,
+    "long": 93.7711029053,
+    "name": "Dimapur "
+  },
+  "VEMZ": {
+    "lat": 26.1191005707,
+    "long": 85.3136978149,
+    "name": "Muzaffarpur "
+  },
+  "VENP": {
+    "lat": 20.8700008392,
+    "long": 82.5195999146,
+    "name": "Nawapara "
+  },
+  "VEPG": {
+    "lat": 28.0660991669,
+    "long": 95.3356018066,
+    "name": "Pasighat "
+  },
+  "VEPH": {
+    "lat": 23.4743003845,
+    "long": 87.4274978638,
+    "name": "Panagarh Air Force Station"
+  },
+  "VEPI": {
+    "lat": 22.7810001373,
+    "long": 88.3591995239,
+    "name": "Barrackpore Air Force Station"
+  },
+  "VEPT": {
+    "lat": 25.591299057,
+    "long": 85.0879974365,
+    "name": "Lok Nayak Jayaprakash "
+  },
+  "VEPU": {
+    "lat": 25.7595996857,
+    "long": 87.4100036621,
+    "name": "Purnea "
+  },
+  "VERC": {
+    "lat": 23.3143005371,
+    "long": 85.3217010498,
+    "name": "Birsa Munda "
+  },
+  "VERK": {
+    "lat": 22.2567005157,
+    "long": 84.8145980835,
+    "name": "Rourkela "
+  },
+  "VERL": {
+    "lat": 26.9666996002,
+    "long": 84.8332977295,
+    "name": "Raxaul "
+  },
+  "VERU": {
+    "lat": 26.1396999359,
+    "long": 89.9100036621,
+    "name": "Rupsi India "
+  },
+  "VETJ": {
+    "lat": 27.9412002563,
+    "long": 96.1343994141,
+    "name": "Tezu "
+  },
+  "VETZ": {
+    "lat": 26.7091007233,
+    "long": 92.7846984863,
+    "name": "Tezpur "
+  },
+  "VEUK": {
+    "lat": 20.0974006653,
+    "long": 83.1837997437,
+    "name": "Utkela "
+  },
+  "VEVZ": {
+    "lat": 17.721200943,
+    "long": 83.2245025635,
+    "name": "Vishakhapatnam "
+  },
+  "VEZO": {
+    "lat": 27.588300705,
+    "long": 93.8281021118,
+    "name": "Zero "
+  },
+  "VI20": {
+    "lat": 28.0771007538,
+    "long": 76.2050018311,
+    "name": "Bhilwara "
+  },
+  "VI40": {
+    "lat": 29.714099884,
+    "long": 77.0374984741,
+    "name": "Karnal "
+  },
+  "VI43": {
+    "lat": 29.3878002167,
+    "long": 73.9039001465,
+    "name": "Suratgarh New "
+  },
+  "VI57": {
+    "lat": 34.6525993347,
+    "long": 77.3758010864,
+    "name": "Thoise "
+  },
+  "VI65": {
+    "lat": 34.5242996216,
+    "long": 76.1558990479,
+    "name": "Kargil "
+  },
+  "VI66": {
+    "lat": 32.9374008179,
+    "long": 79.2132034302,
+    "name": "Fukche Advanced Landing Ground"
+  },
+  "VI69": {
+    "lat": 28.1067008972,
+    "long": 75.3756027222,
+    "name": "Jhunjhunu "
+  },
+  "VI70": {
+    "lat": 28.3488006592,
+    "long": 75.5936965942,
+    "name": "Pilani New "
+  },
+  "VI71": {
+    "lat": 30.8245697021,
+    "long": 76.8836517334,
+    "name": "Kalka "
+  },
+  "VI73": {
+    "lat": 27.2082996368,
+    "long": 73.7114028931,
+    "name": "Nagaur "
+  },
+  "VI75": {
+    "lat": 26.5203990936,
+    "long": 80.2329025269,
+    "name": "Kalyanpur "
+  },
+  "VI76": {
+    "lat": 26.0000991821,
+    "long": 78.2618026733,
+    "name": "Band Tal "
+  },
+  "VI82": {
+    "lat": 30.5828990936,
+    "long": 78.3234024048,
+    "name": "Bharkot "
+  },
+  "VI88": {
+    "lat": 31.5599994659,
+    "long": 75.3413009644,
+    "name": "Jallowal "
+  },
+  "VI90": {
+    "lat": 26.447599411,
+    "long": 82.5681991577,
+    "name": "Akbarpur "
+  },
+  "VIAG": {
+    "lat": 27.1557998657,
+    "long": 77.960899353,
+    "name": "Agra "
+  },
+  "VIAH": {
+    "lat": 27.860856311,
+    "long": 78.1468677521,
+    "name": "Dhanipur Airstrip"
+  },
+  "VIAL": {
+    "lat": 25.4400997162,
+    "long": 81.7339019775,
+    "name": "Allahabad "
+  },
+  "VIAM": {
+    "lat": 30.3680992126,
+    "long": 76.8167037964,
+    "name": "Ambala Air Force Station"
+  },
+  "VIAR": {
+    "lat": 31.7096004486,
+    "long": 74.7973022461,
+    "name": "Sri Guru Ram Dass Jee International  Amritsar"
+  },
+  "VIAW": {
+    "lat": 33.8765983582,
+    "long": 74.9757003784,
+    "name": "Awantipur Air Force Station"
+  },
+  "VIAX": {
+    "lat": 31.4337997437,
+    "long": 75.7587966919,
+    "name": "Adampur Air Force Station"
+  },
+  "VIBK": {
+    "lat": 28.0706005096,
+    "long": 73.2071990967,
+    "name": "Nal "
+  },
+  "VIBL": {
+    "lat": 26.9883003235,
+    "long": 80.8930969238,
+    "name": "Bakshi Ka Talab Air Force Station"
+  },
+  "VIBN": {
+    "lat": 25.4524002075,
+    "long": 82.8592987061,
+    "name": "Lal Bahadur Shastri "
+  },
+  "VIBR": {
+    "lat": 31.8766994476,
+    "long": 77.1544036865,
+    "name": "Kullu Manali "
+  },
+  "VIBT": {
+    "lat": 30.2700996399,
+    "long": 74.7557983398,
+    "name": "Bhatinda Air Force Station"
+  },
+  "VIBW": {
+    "lat": 28.8369998932,
+    "long": 76.1791000366,
+    "name": "Bhiwani "
+  },
+  "VIBY": {
+    "lat": 28.4221000671,
+    "long": 79.4507980347,
+    "name": "Bareilly Air Force Station"
+  },
+  "VICG": {
+    "lat": 30.673500061,
+    "long": 76.7884979248,
+    "name": "Chandigarh "
+  },
+  "VICX": {
+    "lat": 26.4043006897,
+    "long": 80.4101028442,
+    "name": "Chakeri Air Force Station"
+  },
+  "VIDD": {
+    "lat": 28.5844993591,
+    "long": 77.2058029175,
+    "name": "Safdarjung "
+  },
+  "VIDF": {
+    "lat": 29.5935993195,
+    "long": 80.2391967773,
+    "name": "Pithorgarh "
+  },
+  "VIDN": {
+    "lat": 30.189699173,
+    "long": 78.1802978516,
+    "name": "Dehradun "
+  },
+  "VIDP": {
+    "lat": 28.5664997101,
+    "long": 77.1031036377,
+    "name": "Indira Gandhi International "
+  },
+  "VIDX": {
+    "lat": 28.7077007294,
+    "long": 77.3589019775,
+    "name": "Hindon Air Force Station"
+  },
+  "VIGG": {
+    "lat": 32.1651000977,
+    "long": 76.2633972168,
+    "name": "Kangra "
+  },
+  "VIGR": {
+    "lat": 26.2933006287,
+    "long": 78.2277984619,
+    "name": "Gwalior "
+  },
+  "VIHR": {
+    "lat": 29.1793994904,
+    "long": 75.7553024292,
+    "name": "Hissar "
+  },
+  "VIHX": {
+    "lat": 30.748500824,
+    "long": 75.6297988892,
+    "name": "Halwara Air Force Station"
+  },
+  "VIJN": {
+    "lat": 25.4911994934,
+    "long": 78.5584030151,
+    "name": "Jhansi "
+  },
+  "VIJO": {
+    "lat": 26.2511005402,
+    "long": 73.0488967896,
+    "name": "Jodhpur "
+  },
+  "VIJP": {
+    "lat": 26.8241996765,
+    "long": 75.8122024536,
+    "name": "Jaipur International "
+  },
+  "VIJR": {
+    "lat": 26.8887004852,
+    "long": 70.8649978638,
+    "name": "Jaisalmer "
+  },
+  "VIJU": {
+    "lat": 32.6890983582,
+    "long": 74.8374023438,
+    "name": "Jammu "
+  },
+  "VIKA": {
+    "lat": 26.441400528,
+    "long": 80.3648986816,
+    "name": "Kanpur "
+  },
+  "VIKG": {
+    "lat": 26.591167,
+    "long": 74.816167,
+    "name": "Kishangarh , Ajmer"
+  },
+  "VIKO": {
+    "lat": 25.160200119,
+    "long": 75.8455963135,
+    "name": "Kota "
+  },
+  "VILD": {
+    "lat": 30.8547000885,
+    "long": 75.9525985718,
+    "name": "Ludhiana "
+  },
+  "VILH": {
+    "lat": 34.1358985901,
+    "long": 77.5465011597,
+    "name": "Leh Kushok Bakula Rimpochee "
+  },
+  "VILK": {
+    "lat": 26.7605991364,
+    "long": 80.8892974854,
+    "name": "Chaudhary Charan Singh International "
+  },
+  "VILP": {
+    "lat": 24.716999054,
+    "long": 78.4169998169,
+    "name": "Lalitpur "
+  },
+  "VIPK": {
+    "lat": 32.2337989807,
+    "long": 75.6345977783,
+    "name": "Pathankot Air Force Station"
+  },
+  "VIPL": {
+    "lat": 30.3148002625,
+    "long": 76.3645019531,
+    "name": "Patiala "
+  },
+  "VIPT": {
+    "lat": 29.0333995819,
+    "long": 79.4737014771,
+    "name": "Pantnagar "
+  },
+  "VIRB": {
+    "lat": 26.248500824,
+    "long": 81.3805007935,
+    "name": "Fursatganj "
+  },
+  "VISA": {
+    "lat": 29.5606002808,
+    "long": 75.0061035156,
+    "name": "Sirsa Air Force Station"
+  },
+  "VISM": {
+    "lat": 31.0818004608,
+    "long": 77.0680007935,
+    "name": "Shimla "
+  },
+  "VISP": {
+    "lat": 29.9939002991,
+    "long": 77.4253005981,
+    "name": "Sarsawa Air Force Station"
+  },
+  "VISR": {
+    "lat": 33.9870986938,
+    "long": 74.7742004395,
+    "name": "Sheikh ul Alam "
+  },
+  "VIST": {
+    "lat": 24.5622997284,
+    "long": 80.8548965454,
+    "name": "Satna "
+  },
+  "VIUT": {
+    "lat": 25.8129997253,
+    "long": 71.4822998047,
+    "name": "Uttarlai "
+  },
+  "VIUX": {
+    "lat": 32.9021987915,
+    "long": 75.1561965942,
+    "name": "Udhampur Air Force Station"
+  },
+  "VO26": {
+    "lat": 9.1538896561,
+    "long": 77.8211975098,
+    "name": "Kovilpatti "
+  },
+  "VO52": {
+    "lat": 14.5350999832,
+    "long": 75.787399292,
+    "name": "Harihar "
+  },
+  "VO94": {
+    "lat": 7.0130400658,
+    "long": 93.9227981567,
+    "name": "Campbell Bay "
+  },
+  "VO95": {
+    "lat": 12.6612997055,
+    "long": 77.7671966553,
+    "name": "Hosur "
+  },
+  "VOAR": {
+    "lat": 13.0712003708,
+    "long": 79.6912002563,
+    "name": "Arkonam "
+  },
+  "VOAT": {
+    "lat": 10.8236999512,
+    "long": 72.1760025024,
+    "name": "Agatti "
+  },
+  "VOBG": {
+    "lat": 12.9499998093,
+    "long": 77.6681976318,
+    "name": "HAL "
+  },
+  "VOBI": {
+    "lat": 15.1627998352,
+    "long": 76.8827972412,
+    "name": "Bellary "
+  },
+  "VOBL": {
+    "lat": 13.1978998184,
+    "long": 77.7062988281,
+    "name": "Bengaluru International "
+  },
+  "VOBR": {
+    "lat": 17.9081001282,
+    "long": 77.4870986938,
+    "name": "Bidar Air Force Station"
+  },
+  "VOBZ": {
+    "lat": 16.5303993225,
+    "long": 80.7967987061,
+    "name": "Vijayawada "
+  },
+  "VOCB": {
+    "lat": 11.029999733,
+    "long": 77.0434036255,
+    "name": "Coimbatore International "
+  },
+  "VOCC": {
+    "lat": 9.9473896027,
+    "long": 76.2731018066,
+    "name": "Willingdon Island Air Base"
+  },
+  "VOCI": {
+    "lat": 10.1520004272,
+    "long": 76.4019012451,
+    "name": "Cochin International "
+  },
+  "VOCL": {
+    "lat": 11.1367998123,
+    "long": 75.9552993774,
+    "name": "Calicut International "
+  },
+  "VOCP": {
+    "lat": 14.5100002289,
+    "long": 78.7727966309,
+    "name": "Cuddapah "
+  },
+  "VOCX": {
+    "lat": 9.1525096893,
+    "long": 92.8196029663,
+    "name": "Car Nicobar Air Force Station"
+  },
+  "VODG": {
+    "lat": 17.627199173,
+    "long": 78.4033966064,
+    "name": "Dundigul Air Force Academy"
+  },
+  "VODK": {
+    "lat": 15.8330001831,
+    "long": 79.5,
+    "name": "Dunakonda "
+  },
+  "VOGO": {
+    "lat": 15.380833,
+    "long": 73.827,
+    "name": "Dabolim "
+  },
+  "VOHK": {
+    "lat": 17.5534992218,
+    "long": 78.5249023438,
+    "name": "Hakimpet "
+  },
+  "VOHS": {
+    "lat": 17.2313175201,
+    "long": 78.4298553467,
+    "name": "Rajiv Gandhi International  Shamshabad"
+  },
+  "VOHY": {
+    "lat": 17.4531002045,
+    "long": 78.4675979614,
+    "name": "Begumpet "
+  },
+  "VOJV": {
+    "lat": 15.1749666667,
+    "long": 76.6349472222,
+    "name": "Vijayanagar Aerodrome (JSW)"
+  },
+  "VOKN": {
+    "lat": 11.92,
+    "long": 75.55,
+    "name": "Kannur International "
+  },
+  "VOKP": {
+    "lat": 15.3591003418,
+    "long": 76.2192993164,
+    "name": "Koppal Aerodrome"
+  },
+  "VOMD": {
+    "lat": 9.8345098496,
+    "long": 78.0933990479,
+    "name": "Madurai "
+  },
+  "VOML": {
+    "lat": 12.9612998962,
+    "long": 74.8900985718,
+    "name": "Mangalore International "
+  },
+  "VOMM": {
+    "lat": 12.9900054932,
+    "long": 80.1692962646,
+    "name": "Chennai International "
+  },
+  "VOMY": {
+    "lat": 12.3072004318,
+    "long": 76.6496963501,
+    "name": "Mysore "
+  },
+  "VONS": {
+    "lat": 16.5426998138,
+    "long": 79.3187026978,
+    "name": "Nagarjuna Sagar "
+  },
+  "VOPB": {
+    "lat": 11.6412000656,
+    "long": 92.7296981812,
+    "name": "Vir Savarkar International "
+  },
+  "VOPC": {
+    "lat": 11.9687004089,
+    "long": 79.8100967407,
+    "name": "Pondicherry "
+  },
+  "VORM": {
+    "lat": 9.3250904083,
+    "long": 78.971496582,
+    "name": "Ramnad Naval Air Station"
+  },
+  "VORY": {
+    "lat": 17.1103992462,
+    "long": 81.8181991577,
+    "name": "Rajahmundry "
+  },
+  "VOSM": {
+    "lat": 11.7833003998,
+    "long": 78.0655975342,
+    "name": "Salem "
+  },
+  "VOSX": {
+    "lat": 11.0136003494,
+    "long": 77.1596984863,
+    "name": "Coimbatore Air Force Station"
+  },
+  "VOTJ": {
+    "lat": 10.7223997116,
+    "long": 79.101600647,
+    "name": "Tanjore Air Force Base"
+  },
+  "VOTK": {
+    "lat": 8.724167,
+    "long": 78.025833,
+    "name": "Tuticorin "
+  },
+  "VOTP": {
+    "lat": 13.6324996948,
+    "long": 79.543296814,
+    "name": "Tirupati "
+  },
+  "VOTR": {
+    "lat": 10.7653999329,
+    "long": 78.7097015381,
+    "name": "Tiruchirapally Civil  "
+  },
+  "VOTV": {
+    "lat": 8.4821195602,
+    "long": 76.9200973511,
+    "name": "Trivandrum International "
+  },
+  "VOTX": {
+    "lat": 12.9071998596,
+    "long": 80.1219024658,
+    "name": "Tambaram Air Force Station"
+  },
+  "VOVR": {
+    "lat": 12.9088001251,
+    "long": 79.0668029785,
+    "name": "Vellore "
+  },
+  "VOWA": {
+    "lat": 17.9144001007,
+    "long": 79.6022033691,
+    "name": "Warangal "
+  },
+  "VOYK": {
+    "lat": 13.1354999542,
+    "long": 77.6060028076,
+    "name": "Yelahanka Air Force Station"
+  }
+}

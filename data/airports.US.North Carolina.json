@@ -1,0 +1,908 @@
+{
+    "00NC": {
+        "lat": 36.0852012634,
+        "long": -78.3713989258,
+        "name": "North Raleigh ",
+        "state": "North Carolina"
+    },
+    "01NC": {
+        "lat": 34.4752998352,
+        "long": -77.5813980103,
+        "name": "Topsail Airpark",
+        "state": "North Carolina"
+    },
+    "03NC": {
+        "lat": 34.1043014526,
+        "long": -77.9041976929,
+        "name": "Pilots Ridge ",
+        "state": "North Carolina"
+    },
+    "06NC": {
+        "lat": 34.8274993896,
+        "long": -78.9302978516,
+        "name": "Tailwinds ",
+        "state": "North Carolina"
+    },
+    "07NC": {
+        "lat": 34.8331985474,
+        "long": -80.7511978149,
+        "name": "Hawks Meadow ",
+        "state": "North Carolina"
+    },
+    "08NC": {
+        "lat": 36.0676002502,
+        "long": -80.4655990601,
+        "name": "Whiteheart Farm ",
+        "state": "North Carolina"
+    },
+    "09NC": {
+        "lat": 35.3292999268,
+        "long": -79.0299987793,
+        "name": "William Irving Lewis ",
+        "state": "North Carolina"
+    },
+    "0NC1": {
+        "lat": 35.4570999146,
+        "long": -82.3753967285,
+        "name": "Bearwallow Farm ",
+        "state": "North Carolina"
+    },
+    "0NC7": {
+        "lat": 36.3572006226,
+        "long": -79.9974975586,
+        "name": "Lindsay ",
+        "state": "North Carolina"
+    },
+    "0NC8": {
+        "lat": 35.7556991577,
+        "long": -80.7352981567,
+        "name": "Double Creek Ranch ",
+        "state": "North Carolina"
+    },
+    "10NC": {
+        "lat": 36.3431015015,
+        "long": -77.5093994141,
+        "name": "Johnston Farm ",
+        "state": "North Carolina"
+    },
+    "12NC": {
+        "lat": 34.8833007812,
+        "long": -76.3499984741,
+        "name": "Atlantic Field Mcolf ",
+        "state": "North Carolina"
+    },
+    "13NC": {
+        "lat": 35.0335006714,
+        "long": -77.2497024536,
+        "name": "Oak Grove Mcolf ",
+        "state": "North Carolina"
+    },
+    "14NC": {
+        "lat": 34.5167007446,
+        "long": -77.5500030518,
+        "name": "Camp Davis Mcolf ",
+        "state": "North Carolina"
+    },
+    "15NC": {
+        "lat": 36.2397003174,
+        "long": -76.9738998413,
+        "name": "Dragonfly Field",
+        "state": "North Carolina"
+    },
+    "16NC": {
+        "lat": 36.1960983276,
+        "long": -76.6652984619,
+        "name": "Lee's ",
+        "state": "North Carolina"
+    },
+    "17NC": {
+        "lat": 34.4663009644,
+        "long": -78.3285980225,
+        "name": "Mitchell Field",
+        "state": "North Carolina"
+    },
+    "18NC": {
+        "lat": 35.888999939,
+        "long": -81.6137008667,
+        "name": "Lanni Field",
+        "state": "North Carolina"
+    },
+    "19NC": {
+        "lat": 36.0648994446,
+        "long": -77.922996521,
+        "name": "Double S ",
+        "state": "North Carolina"
+    },
+    "1NC0": {
+        "lat": 35.7220993042,
+        "long": -79.9413986206,
+        "name": "Delk's ",
+        "state": "North Carolina"
+    },
+    "1NC1": {
+        "lat": 35.8119010925,
+        "long": -79.2386016846,
+        "name": "Ron's Ultralight Field",
+        "state": "North Carolina"
+    },
+    "1NC2": {
+        "lat": 35.6547012329,
+        "long": -80.7893981934,
+        "name": "Atwell ",
+        "state": "North Carolina"
+    },
+    "1NC3": {
+        "lat": 36.1806983948,
+        "long": -76.1491012573,
+        "name": "Fletcher's ",
+        "state": "North Carolina"
+    },
+    "1NC4": {
+        "lat": 34.9953994751,
+        "long": -77.2576980591,
+        "name": "Bell Strip",
+        "state": "North Carolina"
+    },
+    "1NC5": {
+        "lat": 35.9332008362,
+        "long": -78.3486022949,
+        "name": "Riley Field",
+        "state": "North Carolina"
+    },
+    "1NC6": {
+        "lat": 35.0559997559,
+        "long": -80.4501037598,
+        "name": "Arant ",
+        "state": "North Carolina"
+    },
+    "1NC8": {
+        "lat": 35.5158004761,
+        "long": -80.258102417,
+        "name": "Lonesome Field",
+        "state": "North Carolina"
+    },
+    "1NC9": {
+        "lat": 35.4496994019,
+        "long": -81.426399231,
+        "name": "Northbrook International Ultraport Ultralightport",
+        "state": "North Carolina"
+    },
+    "20NC": {
+        "lat": 35.5923995972,
+        "long": -81.0559005737,
+        "name": "Mountain View ",
+        "state": "North Carolina"
+    },
+    "22NC": {
+        "lat": 35.8210983276,
+        "long": -79.4682998657,
+        "name": "Flying Dove Field",
+        "state": "North Carolina"
+    },
+    "22NR": {
+        "lat": 36.153611,
+        "long": -79.400556,
+        "name": "Bully Field",
+        "state": "North Carolina"
+    },
+    "23NR": {
+        "lat": 35.560556,
+        "long": -76.234722,
+        "name": "Whitfield'S East ",
+        "state": "North Carolina"
+    },
+    "24NC": {
+        "lat": 35.1272010803,
+        "long": -80.4749984741,
+        "name": "Mc Gee Field",
+        "state": "North Carolina"
+    },
+    "25NC": {
+        "lat": 35.6333007813,
+        "long": -79.7099990845,
+        "name": "Smith Air Strip",
+        "state": "North Carolina"
+    },
+    "26NC": {
+        "lat": 36.2229003906,
+        "long": -80.7155990601,
+        "name": "Boonville ",
+        "state": "North Carolina"
+    },
+    "27NR": {
+        "lat": 35.4687616608,
+        "long": -78.6520028114,
+        "name": "Angier (C A G Farms) ",
+        "state": "North Carolina"
+    },
+    "29NC": {
+        "lat": 35.3116989136,
+        "long": -81.6252975464,
+        "name": "29NC ",
+        "state": "North Carolina"
+    },
+    "2NC0": {
+        "lat": 35.8686981201,
+        "long": -82.341796875,
+        "name": "Mountain Air ",
+        "state": "North Carolina"
+    },
+    "2NC1": {
+        "lat": 34.9973983765,
+        "long": -80.8009033203,
+        "name": "Hawk's Knoll ",
+        "state": "North Carolina"
+    },
+    "2NC4": {
+        "lat": 35.3378982544,
+        "long": -78.1547012329,
+        "name": "Scottbrook Farm ",
+        "state": "North Carolina"
+    },
+    "2NC6": {
+        "lat": 35.7995986938,
+        "long": -80.3962020874,
+        "name": "Flying M ",
+        "state": "North Carolina"
+    },
+    "2NC7": {
+        "lat": 36.1679000854,
+        "long": -77.3989028931,
+        "name": "Scotland Neck East ",
+        "state": "North Carolina"
+    },
+    "2NC8": {
+        "lat": 35.5253982544,
+        "long": -80.6398010254,
+        "name": "Goodnight's ",
+        "state": "North Carolina"
+    },
+    "30NC": {
+        "lat": 36.0485992432,
+        "long": -80.4569015503,
+        "name": "Happy Bottom ",
+        "state": "North Carolina"
+    },
+    "32NC": {
+        "lat": 34.8964004517,
+        "long": -79.0430984497,
+        "name": "Hall Field",
+        "state": "North Carolina"
+    },
+    "33NC": {
+        "lat": 34.4268989563,
+        "long": -78.0894012451,
+        "name": "Pettigrew Moore Aerodrome",
+        "state": "North Carolina"
+    },
+    "33NR": {
+        "lat": 35.941667,
+        "long": -82.506667,
+        "name": "Wolf Ridge ",
+        "state": "North Carolina"
+    },
+    "35NC": {
+        "lat": 35.5382995605,
+        "long": -80.7514038086,
+        "name": "Johnston ",
+        "state": "North Carolina"
+    },
+    "36NC": {
+        "lat": 36.2536010742,
+        "long": -79.9080963135,
+        "name": "Greensboro North ",
+        "state": "North Carolina"
+    },
+    "38SC": {
+        "lat": 35.177778,
+        "long": -81.747778,
+        "name": "La Dolce Terra ",
+        "state": "North Carolina"
+    },
+    "3NC0": {
+        "lat": 35.6903991699,
+        "long": -81.7123031616,
+        "name": "Clyde Valley ",
+        "state": "North Carolina"
+    },
+    "3NC1": {
+        "lat": 36.2053985596,
+        "long": -80.6584014893,
+        "name": "Welborn Farm ",
+        "state": "North Carolina"
+    },
+    "3NC3": {
+        "lat": 35.2468986511,
+        "long": -80.4075012207,
+        "name": "Tucker Field",
+        "state": "North Carolina"
+    },
+    "3NC4": {
+        "lat": 35.05350113,
+        "long": -80.40899658,
+        "name": "Mc Donald Field",
+        "state": "North Carolina"
+    },
+    "3NC5": {
+        "lat": 35.8121986389,
+        "long": -81.0699996948,
+        "name": "Flying Bj ",
+        "state": "North Carolina"
+    },
+    "3NC6": {
+        "lat": 35.3117980957,
+        "long": -80.644203186,
+        "name": "Mc Cachren Field",
+        "state": "North Carolina"
+    },
+    "3NC7": {
+        "lat": 36.5192985535,
+        "long": -81.1367034912,
+        "name": "Maxwell ",
+        "state": "North Carolina"
+    },
+    "3NC9": {
+        "lat": 35.8750991821,
+        "long": -79.0871963501,
+        "name": "Womble Field",
+        "state": "North Carolina"
+    },
+    "3NR3": {
+        "lat": 35.270278,
+        "long": -82.644167,
+        "name": "Transylvania County ",
+        "state": "North Carolina"
+    },
+    "41NC": {
+        "lat": 35.5218009949,
+        "long": -80.5220031738,
+        "name": "Sloop ",
+        "state": "North Carolina"
+    },
+    "42NC": {
+        "lat": 35.9578018188,
+        "long": -78.1706008911,
+        "name": "Spring Paths ",
+        "state": "North Carolina"
+    },
+    "43NC": {
+        "lat": 36.0208015442,
+        "long": -80.5164031982,
+        "name": "Bahnson ",
+        "state": "North Carolina"
+    },
+    "44NC": {
+        "lat": 35.5433006287,
+        "long": -80.6519012451,
+        "name": "Broadway Airfield",
+        "state": "North Carolina"
+    },
+    "45NC": {
+        "lat": 36.5280990601,
+        "long": -77.4546966553,
+        "name": "Glover ",
+        "state": "North Carolina"
+    },
+    "46NC": {
+        "lat": 34.8927993774,
+        "long": -80.373298645,
+        "name": "Brown Field",
+        "state": "North Carolina"
+    },
+    "47NC": {
+        "lat": 35.1380996704,
+        "long": -78.8227996826,
+        "name": "Windemere ",
+        "state": "North Carolina"
+    },
+    "48NC": {
+        "lat": 35.7817001343,
+        "long": -80.4169006348,
+        "name": "Morrison Field",
+        "state": "North Carolina"
+    },
+    "4NC0": {
+        "lat": 35.8984985352,
+        "long": -80.6162033081,
+        "name": "Boyd's Hawks Creek ",
+        "state": "North Carolina"
+    },
+    "4NC2": {
+        "lat": 35.207698822,
+        "long": -76.612197876,
+        "name": "Bay Creek ",
+        "state": "North Carolina"
+    },
+    "4NC3": {
+        "lat": 35.9308013916,
+        "long": -81.1967010498,
+        "name": "Taylorsville ",
+        "state": "North Carolina"
+    },
+    "4NC5": {
+        "lat": 34.7304000854,
+        "long": -77.0504989624,
+        "name": "Triple M ",
+        "state": "North Carolina"
+    },
+    "4NC6": {
+        "lat": 35.4445991516,
+        "long": -82.479598999,
+        "name": "Cane Creek ",
+        "state": "North Carolina"
+    },
+    "4NC7": {
+        "lat": 35.6963005066,
+        "long": -78.5374984741,
+        "name": "Peacock STOLport",
+        "state": "North Carolina"
+    },
+    "4NC8": {
+        "lat": 35.4224014282,
+        "long": -80.6205978394,
+        "name": "Buffalo Creek ",
+        "state": "North Carolina"
+    },
+    "4NC9": {
+        "lat": 35.4485015869,
+        "long": -80.3425979614,
+        "name": "Lz Carroll STOLport",
+        "state": "North Carolina"
+    },
+    "50NC": {
+        "lat": 35.5449981689,
+        "long": -80.6686019897,
+        "name": "Ervin Airfield",
+        "state": "North Carolina"
+    },
+    "51NC": {
+        "lat": 35.8619003296,
+        "long": -78.3486022949,
+        "name": "Field of Dreams ",
+        "state": "North Carolina"
+    },
+    "52NC": {
+        "lat": 34.8446006775,
+        "long": -77.2667007446,
+        "name": "Epley ",
+        "state": "North Carolina"
+    },
+    "53NC": {
+        "lat": 34.3781013489,
+        "long": -79.0805969238,
+        "name": "Mynatt Field",
+        "state": "North Carolina"
+    },
+    "54NC": {
+        "lat": 36.2393989563,
+        "long": -76.4171981812,
+        "name": "Dillard ",
+        "state": "North Carolina"
+    },
+    "56NC": {
+        "lat": 35.2066993713,
+        "long": -82.0318984985,
+        "name": "Wheat Field",
+        "state": "North Carolina"
+    },
+    "57NC": {
+        "lat": 35.4264984131,
+        "long": -83.4581985474,
+        "name": "Sossamon Field",
+        "state": "North Carolina"
+    },
+    "58NC": {
+        "lat": 35.3468017578,
+        "long": -82.0550994873,
+        "name": "Fox Haven Plantation STOLport",
+        "state": "North Carolina"
+    },
+    "59NC": {
+        "lat": 36.0974006653,
+        "long": -79.5552978516,
+        "name": "Mclean Brothers ",
+        "state": "North Carolina"
+    },
+    "5NC1": {
+        "lat": 35.7932014465,
+        "long": -80.512298584,
+        "name": "Tara Airbase ",
+        "state": "North Carolina"
+    },
+    "5NC2": {
+        "lat": 34.8763008118,
+        "long": -80.6192016602,
+        "name": "Lathan Strip",
+        "state": "North Carolina"
+    },
+    "5NC3": {
+        "lat": 35.3417015076,
+        "long": -79.4368972778,
+        "name": "Gilliam-Mc Connell Airfield",
+        "state": "North Carolina"
+    },
+    "5NC5": {
+        "lat": 35.9814987183,
+        "long": -79.2731018066,
+        "name": "The Duchy ",
+        "state": "North Carolina"
+    },
+    "60NC": {
+        "lat": 34.7052001953,
+        "long": -77.0511016846,
+        "name": "Star Hill Golf Club ",
+        "state": "North Carolina"
+    },
+    "61NC": {
+        "lat": 34.8712997437,
+        "long": -78.9655990601,
+        "name": "Southern Comforts Aerodrome",
+        "state": "North Carolina"
+    },
+    "62NC": {
+        "lat": 34.9367980957,
+        "long": -76.9447021484,
+        "name": "Hickory Hill ",
+        "state": "North Carolina"
+    },
+    "63NC": {
+        "lat": 35.8362998962,
+        "long": -77.9963989258,
+        "name": "Wood ",
+        "state": "North Carolina"
+    },
+    "64NC": {
+        "lat": 35.9019012451,
+        "long": -79.7724990845,
+        "name": "Fields ",
+        "state": "North Carolina"
+    },
+    "66NC": {
+        "lat": 35.1744003296,
+        "long": -77.4835968018,
+        "name": "Hood Field",
+        "state": "North Carolina"
+    },
+    "67NC": {
+        "lat": 34.9700012207,
+        "long": -80.0289001465,
+        "name": "Hightower Areo Plantation ",
+        "state": "North Carolina"
+    },
+    "68NC": {
+        "lat": 36.3996009827,
+        "long": -79.1280975342,
+        "name": "Winstead '76' ",
+        "state": "North Carolina"
+    },
+    "69NC": {
+        "lat": 35.4339981079,
+        "long": -81.8511962891,
+        "name": "Clute's Hilltop ",
+        "state": "North Carolina"
+    },
+    "6NC0": {
+        "lat": 35.289100647,
+        "long": -78.1800003052,
+        "name": "Cox-Grantham Airfield",
+        "state": "North Carolina"
+    },
+    "6NC1": {
+        "lat": 35.5917015076,
+        "long": -81.0793991089,
+        "name": "Little Mountain ",
+        "state": "North Carolina"
+    },
+    "6NC2": {
+        "lat": 35.5111999512,
+        "long": -80.5580978394,
+        "name": "Wilhelm ",
+        "state": "North Carolina"
+    },
+    "6NC3": {
+        "lat": 35.0863990784,
+        "long": -78.7722015381,
+        "name": "Eastover Air Ranch ",
+        "state": "North Carolina"
+    },
+    "6NC4": {
+        "lat": 35.9057006836,
+        "long": -81.139503479,
+        "name": "Brown STOLport",
+        "state": "North Carolina"
+    },
+    "6NC5": {
+        "lat": 36.0178985596,
+        "long": -77.6619033813,
+        "name": "Thompson Farms ",
+        "state": "North Carolina"
+    },
+    "6NC7": {
+        "lat": 34.7513999939,
+        "long": -76.9060974121,
+        "name": "Circle P Farm ",
+        "state": "North Carolina"
+    },
+    "6NC8": {
+        "lat": 35.9382019043,
+        "long": -80.3844985962,
+        "name": "Marchmont Plantation Airpark",
+        "state": "North Carolina"
+    },
+    "6NC9": {
+        "lat": 35.2020988464,
+        "long": -77.75050354,
+        "name": "Moss Hill ",
+        "state": "North Carolina"
+    },
+    "71NC": {
+        "lat": 36.2633018494,
+        "long": -79.4496994019,
+        "name": "K & D ",
+        "state": "North Carolina"
+    },
+    "74NC": {
+        "lat": 35.0964012146,
+        "long": -76.629699707,
+        "name": "Benton Farm ",
+        "state": "North Carolina"
+    },
+    "75NC": {
+        "lat": 35.8493003845,
+        "long": -78.1836013794,
+        "name": "Jw Stone ",
+        "state": "North Carolina"
+    },
+    "76NC": {
+        "lat": 36.1599006653,
+        "long": -77.6247024536,
+        "name": "Dunroamin Farms ",
+        "state": "North Carolina"
+    },
+    "77NC": {
+        "lat": 34.1520996094,
+        "long": -78.1054992676,
+        "name": "Winnabow ",
+        "state": "North Carolina"
+    },
+    "78NC": {
+        "lat": 35.5443000793,
+        "long": -78.7474975586,
+        "name": "Fuquay/Angier Field",
+        "state": "North Carolina"
+    },
+    "79NC": {
+        "lat": 36.1343002319,
+        "long": -78.2818984985,
+        "name": "Ball ",
+        "state": "North Carolina"
+    },
+    "7NC0": {
+        "lat": 35.1585006714,
+        "long": -76.7627029419,
+        "name": "Pamlico ",
+        "state": "North Carolina"
+    },
+    "7NC1": {
+        "lat": 34.5279006958,
+        "long": -77.8503036499,
+        "name": "Stag Air Park",
+        "state": "North Carolina"
+    },
+    "7NC2": {
+        "lat": 36.2535018921,
+        "long": -75.7884979248,
+        "name": "Pine Island ",
+        "state": "North Carolina"
+    },
+    "7NC3": {
+        "lat": 35.596389,
+        "long": -78.098611,
+        "name": "Kenly ",
+        "state": "North Carolina"
+    },
+    "7NC5": {
+        "lat": 35.9337997437,
+        "long": -78.2466964722,
+        "name": "Crooked Creek ",
+        "state": "North Carolina"
+    },
+    "7NC6": {
+        "lat": 36.0554008484,
+        "long": -79.3266983032,
+        "name": "Kimrey ",
+        "state": "North Carolina"
+    },
+    "7NC7": {
+        "lat": 36.3468017578,
+        "long": -80.1736984253,
+        "name": "Lewis Airstrip",
+        "state": "North Carolina"
+    },
+    "7NC8": {
+        "lat": 35.5349006653,
+        "long": -78.6964035034,
+        "name": "Fish Airpark",
+        "state": "North Carolina"
+    },
+    "7NC9": {
+        "lat": 35.7274017334,
+        "long": -79.9111022949,
+        "name": "Spencer Field",
+        "state": "North Carolina"
+    },
+    "80NC": {
+        "lat": 35.9990005493,
+        "long": -79.6893005371,
+        "name": "May ",
+        "state": "North Carolina"
+    },
+    "81NC": {
+        "lat": 34.0408325195,
+        "long": -78.7399978638,
+        "name": "Cox Field",
+        "state": "North Carolina"
+    },
+    "82NC": {
+        "lat": 35.3081016541,
+        "long": -79.0733032227,
+        "name": "Pineview Air ",
+        "state": "North Carolina"
+    },
+    "84NC": {
+        "lat": 35.273333,
+        "long": -79.248611,
+        "name": "Rooster Field",
+        "state": "North Carolina"
+    },
+    "85NC": {
+        "lat": 35.4291992188,
+        "long": -83.1668014526,
+        "name": "Reagans Roost Ultralightport",
+        "state": "North Carolina"
+    },
+    "86NC": {
+        "lat": 36.2635993958,
+        "long": -76.4933013916,
+        "name": "Craig Craft ",
+        "state": "North Carolina"
+    },
+    "87NC": {
+        "lat": 34.916111,
+        "long": -78.600277,
+        "name": "Brocks ",
+        "state": "North Carolina"
+    },
+    "88NC": {
+        "lat": 35.6324996948,
+        "long": -80.6853027344,
+        "name": "Corriher Field",
+        "state": "North Carolina"
+    },
+    "89NC": {
+        "lat": 34.2663993835,
+        "long": -79.0235977173,
+        "name": "Strickland Field",
+        "state": "North Carolina"
+    },
+    "8NC1": {
+        "lat": 35.3763008118,
+        "long": -79.2408981323,
+        "name": "Dean Wings Past ",
+        "state": "North Carolina"
+    },
+    "8NC2": {
+        "lat": 35.2892990112,
+        "long": -81.7851028442,
+        "name": "Summey Airpark",
+        "state": "North Carolina"
+    },
+    "8NC3": {
+        "lat": 34.5661010742,
+        "long": -77.4405975342,
+        "name": "Winding Creek ",
+        "state": "North Carolina"
+    },
+    "8NC4": {
+        "lat": 35.7299003601,
+        "long": -79.3127975464,
+        "name": "Dead Dog ",
+        "state": "North Carolina"
+    },
+    "8NC5": {
+        "lat": 34.5760993958,
+        "long": -79.2488021851,
+        "name": "Adams ",
+        "state": "North Carolina"
+    },
+    "8NC6": {
+        "lat": 35.6896018982,
+        "long": -79.4069976807,
+        "name": "Brooks Field",
+        "state": "North Carolina"
+    },
+    "8NC7": {
+        "lat": 34.9364013672,
+        "long": -77.2767028809,
+        "name": "Parker Field",
+        "state": "North Carolina"
+    },
+    "8NC8": {
+        "lat": 36.0601005554,
+        "long": -78.7833023071,
+        "name": "Lake Ridge Aero Park ",
+        "state": "North Carolina"
+    },
+    "8NC9": {
+        "lat": 35.3072013855,
+        "long": -82.4336013794,
+        "name": "W.N.C. Air Museum ",
+        "state": "North Carolina"
+    },
+    "94NC": {
+        "lat": 35.009601593,
+        "long": -79.2600021362,
+        "name": "Viking ",
+        "state": "North Carolina"
+    },
+    "9NC0": {
+        "lat": 35.7976989746,
+        "long": -78.43699646,
+        "name": "Raleigh East ",
+        "state": "North Carolina"
+    },
+    "9NC2": {
+        "lat": 35.2182006836,
+        "long": -78.7964019775,
+        "name": "Flyers Airpark",
+        "state": "North Carolina"
+    },
+    "9NC3": {
+        "lat": 35.0708007813,
+        "long": -80.5663986206,
+        "name": "Edwards ",
+        "state": "North Carolina"
+    },
+    "9NC4": {
+        "lat": 36.5093994141,
+        "long": -76.6641998291,
+        "name": "Jiles Field",
+        "state": "North Carolina"
+    },
+    "9NC6": {
+        "lat": 34.2748985291,
+        "long": -78.1607971191,
+        "name": "Sandy Run Acres ",
+        "state": "North Carolina"
+    },
+    "9NC7": {
+        "lat": 35.3697013855,
+        "long": -80.4400024414,
+        "name": "Willow Creek ",
+        "state": "North Carolina"
+    },
+    "9NC8": {
+        "lat": 35.6869010925,
+        "long": -79.2188034058,
+        "name": "Eagles Landing ",
+        "state": "North Carolina"
+    },
+    "9NC9": {
+        "lat": 36.2100982666,
+        "long": -79.8949966431,
+        "name": "Meylor Field",
+        "state": "North Carolina"
+    },
+    "9NR7": {
+        "lat": 35.018333,
+        "long": -78.565833,
+        "name": "Triple F Airpark",
+        "state": "North Carolina"
+    },
+    "9NR8": {
+        "lat": 34.793333,
+        "long": -79.193611,
+        "name": "Buie Field",
+        "state": "North Carolina"
+    }
+}

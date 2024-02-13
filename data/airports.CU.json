@@ -1,0 +1,262 @@
+{
+  "MUAT": {
+    "lat": 20.8388004303,
+    "long": -75.7328033447,
+    "name": "Antilla "
+  },
+  "MUBA": {
+    "lat": 20.3652992249,
+    "long": -74.5062026978,
+    "name": "Gustavo Rizo "
+  },
+  "MUBE": {
+    "lat": 22.3512001038,
+    "long": -83.3990020752,
+    "name": "El Caribe "
+  },
+  "MUBO": {
+    "lat": 22.7185993195,
+    "long": -82.2686004639,
+    "name": "Batabano "
+  },
+  "MUBR": {
+    "lat": 22.6212997437,
+    "long": -79.1472015381,
+    "name": "Las Brujas "
+  },
+  "MUBY": {
+    "lat": 20.3964004517,
+    "long": -76.6213989258,
+    "name": "Carlos Manuel de Cespedes "
+  },
+  "MUCA": {
+    "lat": 22.0270996094,
+    "long": -78.7895965576,
+    "name": "Maximo Gomez "
+  },
+  "MUCB": {
+    "lat": 22.5063991547,
+    "long": -79.4698028564,
+    "name": "Caibarien "
+  },
+  "MUCC": {
+    "lat": 22.4610004425,
+    "long": -78.3283996582,
+    "name": "Jardines Del Rey "
+  },
+  "MUCD": {
+    "lat": 21.8211994171,
+    "long": -78.7566986084,
+    "name": "Ciego De Avila Sur "
+  },
+  "MUCF": {
+    "lat": 22.1499996185,
+    "long": -80.4141998291,
+    "name": "Jaime Gonzalez "
+  },
+  "MUCL": {
+    "lat": 21.6165008545,
+    "long": -81.5459976196,
+    "name": "Vilo Acuna International "
+  },
+  "MUCM": {
+    "lat": 21.42029953,
+    "long": -77.8475036621,
+    "name": "Ignacio Agramonte International "
+  },
+  "MUCO": {
+    "lat": 22.7110996246,
+    "long": -80.9227981567,
+    "name": "Colon "
+  },
+  "MUCU": {
+    "lat": 19.9698009491,
+    "long": -75.8354034424,
+    "name": "Antonio Maceo International "
+  },
+  "MUCV": {
+    "lat": 22.2287006378,
+    "long": -84.3720016479,
+    "name": "Las Clavellinas "
+  },
+  "MUCY": {
+    "lat": 22.8644447327,
+    "long": -82.8558349609,
+    "name": "Cayajabo "
+  },
+  "MUFL": {
+    "lat": 21.4997005463,
+    "long": -78.202796936,
+    "name": "Florida "
+  },
+  "MUGA": {
+    "lat": 21.5499992371,
+    "long": -78.2333297729,
+    "name": "Central Agramonte "
+  },
+  "MUGM": {
+    "lat": 19.9064998627,
+    "long": -75.2070999146,
+    "name": "Leeward Point Field"
+  },
+  "MUGT": {
+    "lat": 20.0853004456,
+    "long": -75.1583023071,
+    "name": "Mariana Grajales "
+  },
+  "MUGV": {
+    "lat": 21.1116008759,
+    "long": -75.8198013306,
+    "name": "Guardalavaca "
+  },
+  "MUHA": {
+    "lat": 22.989200592,
+    "long": -82.4091033936,
+    "name": "Jose Marti International "
+  },
+  "MUHG": {
+    "lat": 20.7856006622,
+    "long": -76.3151016235,
+    "name": "Frank Pais International "
+  },
+  "MUIV": {
+    "lat": 21.5538005829,
+    "long": -77.2585983276,
+    "name": "Nuevitas "
+  },
+  "MUKW": {
+    "lat": 23.1240005493,
+    "long": -81.3015975952,
+    "name": "Kawama "
+  },
+  "MULB": {
+    "lat": 23.0939006805,
+    "long": -82.4381027222,
+    "name": "Ciudad Libertad "
+  },
+  "MULM": {
+    "lat": 22.3360996246,
+    "long": -83.6418991089,
+    "name": "La Coloma "
+  },
+  "MUMA": {
+    "lat": 20.2506008148,
+    "long": -74.1504974365,
+    "name": "Punta de Maisi "
+  },
+  "MUMG": {
+    "lat": 22.9699001312,
+    "long": -82.2748031616,
+    "name": "Managua "
+  },
+  "MUMH": {
+    "lat": 22.5874996185,
+    "long": -83.9449996948,
+    "name": "Matahambre "
+  },
+  "MUMJ": {
+    "lat": 22.2308006287,
+    "long": -79.0622024536,
+    "name": "Mayajigua "
+  },
+  "MUMO": {
+    "lat": 20.6539001465,
+    "long": -74.922203064,
+    "name": "Orestes Acosta "
+  },
+  "MUMT": {
+    "lat": 23.0100002289,
+    "long": -81.5100021362,
+    "name": "Matanzas "
+  },
+  "MUMZ": {
+    "lat": 20.2880992889,
+    "long": -77.0892028809,
+    "name": "Sierra Maestra "
+  },
+  "MUNB": {
+    "lat": 22.7560997009,
+    "long": -81.9208984375,
+    "name": "San Nicolas De Bari "
+  },
+  "MUNC": {
+    "lat": 20.6886005402,
+    "long": -75.53150177,
+    "name": "Nicaro "
+  },
+  "MUNG": {
+    "lat": 21.8346996307,
+    "long": -82.7837982178,
+    "name": "Rafael Cabrera "
+  },
+  "MUPA": {
+    "lat": 22.3799991608,
+    "long": -78.8174972534,
+    "name": "Punta Alegre "
+  },
+  "MUPB": {
+    "lat": 23.0328006744,
+    "long": -82.5793991089,
+    "name": "Playa Baracoa "
+  },
+  "MUPR": {
+    "lat": 22.4214000702,
+    "long": -83.6783981323,
+    "name": "Pinar Del Rio "
+  },
+  "MUSA": {
+    "lat": 22.8715000153,
+    "long": -82.5093002319,
+    "name": "San Antonio De Los Banos "
+  },
+  "MUSC": {
+    "lat": 22.4922008514,
+    "long": -79.9436035156,
+    "name": "Abel Santamaria "
+  },
+  "MUSG": {
+    "lat": 22.8015995026,
+    "long": -80.0548019409,
+    "name": "Sagua La Grande "
+  },
+  "MUSJ": {
+    "lat": 22.0953006744,
+    "long": -84.1520004272,
+    "name": "San Julian Air Base"
+  },
+  "MUSL": {
+    "lat": 21.5094559067,
+    "long": -77.0205974579,
+    "name": "Joaquin de Aguero "
+  },
+  "MUSN": {
+    "lat": 21.6424999237,
+    "long": -82.9551010132,
+    "name": "Siguanea "
+  },
+  "MUSS": {
+    "lat": 21.9703998566,
+    "long": -79.4427032471,
+    "name": "Sancti Spiritus "
+  },
+  "MUTD": {
+    "lat": 21.7882995605,
+    "long": -79.9972000122,
+    "name": "Alberto Delgado "
+  },
+  "MUTI": {
+    "lat": 21.3106994629,
+    "long": -76.9201965332,
+    "name": "Manati "
+  },
+  "MUVR": {
+    "lat": 23.0344009399,
+    "long": -81.4353027344,
+    "name": "Juan Gualberto Gomez International "
+  },
+  "MUVT": {
+    "lat": 20.9876003265,
+    "long": -76.935798645,
+    "name": "Hermanos Ameijeiras "
+  }
+}

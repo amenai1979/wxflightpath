@@ -1,0 +1,164 @@
+{
+    "00SC": {
+        "lat": 34.0093994141,
+        "long": -80.2671966553,
+        "name": "Flying O ",
+        "state": "South Carolina"
+    },
+    "01SC": {
+        "lat": 35.0321006775,
+        "long": -81.2527999878,
+        "name": "York ",
+        "state": "South Carolina"
+    },
+    "02SC": {
+        "lat": 32.7584991455,
+        "long": -81.2248001099,
+        "name": "Harpers ",
+        "state": "South Carolina"
+    },
+    "12SC": {
+        "lat": 34.1413993835,
+        "long": -80.7466964722,
+        "name": "Over the Hill ",
+        "state": "South Carolina"
+    },
+    "16SC": {
+        "lat": 34.6250991821,
+        "long": -81.898399353,
+        "name": "Southern Aero Sports ",
+        "state": "South Carolina"
+    },
+    "17SC": {
+        "lat": 34.5326004028,
+        "long": -81.8861999512,
+        "name": "Carolina Cow Country ",
+        "state": "South Carolina"
+    },
+    "18SC": {
+        "lat": 34.2739982605,
+        "long": -81.773399353,
+        "name": "Connelly Field",
+        "state": "South Carolina"
+    },
+    "19SC": {
+        "lat": 34.353833,
+        "long": -81.802358,
+        "name": "Sexton ",
+        "state": "South Carolina"
+    },
+    "1SC2": {
+        "lat": 33.9337997437,
+        "long": -80.7960968018,
+        "name": "Gwinn Field",
+        "state": "South Carolina"
+    },
+    "20SC": {
+        "lat": 35.0065002441,
+        "long": -82.2642974854,
+        "name": "O Neal Field",
+        "state": "South Carolina"
+    },
+    "21SC": {
+        "lat": 34.3479003906,
+        "long": -79.8799972534,
+        "name": "Graham ",
+        "state": "South Carolina"
+    },
+    "24SC": {
+        "lat": 33.935798645,
+        "long": -81.4297027588,
+        "name": "The Farm ",
+        "state": "South Carolina"
+    },
+    "25SC": {
+        "lat": 34.960556,
+        "long": -82.339444,
+        "name": "Mountain Ridge ",
+        "state": "South Carolina"
+    },
+    "29SC": {
+        "lat": 32.9014015198,
+        "long": -80.8535995483,
+        "name": "Hannah Rhea Field",
+        "state": "South Carolina"
+    },
+    "2SC5": {
+        "lat": 34.2916984558,
+        "long": -82.0539016724,
+        "name": "Ridgewood Air ",
+        "state": "South Carolina"
+    },
+    "2SC7": {
+        "lat": 33.051700592,
+        "long": -79.5413970947,
+        "name": "Laurel Hill Farms ",
+        "state": "South Carolina"
+    },
+    "2SC8": {
+        "lat": 33.7868003845,
+        "long": -81.0948028564,
+        "name": "Gaston ",
+        "state": "South Carolina"
+    },
+    "2SC9": {
+        "lat": 33.750278,
+        "long": -79.957778,
+        "name": "Mcintosh ",
+        "state": "South Carolina"
+    },
+    "3SC2": {
+        "lat": 33.601944,
+        "long": -80.306111,
+        "name": "Yahu Field",
+        "state": "South Carolina"
+    },
+    "3SC4": {
+        "lat": 34.773601532,
+        "long": -81.9863967896,
+        "name": "Crooked Fence Farm ",
+        "state": "South Carolina"
+    },
+    "3SC7": {
+        "lat": 33.5396995544,
+        "long": -79.5318984985,
+        "name": "Jordan ",
+        "state": "South Carolina"
+    },
+    "46SC": {
+        "lat": 35.1391983032,
+        "long": -81.695602417,
+        "name": "Gaffney ",
+        "state": "South Carolina"
+    },
+    "4SC4": {
+        "lat": 34.7653007507,
+        "long": -82.6911010742,
+        "name": "Davis Field",
+        "state": "South Carolina"
+    },
+    "4SC7": {
+        "lat": 33.5783004761,
+        "long": -81.5117034912,
+        "name": "Wexford Landing ",
+        "state": "South Carolina"
+    },
+    "51SC": {
+        "lat": 33.14220047,
+        "long": -80.9555969238,
+        "name": "Moccasin Creek ",
+        "state": "South Carolina"
+    },
+    "6SC1": {
+        "lat": 33.3692016602,
+        "long": -80.2232971191,
+        "name": "Lesesne ",
+        "state": "South Carolina"
+    },
+    "99SC": {
+        "lat": 33.689167,
+        "long": -80.688611,
+        "name": "St. Mathews ",
+        "state": "South Carolina"
+    }
+}

@@ -1,0 +1,177 @@
+{
+  "FEFA": {
+    "lat": 5.0163898468,
+    "long": 21.1996994019,
+    "name": "Alindao "
+  },
+  "FEFB": {
+    "lat": 5.403888889,
+    "long": 26.487222222,
+    "name": "Poste "
+  },
+  "FEFC": {
+    "lat": 4.9369997978,
+    "long": 15.8940000534,
+    "name": "Carnot "
+  },
+  "FEFD": {
+    "lat": 4.9499998093,
+    "long": 18.7000007629,
+    "name": "Damara "
+  },
+  "FEFE": {
+    "lat": 4.3746500015,
+    "long": 21.1319007874,
+    "name": "Mobaye Mbanga "
+  },
+  "FEFF": {
+    "lat": 4.3984799385,
+    "long": 18.5188007355,
+    "name": "Bangui M'Poko International "
+  },
+  "FEFG": {
+    "lat": 4.7849998474,
+    "long": 22.7810001373,
+    "name": "Bangassou "
+  },
+  "FEFI": {
+    "lat": 10.2363996506,
+    "long": 22.7168998718,
+    "name": "Birao "
+  },
+  "FEFK": {
+    "lat": 4.5999999046,
+    "long": 21.8670005798,
+    "name": "Kembe "
+  },
+  "FEFL": {
+    "lat": 5.2670001984,
+    "long": 17.6329994202,
+    "name": "Bossembele "
+  },
+  "FEFM": {
+    "lat": 5.8469400406,
+    "long": 20.6474990845,
+    "name": "Bambari "
+  },
+  "FEFN": {
+    "lat": 8.4272060394,
+    "long": 20.6351566315,
+    "name": "N'Dele "
+  },
+  "FEFO": {
+    "lat": 5.9580001831,
+    "long": 15.6370000839,
+    "name": "Bouar "
+  },
+  "FEFP": {
+    "lat": 7.25,
+    "long": 16.4330005646,
+    "name": "Paoua "
+  },
+  "FEFQ": {
+    "lat": 6.9829998016,
+    "long": 19.1830005646,
+    "name": "Kaga-Bandoro "
+  },
+  "FEFR": {
+    "lat": 6.527780056,
+    "long": 21.9894008636,
+    "name": "Bria "
+  },
+  "FEFS": {
+    "lat": 6.492000103,
+    "long": 17.4290008545,
+    "name": "Bossangoa "
+  },
+  "FEFT": {
+    "lat": 4.2215800285,
+    "long": 15.7863998413,
+    "name": "Berberati "
+  },
+  "FEFU": {
+    "lat": 5.7329998016,
+    "long": 19.0830001831,
+    "name": "Sibut "
+  },
+  "FEFW": {
+    "lat": 8.0105600357,
+    "long": 22.3985996246,
+    "name": "Ouadda "
+  },
+  "FEFY": {
+    "lat": 6.5199999809,
+    "long": 23.2600002289,
+    "name": "Yalinga "
+  },
+  "FEFZ": {
+    "lat": 5.0500001907,
+    "long": 25.1499996185,
+    "name": "Zemio "
+  },
+  "FEGB": {
+    "lat": 5.4330000877,
+    "long": 27.216999054,
+    "name": "Bambouli "
+  },
+  "FEGC": {
+    "lat": 6.9169998169,
+    "long": 15.6169996262,
+    "name": "Bocaranga "
+  },
+  "FEGD": {
+    "lat": 6.3000001907,
+    "long": 19.0830001831,
+    "name": "Dekoa "
+  },
+  "FEGE": {
+    "lat": 5.3330101967,
+    "long": 25.9319000244,
+    "name": "M'Boki "
+  },
+  "FEGF": {
+    "lat": 7.3141098022,
+    "long": 18.3087997437,
+    "name": "Batangafo "
+  },
+  "FEGG": {
+    "lat": 4.132999897,
+    "long": 15.1499996185,
+    "name": "Gamboula "
+  },
+  "FEGI": {
+    "lat": 5.6830000877,
+    "long": 20.0499992371,
+    "name": "Grimari "
+  },
+  "FEGL": {
+    "lat": 9.5830001831,
+    "long": 21.7329998016,
+    "name": "Gordil "
+  },
+  "FEGM": {
+    "lat": 5.6939997673,
+    "long": 22.8010005951,
+    "name": "Bakouma "
+  },
+  "FEGO": {
+    "lat": 8.8999996185,
+    "long": 22.783000946,
+    "name": "Ouanda Djalle "
+  },
+  "FEGR": {
+    "lat": 4.9886097908,
+    "long": 23.9277992249,
+    "name": "Rafai "
+  },
+  "FEGU": {
+    "lat": 6.5170001984,
+    "long": 18.2670001984,
+    "name": "Bouca "
+  },
+  "FEGZ": {
+    "lat": 6.3441700935,
+    "long": 16.3218994141,
+    "name": "Bozoum "
+  }
+}

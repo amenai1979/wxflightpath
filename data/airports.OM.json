@@ -1,0 +1,102 @@
+{
+  "OOBR": {
+    "lat": 24.2329998016,
+    "long": 55.783000946,
+    "name": "Buraimi "
+  },
+  "OODQ": {
+    "lat": 19.5019,
+    "long": 57.6342,
+    "name": "Duqm International "
+  },
+  "OOFD": {
+    "lat": 22.354759318,
+    "long": 56.4841461182,
+    "name": "Fahud "
+  },
+  "OOFQ": {
+    "lat": 22.8691997528,
+    "long": 57.5433006287,
+    "name": "Firq Air Base"
+  },
+  "OOGB": {
+    "lat": 21.3829994202,
+    "long": 57.0499992371,
+    "name": "Qarn Alam "
+  },
+  "OOHA": {
+    "lat": 19.966999054,
+    "long": 56.283000946,
+    "name": "Haima "
+  },
+  "OOIA": {
+    "lat": 22.7327777778,
+    "long": 58.5136111111,
+    "name": "Ibra "
+  },
+  "OOIZ": {
+    "lat": 22.8917007446,
+    "long": 57.7583007813,
+    "name": "Izki Air Base"
+  },
+  "OOKB": {
+    "lat": 26.170999527,
+    "long": 56.2406005859,
+    "name": "Khasab Air Base"
+  },
+  "OOLK": {
+    "lat": 22.8049846844,
+    "long": 55.3733682632,
+    "name": "Lekhwair "
+  },
+  "OOMA": {
+    "lat": 20.6753997803,
+    "long": 58.890499115,
+    "name": "Masirah Air Base"
+  },
+  "OOMS": {
+    "lat": 23.5932998657,
+    "long": 58.2844009399,
+    "name": "Muscat International "
+  },
+  "OOMX": {
+    "lat": 18.1359996796,
+    "long": 55.1820983887,
+    "name": "Marmul "
+  },
+  "OORQ": {
+    "lat": 23.6405555556,
+    "long": 57.4875,
+    "name": "Rustaq "
+  },
+  "OOSA": {
+    "lat": 17.0387001038,
+    "long": 54.0913009644,
+    "name": "Salalah "
+  },
+  "OOSH": {
+    "lat": 24.4641666667,
+    "long": 56.6283333333,
+    "name": "Sohar "
+  },
+  "OOSQ": {
+    "lat": 23.0669994354,
+    "long": 57.6500015259,
+    "name": "Saiq "
+  },
+  "OOSR": {
+    "lat": 22.533000946,
+    "long": 59.483001709,
+    "name": "Sur "
+  },
+  "OOTH": {
+    "lat": 17.6660003662,
+    "long": 54.0246009827,
+    "name": "Thumrait Air Base"
+  },
+  "OOYB": {
+    "lat": 22.201499939,
+    "long": 56.0344009399,
+    "name": "Yibal "
+  }
+}

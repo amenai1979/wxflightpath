@@ -1,0 +1,1257 @@
+{
+  "EG02": {
+    "lat": 52.0091365357,
+    "long": 0.224275589,
+    "name": "Audley End Airfield"
+  },
+  "EG03": {
+    "lat": 51.5484166846,
+    "long": -2.3031806946,
+    "name": "Badminton Airfield"
+  },
+  "EG10": {
+    "lat": 53.8023996399,
+    "long": -0.9159636498,
+    "name": "Breighton Airfield"
+  },
+  "EG11": {
+    "lat": 51.2918749964,
+    "long": 0.999584198,
+    "name": "Canterbury Airfield"
+  },
+  "EG12": {
+    "lat": 52.893807,
+    "long": 1.32106,
+    "name": "Cromer/Northrepps Aerodrome"
+  },
+  "EG18": {
+    "lat": 55.2804841148,
+    "long": -1.7148971558,
+    "name": "Eshott Airfield"
+  },
+  "EG19": {
+    "lat": 54.3080863149,
+    "long": -0.9831047058,
+    "name": "Fadmoor Airfield"
+  },
+  "EG34": {
+    "lat": 52.0018997192,
+    "long": -2.474159956,
+    "name": "Ledbury "
+  },
+  "EG3L": {
+    "lat": 55.5916364278,
+    "long": -2.0872306824,
+    "name": "Millfield"
+  },
+  "EG64": {
+    "lat": 53.94829,
+    "long": -1.185575,
+    "name": "RAF Rufforth"
+  },
+  "EG73": {
+    "lat": 57.7579994202,
+    "long": -3.9430000782,
+    "name": "Fearn "
+  },
+  "EG74": {
+    "lat": 52.492971862,
+    "long": -1.1250901222,
+    "name": "Bruntingthorpe "
+  },
+  "EG78": {
+    "lat": 60.425583,
+    "long": -0.7466,
+    "name": "Out Skerries"
+  },
+  "EGAA": {
+    "lat": 54.6575012207,
+    "long": -6.2158298492,
+    "name": "Belfast International "
+  },
+  "EGAB": {
+    "lat": 54.3988990784,
+    "long": -7.6516699791,
+    "name": "St Angelo "
+  },
+  "EGAC": {
+    "lat": 54.6180992126,
+    "long": -5.8724999428,
+    "name": "George Best Belfast City "
+  },
+  "EGAD": {
+    "lat": 54.5811004639,
+    "long": -5.6919398308,
+    "name": "Newtownards "
+  },
+  "EGAE": {
+    "lat": 55.0428009033,
+    "long": -7.1611099243,
+    "name": "City of Derry "
+  },
+  "EGAL": {
+    "lat": 54.6231002808,
+    "long": -6.3000001907,
+    "name": "Langford Lodge "
+  },
+  "EGBB": {
+    "lat": 52.4538993835,
+    "long": -1.7480299473,
+    "name": "Birmingham International "
+  },
+  "EGBD": {
+    "lat": 52.8596992493,
+    "long": -1.6174999476,
+    "name": "Derby Airfield"
+  },
+  "EGBE": {
+    "lat": 52.3697013855,
+    "long": -1.4797199965,
+    "name": "Coventry "
+  },
+  "EGBF": {
+    "lat": 52.2308485669,
+    "long": -0.4624557495,
+    "name": "Bedford Aerodrome"
+  },
+  "EGBG": {
+    "lat": 52.60779953,
+    "long": -1.0319399834,
+    "name": "Leicester "
+  },
+  "EGBJ": {
+    "lat": 51.8941993713,
+    "long": -2.1672201157,
+    "name": "Gloucestershire "
+  },
+  "EGBK": {
+    "lat": 52.3053016663,
+    "long": -0.7930560112,
+    "name": "Sywell Aerodrome"
+  },
+  "EGBL": {
+    "lat": 52.1403007507,
+    "long": -1.7536100149,
+    "name": "Long Marston Airfield"
+  },
+  "EGBM": {
+    "lat": 52.8147010803,
+    "long": -1.7611099482,
+    "name": "Tatenhill Airfield"
+  },
+  "EGBN": {
+    "lat": 52.9199981689,
+    "long": -1.0791699886,
+    "name": "Nottingham "
+  },
+  "EGBO": {
+    "lat": 52.5175018311,
+    "long": -2.2594399452,
+    "name": "Wolverhampton Halfpenny Green "
+  },
+  "EGBP": {
+    "lat": 51.6680984497,
+    "long": -2.0569400787,
+    "name": "Kemble "
+  },
+  "EGBR": {
+    "lat": 53.8023996399,
+    "long": -0.9159636498,
+    "name": "Breighton Airfield"
+  },
+  "EGBS": {
+    "lat": 52.2416992188,
+    "long": -2.8811099529,
+    "name": "Shobdon Aerodrome"
+  },
+  "EGBT": {
+    "lat": 52.0407981873,
+    "long": -1.0955599546,
+    "name": "Turweston "
+  },
+  "EGBW": {
+    "lat": 52.192199707,
+    "long": -1.6144399643,
+    "name": "Wellesbourne Mountford "
+  },
+  "EGCB": {
+    "lat": 53.471698761,
+    "long": -2.3897199631,
+    "name": "City  Manchester"
+  },
+  "EGCC": {
+    "lat": 53.3536987305,
+    "long": -2.2749500275,
+    "name": "Manchester "
+  },
+  "EGCD": {
+    "lat": 53.3381004333,
+    "long": -2.1488900185,
+    "name": "Manchester Woodford "
+  },
+  "EGCF": {
+    "lat": 53.5597000122,
+    "long": -0.8583329916,
+    "name": "Sandtoft Airfield"
+  },
+  "EGCJ": {
+    "lat": 53.7844009399,
+    "long": -1.2172199488,
+    "name": "Sherburn-In-Elmet Airfield"
+  },
+  "EGCK": {
+    "lat": 53.1041984558,
+    "long": -4.340280056,
+    "name": "Caernarfon "
+  },
+  "EGCL": {
+    "lat": 52.739200592,
+    "long": -0.0297219995,
+    "name": "Fenland Airfield"
+  },
+  "EGCN": {
+    "lat": 53.4805378105,
+    "long": -1.0106563568,
+    "name": "Robin Hood Doncaster Sheffield "
+  },
+  "EGCO": {
+    "lat": 53.6453018188,
+    "long": -3.0286099911,
+    "name": "Birkdale Sands "
+  },
+  "EGCP": {
+    "lat": 53.6222000122,
+    "long": -0.9280560017,
+    "name": "Thorne "
+  },
+  "EGCR": {
+    "lat": 53.1644238046,
+    "long": -2.5721740723,
+    "name": "Ashcroft Airfield"
+  },
+  "EGCS": {
+    "lat": 53.3810997009,
+    "long": -0.6852779984,
+    "name": "Sturgate Airfield"
+  },
+  "EGCT": {
+    "lat": 52.9308013916,
+    "long": -2.6463899612,
+    "name": "Tilstock Airfield"
+  },
+  "EGCV": {
+    "lat": 52.8339004517,
+    "long": -2.7716701031,
+    "name": "Sleap "
+  },
+  "EGCW": {
+    "lat": 52.6286010742,
+    "long": -3.1533300877,
+    "name": "Welshpool "
+  },
+  "EGDC": {
+    "lat": 51.0872001648,
+    "long": -4.1503400803,
+    "name": "Royal Marines Base Chivenor "
+  },
+  "EGDD": {
+    "lat": 51.9166984558,
+    "long": -1.1319400072,
+    "name": "Bicester Airfield"
+  },
+  "EGDJ": {
+    "lat": 51.2862014771,
+    "long": -1.7820199728,
+    "name": "Upavon Aerodrome"
+  },
+  "EGDL": {
+    "lat": 51.5051002502,
+    "long": -1.9934300184,
+    "name": "RAF Lyneham"
+  },
+  "EGDM": {
+    "lat": 51.1521987915,
+    "long": -1.747410059,
+    "name": "MoD Boscombe Down "
+  },
+  "EGDN": {
+    "lat": 51.2472000122,
+    "long": -1.7542500496,
+    "name": "Netheravon Airfield"
+  },
+  "EGDO": {
+    "lat": 50.0012016296,
+    "long": -5.2308301926,
+    "name": "Predannack "
+  },
+  "EGDR": {
+    "lat": 50.086101532,
+    "long": -5.255710125,
+    "name": "RNAS Culdrose"
+  },
+  "EGDT": {
+    "lat": 51.5060997009,
+    "long": -1.8019399643,
+    "name": "Wroughton Airfield"
+  },
+  "EGDV": {
+    "lat": 51.526732,
+    "long": -2.141555,
+    "name": "Hullavington Airfield"
+  },
+  "EGDW": {
+    "lat": 50.9625015259,
+    "long": -2.935559988,
+    "name": "Merryfield Airfield"
+  },
+  "EGDX": {
+    "lat": 51.404800415,
+    "long": -3.4357500076,
+    "name": "MOD St. Athan"
+  },
+  "EGDY": {
+    "lat": 51.0093994141,
+    "long": -2.6388199329,
+    "name": "RNAS Yeovilton"
+  },
+  "EGEC": {
+    "lat": 55.4371986389,
+    "long": -5.6863899231,
+    "name": "Campbeltown "
+  },
+  "EGED": {
+    "lat": 59.1906013489,
+    "long": -2.7722198963,
+    "name": "Eday "
+  },
+  "EGEF": {
+    "lat": 59.5358009338,
+    "long": -1.6280599833,
+    "name": "Fair Isle "
+  },
+  "EGEH": {
+    "lat": 60.3774986267,
+    "long": -0.925556004,
+    "name": "Whalsay "
+  },
+  "EGEL": {
+    "lat": 56.6018981934,
+    "long": -6.6177802086,
+    "name": "Coll "
+  },
+  "EGEN": {
+    "lat": 59.3675003052,
+    "long": -2.4344398975,
+    "name": "North Ronaldsay "
+  },
+  "EGEO": {
+    "lat": 56.4635009766,
+    "long": -5.3996701241,
+    "name": "Oban "
+  },
+  "EGEP": {
+    "lat": 59.3516998291,
+    "long": -2.9002799988,
+    "name": "Papa Westray "
+  },
+  "EGER": {
+    "lat": 59.1553001404,
+    "long": -2.6413900852,
+    "name": "Stronsay "
+  },
+  "EGES": {
+    "lat": 59.2503013611,
+    "long": -2.5766699314,
+    "name": "Sanday "
+  },
+  "EGET": {
+    "lat": 60.192199707,
+    "long": -1.2436100245,
+    "name": "Lerwick / Tingwall "
+  },
+  "EGEW": {
+    "lat": 59.3502998352,
+    "long": -2.9500000477,
+    "name": "Westray "
+  },
+  "EGEY": {
+    "lat": 56.0574989319,
+    "long": -6.243060112,
+    "name": "Colonsay Airstrip"
+  },
+  "EGFA": {
+    "lat": 52.1152992249,
+    "long": -4.5569400787,
+    "name": "Aberporth "
+  },
+  "EGFE": {
+    "lat": 51.8330993652,
+    "long": -4.9611101151,
+    "name": "Haverfordwest "
+  },
+  "EGFF": {
+    "lat": 51.3967018127,
+    "long": -3.3433299065,
+    "name": "Cardiff International "
+  },
+  "EGFH": {
+    "lat": 51.6053009033,
+    "long": -4.0678300858,
+    "name": "Swansea "
+  },
+  "EGFP": {
+    "lat": 51.7139015198,
+    "long": -4.3122200966,
+    "name": "Pembrey "
+  },
+  "EGGD": {
+    "lat": 51.3827018738,
+    "long": -2.7190899849,
+    "name": "Bristol International "
+  },
+  "EGGP": {
+    "lat": 53.3335990906,
+    "long": -2.8497200012,
+    "name": "Liverpool John Lennon "
+  },
+  "EGGW": {
+    "lat": 51.8746986389,
+    "long": -0.3683330119,
+    "name": "London Luton "
+  },
+  "EGHA": {
+    "lat": 50.9672012329,
+    "long": -2.1536099911,
+    "name": "Compton Abbas Aerodrome"
+  },
+  "EGHB": {
+    "lat": 51.3389015198,
+    "long": 1.1530599594,
+    "name": "Maypole "
+  },
+  "EGHC": {
+    "lat": 50.1027984619,
+    "long": -5.6705598831,
+    "name": "Land's End "
+  },
+  "EGHD": {
+    "lat": 50.4227981567,
+    "long": -4.1058301926,
+    "name": "Plymouth City "
+  },
+  "EGHE": {
+    "lat": 49.9132995605,
+    "long": -6.2916698456,
+    "name": "St. Mary's "
+  },
+  "EGHF": {
+    "lat": 50.814201355,
+    "long": -1.20333004,
+    "name": "RNAS Lee-On-Solent"
+  },
+  "EGHG": {
+    "lat": 50.9399986267,
+    "long": -2.6586101055,
+    "name": "Yeovil/Westland Aerodrome"
+  },
+  "EGHH": {
+    "lat": 50.7799987793,
+    "long": -1.8424999714,
+    "name": "Bournemouth "
+  },
+  "EGHI": {
+    "lat": 50.9502983093,
+    "long": -1.3567999601,
+    "name": "Southampton "
+  },
+  "EGHJ": {
+    "lat": 50.6781005859,
+    "long": -1.1094399691,
+    "name": "Bembridge "
+  },
+  "EGHL": {
+    "lat": 51.1871986389,
+    "long": -1.0334999561,
+    "name": "Lasham "
+  },
+  "EGHN": {
+    "lat": 50.6530990601,
+    "long": -1.1822199821,
+    "name": "Isle of Wight / Sandown "
+  },
+  "EGHO": {
+    "lat": 51.2106018066,
+    "long": -1.6000000238,
+    "name": "Thruxton Aerodrome"
+  },
+  "EGHP": {
+    "lat": 51.193901062,
+    "long": -1.2347199917,
+    "name": "Popham "
+  },
+  "EGHQ": {
+    "lat": 50.4406013489,
+    "long": -4.9954099655,
+    "name": "Newquay Cornwall "
+  },
+  "EGHR": {
+    "lat": 50.8594017029,
+    "long": -0.7591670156,
+    "name": "Chichester/Goodwood "
+  },
+  "EGHS": {
+    "lat": 50.9850006104,
+    "long": -2.3572199345,
+    "name": "Henstridge Airfield"
+  },
+  "EGHU": {
+    "lat": 50.9286003113,
+    "long": -3.9894399643,
+    "name": "Eaglescott Airfield"
+  },
+  "EGHY": {
+    "lat": 50.2784004211,
+    "long": -5.1422901154,
+    "name": "Truro "
+  },
+  "EGKA": {
+    "lat": 50.8356018066,
+    "long": -0.2972219884,
+    "name": "Shoreham "
+  },
+  "EGKB": {
+    "lat": 51.3307991028,
+    "long": 0.0324999988,
+    "name": "London Biggin Hill "
+  },
+  "EGKE": {
+    "lat": 51.2083015442,
+    "long": 0.8291670084,
+    "name": "Challock Airfield"
+  },
+  "EGKH": {
+    "lat": 51.1568984985,
+    "long": 0.6416670084,
+    "name": "Lashenden (Headcorn) Airfield"
+  },
+  "EGKK": {
+    "lat": 51.1481018066,
+    "long": -0.1902779937,
+    "name": "London Gatwick "
+  },
+  "EGKL": {
+    "lat": 50.8788986206,
+    "long": 0.156388998,
+    "name": "Deanland Lewes "
+  },
+  "EGKR": {
+    "lat": 51.2136001587,
+    "long": -0.1386110038,
+    "name": "Redhill Aerodrome"
+  },
+  "EGLA": {
+    "lat": 50.4996986389,
+    "long": -4.6658301353,
+    "name": "Bodmin Airfield"
+  },
+  "EGLC": {
+    "lat": 51.5052986145,
+    "long": 0.0552779995,
+    "name": "London City "
+  },
+  "EGLD": {
+    "lat": 51.5882987976,
+    "long": -0.5130559802,
+    "name": "Denham Aerodrome"
+  },
+  "EGLF": {
+    "lat": 51.2757987976,
+    "long": -0.7763329744,
+    "name": "Farnborough "
+  },
+  "EGLG": {
+    "lat": 51.8025016785,
+    "long": -0.1580560058,
+    "name": "Panshanger Aerodrome"
+  },
+  "EGLJ": {
+    "lat": 51.6761016846,
+    "long": -1.080829978,
+    "name": "Chalgrove "
+  },
+  "EGLK": {
+    "lat": 51.3238983154,
+    "long": -0.8475000262,
+    "name": "Blackbushe "
+  },
+  "EGLL": {
+    "lat": 51.4706001282,
+    "long": -0.4619410038,
+    "name": "London Heathrow "
+  },
+  "EGLM": {
+    "lat": 51.5008010864,
+    "long": -0.774443984,
+    "name": "White Waltham Airfield"
+  },
+  "EGLP": {
+    "lat": 51.383889,
+    "long": -1.169167,
+    "name": "Brimpton Airfield"
+  },
+  "EGLS": {
+    "lat": 51.0988998413,
+    "long": -1.7841700315,
+    "name": "Old Sarum Airfield"
+  },
+  "EGMA": {
+    "lat": 52.0774993896,
+    "long": 0.061666999,
+    "name": "Fowlmere Airfield"
+  },
+  "EGMC": {
+    "lat": 51.5713996887,
+    "long": 0.695555985,
+    "name": "Southend "
+  },
+  "EGMD": {
+    "lat": 50.9561004639,
+    "long": 0.9391670227,
+    "name": "Lydd "
+  },
+  "EGMF": {
+    "lat": 51.3306007385,
+    "long": 0.6011109948,
+    "name": "Farthing Corner/Stoneacre Farm "
+  },
+  "EGMH": {
+    "lat": 51.3422012329,
+    "long": 1.3461099863,
+    "name": "Kent International "
+  },
+  "EGMJ": {
+    "lat": 52.1666984558,
+    "long": -0.1538890004,
+    "name": "Little Gransden Airfield"
+  },
+  "EGML": {
+    "lat": 51.5285987854,
+    "long": 0.2455559969,
+    "name": "Damyns Hall Aerodrome"
+  },
+  "EGNA": {
+    "lat": 53.0144004822,
+    "long": -1.2183300257,
+    "name": "Hucknall Airfield"
+  },
+  "EGNB": {
+    "lat": 53.7196998596,
+    "long": -0.5663329959,
+    "name": "Brough "
+  },
+  "EGNC": {
+    "lat": 54.9375,
+    "long": -2.8091700077,
+    "name": "Carlisle "
+  },
+  "EGND": {
+    "lat": 53.6216666667,
+    "long": -1.8302777778,
+    "name": "HUDDERSFIELD (Crosland Moor)"
+  },
+  "EGNE": {
+    "lat": 53.2806015015,
+    "long": -0.9513890147,
+    "name": "Retford Gamston "
+  },
+  "EGNF": {
+    "lat": 53.3168983459,
+    "long": -1.1963900328,
+    "name": "Netherthorpe Airfield"
+  },
+  "EGNG": {
+    "lat": 54.211101532,
+    "long": -1.2899999619,
+    "name": "Bagby Thirsk Prv "
+  },
+  "EGNH": {
+    "lat": 53.7717018127,
+    "long": -3.0286099911,
+    "name": "Blackpool International "
+  },
+  "EGNI": {
+    "lat": 53.1716003418,
+    "long": 0.3293749988,
+    "name": "Skegness (Ingoldmells) Aerodrome"
+  },
+  "EGNJ": {
+    "lat": 53.5744018555,
+    "long": -0.3508329988,
+    "name": "Humberside "
+  },
+  "EGNL": {
+    "lat": 54.1311988831,
+    "long": -3.2636699677,
+    "name": "Barrow Walney Island "
+  },
+  "EGNM": {
+    "lat": 53.8658981323,
+    "long": -1.6605700254,
+    "name": "Leeds Bradford "
+  },
+  "EGNO": {
+    "lat": 53.745098114,
+    "long": -2.8830599785,
+    "name": "Warton "
+  },
+  "EGNR": {
+    "lat": 53.1781005859,
+    "long": -2.9777801037,
+    "name": "Hawarden "
+  },
+  "EGNT": {
+    "lat": 55.0374984741,
+    "long": -1.6916699409,
+    "name": "Newcastle "
+  },
+  "EGNV": {
+    "lat": 54.5092010498,
+    "long": -1.4294099808,
+    "name": "Durham Tees Valley "
+  },
+  "EGNW": {
+    "lat": 53.3166999817,
+    "long": -0.349721998,
+    "name": "Wickenby Aerodrome"
+  },
+  "EGNX": {
+    "lat": 52.8311004639,
+    "long": -1.3280600309,
+    "name": "East Midlands "
+  },
+  "EGNY": {
+    "lat": 53.8983001709,
+    "long": -0.3613890111,
+    "name": "Beverley/Linley Hill "
+  },
+  "EGOD": {
+    "lat": 52.8116989136,
+    "long": -4.1235799789,
+    "name": "Llanbedr "
+  },
+  "EGOE": {
+    "lat": 52.8712005615,
+    "long": -2.5335600376,
+    "name": "RAF Ternhill"
+  },
+  "EGOM": {
+    "lat": 55.0499992371,
+    "long": -2.5499999523,
+    "name": "RAF Spadeadam"
+  },
+  "EGOQ": {
+    "lat": 53.2585983276,
+    "long": -4.3735499382,
+    "name": "RAF Mona"
+  },
+  "EGOS": {
+    "lat": 52.7981987,
+    "long": -2.6680400372,
+    "name": "RAF Shawbury"
+  },
+  "EGOV": {
+    "lat": 53.2481002808,
+    "long": -4.5353398323,
+    "name": "Anglesey "
+  },
+  "EGOW": {
+    "lat": 53.5816001892,
+    "long": -3.0555200577,
+    "name": "RAF Woodvale"
+  },
+  "EGOY": {
+    "lat": 54.8511009216,
+    "long": -4.9477801323,
+    "name": "RAF West Freugh"
+  },
+  "EGPA": {
+    "lat": 58.9578018188,
+    "long": -2.9049999714,
+    "name": "Kirkwall "
+  },
+  "EGPB": {
+    "lat": 59.8788986206,
+    "long": -1.2955600023,
+    "name": "Sumburgh "
+  },
+  "EGPC": {
+    "lat": 58.4589004517,
+    "long": -3.0930600166,
+    "name": "Wick "
+  },
+  "EGPD": {
+    "lat": 57.2019004822,
+    "long": -2.1977798939,
+    "name": "Aberdeen Dyce "
+  },
+  "EGPE": {
+    "lat": 57.5424995422,
+    "long": -4.0475001335,
+    "name": "Inverness "
+  },
+  "EGPF": {
+    "lat": 55.8718986511,
+    "long": -4.4330601692,
+    "name": "Glasgow International "
+  },
+  "EGPG": {
+    "lat": 55.9747009277,
+    "long": -3.9755599499,
+    "name": "Cumbernauld "
+  },
+  "EGPH": {
+    "lat": 55.9500007629,
+    "long": -3.3724999428,
+    "name": "Edinburgh "
+  },
+  "EGPI": {
+    "lat": 55.6819000244,
+    "long": -6.2566699982,
+    "name": "Islay "
+  },
+  "EGPJ": {
+    "lat": 56.1833000183,
+    "long": -3.220279932,
+    "name": "Fife "
+  },
+  "EGPK": {
+    "lat": 55.5093994141,
+    "long": -4.5866699219,
+    "name": "Glasgow Prestwick "
+  },
+  "EGPL": {
+    "lat": 57.481098175,
+    "long": -7.3627800941,
+    "name": "Benbecula "
+  },
+  "EGPM": {
+    "lat": 60.432800293,
+    "long": -1.296110034,
+    "name": "Scatsta "
+  },
+  "EGPN": {
+    "lat": 56.4524993896,
+    "long": -3.0258300304,
+    "name": "Dundee "
+  },
+  "EGPO": {
+    "lat": 58.2155990601,
+    "long": -6.3311100006,
+    "name": "Stornoway "
+  },
+  "EGPR": {
+    "lat": 57.0228004456,
+    "long": -7.4430599213,
+    "name": "Barra "
+  },
+  "EGPT": {
+    "lat": 56.439201355,
+    "long": -3.3722200394,
+    "name": "Perth/Scone "
+  },
+  "EGPU": {
+    "lat": 56.4991989136,
+    "long": -6.8691701889,
+    "name": "Tiree "
+  },
+  "EGPW": {
+    "lat": 60.7472000122,
+    "long": -0.8538500071,
+    "name": "Unst "
+  },
+  "EGPY": {
+    "lat": 58.5839004517,
+    "long": -3.7269399166,
+    "name": "Dounreay/Thurso "
+  },
+  "EGQB": {
+    "lat": 55.0602989197,
+    "long": -7.0202798843,
+    "name": "Ballykelly "
+  },
+  "EGQK": {
+    "lat": 57.6493988037,
+    "long": -3.5606400967,
+    "name": "RAF Kinloss"
+  },
+  "EGQL": {
+    "lat": 56.3728981018,
+    "long": -2.8684399128,
+    "name": "RAF Leuchars"
+  },
+  "EGQS": {
+    "lat": 57.7052001953,
+    "long": -3.3391699791,
+    "name": "RAF Lossiemouth"
+  },
+  "EGSA": {
+    "lat": 52.6293983459,
+    "long": 0.9280560017,
+    "name": "Shipdham Airfield"
+  },
+  "EGSC": {
+    "lat": 52.2050018311,
+    "long": 0.174999997,
+    "name": "Cambridge "
+  },
+  "EGSF": {
+    "lat": 52.4681015015,
+    "long": -0.2511110008,
+    "name": "Peterborough Business "
+  },
+  "EGSG": {
+    "lat": 51.6525001526,
+    "long": 0.1558330059,
+    "name": "Stapleford Aerodrome"
+  },
+  "EGSH": {
+    "lat": 52.6758003235,
+    "long": 1.2827800512,
+    "name": "Norwich International "
+  },
+  "EGSI": {
+    "lat": 52.6404853896,
+    "long": 0.2918350697,
+    "name": "Mashland Airfield"
+  },
+  "EGSJ": {
+    "lat": 52.511100769,
+    "long": 1.4172199965,
+    "name": "Seething Airfield"
+  },
+  "EGSL": {
+    "lat": 51.8950004578,
+    "long": 0.4491670132,
+    "name": "Andrewsfield "
+  },
+  "EGSM": {
+    "lat": 52.4352989197,
+    "long": 1.6183300018,
+    "name": "Beccles "
+  },
+  "EGSN": {
+    "lat": 52.2106018066,
+    "long": -0.0425000004,
+    "name": "Bourn "
+  },
+  "EGSO": {
+    "lat": 52.1711006165,
+    "long": 1.111109972,
+    "name": "Crowfield Airfield"
+  },
+  "EGSP": {
+    "lat": 52.5558013916,
+    "long": -0.3863889873,
+    "name": "Peterborough/Sibson "
+  },
+  "EGSQ": {
+    "lat": 51.7849998474,
+    "long": 1.1299999952,
+    "name": "Clacton "
+  },
+  "EGSR": {
+    "lat": 51.9143981934,
+    "long": 0.6825000048,
+    "name": "Earls Colne Airfield"
+  },
+  "EGSS": {
+    "lat": 51.8849983215,
+    "long": 0.2349999994,
+    "name": "London Stansted "
+  },
+  "EGST": {
+    "lat": 52.0772018433,
+    "long": 0.9775000215,
+    "name": "Elmsett "
+  },
+  "EGSU": {
+    "lat": 52.090801239,
+    "long": 0.1319440007,
+    "name": "Duxford "
+  },
+  "EGSV": {
+    "lat": 52.4975013733,
+    "long": 1.0519399643,
+    "name": "Old Buckenham "
+  },
+  "EGSW": {
+    "lat": 52.2419013977,
+    "long": 0.3705559969,
+    "name": "Newmarket Heath Airfield"
+  },
+  "EGSX": {
+    "lat": 51.721698761,
+    "long": 0.1541669965,
+    "name": "North Weald "
+  },
+  "EGTA": {
+    "lat": 51.7757987976,
+    "long": -0.9402779937,
+    "name": "Aylesbury/Thame "
+  },
+  "EGTB": {
+    "lat": 51.6116981506,
+    "long": -0.8083329797,
+    "name": "Wycombe Air Park"
+  },
+  "EGTC": {
+    "lat": 52.0722007751,
+    "long": -0.6166669726,
+    "name": "Cranfield "
+  },
+  "EGTD": {
+    "lat": 51.1171989441,
+    "long": -0.5358330011,
+    "name": "Dunsfold Aerodrome"
+  },
+  "EGTE": {
+    "lat": 50.7344017029,
+    "long": -3.4138898849,
+    "name": "Exeter International "
+  },
+  "EGTF": {
+    "lat": 51.3480987549,
+    "long": -0.5588889718,
+    "name": "Fairoaks "
+  },
+  "EGTG": {
+    "lat": 51.5194015503,
+    "long": -2.5908300877,
+    "name": "Bristol Filton "
+  },
+  "EGTH": {
+    "lat": 52.0834007263,
+    "long": -0.3166669905,
+    "name": "Old Warden Airfield"
+  },
+  "EGTK": {
+    "lat": 51.8368988037,
+    "long": -1.3200000525,
+    "name": "Oxford (Kidlington) "
+  },
+  "EGTN": {
+    "lat": 51.9281666667,
+    "long": -1.4285,
+    "name": "Enstone Aerodrome"
+  },
+  "EGTO": {
+    "lat": 51.3518981934,
+    "long": 0.5033329725,
+    "name": "Rochester "
+  },
+  "EGTP": {
+    "lat": 50.3316993713,
+    "long": -5.1774997711,
+    "name": "Perranporth Airfield"
+  },
+  "EGTR": {
+    "lat": 51.6557998657,
+    "long": -0.3258329928,
+    "name": "Elstree Airfield"
+  },
+  "EGTU": {
+    "lat": 50.8600006104,
+    "long": -3.2347199917,
+    "name": "Dunkeswell "
+  },
+  "EGTW": {
+    "lat": 51.6321983337,
+    "long": -2.0147199631,
+    "name": "Oaksey Park "
+  },
+  "EGUB": {
+    "lat": 51.6164016724,
+    "long": -1.0958299637,
+    "name": "RAF Benson"
+  },
+  "EGUD": {
+    "lat": 51.6902999878,
+    "long": -1.316669941,
+    "name": "RAF Abingdon"
+  },
+  "EGUK": {
+    "lat": 52.281742,
+    "long": 0.184532,
+    "name": "Waterbeach Airfield"
+  },
+  "EGUL": {
+    "lat": 52.4093017578,
+    "long": 0.5609999895,
+    "name": "RAF Lakenheath"
+  },
+  "EGUN": {
+    "lat": 52.3619003296,
+    "long": 0.4864059985,
+    "name": "RAF Mildenhall"
+  },
+  "EGUO": {
+    "lat": 51.4390983582,
+    "long": -2.2863900662,
+    "name": "Colerne "
+  },
+  "EGUP": {
+    "lat": 52.846698761,
+    "long": 0.7663890123,
+    "name": "RAF Sculthorpe"
+  },
+  "EGUW": {
+    "lat": 52.1273002625,
+    "long": 0.956264019,
+    "name": "RAF Wattisham"
+  },
+  "EGUY": {
+    "lat": 52.3572006226,
+    "long": -0.107832998,
+    "name": "RAF Wyton"
+  },
+  "EGVA": {
+    "lat": 51.6822013855,
+    "long": -1.7900300026,
+    "name": "RAF Fairford"
+  },
+  "EGVN": {
+    "lat": 51.75,
+    "long": -1.5836199522,
+    "name": "RAF Brize Norton"
+  },
+  "EGVO": {
+    "lat": 51.2341003418,
+    "long": -0.9428250194,
+    "name": "RAF Odiham"
+  },
+  "EGVP": {
+    "lat": 51.1394004822,
+    "long": -1.5686099529,
+    "name": "Middle Wallop Airfield"
+  },
+  "EGVT": {
+    "lat": 51.9719009399,
+    "long": 0.5094439983,
+    "name": "Wethersfield "
+  },
+  "EGWC": {
+    "lat": 52.6399993896,
+    "long": -2.3055799007,
+    "name": "DCAE Cosford "
+  },
+  "EGWE": {
+    "lat": 52.0181999207,
+    "long": -0.3038499951,
+    "name": "RAF Henlow"
+  },
+  "EGWN": {
+    "lat": 51.7906990051,
+    "long": -0.7379720211,
+    "name": "RAF Halton"
+  },
+  "EGWU": {
+    "lat": 51.5530014038,
+    "long": -0.418166995,
+    "name": "RAF Northolt"
+  },
+  "EGXC": {
+    "lat": 53.0929985046,
+    "long": -0.1660140008,
+    "name": "RAF Coningsby"
+  },
+  "EGXD": {
+    "lat": 54.1371994019,
+    "long": -1.4202500582,
+    "name": "RAF Dishforth"
+  },
+  "EGXE": {
+    "lat": 54.2924003601,
+    "long": -1.535400033,
+    "name": "Leeming "
+  },
+  "EGXG": {
+    "lat": 53.8343009949,
+    "long": -1.1955000162,
+    "name": "RAF Church Fenton"
+  },
+  "EGXH": {
+    "lat": 52.3426017761,
+    "long": 0.7729390264,
+    "name": "RAF Honington"
+  },
+  "EGXJ": {
+    "lat": 52.7356987,
+    "long": -0.648769021,
+    "name": "RAF Cottesmore"
+  },
+  "EGXP": {
+    "lat": 53.307800293,
+    "long": -0.5508329868,
+    "name": "RAF Scampton"
+  },
+  "EGXT": {
+    "lat": 52.6125984192,
+    "long": -0.4764530063,
+    "name": "RAF Wittering"
+  },
+  "EGXU": {
+    "lat": 54.0489006042,
+    "long": -1.2527500391,
+    "name": "RAF Linton-On-Ouse"
+  },
+  "EGXV": {
+    "lat": 53.8758010864,
+    "long": -0.4350000024,
+    "name": "RAF Leconfield"
+  },
+  "EGXW": {
+    "lat": 53.1661987305,
+    "long": -0.5238109827,
+    "name": "RAF Waddington"
+  },
+  "EGXY": {
+    "lat": 53.0228004456,
+    "long": -0.9111109972,
+    "name": "RAF Syerston"
+  },
+  "EGXZ": {
+    "lat": 54.2055015564,
+    "long": -1.3820899725,
+    "name": "RAF Topcliffe"
+  },
+  "EGYD": {
+    "lat": 53.0303001404,
+    "long": -0.4832420051,
+    "name": "RAF Cranwell"
+  },
+  "EGYE": {
+    "lat": 52.9622001648,
+    "long": -0.5616250038,
+    "name": "RAF Barkston Heath"
+  },
+  "EGYK": {
+    "lat": 53.9231444281,
+    "long": -0.9913444519,
+    "name": "Elvington Airfield"
+  },
+  "EGYM": {
+    "lat": 52.648399353,
+    "long": 0.5506920218,
+    "name": "RAF Marham"
+  },
+  "MBAC": {
+    "lat": 21.3006333,
+    "long": -71.64115,
+    "name": "Ambergris Cay International "
+  },
+  "XBRO": {
+    "lat": 57.2533988953,
+    "long": -5.8278999329,
+    "name": "Skye Bridge Ashaig "
+  }
+}

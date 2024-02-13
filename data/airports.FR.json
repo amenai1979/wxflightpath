@@ -1,0 +1,2322 @@
+{
+  "LF50": {
+    "lat": 47.5803985596,
+    "long": -0.4122689962,
+    "name": "Soucelles "
+  },
+  "LF51": {
+    "lat": 44.1800003052,
+    "long": 4.9188899994,
+    "name": "Plan-de-Dieu "
+  },
+  "LF52": {
+    "lat": 49.0255012512,
+    "long": 5.8760700226,
+    "name": "Chambley "
+  },
+  "LFAB": {
+    "lat": 49.8824996948,
+    "long": 1.0852799416,
+    "name": "St Aubin "
+  },
+  "LFAC": {
+    "lat": 50.9621009827,
+    "long": 1.9547599554,
+    "name": "Calais-Dunkerque "
+  },
+  "LFAD": {
+    "lat": 49.4343986511,
+    "long": 2.8061099052,
+    "name": "Compiegne Margny "
+  },
+  "LFAE": {
+    "lat": 50.0691986084,
+    "long": 1.4266699553,
+    "name": "Eu Mers Le Treport "
+  },
+  "LFAF": {
+    "lat": 49.5957984924,
+    "long": 3.6316699982,
+    "name": "Laon - Chambry "
+  },
+  "LFAG": {
+    "lat": 49.8684997559,
+    "long": 3.0295801163,
+    "name": "Peronne-Saint-Quentin "
+  },
+  "LFAH": {
+    "lat": 49.4000015259,
+    "long": 3.3169999123,
+    "name": "Soissons-Cuffies "
+  },
+  "LFAI": {
+    "lat": 48.5961990356,
+    "long": 3.0067899227,
+    "name": "Nangis-Les Loges "
+  },
+  "LFAJ": {
+    "lat": 48.7106018066,
+    "long": 0.003889,
+    "name": "Argentan "
+  },
+  "LFAK": {
+    "lat": 51.040599823,
+    "long": 2.5502800941,
+    "name": "Dunkerque Les Moeres "
+  },
+  "LFAL": {
+    "lat": 47.6941986084,
+    "long": 0.003333,
+    "name": "La Fleche Thoree Les Pins "
+  },
+  "LFAM": {
+    "lat": 50.4230995178,
+    "long": 1.5919400454,
+    "name": "Berck sur Mer "
+  },
+  "LFAN": {
+    "lat": 48.8917007446,
+    "long": -0.5019440055,
+    "name": "Conde/Noireau "
+  },
+  "LFAO": {
+    "lat": 48.5457992554,
+    "long": -0.3874439895,
+    "name": "Bagnoles-de-l'Orne-Couterne "
+  },
+  "LFAP": {
+    "lat": 49.4818992615,
+    "long": 4.3647198677,
+    "name": "Rethel "
+  },
+  "LFAQ": {
+    "lat": 49.9715003967,
+    "long": 2.6976599693,
+    "name": "Albert-Bray "
+  },
+  "LFAR": {
+    "lat": 49.6730995178,
+    "long": 2.5691699982,
+    "name": "Montdidier "
+  },
+  "LFAS": {
+    "lat": 48.9272003174,
+    "long": -0.1447219998,
+    "name": "Falaise "
+  },
+  "LFAT": {
+    "lat": 50.5173988342,
+    "long": 1.6205899715,
+    "name": "Le Touquet-Cote d'Opale "
+  },
+  "LFAU": {
+    "lat": 49.6241989136,
+    "long": -1.8291699886,
+    "name": "Vauville "
+  },
+  "LFAV": {
+    "lat": 50.3258018494,
+    "long": 3.4612600803,
+    "name": "Valenciennes-Denain "
+  },
+  "LFAW": {
+    "lat": 49.4113998413,
+    "long": 5.8905601501,
+    "name": "Villerupt "
+  },
+  "LFAX": {
+    "lat": 48.5402984619,
+    "long": 0.5338889956,
+    "name": "Mortagne Au Perche "
+  },
+  "LFAY": {
+    "lat": 49.8730010986,
+    "long": 2.3870699406,
+    "name": "Amiens-Glisy "
+  },
+  "LFBA": {
+    "lat": 44.1747016907,
+    "long": 0.5905560255,
+    "name": "Agen-La Garenne "
+  },
+  "LFBC": {
+    "lat": 44.5332984924,
+    "long": -1.125,
+    "name": "Cazaux (BA 120) Air Base"
+  },
+  "LFBD": {
+    "lat": 44.8283004761,
+    "long": -0.7155560255,
+    "name": "Bordeaux-Merignac (BA 106) "
+  },
+  "LFBE": {
+    "lat": 44.8252983093,
+    "long": 0.5186110139,
+    "name": "Bergerac-Roumaniere "
+  },
+  "LFBF": {
+    "lat": 43.5456008911,
+    "long": 1.3674999475,
+    "name": "Toulouse-Francazal (BA 101) Air Base"
+  },
+  "LFBG": {
+    "lat": 45.6582984924,
+    "long": -0.3174999952,
+    "name": "Cognac-Chateaubernard (BA 709) Air Base"
+  },
+  "LFBH": {
+    "lat": 46.1791992188,
+    "long": -1.1952799559,
+    "name": "La Rochelle-Ile de Re "
+  },
+  "LFBI": {
+    "lat": 46.5876998901,
+    "long": 0.3066659868,
+    "name": "Poitiers-Biard "
+  },
+  "LFBJ": {
+    "lat": 45.903301239,
+    "long": 0.9200000167,
+    "name": "St Junien "
+  },
+  "LFBK": {
+    "lat": 46.2225990295,
+    "long": 2.3639600277,
+    "name": "Montlucon-Gueret "
+  },
+  "LFBL": {
+    "lat": 45.8628005981,
+    "long": 1.1794400215,
+    "name": "Limoges "
+  },
+  "LFBM": {
+    "lat": 43.9117012024,
+    "long": -0.5074999928,
+    "name": "Mont-de-Marsan (BA 118) Air Base"
+  },
+  "LFBN": {
+    "lat": 46.3112983704,
+    "long": -0.4015029967,
+    "name": "Niort-Souche "
+  },
+  "LFBO": {
+    "lat": 43.6291007996,
+    "long": 1.3638199568,
+    "name": "Toulouse-Blagnac "
+  },
+  "LFBP": {
+    "lat": 43.3800010681,
+    "long": -0.41861099,
+    "name": "Pau Pyrenees "
+  },
+  "LFBR": {
+    "lat": 43.4488983154,
+    "long": 1.2633299828,
+    "name": "Muret-Lherm "
+  },
+  "LFBS": {
+    "lat": 44.3694000244,
+    "long": -1.1305600405,
+    "name": "Biscarrosse Parentis "
+  },
+  "LFBT": {
+    "lat": 43.1786994934,
+    "long": -0.0064389999,
+    "name": "Tarbes-Lourdes-Pyrenees "
+  },
+  "LFBU": {
+    "lat": 45.7291984558,
+    "long": 0.2214560062,
+    "name": "Angouleme-Brie-Champniers "
+  },
+  "LFBV": {
+    "lat": 45.1507987976,
+    "long": 1.4691699743,
+    "name": "Brive-La Roche "
+  },
+  "LFBX": {
+    "lat": 45.1981010437,
+    "long": 0.8155559897,
+    "name": "Perigueux-Bassillac "
+  },
+  "LFBY": {
+    "lat": 43.689201355,
+    "long": -1.0688899755,
+    "name": "Dax Seyresse "
+  },
+  "LFBZ": {
+    "lat": 43.4683990479,
+    "long": -1.5233199596,
+    "name": "Biarritz-Anglet-Bayonne "
+  },
+  "LFCA": {
+    "lat": 46.7813987732,
+    "long": 0.5519440174,
+    "name": "Chatellerault "
+  },
+  "LFCB": {
+    "lat": 42.7999992371,
+    "long": 0.6000000238,
+    "name": "Bagneres De Luchon "
+  },
+  "LFCC": {
+    "lat": 44.351398468,
+    "long": 1.4752800465,
+    "name": "Cahors-Lalbenque "
+  },
+  "LFCD": {
+    "lat": 44.7560997009,
+    "long": -1.0633300543,
+    "name": "Andernos Les Bains "
+  },
+  "LFCE": {
+    "lat": 46.1791992188,
+    "long": 1.9583300352,
+    "name": "Gueret St Laurent "
+  },
+  "LFCF": {
+    "lat": 44.6733016968,
+    "long": 1.7891700268,
+    "name": "Figeac Livernon "
+  },
+  "LFCG": {
+    "lat": 43.0078010559,
+    "long": 1.1031500101,
+    "name": "Saint-Girons-Antichan "
+  },
+  "LFCH": {
+    "lat": 44.5964012146,
+    "long": -1.1108299494,
+    "name": "Arcachon-La Teste-de-Buch "
+  },
+  "LFCI": {
+    "lat": 43.913898468,
+    "long": 2.1130599976,
+    "name": "Albi-Le Sequestre "
+  },
+  "LFCJ": {
+    "lat": 45.4841995239,
+    "long": -0.4213890135,
+    "name": "Jonzac Neulles "
+  },
+  "LFCK": {
+    "lat": 43.5563011169,
+    "long": 2.2891800404,
+    "name": "Castres-Mazamet "
+  },
+  "LFCL": {
+    "lat": 43.586101532,
+    "long": 1.4991699457,
+    "name": "Toulouse-Lasbordes "
+  },
+  "LFCM": {
+    "lat": 43.9892997742,
+    "long": 3.1830000877,
+    "name": "Millau-Larzac "
+  },
+  "LFCN": {
+    "lat": 43.7696990967,
+    "long": -0.0327779986,
+    "name": "Nogaro "
+  },
+  "LFCO": {
+    "lat": 43.1646995544,
+    "long": -0.5602779984,
+    "name": "Oloron Herrere "
+  },
+  "LFCP": {
+    "lat": 45.5699996948,
+    "long": -0.5149999857,
+    "name": "Pons Avy "
+  },
+  "LFCQ": {
+    "lat": 43.7710990906,
+    "long": 2.0108299255,
+    "name": "Graulhet-Montdragon "
+  },
+  "LFCR": {
+    "lat": 44.4079017639,
+    "long": 2.4826700687,
+    "name": "Rodez-Marcillac "
+  },
+  "LFCS": {
+    "lat": 44.7002983093,
+    "long": -0.5955560207,
+    "name": "Bordeaux Leognan Saucats "
+  },
+  "LFCT": {
+    "lat": 46.9618988037,
+    "long": -0.1527779996,
+    "name": "Thouars "
+  },
+  "LFCU": {
+    "lat": 45.5346984863,
+    "long": 2.4238901138,
+    "name": "Ussel-Thalamy "
+  },
+  "LFCV": {
+    "lat": 44.3699989319,
+    "long": 2.0280599594,
+    "name": "Villefranche De Rouergue "
+  },
+  "LFCW": {
+    "lat": 44.396900177,
+    "long": 0.7588890195,
+    "name": "Villeneuve-sur-Lot "
+  },
+  "LFCX": {
+    "lat": 44.0868988037,
+    "long": 1.1283299923,
+    "name": "Castelsarrasin Moissac "
+  },
+  "LFCY": {
+    "lat": 45.6281013489,
+    "long": -0.9725000262,
+    "name": "Royan-Medis "
+  },
+  "LFCZ": {
+    "lat": 44.1460990906,
+    "long": -1.1744400263,
+    "name": "Mimizan "
+  },
+  "LFDA": {
+    "lat": 43.709400177,
+    "long": -0.2452780008,
+    "name": "Aire-sur-l'Adour "
+  },
+  "LFDB": {
+    "lat": 44.0256996155,
+    "long": 1.3780399561,
+    "name": "Montauban "
+  },
+  "LFDC": {
+    "lat": 45.2743988037,
+    "long": -0.4522219896,
+    "name": "Montendre Marcillac "
+  },
+  "LFDE": {
+    "lat": 45.4213981628,
+    "long": 2.0688900948,
+    "name": "Egletons "
+  },
+  "LFDF": {
+    "lat": 44.8535995483,
+    "long": 0.1766670048,
+    "name": "Ste Foy La Grande "
+  },
+  "LFDG": {
+    "lat": 43.8838996887,
+    "long": 1.8755600452,
+    "name": "Gaillac Lisle Sur Tarn "
+  },
+  "LFDH": {
+    "lat": 43.6878013611,
+    "long": 0.6016669869,
+    "name": "Auch-Lamothe "
+  },
+  "LFDI": {
+    "lat": 44.9824981689,
+    "long": -0.1347219944,
+    "name": "Libourne-Artigues-de-Lussac "
+  },
+  "LFDJ": {
+    "lat": 43.0905990601,
+    "long": 1.6958299875,
+    "name": "Pamiers-Les Pujols "
+  },
+  "LFDK": {
+    "lat": 45.4949989319,
+    "long": -1.0822199583,
+    "name": "Soulac Sur Mer "
+  },
+  "LFDL": {
+    "lat": 47.0372009277,
+    "long": 0.1013889983,
+    "name": "Loudun "
+  },
+  "LFDM": {
+    "lat": 44.4989013672,
+    "long": 0.2005140036,
+    "name": "Marmande-Virazeil "
+  },
+  "LFDN": {
+    "lat": 45.8877983093,
+    "long": -0.9830560088,
+    "name": "Rochefort-Saint-Agnant (BA 721) "
+  },
+  "LFDO": {
+    "lat": 44.8499984741,
+    "long": -0.8000000119,
+    "name": "Bordeaux Souge "
+  },
+  "LFDP": {
+    "lat": 45.9592018127,
+    "long": -1.3161100149,
+    "name": "St Pierre D'oleron "
+  },
+  "LFDQ": {
+    "lat": 43.2793998718,
+    "long": 0.5216670036,
+    "name": "Castelnau Magnoac "
+  },
+  "LFDR": {
+    "lat": 44.5680999756,
+    "long": -0.0561110005,
+    "name": "La Reole Floudes "
+  },
+  "LFDS": {
+    "lat": 44.7933006287,
+    "long": 1.2447199821,
+    "name": "Sarlat Domme "
+  },
+  "LFDT": {
+    "lat": 43.2160987854,
+    "long": 0.0786110014,
+    "name": "Tarbes Laloubere "
+  },
+  "LFDU": {
+    "lat": 45.1977996826,
+    "long": -0.8822219968,
+    "name": "Lesparre St Laurent Medoc "
+  },
+  "LFDV": {
+    "lat": 46.2728004456,
+    "long": 0.1905560046,
+    "name": "Couhe Verac "
+  },
+  "LFDW": {
+    "lat": 46.5835990906,
+    "long": 0.6424999833,
+    "name": "Chauvigny "
+  },
+  "LFDX": {
+    "lat": 44.4636001587,
+    "long": 1.0077799559,
+    "name": "Fumel Montayral "
+  },
+  "LFDY": {
+    "lat": 44.8772010803,
+    "long": -0.4791670144,
+    "name": "Bordeaux Yvrac "
+  },
+  "LFDZ": {
+    "lat": 45.0999984741,
+    "long": 1.2170000076,
+    "name": "Condat-Sur-Vezere "
+  },
+  "LFEA": {
+    "lat": 47.3266983032,
+    "long": -3.1983299255,
+    "name": "Belle Ile "
+  },
+  "LFEB": {
+    "lat": 48.4444007874,
+    "long": -2.1013898849,
+    "name": "Dinan - Trelivan "
+  },
+  "LFEC": {
+    "lat": 48.4631996155,
+    "long": -5.0635800362,
+    "name": "Ouessant "
+  },
+  "LFED": {
+    "lat": 48.0584983826,
+    "long": -2.9218299389,
+    "name": "Pontivy "
+  },
+  "LFEF": {
+    "lat": 47.3414001465,
+    "long": 0.9424999952,
+    "name": "Amboise Dierre "
+  },
+  "LFEG": {
+    "lat": 46.5969009399,
+    "long": 1.6024999619,
+    "name": "Argenton Sur Creuse "
+  },
+  "LFEH": {
+    "lat": 47.4742012024,
+    "long": 2.3930499554,
+    "name": "Aubigny-sur-Nere "
+  },
+  "LFEI": {
+    "lat": 47.6143989563,
+    "long": 2.7819399834,
+    "name": "Briare Chatillon "
+  },
+  "LFEJ": {
+    "lat": 46.8418998718,
+    "long": 1.6211099625,
+    "name": "Chateauroux Villers "
+  },
+  "LFEK": {
+    "lat": 46.8885993958,
+    "long": 2.0413899422,
+    "name": "Issoudun Le Fay "
+  },
+  "LFEL": {
+    "lat": 46.6208000183,
+    "long": 1.0874999762,
+    "name": "Le Blanc "
+  },
+  "LFEM": {
+    "lat": 47.9606018066,
+    "long": 2.6858301163,
+    "name": "Montargis Vimory "
+  },
+  "LFEN": {
+    "lat": 47.2675018311,
+    "long": 0.7011110187,
+    "name": "Tours Sorigny "
+  },
+  "LFEO": {
+    "lat": 48.6136016846,
+    "long": -1.9736100435,
+    "name": "St Malo St Serva "
+  },
+  "LFEP": {
+    "lat": 47.2214012146,
+    "long": 4.5611100197,
+    "name": "Pouilly Maconge "
+  },
+  "LFEQ": {
+    "lat": 47.4822006226,
+    "long": -3.0999999046,
+    "name": "Quiberon "
+  },
+  "LFER": {
+    "lat": 47.6994018555,
+    "long": -2.0366699696,
+    "name": "Redon Bains-sur-Oust "
+  },
+  "LFES": {
+    "lat": 48.0525016785,
+    "long": -3.6647200584,
+    "name": "Guiscriff Scaer "
+  },
+  "LFET": {
+    "lat": 47.5475006104,
+    "long": 5.2119398117,
+    "name": "Til Chatel "
+  },
+  "LFEU": {
+    "lat": 48.8683013916,
+    "long": 5.1858301163,
+    "name": "Bar Le Duc "
+  },
+  "LFEV": {
+    "lat": 47.4333000183,
+    "long": 5.6227798462,
+    "name": "Gray St Adrien "
+  },
+  "LFEW": {
+    "lat": 47.2393989563,
+    "long": 4.26583004,
+    "name": "Saulieu Liernais "
+  },
+  "LFEX": {
+    "lat": 48.5928001404,
+    "long": 6.241109848,
+    "name": "Nancy Azelot "
+  },
+  "LFEY": {
+    "lat": 46.7186012268,
+    "long": -2.3911099434,
+    "name": "Ile d'Yeu "
+  },
+  "LFEZ": {
+    "lat": 48.7243995667,
+    "long": 6.2077798843,
+    "name": "Nancy Malzeville "
+  },
+  "LFFB": {
+    "lat": 48.3511009216,
+    "long": 2.4255599976,
+    "name": "Buno Bonnevaux "
+  },
+  "LFFC": {
+    "lat": 49.0788993835,
+    "long": 1.6897200346,
+    "name": "Mantes Cherence "
+  },
+  "LFFD": {
+    "lat": 48.898601532,
+    "long": 1.2505600452,
+    "name": "St Andre De L'eure "
+  },
+  "LFFE": {
+    "lat": 49.0463981628,
+    "long": 2.3530600071,
+    "name": "Enghien Moisselles "
+  },
+  "LFFG": {
+    "lat": 48.7557983398,
+    "long": 3.2766699791,
+    "name": "La Ferte Gaucher "
+  },
+  "LFFH": {
+    "lat": 49.067199707,
+    "long": 3.3569400311,
+    "name": "Chateau-Thierry - Belleau "
+  },
+  "LFFI": {
+    "lat": 47.4081001282,
+    "long": -1.1775000095,
+    "name": "Ancenis "
+  },
+  "LFFJ": {
+    "lat": 48.386100769,
+    "long": 5.1449999809,
+    "name": "Joinville Mussey "
+  },
+  "LFFK": {
+    "lat": 46.4413986206,
+    "long": -0.7927780151,
+    "name": "Fontenay Le Comte "
+  },
+  "LFFL": {
+    "lat": 48.5158004761,
+    "long": 1.6399999857,
+    "name": "Bailleau Armenonville "
+  },
+  "LFFM": {
+    "lat": 47.6567001343,
+    "long": 1.9891699553,
+    "name": "Lamotte Beuvron "
+  },
+  "LFFN": {
+    "lat": 48.4297981262,
+    "long": 4.4822201729,
+    "name": "Brienne-le-Chateau "
+  },
+  "LFFP": {
+    "lat": 48.1571998596,
+    "long": 2.1925001144,
+    "name": "Pithiviers "
+  },
+  "LFFQ": {
+    "lat": 48.4977989197,
+    "long": 2.3433299065,
+    "name": "La Ferte Alais "
+  },
+  "LFFR": {
+    "lat": 48.0668983459,
+    "long": 4.4136099815,
+    "name": "Bar Sur Seine "
+  },
+  "LFFT": {
+    "lat": 48.3624992371,
+    "long": 5.7213897705,
+    "name": "Neufchateau "
+  },
+  "LFFU": {
+    "lat": 46.8711013794,
+    "long": 2.376940012,
+    "name": "Chateauneuf Sur Cher "
+  },
+  "LFFV": {
+    "lat": 47.1946983337,
+    "long": 2.0666699409,
+    "name": "Vierzon Mereau "
+  },
+  "LFFW": {
+    "lat": 46.9331016541,
+    "long": -1.3255599737,
+    "name": "Montaigu St Georges "
+  },
+  "LFFX": {
+    "lat": 46.5628013611,
+    "long": 4.9766697884,
+    "name": "Tournus Cuisery "
+  },
+  "LFFY": {
+    "lat": 49.306098938,
+    "long": 1.6386100054,
+    "name": "Etrepagny "
+  },
+  "LFFZ": {
+    "lat": 48.7106018066,
+    "long": 3.7641699314,
+    "name": "Sezanne St Remy "
+  },
+  "LFGA": {
+    "lat": 48.1099014282,
+    "long": 7.3590102196,
+    "name": "Colmar-Houssen "
+  },
+  "LFGB": {
+    "lat": 47.7412986755,
+    "long": 7.4322099686,
+    "name": "Mulhouse-Habsheim "
+  },
+  "LFGC": {
+    "lat": 48.5544013977,
+    "long": 7.7780599594,
+    "name": "Strasbourg Neuhof "
+  },
+  "LFGD": {
+    "lat": 46.9199981689,
+    "long": 5.7600002289,
+    "name": "Arbois "
+  },
+  "LFGE": {
+    "lat": 47.5031013489,
+    "long": 3.8994400501,
+    "name": "Avallon "
+  },
+  "LFGF": {
+    "lat": 47.0059013367,
+    "long": 4.8934202194,
+    "name": "Beaune-Challanges "
+  },
+  "LFGG": {
+    "lat": 47.7022018433,
+    "long": 6.8324999809,
+    "name": "Belfort Chaux "
+  },
+  "LFGH": {
+    "lat": 47.3605995178,
+    "long": 2.9194400311,
+    "name": "Cosne Sur Loire "
+  },
+  "LFGI": {
+    "lat": 47.3869018555,
+    "long": 4.9480600357,
+    "name": "Dijon Darois "
+  },
+  "LFGJ": {
+    "lat": 47.0390014648,
+    "long": 5.4272499084,
+    "name": "Dole-Tavaux "
+  },
+  "LFGK": {
+    "lat": 47.9921989441,
+    "long": 3.3922200203,
+    "name": "Joigny "
+  },
+  "LFGL": {
+    "lat": 46.6761016846,
+    "long": 5.4711098671,
+    "name": "Lons Le Saulnier Courlaoux "
+  },
+  "LFGM": {
+    "lat": 46.6041984558,
+    "long": 4.3338899612,
+    "name": "Montceau Les Mines "
+  },
+  "LFGN": {
+    "lat": 46.4678001404,
+    "long": 4.1350002289,
+    "name": "Paray Le Monial "
+  },
+  "LFGO": {
+    "lat": 48.290599823,
+    "long": 3.2508299351,
+    "name": "Pont Sur Yonne "
+  },
+  "LFGP": {
+    "lat": 47.9822006226,
+    "long": 3.7783300877,
+    "name": "St Florentin Cheu "
+  },
+  "LFGQ": {
+    "lat": 47.4818992615,
+    "long": 4.3441700935,
+    "name": "Semur En Auxois "
+  },
+  "LFGR": {
+    "lat": 49.1528015137,
+    "long": 5.932779789,
+    "name": "Doncourt Les Conflans "
+  },
+  "LFGS": {
+    "lat": 49.4844017029,
+    "long": 5.5727801323,
+    "name": "Longuyon Villette "
+  },
+  "LFGT": {
+    "lat": 48.7188987732,
+    "long": 7.0794401169,
+    "name": "Sarrebourg Buhl "
+  },
+  "LFGU": {
+    "lat": 49.1281013489,
+    "long": 7.1083297729,
+    "name": "Sarreguemines Neunkirch "
+  },
+  "LFGV": {
+    "lat": 49.3546981812,
+    "long": 6.2013897896,
+    "name": "Thionville Yutz "
+  },
+  "LFGW": {
+    "lat": 49.1223983765,
+    "long": 5.4690499306,
+    "name": "Verdun-Le Rozelier "
+  },
+  "LFGX": {
+    "lat": 46.7644004822,
+    "long": 5.8208298683,
+    "name": "Champagnole Crotenay "
+  },
+  "LFGY": {
+    "lat": 48.26720047,
+    "long": 7.0086097717,
+    "name": "St Die Remomeix "
+  },
+  "LFGZ": {
+    "lat": 47.1431007385,
+    "long": 4.9691700935,
+    "name": "Nuits St Georges "
+  },
+  "LFHA": {
+    "lat": 45.5149993896,
+    "long": 3.2674999237,
+    "name": "Issoire Le Broc "
+  },
+  "LFHC": {
+    "lat": 45.8697013855,
+    "long": 5.1872200966,
+    "name": "Perouges - Meximieux "
+  },
+  "LFHD": {
+    "lat": 44.3988990784,
+    "long": 4.7180600166,
+    "name": "Pierrelatte "
+  },
+  "LFHE": {
+    "lat": 45.0661010742,
+    "long": 5.1033301353,
+    "name": "Romans - Saint-Paul "
+  },
+  "LFHF": {
+    "lat": 44.4453010559,
+    "long": 4.3338899612,
+    "name": "Ruoms "
+  },
+  "LFHG": {
+    "lat": 45.4930992126,
+    "long": 4.5355601311,
+    "name": "St Chamond L'horme "
+  },
+  "LFHH": {
+    "lat": 45.4641990662,
+    "long": 4.8294401169,
+    "name": "Vienne Reventin "
+  },
+  "LFHI": {
+    "lat": 45.6878013611,
+    "long": 5.4536099434,
+    "name": "Morestel "
+  },
+  "LFHJ": {
+    "lat": 45.6542015076,
+    "long": 4.9136099815,
+    "name": "Lyon Corbas "
+  },
+  "LFHL": {
+    "lat": 44.706401825,
+    "long": 3.8883299828,
+    "name": "Langogne - Lesperon "
+  },
+  "LFHM": {
+    "lat": 45.8208007813,
+    "long": 6.6522197723,
+    "name": "Megeve "
+  },
+  "LFHN": {
+    "lat": 46.1241989136,
+    "long": 5.8061099052,
+    "name": "Bellegarde-Vouvray "
+  },
+  "LFHO": {
+    "lat": 44.5442008972,
+    "long": 4.3721899986,
+    "name": "Aubenas-Ardeche Meridional "
+  },
+  "LFHP": {
+    "lat": 45.0806999207,
+    "long": 3.7628901005,
+    "name": "Le Puy-Loudes "
+  },
+  "LFHQ": {
+    "lat": 45.0764007568,
+    "long": 2.9936099052,
+    "name": "Saint-Flour-Coltines "
+  },
+  "LFHR": {
+    "lat": 45.3250007629,
+    "long": 3.35916996,
+    "name": "Brioude Beaumont "
+  },
+  "LFHS": {
+    "lat": 46.2009010315,
+    "long": 5.2920298576,
+    "name": "Bourg-Ceyzeriat "
+  },
+  "LFHT": {
+    "lat": 45.5168991089,
+    "long": 3.7463901043,
+    "name": "Ambert Le Poyet "
+  },
+  "LFHU": {
+    "lat": 45.0882987976,
+    "long": 6.0847201347,
+    "name": "L'alpe D'huez "
+  },
+  "LFHV": {
+    "lat": 45.919983,
+    "long": 4.634931,
+    "name": "Villefranche-Tarare "
+  },
+  "LFHW": {
+    "lat": 46.1427993774,
+    "long": 4.7147197723,
+    "name": "Belleville Villie Morgon "
+  },
+  "LFHX": {
+    "lat": 46.2538986206,
+    "long": 3.5886099339,
+    "name": "Lapalisse - Perigny "
+  },
+  "LFHY": {
+    "lat": 46.5345993042,
+    "long": 3.423719883,
+    "name": "Moulins-Montbeugny "
+  },
+  "LFHZ": {
+    "lat": 45.9538993835,
+    "long": 6.6391701698,
+    "name": "Sallanches "
+  },
+  "LFIB": {
+    "lat": 44.7825012207,
+    "long": 0.9588890076,
+    "name": "Belves St Pardoux "
+  },
+  "LFID": {
+    "lat": 43.9103012085,
+    "long": 0.387221992,
+    "name": "Condom Valence Sur Baise "
+  },
+  "LFIF": {
+    "lat": 43.823299408,
+    "long": 2.7452800274,
+    "name": "Saint-Affrique-Belmont "
+  },
+  "LFIG": {
+    "lat": 44.1777992249,
+    "long": 2.5150001049,
+    "name": "Cassagnes-Begonhes "
+  },
+  "LFIH": {
+    "lat": 45.2681007385,
+    "long": 0.0169440005,
+    "name": "Chalais "
+  },
+  "LFIK": {
+    "lat": 45.2402992249,
+    "long": 0.2669439912,
+    "name": "Riberac St Aulaye "
+  },
+  "LFIL": {
+    "lat": 43.9157981873,
+    "long": -0.9491670132,
+    "name": "Rion Des Landes "
+  },
+  "LFIM": {
+    "lat": 43.1086006165,
+    "long": 0.6202780008,
+    "name": "St Gaudens Montrejeau "
+  },
+  "LFIP": {
+    "lat": 42.7969017029,
+    "long": 0.4355559945,
+    "name": "Peyresourde Balestas "
+  },
+  "LFIR": {
+    "lat": 43.4813995361,
+    "long": 1.9800000191,
+    "name": "Revel Montgey "
+  },
+  "LFIT": {
+    "lat": 43.6122016907,
+    "long": 1.7252800465,
+    "name": "Toulouse Bourg St Bernard "
+  },
+  "LFIV": {
+    "lat": 45.3805999756,
+    "long": -1.1158299446,
+    "name": "Vendays Montalivet "
+  },
+  "LFIX": {
+    "lat": 43.3375015259,
+    "long": -1.4222199917,
+    "name": "Itxassou "
+  },
+  "LFIY": {
+    "lat": 45.9664001465,
+    "long": -0.5252779722,
+    "name": "St Jean D'angely "
+  },
+  "LFJA": {
+    "lat": 48.0862998962,
+    "long": 5.0490198135,
+    "name": "Chaumont-Semoutiers "
+  },
+  "LFJB": {
+    "lat": 46.9028015137,
+    "long": -0.6977779865,
+    "name": "Mauleon "
+  },
+  "LFJC": {
+    "lat": 47.4383010864,
+    "long": 3.5086100101,
+    "name": "Clamecy "
+  },
+  "LFJD": {
+    "lat": 46.0396995544,
+    "long": 5.496940136,
+    "name": "Corlier "
+  },
+  "LFJE": {
+    "lat": 44.4958000183,
+    "long": 5.4028501511,
+    "name": "La Motte Chalancon "
+  },
+  "LFJF": {
+    "lat": 44.6944999695,
+    "long": 5.1511101723,
+    "name": "Aubenasson "
+  },
+  "LFJH": {
+    "lat": 43.2022018433,
+    "long": 1.0511100292,
+    "name": "Cazeres Palaminy "
+  },
+  "LFJI": {
+    "lat": 45.8250007629,
+    "long": -1.0766700506,
+    "name": "Marennes Le Bournet "
+  },
+  "LFJL": {
+    "lat": 48.9821014404,
+    "long": 6.2513198853,
+    "name": "Metz-Nancy-Lorraine "
+  },
+  "LFJM": {
+    "lat": 48.0807151794,
+    "long": 3.7142372131,
+    "name": "Chailley "
+  },
+  "LFJR": {
+    "lat": 47.5602989197,
+    "long": -0.3122220039,
+    "name": "Angers-Loire "
+  },
+  "LFJS": {
+    "lat": 49.3457984924,
+    "long": 3.2841699123,
+    "name": "Soissons - Courmelles "
+  },
+  "LFJT": {
+    "lat": 47.1500015259,
+    "long": 0.7127779722,
+    "name": "Tours Le Louroux "
+  },
+  "LFJU": {
+    "lat": 46.7136001587,
+    "long": 2.9458999634,
+    "name": "Lurcy-Levis "
+  },
+  "LFKA": {
+    "lat": 45.6272010803,
+    "long": 6.3297200203,
+    "name": "Albertville "
+  },
+  "LFKB": {
+    "lat": 42.5527000427,
+    "long": 9.4837303162,
+    "name": "Bastia-Poretta "
+  },
+  "LFKC": {
+    "lat": 42.5307998657,
+    "long": 8.7931900024,
+    "name": "Calvi-Sainte-Catherine "
+  },
+  "LFKD": {
+    "lat": 45.256401062,
+    "long": 6.8013901711,
+    "name": "Sollieres Sardieres "
+  },
+  "LFKE": {
+    "lat": 45.0278015137,
+    "long": 5.3099999428,
+    "name": "Saint-Jean-en-Royans "
+  },
+  "LFKF": {
+    "lat": 41.5005989075,
+    "long": 9.0977802277,
+    "name": "Figari Sud-Corse "
+  },
+  "LFKG": {
+    "lat": 42.0550003052,
+    "long": 9.4019403458,
+    "name": "Ghisonaccia Alzitone "
+  },
+  "LFKH": {
+    "lat": 45.5167007446,
+    "long": 5.680560112,
+    "name": "St Jean D'avelanne "
+  },
+  "LFKJ": {
+    "lat": 41.9235992432,
+    "long": 8.8029203415,
+    "name": "Ajaccio-Napoleon Bonaparte "
+  },
+  "LFKL": {
+    "lat": 45.7117004395,
+    "long": 4.6977801323,
+    "name": "Lyon Brindas "
+  },
+  "LFKM": {
+    "lat": 45.6072006226,
+    "long": 4.3058300018,
+    "name": "St Galmier "
+  },
+  "LFKO": {
+    "lat": 41.6605987549,
+    "long": 8.889749527,
+    "name": "Propriano "
+  },
+  "LFKP": {
+    "lat": 45.5600013733,
+    "long": 5.3847198486,
+    "name": "La Tour Du Pin "
+  },
+  "LFKS": {
+    "lat": 41.9244003296,
+    "long": 9.4060001373,
+    "name": "Solenzara (BA 126) Air Base"
+  },
+  "LFKT": {
+    "lat": 42.293598175,
+    "long": 9.1930599213,
+    "name": "Corte "
+  },
+  "LFKX": {
+    "lat": 45.4068984985,
+    "long": 6.5805602074,
+    "name": "Meribel "
+  },
+  "LFKY": {
+    "lat": 45.6949996948,
+    "long": 5.6927800179,
+    "name": "Belley - Peyrieu "
+  },
+  "LFKZ": {
+    "lat": 46.3889007568,
+    "long": 5.7722201347,
+    "name": "St Claude Pratz "
+  },
+  "LFLA": {
+    "lat": 47.8502006531,
+    "long": 3.49710989,
+    "name": "Auxerre-Branches "
+  },
+  "LFLB": {
+    "lat": 45.6380996704,
+    "long": 5.88022995,
+    "name": "Chambery-Savoie "
+  },
+  "LFLC": {
+    "lat": 45.7867012024,
+    "long": 3.1691699028,
+    "name": "Clermont-Ferrand Auvergne "
+  },
+  "LFLD": {
+    "lat": 47.0581016541,
+    "long": 2.3702800274,
+    "name": "Bourges "
+  },
+  "LFLE": {
+    "lat": 45.5611000061,
+    "long": 5.9757599831,
+    "name": "Chambery-Challes-les-Eaux "
+  },
+  "LFLG": {
+    "lat": 45.2192001343,
+    "long": 5.8497200012,
+    "name": "Grenoble Le Versoud "
+  },
+  "LFLH": {
+    "lat": 46.8260993958,
+    "long": 4.8176298141,
+    "name": "Chalon-Champforgeuil "
+  },
+  "LFLI": {
+    "lat": 46.1920013428,
+    "long": 6.2683901787,
+    "name": "Annemasse "
+  },
+  "LFLJ": {
+    "lat": 45.3967018127,
+    "long": 6.6347198486,
+    "name": "Courchevel "
+  },
+  "LFLK": {
+    "lat": 46.2792015076,
+    "long": 5.6675000191,
+    "name": "Oyonnax-Arbent "
+  },
+  "LFLL": {
+    "lat": 45.726398468,
+    "long": 5.0908298492,
+    "name": "Lyon Saint-Exupery "
+  },
+  "LFLM": {
+    "lat": 46.2951011658,
+    "long": 4.7957701683,
+    "name": "Macon-Charnay "
+  },
+  "LFLN": {
+    "lat": 46.4124984741,
+    "long": 4.0132598877,
+    "name": "Saint-Yan "
+  },
+  "LFLO": {
+    "lat": 46.0583000183,
+    "long": 4.0013899803,
+    "name": "Roanne-Renaison "
+  },
+  "LFLP": {
+    "lat": 45.9291992188,
+    "long": 6.098760128,
+    "name": "Annecy-Haute-Savoie-Mont Blanc "
+  },
+  "LFLQ": {
+    "lat": 44.5835990906,
+    "long": 4.7405600548,
+    "name": "Montelimar - Ancone "
+  },
+  "LFLR": {
+    "lat": 45.2560997009,
+    "long": 4.8258299828,
+    "name": "Saint-Rambert-d'Albon "
+  },
+  "LFLS": {
+    "lat": 45.3628997803,
+    "long": 5.3293700218,
+    "name": "Grenoble-Isere "
+  },
+  "LFLT": {
+    "lat": 46.3525009155,
+    "long": 2.5704898834,
+    "name": "Montlucon-Domerat "
+  },
+  "LFLU": {
+    "lat": 44.9216003418,
+    "long": 4.9699001312,
+    "name": "Valence-Chabeuil "
+  },
+  "LFLV": {
+    "lat": 46.1697006226,
+    "long": 3.4037399292,
+    "name": "Vichy-Charmeil "
+  },
+  "LFLW": {
+    "lat": 44.8913993835,
+    "long": 2.4219400883,
+    "name": "Aurillac "
+  },
+  "LFLX": {
+    "lat": 46.8622016907,
+    "long": 1.7306699753,
+    "name": "Chateauroux-Deols Marcel Dassault "
+  },
+  "LFLY": {
+    "lat": 45.7271995544,
+    "long": 4.944270134,
+    "name": "Lyon-Bron "
+  },
+  "LFLZ": {
+    "lat": 45.7036018372,
+    "long": 4.2011098862,
+    "name": "Feurs Chambeon "
+  },
+  "LFMA": {
+    "lat": 43.5055999756,
+    "long": 5.3677802086,
+    "name": "Aix-en-Provence (BA 114) "
+  },
+  "LFMC": {
+    "lat": 43.3847007751,
+    "long": 6.3871397972,
+    "name": "Le Luc-Le Cannet "
+  },
+  "LFMD": {
+    "lat": 43.5419998169,
+    "long": 6.9534797668,
+    "name": "Cannes-Mandelieu "
+  },
+  "LFME": {
+    "lat": 43.8539009094,
+    "long": 4.4136099815,
+    "name": "Nimes Courbessac "
+  },
+  "LFMF": {
+    "lat": 43.6088981628,
+    "long": 6.7027797699,
+    "name": "Fayence "
+  },
+  "LFMG": {
+    "lat": 43.4075012207,
+    "long": 1.9902800322,
+    "name": "Montagne Noire "
+  },
+  "LFMH": {
+    "lat": 45.540599823,
+    "long": 4.2963900566,
+    "name": "Saint-Etienne-Boutheon "
+  },
+  "LFMI": {
+    "lat": 43.5227012634,
+    "long": 4.9238400459,
+    "name": "Istres Le Tube/Istres Air Base (BA 125) "
+  },
+  "LFMK": {
+    "lat": 43.2159996033,
+    "long": 2.306319952,
+    "name": "Carcassonne "
+  },
+  "LFML": {
+    "lat": 43.439271922,
+    "long": 5.2214241028,
+    "name": "Marseille Provence "
+  },
+  "LFMN": {
+    "lat": 43.6584014893,
+    "long": 7.2158699036,
+    "name": "Nice-Cote d'Azur "
+  },
+  "LFMO": {
+    "lat": 44.140499115,
+    "long": 4.8667201996,
+    "name": "Orange-Caritat (BA 115) Air Base"
+  },
+  "LFMP": {
+    "lat": 42.740398407,
+    "long": 2.8706700802,
+    "name": "Perpignan-Rivesaltes (Llabanere) "
+  },
+  "LFMQ": {
+    "lat": 43.2524986267,
+    "long": 5.7851901054,
+    "name": "Le Castellet "
+  },
+  "LFMR": {
+    "lat": 44.3883018494,
+    "long": 6.6102800369,
+    "name": "Barcelonnette - Saint-Pons "
+  },
+  "LFMS": {
+    "lat": 44.0696983337,
+    "long": 4.1421198845,
+    "name": "Ales-Deaux "
+  },
+  "LFMT": {
+    "lat": 43.5761985779,
+    "long": 3.9630100727,
+    "name": "Montpellier-Mediterranee "
+  },
+  "LFMU": {
+    "lat": 43.3235015869,
+    "long": 3.3538999557,
+    "name": "Beziers-Vias "
+  },
+  "LFMV": {
+    "lat": 43.9072990417,
+    "long": 4.9018301964,
+    "name": "Avignon-Caumont "
+  },
+  "LFMW": {
+    "lat": 43.3121986389,
+    "long": 1.921110034,
+    "name": "Castelnaudary Villeneuve "
+  },
+  "LFMX": {
+    "lat": 44.0600013733,
+    "long": 5.9913902283,
+    "name": "Chateau-Arnoux-Saint-Auban "
+  },
+  "LFMY": {
+    "lat": 43.6063995361,
+    "long": 5.1092500687,
+    "name": "Salon-de-Provence (BA 701) Air Base"
+  },
+  "LFMZ": {
+    "lat": 43.1758003235,
+    "long": 2.73416996,
+    "name": "Lezignan-Corbieres "
+  },
+  "LFNA": {
+    "lat": 44.4550018311,
+    "long": 6.037779808,
+    "name": "Gap - Tallard "
+  },
+  "LFNB": {
+    "lat": 44.5021018982,
+    "long": 3.5328199863,
+    "name": "Mende-Brenoux "
+  },
+  "LFNC": {
+    "lat": 44.7016983032,
+    "long": 6.600279808,
+    "name": "Mont-Dauphin - St-Crepin "
+  },
+  "LFND": {
+    "lat": 44.2694015503,
+    "long": 4.6533298492,
+    "name": "Pont St Esprit "
+  },
+  "LFNE": {
+    "lat": 43.6582984924,
+    "long": 5.0136098862,
+    "name": "Salon Eyguieres "
+  },
+  "LFNF": {
+    "lat": 43.7378005981,
+    "long": 5.7841701508,
+    "name": "Vinon Sur Verdon "
+  },
+  "LFNG": {
+    "lat": 43.6102981567,
+    "long": 4.0702800751,
+    "name": "Montpellier Candillargues "
+  },
+  "LFNH": {
+    "lat": 44.029800415,
+    "long": 5.0780601501,
+    "name": "Carpentras "
+  },
+  "LFNJ": {
+    "lat": 44.518901825,
+    "long": 5.7375001907,
+    "name": "Aspres-sur-Buech "
+  },
+  "LFNL": {
+    "lat": 43.8008003235,
+    "long": 3.7825000286,
+    "name": "St Martin De Londres "
+  },
+  "LFNO": {
+    "lat": 44.2863998413,
+    "long": 3.4666700363,
+    "name": "Florac Ste Enimie "
+  },
+  "LFNP": {
+    "lat": 43.5057983398,
+    "long": 3.4136099815,
+    "name": "Pezenas Nizas "
+  },
+  "LFNQ": {
+    "lat": 42.543598175,
+    "long": 2.1199998856,
+    "name": "Mont Louis La Quillane "
+  },
+  "LFNR": {
+    "lat": 43.5377998352,
+    "long": 5.1783299446,
+    "name": "Berre La Fare "
+  },
+  "LFNS": {
+    "lat": 44.2874984741,
+    "long": 5.9302802086,
+    "name": "Sisteron - Theze "
+  },
+  "LFNT": {
+    "lat": 43.9968986511,
+    "long": 4.7555599213,
+    "name": "Avignon Pujaut "
+  },
+  "LFNU": {
+    "lat": 44.0847015381,
+    "long": 4.3952798843,
+    "name": "Uzes "
+  },
+  "LFNV": {
+    "lat": 44.3368988037,
+    "long": 4.9080600739,
+    "name": "Valreas Visan "
+  },
+  "LFNW": {
+    "lat": 42.9113998413,
+    "long": 2.0561099052,
+    "name": "Puivert "
+  },
+  "LFNX": {
+    "lat": 43.6408004761,
+    "long": 3.1455600262,
+    "name": "Bedarieux La Tour "
+  },
+  "LFNY": {
+    "lat": 44.6688995361,
+    "long": 5.9061098099,
+    "name": "St Etienne En Devoluy "
+  },
+  "LFNZ": {
+    "lat": 43.768901825,
+    "long": 4.8936100006,
+    "name": "Le Mazet De Romanin "
+  },
+  "LFOA": {
+    "lat": 47.0532989502,
+    "long": 2.6324999332,
+    "name": "Avord (BA 702) Air Base"
+  },
+  "LFOB": {
+    "lat": 49.4543991089,
+    "long": 2.1127800941,
+    "name": "Paris Beauvais Tille "
+  },
+  "LFOC": {
+    "lat": 48.0581016541,
+    "long": 1.3766200542,
+    "name": "Chateaudun (BA 279) "
+  },
+  "LFOD": {
+    "lat": 47.2568016052,
+    "long": -0.1151420027,
+    "name": "Saumur-Saint-Florent "
+  },
+  "LFOE": {
+    "lat": 49.0287017822,
+    "long": 1.2198599577,
+    "name": "Evreux-Fauville (BA 105) Air Base"
+  },
+  "LFOF": {
+    "lat": 48.4474983215,
+    "long": 0.1091670021,
+    "name": "Alencon Valframbert "
+  },
+  "LFOG": {
+    "lat": 48.7524986267,
+    "long": -0.5894439816,
+    "name": "Flers Saint Paul "
+  },
+  "LFOH": {
+    "lat": 49.5339012146,
+    "long": 0.0880559981,
+    "name": "Le Havre Octeville "
+  },
+  "LFOI": {
+    "lat": 50.1435012817,
+    "long": 1.831889987,
+    "name": "Abbeville-Buigny-Saint-Maclou "
+  },
+  "LFOJ": {
+    "lat": 47.9878005981,
+    "long": 1.7605600357,
+    "name": "Orleans-Bricy (BA 123) Air Base"
+  },
+  "LFOK": {
+    "lat": 48.7761001587,
+    "long": 4.1844902039,
+    "name": "Chalons-Vatry Air Base"
+  },
+  "LFOL": {
+    "lat": 48.7597007751,
+    "long": 0.6591669917,
+    "name": "L'aigle St Michel "
+  },
+  "LFOM": {
+    "lat": 49.2030982971,
+    "long": -1.5066699982,
+    "name": "Lessay "
+  },
+  "LFON": {
+    "lat": 48.7066993713,
+    "long": 1.3627799749,
+    "name": "Dreux Vernouillet "
+  },
+  "LFOO": {
+    "lat": 46.4768981934,
+    "long": -1.7227799892,
+    "name": "Les Sables-d'Olonne Talmont "
+  },
+  "LFOP": {
+    "lat": 49.3842010498,
+    "long": 1.1748000383,
+    "name": "Rouen "
+  },
+  "LFOQ": {
+    "lat": 47.6785011292,
+    "long": 1.2088400126,
+    "name": "Blois-Le Breuil "
+  },
+  "LFOR": {
+    "lat": 48.4589004517,
+    "long": 1.5238900185,
+    "name": "Chartres Champhol "
+  },
+  "LFOS": {
+    "lat": 49.836101532,
+    "long": 0.6549999714,
+    "name": "St Valery Vittefleur "
+  },
+  "LFOT": {
+    "lat": 47.4322013855,
+    "long": 0.7276059985,
+    "name": "Tours-Val-de-Loire "
+  },
+  "LFOU": {
+    "lat": 47.0820999146,
+    "long": -0.8770639896,
+    "name": "Cholet Le Pontreau "
+  },
+  "LFOV": {
+    "lat": 48.0313987732,
+    "long": -0.7429860234,
+    "name": "Laval-Entrammes "
+  },
+  "LFOW": {
+    "lat": 49.8168983459,
+    "long": 3.2066700459,
+    "name": "Saint-Quentin - Roupy "
+  },
+  "LFOX": {
+    "lat": 48.3819007874,
+    "long": 2.0752799511,
+    "name": "Etampes Mondesir "
+  },
+  "LFOY": {
+    "lat": 49.5447006226,
+    "long": 0.3611109853,
+    "name": "Le Havre St Romain "
+  },
+  "LFOZ": {
+    "lat": 47.896900177,
+    "long": 2.1633300781,
+    "name": "Orleans-Saint-Denis-de-l'Hotel "
+  },
+  "LFPA": {
+    "lat": 49.1657981873,
+    "long": 2.3130600452,
+    "name": "Persan Beaumont "
+  },
+  "LFPB": {
+    "lat": 48.9693984985,
+    "long": 2.4413900375,
+    "name": "Paris-Le Bourget "
+  },
+  "LFPC": {
+    "lat": 49.2535018921,
+    "long": 2.5191400051,
+    "name": "Creil Air Base"
+  },
+  "LFPD": {
+    "lat": 49.1027984619,
+    "long": 0.5666670203,
+    "name": "Bernay St Martin "
+  },
+  "LFPE": {
+    "lat": 48.9277992249,
+    "long": 2.8352799416,
+    "name": "Meaux Esbly "
+  },
+  "LFPF": {
+    "lat": 48.8436012268,
+    "long": 1.9088900089,
+    "name": "Beynes Thiverval "
+  },
+  "LFPG": {
+    "lat": 49.0127983093,
+    "long": 2.5499999523,
+    "name": "Charles de Gaulle International "
+  },
+  "LFPH": {
+    "lat": 48.8978004456,
+    "long": 2.6075000763,
+    "name": "Chelles le Pin "
+  },
+  "LFPK": {
+    "lat": 48.8376998901,
+    "long": 3.016119957,
+    "name": "Coulommiers-Voisins "
+  },
+  "LFPL": {
+    "lat": 48.8231010437,
+    "long": 2.6238899231,
+    "name": "Lognes Emerainville "
+  },
+  "LFPM": {
+    "lat": 48.6046981812,
+    "long": 2.6711199284,
+    "name": "Melun-Villaroche Air Base"
+  },
+  "LFPN": {
+    "lat": 48.7518997192,
+    "long": 2.1061899662,
+    "name": "Toussus-le-Noble "
+  },
+  "LFPO": {
+    "lat": 48.7252998352,
+    "long": 2.3594400883,
+    "name": "Paris-Orly "
+  },
+  "LFPP": {
+    "lat": 49.1100006104,
+    "long": 2.7380599976,
+    "name": "Le Plessis Belleville "
+  },
+  "LFPQ": {
+    "lat": 48.7071990967,
+    "long": 2.9044399261,
+    "name": "Fontenay Tresigny "
+  },
+  "LFPT": {
+    "lat": 49.0965995789,
+    "long": 2.0408298969,
+    "name": "Pontoise - Cormeilles-en-Vexin "
+  },
+  "LFPU": {
+    "lat": 48.3418998718,
+    "long": 2.7994399071,
+    "name": "Moret Episy "
+  },
+  "LFPV": {
+    "lat": 48.7743988037,
+    "long": 2.2015399933,
+    "name": "Villacoublay-Velizy (BA 107) Air Base"
+  },
+  "LFPX": {
+    "lat": 48.8436012268,
+    "long": 1.9822200537,
+    "name": "Chavenay Villepreux "
+  },
+  "LFPY": {
+    "lat": 48.5960998535,
+    "long": 2.3322200775,
+    "name": "Bretigny sur Orge Air Base"
+  },
+  "LFPZ": {
+    "lat": 48.8114013672,
+    "long": 2.0747199059,
+    "name": "Saint-Cyr-l'Ecole "
+  },
+  "LFQA": {
+    "lat": 49.2086982727,
+    "long": 4.1565799713,
+    "name": "Reims-Prunay "
+  },
+  "LFQB": {
+    "lat": 48.322101593,
+    "long": 4.016699791,
+    "name": "Troyes-Barberey "
+  },
+  "LFQC": {
+    "lat": 48.5932998657,
+    "long": 6.5434598923,
+    "name": "Luneville-Croismare "
+  },
+  "LFQD": {
+    "lat": 50.3238983154,
+    "long": 2.8027799129,
+    "name": "Arras Roclincourt "
+  },
+  "LFQE": {
+    "lat": 49.2268981934,
+    "long": 5.6722202301,
+    "name": "Etain-Rouvres Air Base"
+  },
+  "LFQF": {
+    "lat": 46.967300415,
+    "long": 4.2605700493,
+    "name": "Autun-Bellevue "
+  },
+  "LFQG": {
+    "lat": 47.0026016235,
+    "long": 3.1133298874,
+    "name": "Nevers-Fourchambault "
+  },
+  "LFQH": {
+    "lat": 47.8464012146,
+    "long": 4.5805602074,
+    "name": "Chatillon Sur Seine "
+  },
+  "LFQI": {
+    "lat": 50.2218017578,
+    "long": 3.154239893,
+    "name": "Cambrai-Epinoy (BA 103) Air Base"
+  },
+  "LFQJ": {
+    "lat": 50.3105010986,
+    "long": 4.0331201553,
+    "name": "Maubeuge-Elesmes "
+  },
+  "LFQK": {
+    "lat": 48.9061012268,
+    "long": 4.3541698456,
+    "name": "Chalons Ecury Sur Coole "
+  },
+  "LFQL": {
+    "lat": 50.4664001465,
+    "long": 2.8197200298,
+    "name": "Lens Benifontaine "
+  },
+  "LFQM": {
+    "lat": 47.2066001892,
+    "long": 6.0836801529,
+    "name": "Besancon-La Veze "
+  },
+  "LFQN": {
+    "lat": 50.7294006348,
+    "long": 2.2358300686,
+    "name": "Saint Omer Wizernes "
+  },
+  "LFQO": {
+    "lat": 50.6871986389,
+    "long": 3.0755600929,
+    "name": "Lille/Marcq-en-Baroeul "
+  },
+  "LFQP": {
+    "lat": 48.7663002014,
+    "long": 7.2005200386,
+    "name": "Phalsbourg-Bourscheid Air Base"
+  },
+  "LFQQ": {
+    "lat": 50.5619010925,
+    "long": 3.0894401073,
+    "name": "Lille-Lesquin "
+  },
+  "LFQR": {
+    "lat": 48.5005989075,
+    "long": 3.7633299828,
+    "name": "Romilly Sur Seine "
+  },
+  "LFQS": {
+    "lat": 50.3382987976,
+    "long": 2.9933300018,
+    "name": "Vitry en Artois "
+  },
+  "LFQT": {
+    "lat": 50.6184005737,
+    "long": 2.6422400475,
+    "name": "Merville-Calonne "
+  },
+  "LFQU": {
+    "lat": 48.9514007568,
+    "long": 7.0777797699,
+    "name": "Sarre Union "
+  },
+  "LFQV": {
+    "lat": 49.7839012146,
+    "long": 4.6470799446,
+    "name": "Charleville-Mezieres "
+  },
+  "LFQW": {
+    "lat": 47.6375999451,
+    "long": 6.2039198875,
+    "name": "Vesoul-Frotey "
+  },
+  "LFQX": {
+    "lat": 48.1150016785,
+    "long": 4.8208298683,
+    "name": "Juvancourt "
+  },
+  "LFQY": {
+    "lat": 48.7541999817,
+    "long": 7.4263901711,
+    "name": "Saverne Steinbourg "
+  },
+  "LFQZ": {
+    "lat": 48.7752990723,
+    "long": 6.715280056,
+    "name": "Dieuze Gueblange "
+  },
+  "LFRA": {
+    "lat": 47.4991989136,
+    "long": -0.5727779865,
+    "name": "Angers Avrille "
+  },
+  "LFRB": {
+    "lat": 48.4478988647,
+    "long": -4.4185400009,
+    "name": "Brest Bretagne "
+  },
+  "LFRC": {
+    "lat": 49.650100708,
+    "long": -1.4702800512,
+    "name": "Cherbourg-Maupertus "
+  },
+  "LFRD": {
+    "lat": 48.5876998901,
+    "long": -2.0799601078,
+    "name": "Dinard-Pleurtuit-Saint-Malo "
+  },
+  "LFRE": {
+    "lat": 47.2893981934,
+    "long": -2.3463900089,
+    "name": "La Baule-Escoublac "
+  },
+  "LFRF": {
+    "lat": 48.8830986023,
+    "long": -1.5641700029,
+    "name": "Granville "
+  },
+  "LFRG": {
+    "lat": 49.3652992249,
+    "long": 0.1543059945,
+    "name": "Deauville-Saint-Gatien "
+  },
+  "LFRH": {
+    "lat": 47.7606010437,
+    "long": -3.4400000572,
+    "name": "Lorient South Brittany (Bretagne Sud) "
+  },
+  "LFRI": {
+    "lat": 46.7019004822,
+    "long": -1.3786300421,
+    "name": "La Roche-sur-Yon "
+  },
+  "LFRJ": {
+    "lat": 48.5303001404,
+    "long": -4.1516399384,
+    "name": "Landivisiau Air Base"
+  },
+  "LFRK": {
+    "lat": 49.1733016968,
+    "long": -0.4499999881,
+    "name": "Caen-Carpiquet "
+  },
+  "LFRL": {
+    "lat": 48.2817001343,
+    "long": -4.4450201988,
+    "name": "Lanveoc-Poulmic Air Base"
+  },
+  "LFRM": {
+    "lat": 47.948600769,
+    "long": 0.2016669959,
+    "name": "Le Mans-Arnage "
+  },
+  "LFRN": {
+    "lat": 48.0694999695,
+    "long": -1.7347899675,
+    "name": "Rennes-Saint-Jacques "
+  },
+  "LFRO": {
+    "lat": 48.7543983459,
+    "long": -3.4716598988,
+    "name": "Lannion-Cote de Granit "
+  },
+  "LFRP": {
+    "lat": 48.0027999878,
+    "long": -2.3772199154,
+    "name": "Ploermel Loyat "
+  },
+  "LFRQ": {
+    "lat": 47.9749984741,
+    "long": -4.1677899361,
+    "name": "Quimper-Cornouaille "
+  },
+  "LFRS": {
+    "lat": 47.1531982422,
+    "long": -1.610730052,
+    "name": "Nantes Atlantique "
+  },
+  "LFRT": {
+    "lat": 48.5377998352,
+    "long": -2.8544399738,
+    "name": "Saint-Brieuc-Armor "
+  },
+  "LFRU": {
+    "lat": 48.6031990051,
+    "long": -3.8157799244,
+    "name": "Morlaix-Ploujean "
+  },
+  "LFRV": {
+    "lat": 47.7233009338,
+    "long": -2.7185599804,
+    "name": "Vannes-Meucon "
+  },
+  "LFRW": {
+    "lat": 48.6617012024,
+    "long": -1.4044400454,
+    "name": "Avranches Le Val St Pere "
+  },
+  "LFRZ": {
+    "lat": 47.3121986389,
+    "long": -2.1491799355,
+    "name": "Saint-Nazaire-Montoir "
+  },
+  "LFSA": {
+    "lat": 47.2747001648,
+    "long": 6.0841698647,
+    "name": "Besancon Thise "
+  },
+  "LFSB": {
+    "lat": 47.5895996094,
+    "long": 7.5299100876,
+    "name": "Euro Basel-Mulhouse-Freiburg "
+  },
+  "LFSC": {
+    "lat": 47.922000885,
+    "long": 7.3996701241,
+    "name": "Colmar-Meyenheim Air Base"
+  },
+  "LFSD": {
+    "lat": 47.268901825,
+    "long": 5.0900001526,
+    "name": "Dijon-Bourgogne "
+  },
+  "LFSE": {
+    "lat": 48.2118988037,
+    "long": 6.4491701126,
+    "name": "Epinal Dogneville "
+  },
+  "LFSF": {
+    "lat": 49.0717010498,
+    "long": 6.1316699982,
+    "name": "Metz-Frescaty (BA 128) Air Base"
+  },
+  "LFSG": {
+    "lat": 48.3250007629,
+    "long": 6.0699801445,
+    "name": "Epinal-Mirecourt "
+  },
+  "LFSH": {
+    "lat": 48.7943000793,
+    "long": 7.817609787,
+    "name": "Haguenau "
+  },
+  "LFSI": {
+    "lat": 48.6360015869,
+    "long": 4.8994197845,
+    "name": "Saint-Dizier-Robinson (BA 113) Air Base"
+  },
+  "LFSJ": {
+    "lat": 49.6596984863,
+    "long": 5.037779808,
+    "name": "Sedan Douzy "
+  },
+  "LFSK": {
+    "lat": 48.7033004761,
+    "long": 4.684440136,
+    "name": "Vitry Le Francois Vauclerc "
+  },
+  "LFSL": {
+    "lat": 48.7799987793,
+    "long": 5.9800000191,
+    "name": "Toul Rosieres Air Base"
+  },
+  "LFSM": {
+    "lat": 47.4869995117,
+    "long": 6.7905402184,
+    "name": "Montbeliard-Courcelles "
+  },
+  "LFSN": {
+    "lat": 48.6921005249,
+    "long": 6.2304601669,
+    "name": "Nancy-Essey "
+  },
+  "LFSO": {
+    "lat": 48.5830993652,
+    "long": 5.9549999237,
+    "name": "Nancy-Ochey (BA 133) Air Base"
+  },
+  "LFSP": {
+    "lat": 46.9039993286,
+    "long": 6.3273701668,
+    "name": "Pontarlier "
+  },
+  "LFSQ": {
+    "lat": 47.6556015015,
+    "long": 7.0108299255,
+    "name": "Fontaine "
+  },
+  "LFSR": {
+    "lat": 49.3100013733,
+    "long": 4.0500001907,
+    "name": "Reims-Champagne (BA 112) "
+  },
+  "LFST": {
+    "lat": 48.5382995605,
+    "long": 7.6282300949,
+    "name": "Strasbourg "
+  },
+  "LFSU": {
+    "lat": 47.9655990601,
+    "long": 5.2950000763,
+    "name": "Langres Rolampont "
+  },
+  "LFSV": {
+    "lat": 48.601398468,
+    "long": 6.057779789,
+    "name": "Pont St Vincent "
+  },
+  "LFSW": {
+    "lat": 49.0052986145,
+    "long": 4.0869398117,
+    "name": "Epernay Plivot "
+  },
+  "LFSX": {
+    "lat": 47.7831001282,
+    "long": 6.3640599251,
+    "name": "Luxeuil-Saint-Sauveur (BA 116) Air Base"
+  },
+  "LFSY": {
+    "lat": 48.0769004822,
+    "long": 5.1513900757,
+    "name": "Chaumont "
+  },
+  "LFSZ": {
+    "lat": 48.2238998413,
+    "long": 5.9352798462,
+    "name": "Vittel Champ De Course "
+  },
+  "LFTF": {
+    "lat": 43.2477989197,
+    "long": 6.1266999245,
+    "name": "Cuers-Pierrefeu "
+  },
+  "LFTH": {
+    "lat": 43.0973014832,
+    "long": 6.1460299492,
+    "name": "Toulon-Hyeres "
+  },
+  "LFTM": {
+    "lat": 44.4583015442,
+    "long": 5.7283301353,
+    "name": "Serres - La Batie-Montsaleon "
+  },
+  "LFTN": {
+    "lat": 44.2444000244,
+    "long": 4.0122199059,
+    "name": "La Grand'combe "
+  },
+  "LFTP": {
+    "lat": 43.870300293,
+    "long": 6.1647200584,
+    "name": "Puimoisson "
+  },
+  "LFTQ": {
+    "lat": 47.7406005859,
+    "long": -1.1880600452,
+    "name": "Chateaubriant Pouance "
+  },
+  "LFTR": {
+    "lat": 43.082698822,
+    "long": 5.9338197708,
+    "name": "Toulo(St Mandrier Navy) "
+  },
+  "LFTU": {
+    "lat": 43.4146995544,
+    "long": 6.7455601692,
+    "name": "Frejus "
+  },
+  "LFTW": {
+    "lat": 43.7574005127,
+    "long": 4.4163498878,
+    "name": "Nimes-Arles-Camargue "
+  },
+  "LFTZ": {
+    "lat": 43.2053985596,
+    "long": 6.4819998741,
+    "name": "La Mole "
+  },
+  "LFXA": {
+    "lat": 45.9873008728,
+    "long": 5.3284401894,
+    "name": "Amberieu  (BA 278)"
+  },
+  "LFXB": {
+    "lat": 45.7019004822,
+    "long": -0.636111021,
+    "name": "Saintes Thenac "
+  },
+  "LFXC": {
+    "lat": 48.2285995483,
+    "long": 5.8430199623,
+    "name": "Vittel (Auzainvilliers) "
+  },
+  "LFXG": {
+    "lat": 49.0666999817,
+    "long": 7.4499998093,
+    "name": "Bitche "
+  },
+  "LFXH": {
+    "lat": 47.1666984558,
+    "long": 6.3499999046,
+    "name": "Le Valdahon Air Base"
+  },
+  "LFXI": {
+    "lat": 44.0532989502,
+    "long": 5.4949998856,
+    "name": "Apt St Christol "
+  },
+  "LFXM": {
+    "lat": 49.1114006042,
+    "long": 4.3669400215,
+    "name": "Mourmelon "
+  },
+  "LFXQ": {
+    "lat": 47.9466018677,
+    "long": -2.1923000813,
+    "name": "Coetquidan Air Base"
+  },
+  "LFXR": {
+    "lat": 45.9308013916,
+    "long": -0.9952780008,
+    "name": "Rochefort Soubise "
+  },
+  "LFXU": {
+    "lat": 48.998298645,
+    "long": 1.9427800179,
+    "name": "Les Mureaux "
+  },
+  "LFYD": {
+    "lat": 48.0862998962,
+    "long": 5.6640601158,
+    "name": "Damblain "
+  },
+  "LFYG": {
+    "lat": 50.1425018311,
+    "long": 3.2650001049,
+    "name": "Cambrai Niergnies "
+  },
+  "LFYH": {
+    "lat": 47.3166999817,
+    "long": 5.5166702271,
+    "name": "Broye Les Pesmes "
+  },
+  "LFYK": {
+    "lat": 49.4592018127,
+    "long": 5.4025001526,
+    "name": "Marville Montmedy "
+  },
+  "LFYL": {
+    "lat": 47.70470047,
+    "long": 6.5458297729,
+    "name": "Lure Malbouhans "
+  },
+  "LFYM": {
+    "lat": 48.6599998474,
+    "long": 3.8338899612,
+    "name": "Marigny Le Grand "
+  },
+  "LFYR": {
+    "lat": 47.3208007813,
+    "long": 1.6888899803,
+    "name": "Romorantin Pruniers "
+  },
+  "LFYS": {
+    "lat": 42.4472007751,
+    "long": 2.0108299255,
+    "name": "Ste Leocadie "
+  },
+  "LFYT": {
+    "lat": 49.75,
+    "long": 3.2166700363,
+    "name": "Saint-Simon - Clastres Air Base"
+  }
+}

@@ -1,0 +1,5857 @@
+{
+  "CAA2": {
+    "lat": 45.7463888889,
+    "long": -75.0758333333,
+    "name": "St. Andre-Avellin"
+  },
+  "CAA8": {
+    "lat": 50.5167007446,
+    "long": -116,
+    "name": "Invermere "
+  },
+  "CAD4": {
+    "lat": 49.0555992126,
+    "long": -117.60900116,
+    "name": "Trail "
+  },
+  "CAD5": {
+    "lat": 50.1227989197,
+    "long": -120.7470016479,
+    "name": "Merritt "
+  },
+  "CAE4": {
+    "lat": 53.0167007446,
+    "long": -124.8330001831,
+    "name": "Tsacha Lake "
+  },
+  "CAF4": {
+    "lat": 51.5332984924,
+    "long": -124.1669998169,
+    "name": "Tsuniah Lake Lodge "
+  },
+  "CAG2": {
+    "lat": 50.5977310536,
+    "long": -104.601312876,
+    "name": "Regina / Aerogate"
+  },
+  "CAG3": {
+    "lat": 51.6260986328,
+    "long": -124.141998291,
+    "name": "Chilko Lake (Tsylos Park Lodge) "
+  },
+  "CAH3": {
+    "lat": 49.6794013977,
+    "long": -124.9820022583,
+    "name": "Courtenay Airpark"
+  },
+  "CAH4": {
+    "lat": 52.8532981873,
+    "long": -119.3339996338,
+    "name": "Valemount "
+  },
+  "CAJ2": {
+    "lat": 66.4910964966,
+    "long": -136.5729980469,
+    "name": "Wiley "
+  },
+  "CAJ3": {
+    "lat": 49.0368995667,
+    "long": -116.4980010986,
+    "name": "Art Sutcliffe Field"
+  },
+  "CAJ4": {
+    "lat": 52.4524993896,
+    "long": -125.3030014038,
+    "name": "Anahim Lake "
+  },
+  "CAJ7": {
+    "lat": 50.4500007629,
+    "long": -113.75,
+    "name": "Cayley A J Flying Ranch "
+  },
+  "CAJ9": {
+    "lat": 57.4272003174,
+    "long": -125.6500015259,
+    "name": "Fort Ware "
+  },
+  "CAK3": {
+    "lat": 49.0774002075,
+    "long": -122.9410018921,
+    "name": "Delta Heritage Air Park"
+  },
+  "CAL3": {
+    "lat": 50.1654600485,
+    "long": -120.171273351,
+    "name": "Douglas Lake "
+  },
+  "CAL4": {
+    "lat": 57.2238998413,
+    "long": -111.418998718,
+    "name": "Fort MacKay/Albian Aerodrome"
+  },
+  "CAM3": {
+    "lat": 48.7545336204,
+    "long": -123.709702492,
+    "name": "Duncan "
+  },
+  "CAM4": {
+    "lat": 52.3461940388,
+    "long": -114.667525291,
+    "name": "Alhambra / Ahlstrom"
+  },
+  "CAM5": {
+    "lat": 54.4392009821,
+    "long": -126.778879166,
+    "name": "Houston "
+  },
+  "CAP3": {
+    "lat": 49.4606018066,
+    "long": -123.71900177,
+    "name": "Sechelt-Gibsons "
+  },
+  "CAP6": {
+    "lat": 56.790599823,
+    "long": -124.8970031738,
+    "name": "Ingenika "
+  },
+  "CAQ4": {
+    "lat": 51.9556007385,
+    "long": -122.138999939,
+    "name": "Springhouse Airpark"
+  },
+  "CAQ5": {
+    "lat": 50.2663993835,
+    "long": -117.81300354,
+    "name": "Nakusp "
+  },
+  "CAR2": {
+    "lat": 49.6666984558,
+    "long": -116.8170013428,
+    "name": "Crawford Bay "
+  },
+  "CAR5": {
+    "lat": 43.7827292694,
+    "long": -80.4329252243,
+    "name": "Arthur (Arthur South)"
+  },
+  "CAS2": {
+    "lat": 53.073299408,
+    "long": -125.408996582,
+    "name": "Moose Lake (Lodge) "
+  },
+  "CAS3": {
+    "lat": 53.0881004333,
+    "long": -121.5149993896,
+    "name": "Barkerville "
+  },
+  "CAT1": {
+    "lat": 43.6833000183,
+    "long": -81.0044021606,
+    "name": "Atwood / Coghlin "
+  },
+  "CAT4": {
+    "lat": 49.3372001648,
+    "long": -124.3939971924,
+    "name": "Qualicum Beach "
+  },
+  "CAT5": {
+    "lat": 50.5755996704,
+    "long": -127.0289993286,
+    "name": "Port Mcneill "
+  },
+  "CAU3": {
+    "lat": 49.1733016968,
+    "long": -119.5510025024,
+    "name": "Oliver "
+  },
+  "CAU4": {
+    "lat": 54.0461006165,
+    "long": -124.0120010376,
+    "name": "Vanderhoof "
+  },
+  "CAV3": {
+    "lat": 51.6425018311,
+    "long": -121.3069992065,
+    "name": "One Hundred Mile House "
+  },
+  "CAV4": {
+    "lat": 53.3149986267,
+    "long": -120.1709976196,
+    "name": "Mcbride "
+  },
+  "CAV6": {
+    "lat": 50.041111,
+    "long": -96.585833,
+    "name": "Beausejour/Av-Ranch Airpark"
+  },
+  "CAV9": {
+    "lat": 50.1377983093,
+    "long": -97.0614013672,
+    "name": "Oak Hammock Air Park"
+  },
+  "CAW3": {
+    "lat": 51.7999992371,
+    "long": -123.5830001831,
+    "name": "Scum Lake "
+  },
+  "CAX2": {
+    "lat": 57.2691650391,
+    "long": -109.8475036621,
+    "name": "Axe Lake"
+  },
+  "CAX5": {
+    "lat": 52.6166992188,
+    "long": -121.5,
+    "name": "Likely "
+  },
+  "CAY2": {
+    "lat": 51.551700592,
+    "long": -122.327003479,
+    "name": "Gang Ranch "
+  },
+  "CAZ5": {
+    "lat": 50.7751091109,
+    "long": -121.321227551,
+    "name": "Cache Creek-Ashcroft Regional "
+  },
+  "CBA8": {
+    "lat": 53.8555984497,
+    "long": -122.9079971313,
+    "name": "Beaverley "
+  },
+  "CBA9": {
+    "lat": 56.2750015259,
+    "long": -124.0520019531,
+    "name": "Ospika "
+  },
+  "CBB7": {
+    "lat": 49.7430992126,
+    "long": -122.1630020142,
+    "name": "Tipella "
+  },
+  "CBB9": {
+    "lat": 49.0372009277,
+    "long": -119.488998413,
+    "name": "Osoyoos "
+  },
+  "CBBC": {
+    "lat": 52.1850013733,
+    "long": -128.1569976807,
+    "name": "Bella Bella (Campbell Island) "
+  },
+  "CBC2": {
+    "lat": 66.0374984741,
+    "long": -124.7149963379,
+    "name": "Ford Bay "
+  },
+  "CBD6": {
+    "lat": 61.0297012329,
+    "long": -123.388999939,
+    "name": "Nahanni Butte "
+  },
+  "CBE2": {
+    "lat": 49.2832984924,
+    "long": -115.1500015259,
+    "name": "Elko "
+  },
+  "CBF2": {
+    "lat": 43.808333333,
+    "long": -80.3119444444,
+    "name": "Belwood (Baird Field)"
+  },
+  "CBF9": {
+    "lat": 50.6088981628,
+    "long": -118.7310028076,
+    "name": "Mabel Lake "
+  },
+  "CBG2": {
+    "lat": 51.4294013977,
+    "long": -121.2099990845,
+    "name": "Green Lake "
+  },
+  "CBH2": {
+    "lat": 59.4258003235,
+    "long": -120.797996521,
+    "name": "Helmet "
+  },
+  "CBH4": {
+    "lat": 61.5647010803,
+    "long": -124.8150024414,
+    "name": "Prairie Creek "
+  },
+  "CBJ4": {
+    "lat": 51.2416992188,
+    "long": -121.9940032959,
+    "name": "Echo Valley "
+  },
+  "CBK6": {
+    "lat": 52.5149993896,
+    "long": -121.0449981689,
+    "name": "Quesnel Lake "
+  },
+  "CBK7": {
+    "lat": 58.8493995667,
+    "long": -125.2399978638,
+    "name": "Mile 422 (Alaska Highway) "
+  },
+  "CBL3": {
+    "lat": 58.8166999817,
+    "long": -122.7829971313,
+    "name": "Gordon Field"
+  },
+  "CBL6": {
+    "lat": 50.6333007813,
+    "long": -116.0999984741,
+    "name": "Radium Hot Springs "
+  },
+  "CBL9": {
+    "lat": 51.5127983093,
+    "long": -123.8040008545,
+    "name": "Elkin Creek Guest Ranch "
+  },
+  "CBM5": {
+    "lat": 57.9166984558,
+    "long": -131.1170043945,
+    "name": "Telegraph Creek "
+  },
+  "CBM6": {
+    "lat": 49.0099983215,
+    "long": -118.7900009155,
+    "name": "Midway "
+  },
+  "CBN9": {
+    "lat": 56.9061012268,
+    "long": -124.9649963379,
+    "name": "Tsay Keh "
+  },
+  "CBQ2": {
+    "lat": 49.1674995422,
+    "long": -122.5550003052,
+    "name": "Fort Langley "
+  },
+  "CBQ7": {
+    "lat": 56.9743995667,
+    "long": -126.7409973145,
+    "name": "Kemess Creek "
+  },
+  "CBQ8": {
+    "lat": 55.0666999817,
+    "long": -128.233001709,
+    "name": "Woodcock "
+  },
+  "CBR2": {
+    "lat": 49.9035987854,
+    "long": -116.9349975586,
+    "name": "Kaslo "
+  },
+  "CBR4": {
+    "lat": 51.2668021597,
+    "long": -121.685771942,
+    "name": "Clinton / Bleibler Ranch"
+  },
+  "CBS4": {
+    "lat": 59.7855987549,
+    "long": -136.5829925537,
+    "name": "Mule Creek "
+  },
+  "CBS7": {
+    "lat": 50.0663986206,
+    "long": -105.3010025024,
+    "name": "Briercrest South "
+  },
+  "CBS8": {
+    "lat": 49.3218994141,
+    "long": -124.9309997559,
+    "name": "Port Alberni "
+  },
+  "CBT3": {
+    "lat": 52.9719009399,
+    "long": -125.0270004272,
+    "name": "Tsetzi Lake (Pan Phillips) "
+  },
+  "CBT6": {
+    "lat": 50.1618895996,
+    "long": -120.507745743,
+    "name": "Quilchena "
+  },
+  "CBU2": {
+    "lat": 57.847994155,
+    "long": -129.983968735,
+    "name": "Eddontenajon / Iskut Village "
+  },
+  "CBW2": {
+    "lat": 54.163898468,
+    "long": -128.5809936523,
+    "name": "Kitimat "
+  },
+  "CBW3": {
+    "lat": 56.5213877877,
+    "long": -124.470291138,
+    "name": "Fort Grahame "
+  },
+  "CBW4": {
+    "lat": 56.9667015076,
+    "long": -130.25,
+    "name": "Bob Quinn Lake "
+  },
+  "CBW6": {
+    "lat": 43.793888889,
+    "long": -80.4025,
+    "name": "Belwood (Wright Field)"
+  },
+  "CBW8": {
+    "lat": 54.0080986023,
+    "long": -123.0230026245,
+    "name": "Prince George (North Cariboo Air Park) "
+  },
+  "CBX5": {
+    "lat": 61.9569015503,
+    "long": -128.2030029297,
+    "name": "Tungsten (Cantung) "
+  },
+  "CBX7": {
+    "lat": 55.0250015259,
+    "long": -120.9349975586,
+    "name": "Tumbler Ridge "
+  },
+  "CBZ9": {
+    "lat": 54.0133018494,
+    "long": -124.7679977417,
+    "name": "Fraser Lake "
+  },
+  "CCA3": {
+    "lat": 46.4432983398,
+    "long": -62.5928001404,
+    "name": "Cable Head Airpark"
+  },
+  "CCA6": {
+    "lat": 52.5668983459,
+    "long": -55.7846984863,
+    "name": "Williams Harbour "
+  },
+  "CCA7": {
+    "lat": 45.4618988037,
+    "long": -64.8214035034,
+    "name": "Apple River "
+  },
+  "CCC2": {
+    "lat": 47.1369018555,
+    "long": -55.3292007446,
+    "name": "Winterland "
+  },
+  "CCD2": {
+    "lat": 49.4789009094,
+    "long": -56.1781005859,
+    "name": "Springdale "
+  },
+  "CCD3": {
+    "lat": 46.1522484697,
+    "long": -67.5452327728,
+    "name": "Woodstock "
+  },
+  "CCD4": {
+    "lat": 54.9105987549,
+    "long": -59.7867012024,
+    "name": "Postville "
+  },
+  "CCE2": {
+    "lat": 46.5999984741,
+    "long": -64,
+    "name": "Mount Pleasant "
+  },
+  "CCE3": {
+    "lat": 46.5628013611,
+    "long": -67.168296814,
+    "name": "Juniper "
+  },
+  "CCE4": {
+    "lat": 53.4693984985,
+    "long": -55.7849998474,
+    "name": "Black Tickle "
+  },
+  "CCF4": {
+    "lat": 44.7099936874,
+    "long": -63.2996821404,
+    "name": "Porters Lake "
+  },
+  "CCF6": {
+    "lat": 53.819722,
+    "long": -113.760833,
+    "name": "Edmonton/Morinville (Currie Field)"
+  },
+  "CCF9": {
+    "lat": 45.9603004456,
+    "long": -67.0952987671,
+    "name": "Scottsfield Airpark"
+  },
+  "CCG3": {
+    "lat": 46.0374984741,
+    "long": -66.8589019775,
+    "name": "Weyman Airpark"
+  },
+  "CCG4": {
+    "lat": 46.1539001465,
+    "long": -64.7686004639,
+    "name": "Moncton / McEwen "
+  },
+  "CCH2": {
+    "lat": 46.587137287,
+    "long": -67.7195549011,
+    "name": "Upper Kent "
+  },
+  "CCH4": {
+    "lat": 52.7649993896,
+    "long": -56.1156005859,
+    "name": "Charlottetown "
+  },
+  "CCI9": {
+    "lat": 50.0203018188,
+    "long": -124.9840011597,
+    "name": "Cortes Island (Hansen Airfield) "
+  },
+  "CCJ3": {
+    "lat": 47.448600769,
+    "long": -67.6247024536,
+    "name": "Boston Brook "
+  },
+  "CCK3": {
+    "lat": 47.0750007629,
+    "long": -67.6849975586,
+    "name": "Grand Falls "
+  },
+  "CCK4": {
+    "lat": 52.3727989197,
+    "long": -55.6739006042,
+    "name": "St. Lewis (Fox Harbour) "
+  },
+  "CCK5": {
+    "lat": 44.6449639588,
+    "long": -80.7456064224,
+    "name": "Owen Sound (Cook Field)"
+  },
+  "CCL2": {
+    "lat": 53.7682991028,
+    "long": -105.3079986572,
+    "name": "Candle Lake Airpark"
+  },
+  "CCL3": {
+    "lat": 55.6283836075,
+    "long": -110.751113892,
+    "name": "Christina Lake"
+  },
+  "CCM3": {
+    "lat": 47.1910552979,
+    "long": -66.1606140137,
+    "name": "Sevogle "
+  },
+  "CCM4": {
+    "lat": 50.6888999939,
+    "long": -57.331401825,
+    "name": "Port Au Choix "
+  },
+  "CCN2": {
+    "lat": 44.7132987976,
+    "long": -66.7964019775,
+    "name": "Grand Manan "
+  },
+  "CCP2": {
+    "lat": 49.0559997559,
+    "long": -55.4477005005,
+    "name": "Exploits Valley Botwood "
+  },
+  "CCP3": {
+    "lat": 46.6610984802,
+    "long": -75.2450027466,
+    "name": "Chute-St-Philippe "
+  },
+  "CCP4": {
+    "lat": 52.5280990601,
+    "long": -56.2860984802,
+    "name": "Port Hope Simpson "
+  },
+  "CCP6": {
+    "lat": 54.8377990723,
+    "long": -69.8927993774,
+    "name": "Caniapiscau "
+  },
+  "CCQ3": {
+    "lat": 45.418598175,
+    "long": -63.4606018066,
+    "name": "Debert "
+  },
+  "CCR3": {
+    "lat": 46.4261016846,
+    "long": -67.6280975342,
+    "name": "Florenceville "
+  },
+  "CCS3": {
+    "lat": 45.2075004578,
+    "long": -67.2506027222,
+    "name": "St. Stephen "
+  },
+  "CCS4": {
+    "lat": 46.148601532,
+    "long": -65.9041976929,
+    "name": "Chipman "
+  },
+  "CCS5": {
+    "lat": 45.9864006042,
+    "long": -65.301902771,
+    "name": "Havelock "
+  },
+  "CCS6": {
+    "lat": 49.6824989319,
+    "long": -125.1009979248,
+    "name": "Courtenay (Smit Field) "
+  },
+  "CCT2": {
+    "lat": 44.238899231,
+    "long": -79.6389007568,
+    "name": "Cookstown "
+  },
+  "CCV4": {
+    "lat": 47.6333007813,
+    "long": -52.9832992554,
+    "name": "Bell Island "
+  },
+  "CCW3": {
+    "lat": 45.0518989563,
+    "long": -64.6517028809,
+    "name": "Waterville / Kings County Municipal "
+  },
+  "CCW4": {
+    "lat": 45.1006011963,
+    "long": -63.9206008911,
+    "name": "Stanley "
+  },
+  "CCX3": {
+    "lat": 45.5666999817,
+    "long": -67.0999984741,
+    "name": "Brockway "
+  },
+  "CCY3": {
+    "lat": 45.6899986267,
+    "long": -65.5400009155,
+    "name": "Sussex "
+  },
+  "CCY4": {
+    "lat": 45.1175003052,
+    "long": -63.7028007507,
+    "name": "East Gore Eco Airpark"
+  },
+  "CCZ2": {
+    "lat": 54.1796989441,
+    "long": -58.4575004578,
+    "name": "Rigolet "
+  },
+  "CCZ3": {
+    "lat": 48.2747001648,
+    "long": -53.9239006042,
+    "name": "Clarenville "
+  },
+  "CCZ4": {
+    "lat": 46.3410987854,
+    "long": -60.9796981812,
+    "name": "Margaree "
+  },
+  "CCZ5": {
+    "lat": 45.5606002808,
+    "long": -62.5946998596,
+    "name": "Thorburn "
+  },
+  "CDA3": {
+    "lat": 45.3967018127,
+    "long": -63.2155990601,
+    "name": "Valley "
+  },
+  "CDA4": {
+    "lat": 47.7164001465,
+    "long": -64.8824996948,
+    "name": "Pokemouche "
+  },
+  "CDA5": {
+    "lat": 47.773601532,
+    "long": -59.3130989075,
+    "name": "St. Andrews Codroy Valley "
+  },
+  "CDA6": {
+    "lat": 46.459400177,
+    "long": -67.5646972656,
+    "name": "Bristol "
+  },
+  "CDC3": {
+    "lat": 55.8194885254,
+    "long": -120.4602813721,
+    "name": "Dawson Creek (Flying L Ranch) "
+  },
+  "CDC4": {
+    "lat": 47.5210990906,
+    "long": -67.4210968018,
+    "name": "St-Quentin "
+  },
+  "CDD3": {
+    "lat": 45.0475006104,
+    "long": -74.3432998657,
+    "name": "Ste-Agnes-de-Dundee "
+  },
+  "CDF3": {
+    "lat": 47.809722223,
+    "long": -79.8111111111,
+    "name": "Englehart (Dave's Field)"
+  },
+  "CDG3": {
+    "lat": 43.836389,
+    "long": -81.606667,
+    "name": "Dungannon"
+  },
+  "CDH1": {
+    "lat": 45.3541984558,
+    "long": -79.1513977051,
+    "name": "Deerhurst Resort "
+  },
+  "CDH3": {
+    "lat": 43.9622001648,
+    "long": -65.9942016602,
+    "name": "Finlay Air Park"
+  },
+  "CDJ4": {
+    "lat": 46.7132987976,
+    "long": -66.8283004761,
+    "name": "Clearwater "
+  },
+  "CDJ5": {
+    "lat": 51.1319007874,
+    "long": -113.5599975586,
+    "name": "Strathmore (D.J. Murray) "
+  },
+  "CDK2": {
+    "lat": 64.5113983154,
+    "long": -110.289001465,
+    "name": "Diavik "
+  },
+  "CDO2": {
+    "lat": 51.2943992615,
+    "long": -112.6139984131,
+    "name": "Ostergard's "
+  },
+  "CDT5": {
+    "lat": 46.5093994141,
+    "long": -64.693901062,
+    "name": "Buctouche "
+  },
+  "CDU6": {
+    "lat": 46.5525016785,
+    "long": -66.0939025879,
+    "name": "Doaktown "
+  },
+  "CDU9": {
+    "lat": 42.8722000122,
+    "long": -79.5958023071,
+    "name": "Dunnville "
+  },
+  "CDV2": {
+    "lat": 47.7536010742,
+    "long": -67.4261016846,
+    "name": "Downs Gulch "
+  },
+  "CDW2": {
+    "lat": 46.1650009155,
+    "long": -60.7839012146,
+    "name": "Baddeck (Crown Jewel) "
+  },
+  "CDY3": {
+    "lat": 49.6575012207,
+    "long": -54.2374992371,
+    "name": "Fogo "
+  },
+  "CDY6": {
+    "lat": 44.3819007874,
+    "long": -64.456703186,
+    "name": "Bridgewater / Dayspring Airpark"
+  },
+  "CEA3": {
+    "lat": 51.7118988037,
+    "long": -114.107002258,
+    "name": "Olds-Didsbury "
+  },
+  "CEA5": {
+    "lat": 52.646900177,
+    "long": -111.3840026855,
+    "name": "Hardisty "
+  },
+  "CEA6": {
+    "lat": 49.1624984741,
+    "long": -113.2409973145,
+    "name": "Cardston "
+  },
+  "CEB3": {
+    "lat": 67.0333023071,
+    "long": -126.0830001831,
+    "name": "Colville Lake "
+  },
+  "CEB5": {
+    "lat": 56.081401825,
+    "long": -118.4349975586,
+    "name": "Fairview "
+  },
+  "CEC3": {
+    "lat": 58.4733009338,
+    "long": -114.5429992676,
+    "name": "Fox Lake "
+  },
+  "CEC4": {
+    "lat": 53.3191986084,
+    "long": -117.752998352,
+    "name": "Hinton / Jasper-Hinton "
+  },
+  "CED3": {
+    "lat": 51.3342018127,
+    "long": -110.4909973145,
+    "name": "Oyen Municipal "
+  },
+  "CED4": {
+    "lat": 54.3800010681,
+    "long": -116.7659988403,
+    "name": "Fox Creek "
+  },
+  "CED5": {
+    "lat": 49.8266983032,
+    "long": -112.1849975586,
+    "name": "Taber "
+  },
+  "CED6": {
+    "lat": 50.8018989563,
+    "long": -113.888999939,
+    "name": "Highwood "
+  },
+  "CEE4": {
+    "lat": 53.381401062,
+    "long": -117.700996399,
+    "name": "Hinton / Entrance "
+  },
+  "CEE5": {
+    "lat": 55.9618988037,
+    "long": -113.819000244,
+    "name": "Wabasca "
+  },
+  "CEE6": {
+    "lat": 53.4710998535,
+    "long": -113.153999329,
+    "name": "Edmonton / Twin Island Airpark"
+  },
+  "CEE8": {
+    "lat": 53.1089685346,
+    "long": -111.864938736,
+    "name": "Viking "
+  },
+  "CEF2": {
+    "lat": 43.8372354306,
+    "long": -80.3694534302,
+    "name": "Belwood (Ellen Field)"
+  },
+  "CEF3": {
+    "lat": 49.8833007813,
+    "long": -111.3330001831,
+    "name": "Bow Island "
+  },
+  "CEF4": {
+    "lat": 51.2639007568,
+    "long": -113.9339981079,
+    "name": "Airdrie "
+  },
+  "CEF6": {
+    "lat": 52.5746994019,
+    "long": -112.0839996338,
+    "name": "Forestburg "
+  },
+  "CEG2": {
+    "lat": 51.456401825,
+    "long": -113.5149993896,
+    "name": "Acme "
+  },
+  "CEG3": {
+    "lat": 52.4883003235,
+    "long": -113.7119979858,
+    "name": "Lacombe "
+  },
+  "CEG4": {
+    "lat": 51.4963989258,
+    "long": -112.7490005493,
+    "name": "Drumheller Municipal "
+  },
+  "CEG5": {
+    "lat": 56.9524993896,
+    "long": -113.4960021973,
+    "name": "Chipewyan Lake "
+  },
+  "CEG8": {
+    "lat": 58.9693984985,
+    "long": -99.9749984741,
+    "name": "North Seal River "
+  },
+  "CEH2": {
+    "lat": 50.7224998474,
+    "long": -114.1790008545,
+    "name": "Cu Nim "
+  },
+  "CEH3": {
+    "lat": 52.6516990662,
+    "long": -113.6060028076,
+    "name": "Ponoka Industrial "
+  },
+  "CEH4": {
+    "lat": 50.8218994141,
+    "long": -113.8239974976,
+    "name": "De Winton South Calgary "
+  },
+  "CEH5": {
+    "lat": 56.5463981628,
+    "long": -115.2740020752,
+    "name": "Red Earth Creek "
+  },
+  "CEH6": {
+    "lat": 52.3381004333,
+    "long": -110.2789993286,
+    "name": "Provost "
+  },
+  "CEJ3": {
+    "lat": 52.3100013733,
+    "long": -112.7539978027,
+    "name": "Stettler "
+  },
+  "CEJ4": {
+    "lat": 50.004699707,
+    "long": -113.6299972534,
+    "name": "Claresholm Industrial "
+  },
+  "CEJ6": {
+    "lat": 53.8931007385,
+    "long": -110.7720031738,
+    "name": "Elk Point "
+  },
+  "CEK2": {
+    "lat": 61.4844017029,
+    "long": -135.7760009766,
+    "name": "Braeburn "
+  },
+  "CEK6": {
+    "lat": 52.7999992371,
+    "long": -111.766998291,
+    "name": "Killam-Sedgewick "
+  },
+  "CEL3": {
+    "lat": 44.6610679784,
+    "long": -80.9440255165,
+    "name": "East Linton (Kerr Field)"
+  },
+  "CEL4": {
+    "lat": 51.631401062,
+    "long": -111.9039993286,
+    "name": "Hanna "
+  },
+  "CEL5": {
+    "lat": 55.0325012207,
+    "long": -117.2959976196,
+    "name": "Valleyview "
+  },
+  "CEL6": {
+    "lat": 53.7000007629,
+    "long": -111.7829971313,
+    "name": "Two Hills "
+  },
+  "CEL8": {
+    "lat": 52.718306623,
+    "long": -76.0798072815,
+    "name": "Eleonore"
+  },
+  "CEM3": {
+    "lat": 63.1316986084,
+    "long": -117.2460021973,
+    "name": "Whati "
+  },
+  "CEM4": {
+    "lat": 52.0786018372,
+    "long": -114.0270004272,
+    "name": "Innisfail "
+  },
+  "CEM5": {
+    "lat": 54.6707992554,
+    "long": -115.4150009155,
+    "name": "Swan Hills "
+  },
+  "CEN2": {
+    "lat": 50.7999992371,
+    "long": -112.4670028687,
+    "name": "Bassano "
+  },
+  "CEN3": {
+    "lat": 51.6967010498,
+    "long": -113.2089996338,
+    "name": "Three Hills "
+  },
+  "CEN4": {
+    "lat": 50.5332984924,
+    "long": -113.8330001831,
+    "name": "High River "
+  },
+  "CEN5": {
+    "lat": 54.4775009155,
+    "long": -110.2689971924,
+    "name": "Cold Lake Regional "
+  },
+  "CEN6": {
+    "lat": 50.0332984924,
+    "long": -112.0830001831,
+    "name": "Vauxhall "
+  },
+  "CEP3": {
+    "lat": 54.0999984741,
+    "long": -114.4329986572,
+    "name": "Barrhead "
+  },
+  "CEP4": {
+    "lat": 49,
+    "long": -111.9670028687,
+    "name": "Ross International "
+  },
+  "CEP5": {
+    "lat": 55.9000015259,
+    "long": -110.733001709,
+    "name": "Janvier "
+  },
+  "CEP6": {
+    "lat": 49.2933006287,
+    "long": -112.1890029907,
+    "name": "Warner "
+  },
+  "CEQ3": {
+    "lat": 53.0402984619,
+    "long": -112.8160018921,
+    "name": "Camrose "
+  },
+  "CEQ4": {
+    "lat": 48.9986000061,
+    "long": -112.776000977,
+    "name": "Del Bonita / Whetstone International "
+  },
+  "CEQ5": {
+    "lat": 53.9169006348,
+    "long": -118.8740005493,
+    "name": "Grande Cache "
+  },
+  "CER2": {
+    "lat": 52.2209249248,
+    "long": -111.926887035,
+    "name": "Castor "
+  },
+  "CER3": {
+    "lat": 53.2658004761,
+    "long": -114.9599990845,
+    "name": "Drayton Valley Industrial "
+  },
+  "CER4": {
+    "lat": 57.0555992126,
+    "long": -111.573997498,
+    "name": "Fort McMurray / Mildred Lake "
+  },
+  "CES2": {
+    "lat": 45.914399704,
+    "long": -73.6723959446,
+    "name": "St-Esprit"
+  },
+  "CES4": {
+    "lat": 54.14220047,
+    "long": -113.7409973145,
+    "name": "Westlock "
+  },
+  "CET2": {
+    "lat": 55.6953010559,
+    "long": -111.2789993286,
+    "name": "Conklin (Leismer) "
+  },
+  "CET4": {
+    "lat": 61.8666992188,
+    "long": -121.3659973145,
+    "name": "Fort Simpson Island "
+  },
+  "CET9": {
+    "lat": 61.5167007446,
+    "long": -120.6169967651,
+    "name": "Jean Marie River "
+  },
+  "CEU2": {
+    "lat": 55.1842002869,
+    "long": -119.4479980469,
+    "name": "Beaverlodge "
+  },
+  "CEU9": {
+    "lat": 60.4393997192,
+    "long": -121.2369995117,
+    "name": "Trout Lake "
+  },
+  "CEV2": {
+    "lat": 57.8499984741,
+    "long": -113.25,
+    "name": "Edra "
+  },
+  "CEV3": {
+    "lat": 53.5144004822,
+    "long": -112.0270004272,
+    "name": "Vegreville "
+  },
+  "CEV5": {
+    "lat": 53.9375,
+    "long": -115.1790008545,
+    "name": "Mayerthorpe "
+  },
+  "CEV7": {
+    "lat": 53.3711013794,
+    "long": -112.6969985962,
+    "name": "Tofield "
+  },
+  "CEV9": {
+    "lat": 63.4333000183,
+    "long": -116.1829986572,
+    "name": "Snare River "
+  },
+  "CEW3": {
+    "lat": 53.9933013916,
+    "long": -111.379997253,
+    "name": "St. Paul "
+  },
+  "CEW5": {
+    "lat": 49.1333007813,
+    "long": -112.0500030518,
+    "name": "Milk River "
+  },
+  "CEX3": {
+    "lat": 52.9650001526,
+    "long": -113.411003113,
+    "name": "Wetaskiwin Regional "
+  },
+  "CEX4": {
+    "lat": 62.1081008911,
+    "long": -136.1799926758,
+    "name": "Carmacks "
+  },
+  "CEX9": {
+    "lat": 50.4193992615,
+    "long": -113.5410003662,
+    "name": "Brant (Dixon Farm) "
+  },
+  "CEY3": {
+    "lat": 49.7000007629,
+    "long": -113.4169998169,
+    "name": "Fort Macleod "
+  },
+  "CEZ2": {
+    "lat": 64.9000015259,
+    "long": -138.266998291,
+    "name": "Chapman Lake "
+  },
+  "CEZ3": {
+    "lat": 53.4275016785,
+    "long": -113.115997314,
+    "name": "Edmonton / Cooking Lake "
+  },
+  "CEZ4": {
+    "lat": 58.4042015076,
+    "long": -115.9509963989,
+    "name": "Fort Vermilion "
+  },
+  "CFA4": {
+    "lat": 60.1741981506,
+    "long": -134.6979980469,
+    "name": "Carcross "
+  },
+  "CFA5": {
+    "lat": 56.2999992371,
+    "long": -112.233001709,
+    "name": "Grande "
+  },
+  "CFA7": {
+    "lat": 62.5980987549,
+    "long": -111.5429992676,
+    "name": "Taltheilei Narrows "
+  },
+  "CFB3": {
+    "lat": 52.2999992371,
+    "long": -114.4639968872,
+    "name": "Hespero "
+  },
+  "CFB4": {
+    "lat": 56.5,
+    "long": -114.5500030518,
+    "name": "Trout Lake "
+  },
+  "CFB5": {
+    "lat": 57.3833007813,
+    "long": -112.8000030518,
+    "name": "Namur Lake "
+  },
+  "CFB6": {
+    "lat": 53.727998032,
+    "long": -113.086566925,
+    "name": "Edmonton / Josephburg "
+  },
+  "CFB7": {
+    "lat": 59.6333007813,
+    "long": -117.1669998169,
+    "name": "Steen River "
+  },
+  "CFC4": {
+    "lat": 63.181098938,
+    "long": -130.2019958496,
+    "name": "Macmillan Pass "
+  },
+  "CFC6": {
+    "lat": 51.2667007446,
+    "long": -113.1169967651,
+    "name": "Rockyford "
+  },
+  "CFC7": {
+    "lat": 52.6819000244,
+    "long": -114.2379989624,
+    "name": "Rimbey "
+  },
+  "CFD4": {
+    "lat": 49.4831008911,
+    "long": -111.4940032959,
+    "name": "Foremost "
+  },
+  "CFD5": {
+    "lat": 56.19611,
+    "long": -117.625278,
+    "name": "Grimshaw "
+  },
+  "CFD9": {
+    "lat": 53.0833015442,
+    "long": -112.8030014038,
+    "name": "Bjorgum Farm "
+  },
+  "CFF2": {
+    "lat": 55.5900001526,
+    "long": -111.8229980469,
+    "name": "Christina Basin "
+  },
+  "CFF3": {
+    "lat": 57.4832992554,
+    "long": -113.8830032349,
+    "name": "Jean Lake "
+  },
+  "CFF4": {
+    "lat": 66.7031021118,
+    "long": -119.707000732,
+    "name": "Great Bear Lake "
+  },
+  "CFF9": {
+    "lat": 53.0313987732,
+    "long": -112.7779998779,
+    "name": "Marek Farms "
+  },
+  "CFG3": {
+    "lat": 52.0167007446,
+    "long": -110.75,
+    "name": "Consort "
+  },
+  "CFG4": {
+    "lat": 55.2332992554,
+    "long": -118.0329971313,
+    "name": "Debolt "
+  },
+  "CFG5": {
+    "lat": 58.4914016724,
+    "long": -115.1380004883,
+    "name": "John D'Or Prairie "
+  },
+  "CFG6": {
+    "lat": 57.2758333344,
+    "long": -110.976666667,
+    "name": "Fort Mackay / Firebag"
+  },
+  "CFG7": {
+    "lat": 59.6333007813,
+    "long": -117.7829971313,
+    "name": "Steen Tower "
+  },
+  "CFH4": {
+    "lat": 45.8699989319,
+    "long": -63.461101532,
+    "name": "Fox Harbour "
+  },
+  "CFH8": {
+    "lat": 53.2177775261,
+    "long": -114.336605072,
+    "name": "Warburg / Zajes "
+  },
+  "CFK2": {
+    "lat": 52.5574989319,
+    "long": -112.9649963379,
+    "name": "Bashaw "
+  },
+  "CFK3": {
+    "lat": 57.7999992371,
+    "long": -119.4499969482,
+    "name": "Fontas "
+  },
+  "CFK4": {
+    "lat": 55.3166999817,
+    "long": -113.25,
+    "name": "Calling Lake "
+  },
+  "CFK6": {
+    "lat": 51.8499984741,
+    "long": -114.0670013428,
+    "name": "Olds (Netook) "
+  },
+  "CFL2": {
+    "lat": 50.6824989319,
+    "long": -110.041999817,
+    "name": "Empress McNeill Spectra Energy "
+  },
+  "CFL9": {
+    "lat": 57.5666999817,
+    "long": -110.3170013428,
+    "name": "Johnson Lake "
+  },
+  "CFM2": {
+    "lat": 57.7000007629,
+    "long": -111.8330001831,
+    "name": "Birch Mountain "
+  },
+  "CFM4": {
+    "lat": 55.709400177,
+    "long": -117.09400177,
+    "name": "Donnelly "
+  },
+  "CFM5": {
+    "lat": 57.3552844682,
+    "long": -119.765310287,
+    "name": "Hamburg "
+  },
+  "CFM6": {
+    "lat": 56.459400177,
+    "long": -114.1190032959,
+    "name": "Teepee "
+  },
+  "CFM7": {
+    "lat": 54.573299408,
+    "long": -112.8199996948,
+    "name": "Boyle "
+  },
+  "CFM8": {
+    "lat": 49.5833015442,
+    "long": -113.3000030518,
+    "name": "Fort Macleod (Alcock Farm) "
+  },
+  "CFN5": {
+    "lat": 58.1728751982,
+    "long": -116.337919235,
+    "name": "La Crete "
+  },
+  "CFN7": {
+    "lat": 51.7742004395,
+    "long": -114.6770019531,
+    "name": "Sundre "
+  },
+  "CFP4": {
+    "lat": 63.5999984741,
+    "long": -137.5670013428,
+    "name": "Mcquesten "
+  },
+  "CFP5": {
+    "lat": 54.2708015442,
+    "long": -111.0670013428,
+    "name": "Glendon "
+  },
+  "CFP6": {
+    "lat": 60.1291999817,
+    "long": -124.0490036011,
+    "name": "La Biche River "
+  },
+  "CFP7": {
+    "lat": 52.8306007385,
+    "long": -111.100997925,
+    "name": "Wainwright Field 21 "
+  },
+  "CFP8": {
+    "lat": 60.8117343999,
+    "long": -135.182132721,
+    "name": "Whitehorse / Cousins "
+  },
+  "CFQ3": {
+    "lat": 49.1446990967,
+    "long": -112.0839996338,
+    "name": "Milk River (Madge) "
+  },
+  "CFQ4": {
+    "lat": 51.0574989319,
+    "long": -113.6240005493,
+    "name": "Cheadle "
+  },
+  "CFQ5": {
+    "lat": 61.0289001465,
+    "long": -138.4080047607,
+    "name": "Silver City "
+  },
+  "CFQ6": {
+    "lat": 62.8372001648,
+    "long": -136.5350036621,
+    "name": "Pelly Crossing "
+  },
+  "CFQ7": {
+    "lat": 53.2817001343,
+    "long": -113.455001831,
+    "name": "Edmonton / Gartner "
+  },
+  "CFR2": {
+    "lat": 52.9000015259,
+    "long": -112.5500030518,
+    "name": "Bawlf (Blackwells) "
+  },
+  "CFR5": {
+    "lat": 46.0896987915,
+    "long": -80.6044006348,
+    "name": "Alban "
+  },
+  "CFR7": {
+    "lat": 51.6514015198,
+    "long": -115.2389984131,
+    "name": "Red Deer Forestry "
+  },
+  "CFS4": {
+    "lat": 65.6667022705,
+    "long": -138.1170043945,
+    "name": "Ogilvie River "
+  },
+  "CFS5": {
+    "lat": 55.7835998535,
+    "long": -118.8399963379,
+    "name": "Spirit River "
+  },
+  "CFS6": {
+    "lat": 57.1418991089,
+    "long": -115.0749969482,
+    "name": "Loon River "
+  },
+  "CFS7": {
+    "lat": 62.6194000244,
+    "long": -131.279006958,
+    "name": "Twin Creeks "
+  },
+  "CFS8": {
+    "lat": 51.9880981445,
+    "long": -115.2279968262,
+    "name": "Clearwater River "
+  },
+  "CFT2": {
+    "lat": 50.552434748,
+    "long": -113.583183289,
+    "name": "Wilderman Farm "
+  },
+  "CFT3": {
+    "lat": 61.6913986206,
+    "long": -130.774002075,
+    "name": "Finlayson Lake "
+  },
+  "CFT5": {
+    "lat": 61.5238990784,
+    "long": -128.2689971924,
+    "name": "Hyland "
+  },
+  "CFT8": {
+    "lat": 56.1608009338,
+    "long": -113.4739990234,
+    "name": "Pelican "
+  },
+  "CFT9": {
+    "lat": 59.0638999939,
+    "long": -118.8899993896,
+    "name": "Zama Lake "
+  },
+  "CFU3": {
+    "lat": 53.7167015076,
+    "long": -112.6330032349,
+    "name": "Chipman "
+  },
+  "CFU4": {
+    "lat": 58.7139015198,
+    "long": -113.8759994507,
+    "name": "Garden River "
+  },
+  "CFU8": {
+    "lat": 52.9122009277,
+    "long": -111.1740036011,
+    "name": "Irma "
+  },
+  "CFV2": {
+    "lat": 51.3932991028,
+    "long": -113.4720001221,
+    "name": "Beiseker "
+  },
+  "CFV3": {
+    "lat": 59.4747326918,
+    "long": -119.006137848,
+    "name": "Mobil Bistcho "
+  },
+  "CFV6": {
+    "lat": 58.9458023034,
+    "long": -115.256538391,
+    "name": "Margaret Lake "
+  },
+  "CFW2": {
+    "lat": 56.6166992188,
+    "long": -110.5,
+    "name": "Gordon Lake "
+  },
+  "CFW4": {
+    "lat": 57.1375007629,
+    "long": -110.8929977417,
+    "name": "Muskeg Tower "
+  },
+  "CFW5": {
+    "lat": 60.3833007813,
+    "long": -111.3499984741,
+    "name": "Taltson River "
+  },
+  "CFX2": {
+    "lat": 50.7352981567,
+    "long": -113.934997559,
+    "name": "Calgary / Okotoks Air Park"
+  },
+  "CFX3": {
+    "lat": 56.9500007629,
+    "long": -119.516998291,
+    "name": "Doig "
+  },
+  "CFX4": {
+    "lat": 56.9508018494,
+    "long": -117.6439971924,
+    "name": "Manning "
+  },
+  "CFX6": {
+    "lat": 50.4047012329,
+    "long": -113.2829971313,
+    "name": "Vulcan "
+  },
+  "CFX8": {
+    "lat": 51.0416984558,
+    "long": -113.7519989014,
+    "name": "Chestermere (Kirkby Field) "
+  },
+  "CFY2": {
+    "lat": 55.4000015259,
+    "long": -110.483001709,
+    "name": "Grist Lake "
+  },
+  "CFY4": {
+    "lat": 50.9048190147,
+    "long": -113.796215057,
+    "name": "Winters Aire Park "
+  },
+  "CFY5": {
+    "lat": 60.103099823,
+    "long": -130.9340057373,
+    "name": "Pine Lake"
+  },
+  "CFY6": {
+    "lat": 50.6543998718,
+    "long": -114.34400177,
+    "name": "Turner Valley Bar N Ranch "
+  },
+  "CFZ3": {
+    "lat": 49.9667015076,
+    "long": -110.7170028687,
+    "name": "Schlenker "
+  },
+  "CFZ5": {
+    "lat": 51.7398057147,
+    "long": -114.662600756,
+    "name": "Sundre / Goodwins Farm "
+  },
+  "CGB2": {
+    "lat": 51.5828018188,
+    "long": -114.0520019531,
+    "name": "Bishell's "
+  },
+  "CGF2": {
+    "lat": 53.5762892197,
+    "long": -112.982025146,
+    "name": "Edmonton / Goyer Field"
+  },
+  "CGK2": {
+    "lat": 63.4330558777,
+    "long": -109.19972229,
+    "name": "Gahcho Kue"
+  },
+  "CGL2": {
+    "lat": 42.0593986511,
+    "long": -82.8407974243,
+    "name": "Harrow "
+  },
+  "CGL4": {
+    "lat": 55.6711006165,
+    "long": -117.9359970093,
+    "name": "Eaglesham (South) "
+  },
+  "CGR3": {
+    "lat": 65.928056,
+    "long": -102.462222,
+    "name": "George Lake Aerodrome"
+  },
+  "CGS2": {
+    "lat": 65.552778,
+    "long": -106.433611,
+    "name": "Goose Lake Aerodrome"
+  },
+  "CGV2": {
+    "lat": 43.976388889,
+    "long": -80.38527778,
+    "name": "Grand Valley / Luther Field"
+  },
+  "CGV5": {
+    "lat": 43.8600915245,
+    "long": -80.2886867523,
+    "name": "Grand Valley (Black Field)"
+  },
+  "CGV6": {
+    "lat": 43.8748961118,
+    "long": -80.2824425697,
+    "name": "Grand Valley (Martin Field)"
+  },
+  "CHC5": {
+    "lat": 66.655556,
+    "long": -91.545,
+    "name": "Hayes Camp Aerodrome"
+  },
+  "CHF2": {
+    "lat": 45.1906013489,
+    "long": -75.7086029053,
+    "name": "Ottawa / Manotick (Hope Field)"
+  },
+  "CHG2": {
+    "lat": 47.6856002808,
+    "long": -53.2538986206,
+    "name": "Harbour Grace "
+  },
+  "CHM2": {
+    "lat": 53.275,
+    "long": -107.57027778,
+    "name": "Spiritwood / H & M Fast Farms"
+  },
+  "CHS3": {
+    "lat": 42.4736111111,
+    "long": -81.8219444444,
+    "name": "Highgate (South)"
+  },
+  "CJA3": {
+    "lat": 49.2103004456,
+    "long": -98.0591964722,
+    "name": "Morden "
+  },
+  "CJA5": {
+    "lat": 49.1403007507,
+    "long": -93.9169006348,
+    "name": "Nestor Falls "
+  },
+  "CJA7": {
+    "lat": 49.6333007813,
+    "long": -102.483001709,
+    "name": "Arcola "
+  },
+  "CJB2": {
+    "lat": 49.4914016724,
+    "long": -98.0186004639,
+    "name": "Friendship Field"
+  },
+  "CJB3": {
+    "lat": 49.5494003296,
+    "long": -96.679397583,
+    "name": "Steinbach "
+  },
+  "CJB5": {
+    "lat": 50.168598175,
+    "long": -101.6439971924,
+    "name": "Moosomin "
+  },
+  "CJB6": {
+    "lat": 54.7792015076,
+    "long": -93.7169036865,
+    "name": "Gods Lake "
+  },
+  "CJB8": {
+    "lat": 50.8333015442,
+    "long": -108.0699996948,
+    "name": "Kyle "
+  },
+  "CJC2": {
+    "lat": 51.056098938,
+    "long": -105.8379974365,
+    "name": "Craik "
+  },
+  "CJC3": {
+    "lat": 51.2477989197,
+    "long": -105.9759979248,
+    "name": "Davidson Municipal "
+  },
+  "CJC4": {
+    "lat": 50.801399231,
+    "long": -106.4879989624,
+    "name": "Central Butte "
+  },
+  "CJC5": {
+    "lat": 49.6581001282,
+    "long": -108.40599823,
+    "name": "Shaunavon "
+  },
+  "CJC6": {
+    "lat": 52.7322006226,
+    "long": -107.3740005493,
+    "name": "Hafford "
+  },
+  "CJC8": {
+    "lat": 56.2486000061,
+    "long": -101.3040008545,
+    "name": "Laurie River "
+  },
+  "CJD2": {
+    "lat": 52.4832992554,
+    "long": -105.7170028687,
+    "name": "Cudworth Municipal "
+  },
+  "CJD3": {
+    "lat": 52.9907989502,
+    "long": -105.4449996948,
+    "name": "Birch Hills "
+  },
+  "CJD5": {
+    "lat": 50.8772010803,
+    "long": -109.5009994507,
+    "name": "Leader "
+  },
+  "CJE2": {
+    "lat": 54.6166992188,
+    "long": -107.3830032349,
+    "name": "Dore Lake "
+  },
+  "CJE3": {
+    "lat": 49.6974983215,
+    "long": -103.8010025024,
+    "name": "Weyburn "
+  },
+  "CJE4": {
+    "lat": 54.8972015381,
+    "long": -99.818901062,
+    "name": "Snow Lake "
+  },
+  "CJE5": {
+    "lat": 53.3772010803,
+    "long": -108.3420028687,
+    "name": "Glaslyn "
+  },
+  "CJE6": {
+    "lat": 53.5353012085,
+    "long": -109.4339981079,
+    "name": "Paradise Hill "
+  },
+  "CJE7": {
+    "lat": 51.1585998535,
+    "long": -98.3319015503,
+    "name": "Ashern "
+  },
+  "CJF3": {
+    "lat": 55.4897003174,
+    "long": -107.9300003052,
+    "name": "Ile-a-la-Crosse "
+  },
+  "CJF5": {
+    "lat": 49.0031013489,
+    "long": -106.3870010376,
+    "name": "West Poplar "
+  },
+  "CJF8": {
+    "lat": 52.0511016846,
+    "long": -107.9879989624,
+    "name": "Biggar "
+  },
+  "CJG2": {
+    "lat": 51.2188987732,
+    "long": -109.3929977417,
+    "name": "Eatonia (Elvie Smith) Municipal "
+  },
+  "CJG4": {
+    "lat": 52.6154522074,
+    "long": -96.184015274,
+    "name": "Wrong Lake "
+  },
+  "CJH2": {
+    "lat": 51.1333007813,
+    "long": -100.5,
+    "name": "Gilbert Plains "
+  },
+  "CJH3": {
+    "lat": 53.0943984985,
+    "long": -109.3249969482,
+    "name": "Maidstone "
+  },
+  "CJH4": {
+    "lat": 49.4449996948,
+    "long": -106.9319992065,
+    "name": "Ferland "
+  },
+  "CJH8": {
+    "lat": 53.0167007446,
+    "long": -106.75,
+    "name": "Leask "
+  },
+  "CJJ2": {
+    "lat": 49.5499992371,
+    "long": -99.3332977295,
+    "name": "Glenboro "
+  },
+  "CJJ3": {
+    "lat": 53.546529605,
+    "long": -115.260658264,
+    "name": "Wildwood / Loche Mist Farms Airstrip"
+  },
+  "CJJ4": {
+    "lat": 49.1506004333,
+    "long": -100.5009994507,
+    "name": "Deloraine "
+  },
+  "CJJ5": {
+    "lat": 50.6194000244,
+    "long": -108.466003418,
+    "name": "Cabri "
+  },
+  "CJJ8": {
+    "lat": 52.3428001404,
+    "long": -109.9189987183,
+    "name": "Macklin "
+  },
+  "CJK2": {
+    "lat": 53.5200004578,
+    "long": -96.3711013794,
+    "name": "Gunisao Lake "
+  },
+  "CJK3": {
+    "lat": 55.1102981567,
+    "long": -107.716003418,
+    "name": "Beauval "
+  },
+  "CJK4": {
+    "lat": 50.6427993774,
+    "long": -102.0999984741,
+    "name": "Esterhazy "
+  },
+  "CJK5": {
+    "lat": 50.057800293,
+    "long": -108.4899978638,
+    "name": "Gull Lake "
+  },
+  "CJK9": {
+    "lat": 51.9500007629,
+    "long": -102.6500015259,
+    "name": "Preeceville "
+  },
+  "CJL2": {
+    "lat": 58.6624984741,
+    "long": -103.5380020142,
+    "name": "Hatchet Lake "
+  },
+  "CJL4": {
+    "lat": 56.4733009338,
+    "long": -109.4039993286,
+    "name": "La Loche "
+  },
+  "CJL5": {
+    "lat": 49.8525009155,
+    "long": -96.9736022949,
+    "name": "Winnipeg / Lyncrest "
+  },
+  "CJL6": {
+    "lat": 49.0943984985,
+    "long": -97.5338973999,
+    "name": "Altona Municipal "
+  },
+  "CJL8": {
+    "lat": 60.2919006348,
+    "long": -102.5019989014,
+    "name": "Kasba Lake "
+  },
+  "CJL9": {
+    "lat": 52.4631004333,
+    "long": -107.3769989014,
+    "name": "Radisson "
+  },
+  "CJM2": {
+    "lat": 51.1460990906,
+    "long": -103.4260025024,
+    "name": "Ituna "
+  },
+  "CJM4": {
+    "lat": 49.8662071228,
+    "long": -106.5710754395,
+    "name": "Gravelbourg "
+  },
+  "CJM5": {
+    "lat": 49.1666984558,
+    "long": -108.5670013428,
+    "name": "Frontier "
+  },
+  "CJM6": {
+    "lat": 53.10779953,
+    "long": -103.6510009766,
+    "name": "Arborfield "
+  },
+  "CJN2": {
+    "lat": 51.5597000122,
+    "long": -101.8789978027,
+    "name": "Kamsack "
+  },
+  "CJN4": {
+    "lat": 49.7346992493,
+    "long": -105.9469985962,
+    "name": "Assiniboia "
+  },
+  "CJN5": {
+    "lat": 52.0005989075,
+    "long": -106.4629974365,
+    "name": "Corman Air Park"
+  },
+  "CJN7": {
+    "lat": 56.5800018311,
+    "long": -96.2474975586,
+    "name": "Little Churchill River / Dunlop's Fly-In Lodge "
+  },
+  "CJP2": {
+    "lat": 51.9268989563,
+    "long": -109.1289978027,
+    "name": "Kerrobert "
+  },
+  "CJP6": {
+    "lat": 59.6100006104,
+    "long": -109.266998291,
+    "name": "Camsell Portage "
+  },
+  "CJP7": {
+    "lat": 50.3967018127,
+    "long": -95.7350006104,
+    "name": "Bird River (Lac Du Bonnet) "
+  },
+  "CJP9": {
+    "lat": 59.6016998291,
+    "long": -109.1370010376,
+    "name": "Charlot River "
+  },
+  "CJQ2": {
+    "lat": 49.3666992188,
+    "long": -102.766998291,
+    "name": "Lampman "
+  },
+  "CJQ3": {
+    "lat": 49.6444015503,
+    "long": -102.2870025635,
+    "name": "Carlyle "
+  },
+  "CJQ4": {
+    "lat": 49.8958015442,
+    "long": -109.4749984741,
+    "name": "Maple Creek "
+  },
+  "CJQ5": {
+    "lat": 50.836101532,
+    "long": -96.9571990967,
+    "name": "Arnes "
+  },
+  "CJQ6": {
+    "lat": 81.4094009399,
+    "long": -76.8816986084,
+    "name": "Tanquary Fiord "
+  },
+  "CJQ9": {
+    "lat": 57.6194000244,
+    "long": -99.8752975464,
+    "name": "Big Sand Lake "
+  },
+  "CJR2": {
+    "lat": 52.0699996948,
+    "long": -109.3740005493,
+    "name": "Luseland "
+  },
+  "CJR3": {
+    "lat": 53.8264007568,
+    "long": -101.205001831,
+    "name": "The Pas / Grace Lake "
+  },
+  "CJR4": {
+    "lat": 51.1441993713,
+    "long": -108.7630004883,
+    "name": "Eston "
+  },
+  "CJR5": {
+    "lat": 50.1636009216,
+    "long": -98.9424972534,
+    "name": "Gladstone "
+  },
+  "CJR7": {
+    "lat": 51.6288986206,
+    "long": -102.4499969482,
+    "name": "Canora "
+  },
+  "CJR8": {
+    "lat": 50.7647018433,
+    "long": -99.4966964722,
+    "name": "Mccreary "
+  },
+  "CJR9": {
+    "lat": 52.4113998413,
+    "long": -104.4840011597,
+    "name": "Naicam "
+  },
+  "CJS2": {
+    "lat": 56.9494018555,
+    "long": -102.2389984131,
+    "name": "Malcolm Island "
+  },
+  "CJS3": {
+    "lat": 58.3911018372,
+    "long": -109.5159988403,
+    "name": "Cluff Lake "
+  },
+  "CJS4": {
+    "lat": 50.4342002869,
+    "long": -105.3870010376,
+    "name": "Moose Jaw Municipal "
+  },
+  "CJS5": {
+    "lat": 49.1516990662,
+    "long": -99.6902999878,
+    "name": "Killarney Municipal "
+  },
+  "CJS7": {
+    "lat": 49.4803009033,
+    "long": -98.0149993896,
+    "name": "Carman (South) "
+  },
+  "CJT2": {
+    "lat": 51.7322006226,
+    "long": -96.9344024658,
+    "name": "Matheson Island "
+  },
+  "CJT3": {
+    "lat": 54.9152984619,
+    "long": -94.7981033325,
+    "name": "Knee Lake "
+  },
+  "CJT4": {
+    "lat": 53.9561004639,
+    "long": -102.297996521,
+    "name": "Cumberland House "
+  },
+  "CJT5": {
+    "lat": 49.2616996765,
+    "long": -101.013999939,
+    "name": "Melita "
+  },
+  "CJT8": {
+    "lat": 49.5092010498,
+    "long": -97.8506011963,
+    "name": "Homewood "
+  },
+  "CJT9": {
+    "lat": 53.6206016541,
+    "long": -107.6090011597,
+    "name": "Leoville "
+  },
+  "CJU3": {
+    "lat": 50.0964012146,
+    "long": -98.5008010864,
+    "name": "Macdonald "
+  },
+  "CJU4": {
+    "lat": 52.1761016846,
+    "long": -105.1269989014,
+    "name": "Humboldt "
+  },
+  "CJU5": {
+    "lat": 50.271900177,
+    "long": -99.7630996704,
+    "name": "Minnedosa "
+  },
+  "CJU6": {
+    "lat": 50.9127998352,
+    "long": -97.304397583,
+    "name": "Arborg "
+  },
+  "CJU7": {
+    "lat": 53.1850013733,
+    "long": -108.7890014648,
+    "name": "Edam "
+  },
+  "CJV2": {
+    "lat": 52.831401825,
+    "long": -109.6399993896,
+    "name": "Neilburg "
+  },
+  "CJV4": {
+    "lat": 55.5811004639,
+    "long": -104.7850036621,
+    "name": "Otter Lake "
+  },
+  "CJV5": {
+    "lat": 50.23279953,
+    "long": -99.510597229,
+    "name": "Neepawa "
+  },
+  "CJV7": {
+    "lat": 52.7085990906,
+    "long": -88.5419006348,
+    "name": "Summer Beaver "
+  },
+  "CJV8": {
+    "lat": 53.1725006104,
+    "long": -99.323097229,
+    "name": "Grand Rapids "
+  },
+  "CJV9": {
+    "lat": 50.9413986206,
+    "long": -102.7379989624,
+    "name": "Melville Municipal "
+  },
+  "CJW2": {
+    "lat": 49.2332992554,
+    "long": -102.1500015259,
+    "name": "Oxbow "
+  },
+  "CJW3": {
+    "lat": 54.0182991028,
+    "long": -109.1350021362,
+    "name": "Loon Lake "
+  },
+  "CJW4": {
+    "lat": 55.2868995667,
+    "long": -102.75,
+    "name": "Pelican Narrows "
+  },
+  "CJW5": {
+    "lat": 50.7658004761,
+    "long": -101.2949981689,
+    "name": "Russell "
+  },
+  "CJW7": {
+    "lat": 58.0531005859,
+    "long": -104.4840011597,
+    "name": "Cigar Lake "
+  },
+  "CJX4": {
+    "lat": 51.5643997192,
+    "long": -107.9179992676,
+    "name": "Rosetown "
+  },
+  "CJX5": {
+    "lat": 49.6333007813,
+    "long": -100.1999969482,
+    "name": "Souris Glenwood Industrial Air Park"
+  },
+  "CJY3": {
+    "lat": 52.8367004395,
+    "long": -104.0670013428,
+    "name": "Tisdale "
+  },
+  "CJY4": {
+    "lat": 55.5456008911,
+    "long": -102.2720031738,
+    "name": "Sandy Bay "
+  },
+  "CJY5": {
+    "lat": 50.3960990906,
+    "long": -100.4250030518,
+    "name": "Strathclair "
+  },
+  "CJZ2": {
+    "lat": 49.9925003052,
+    "long": -98.3031005859,
+    "name": "Portage La Prairie (North) "
+  },
+  "CJZ3": {
+    "lat": 52.8666992188,
+    "long": -104.6999969482,
+    "name": "Melfort "
+  },
+  "CJZ4": {
+    "lat": 53.2282981873,
+    "long": -106.3629989624,
+    "name": "Shellbrook "
+  },
+  "CKA4": {
+    "lat": 49.2807998657,
+    "long": -96.5010986328,
+    "name": "Zhoda "
+  },
+  "CKA8": {
+    "lat": 49.9244003296,
+    "long": -97.5488967896,
+    "name": "St. Francois Xavier "
+  },
+  "CKA9": {
+    "lat": 56.3372001648,
+    "long": -103.2929992676,
+    "name": "Southend "
+  },
+  "CKB2": {
+    "lat": 55.9000015259,
+    "long": -107.7210006714,
+    "name": "Patuanak "
+  },
+  "CKB6": {
+    "lat": 53.8492012024,
+    "long": -89.5793991089,
+    "name": "Wapekeka "
+  },
+  "CKB7": {
+    "lat": 51.2344017029,
+    "long": -101.3929977417,
+    "name": "Roblin "
+  },
+  "CKB8": {
+    "lat": 50.5,
+    "long": -96.0980987549,
+    "name": "Silver Falls "
+  },
+  "CKC6": {
+    "lat": 51.8452987671,
+    "long": -104.9919967651,
+    "name": "Lanigan "
+  },
+  "CKC7": {
+    "lat": 49.1666984558,
+    "long": -105.9329986572,
+    "name": "Rockglen "
+  },
+  "CKC8": {
+    "lat": 49.4002990723,
+    "long": -98.6924972534,
+    "name": "Somerset "
+  },
+  "CKC9": {
+    "lat": 49.6464004517,
+    "long": -104.6660003662,
+    "name": "Pangman "
+  },
+  "CKD2": {
+    "lat": 52.6197013855,
+    "long": -103.2480010986,
+    "name": "Porcupine Plain "
+  },
+  "CKD5": {
+    "lat": 50.0992012024,
+    "long": -102.6070022583,
+    "name": "Kipling "
+  },
+  "CKD7": {
+    "lat": 49.4082984924,
+    "long": -97.9906005859,
+    "name": "Roland (Graham Field) "
+  },
+  "CKD8": {
+    "lat": 44.5399876549,
+    "long": -78.8892602921,
+    "name": "Kirkfield / Balsam Lake Airfield"
+  },
+  "CKD9": {
+    "lat": 51.1300010681,
+    "long": -91.6656036377,
+    "name": "Slate Falls "
+  },
+  "CKE2": {
+    "lat": 52.0666999817,
+    "long": -104.266998291,
+    "name": "Quill Lake "
+  },
+  "CKE8": {
+    "lat": 52.4458007813,
+    "long": -109.1849975586,
+    "name": "Unity "
+  },
+  "CKF2": {
+    "lat": 49.4606018066,
+    "long": -104.2720031738,
+    "name": "Radville "
+  },
+  "CKF4": {
+    "lat": 54.4166984558,
+    "long": -109.233001709,
+    "name": "Goodsoil "
+  },
+  "CKF6": {
+    "lat": 49.9667015076,
+    "long": -98.75,
+    "name": "Macgregor "
+  },
+  "CKF9": {
+    "lat": 50.7174987793,
+    "long": -90.6836013794,
+    "name": "De Lesseps Lake "
+  },
+  "CKG2": {
+    "lat": 50.971698761,
+    "long": -97.011100769,
+    "name": "Riverton "
+  },
+  "CKG5": {
+    "lat": 49.25,
+    "long": -98.5333023071,
+    "name": "Manitou "
+  },
+  "CKG8": {
+    "lat": 48.4183006287,
+    "long": -89.6018981934,
+    "name": "Kakabeka Falls "
+  },
+  "CKH2": {
+    "lat": 50.4646987915,
+    "long": -101.5540008545,
+    "name": "Rocanville "
+  },
+  "CKH3": {
+    "lat": 53.5318984985,
+    "long": -106.8840026855,
+    "name": "Debden "
+  },
+  "CKH7": {
+    "lat": 53.3633003235,
+    "long": -107.547996521,
+    "name": "Spiritwood "
+  },
+  "CKH8": {
+    "lat": 50.6674995422,
+    "long": -104.7890014648,
+    "name": "Lumsden (Colhoun) "
+  },
+  "CKJ2": {
+    "lat": 49.4530982971,
+    "long": -97.4225006104,
+    "name": "Rosenort "
+  },
+  "CKJ4": {
+    "lat": 51.6241989136,
+    "long": -106.4420013428,
+    "name": "Hanley "
+  },
+  "CKJ7": {
+    "lat": 49.7167015076,
+    "long": -97.6832962036,
+    "name": "Starbuck "
+  },
+  "CKJ8": {
+    "lat": 54.2580986023,
+    "long": -97.011100769,
+    "name": "Molson Lake "
+  },
+  "CKJ9": {
+    "lat": 50.7089004517,
+    "long": -103.1969985962,
+    "name": "Lemberg "
+  },
+  "CKK2": {
+    "lat": 52.6500015259,
+    "long": -104.8669967651,
+    "name": "St. Brieux "
+  },
+  "CKK3": {
+    "lat": 48.9994659424,
+    "long": -105.3993377686,
+    "name": "Scobey Border Station "
+  },
+  "CKK4": {
+    "lat": 49.038898468,
+    "long": -102.9759979248,
+    "name": "Estevan (South) "
+  },
+  "CKK5": {
+    "lat": 49.5499992371,
+    "long": -108.8000030518,
+    "name": "Eastend "
+  },
+  "CKK7": {
+    "lat": 49.4939002991,
+    "long": -96.6988983154,
+    "name": "Steinbach (South) "
+  },
+  "CKL2": {
+    "lat": 50.1721992493,
+    "long": -96.8722000122,
+    "name": "Selkirk "
+  },
+  "CKL3": {
+    "lat": 52.893901825,
+    "long": -89.2891998291,
+    "name": "Wunnumin Lake "
+  },
+  "CKL5": {
+    "lat": 50.4575004578,
+    "long": -100.6090011597,
+    "name": "Shoal Lake "
+  },
+  "CKL6": {
+    "lat": 54.2919006348,
+    "long": -104.6709976196,
+    "name": "Little Bear Lake "
+  },
+  "CKL9": {
+    "lat": 50.7527999878,
+    "long": -104.9789962769,
+    "name": "Regina Beach "
+  },
+  "CKM2": {
+    "lat": 49.3899993896,
+    "long": -93.995300293,
+    "name": "Sioux Narrows "
+  },
+  "CKM4": {
+    "lat": 54.8307991028,
+    "long": -102.7890014648,
+    "name": "Jan Lake "
+  },
+  "CKM6": {
+    "lat": 53.1166992188,
+    "long": -99.8000030518,
+    "name": "Easterville "
+  },
+  "CKM8": {
+    "lat": 52.6067008972,
+    "long": -90.3768997192,
+    "name": "Opapimiskan Lake "
+  },
+  "CKN5": {
+    "lat": 49.8689002991,
+    "long": -103.4449996948,
+    "name": "Fillmore "
+  },
+  "CKN8": {
+    "lat": 57.7425003052,
+    "long": -103.9449996948,
+    "name": "Nekweaga Bay "
+  },
+  "CKP2": {
+    "lat": 50.0600013733,
+    "long": -105.4020004272,
+    "name": "Spring Valley (North) "
+  },
+  "CKQ2": {
+    "lat": 53.6786003113,
+    "long": -103.3499984741,
+    "name": "Squaw Rapids "
+  },
+  "CKQ3": {
+    "lat": 52.4900016785,
+    "long": -92.9710998535,
+    "name": "North Spirit Lake "
+  },
+  "CKQ5": {
+    "lat": 50.9942016602,
+    "long": -107.1309967041,
+    "name": "Lucky Lake "
+  },
+  "CKQ6": {
+    "lat": 50.4994010925,
+    "long": -99.8977966309,
+    "name": "Erickson Municipal "
+  },
+  "CKQ7": {
+    "lat": 49.879699707,
+    "long": -93.4364013672,
+    "name": "Vermilion Bay "
+  },
+  "CKQ8": {
+    "lat": 57.7675018311,
+    "long": -105.0240020752,
+    "name": "McArthur River "
+  },
+  "CKQ9": {
+    "lat": 51.6199989319,
+    "long": -96.810798645,
+    "name": "Pine Dock "
+  },
+  "CKR3": {
+    "lat": 51.0407981873,
+    "long": -99.495300293,
+    "name": "Ste. Rose Du Lac "
+  },
+  "CKR4": {
+    "lat": 50.7033004761,
+    "long": -98.0567016602,
+    "name": "Lundar "
+  },
+  "CKR7": {
+    "lat": 49.7846984863,
+    "long": -100.9560012817,
+    "name": "Virden (Gabrielle Farm) "
+  },
+  "CKR9": {
+    "lat": 51.4824981689,
+    "long": -107.0370025635,
+    "name": "Outlook "
+  },
+  "CKS3": {
+    "lat": 52.4880981445,
+    "long": -105.763999939,
+    "name": "Cudworth "
+  },
+  "CKS6": {
+    "lat": 49.4099998474,
+    "long": -103.1439971924,
+    "name": "Bryant "
+  },
+  "CKS7": {
+    "lat": 51.9294480759,
+    "long": -103.833761215,
+    "name": "Wadena "
+  },
+  "CKS8": {
+    "lat": 57.4641990662,
+    "long": -106.7480010986,
+    "name": "Cree Lake (Crystal Lodge) "
+  },
+  "CKS9": {
+    "lat": 44.1175003052,
+    "long": -81.6983032227,
+    "name": "Shepherd's Landing "
+  },
+  "CKT5": {
+    "lat": 49.4500007629,
+    "long": -100.5500030518,
+    "name": "Hartney "
+  },
+  "CKT7": {
+    "lat": 52.6490522523,
+    "long": -105.763063431,
+    "name": "Wakaw "
+  },
+  "CKU2": {
+    "lat": 49.6310997009,
+    "long": -98.6663970947,
+    "name": "Treherne "
+  },
+  "CKU4": {
+    "lat": 52.7332992554,
+    "long": -109.016998291,
+    "name": "Cut Knife "
+  },
+  "CKU5": {
+    "lat": 51.3499984741,
+    "long": -105.4000015259,
+    "name": "Imperial "
+  },
+  "CKU6": {
+    "lat": 50.4192008972,
+    "long": -102.9349975586,
+    "name": "Grenfell "
+  },
+  "CKU7": {
+    "lat": 51.68713736,
+    "long": -105.362319946,
+    "name": "Watrous "
+  },
+  "CKV2": {
+    "lat": 52.1333007813,
+    "long": -103.5350036621,
+    "name": "Kelvington "
+  },
+  "CKV4": {
+    "lat": 60.3163986206,
+    "long": -103.1289978027,
+    "name": "North of Sixty "
+  },
+  "CKV6": {
+    "lat": 51.0167007446,
+    "long": -101.8170013428,
+    "name": "Churchbridge "
+  },
+  "CKV7": {
+    "lat": 49.8944823433,
+    "long": -102.03045845,
+    "name": "Wawota "
+  },
+  "CKW6": {
+    "lat": 56.8833007813,
+    "long": -103.5830001831,
+    "name": "Davin Lake "
+  },
+  "CKX2": {
+    "lat": 50.1594009399,
+    "long": -97.5911026001,
+    "name": "Warren / Woodlands "
+  },
+  "CKX4": {
+    "lat": 51.0833015442,
+    "long": -97.4832992554,
+    "name": "Fisher Branch "
+  },
+  "CKX5": {
+    "lat": 51.3306007385,
+    "long": -107.43800354,
+    "name": "Dinsmore "
+  },
+  "CKX8": {
+    "lat": 53.836101532,
+    "long": -107.0090026855,
+    "name": "Big River "
+  },
+  "CKY2": {
+    "lat": 50.3347783814,
+    "long": -102.274475098,
+    "name": "Whitewood "
+  },
+  "CKY8": {
+    "lat": 51.20470047,
+    "long": -114.7740020752,
+    "name": "Arkayla Springs "
+  },
+  "CKZ2": {
+    "lat": 49.4000015259,
+    "long": -105.6669998169,
+    "name": "Willow Bunch "
+  },
+  "CKZ3": {
+    "lat": 54.6713981628,
+    "long": -94.1453018188,
+    "name": "Elk Island "
+  },
+  "CKZ6": {
+    "lat": 49.1472015381,
+    "long": -98.8807983398,
+    "name": "Louise Municipal "
+  },
+  "CKZ7": {
+    "lat": 49.1669006348,
+    "long": -97.9203033447,
+    "name": "Winkler "
+  },
+  "CLA2": {
+    "lat": 45.8231010437,
+    "long": -73.4606018066,
+    "name": "L'Assomption "
+  },
+  "CLA4": {
+    "lat": 44.0894012451,
+    "long": -79.4950027466,
+    "name": "Holland Landing Airpark"
+  },
+  "CLA5": {
+    "lat": 49.6569444445,
+    "long": -112.772777778,
+    "name": "Lethbridge / Anderson Field"
+  },
+  "CLA6": {
+    "lat": 45.2004013062,
+    "long": -74.361000061,
+    "name": "Lancaster Airpark"
+  },
+  "CLB2": {
+    "lat": 43.3058333,
+    "long": -80.5486111,
+    "name": "Plattsville (Lubitz Flying Field)"
+  },
+  "CLC2": {
+    "lat": 43.0682983398,
+    "long": -81.1256027222,
+    "name": "London / Chapeskie Field"
+  },
+  "CLE4": {
+    "lat": 43.6222000122,
+    "long": -65.7619018555,
+    "name": "Lower East Pubnico (La Field) "
+  },
+  "CLG3": {
+    "lat": 57.0018997192,
+    "long": -113.194000244,
+    "name": "Liege / CNRL "
+  },
+  "CLG7": {
+    "lat": 57.19694444,
+    "long": -112.895556,
+    "name": "Fort McMurray / Legend Airfield"
+  },
+  "CLJ3": {
+    "lat": 49.7416214711,
+    "long": -112.738330364,
+    "name": "Lethbridge / J3 Airfield"
+  },
+  "CLK3": {
+    "lat": 43.9678001404,
+    "long": -81.4933013916,
+    "name": "Lucknow Airpark"
+  },
+  "CLM2": {
+    "lat": 42.0250015259,
+    "long": -82.5250015259,
+    "name": "Leamington "
+  },
+  "CLN4": {
+    "lat": 55.2344927355,
+    "long": -119.841592312,
+    "name": "Beaverlodge / Clanachan Field"
+  },
+  "CLS3": {
+    "lat": 56.8323528324,
+    "long": -113.098840714,
+    "name": "Fort McMurray / South Liege Airfield"
+  },
+  "CLV2": {
+    "lat": 44.404637674,
+    "long": -80.1479780674,
+    "name": "Stayner (Clearview Field)"
+  },
+  "CLW2": {
+    "lat": 49.9850006104,
+    "long": -104.1149978638,
+    "name": "Lewvan (Farr Strip) "
+  },
+  "CLW3": {
+    "lat": 43.9791679382,
+    "long": -80.1772232056,
+    "name": "Laurel / Whittington"
+  },
+  "CMA2": {
+    "lat": 46.2997016907,
+    "long": -78.7478027344,
+    "name": "Mattawa "
+  },
+  "CMB2": {
+    "lat": 65.0246615457,
+    "long": -96.0686588287,
+    "name": "Meadowbank "
+  },
+  "CMF2": {
+    "lat": 53.1846546068,
+    "long": -113.738236427,
+    "name": "Edmonton / Calmar (Maplelane Farm)"
+  },
+  "CMF3": {
+    "lat": 49.5548112877,
+    "long": -112.561540604,
+    "name": "Lethbridge (Mercer Field)"
+  },
+  "CML2": {
+    "lat": 48.8119010925,
+    "long": -123.6510009766,
+    "name": "Quamichan Lake (Raven Field) "
+  },
+  "CMN4": {
+    "lat": 62.6047222222,
+    "long": -137.221944444,
+    "name": "Minto"
+  },
+  "CMN5": {
+    "lat": 50.6577319114,
+    "long": -68.8310194016,
+    "name": "Manic-5"
+  },
+  "CMN6": {
+    "lat": 53.8369444444,
+    "long": -113.563333333,
+    "name": "Edmonton/Morinville (Mike's Field)"
+  },
+  "CMW3": {
+    "lat": 45.1643383253,
+    "long": -77.0955276489,
+    "name": "Matawatchan"
+  },
+  "CNA2": {
+    "lat": 42.5544013977,
+    "long": -81.8031005859,
+    "name": "Highgate "
+  },
+  "CNA3": {
+    "lat": 44.4063987732,
+    "long": -79.7316970825,
+    "name": "Springwater Barrie Airpark"
+  },
+  "CNA4": {
+    "lat": 45.5499992371,
+    "long": -79.3499984741,
+    "name": "Emsdale "
+  },
+  "CNA9": {
+    "lat": 44.9160995483,
+    "long": -76.935798645,
+    "name": "Tomvale "
+  },
+  "CNC3": {
+    "lat": 43.7602996826,
+    "long": -79.875,
+    "name": "Brampton "
+  },
+  "CNC4": {
+    "lat": 43.5638999939,
+    "long": -80.1960983276,
+    "name": "Guelph "
+  },
+  "CND4": {
+    "lat": 45.1108333333,
+    "long": -78.64,
+    "name": "Stanhope Municipal "
+  },
+  "CNE3": {
+    "lat": 53.9655990601,
+    "long": -91.0271987915,
+    "name": "Bearskin Lake "
+  },
+  "CNE4": {
+    "lat": 48.7416992188,
+    "long": -80.793296814,
+    "name": "Iroquois Falls "
+  },
+  "CNE9": {
+    "lat": 42.0957984924,
+    "long": -82.8794021606,
+    "name": "Essex "
+  },
+  "CNF3": {
+    "lat": 45.4860992432,
+    "long": -75.0960998535,
+    "name": "Pendleton "
+  },
+  "CNF4": {
+    "lat": 44.3647003174,
+    "long": -78.7838973999,
+    "name": "Lindsay "
+  },
+  "CNF8": {
+    "lat": 45.3144454956,
+    "long": -78.9725036621,
+    "name": "Dwight "
+  },
+  "CNF9": {
+    "lat": 42.9994010925,
+    "long": -79.0635986328,
+    "name": "Niagara South "
+  },
+  "CNH2": {
+    "lat": 55.913898468,
+    "long": -61.1843986511,
+    "name": "Natuashish "
+  },
+  "CNJ3": {
+    "lat": 42.9172121601,
+    "long": -78.957452774,
+    "name": "Fort Erie "
+  },
+  "CNJ4": {
+    "lat": 44.6776557839,
+    "long": -79.3102169037,
+    "name": "Orillia "
+  },
+  "CNK4": {
+    "lat": 45.2574996948,
+    "long": -79.8296966553,
+    "name": "Parry Sound Area Municipal "
+  },
+  "CNL2": {
+    "lat": 57.1360995926,
+    "long": -113.290071487,
+    "name": "Fort McMurray / North Liege Airfield"
+  },
+  "CNL3": {
+    "lat": 44.6394004822,
+    "long": -75.7502975464,
+    "name": "Brockville - Thousand Islands Regional Tackaberry "
+  },
+  "CNL4": {
+    "lat": 44.4152984619,
+    "long": -81.4143981934,
+    "name": "Port Elgin "
+  },
+  "CNL7": {
+    "lat": 45.4083333,
+    "long": -80.0780555,
+    "name": "Nobel / Lumsden Air Park"
+  },
+  "CNL8": {
+    "lat": 44.6553001404,
+    "long": -79.8788986206,
+    "name": "Wyevale (Boker Field) "
+  },
+  "CNL9": {
+    "lat": 59.7080993652,
+    "long": -100.1269989014,
+    "name": "Nueltin Lake "
+  },
+  "CNM2": {
+    "lat": 42.8241996765,
+    "long": -81.5485992432,
+    "name": "Melbourne "
+  },
+  "CNM5": {
+    "lat": 53.0125007629,
+    "long": -89.8553009033,
+    "name": "Kingfisher Lake "
+  },
+  "CNN3": {
+    "lat": 44.0278929436,
+    "long": -80.2059459686,
+    "name": "Shelburne / Fisher Field"
+  },
+  "CNN8": {
+    "lat": 44.4019012451,
+    "long": -76.2442016602,
+    "name": "Gananoque "
+  },
+  "CNP3": {
+    "lat": 45.4136009216,
+    "long": -76.3657989502,
+    "name": "Arnprior "
+  },
+  "CNP6": {
+    "lat": 55.914900566,
+    "long": -117.136155367,
+    "name": "Nampa / Hockey"
+  },
+  "CNP7": {
+    "lat": 44.8421783447,
+    "long": -75.3114089966,
+    "name": "Iroquois "
+  },
+  "CNP8": {
+    "lat": 44.1336968141,
+    "long": -79.0130281448,
+    "name": "Greenbank "
+  },
+  "CNQ3": {
+    "lat": 42.9791984558,
+    "long": -79.3246994019,
+    "name": "Welland / Niagara Central "
+  },
+  "CNR4": {
+    "lat": 45.2214680842,
+    "long": -81.6275596619,
+    "name": "Tobermory "
+  },
+  "CNR6": {
+    "lat": 45.1039009094,
+    "long": -76.123298645,
+    "name": "Carleton Place "
+  },
+  "CNR9": {
+    "lat": 45.9255981445,
+    "long": -79.9278030396,
+    "name": "Arnstein "
+  },
+  "CNS4": {
+    "lat": 45.3306999207,
+    "long": -74.6257247925,
+    "name": "Alexandria Aerodrome"
+  },
+  "CNS6": {
+    "lat": 42.7383003235,
+    "long": -80.8167037964,
+    "name": "Straffordville "
+  },
+  "CNS7": {
+    "lat": 44.2014007568,
+    "long": -81.6066970825,
+    "name": "Kincardine "
+  },
+  "CNS8": {
+    "lat": 44.9469985962,
+    "long": -75.0774002075,
+    "name": "Morrisburg "
+  },
+  "CNT3": {
+    "lat": 51.6585998535,
+    "long": -85.9017028809,
+    "name": "Ogoki Post "
+  },
+  "CNT6": {
+    "lat": 43.5847015381,
+    "long": -80.6031036377,
+    "name": "Elmira "
+  },
+  "CNT7": {
+    "lat": 43.989200592,
+    "long": -77.1391983032,
+    "name": "Picton "
+  },
+  "CNU4": {
+    "lat": 44.192199707,
+    "long": -77.3094024658,
+    "name": "Belleville "
+  },
+  "CNU8": {
+    "lat": 43.935798645,
+    "long": -79.2621994019,
+    "name": "Markham "
+  },
+  "CNV4": {
+    "lat": 45.6166992188,
+    "long": -74.6500015259,
+    "name": "Hawkesbury "
+  },
+  "CNV8": {
+    "lat": 44.4411010742,
+    "long": -79.9627990723,
+    "name": "Edenvale Aerodrome"
+  },
+  "CNV9": {
+    "lat": 46.7214759694,
+    "long": -71.5854978561,
+    "name": "Quebec / Neuville "
+  },
+  "CNW2": {
+    "lat": 45.1624984741,
+    "long": -79.5353012085,
+    "name": "Windermere "
+  },
+  "CNW3": {
+    "lat": 45.0731010437,
+    "long": -77.8805999756,
+    "name": "Bancroft "
+  },
+  "CNX3": {
+    "lat": 49.75,
+    "long": -84.0333023071,
+    "name": "Carey Lake "
+  },
+  "CNX8": {
+    "lat": 42.8474998474,
+    "long": -80.3953018188,
+    "name": "Nixon "
+  },
+  "CNY3": {
+    "lat": 44.4491996765,
+    "long": -80.1583023071,
+    "name": "Collingwood "
+  },
+  "CNY4": {
+    "lat": 44.1833000183,
+    "long": -79.837097168,
+    "name": "Alliston "
+  },
+  "CNZ4": {
+    "lat": 45.5047227536,
+    "long": -77.6440930367,
+    "name": "Barry's Bay / Madawaska Valley Airpark"
+  },
+  "CNZ8": {
+    "lat": 43.1599998474,
+    "long": -79.5991973877,
+    "name": "Grimsby Airpark"
+  },
+  "COB4": {
+    "lat": 43.8745094139,
+    "long": -80.1798963547,
+    "name": "Orangeville / Brundle Field"
+  },
+  "COL2": {
+    "lat": 43.9169006348,
+    "long": -80.2058029175,
+    "name": "Orangeville / Laurel Airstrip"
+  },
+  "CPA4": {
+    "lat": 42.8193524977,
+    "long": -80.265212059,
+    "name": "Simcoe (Dennison Field) "
+  },
+  "CPB5": {
+    "lat": 50.461101532,
+    "long": -104.4309997559,
+    "name": "Pilot Butte "
+  },
+  "CPB8": {
+    "lat": 59.6380996704,
+    "long": -118.3330001831,
+    "name": "Paramount Bistcho "
+  },
+  "CPB9": {
+    "lat": 44.26720047,
+    "long": -79.3405990601,
+    "name": "Baldwin "
+  },
+  "CPC3": {
+    "lat": 43.840578507,
+    "long": -80.4428815842,
+    "name": "Arthur (Walter's Field)"
+  },
+  "CPC6": {
+    "lat": 43.948299408,
+    "long": -81.2718963623,
+    "name": "Teeswater (Thompson Field) "
+  },
+  "CPD2": {
+    "lat": 43.7449989319,
+    "long": -81.1766967773,
+    "name": "Ethel "
+  },
+  "CPD4": {
+    "lat": 43.75,
+    "long": -81.2332992554,
+    "name": "Brussels (Armstrong Field) "
+  },
+  "CPD8": {
+    "lat": 45.5643997192,
+    "long": -74.8097000122,
+    "name": "Hawkesbury (Windover Field) "
+  },
+  "CPE3": {
+    "lat": 47.7285995483,
+    "long": -80.3158035278,
+    "name": "Elk Lake "
+  },
+  "CPE4": {
+    "lat": 43.4427306923,
+    "long": -80.2325105667,
+    "name": "Cambridge / Reid's Field"
+  },
+  "CPE5": {
+    "lat": 42.8774986267,
+    "long": -79.3527984619,
+    "name": "Port Colborne "
+  },
+  "CPE6": {
+    "lat": 45.8210983276,
+    "long": -79.3233032227,
+    "name": "South River/Sundridge  & Float Plane Base"
+  },
+  "CPF2": {
+    "lat": 46.42029953,
+    "long": -84.0922012329,
+    "name": "Bar River "
+  },
+  "CPF4": {
+    "lat": 45.5950012207,
+    "long": -76.8332977295,
+    "name": "Bruce McPhail Memorial "
+  },
+  "CPF6": {
+    "lat": 43.1696925259,
+    "long": -79.7094154358,
+    "name": "Stoney Creek "
+  },
+  "CPF7": {
+    "lat": 44.4939002991,
+    "long": -81.3352966309,
+    "name": "Southampton "
+  },
+  "CPG4": {
+    "lat": 43.5918998718,
+    "long": -80.5121994019,
+    "name": "Elmira (East) "
+  },
+  "CPG5": {
+    "lat": 45.5828018188,
+    "long": -74.5488967896,
+    "name": "Hawkesbury (East) "
+  },
+  "CPG6": {
+    "lat": 44.4589004517,
+    "long": -81.379699707,
+    "name": "Port Elgin (Pryde Field) "
+  },
+  "CPG7": {
+    "lat": 43.7350006104,
+    "long": -80.4471969604,
+    "name": "Fergus (Juergensen Field) "
+  },
+  "CPH2": {
+    "lat": 46.1166992188,
+    "long": -77.5333023071,
+    "name": "Rolph "
+  },
+  "CPH3": {
+    "lat": 44.0248843879,
+    "long": -78.4269762039,
+    "name": "Port Hope (Peter's Field)"
+  },
+  "CPH9": {
+    "lat": 43.8880996704,
+    "long": -80.995300293,
+    "name": "Fordwich "
+  },
+  "CPJ5": {
+    "lat": 44.2414016724,
+    "long": -77.5616989136,
+    "name": "Stirling "
+  },
+  "CPK2": {
+    "lat": 42.965801239,
+    "long": -81.5916976929,
+    "name": "Strathroy (Blue Yonder) "
+  },
+  "CPK9": {
+    "lat": 43.7715431648,
+    "long": -80.4835224152,
+    "name": "Arthur (Peskett Field)"
+  },
+  "CPL3": {
+    "lat": 45.1030620653,
+    "long": -75.6281661987,
+    "name": "Kars / Rideau Valley Air Park"
+  },
+  "CPL4": {
+    "lat": 43.2868995667,
+    "long": -81.7142028809,
+    "name": "Grand Bend "
+  },
+  "CPL5": {
+    "lat": 46.3166999817,
+    "long": -83.5333023071,
+    "name": "Thessalon Municipal "
+  },
+  "CPM3": {
+    "lat": 53.8025,
+    "long": -72.841389,
+    "name": "POURVOIRIE MIRAGE AERODROME"
+  },
+  "CPM5": {
+    "lat": 43.9913325082,
+    "long": -79.7811698914,
+    "name": "Volk "
+  },
+  "CPM7": {
+    "lat": 44.136100769,
+    "long": -79.6288986206,
+    "name": "Bradford "
+  },
+  "CPN2": {
+    "lat": 45.5297264228,
+    "long": -76.1673545837,
+    "name": "Pontiac Airpark"
+  },
+  "CPN5": {
+    "lat": 43.7428016663,
+    "long": -80.9914016724,
+    "name": "Listowel "
+  },
+  "CPP6": {
+    "lat": 43.0374984741,
+    "long": -79.8525009155,
+    "name": "York "
+  },
+  "CPQ4": {
+    "lat": 44.2919095924,
+    "long": -79.5472812653,
+    "name": "Lefroy "
+  },
+  "CPR2": {
+    "lat": 45.2411003113,
+    "long": -75.2985992432,
+    "name": "Ottawa / Embrun "
+  },
+  "CPR3": {
+    "lat": 43.8535995483,
+    "long": -80.7802963257,
+    "name": "Palmerston "
+  },
+  "CPR5": {
+    "lat": 43.1082677518,
+    "long": -80.8218669891,
+    "name": "Woodstock "
+  },
+  "CPR7": {
+    "lat": 43.8675003052,
+    "long": -81.2985992432,
+    "name": "Wingham / Richard W. LeVan "
+  },
+  "CPR9": {
+    "lat": 43.7417549969,
+    "long": -80.3862011433,
+    "name": "Fergus (Royland Field)"
+  },
+  "CPS2": {
+    "lat": 44.251470223,
+    "long": -78.1072568893,
+    "name": "Elmhirst's Resort "
+  },
+  "CPS4": {
+    "lat": 43.1632995605,
+    "long": -81.4124984741,
+    "name": "Lucan "
+  },
+  "CPS5": {
+    "lat": 51.6044006348,
+    "long": -88.5821990967,
+    "name": "Miminiska "
+  },
+  "CPS7": {
+    "lat": 43.7753857192,
+    "long": -80.2280688286,
+    "name": "Orton / Smith Field"
+  },
+  "CPT2": {
+    "lat": 45.9775009155,
+    "long": -81.4946975708,
+    "name": "Killarney "
+  },
+  "CPT3": {
+    "lat": 43.3222007751,
+    "long": -80.176399231,
+    "name": "Rockton "
+  },
+  "CPU3": {
+    "lat": 42.5313987732,
+    "long": -81.6069030762,
+    "name": "Rodney (New Glasgow) "
+  },
+  "CPU6": {
+    "lat": 44.1847000122,
+    "long": -77.1078033447,
+    "name": "Tyendinaga Mohawk "
+  },
+  "CPV2": {
+    "lat": 43.9585990906,
+    "long": -80.1549987793,
+    "name": "Orangeville / Murray Wesley Kot Field"
+  },
+  "CPV3": {
+    "lat": 46.2832984924,
+    "long": -83.9499969482,
+    "name": "St. Joseph Island "
+  },
+  "CPV4": {
+    "lat": 44.1439218832,
+    "long": -80.0136208534,
+    "name": "Mansfield "
+  },
+  "CPV7": {
+    "lat": 52.1133003235,
+    "long": -94.2555999756,
+    "name": "Poplar Hill "
+  },
+  "CPV8": {
+    "lat": 52.9911003113,
+    "long": -92.8364028931,
+    "name": "Keewaywin "
+  },
+  "CPY9": {
+    "lat": 43.728611111,
+    "long": -80.2830555556,
+    "name": "Fergus (Holyoake Airfield)"
+  },
+  "CPZ3": {
+    "lat": 44.0694007874,
+    "long": -77.3380966187,
+    "name": "Trenton / Mountain View "
+  },
+  "CRB2": {
+    "lat": 42.1399993896,
+    "long": -82.6528015137,
+    "name": "Cottam "
+  },
+  "CRB4": {
+    "lat": 50.7043991089,
+    "long": -71.1624984741,
+    "name": "Riviere Bonnard "
+  },
+  "CRB5": {
+    "lat": 49.0788993835,
+    "long": -62.2369003296,
+    "name": "Riviere Bell "
+  },
+  "CRD4": {
+    "lat": 52.261944,
+    "long": -113.951389,
+    "name": "Red Deer / South 40 Airstrip"
+  },
+  "CRD5": {
+    "lat": 52.2870428404,
+    "long": -113.913180828,
+    "name": "Red Deer / Truant Airfield"
+  },
+  "CRE2": {
+    "lat": 62.7667007446,
+    "long": -116.0839996338,
+    "name": "Edzo "
+  },
+  "CRE3": {
+    "lat": 43.0643730519,
+    "long": -80.6983566284,
+    "name": "Curries (Rand Private Airfield)"
+  },
+  "CRF3": {
+    "lat": 53.645555556,
+    "long": -113.802777778,
+    "name": "Edmonton / Villeneuve (Rose Field)"
+  },
+  "CRF4": {
+    "lat": 50.764722223,
+    "long": -113.958055556,
+    "name": "Calgary / Okotoks (Rowland Field)"
+  },
+  "CRJ2": {
+    "lat": 42.2888870239,
+    "long": -82.5983352661,
+    "name": "Stoney Point (Trepanier)"
+  },
+  "CRL2": {
+    "lat": 44.6666651766,
+    "long": -76.3966673613,
+    "name": "Westport / Rideau Lakes "
+  },
+  "CRL4": {
+    "lat": 55.3555984497,
+    "long": -110.6370010376,
+    "name": "Kirby Lake "
+  },
+  "CRL7": {
+    "lat": 57.28805555,
+    "long": -102.525,
+    "name": "Reindeer Lake / Lindbergh Lodge Airstrip"
+  },
+  "CRM2": {
+    "lat": 50.573600769,
+    "long": -99.3613967896,
+    "name": "Riding Mountain "
+  },
+  "CRML": {
+    "lat": 42.2956008911,
+    "long": -82.5350036621,
+    "name": "Stoney Point (Le Cunff) "
+  },
+  "CRP2": {
+    "lat": 49.5806007385,
+    "long": -101.0530014038,
+    "name": "R.M. of Pipestone "
+  },
+  "CRS3": {
+    "lat": 50.7994796471,
+    "long": -114.051260948,
+    "name": "Calgary / Christiansen Field"
+  },
+  "CRS7": {
+    "lat": 51.905,
+    "long": -72.12388888,
+    "name": "Matoush "
+  },
+  "CRT2": {
+    "lat": 51.0092455225,
+    "long": -72.9835939407,
+    "name": "Riviere Temiscamie (Air Roberval Ltee) "
+  },
+  "CSA2": {
+    "lat": 45.7919006348,
+    "long": -73.6380996704,
+    "name": "Lac Agile (Mascouche) "
+  },
+  "CSB2": {
+    "lat": 43.9303535212,
+    "long": -59.9597740173,
+    "name": "Sable Island Landing Strip"
+  },
+  "CSB3": {
+    "lat": 45.5900001526,
+    "long": -73.2386016846,
+    "name": "St-Mathieu-De-Beloeil "
+  },
+  "CSB5": {
+    "lat": 46.254699707,
+    "long": -64.5766983032,
+    "name": "Shediac Bridge "
+  },
+  "CSC3": {
+    "lat": 45.8452987671,
+    "long": -72.3946990967,
+    "name": "Drummondville "
+  },
+  "CSC5": {
+    "lat": 46.4071998596,
+    "long": -70.5014038086,
+    "name": "Lac Etchemin "
+  },
+  "CSC9": {
+    "lat": 46.4822006226,
+    "long": -80.8339004517,
+    "name": "Sudbury / Coniston "
+  },
+  "CSD3": {
+    "lat": 45.2083015442,
+    "long": -74.1414031982,
+    "name": "Valleyfield "
+  },
+  "CSD4": {
+    "lat": 46.5643997192,
+    "long": -75.577796936,
+    "name": "Mont Laurier "
+  },
+  "CSE3": {
+    "lat": 46.1094017029,
+    "long": -73.452796936,
+    "name": "Lourdes-De-Joliette "
+  },
+  "CSE4": {
+    "lat": 45.6394004822,
+    "long": -74.3705978394,
+    "name": "Lachute "
+  },
+  "CSE5": {
+    "lat": 47.0013999939,
+    "long": -70.5158004761,
+    "name": "Montmagny "
+  },
+  "CSF3": {
+    "lat": 51.8885993958,
+    "long": -65.7149963379,
+    "name": "Poste Montagnais (Mile 134) "
+  },
+  "CSF7": {
+    "lat": 45.299675051,
+    "long": -75.1715040207,
+    "name": "Ottawa / Casselman (Shea Field)"
+  },
+  "CSG3": {
+    "lat": 46.0449981689,
+    "long": -73.501701355,
+    "name": "Joliette "
+  },
+  "CSG5": {
+    "lat": 46.6852989197,
+    "long": -71.1517028809,
+    "name": "St Jean Chrysostome "
+  },
+  "CSH2": {
+    "lat": 47.0710983276,
+    "long": -70.5327987671,
+    "name": "Ile-aux-Grues "
+  },
+  "CSH4": {
+    "lat": 49.0303001404,
+    "long": -77.0171966553,
+    "name": "Lebel-sur-Quevillon "
+  },
+  "CSH5": {
+    "lat": 46.1260986328,
+    "long": -71.5361022949,
+    "name": "St-Ferdinand "
+  },
+  "CSJ2": {
+    "lat": 47.5946998596,
+    "long": -74.1335983276,
+    "name": "Kanawata Aeroparc "
+  },
+  "CSJ4": {
+    "lat": 46.2461013794,
+    "long": -72.9044036865,
+    "name": "Louiseville "
+  },
+  "CSJ5": {
+    "lat": 46.4366989136,
+    "long": -72.6303024292,
+    "name": "St-Louis-De-France "
+  },
+  "CSK3": {
+    "lat": 45.7186012268,
+    "long": -73.5980987549,
+    "name": "Montreal / Mascouche "
+  },
+  "CSK4": {
+    "lat": 45.0264015198,
+    "long": -72.4019012451,
+    "name": "Mansonville "
+  },
+  "CSK5": {
+    "lat": 46.8950004578,
+    "long": -71.7857971191,
+    "name": "Paquet "
+  },
+  "CSK6": {
+    "lat": 63.5936012268,
+    "long": -110.90599823,
+    "name": "Snap Lake "
+  },
+  "CSK8": {
+    "lat": 49.0950012207,
+    "long": -122.8190002441,
+    "name": "King George Airpark"
+  },
+  "CSL3": {
+    "lat": 46.6217002869,
+    "long": -72.6303024292,
+    "name": "Lac a la Tortue "
+  },
+  "CSL5": {
+    "lat": 46.1183013916,
+    "long": -70.8891983032,
+    "name": "St-Victor-De-Beauce "
+  },
+  "CSL7": {
+    "lat": 50.3645177502,
+    "long": -103.74080658,
+    "name": "Odessa / Strawberry Lakes Airstrip"
+  },
+  "CSL9": {
+    "lat": 49.1843986511,
+    "long": -68.3625030518,
+    "name": "Baie-Comeau (Manic 1) "
+  },
+  "CSM3": {
+    "lat": 46.051700592,
+    "long": -71.2572021484,
+    "name": "Thetford Mines "
+  },
+  "CSM4": {
+    "lat": 45.9407997131,
+    "long": -73.7238998413,
+    "name": "Ste-Julienne "
+  },
+  "CSM5": {
+    "lat": 46.6808013916,
+    "long": -73.993598938,
+    "name": "St-Michel-Des-Saints "
+  },
+  "CSN3": {
+    "lat": 45.7803001404,
+    "long": -74.0618972778,
+    "name": "St-Jerome "
+  },
+  "CSN5": {
+    "lat": 45.0155982971,
+    "long": -71.7944030762,
+    "name": "Stanhope "
+  },
+  "CSN7": {
+    "lat": 45.2855987549,
+    "long": -73.0077972412,
+    "name": "Farnham "
+  },
+  "CSP3": {
+    "lat": 53.5374984741,
+    "long": -114.0680007935,
+    "name": "Stony Plain (Lichtner Farms) "
+  },
+  "CSP5": {
+    "lat": 45.5008010864,
+    "long": -73.2416992188,
+    "name": "St-Mathias "
+  },
+  "CSP6": {
+    "lat": 45.3760986328,
+    "long": -73.9072036743,
+    "name": "Montreal / Aeroparc Ile Perrot"
+  },
+  "CSQ2": {
+    "lat": 50.8786689434,
+    "long": -119.590816498,
+    "name": "Shuswap (Skwlax Field) "
+  },
+  "CSQ3": {
+    "lat": 45.481098175,
+    "long": -72.3103027344,
+    "name": "Valcourt "
+  },
+  "CSR3": {
+    "lat": 46.1128005981,
+    "long": -71.9289016724,
+    "name": "Victoriaville "
+  },
+  "CSR8": {
+    "lat": 48.9171981812,
+    "long": -79.1785964966,
+    "name": "La Sarre "
+  },
+  "CSS3": {
+    "lat": 45.3474998474,
+    "long": -74.0766983032,
+    "name": "Montreal / Les Cedres "
+  },
+  "CSS4": {
+    "lat": 45.6324996948,
+    "long": -72.818901062,
+    "name": "St-Dominique "
+  },
+  "CST3": {
+    "lat": 45.3903282887,
+    "long": -74.1340041161,
+    "name": "Montreal / St-Lazare "
+  },
+  "CST7": {
+    "lat": 46.5602989197,
+    "long": -71.1825027466,
+    "name": "St-Lambert-De-Lauzon "
+  },
+  "CSU2": {
+    "lat": 53.8055992126,
+    "long": -78.9169006348,
+    "name": "Chisasibi "
+  },
+  "CSU3": {
+    "lat": 45.6049995422,
+    "long": -73.0141983032,
+    "name": "St Hyacinthe "
+  },
+  "CSU4": {
+    "lat": 46.7407989502,
+    "long": -70.0325012207,
+    "name": "Ste-Lucie-De-Beauregard "
+  },
+  "CSU5": {
+    "lat": 47.9369010925,
+    "long": -73.817199707,
+    "name": "Weymontachie "
+  },
+  "CSU7": {
+    "lat": 46.6166992188,
+    "long": -72.6258010864,
+    "name": "Lac-a-la-Tortue (Water Aerodrome) "
+  },
+  "CSV8": {
+    "lat": 43.9861452438,
+    "long": -79.7272896767,
+    "name": "Schomberg (Sloan Valley View Farm Airfield)"
+  },
+  "CSX3": {
+    "lat": 45.4470727938,
+    "long": -73.2326853275,
+    "name": "Richelieu"
+  },
+  "CSX5": {
+    "lat": 45.4719009399,
+    "long": -73.1994018555,
+    "name": "Grant "
+  },
+  "CSX7": {
+    "lat": 43.3772010803,
+    "long": -81.5042037964,
+    "name": "Exeter "
+  },
+  "CSY3": {
+    "lat": 45.9803009033,
+    "long": -73.0421981812,
+    "name": "Sorel "
+  },
+  "CSY4": {
+    "lat": 46.3058013916,
+    "long": -74.1813964844,
+    "name": "St-Donat "
+  },
+  "CSZ3": {
+    "lat": 46.1542015076,
+    "long": -74.5836029053,
+    "name": "St-Jovite "
+  },
+  "CSZ4": {
+    "lat": 46.331401825,
+    "long": -70.9633026123,
+    "name": "St-Frederic "
+  },
+  "CTA3": {
+    "lat": 47.3894004822,
+    "long": -70.3843994141,
+    "name": "Ile aux Coudres "
+  },
+  "CTA4": {
+    "lat": 47.4491996765,
+    "long": -79.4180984497,
+    "name": "St Bruno-de-Guigues "
+  },
+  "CTB6": {
+    "lat": 50.6744003296,
+    "long": -59.3835983276,
+    "name": "Tete-a-la-Baleine "
+  },
+  "CTE5": {
+    "lat": 46.6225013733,
+    "long": -72.8482971191,
+    "name": "Lac a la Perchaude "
+  },
+  "CTF3": {
+    "lat": 48.3114013672,
+    "long": -67.2514038086,
+    "name": "Causapscal "
+  },
+  "CTF4": {
+    "lat": 44.1743863972,
+    "long": -80.3079128265,
+    "name": "Dundalk (Tripp Field)"
+  },
+  "CTG3": {
+    "lat": 48.3833007813,
+    "long": -64.5643997192,
+    "name": "Du Rocher-Perce (Pabok) "
+  },
+  "CTH2": {
+    "lat": 62.1007902302,
+    "long": -112.624111176,
+    "name": "Thor Lake "
+  },
+  "CTH3": {
+    "lat": 48.2322006226,
+    "long": -69.5428009033,
+    "name": "Grandes-Bergeronnes "
+  },
+  "CTK2": {
+    "lat": 48.3405990601,
+    "long": -77.181098938,
+    "name": "Senneterre "
+  },
+  "CTK6": {
+    "lat": 50.1958007813,
+    "long": -61.2658004761,
+    "name": "Kegaska "
+  },
+  "CTK7": {
+    "lat": 42.8511123657,
+    "long": -79.8791656494,
+    "name": "Selkirk / Kindy Airstrip"
+  },
+  "CTN6": {
+    "lat": 49.6596984863,
+    "long": -98.6652984619,
+    "name": "Treherne (South Norfolk Airpark) "
+  },
+  "CTP9": {
+    "lat": 61.6622009277,
+    "long": -73.3214035034,
+    "name": "Donaldson "
+  },
+  "CTQ2": {
+    "lat": 45.0344009399,
+    "long": -72.0350036621,
+    "name": "Weller "
+  },
+  "CTQ6": {
+    "lat": 46.6218986511,
+    "long": -70.9550018311,
+    "name": "St-Anselme "
+  },
+  "CTR6": {
+    "lat": 46.7835998535,
+    "long": -71.8264007568,
+    "name": "St-Basile (Marcotte) "
+  },
+  "CTT5": {
+    "lat": 50.2597007751,
+    "long": -60.6794013977,
+    "name": "La Romaine "
+  },
+  "CTU2": {
+    "lat": 54.5539016724,
+    "long": -71.1733016968,
+    "name": "Fontanges "
+  },
+  "CTU5": {
+    "lat": 50.8307991028,
+    "long": -58.9756011963,
+    "name": "La Tabatiere "
+  },
+  "CTY4": {
+    "lat": 51.9001705129,
+    "long": -114.147820473,
+    "name": "Olds / North 40 Ranch Airstrip"
+  },
+  "CTY5": {
+    "lat": 45.4383010864,
+    "long": -73.0378036499,
+    "name": "Rougemont "
+  },
+  "CVB2": {
+    "lat": 56.3447222222,
+    "long": -62.0880555556,
+    "name": "Voisey's Bay"
+  },
+  "CVF2": {
+    "lat": 43.7232733033,
+    "long": -80.2893733978,
+    "name": "Fergus (Vodarek Field)"
+  },
+  "CVS2": {
+    "lat": 53.0256004333,
+    "long": -111.9489974976,
+    "name": "Viking (South) "
+  },
+  "CWC1": {
+    "lat": 50.4397010803,
+    "long": -104.3059997559,
+    "name": "White City (Radomsky) "
+  },
+  "CWF2": {
+    "lat": 44.463879951,
+    "long": -80.6214737892,
+    "name": "Walter's Falls (Piper Way) Airfield"
+  },
+  "CWJC": {
+    "lat": 61.1333333333,
+    "long": -100.9,
+    "name": "Ennadai Lake "
+  },
+  "CYAB": {
+    "lat": 73.0057668174,
+    "long": -85.0425052643,
+    "name": "Arctic Bay "
+  },
+  "CYAC": {
+    "lat": 51.7271995544,
+    "long": -91.8244018555,
+    "name": "Cat Lake "
+  },
+  "CYAD": {
+    "lat": 53.5717010498,
+    "long": -76.1964035034,
+    "name": "La Grande-3 "
+  },
+  "CYAG": {
+    "lat": 48.6542015076,
+    "long": -93.4396972656,
+    "name": "Fort Frances Municipal "
+  },
+  "CYAH": {
+    "lat": 53.754699707,
+    "long": -73.6753005981,
+    "name": "La Grande-4 "
+  },
+  "CYAL": {
+    "lat": 50.5821990967,
+    "long": -126.9160003662,
+    "name": "Alert Bay "
+  },
+  "CYAM": {
+    "lat": 46.4850006104,
+    "long": -84.5093994141,
+    "name": "Sault Ste Marie "
+  },
+  "CYAQ": {
+    "lat": 53.5247001648,
+    "long": -88.6427993774,
+    "name": "Kasabonika "
+  },
+  "CYAS": {
+    "lat": 60.0271987915,
+    "long": -69.9991989136,
+    "name": "Kangirsuk "
+  },
+  "CYAT": {
+    "lat": 52.9275016785,
+    "long": -82.4319000244,
+    "name": "Attawapiskat "
+  },
+  "CYAU": {
+    "lat": 44.2303009033,
+    "long": -64.8561019897,
+    "name": "Liverpool South Shore Regional "
+  },
+  "CYAV": {
+    "lat": 50.0564002991,
+    "long": -97.0325012207,
+    "name": "Winnipeg / St. Andrews "
+  },
+  "CYAW": {
+    "lat": 44.637222,
+    "long": -63.502222,
+    "name": "Shearwater "
+  },
+  "CYAX": {
+    "lat": 50.2943992615,
+    "long": -96.0100021362,
+    "name": "Lac Du Bonnet "
+  },
+  "CYAY": {
+    "lat": 51.3918991089,
+    "long": -56.0830993652,
+    "name": "St. Anthony "
+  },
+  "CYAZ": {
+    "lat": 49.0798255464,
+    "long": -125.775604248,
+    "name": "Tofino / Long Beach "
+  },
+  "CYBA": {
+    "lat": 51.2073404699,
+    "long": -115.541861057,
+    "name": "Banff "
+  },
+  "CYBB": {
+    "lat": 68.5344009399,
+    "long": -89.8080978394,
+    "name": "Kugaaruk "
+  },
+  "CYBC": {
+    "lat": 49.1324996948,
+    "long": -68.2043991089,
+    "name": "Baie Comeau "
+  },
+  "CYBD": {
+    "lat": 52.3875007629,
+    "long": -126.5960006714,
+    "name": "Bella Coola "
+  },
+  "CYBE": {
+    "lat": 59.5614013672,
+    "long": -108.4810028076,
+    "name": "Uranium City "
+  },
+  "CYBF": {
+    "lat": 54.3041992188,
+    "long": -110.7440032959,
+    "name": "Bonnyville "
+  },
+  "CYBG": {
+    "lat": 48.3306007385,
+    "long": -70.9963989258,
+    "name": "CFB Bagotville"
+  },
+  "CYBK": {
+    "lat": 64.2988967896,
+    "long": -96.077796936,
+    "name": "Baker Lake "
+  },
+  "CYBL": {
+    "lat": 49.9508018494,
+    "long": -125.2710037231,
+    "name": "Campbell River "
+  },
+  "CYBP": {
+    "lat": 50.6335983276,
+    "long": -111.9260025024,
+    "name": "Brooks Regional"
+  },
+  "CYBQ": {
+    "lat": 58.7061004639,
+    "long": -98.5121994019,
+    "name": "Tadoule Lake "
+  },
+  "CYBR": {
+    "lat": 49.9099998474,
+    "long": -99.9518966675,
+    "name": "Brandon Municipal "
+  },
+  "CYBT": {
+    "lat": 57.8894004822,
+    "long": -101.6790008545,
+    "name": "Brochet "
+  },
+  "CYBU": {
+    "lat": 53.3325004578,
+    "long": -104.0080032349,
+    "name": "Nipawin "
+  },
+  "CYBV": {
+    "lat": 52.3588981628,
+    "long": -97.0183029175,
+    "name": "Berens River "
+  },
+  "CYBW": {
+    "lat": 51.103099823,
+    "long": -114.374000549,
+    "name": "Calgary / Springbank "
+  },
+  "CYBX": {
+    "lat": 51.4435997009,
+    "long": -57.1852989197,
+    "name": "Lourdes de Blanc Sablon "
+  },
+  "CYCA": {
+    "lat": 53.682800293,
+    "long": -57.0419006348,
+    "name": "Cartwright "
+  },
+  "CYCB": {
+    "lat": 69.1081008911,
+    "long": -105.138000488,
+    "name": "Cambridge Bay "
+  },
+  "CYCC": {
+    "lat": 45.0928001404,
+    "long": -74.5633010864,
+    "name": "Cornwall Regional "
+  },
+  "CYCD": {
+    "lat": 49.0522994995,
+    "long": -123.8700027466,
+    "name": "Nanaimo "
+  },
+  "CYCE": {
+    "lat": 43.2855987549,
+    "long": -81.5083007813,
+    "name": "James T. Field Memorial Aerodrome"
+  },
+  "CYCG": {
+    "lat": 49.2963981628,
+    "long": -117.632003784,
+    "name": "Castlegar/West Kootenay Regional "
+  },
+  "CYCH": {
+    "lat": 47.0078010559,
+    "long": -65.4492034912,
+    "name": "Miramichi "
+  },
+  "CYCK": {
+    "lat": 42.3064002991,
+    "long": -82.0819015503,
+    "name": "Chatham Kent "
+  },
+  "CYCL": {
+    "lat": 47.9907989502,
+    "long": -66.3302993774,
+    "name": "Charlo "
+  },
+  "CYCN": {
+    "lat": 49.1055984497,
+    "long": -81.0136032104,
+    "name": "Cochrane "
+  },
+  "CYCO": {
+    "lat": 67.8167037964,
+    "long": -115.143997192,
+    "name": "Kugluktuk "
+  },
+  "CYCP": {
+    "lat": 52.1166992188,
+    "long": -119.2829971313,
+    "name": "Blue River "
+  },
+  "CYCQ": {
+    "lat": 55.6871986389,
+    "long": -121.6269989014,
+    "name": "Chetwynd "
+  },
+  "CYCR": {
+    "lat": 54.6105995178,
+    "long": -97.7608032227,
+    "name": "Cross Lake (Charlie Sinclair Memorial) "
+  },
+  "CYCS": {
+    "lat": 63.3469009399,
+    "long": -90.7311019897,
+    "name": "Chesterfield Inlet "
+  },
+  "CYCT": {
+    "lat": 52.0750007629,
+    "long": -111.4449996948,
+    "name": "Coronation "
+  },
+  "CYCW": {
+    "lat": 49.1528015137,
+    "long": -121.9390029907,
+    "name": "Chilliwack "
+  },
+  "CYCY": {
+    "lat": 70.4860992432,
+    "long": -68.5167007446,
+    "name": "Clyde River "
+  },
+  "CYCZ": {
+    "lat": 50.3302993774,
+    "long": -115.873001099,
+    "name": "Fairmont Hot Springs "
+  },
+  "CYDA": {
+    "lat": 64.0430984497,
+    "long": -139.1280059814,
+    "name": "Dawson City "
+  },
+  "CYDB": {
+    "lat": 61.3711013794,
+    "long": -139.0410003662,
+    "name": "Burwash "
+  },
+  "CYDC": {
+    "lat": 49.4681015015,
+    "long": -120.511001587,
+    "name": "Princeton "
+  },
+  "CYDF": {
+    "lat": 49.2108001709,
+    "long": -57.3913993835,
+    "name": "Deer Lake "
+  },
+  "CYDL": {
+    "lat": 58.4221992493,
+    "long": -130.0319976807,
+    "name": "Dease Lake "
+  },
+  "CYDM": {
+    "lat": 61.9706001282,
+    "long": -132.4230041504,
+    "name": "Ross River "
+  },
+  "CYDN": {
+    "lat": 51.1007995605,
+    "long": -100.0520019531,
+    "name": "Dauphin Barker "
+  },
+  "CYDO": {
+    "lat": 48.7784996033,
+    "long": -72.375,
+    "name": "Dolbeau St Felicien "
+  },
+  "CYDP": {
+    "lat": 56.5491981506,
+    "long": -61.6803016663,
+    "name": "Nain "
+  },
+  "CYDQ": {
+    "lat": 55.7422981262,
+    "long": -120.1829986572,
+    "name": "Dawson Creek "
+  },
+  "CYEA": {
+    "lat": 50.9333000183,
+    "long": -110.0130004883,
+    "name": "Empress "
+  },
+  "CYEE": {
+    "lat": 44.6833000183,
+    "long": -79.9282989502,
+    "name": "Huronia "
+  },
+  "CYEG": {
+    "lat": 53.3097000122,
+    "long": -113.580001831,
+    "name": "Edmonton International "
+  },
+  "CYEK": {
+    "lat": 61.0942001343,
+    "long": -94.0708007812,
+    "name": "Arviat "
+  },
+  "CYEL": {
+    "lat": 46.351398468,
+    "long": -82.5614013672,
+    "name": "Elliot Lake Municipal "
+  },
+  "CYEM": {
+    "lat": 45.8428001404,
+    "long": -81.8581008911,
+    "name": "Manitoulin East Municipal "
+  },
+  "CYEN": {
+    "lat": 49.2103004456,
+    "long": -102.966003418,
+    "name": "Estevan "
+  },
+  "CYER": {
+    "lat": 56.018901825,
+    "long": -87.6761016846,
+    "name": "Fort Severn "
+  },
+  "CYES": {
+    "lat": 47.4906005859,
+    "long": -68.4819030762,
+    "name": "Edmundston "
+  },
+  "CYET": {
+    "lat": 53.5788993835,
+    "long": -116.464996338,
+    "name": "Edson "
+  },
+  "CYEU": {
+    "lat": 79.9946975708,
+    "long": -85.814201355,
+    "name": "Eureka "
+  },
+  "CYEV": {
+    "lat": 68.3041992188,
+    "long": -133.483001709,
+    "name": "Inuvik Mike Zubko "
+  },
+  "CYEY": {
+    "lat": 48.5638999939,
+    "long": -78.2497024536,
+    "name": "Amos Magny "
+  },
+  "CYFA": {
+    "lat": 52.2014007568,
+    "long": -81.6968994141,
+    "name": "Fort Albany "
+  },
+  "CYFB": {
+    "lat": 63.756401062,
+    "long": -68.5558013916,
+    "name": "Iqaluit "
+  },
+  "CYFC": {
+    "lat": 45.8689002991,
+    "long": -66.5372009277,
+    "name": "Fredericton "
+  },
+  "CYFD": {
+    "lat": 43.131401062,
+    "long": -80.3424987793,
+    "name": "Brantford Municipal "
+  },
+  "CYFE": {
+    "lat": 48.7461013794,
+    "long": -69.0971984863,
+    "name": "Forestville "
+  },
+  "CYFH": {
+    "lat": 51.5619010925,
+    "long": -87.9077987671,
+    "name": "Fort Hope "
+  },
+  "CYFJ": {
+    "lat": 46.4094009399,
+    "long": -74.7799987793,
+    "name": "La Macaza / Mont-Tremblant International Inc "
+  },
+  "CYFO": {
+    "lat": 54.6781005859,
+    "long": -101.6819992065,
+    "name": "Flin Flon "
+  },
+  "CYFR": {
+    "lat": 61.1808013916,
+    "long": -113.690002441,
+    "name": "Fort Resolution "
+  },
+  "CYFS": {
+    "lat": 61.7602005005,
+    "long": -121.2369995117,
+    "name": "Fort Simpson "
+  },
+  "CYFT": {
+    "lat": 55.0769004822,
+    "long": -59.1864013672,
+    "name": "Makkovik "
+  },
+  "CYGB": {
+    "lat": 49.6941986084,
+    "long": -124.5179977417,
+    "name": "Texada Gillies Bay "
+  },
+  "CYGD": {
+    "lat": 43.7668991089,
+    "long": -81.7106018066,
+    "name": "Goderich "
+  },
+  "CYGE": {
+    "lat": 51.2991981506,
+    "long": -116.9820022583,
+    "name": "Golden "
+  },
+  "CYGH": {
+    "lat": 66.2407989502,
+    "long": -128.6510009766,
+    "name": "Fort Good Hope "
+  },
+  "CYGK": {
+    "lat": 44.2252998352,
+    "long": -76.5969009399,
+    "name": "Kingston Norman Rogers "
+  },
+  "CYGL": {
+    "lat": 53.6253013611,
+    "long": -77.7042007446,
+    "name": "La Grande Riviere "
+  },
+  "CYGM": {
+    "lat": 50.6281013489,
+    "long": -97.043296814,
+    "name": "Gimli Industrial Park "
+  },
+  "CYGO": {
+    "lat": 54.5588989258,
+    "long": -94.4914016724,
+    "name": "Gods Lake Narrows "
+  },
+  "CYGP": {
+    "lat": 48.7752990723,
+    "long": -64.4785995483,
+    "name": "Gaspe (Michel-Pouliot) "
+  },
+  "CYGQ": {
+    "lat": 49.778301239,
+    "long": -86.9393997192,
+    "name": "Geraldton Greenstone Regional "
+  },
+  "CYGR": {
+    "lat": 47.4247016907,
+    "long": -61.7780990601,
+    "name": "Iles-de-la-Madeleine "
+  },
+  "CYGT": {
+    "lat": 69.3647003174,
+    "long": -81.8161010742,
+    "name": "Igloolik "
+  },
+  "CYGV": {
+    "lat": 50.2818984985,
+    "long": -63.6114006042,
+    "name": "Havre St Pierre "
+  },
+  "CYGW": {
+    "lat": 55.2818984985,
+    "long": -77.765296936,
+    "name": "Kuujjuarapik "
+  },
+  "CYGX": {
+    "lat": 56.3574981689,
+    "long": -94.7106018066,
+    "name": "Gillam "
+  },
+  "CYGZ": {
+    "lat": 76.4261016846,
+    "long": -82.9092025757,
+    "name": "Grise Fiord "
+  },
+  "CYHA": {
+    "lat": 61.0463981628,
+    "long": -69.6177978516,
+    "name": "Quaqtaq "
+  },
+  "CYHB": {
+    "lat": 52.8166999817,
+    "long": -102.3109970093,
+    "name": "Hudson Bay "
+  },
+  "CYHD": {
+    "lat": 49.8316993713,
+    "long": -92.7442016602,
+    "name": "Dryden Regional "
+  },
+  "CYHE": {
+    "lat": 49.3683013916,
+    "long": -121.498001099,
+    "name": "Hope "
+  },
+  "CYHF": {
+    "lat": 49.7141990662,
+    "long": -83.6860961914,
+    "name": "Hearst Rene Fontaine Municipal "
+  },
+  "CYHH": {
+    "lat": 51.6911010742,
+    "long": -76.135597229,
+    "name": "Nemiscau "
+  },
+  "CYHI": {
+    "lat": 70.762802124,
+    "long": -117.8059997559,
+    "name": "Ulukhaktok Holman "
+  },
+  "CYHK": {
+    "lat": 68.635597229,
+    "long": -95.8497009277,
+    "name": "Gjoa Haven "
+  },
+  "CYHM": {
+    "lat": 43.1735992432,
+    "long": -79.9349975586,
+    "name": "John C. Munro Hamilton International "
+  },
+  "CYHN": {
+    "lat": 49.1930999756,
+    "long": -84.7589035034,
+    "name": "Hornepayne Municipal "
+  },
+  "CYHO": {
+    "lat": 55.448299408,
+    "long": -60.2285995483,
+    "name": "Hopedale "
+  },
+  "CYHR": {
+    "lat": 50.4688987732,
+    "long": -59.6366996765,
+    "name": "Chevery "
+  },
+  "CYHS": {
+    "lat": 44.1582984924,
+    "long": -81.0627975464,
+    "name": "Hanover / Saugeen Municipal "
+  },
+  "CYHT": {
+    "lat": 60.7891998291,
+    "long": -137.546005249,
+    "name": "Haines Junction "
+  },
+  "CYHU": {
+    "lat": 45.5175018311,
+    "long": -73.4169006348,
+    "name": "Montreal / Saint-Hubert "
+  },
+  "CYHY": {
+    "lat": 60.8396987915,
+    "long": -115.782997131,
+    "name": "Hay River / Merlyn Carter "
+  },
+  "CYHZ": {
+    "lat": 44.8807983398,
+    "long": -63.5085983276,
+    "name": "Halifax / Stanfield International "
+  },
+  "CYIB": {
+    "lat": 48.7738990784,
+    "long": -91.6386032104,
+    "name": "Atikokan Municipal "
+  },
+  "CYID": {
+    "lat": 44.5458450365,
+    "long": -65.7854247093,
+    "name": "Digby / Annapolis Regional "
+  },
+  "CYIF": {
+    "lat": 51.2117004395,
+    "long": -58.6582984924,
+    "name": "St Augustin "
+  },
+  "CYIK": {
+    "lat": 62.417301178,
+    "long": -77.9253005981,
+    "name": "Ivujivik "
+  },
+  "CYIO": {
+    "lat": 72.6832962036,
+    "long": -77.9666976929,
+    "name": "Pond Inlet "
+  },
+  "CYIV": {
+    "lat": 53.8572006226,
+    "long": -94.6536026001,
+    "name": "Island Lake "
+  },
+  "CYJA": {
+    "lat": 52.9967002869,
+    "long": -118.0589981079,
+    "name": "Jasper "
+  },
+  "CYJF": {
+    "lat": 60.2358016968,
+    "long": -123.46900177,
+    "name": "Fort Liard "
+  },
+  "CYJM": {
+    "lat": 54.3972015381,
+    "long": -124.2630004883,
+    "name": "Fort St James "
+  },
+  "CYJN": {
+    "lat": 45.2943992615,
+    "long": -73.2810974121,
+    "name": "St Jean "
+  },
+  "CYJP": {
+    "lat": 61.3194007874,
+    "long": -117.6060028076,
+    "name": "Fort Providence "
+  },
+  "CYJQ": {
+    "lat": 52.1397018433,
+    "long": -128.063995361,
+    "name": "Denny Island "
+  },
+  "CYJT": {
+    "lat": 48.5442008972,
+    "long": -58.5499992371,
+    "name": "Stephenville "
+  },
+  "CYKA": {
+    "lat": 50.7022018433,
+    "long": -120.4440002441,
+    "name": "Kamloops "
+  },
+  "CYKC": {
+    "lat": 58.2360992432,
+    "long": -103.6780014038,
+    "name": "Collins Bay "
+  },
+  "CYKD": {
+    "lat": 68.2232971191,
+    "long": -135.0059967041,
+    "name": "Aklavik "
+  },
+  "CYKF": {
+    "lat": 43.4608001709,
+    "long": -80.3786010742,
+    "name": "Waterloo "
+  },
+  "CYKG": {
+    "lat": 61.5886001587,
+    "long": -71.929397583,
+    "name": "Kangiqsujuaq (Wakeham Bay) "
+  },
+  "CYKJ": {
+    "lat": 57.2560997009,
+    "long": -105.6179962158,
+    "name": "Key Lake "
+  },
+  "CYKL": {
+    "lat": 54.8053016663,
+    "long": -66.8052978516,
+    "name": "Schefferville "
+  },
+  "CYKO": {
+    "lat": 60.8185997009,
+    "long": -78.1485977173,
+    "name": "Akulivik "
+  },
+  "CYKQ": {
+    "lat": 51.4733009338,
+    "long": -78.7583007813,
+    "name": "Waskaganish "
+  },
+  "CYKX": {
+    "lat": 48.2103004456,
+    "long": -79.9813995361,
+    "name": "Kirkland Lake "
+  },
+  "CYKY": {
+    "lat": 51.5175018311,
+    "long": -109.180999756,
+    "name": "Kindersley "
+  },
+  "CYKZ": {
+    "lat": 43.8622016907,
+    "long": -79.3700027466,
+    "name": "Buttonville Municipal "
+  },
+  "CYLA": {
+    "lat": 59.2966995239,
+    "long": -69.5997009277,
+    "name": "Aupaluk "
+  },
+  "CYLB": {
+    "lat": 54.7703018188,
+    "long": -112.0319976807,
+    "name": "Lac La Biche "
+  },
+  "CYLC": {
+    "lat": 62.8499984741,
+    "long": -69.8833007812,
+    "name": "Kimmirut "
+  },
+  "CYLD": {
+    "lat": 47.8199996948,
+    "long": -83.3467025757,
+    "name": "Chapleau "
+  },
+  "CYLH": {
+    "lat": 52.1955986023,
+    "long": -87.9341964722,
+    "name": "Lansdowne House "
+  },
+  "CYLI": {
+    "lat": 50.6747016907,
+    "long": -121.893997192,
+    "name": "Lillooet "
+  },
+  "CYLJ": {
+    "lat": 54.1253013611,
+    "long": -108.5230026245,
+    "name": "Meadow Lake "
+  },
+  "CYLK": {
+    "lat": 62.4183006287,
+    "long": -110.6819992065,
+    "name": "Lutselk'e "
+  },
+  "CYLL": {
+    "lat": 53.3092002869,
+    "long": -110.0729980469,
+    "name": "Lloydminster "
+  },
+  "CYLQ": {
+    "lat": 47.4096984863,
+    "long": -72.7889022827,
+    "name": "La Tuque "
+  },
+  "CYLR": {
+    "lat": 56.5133018494,
+    "long": -99.9852981567,
+    "name": "Leaf Rapids "
+  },
+  "CYLS": {
+    "lat": 44.4852981567,
+    "long": -79.5556030273,
+    "name": "Barrie-Orillia (Lake Simcoe Regional )"
+  },
+  "CYLT": {
+    "lat": 82.5177993774,
+    "long": -62.2806015015,
+    "name": "Alert "
+  },
+  "CYLU": {
+    "lat": 58.7113990784,
+    "long": -65.9927978516,
+    "name": "Kangiqsualujjuaq (Georges River) "
+  },
+  "CYLW": {
+    "lat": 49.9561004639,
+    "long": -119.3779983521,
+    "name": "Kelowna "
+  },
+  "CYMA": {
+    "lat": 63.6164016724,
+    "long": -135.8679962158,
+    "name": "Mayo "
+  },
+  "CYME": {
+    "lat": 48.8568992615,
+    "long": -67.4533004761,
+    "name": "Matane "
+  },
+  "CYMG": {
+    "lat": 49.0839004517,
+    "long": -85.8606033325,
+    "name": "Manitouwadge "
+  },
+  "CYMH": {
+    "lat": 52.3027992249,
+    "long": -55.8471984863,
+    "name": "Mary's Harbour "
+  },
+  "CYMJ": {
+    "lat": 50.3302993774,
+    "long": -105.5589981079,
+    "name": "Moose Jaw Air Vice Marshal C. M. McEwen "
+  },
+  "CYML": {
+    "lat": 47.5974998474,
+    "long": -70.2238998413,
+    "name": "Charlevoix "
+  },
+  "CYMM": {
+    "lat": 56.653301239,
+    "long": -111.222000122,
+    "name": "Fort McMurray "
+  },
+  "CYMO": {
+    "lat": 51.2910995483,
+    "long": -80.6078033447,
+    "name": "Moosonee "
+  },
+  "CYMT": {
+    "lat": 49.771900177,
+    "long": -74.5280990601,
+    "name": "Chapais "
+  },
+  "CYMU": {
+    "lat": 56.5360984802,
+    "long": -76.5183029175,
+    "name": "Umiujaq "
+  },
+  "CYMW": {
+    "lat": 46.2728004456,
+    "long": -75.9906005859,
+    "name": "Maniwaki "
+  },
+  "CYMX": {
+    "lat": 45.6795005798,
+    "long": -74.0386962891,
+    "name": "Montreal International (Mirabel) "
+  },
+  "CYMY": {
+    "lat": 50.7178001404,
+    "long": -93.3835983276,
+    "name": "Ear Falls "
+  },
+  "CYNA": {
+    "lat": 50.1899986267,
+    "long": -61.7891998291,
+    "name": "Natashquan "
+  },
+  "CYNC": {
+    "lat": 53.0106010437,
+    "long": -78.8311004639,
+    "name": "Wemindji "
+  },
+  "CYND": {
+    "lat": 45.5217018127,
+    "long": -75.5635986328,
+    "name": "Ottawa / Gatineau "
+  },
+  "CYNE": {
+    "lat": 53.9583015442,
+    "long": -97.8442001343,
+    "name": "Norway House "
+  },
+  "CYNH": {
+    "lat": 56.0355987549,
+    "long": -121.9759979248,
+    "name": "Hudsons Hope "
+  },
+  "CYNJ": {
+    "lat": 49.1007995605,
+    "long": -122.6309967041,
+    "name": "Langley "
+  },
+  "CYNL": {
+    "lat": 58.2766990662,
+    "long": -104.0820007324,
+    "name": "Points North Landing "
+  },
+  "CYNM": {
+    "lat": 49.7616996765,
+    "long": -77.8028030396,
+    "name": "Matagami "
+  },
+  "CYNN": {
+    "lat": 59.4874992371,
+    "long": -97.7802963257,
+    "name": "Nejanilini Lake "
+  },
+  "CYNR": {
+    "lat": 57.3816986084,
+    "long": -111.700996399,
+    "name": "Fort Mackay / Horizon "
+  },
+  "CYOA": {
+    "lat": 64.6988983154,
+    "long": -110.614997864,
+    "name": "Ekati "
+  },
+  "CYOC": {
+    "lat": 67.570602417,
+    "long": -139.8390045166,
+    "name": "Old Crow "
+  },
+  "CYOD": {
+    "lat": 54.4049987793,
+    "long": -110.2789993286,
+    "name": "CFB Cold Lake"
+  },
+  "CYOH": {
+    "lat": 54.9333000183,
+    "long": -95.2789001465,
+    "name": "Oxford House "
+  },
+  "CYOJ": {
+    "lat": 58.6213989258,
+    "long": -117.1650009155,
+    "name": "High Level "
+  },
+  "CYOO": {
+    "lat": 43.9227981567,
+    "long": -78.8949966431,
+    "name": "Oshawa "
+  },
+  "CYOP": {
+    "lat": 58.4914016724,
+    "long": -119.4079971313,
+    "name": "Rainbow Lake "
+  },
+  "CYOS": {
+    "lat": 44.5903015137,
+    "long": -80.8375015259,
+    "name": "Owen Sound / Billy Bishop Regional "
+  },
+  "CYOW": {
+    "lat": 45.3224983215,
+    "long": -75.6691970825,
+    "name": "Ottawa Macdonald-Cartier International "
+  },
+  "CYPA": {
+    "lat": 53.2141990662,
+    "long": -105.672996521,
+    "name": "Prince Albert Glass Field"
+  },
+  "CYPC": {
+    "lat": 69.3608381154,
+    "long": -124.075469971,
+    "name": "Paulatuk (Nora Aliqatchialuk Ruben) "
+  },
+  "CYPD": {
+    "lat": 45.6567001343,
+    "long": -61.3680992126,
+    "name": "Port Hawkesbury "
+  },
+  "CYPE": {
+    "lat": 56.2268981934,
+    "long": -117.4469985962,
+    "name": "Peace River "
+  },
+  "CYPG": {
+    "lat": 49.9030990601,
+    "long": -98.2739028931,
+    "name": "Southport "
+  },
+  "CYPH": {
+    "lat": 58.4719009399,
+    "long": -78.0768966675,
+    "name": "Inukjuak "
+  },
+  "CYPK": {
+    "lat": 49.2160987854,
+    "long": -122.7099990845,
+    "name": "Pitt Meadows "
+  },
+  "CYPL": {
+    "lat": 51.4463996887,
+    "long": -90.2142028809,
+    "name": "Pickle Lake "
+  },
+  "CYPM": {
+    "lat": 51.8196983337,
+    "long": -93.9732971191,
+    "name": "Pikangikum "
+  },
+  "CYPN": {
+    "lat": 49.8363990784,
+    "long": -64.2885971069,
+    "name": "Port Menier "
+  },
+  "CYPO": {
+    "lat": 54.9880981445,
+    "long": -85.4432983398,
+    "name": "Peawanuck "
+  },
+  "CYPP": {
+    "lat": 47.9319000244,
+    "long": -74.6081008911,
+    "name": "Parent "
+  },
+  "CYPQ": {
+    "lat": 44.2299995422,
+    "long": -78.3632965088,
+    "name": "Peterborough "
+  },
+  "CYPR": {
+    "lat": 54.2860984802,
+    "long": -130.4450073242,
+    "name": "Prince Rupert "
+  },
+  "CYPS": {
+    "lat": 50.3025016785,
+    "long": -122.7379989624,
+    "name": "Pemberton "
+  },
+  "CYPT": {
+    "lat": 41.7803993225,
+    "long": -82.6780014038,
+    "name": "Pelee Island "
+  },
+  "CYPU": {
+    "lat": 52.1128005981,
+    "long": -124.1449966431,
+    "name": "Puntzi Mountain "
+  },
+  "CYPW": {
+    "lat": 49.8342018127,
+    "long": -124.5,
+    "name": "Powell River "
+  },
+  "CYPX": {
+    "lat": 60.0505981445,
+    "long": -77.2869033813,
+    "name": "Puvirnituq "
+  },
+  "CYPY": {
+    "lat": 58.76720047,
+    "long": -111.1169967651,
+    "name": "Fort Chipewyan "
+  },
+  "CYPZ": {
+    "lat": 54.3763999939,
+    "long": -125.9509963989,
+    "name": "Burns Lake "
+  },
+  "CYQA": {
+    "lat": 44.9747009277,
+    "long": -79.3032989502,
+    "name": "Muskoka "
+  },
+  "CYQB": {
+    "lat": 46.7910995483,
+    "long": -71.3933029175,
+    "name": "Quebec Jean Lesage International "
+  },
+  "CYQD": {
+    "lat": 53.9714012146,
+    "long": -101.091003418,
+    "name": "The Pas "
+  },
+  "CYQF": {
+    "lat": 52.1822013855,
+    "long": -113.8939971924,
+    "name": "Red Deer Regional "
+  },
+  "CYQG": {
+    "lat": 42.2756004333,
+    "long": -82.9555969238,
+    "name": "Windsor "
+  },
+  "CYQH": {
+    "lat": 60.1164016724,
+    "long": -128.8220062256,
+    "name": "Watson Lake "
+  },
+  "CYQI": {
+    "lat": 43.8269004822,
+    "long": -66.0880966187,
+    "name": "Yarmouth "
+  },
+  "CYQK": {
+    "lat": 49.7882995605,
+    "long": -94.3630981445,
+    "name": "Kenora "
+  },
+  "CYQL": {
+    "lat": 49.6302986145,
+    "long": -112.800003052,
+    "name": "Lethbridge County "
+  },
+  "CYQM": {
+    "lat": 46.1122016907,
+    "long": -64.6785964966,
+    "name": "Greater Moncton International "
+  },
+  "CYQN": {
+    "lat": 50.182800293,
+    "long": -86.6964035034,
+    "name": "Nakina "
+  },
+  "CYQQ": {
+    "lat": 49.7108001709,
+    "long": -124.8870010376,
+    "name": "Comox "
+  },
+  "CYQR": {
+    "lat": 50.4319000244,
+    "long": -104.6660003662,
+    "name": "Regina International "
+  },
+  "CYQS": {
+    "lat": 42.7700004578,
+    "long": -81.1108016968,
+    "name": "St Thomas Municipal "
+  },
+  "CYQT": {
+    "lat": 48.3718986511,
+    "long": -89.3238983154,
+    "name": "Thunder Bay "
+  },
+  "CYQU": {
+    "lat": 55.1796989441,
+    "long": -118.885002136,
+    "name": "Grande Prairie "
+  },
+  "CYQV": {
+    "lat": 51.2647018433,
+    "long": -102.4619979858,
+    "name": "Yorkton Municipal "
+  },
+  "CYQW": {
+    "lat": 52.7691993713,
+    "long": -108.2440032959,
+    "name": "North Battleford "
+  },
+  "CYQX": {
+    "lat": 48.9369010925,
+    "long": -54.5680999756,
+    "name": "Gander International "
+  },
+  "CYQY": {
+    "lat": 46.1613998413,
+    "long": -60.0477981567,
+    "name": "Sydney / J.A. Douglas McCurdy "
+  },
+  "CYQZ": {
+    "lat": 53.0261001587,
+    "long": -122.5100021362,
+    "name": "Quesnel "
+  },
+  "CYRA": {
+    "lat": 64.1160964966,
+    "long": -117.3099975586,
+    "name": "Rae Lakes "
+  },
+  "CYRB": {
+    "lat": 74.7169036865,
+    "long": -94.9693984985,
+    "name": "Resolute Bay "
+  },
+  "CYRC": {
+    "lat": 48.5208015442,
+    "long": -71.0505981445,
+    "name": "Chicoutimi St Honore "
+  },
+  "CYRI": {
+    "lat": 47.7644004822,
+    "long": -69.5847015381,
+    "name": "Riviere-du-Loup "
+  },
+  "CYRJ": {
+    "lat": 48.5200004578,
+    "long": -72.2656021118,
+    "name": "Roberval "
+  },
+  "CYRL": {
+    "lat": 51.0668983459,
+    "long": -93.7930984497,
+    "name": "Red Lake "
+  },
+  "CYRM": {
+    "lat": 52.4296989441,
+    "long": -114.9039993286,
+    "name": "Rocky Mountain House "
+  },
+  "CYRO": {
+    "lat": 45.4603004456,
+    "long": -75.6461029053,
+    "name": "Ottawa / Rockcliffe "
+  },
+  "CYRP": {
+    "lat": 45.3191986084,
+    "long": -76.0222015381,
+    "name": "Ottawa / Carp "
+  },
+  "CYRQ": {
+    "lat": 46.3527984619,
+    "long": -72.679397583,
+    "name": "Trois-Rivieres "
+  },
+  "CYRS": {
+    "lat": 54.1671981812,
+    "long": -93.5571975708,
+    "name": "Red Sucker Lake "
+  },
+  "CYRT": {
+    "lat": 62.8114013672,
+    "long": -92.1157989502,
+    "name": "Rankin Inlet "
+  },
+  "CYRV": {
+    "lat": 50.9667015076,
+    "long": -118.182998657,
+    "name": "Revelstoke "
+  },
+  "CYSA": {
+    "lat": 43.415599823,
+    "long": -80.9344024658,
+    "name": "Stratford Municipal "
+  },
+  "CYSB": {
+    "lat": 46.625,
+    "long": -80.7988967896,
+    "name": "Sudbury "
+  },
+  "CYSC": {
+    "lat": 45.4385986328,
+    "long": -71.6913986206,
+    "name": "Sherbrooke "
+  },
+  "CYSE": {
+    "lat": 49.7817001343,
+    "long": -123.1620025635,
+    "name": "Squamish "
+  },
+  "CYSF": {
+    "lat": 59.2503013611,
+    "long": -105.841003418,
+    "name": "Stony Rapids "
+  },
+  "CYSG": {
+    "lat": 46.0964012146,
+    "long": -70.7146987915,
+    "name": "St Georges "
+  },
+  "CYSH": {
+    "lat": 44.9458007813,
+    "long": -75.9405975342,
+    "name": "Smiths Falls-Montague (Russ Beach) "
+  },
+  "CYSJ": {
+    "lat": 45.3161010742,
+    "long": -65.890296936,
+    "name": "Saint John "
+  },
+  "CYSK": {
+    "lat": 56.5377998352,
+    "long": -79.2466964722,
+    "name": "Sanikiluaq "
+  },
+  "CYSL": {
+    "lat": 47.1575012207,
+    "long": -67.8347015381,
+    "name": "St Leonard "
+  },
+  "CYSM": {
+    "lat": 60.0203018188,
+    "long": -111.9619979858,
+    "name": "Fort Smith "
+  },
+  "CYSN": {
+    "lat": 43.1916999817,
+    "long": -79.1716995239,
+    "name": "Niagara District "
+  },
+  "CYSP": {
+    "lat": 48.7552986145,
+    "long": -86.3443984985,
+    "name": "Marathon "
+  },
+  "CYSQ": {
+    "lat": 59.5766983032,
+    "long": -133.6690063477,
+    "name": "Atlin "
+  },
+  "CYST": {
+    "lat": 53.8456001282,
+    "long": -94.8518981934,
+    "name": "St. Theresa Point "
+  },
+  "CYSU": {
+    "lat": 46.4406013489,
+    "long": -63.8335990906,
+    "name": "Summerside "
+  },
+  "CYSW": {
+    "lat": 49.8333015442,
+    "long": -114.8830032349,
+    "name": "Sparwood Elk Valley "
+  },
+  "CYSY": {
+    "lat": 71.9938964844,
+    "long": -125.242996216,
+    "name": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq) "
+  },
+  "CYSZ": {
+    "lat": 49.120300293,
+    "long": -66.5291976929,
+    "name": "Ste Anne Des Monts "
+  },
+  "CYTA": {
+    "lat": 45.8643989563,
+    "long": -77.251701355,
+    "name": "Pembroke "
+  },
+  "CYTB": {
+    "lat": 42.9275,
+    "long": -80.7469444444,
+    "name": "Tillsonburg "
+  },
+  "CYTE": {
+    "lat": 64.2300033569,
+    "long": -76.5267028809,
+    "name": "Cape Dorset "
+  },
+  "CYTF": {
+    "lat": 48.5088996887,
+    "long": -71.6418991089,
+    "name": "Alma "
+  },
+  "CYTH": {
+    "lat": 55.8011016846,
+    "long": -97.8641967773,
+    "name": "Thompson "
+  },
+  "CYTL": {
+    "lat": 53.8177986145,
+    "long": -89.8968963623,
+    "name": "Big Trout Lake "
+  },
+  "CYTN": {
+    "lat": 45.6119003296,
+    "long": -62.6211013794,
+    "name": "Trenton "
+  },
+  "CYTQ": {
+    "lat": 58.6678009033,
+    "long": -69.9558029175,
+    "name": "Tasiujaq "
+  },
+  "CYTR": {
+    "lat": 44.1189002991,
+    "long": -77.5280990601,
+    "name": "CFB Trenton"
+  },
+  "CYTS": {
+    "lat": 48.5696983337,
+    "long": -81.376701355,
+    "name": "Timmins/Victor M. Power"
+  },
+  "CYTZ": {
+    "lat": 43.6274986267,
+    "long": -79.3962020874,
+    "name": "Billy Bishop Toronto City Centre "
+  },
+  "CYUB": {
+    "lat": 69.4332962036,
+    "long": -133.0260009766,
+    "name": "Tuktoyaktuk "
+  },
+  "CYUL": {
+    "lat": 45.4706001282,
+    "long": -73.7407989502,
+    "name": "Montreal / Pierre Elliott Trudeau International "
+  },
+  "CYUT": {
+    "lat": 66.5214004517,
+    "long": -86.2247009277,
+    "name": "Repulse Bay "
+  },
+  "CYUX": {
+    "lat": 68.7761001587,
+    "long": -81.243598938,
+    "name": "Hall Beach "
+  },
+  "CYUY": {
+    "lat": 48.2061004639,
+    "long": -78.8356018066,
+    "name": "Rouyn Noranda "
+  },
+  "CYVB": {
+    "lat": 48.0710983276,
+    "long": -65.4602966309,
+    "name": "Bonaventure "
+  },
+  "CYVC": {
+    "lat": 55.1514015198,
+    "long": -105.2620010376,
+    "name": "La Ronge "
+  },
+  "CYVD": {
+    "lat": 49.8782997131,
+    "long": -100.917999268,
+    "name": "Virden/R.J. (Bob) Andrew Field Regional Aerodrome"
+  },
+  "CYVG": {
+    "lat": 53.3558006287,
+    "long": -110.8239974976,
+    "name": "Vermilion "
+  },
+  "CYVK": {
+    "lat": 50.2481002808,
+    "long": -119.3310012817,
+    "name": "Vernon "
+  },
+  "CYVM": {
+    "lat": 67.5457992554,
+    "long": -64.0314025879,
+    "name": "Qikiqtarjuaq "
+  },
+  "CYVO": {
+    "lat": 48.0532989502,
+    "long": -77.7827987671,
+    "name": "Val-d'Or "
+  },
+  "CYVP": {
+    "lat": 58.0960998535,
+    "long": -68.426902771,
+    "name": "Kuujjuaq "
+  },
+  "CYVQ": {
+    "lat": 65.2816009521,
+    "long": -126.797996521,
+    "name": "Norman Wells "
+  },
+  "CYVR": {
+    "lat": 49.193901062,
+    "long": -123.1839981079,
+    "name": "Vancouver International "
+  },
+  "CYVT": {
+    "lat": 55.8418998718,
+    "long": -108.417999268,
+    "name": "Buffalo Narrows "
+  },
+  "CYVV": {
+    "lat": 44.7458000183,
+    "long": -81.1072006226,
+    "name": "Wiarton "
+  },
+  "CYVZ": {
+    "lat": 52.6557998657,
+    "long": -94.0614013672,
+    "name": "Deer Lake "
+  },
+  "CYWA": {
+    "lat": 45.9522018433,
+    "long": -77.3191986084,
+    "name": "Petawawa "
+  },
+  "CYWE": {
+    "lat": 64.1908035278,
+    "long": -114.077003479,
+    "name": "Wekweeti "
+  },
+  "CYWG": {
+    "lat": 49.9099998474,
+    "long": -97.2398986816,
+    "name": "Winnipeg / James Armstrong Richardson International "
+  },
+  "CYWJ": {
+    "lat": 65.2110977173,
+    "long": -123.4359970093,
+    "name": "Deline "
+  },
+  "CYWK": {
+    "lat": 52.9219017029,
+    "long": -66.864402771,
+    "name": "Wabush "
+  },
+  "CYWL": {
+    "lat": 52.1831016541,
+    "long": -122.0540008545,
+    "name": "Williams Lake "
+  },
+  "CYWM": {
+    "lat": 54.7430992126,
+    "long": -113.2050018311,
+    "name": "Athabasca "
+  },
+  "CYWP": {
+    "lat": 52.9593933975,
+    "long": -87.3748683929,
+    "name": "Webequie "
+  },
+  "CYWV": {
+    "lat": 52.7957992554,
+    "long": -110.8570022583,
+    "name": "Wainwright "
+  },
+  "CYWY": {
+    "lat": 63.209400177,
+    "long": -123.43699646,
+    "name": "Wrigley "
+  },
+  "CYXC": {
+    "lat": 49.6108016968,
+    "long": -115.7819976807,
+    "name": "Cranbrook "
+  },
+  "CYXD": {
+    "lat": 53.5724983215,
+    "long": -113.521003723,
+    "name": "Edmonton City Centre (Blatchford Field) "
+  },
+  "CYXE": {
+    "lat": 52.1707992554,
+    "long": -106.6999969482,
+    "name": "Saskatoon John G. Diefenbaker International "
+  },
+  "CYXH": {
+    "lat": 50.018901825,
+    "long": -110.7210006714,
+    "name": "Medicine Hat "
+  },
+  "CYXJ": {
+    "lat": 56.2380981445,
+    "long": -120.7399978638,
+    "name": "Fort St John "
+  },
+  "CYXK": {
+    "lat": 48.478099823,
+    "long": -68.4969024658,
+    "name": "Rimouski "
+  },
+  "CYXL": {
+    "lat": 50.113899231,
+    "long": -91.9052963257,
+    "name": "Sioux Lookout "
+  },
+  "CYXN": {
+    "lat": 62.2400016785,
+    "long": -92.5980987549,
+    "name": "Whale Cove "
+  },
+  "CYXP": {
+    "lat": 66.1449966431,
+    "long": -65.7136001587,
+    "name": "Pangnirtung "
+  },
+  "CYXQ": {
+    "lat": 62.4103012085,
+    "long": -140.8670043945,
+    "name": "Beaver Creek "
+  },
+  "CYXR": {
+    "lat": 47.6974006546,
+    "long": -79.8473453522,
+    "name": "Earlton (Timiskaming Regional) "
+  },
+  "CYXS": {
+    "lat": 53.8894004822,
+    "long": -122.6790008545,
+    "name": "Prince George "
+  },
+  "CYXT": {
+    "lat": 54.46849823,
+    "long": -128.5760040283,
+    "name": "Terrace "
+  },
+  "CYXU": {
+    "lat": 43.0355987549,
+    "long": -81.1539001465,
+    "name": "London "
+  },
+  "CYXX": {
+    "lat": 49.0252990723,
+    "long": -122.361000061,
+    "name": "Abbotsford "
+  },
+  "CYXY": {
+    "lat": 60.7095985413,
+    "long": -135.067001343,
+    "name": "Whitehorse / Erik Nielsen International "
+  },
+  "CYXZ": {
+    "lat": 47.9667015076,
+    "long": -84.7866973877,
+    "name": "Wawa "
+  },
+  "CYYB": {
+    "lat": 46.3636016846,
+    "long": -79.4227981567,
+    "name": "North Bay "
+  },
+  "CYYC": {
+    "lat": 51.113899231,
+    "long": -114.0199966431,
+    "name": "Calgary International "
+  },
+  "CYYD": {
+    "lat": 54.8246994019,
+    "long": -127.1829986572,
+    "name": "Smithers "
+  },
+  "CYYE": {
+    "lat": 58.8363990784,
+    "long": -122.5970001221,
+    "name": "Fort Nelson "
+  },
+  "CYYF": {
+    "lat": 49.4631004333,
+    "long": -119.6019973755,
+    "name": "Penticton "
+  },
+  "CYYG": {
+    "lat": 46.2900009155,
+    "long": -63.1211013794,
+    "name": "Charlottetown "
+  },
+  "CYYH": {
+    "lat": 69.5466995239,
+    "long": -93.5766983032,
+    "name": "Taloyoak "
+  },
+  "CYYJ": {
+    "lat": 48.646900177,
+    "long": -123.4260025024,
+    "name": "Victoria International "
+  },
+  "CYYL": {
+    "lat": 56.863899231,
+    "long": -101.0759963989,
+    "name": "Lynn Lake "
+  },
+  "CYYM": {
+    "lat": 49.6363983154,
+    "long": -114.09400177,
+    "name": "Cowley "
+  },
+  "CYYN": {
+    "lat": 50.2919006348,
+    "long": -107.691001892,
+    "name": "Swift Current "
+  },
+  "CYYO": {
+    "lat": 51.8098883726,
+    "long": -104.169788361,
+    "name": "Wynyard / W.B. Needham Field"
+  },
+  "CYYQ": {
+    "lat": 58.739200592,
+    "long": -94.0650024414,
+    "name": "Churchill "
+  },
+  "CYYR": {
+    "lat": 53.3191986084,
+    "long": -60.4258003235,
+    "name": "Goose Bay "
+  },
+  "CYYT": {
+    "lat": 47.618598938,
+    "long": -52.7518997192,
+    "name": "St. John's International "
+  },
+  "CYYU": {
+    "lat": 49.413898468,
+    "long": -82.4674987793,
+    "name": "Kapuskasing "
+  },
+  "CYYW": {
+    "lat": 50.2902984619,
+    "long": -88.9096984863,
+    "name": "Armstrong "
+  },
+  "CYYY": {
+    "lat": 48.6086006165,
+    "long": -68.2080993652,
+    "name": "Mont Joli "
+  },
+  "CYYZ": {
+    "lat": 43.6772003174,
+    "long": -79.6305999756,
+    "name": "Lester B. Pearson International "
+  },
+  "CYZD": {
+    "lat": 43.7425003052,
+    "long": -79.4655990601,
+    "name": "Downsview "
+  },
+  "CYZE": {
+    "lat": 45.8852996826,
+    "long": -82.5678024292,
+    "name": "Gore Bay Manitoulin "
+  },
+  "CYZF": {
+    "lat": 62.4627990723,
+    "long": -114.4400024414,
+    "name": "Yellowknife "
+  },
+  "CYZG": {
+    "lat": 62.1794013977,
+    "long": -75.6671981812,
+    "name": "Salluit "
+  },
+  "CYZH": {
+    "lat": 55.2930984497,
+    "long": -114.777000427,
+    "name": "Slave Lake "
+  },
+  "CYZP": {
+    "lat": 53.2542991638,
+    "long": -131.813995361,
+    "name": "Sandspit "
+  },
+  "CYZR": {
+    "lat": 42.9994010925,
+    "long": -82.3088989258,
+    "name": "Chris Hadfield "
+  },
+  "CYZS": {
+    "lat": 64.1932983398,
+    "long": -83.3593978882,
+    "name": "Coral Harbour "
+  },
+  "CYZT": {
+    "lat": 50.6805992126,
+    "long": -127.3669967651,
+    "name": "Port Hardy "
+  },
+  "CYZU": {
+    "lat": 54.143901825,
+    "long": -115.7870025635,
+    "name": "Whitecourt "
+  },
+  "CYZV": {
+    "lat": 50.2233009338,
+    "long": -66.2656021118,
+    "name": "Sept-Iles "
+  },
+  "CYZW": {
+    "lat": 60.1727981567,
+    "long": -132.7429962158,
+    "name": "Teslin "
+  },
+  "CYZX": {
+    "lat": 44.9844017029,
+    "long": -64.9169006348,
+    "name": "CFB Greenwood"
+  },
+  "CYZY": {
+    "lat": 55.3044013977,
+    "long": -123.132003784,
+    "name": "Mackenzie "
+  },
+  "CZAC": {
+    "lat": 56.0894012451,
+    "long": -96.0892028809,
+    "name": "York Landing "
+  },
+  "CZAM": {
+    "lat": 50.682800293,
+    "long": -119.2289962769,
+    "name": "Salmon Arm "
+  },
+  "CZBA": {
+    "lat": 43.4414531515,
+    "long": -79.850102663,
+    "name": "Burlington Executive"
+  },
+  "CZBB": {
+    "lat": 49.0741996765,
+    "long": -123.012001038,
+    "name": "Vancouver / Boundary Bay "
+  },
+  "CZBD": {
+    "lat": 56.0614013672,
+    "long": -95.613899231,
+    "name": "Ilford "
+  },
+  "CZBF": {
+    "lat": 47.629699707,
+    "long": -65.738899231,
+    "name": "Bathurst "
+  },
+  "CZBM": {
+    "lat": 45.2907981873,
+    "long": -72.7414016724,
+    "name": "Bromont (Roland Desourdy) "
+  },
+  "CZEE": {
+    "lat": 56.0374984741,
+    "long": -96.5096969604,
+    "name": "Kelsey "
+  },
+  "CZEM": {
+    "lat": 52.226398468,
+    "long": -78.5224990845,
+    "name": "Eastmain River "
+  },
+  "CZFA": {
+    "lat": 62.2075004578,
+    "long": -133.3760070801,
+    "name": "Faro "
+  },
+  "CZFD": {
+    "lat": 59.334400177,
+    "long": -107.1819992065,
+    "name": "Fond-Du-Lac "
+  },
+  "CZFG": {
+    "lat": 55.7491989136,
+    "long": -101.2659988403,
+    "name": "Pukatawagan "
+  },
+  "CZFM": {
+    "lat": 67.4075012207,
+    "long": -134.8609924316,
+    "name": "Fort Mcpherson "
+  },
+  "CZFN": {
+    "lat": 64.9096984863,
+    "long": -125.5729980469,
+    "name": "Tulita "
+  },
+  "CZGF": {
+    "lat": 49.0155982971,
+    "long": -118.4309997559,
+    "name": "Grand Forks "
+  },
+  "CZGI": {
+    "lat": 54.8396987915,
+    "long": -94.0785980225,
+    "name": "Gods River "
+  },
+  "CZGR": {
+    "lat": 52.0456008911,
+    "long": -95.4657974243,
+    "name": "Little Grand Rapids "
+  },
+  "CZHP": {
+    "lat": 55.3936004639,
+    "long": -116.4749984741,
+    "name": "High Prairie "
+  },
+  "CZJG": {
+    "lat": 54.518901825,
+    "long": -98.0460968018,
+    "name": "Jenpeg "
+  },
+  "CZJN": {
+    "lat": 52.1206016541,
+    "long": -101.236000061,
+    "name": "Swan River "
+  },
+  "CZKE": {
+    "lat": 52.2825012207,
+    "long": -81.6778030396,
+    "name": "Kashechewan "
+  },
+  "CZLQ": {
+    "lat": 55.318901062,
+    "long": -97.7078018188,
+    "name": "Thicket Portage "
+  },
+  "CZMD": {
+    "lat": 53.4413986206,
+    "long": -91.762802124,
+    "name": "Muskrat Dam "
+  },
+  "CZML": {
+    "lat": 51.7360992432,
+    "long": -121.333000183,
+    "name": "South Cariboo Region / 108 Mile "
+  },
+  "CZMN": {
+    "lat": 55.5889015198,
+    "long": -97.1641998291,
+    "name": "Pikwitonei "
+  },
+  "CZMT": {
+    "lat": 54.0275001526,
+    "long": -132.125,
+    "name": "Masset "
+  },
+  "CZNG": {
+    "lat": 53,
+    "long": -97.2667007446,
+    "name": "Poplar River "
+  },
+  "CZNL": {
+    "lat": 49.4942016602,
+    "long": -117.3010025024,
+    "name": "Nelson "
+  },
+  "CZPB": {
+    "lat": 53.8911018372,
+    "long": -92.1964035034,
+    "name": "Sachigo Lake "
+  },
+  "CZPC": {
+    "lat": 49.5205993652,
+    "long": -113.9970016479,
+    "name": "Pincher Creek "
+  },
+  "CZPO": {
+    "lat": 55.5280990601,
+    "long": -106.582000732,
+    "name": "Pinehouse Lake "
+  },
+  "CZRJ": {
+    "lat": 52.9435997009,
+    "long": -91.3127975464,
+    "name": "Round Lake (Weagamow Lake) "
+  },
+  "CZSJ": {
+    "lat": 53.064201355,
+    "long": -93.3443984985,
+    "name": "Sandy Lake "
+  },
+  "CZSN": {
+    "lat": 56.7928009033,
+    "long": -98.9072036743,
+    "name": "South Indian Lake "
+  },
+  "CZST": {
+    "lat": 55.935410448,
+    "long": -129.982434511,
+    "name": "Stewart "
+  },
+  "CZTA": {
+    "lat": 51.7832984924,
+    "long": -96.6999969482,
+    "name": "Bloodvein River "
+  },
+  "CZTM": {
+    "lat": 55.8656005859,
+    "long": -92.0813980103,
+    "name": "Shamattawa "
+  },
+  "CZUC": {
+    "lat": 49.4296989441,
+    "long": -91.7177963257,
+    "name": "Ignace Municipal "
+  },
+  "CZUM": {
+    "lat": 53.5619010925,
+    "long": -64.1063995361,
+    "name": "Churchill Falls "
+  },
+  "CZVL": {
+    "lat": 53.6674995422,
+    "long": -113.853996277,
+    "name": "Edmonton / Villeneuve "
+  },
+  "CZWH": {
+    "lat": 58.6175003052,
+    "long": -101.46900177,
+    "name": "Lac Brochet "
+  },
+  "CZWL": {
+    "lat": 58.1068992615,
+    "long": -103.1719970703,
+    "name": "Wollaston Lake "
+  }
+}

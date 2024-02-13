@@ -1,0 +1,1982 @@
+{
+    "01OK": {
+        "lat": 35.2944984436,
+        "long": -98.6364974976,
+        "name": "Lawrence ",
+        "state": "Oklahoma"
+    },
+    "03OK": {
+        "lat": 36.0411987305,
+        "long": -96.1613998413,
+        "name": "Sahoma Lake ",
+        "state": "Oklahoma"
+    },
+    "05OK": {
+        "lat": 35.8534011841,
+        "long": -97.5674972534,
+        "name": "Hawk Haven ",
+        "state": "Oklahoma"
+    },
+    "07OK": {
+        "lat": 34.6333999634,
+        "long": -99.0336990356,
+        "name": "Pleasant Valley ",
+        "state": "Oklahoma"
+    },
+    "08OK": {
+        "lat": 34.9314994812,
+        "long": -95.2583007813,
+        "name": "Parks ",
+        "state": "Oklahoma"
+    },
+    "09OK": {
+        "lat": 36.3544998169,
+        "long": -95.863899231,
+        "name": "Ragtime Aerodrome",
+        "state": "Oklahoma"
+    },
+    "0OK0": {
+        "lat": 35.6833992004,
+        "long": -97.4336013794,
+        "name": "Edmond ",
+        "state": "Oklahoma"
+    },
+    "0OK1": {
+        "lat": 34.6570014954,
+        "long": -97.4017028809,
+        "name": "Mckey ",
+        "state": "Oklahoma"
+    },
+    "0OK3": {
+        "lat": 35.6194992065,
+        "long": -98.5225982666,
+        "name": "Mckinley Ranch ",
+        "state": "Oklahoma"
+    },
+    "0OK4": {
+        "lat": 34.6605987549,
+        "long": -96.2536010742,
+        "name": "Rock Creek Farm ",
+        "state": "Oklahoma"
+    },
+    "0OK5": {
+        "lat": 35.8889007568,
+        "long": -97.4002990723,
+        "name": "Chappell ",
+        "state": "Oklahoma"
+    },
+    "0OK6": {
+        "lat": 35.801700592,
+        "long": -97.386100769,
+        "name": "Ellis/Harvey ",
+        "state": "Oklahoma"
+    },
+    "0OK8": {
+        "lat": 36.2924995422,
+        "long": -97.5931015015,
+        "name": "Cade's ",
+        "state": "Oklahoma"
+    },
+    "0OK9": {
+        "lat": 36.2134017944,
+        "long": -96.6370010376,
+        "name": "Crystal ",
+        "state": "Oklahoma"
+    },
+    "10OK": {
+        "lat": 35.1666984558,
+        "long": -97.2170028687,
+        "name": "Hickory Hills ",
+        "state": "Oklahoma"
+    },
+    "11OK": {
+        "lat": 35.0722999573,
+        "long": -97.3835983276,
+        "name": "Beefor Ranch ",
+        "state": "Oklahoma"
+    },
+    "12OK": {
+        "lat": 35.5413017273,
+        "long": -97.4531021118,
+        "name": "Expressway Airpark",
+        "state": "Oklahoma"
+    },
+    "14OK": {
+        "lat": 35.8041992188,
+        "long": -97.9337005615,
+        "name": "Reherman ",
+        "state": "Oklahoma"
+    },
+    "15OK": {
+        "lat": 35.703889,
+        "long": -95.310833,
+        "name": "Bluebird ",
+        "state": "Oklahoma"
+    },
+    "16OK": {
+        "lat": 35.4667015076,
+        "long": -97.200302124,
+        "name": "Lower Forty ",
+        "state": "Oklahoma"
+    },
+    "17OK": {
+        "lat": 36.5250015259,
+        "long": -97.7586975098,
+        "name": "J-B Airstrip",
+        "state": "Oklahoma"
+    },
+    "19OK": {
+        "lat": 35.7284011841,
+        "long": -95.9772033691,
+        "name": "Gerhart ",
+        "state": "Oklahoma"
+    },
+    "1OK0": {
+        "lat": 35.8945007324,
+        "long": -96.2794036865,
+        "name": "Neversweat ",
+        "state": "Oklahoma"
+    },
+    "1OK1": {
+        "lat": 35.8250007629,
+        "long": -97.8059005737,
+        "name": "Dave's Place ",
+        "state": "Oklahoma"
+    },
+    "1OK2": {
+        "lat": 35.0987014771,
+        "long": -97.4698028564,
+        "name": "Wyatt ",
+        "state": "Oklahoma"
+    },
+    "1OK3": {
+        "lat": 34.5760993958,
+        "long": -97.8141021729,
+        "name": "Wolfe Field ",
+        "state": "Oklahoma"
+    },
+    "1OK5": {
+        "lat": 34.9833984375,
+        "long": -99.2294998169,
+        "name": "Hohman ",
+        "state": "Oklahoma"
+    },
+    "1OK6": {
+        "lat": 35.7219009399,
+        "long": -97.2046966553,
+        "name": "Stamper Ranch ",
+        "state": "Oklahoma"
+    },
+    "1OK7": {
+        "lat": 34.8000984192,
+        "long": -97.4822006226,
+        "name": "Grimes ",
+        "state": "Oklahoma"
+    },
+    "1OK8": {
+        "lat": 35.729801178,
+        "long": -97.5413970947,
+        "name": "5B Ranch ",
+        "state": "Oklahoma"
+    },
+    "1OK9": {
+        "lat": 33.9751014709,
+        "long": -97.0892028809,
+        "name": "Hankins ",
+        "state": "Oklahoma"
+    },
+    "1OL2": {
+        "lat": 35.4889984131,
+        "long": -97.1920013428,
+        "name": "Steciak Strip",
+        "state": "Oklahoma"
+    },
+    "20OK": {
+        "lat": 36.3256988525,
+        "long": -95.6468963623,
+        "name": "Will and Wiley's Aerodrome",
+        "state": "Oklahoma"
+    },
+    "22OK": {
+        "lat": 34.315278,
+        "long": -97.175833,
+        "name": "Smith Field",
+        "state": "Oklahoma"
+    },
+    "26OK": {
+        "lat": 35.8821983337,
+        "long": -96.0044021606,
+        "name": "Duck Creek ",
+        "state": "Oklahoma"
+    },
+    "27OK": {
+        "lat": 36.7422981262,
+        "long": -96.9638977051,
+        "name": "Thomas Landing ",
+        "state": "Oklahoma"
+    },
+    "28OK": {
+        "lat": 35.5027999878,
+        "long": -98.0406036377,
+        "name": "Pellar Farm ",
+        "state": "Oklahoma"
+    },
+    "29OK": {
+        "lat": 36.2999992371,
+        "long": -97.3170013428,
+        "name": "Ditch Witch ",
+        "state": "Oklahoma"
+    },
+    "2OK0": {
+        "lat": 34.8320007324,
+        "long": -97.4100036621,
+        "name": "Burford Corp. ",
+        "state": "Oklahoma"
+    },
+    "2OK1": {
+        "lat": 35.5900993347,
+        "long": -97.010597229,
+        "name": "Frost Ranch ",
+        "state": "Oklahoma"
+    },
+    "2OK2": {
+        "lat": 35.3292007446,
+        "long": -97.2697982788,
+        "name": "Twin Lakes ",
+        "state": "Oklahoma"
+    },
+    "2OK4": {
+        "lat": 35.8167991638,
+        "long": -96.0586013794,
+        "name": "Ragwing Acres ",
+        "state": "Oklahoma"
+    },
+    "2OK5": {
+        "lat": 34.9290008545,
+        "long": -98.7397994995,
+        "name": "Ferrell Ranch ",
+        "state": "Oklahoma"
+    },
+    "2OK6": {
+        "lat": 35.4819984436,
+        "long": -97.0205993652,
+        "name": "Flying N Ranch ",
+        "state": "Oklahoma"
+    },
+    "2OK7": {
+        "lat": 35.2583999634,
+        "long": -97.6628036499,
+        "name": "Cole Landing Area ",
+        "state": "Oklahoma"
+    },
+    "2OK8": {
+        "lat": 35.2251014709,
+        "long": -97.6461029053,
+        "name": "D & G Farms ",
+        "state": "Oklahoma"
+    },
+    "2OK9": {
+        "lat": 35.1958999634,
+        "long": -97.3084030151,
+        "name": "Pata Skyhaven ",
+        "state": "Oklahoma"
+    },
+    "2OL2": {
+        "lat": 35.887833,
+        "long": -95.919639,
+        "name": "Myers Field Airstrip",
+        "state": "Oklahoma"
+    },
+    "30OK": {
+        "lat": 34.9168014526,
+        "long": -96.2335968018,
+        "name": "Lobo Field",
+        "state": "Oklahoma"
+    },
+    "32OK": {
+        "lat": 34.8317985535,
+        "long": -95.5175018311,
+        "name": "Flying A Ranch ",
+        "state": "Oklahoma"
+    },
+    "33OK": {
+        "lat": 35.7432903732,
+        "long": -97.4055790901,
+        "name": "Myrick ",
+        "state": "Oklahoma"
+    },
+    "34OK": {
+        "lat": 35.900100708,
+        "long": -96.5503005981,
+        "name": "Double Bar S Ranches ",
+        "state": "Oklahoma"
+    },
+    "35OK": {
+        "lat": 35.5,
+        "long": -99.0355987549,
+        "name": "Schumacher Field",
+        "state": "Oklahoma"
+    },
+    "35OL": {
+        "lat": 36.6330986023,
+        "long": -99.1511993408,
+        "name": "Henderson Farm ",
+        "state": "Oklahoma"
+    },
+    "36OK": {
+        "lat": 35.2723007202,
+        "long": -96.8816986084,
+        "name": "Jones Air Park",
+        "state": "Oklahoma"
+    },
+    "39OK": {
+        "lat": 35.1114997864,
+        "long": -97.4793014526,
+        "name": "Paradise Air Haven ",
+        "state": "Oklahoma"
+    },
+    "3OK0": {
+        "lat": 34.7050018311,
+        "long": -96.5766983032,
+        "name": "Valley ",
+        "state": "Oklahoma"
+    },
+    "3OK1": {
+        "lat": 35.7299995422,
+        "long": -97.9670028687,
+        "name": "Okarche ",
+        "state": "Oklahoma"
+    },
+    "3OK2": {
+        "lat": 35.591999054,
+        "long": -97.327796936,
+        "name": "Hopcus Farms ",
+        "state": "Oklahoma"
+    },
+    "3OK5": {
+        "lat": 34.7285995483,
+        "long": -97.605796814,
+        "name": "Bearden Private ",
+        "state": "Oklahoma"
+    },
+    "3OK7": {
+        "lat": 36.2417984009,
+        "long": -96.1342010498,
+        "name": "Double W ",
+        "state": "Oklahoma"
+    },
+    "3OK8": {
+        "lat": 36.1166992188,
+        "long": -96.2335968018,
+        "name": "Flying G Ranch ",
+        "state": "Oklahoma"
+    },
+    "3OK9": {
+        "lat": 35.321786,
+        "long": -97.040083,
+        "name": "Jazz Ranch ",
+        "state": "Oklahoma"
+    },
+    "3OL8": {
+        "lat": 36.8778991699,
+        "long": -95.1491012573,
+        "name": "Harrison ",
+        "state": "Oklahoma"
+    },
+    "40OK": {
+        "lat": 36.1161003113,
+        "long": -96.5381011963,
+        "name": "Hilltop ",
+        "state": "Oklahoma"
+    },
+    "43OK": {
+        "lat": 35.6666984558,
+        "long": -96.9835968018,
+        "name": "Biggs Skypatch ",
+        "state": "Oklahoma"
+    },
+    "44OK": {
+        "lat": 35.9542007446,
+        "long": -97.5492019653,
+        "name": "Sky High ",
+        "state": "Oklahoma"
+    },
+    "45OK": {
+        "lat": 36.9126014709,
+        "long": -95.6029968262,
+        "name": "Belleview Landing ",
+        "state": "Oklahoma"
+    },
+    "45OL": {
+        "lat": 35.837600708,
+        "long": -94.6251983643,
+        "name": "Stilwell ",
+        "state": "Oklahoma"
+    },
+    "46OK": {
+        "lat": 36.2210998535,
+        "long": -97.8444976807,
+        "name": "Steinert Lakes ",
+        "state": "Oklahoma"
+    },
+    "47OK": {
+        "lat": 35.5836982727,
+        "long": -98.0401000977,
+        "name": "Harman ",
+        "state": "Oklahoma"
+    },
+    "48OK": {
+        "lat": 35.3181991577,
+        "long": -95.5183029175,
+        "name": "Rafter 'R' Ranch ",
+        "state": "Oklahoma"
+    },
+    "4OK0": {
+        "lat": 35.2251014709,
+        "long": -96.7228012085,
+        "name": "Zevely Climbing Zz Ranch ",
+        "state": "Oklahoma"
+    },
+    "4OK1": {
+        "lat": 34.7168006897,
+        "long": -95.175201416,
+        "name": "Hatton Ranch ",
+        "state": "Oklahoma"
+    },
+    "4OK2": {
+        "lat": 36.4930992126,
+        "long": -96.0547027588,
+        "name": "Candy Lake Estate ",
+        "state": "Oklahoma"
+    },
+    "4OK4": {
+        "lat": 35.2876014709,
+        "long": -97.6641998291,
+        "name": "Low Pass ",
+        "state": "Oklahoma"
+    },
+    "4OK5": {
+        "lat": 34.5500984192,
+        "long": -97.6003036499,
+        "name": "Newman Farm ",
+        "state": "Oklahoma"
+    },
+    "4OK6": {
+        "lat": 34.9894981384,
+        "long": -97.0252990723,
+        "name": "Pitts Field",
+        "state": "Oklahoma"
+    },
+    "4OK7": {
+        "lat": 35.0912017822,
+        "long": -97.5009002686,
+        "name": "Flying A Ranch ",
+        "state": "Oklahoma"
+    },
+    "4OK8": {
+        "lat": 34.9031982422,
+        "long": -95.3589019775,
+        "name": "Austin ",
+        "state": "Oklahoma"
+    },
+    "4OL3": {
+        "lat": 34.5167007446,
+        "long": -98.3337020874,
+        "name": "Jerry-Wright Airfield",
+        "state": "Oklahoma"
+    },
+    "51OK": {
+        "lat": 35.793611,
+        "long": -96.029722,
+        "name": "Eagle Creek ",
+        "state": "Oklahoma"
+    },
+    "53OK": {
+        "lat": 35.2500991821,
+        "long": -97.766998291,
+        "name": "Thompson Private ",
+        "state": "Oklahoma"
+    },
+    "54OK": {
+        "lat": 35.8694992065,
+        "long": -96.0350036621,
+        "name": "Ambassador Ultralightport",
+        "state": "Oklahoma"
+    },
+    "55OK": {
+        "lat": 36.2239990234,
+        "long": -95.5783004761,
+        "name": "Gilstrap Field",
+        "state": "Oklahoma"
+    },
+    "56OK": {
+        "lat": 35.4584007263,
+        "long": -97.0670013428,
+        "name": "L D ",
+        "state": "Oklahoma"
+    },
+    "5OK2": {
+        "lat": 34.776667,
+        "long": -96.245278,
+        "name": "Christopher M. Rippee Memorial ",
+        "state": "Oklahoma"
+    },
+    "5OK3": {
+        "lat": 36.4883995056,
+        "long": -95.1438980103,
+        "name": "Stearmans Roost ",
+        "state": "Oklahoma"
+    },
+    "5OK4": {
+        "lat": 35.1170005798,
+        "long": -97.4505996704,
+        "name": "Pacer Field",
+        "state": "Oklahoma"
+    },
+    "5OK6": {
+        "lat": 35.712600708,
+        "long": -97.3669967651,
+        "name": "Woodleaf Aero Estates ",
+        "state": "Oklahoma"
+    },
+    "5OK8": {
+        "lat": 34.6750984192,
+        "long": -97.8559036255,
+        "name": "Alford A. Bratcher ",
+        "state": "Oklahoma"
+    },
+    "5OK9": {
+        "lat": 36.189201355,
+        "long": -95.5402984619,
+        "name": "Night Hawk Airpatch Ultralightport",
+        "state": "Oklahoma"
+    },
+    "5TE4": {
+        "lat": 36.5083999634,
+        "long": -102.391998291,
+        "name": "Perkins Prothro Cimarron Ranch ",
+        "state": "Oklahoma"
+    },
+    "60OK": {
+        "lat": 35.1222991943,
+        "long": -98.5197982788,
+        "name": "Carlin Lawrence ",
+        "state": "Oklahoma"
+    },
+    "61OK": {
+        "lat": 35.7999992371,
+        "long": -97.6087036133,
+        "name": "The Highlands ",
+        "state": "Oklahoma"
+    },
+    "62OK": {
+        "lat": 36.3391990662,
+        "long": -94.9204025269,
+        "name": "Lewis North ",
+        "state": "Oklahoma"
+    },
+    "66OK": {
+        "lat": 34.0890007019,
+        "long": -96.4216995239,
+        "name": "Mc Laughlin Farm ",
+        "state": "Oklahoma"
+    },
+    "67OK": {
+        "lat": 36.0331001282,
+        "long": -95.0780029297,
+        "name": "Flying J Ranch ",
+        "state": "Oklahoma"
+    },
+    "69OK": {
+        "lat": 36.7286987305,
+        "long": -94.8505020142,
+        "name": "Green Country Airpark",
+        "state": "Oklahoma"
+    },
+    "6OK0": {
+        "lat": 35.8913993835,
+        "long": -97.9589004517,
+        "name": "White ",
+        "state": "Oklahoma"
+    },
+    "6OK1": {
+        "lat": 36.001499176,
+        "long": -95.0029983521,
+        "name": "John Reid ",
+        "state": "Oklahoma"
+    },
+    "6OK2": {
+        "lat": 35.0628013611,
+        "long": -97.8953018188,
+        "name": "Redhills ",
+        "state": "Oklahoma"
+    },
+    "6OK3": {
+        "lat": 34.4748001099,
+        "long": -99.1315002441,
+        "name": "Pinson's Cottonpatch ",
+        "state": "Oklahoma"
+    },
+    "6OK5": {
+        "lat": 35.6286010742,
+        "long": -99.929397583,
+        "name": "Cary Ranch ",
+        "state": "Oklahoma"
+    },
+    "6OK6": {
+        "lat": 36.7958984375,
+        "long": -97.3170013428,
+        "name": "Earl Henry ",
+        "state": "Oklahoma"
+    },
+    "6OK7": {
+        "lat": 34.5959014893,
+        "long": -95.8629989624,
+        "name": "Cochran Ranch ",
+        "state": "Oklahoma"
+    },
+    "6OK8": {
+        "lat": 35.359500885,
+        "long": -98.5711975098,
+        "name": "Lasley Private ",
+        "state": "Oklahoma"
+    },
+    "6OK9": {
+        "lat": 36.14170074,
+        "long": -96.94229889,
+        "name": "Mulberry Hill ",
+        "state": "Oklahoma"
+    },
+    "70OK": {
+        "lat": 36.8336982727,
+        "long": -94.9040985107,
+        "name": "Old 66 Strip",
+        "state": "Oklahoma"
+    },
+    "71OK": {
+        "lat": 34.5761985779,
+        "long": -98.483001709,
+        "name": "Neuwirth Airstrip",
+        "state": "Oklahoma"
+    },
+    "73OK": {
+        "lat": 35.8456001282,
+        "long": -99.3373031616,
+        "name": "Haxton ",
+        "state": "Oklahoma"
+    },
+    "74OK": {
+        "lat": 33.9500999451,
+        "long": -97.1502990723,
+        "name": "W.G. Anderson Memorial ",
+        "state": "Oklahoma"
+    },
+    "75OK": {
+        "lat": 36.317199707,
+        "long": -97.8161010742,
+        "name": "Longhorn Field",
+        "state": "Oklahoma"
+    },
+    "76OK": {
+        "lat": 35.2848014832,
+        "long": -97.6169967651,
+        "name": "Odom's Roost ",
+        "state": "Oklahoma"
+    },
+    "79OK": {
+        "lat": 35.3847999573,
+        "long": -95.176399231,
+        "name": "Little River Ranch ",
+        "state": "Oklahoma"
+    },
+    "7OK0": {
+        "lat": 34.0317993164,
+        "long": -97.6778030396,
+        "name": "Dennis Ranch ",
+        "state": "Oklahoma"
+    },
+    "7OK1": {
+        "lat": 35.6203994751,
+        "long": -95.7442016602,
+        "name": "Meadowlark Field",
+        "state": "Oklahoma"
+    },
+    "7OK2": {
+        "lat": 34.976398468,
+        "long": -99.4998016357,
+        "name": "Scott ",
+        "state": "Oklahoma"
+    },
+    "7OK4": {
+        "lat": 35.150100708,
+        "long": -97.8669967651,
+        "name": "Martin Farms ",
+        "state": "Oklahoma"
+    },
+    "7OK8": {
+        "lat": 35.989200592,
+        "long": -97.573097229,
+        "name": "Myers ",
+        "state": "Oklahoma"
+    },
+    "80OK": {
+        "lat": 35.5766983032,
+        "long": -99.8861999512,
+        "name": "Flying S Ranch ",
+        "state": "Oklahoma"
+    },
+    "81OK": {
+        "lat": 35.0264015198,
+        "long": -99.3394012451,
+        "name": "Twin Lakes Ranch ",
+        "state": "Oklahoma"
+    },
+    "83OK": {
+        "lat": 35.2568016052,
+        "long": -94.5780029297,
+        "name": "Sweetbriar ",
+        "state": "Oklahoma"
+    },
+    "84OK": {
+        "lat": 35.9388999939,
+        "long": -99.0531997681,
+        "name": "Collier Farms ",
+        "state": "Oklahoma"
+    },
+    "84OL": {
+        "lat": 36.1104011536,
+        "long": -95.7655029297,
+        "name": "Cotton Field",
+        "state": "Oklahoma"
+    },
+    "85OL": {
+        "lat": 34.6194992065,
+        "long": -98.5955963135,
+        "name": "Huscher Field",
+        "state": "Oklahoma"
+    },
+    "88OK": {
+        "lat": 36.1934013367,
+        "long": -97.0906982422,
+        "name": "Hilltop ",
+        "state": "Oklahoma"
+    },
+    "88OL": {
+        "lat": 34.9645004272,
+        "long": -96.2711029053,
+        "name": "Pace Field",
+        "state": "Oklahoma"
+    },
+    "89OK": {
+        "lat": 35.4430999756,
+        "long": -94.8974990845,
+        "name": "Neversweat Too ",
+        "state": "Oklahoma"
+    },
+    "8OK0": {
+        "lat": 36.0682983398,
+        "long": -98.2891998291,
+        "name": "Lamle ",
+        "state": "Oklahoma"
+    },
+    "8OK1": {
+        "lat": 35.1683006287,
+        "long": -97.7108001709,
+        "name": "Warbonnet ",
+        "state": "Oklahoma"
+    },
+    "8OK2": {
+        "lat": 35.4751014709,
+        "long": -97.9289016724,
+        "name": "Baker Airstrip",
+        "state": "Oklahoma"
+    },
+    "8OK4": {
+        "lat": 35.5041999817,
+        "long": -98.0406036377,
+        "name": "Brandley ",
+        "state": "Oklahoma"
+    },
+    "8OK6": {
+        "lat": 35.5667991638,
+        "long": -94.7501983643,
+        "name": "Barry Dotson Ranch ",
+        "state": "Oklahoma"
+    },
+    "8OK7": {
+        "lat": 36.7972984314,
+        "long": -97.7183990479,
+        "name": "Cc & M ",
+        "state": "Oklahoma"
+    },
+    "8OL1": {
+        "lat": 35.2279014587,
+        "long": -96.2294998169,
+        "name": "Petes Airpark",
+        "state": "Oklahoma"
+    },
+    "90OK": {
+        "lat": 36.5005989075,
+        "long": -98.5019989014,
+        "name": "Stewart Farms ",
+        "state": "Oklahoma"
+    },
+    "91OK": {
+        "lat": 34.641998291,
+        "long": -99.3712005615,
+        "name": "Stewart ",
+        "state": "Oklahoma"
+    },
+    "92OK": {
+        "lat": 34.382900238,
+        "long": -96.2919006348,
+        "name": "Flying W Ranch ",
+        "state": "Oklahoma"
+    },
+    "93OK": {
+        "lat": 35.9345016479,
+        "long": -95.5914001465,
+        "name": "Jantzen ",
+        "state": "Oklahoma"
+    },
+    "95OK": {
+        "lat": 36.2676010132,
+        "long": -95.6306991577,
+        "name": "Barcus Field",
+        "state": "Oklahoma"
+    },
+    "96OK": {
+        "lat": 36.8488998413,
+        "long": -99.456703186,
+        "name": "Mike's Place ",
+        "state": "Oklahoma"
+    },
+    "98OK": {
+        "lat": 36.489200592,
+        "long": -96.0528030396,
+        "name": "Candy Lake Estate ",
+        "state": "Oklahoma"
+    },
+    "98OL": {
+        "lat": 34.5000991821,
+        "long": -97.9947967529,
+        "name": "Copland ",
+        "state": "Oklahoma"
+    },
+    "9OK3": {
+        "lat": 36.7037010193,
+        "long": -95.8404998779,
+        "name": "Flying Eagle Estates ",
+        "state": "Oklahoma"
+    },
+    "9OK5": {
+        "lat": 34.778301239,
+        "long": -96.9274978638,
+        "name": "Diamond C Ranch ",
+        "state": "Oklahoma"
+    },
+    "9OK7": {
+        "lat": 36.1847991943,
+        "long": -96.5503005981,
+        "name": "Cimarron Strip",
+        "state": "Oklahoma"
+    },
+    "9OK9": {
+        "lat": 35.5444984436,
+        "long": -94.4862976074,
+        "name": "Strang Airpark",
+        "state": "Oklahoma"
+    },
+    "K0F7": {
+        "lat": 35.3886985779,
+        "long": -95.5999984741,
+        "name": "Fountainhead Lodge Airpark",
+        "state": "Oklahoma"
+    },
+    "K0F9": {
+        "lat": 34.1985015869,
+        "long": -96.6744995117,
+        "name": "Tishomingo Airpark",
+        "state": "Oklahoma"
+    },
+    "K17K": {
+        "lat": 36.7742996216,
+        "long": -102.5100021362,
+        "name": "Boise City ",
+        "state": "Oklahoma"
+    },
+    "K1F0": {
+        "lat": 34.1469722,
+        "long": -97.1226667,
+        "name": "Ardmore Downtown Executive ",
+        "state": "Oklahoma"
+    },
+    "K1F4": {
+        "lat": 34.1403999329,
+        "long": -96.81199646,
+        "name": "Madill Municipal ",
+        "state": "Oklahoma"
+    },
+    "K1K2": {
+        "lat": 34.8493003845,
+        "long": -97.5852966309,
+        "name": "Lindsay Municipal ",
+        "state": "Oklahoma"
+    },
+    "K1K4": {
+        "lat": 35.1551017761,
+        "long": -97.4703979492,
+        "name": "David Jay Perry ",
+        "state": "Oklahoma"
+    },
+    "K1O1": {
+        "lat": 34.2375984192,
+        "long": -98.7419967651,
+        "name": "Grandfield Municipal ",
+        "state": "Oklahoma"
+    },
+    "K1O4": {
+        "lat": 35.7344017029,
+        "long": -98.7302017212,
+        "name": "Thomas Municipal ",
+        "state": "Oklahoma"
+    },
+    "K1O8": {
+        "lat": 34.4585990906,
+        "long": -99.1713027954,
+        "name": "Tipton Municipal ",
+        "state": "Oklahoma"
+    },
+    "K2K4": {
+        "lat": 34.8926010132,
+        "long": -99.5281982422,
+        "name": "Scott Field",
+        "state": "Oklahoma"
+    },
+    "K2K9": {
+        "lat": 35.832901001,
+        "long": -95.6673965454,
+        "name": "Haskell ",
+        "state": "Oklahoma"
+    },
+    "K2O8": {
+        "lat": 35.50590134,
+        "long": -98.3423996,
+        "name": "Hinton Municipal ",
+        "state": "Oklahoma"
+    },
+    "K37K": {
+        "lat": 33.9259986877,
+        "long": -97.2855987549,
+        "name": "Falconhead ",
+        "state": "Oklahoma"
+    },
+    "K3F7": {
+        "lat": 35.8069000244,
+        "long": -96.4218978882,
+        "name": "Jones Memorial ",
+        "state": "Oklahoma"
+    },
+    "K3O3": {
+        "lat": 34.98450089,
+        "long": -97.38279724,
+        "name": "Purcell Municipal - Steven E. Shephard field",
+        "state": "Oklahoma"
+    },
+    "K3O4": {
+        "lat": 35.1675987244,
+        "long": -99.6578979492,
+        "name": "Sayre Municipal ",
+        "state": "Oklahoma"
+    },
+    "K3O9": {
+        "lat": 36.5775985718,
+        "long": -94.8619003296,
+        "name": "Grand Lake Regional ",
+        "state": "Oklahoma"
+    },
+    "K4O4": {
+        "lat": 33.9094009399,
+        "long": -94.8593978882,
+        "name": "Mc Curtain County Regional ",
+        "state": "Oklahoma"
+    },
+    "K4O5": {
+        "lat": 36.7879981995,
+        "long": -98.3584976196,
+        "name": "Cherokee Municipal ",
+        "state": "Oklahoma"
+    },
+    "K6K4": {
+        "lat": 36.2901000977,
+        "long": -98.4757995605,
+        "name": "Fairview Municipal ",
+        "state": "Oklahoma"
+    },
+    "K80F": {
+        "lat": 34.1926002502,
+        "long": -95.6499023438,
+        "name": "Antlers Municipal ",
+        "state": "Oklahoma"
+    },
+    "K86F": {
+        "lat": 35.1236000061,
+        "long": -98.5752029419,
+        "name": "Carnegie Municipal ",
+        "state": "Oklahoma"
+    },
+    "K90F": {
+        "lat": 34.013999939,
+        "long": -94.7585983276,
+        "name": "Broken Bow ",
+        "state": "Oklahoma"
+    },
+    "K91F": {
+        "lat": 35.1562995911,
+        "long": -95.6212997437,
+        "name": "Arrowhead ",
+        "state": "Oklahoma"
+    },
+    "K92F": {
+        "lat": 34.3686981201,
+        "long": -98.6820983887,
+        "name": "Chattanooga Sky Harbor ",
+        "state": "Oklahoma"
+    },
+    "K93F": {
+        "lat": 35.6074981689,
+        "long": -99.7046966553,
+        "name": "Mignon Laird Municipal ",
+        "state": "Oklahoma"
+    },
+    "K95F": {
+        "lat": 36.2837982178,
+        "long": -96.4633026123,
+        "name": "Cleveland Municipal ",
+        "state": "Oklahoma"
+    },
+    "KADH": {
+        "lat": 34.8042984009,
+        "long": -96.6713027954,
+        "name": "Ada Municipal ",
+        "state": "Oklahoma"
+    },
+    "KADM": {
+        "lat": 34.30301,
+        "long": -97.0196342,
+        "name": "Ardmore Municipal ",
+        "state": "Oklahoma"
+    },
+    "KAQR": {
+        "lat": 34.3983001709,
+        "long": -96.1481018066,
+        "name": "Atoka Municipal ",
+        "state": "Oklahoma"
+    },
+    "KAVK": {
+        "lat": 36.7732009888,
+        "long": -98.6698989868,
+        "name": "Alva Regional ",
+        "state": "Oklahoma"
+    },
+    "KAXS": {
+        "lat": 34.6963996887,
+        "long": -99.3403015137,
+        "name": "Altus Quartz Mountain Regional ",
+        "state": "Oklahoma"
+    },
+    "KBFK": {
+        "lat": 36.8633003235,
+        "long": -99.6186981201,
+        "name": "Buffalo Municipal ",
+        "state": "Oklahoma"
+    },
+    "KBKN": {
+        "lat": 36.74509811,
+        "long": -97.34960175,
+        "name": "Blackwell Tonkawa Municipal ",
+        "state": "Oklahoma"
+    },
+    "KBVO": {
+        "lat": 36.76250076,
+        "long": -96.01119995,
+        "name": "Bartlesville Municipal ",
+        "state": "Oklahoma"
+    },
+    "KCHK": {
+        "lat": 35.09740067,
+        "long": -97.96769714,
+        "name": "Chickasha Municipal ",
+        "state": "Oklahoma"
+    },
+    "KCKA": {
+        "lat": 36.7439002991,
+        "long": -98.1231002808,
+        "name": "Kegelman Af Aux Field",
+        "state": "Oklahoma"
+    },
+    "KCLK": {
+        "lat": 35.53829956,
+        "long": -98.93270111,
+        "name": "Clinton Regional ",
+        "state": "Oklahoma"
+    },
+    "KCQB": {
+        "lat": 35.7238006592,
+        "long": -96.8202972412,
+        "name": "Chandler Regional ",
+        "state": "Oklahoma"
+    },
+    "KCSM": {
+        "lat": 35.3398017883,
+        "long": -99.2005004883,
+        "name": "Clinton Sherman ",
+        "state": "Oklahoma"
+    },
+    "KCUH": {
+        "lat": 35.9499015808,
+        "long": -96.7731018066,
+        "name": "Cushing Municipal ",
+        "state": "Oklahoma"
+    },
+    "KDUA": {
+        "lat": 33.94229889,
+        "long": -96.39450073,
+        "name": "Eaker Field",
+        "state": "Oklahoma"
+    },
+    "KDUC": {
+        "lat": 34.47090149,
+        "long": -97.9598999,
+        "name": "Halliburton Field",
+        "state": "Oklahoma"
+    },
+    "KELK": {
+        "lat": 35.43080139,
+        "long": -99.39430237,
+        "name": "Elk City Regional Business ",
+        "state": "Oklahoma"
+    },
+    "KEND": {
+        "lat": 36.3391990662,
+        "long": -97.9164962769,
+        "name": "Vance Air Force Base",
+        "state": "Oklahoma"
+    },
+    "KF08": {
+        "lat": 35.2958984375,
+        "long": -95.6252975464,
+        "name": "Eufaula Municipal ",
+        "state": "Oklahoma"
+    },
+    "KF10": {
+        "lat": 35.4068984985,
+        "long": -96.0158004761,
+        "name": "Henryetta Municipal ",
+        "state": "Oklahoma"
+    },
+    "KF30": {
+        "lat": 34.5245018005,
+        "long": -96.9897003174,
+        "name": "Sulphur Municipal ",
+        "state": "Oklahoma"
+    },
+    "KF31": {
+        "lat": 33.9910011292,
+        "long": -96.6427993774,
+        "name": "Lake Texoma State Park ",
+        "state": "Oklahoma"
+    },
+    "KF32": {
+        "lat": 34.2492980957,
+        "long": -97.4738998413,
+        "name": "Healdton Municipal ",
+        "state": "Oklahoma"
+    },
+    "KF36": {
+        "lat": 35.2975997925,
+        "long": -98.9673995972,
+        "name": "Cordell Municipal ",
+        "state": "Oklahoma"
+    },
+    "KF68": {
+        "lat": 35.0522003174,
+        "long": -98.2642974854,
+        "name": "Anadarko Municipal ",
+        "state": "Oklahoma"
+    },
+    "KF84": {
+        "lat": 35.28910065,
+        "long": -95.09390259,
+        "name": "Stigler Regional ",
+        "state": "Oklahoma"
+    },
+    "KF99": {
+        "lat": 35.08589935,
+        "long": -96.41670227,
+        "name": "Holdenville Municipal ",
+        "state": "Oklahoma"
+    },
+    "KFDR": {
+        "lat": 34.35200119,
+        "long": -98.98390198,
+        "name": "Frederick Regional ",
+        "state": "Oklahoma"
+    },
+    "KFSI": {
+        "lat": 34.64979935,
+        "long": -98.40219879,
+        "name": "Henry Post Army Air Field (Fort Sill)",
+        "state": "Oklahoma"
+    },
+    "KGAG": {
+        "lat": 36.295501709,
+        "long": -99.7763977051,
+        "name": "Gage ",
+        "state": "Oklahoma"
+    },
+    "KGCM": {
+        "lat": 36.2927017212,
+        "long": -95.479598999,
+        "name": "Claremore Regional ",
+        "state": "Oklahoma"
+    },
+    "KGMJ": {
+        "lat": 36.60680008,
+        "long": -94.73860168,
+        "name": "Grove Municipal ",
+        "state": "Oklahoma"
+    },
+    "KGOK": {
+        "lat": 35.84980011,
+        "long": -97.41560364,
+        "name": "Guthrie-Edmond Regional ",
+        "state": "Oklahoma"
+    },
+    "KGUY": {
+        "lat": 36.6851005554,
+        "long": -101.5080032349,
+        "name": "Guymon Municipal ",
+        "state": "Oklahoma"
+    },
+    "KH04": {
+        "lat": 36.6329994202,
+        "long": -95.1513977051,
+        "name": "Vinita Municipal ",
+        "state": "Oklahoma"
+    },
+    "KH05": {
+        "lat": 34.9199981689,
+        "long": -95.3939971924,
+        "name": "Wilburton Municipal ",
+        "state": "Oklahoma"
+    },
+    "KH68": {
+        "lat": 35.962600708,
+        "long": -95.3419036865,
+        "name": "Hefner Easley ",
+        "state": "Oklahoma"
+    },
+    "KH71": {
+        "lat": 36.2253990173,
+        "long": -95.3301010132,
+        "name": "Mid America Industrial ",
+        "state": "Oklahoma"
+    },
+    "KH76": {
+        "lat": 36.6716995239,
+        "long": -96.4056015015,
+        "name": "Pawhuska Municipal ",
+        "state": "Oklahoma"
+    },
+    "KH92": {
+        "lat": 36.4426994324,
+        "long": -96.3871994019,
+        "name": "Hominy Municipal ",
+        "state": "Oklahoma"
+    },
+    "KHBR": {
+        "lat": 34.99129868,
+        "long": -99.05139923,
+        "name": "Hobart Regional ",
+        "state": "Oklahoma"
+    },
+    "KHHW": {
+        "lat": 34.03480148,
+        "long": -95.54190063,
+        "name": "Stan Stamper Municipal ",
+        "state": "Oklahoma"
+    },
+    "KHSD": {
+        "lat": 35.6017990112,
+        "long": -97.706199646,
+        "name": "Sundance Airpark",
+        "state": "Oklahoma"
+    },
+    "KJSV": {
+        "lat": 35.4382019,
+        "long": -94.80280304,
+        "name": "Sallisaw Municipal ",
+        "state": "Oklahoma"
+    },
+    "KJWG": {
+        "lat": 35.86470032,
+        "long": -98.42079926,
+        "name": "Watonga Regional ",
+        "state": "Oklahoma"
+    },
+    "KK44": {
+        "lat": 36.7989006042,
+        "long": -100.5299987793,
+        "name": "Beaver Municipal ",
+        "state": "Oklahoma"
+    },
+    "KK77": {
+        "lat": 36.7584991455,
+        "long": -99.1019973755,
+        "name": "Freedom Municipal ",
+        "state": "Oklahoma"
+    },
+    "KLAW": {
+        "lat": 34.5676994324,
+        "long": -98.4166030884,
+        "name": "Lawton Fort Sill Regional ",
+        "state": "Oklahoma"
+    },
+    "KLTS": {
+        "lat": 34.667098999,
+        "long": -99.2667007446,
+        "name": "Altus Air Force Base",
+        "state": "Oklahoma"
+    },
+    "KMDF": {
+        "lat": 36.4847984314,
+        "long": -99.1941986084,
+        "name": "Mooreland Municipal ",
+        "state": "Oklahoma"
+    },
+    "KMIO": {
+        "lat": 36.909198761,
+        "long": -94.8874969482,
+        "name": "Miami Municipal ",
+        "state": "Oklahoma"
+    },
+    "KMLC": {
+        "lat": 34.88240051,
+        "long": -95.78350067,
+        "name": "Mc Alester Regional ",
+        "state": "Oklahoma"
+    },
+    "KO11": {
+        "lat": 35.7569999695,
+        "long": -94.6499023438,
+        "name": "Stilwell Cherokee Nation ",
+        "state": "Oklahoma"
+    },
+    "KO35": {
+        "lat": 34.7084007263,
+        "long": -99.9086990356,
+        "name": "Hollis Municipal ",
+        "state": "Oklahoma"
+    },
+    "KO47": {
+        "lat": 35.4822998047,
+        "long": -96.7186965942,
+        "name": "Prague Municipal ",
+        "state": "Oklahoma"
+    },
+    "KO51": {
+        "lat": 36.7444992065,
+        "long": -99.9086990356,
+        "name": "Laverne Municipal ",
+        "state": "Oklahoma"
+    },
+    "KO53": {
+        "lat": 36.790599823,
+        "long": -97.7490005493,
+        "name": "Medford Municipal ",
+        "state": "Oklahoma"
+    },
+    "KO65": {
+        "lat": 36.1124992371,
+        "long": -98.3087005615,
+        "name": "Christman Airfield",
+        "state": "Oklahoma"
+    },
+    "KOJA": {
+        "lat": 35.5447998047,
+        "long": -98.6685028076,
+        "name": "Thomas P Stafford ",
+        "state": "Oklahoma"
+    },
+    "KOKC": {
+        "lat": 35.3931007385,
+        "long": -97.6007003784,
+        "name": "Will Rogers World ",
+        "state": "Oklahoma"
+    },
+    "KOKM": {
+        "lat": 35.6680984497,
+        "long": -95.9486999512,
+        "name": "Okmulgee Regional ",
+        "state": "Oklahoma"
+    },
+    "KOUN": {
+        "lat": 35.2456016541,
+        "long": -97.4720993042,
+        "name": "University of Oklahoma Westheimer ",
+        "state": "Oklahoma"
+    },
+    "KOWP": {
+        "lat": 36.1753006,
+        "long": -96.15180206,
+        "name": "William R. Pogue Municipal ",
+        "state": "Oklahoma"
+    },
+    "KPNC": {
+        "lat": 36.73199844,
+        "long": -97.09980011,
+        "name": "Ponca City Regional ",
+        "state": "Oklahoma"
+    },
+    "KPVJ": {
+        "lat": 34.71110153,
+        "long": -97.22319794,
+        "name": "Pauls Valley Municipal ",
+        "state": "Oklahoma"
+    },
+    "KPWA": {
+        "lat": 35.53419876,
+        "long": -97.64710236,
+        "name": "Wiley Post ",
+        "state": "Oklahoma"
+    },
+    "KRCE": {
+        "lat": 35.48809814,
+        "long": -97.82360077,
+        "name": "Clarence E Page Municipal ",
+        "state": "Oklahoma"
+    },
+    "KRKR": {
+        "lat": 35.0215988159,
+        "long": -94.6212997437,
+        "name": "Robert S Kerr ",
+        "state": "Oklahoma"
+    },
+    "KRQO": {
+        "lat": 35.47269821,
+        "long": -98.00579834,
+        "name": "El Reno Regional ",
+        "state": "Oklahoma"
+    },
+    "KRVS": {
+        "lat": 36.0396003723,
+        "long": -95.9845962524,
+        "name": "Richard Lloyd Jones Jr ",
+        "state": "Oklahoma"
+    },
+    "KSNL": {
+        "lat": 35.3578987122,
+        "long": -96.9428024292,
+        "name": "Shawnee Regional ",
+        "state": "Oklahoma"
+    },
+    "KSRE": {
+        "lat": 35.2747001648,
+        "long": -96.675201416,
+        "name": "Seminole Municipal ",
+        "state": "Oklahoma"
+    },
+    "KSUD": {
+        "lat": 35.7896003723,
+        "long": -96.6557006836,
+        "name": "Stroud Municipal ",
+        "state": "Oklahoma"
+    },
+    "KSWO": {
+        "lat": 36.1612014771,
+        "long": -97.0857009888,
+        "name": "Stillwater Regional ",
+        "state": "Oklahoma"
+    },
+    "KTIK": {
+        "lat": 35.4146995544,
+        "long": -97.3865966797,
+        "name": "Tinker Air Force Base",
+        "state": "Oklahoma"
+    },
+    "KTQH": {
+        "lat": 35.92890167,
+        "long": -95.00450134,
+        "name": "Tahlequah Municipal ",
+        "state": "Oklahoma"
+    },
+    "KTUL": {
+        "lat": 36.1983985901,
+        "long": -95.8880996704,
+        "name": "Tulsa International ",
+        "state": "Oklahoma"
+    },
+    "KWDG": {
+        "lat": 36.3791999817,
+        "long": -97.7910995483,
+        "name": "Enid Woodring Regional ",
+        "state": "Oklahoma"
+    },
+    "KWWR": {
+        "lat": 36.438,
+        "long": -99.5226667,
+        "name": "West Woodward ",
+        "state": "Oklahoma"
+    },
+    "OK00": {
+        "lat": 35.5163002014,
+        "long": -97.022102356,
+        "name": "Jacktown ",
+        "state": "Oklahoma"
+    },
+    "OK01": {
+        "lat": 36.4290008545,
+        "long": -95.9032974243,
+        "name": "Sky Haven Airpark/Sellmeyer Field",
+        "state": "Oklahoma"
+    },
+    "OK02": {
+        "lat": 35.1108016968,
+        "long": -97.4816970825,
+        "name": "Dick's ",
+        "state": "Oklahoma"
+    },
+    "OK03": {
+        "lat": 35.4491996765,
+        "long": -97.5330963135,
+        "name": "Downtown Airpark",
+        "state": "Oklahoma"
+    },
+    "OK04": {
+        "lat": 35.3093986511,
+        "long": -95.8082962036,
+        "name": "Canadian River Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK05": {
+        "lat": 34.7000999451,
+        "long": -99.9253997803,
+        "name": "Ray Preston ",
+        "state": "Oklahoma"
+    },
+    "OK06": {
+        "lat": 35.6478004456,
+        "long": -94.9499969482,
+        "name": "Snake Creek Wilderness ",
+        "state": "Oklahoma"
+    },
+    "OK07": {
+        "lat": 34.5181999207,
+        "long": -98.3255996704,
+        "name": "Djs ",
+        "state": "Oklahoma"
+    },
+    "OK08": {
+        "lat": 34.5334014893,
+        "long": -98.3503036499,
+        "name": "Hill Top Private ",
+        "state": "Oklahoma"
+    },
+    "OK10": {
+        "lat": 34.5819015503,
+        "long": -97.4096984863,
+        "name": "Entropy ",
+        "state": "Oklahoma"
+    },
+    "OK11": {
+        "lat": 34.3175010681,
+        "long": -98.0149993896,
+        "name": "Ksa Orchards ",
+        "state": "Oklahoma"
+    },
+    "OK12": {
+        "lat": 34.399167,
+        "long": -98.266389,
+        "name": "Jones Farm Field",
+        "state": "Oklahoma"
+    },
+    "OK13": {
+        "lat": 35.8457984924,
+        "long": -95.9710998535,
+        "name": "Erroport ",
+        "state": "Oklahoma"
+    },
+    "OK14": {
+        "lat": 36.8352012634,
+        "long": -98.657699585,
+        "name": "Woodlake ",
+        "state": "Oklahoma"
+    },
+    "OK15": {
+        "lat": 36.3760986328,
+        "long": -95.7052993774,
+        "name": "Avian Country Estates ",
+        "state": "Oklahoma"
+    },
+    "OK16": {
+        "lat": 36.3647003174,
+        "long": -97.6678009033,
+        "name": "Fairmont Field ",
+        "state": "Oklahoma"
+    },
+    "OK17": {
+        "lat": 34.21825,
+        "long": -97.052567,
+        "name": "Bass Aero ",
+        "state": "Oklahoma"
+    },
+    "OK18": {
+        "lat": 36.4234008789,
+        "long": -95.1710968018,
+        "name": "Grand Isle ",
+        "state": "Oklahoma"
+    },
+    "OK20": {
+        "lat": 36.3837013245,
+        "long": -95.6480026245,
+        "name": "Sageeyah Airfield",
+        "state": "Oklahoma"
+    },
+    "OK21": {
+        "lat": 36.3334007263,
+        "long": -95.304397583,
+        "name": "Longs  North ",
+        "state": "Oklahoma"
+    },
+    "OK22": {
+        "lat": 35.4029998779,
+        "long": -96.8321990967,
+        "name": "Bluebird Airpark",
+        "state": "Oklahoma"
+    },
+    "OK23": {
+        "lat": 34.19829941,
+        "long": -97.23120117,
+        "name": "Taliaferro Field",
+        "state": "Oklahoma"
+    },
+    "OK24": {
+        "lat": 34.206199646,
+        "long": -97.2311019897,
+        "name": "Colby Field",
+        "state": "Oklahoma"
+    },
+    "OK25": {
+        "lat": 35.8133010864,
+        "long": -95.7533035278,
+        "name": "Cherokee Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK27": {
+        "lat": 35.4356002808,
+        "long": -94.474899292,
+        "name": "Venture Aerodrome Airpark Nr 2 Ultralightport",
+        "state": "Oklahoma"
+    },
+    "OK28": {
+        "lat": 34.229167,
+        "long": -96.749167,
+        "name": "Mcdaniel Aviation ",
+        "state": "Oklahoma"
+    },
+    "OK29": {
+        "lat": 33.9359016418,
+        "long": -97.0544967651,
+        "name": "Travis ",
+        "state": "Oklahoma"
+    },
+    "OK30": {
+        "lat": 36.4917984009,
+        "long": -95.050201416,
+        "name": "Grandcraft Landing Strip",
+        "state": "Oklahoma"
+    },
+    "OK31": {
+        "lat": 33.778542,
+        "long": -97.131458,
+        "name": "Whittington Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK34": {
+        "lat": 35.4842987061,
+        "long": -94.8419036865,
+        "name": "Gustafson ",
+        "state": "Oklahoma"
+    },
+    "OK36": {
+        "lat": 35.1197013855,
+        "long": -95.7039031982,
+        "name": "W C Ranch STOLport",
+        "state": "Oklahoma"
+    },
+    "OK37": {
+        "lat": 36.4695015,
+        "long": -95.6678009,
+        "name": "Dog Iron Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK39": {
+        "lat": 36.9667015076,
+        "long": -100.3170013428,
+        "name": "Judy Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK40": {
+        "lat": 36.7583999634,
+        "long": -99.0336990356,
+        "name": "Eden Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK42": {
+        "lat": 36.0834007263,
+        "long": -97.7170028687,
+        "name": "Siegmanns ",
+        "state": "Oklahoma"
+    },
+    "OK43": {
+        "lat": 36.5306015015,
+        "long": -98.6367034912,
+        "name": "Logsdon Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK44": {
+        "lat": 34.1461982727,
+        "long": -96.0768966675,
+        "name": "Canyon Springs Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK46": {
+        "lat": 36.9589004517,
+        "long": -98.075302124,
+        "name": "Mc Crays ",
+        "state": "Oklahoma"
+    },
+    "OK47": {
+        "lat": 36.9416999817,
+        "long": -98.016998291,
+        "name": "Miller Brothers ",
+        "state": "Oklahoma"
+    },
+    "OK48": {
+        "lat": 36.875,
+        "long": -97.0961990356,
+        "name": "Grass Roots ",
+        "state": "Oklahoma"
+    },
+    "OK49": {
+        "lat": 36.6500015259,
+        "long": -97.016998291,
+        "name": "Secrest Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK50": {
+        "lat": 36.3325004578,
+        "long": -97.8930969238,
+        "name": "Traynor Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK51": {
+        "lat": 36.1041984558,
+        "long": -97.93699646,
+        "name": "Enix Boys ",
+        "state": "Oklahoma"
+    },
+    "OK54": {
+        "lat": 36.9967002869,
+        "long": -99.0047988892,
+        "name": "May Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK55": {
+        "lat": 35.7145004272,
+        "long": -97.2258987427,
+        "name": "Bost Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK58": {
+        "lat": 36.3973007202,
+        "long": -95.9049987793,
+        "name": "Bluestem ",
+        "state": "Oklahoma"
+    },
+    "OK59": {
+        "lat": 35.0223007202,
+        "long": -94.7043991089,
+        "name": "Wolf Mountain ",
+        "state": "Oklahoma"
+    },
+    "OK62": {
+        "lat": 34.2486991882,
+        "long": -97.209197998,
+        "name": "Strader Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK64": {
+        "lat": 36.8138999939,
+        "long": -97.9865036011,
+        "name": "Weedpatch International ",
+        "state": "Oklahoma"
+    },
+    "OK66": {
+        "lat": 36.5567016602,
+        "long": -97.8337020874,
+        "name": "F.W. Zaloudek ",
+        "state": "Oklahoma"
+    },
+    "OK69": {
+        "lat": 36.525100708,
+        "long": -95.4669036865,
+        "name": "Monarch Field",
+        "state": "Oklahoma"
+    },
+    "OK74": {
+        "lat": 34.829498291,
+        "long": -96.0342025757,
+        "name": "Flying H ",
+        "state": "Oklahoma"
+    },
+    "OK79": {
+        "lat": 34.2568016052,
+        "long": -98.2412033081,
+        "name": "Temple  Inc ",
+        "state": "Oklahoma"
+    },
+    "OK80": {
+        "lat": 34.7286987305,
+        "long": -96.6010971069,
+        "name": "Thomas Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK81": {
+        "lat": 34.6584014893,
+        "long": -95.0710983276,
+        "name": "Homer Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK82": {
+        "lat": 34.6916999817,
+        "long": -99.3448028564,
+        "name": "Scottys Field",
+        "state": "Oklahoma"
+    },
+    "OK83": {
+        "lat": 34.5682983398,
+        "long": -99.3516998291,
+        "name": "Sheffield-Smith Airstrip",
+        "state": "Oklahoma"
+    },
+    "OK85": {
+        "lat": 34.3000984192,
+        "long": -96.9169998169,
+        "name": "Goddard Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK87": {
+        "lat": 34.6549987793,
+        "long": -97.2146987915,
+        "name": "Renavair Field",
+        "state": "Oklahoma"
+    },
+    "OK88": {
+        "lat": 36.0101013184,
+        "long": -95.8435974121,
+        "name": "Silverwood Ultralightport",
+        "state": "Oklahoma"
+    },
+    "OK89": {
+        "lat": 34.1556015015,
+        "long": -96.1557998657,
+        "name": "Stuart Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK90": {
+        "lat": 33.9020004272,
+        "long": -96.4721984863,
+        "name": "Boatner Field",
+        "state": "Oklahoma"
+    },
+    "OK91": {
+        "lat": 34.9833984375,
+        "long": -97.9337005615,
+        "name": "Stidham-Private ",
+        "state": "Oklahoma"
+    },
+    "OK93": {
+        "lat": 36.3334007263,
+        "long": -95.8835983276,
+        "name": "Airman Acres ",
+        "state": "Oklahoma"
+    },
+    "OK94": {
+        "lat": 36.354801178,
+        "long": -95.8032989502,
+        "name": "Sand Ridge Airpark Inc ",
+        "state": "Oklahoma"
+    },
+    "OK95": {
+        "lat": 36.4889984131,
+        "long": -94.9582977295,
+        "name": "Disney ",
+        "state": "Oklahoma"
+    },
+    "OK96": {
+        "lat": 35.756401062,
+        "long": -97.0848007202,
+        "name": "Ives ",
+        "state": "Oklahoma"
+    },
+    "OK97": {
+        "lat": 34.5334014893,
+        "long": -97.766998291,
+        "name": "Ketchum Ranch ",
+        "state": "Oklahoma"
+    },
+    "OK98": {
+        "lat": 35.3000984192,
+        "long": -98.4837036133,
+        "name": "King ",
+        "state": "Oklahoma"
+    },
+    "OL09": {
+        "lat": 34.8833999634,
+        "long": -98.7502975464,
+        "name": "Jennings Ranch ",
+        "state": "Oklahoma"
+    },
+    "OL12": {
+        "lat": 35.7075996399,
+        "long": -97.5406036377,
+        "name": "Northwest Edmond ",
+        "state": "Oklahoma"
+    },
+    "OL19": {
+        "lat": 34.9154014587,
+        "long": -96.1294021606,
+        "name": "Stuart Mountain Airpark",
+        "state": "Oklahoma"
+    },
+    "OL20": {
+        "lat": 35.9972991943,
+        "long": -95.2589035034,
+        "name": "Whitehorn Cove ",
+        "state": "Oklahoma"
+    },
+    "OL23": {
+        "lat": 35.9500999451,
+        "long": -96.1044006348,
+        "name": "Morris ",
+        "state": "Oklahoma"
+    },
+    "OL92": {
+        "lat": 36.7834014893,
+        "long": -95.950302124,
+        "name": "Hi-Way ",
+        "state": "Oklahoma"
+    }
+}

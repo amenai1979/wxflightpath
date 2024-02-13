@@ -1,0 +1,27 @@
+{
+  "TVSB": {
+    "lat": 12.9884004593,
+    "long": -61.2620010376,
+    "name": "J F Mitchell "
+  },
+  "TVSC": {
+    "lat": 12.6990003586,
+    "long": -61.3423995972,
+    "name": "Canouan "
+  },
+  "TVSM": {
+    "lat": 12.8879003525,
+    "long": -61.1801986694,
+    "name": "Mustique "
+  },
+  "TVSU": {
+    "lat": 12.6001348495,
+    "long": -61.411945343,
+    "name": "Union Island International "
+  },
+  "TVSV": {
+    "lat": 13.1443004608,
+    "long": -61.210899353,
+    "name": "E. T. Joshua "
+  }
+}

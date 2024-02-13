@@ -1,0 +1,157 @@
+{
+  "MP00": {
+    "lat": 7.5568799973,
+    "long": -80.0233001709,
+    "name": "Cap Justiniano Montenegro "
+  },
+  "MP01": {
+    "lat": 8.3549995422,
+    "long": -82.8364028931,
+    "name": "Finca Ceiba "
+  },
+  "MP02": {
+    "lat": 9.5433301926,
+    "long": -82.7338027954,
+    "name": "Finca 45 "
+  },
+  "MP03": {
+    "lat": 8.3383903503,
+    "long": -82.5035018921,
+    "name": "La Cabezona "
+  },
+  "MP17": {
+    "lat": 9.4344100952,
+    "long": -82.4990997314,
+    "name": "Finca 67 "
+  },
+  "MP18": {
+    "lat": 8.5038299561,
+    "long": -80.3602981567,
+    "name": "Penonome "
+  },
+  "MP21": {
+    "lat": 8.7703895569,
+    "long": -82.6643981934,
+    "name": "Alvaro Berroa "
+  },
+  "MP22": {
+    "lat": 8.1952199936,
+    "long": -80.6586990356,
+    "name": "Ingenio Santa Rosa "
+  },
+  "MP23": {
+    "lat": 9.1662797928,
+    "long": -79.5450973511,
+    "name": "Calzada Larga "
+  },
+  "MP24": {
+    "lat": 8.5884599686,
+    "long": -79.8897018433,
+    "name": "Chame "
+  },
+  "MP26": {
+    "lat": 8.2248497009,
+    "long": -78.9044036865,
+    "name": "Punta Cocos "
+  },
+  "MP27": {
+    "lat": 9.5161399841,
+    "long": -82.5954971313,
+    "name": "Deborah "
+  },
+  "MPBO": {
+    "lat": 9.3408498764,
+    "long": -82.2508010864,
+    "name": "Bocas Del Toro International "
+  },
+  "MPCE": {
+    "lat": 7.9878401756,
+    "long": -80.4096984863,
+    "name": "Alonso Valderrama "
+  },
+  "MPCH": {
+    "lat": 9.4586400986,
+    "long": -82.5167999268,
+    "name": "Cap Manuel Nino International "
+  },
+  "MPDA": {
+    "lat": 8.390999794,
+    "long": -82.4349975586,
+    "name": "Enrique Malek International "
+  },
+  "MPEJ": {
+    "lat": 9.3566398621,
+    "long": -79.867401123,
+    "name": "Enrique Adolfo Jimenez "
+  },
+  "MPFS": {
+    "lat": 9.3650903702,
+    "long": -79.949798584,
+    "name": "Fort Sherman "
+  },
+  "MPHO": {
+    "lat": 8.9147901535,
+    "long": -79.5996017456,
+    "name": "Howard "
+  },
+  "MPJE": {
+    "lat": 7.5177798271,
+    "long": -78.1572036743,
+    "name": "Jaque "
+  },
+  "MPLP": {
+    "lat": 8.4066696167,
+    "long": -78.1417007446,
+    "name": "Captain Ramon Xatruch "
+  },
+  "MPMG": {
+    "lat": 8.9733400345,
+    "long": -79.5556030273,
+    "name": "Marcos A. Gelabert International "
+  },
+  "MPNU": {
+    "lat": 7.8573799133,
+    "long": -80.2761001587,
+    "name": "Augusto Vergara "
+  },
+  "MPOA": {
+    "lat": 8.6862602234,
+    "long": -77.5243988037,
+    "name": "Puerto Obaldia "
+  },
+  "MPPA": {
+    "lat": 8.9147901535,
+    "long": -79.5996017456,
+    "name": "Howard/Panama Pacifico International "
+  },
+  "MPSA": {
+    "lat": 8.0855998993,
+    "long": -80.9452972412,
+    "name": "Ruben Cantu "
+  },
+  "MPSM": {
+    "lat": 8.375833,
+    "long": -80.127778,
+    "name": "Scarlett Martinez International "
+  },
+  "MPTO": {
+    "lat": 9.0713596344,
+    "long": -79.3834991455,
+    "name": "Tocumen International "
+  },
+  "MPVR": {
+    "lat": 9.5634202957,
+    "long": -79.0040969849,
+    "name": "El Porvenir "
+  },
+  "MPWN": {
+    "lat": 9.4496002197,
+    "long": -78.9794998169,
+    "name": "San Blas "
+  },
+  "MPZL": {
+    "lat": 9.4270896912,
+    "long": -82.5626983643,
+    "name": "Finca 32 "
+  }
+}

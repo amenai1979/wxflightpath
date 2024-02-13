@@ -1,0 +1,1088 @@
+{
+    "K01G": {
+        "lat": 42.7412986755,
+        "long": -78.0521011353,
+        "name": "Perry-Warsaw ",
+        "state": "New-York"
+    },
+    "K0B8": {
+        "lat": 41.2513008118,
+        "long": -72.0316009521,
+        "name": "Elizabeth Field",
+        "state": "New-York"
+    },
+    "K0G7": {
+        "lat": 42.8835983276,
+        "long": -76.7810974121,
+        "name": "Finger Lakes Regional ",
+        "state": "New-York"
+    },
+    "K1I5": {
+        "lat": 42.3642997742,
+        "long": -74.0660018921,
+        "name": "Freehold ",
+        "state": "New-York"
+    },
+    "K20N": {
+        "lat": 41.9852981567,
+        "long": -73.9641036987,
+        "name": "Kingston-Ulster ",
+        "state": "New-York"
+    },
+    "K3C8": {
+        "lat": 40.9151000977,
+        "long": -72.7919006348,
+        "name": "Calverton Executive Airpark",
+        "state": "New-York"
+    },
+    "K4B6": {
+        "lat": 43.87730026,
+        "long": -73.4131012,
+        "name": "Ticonderoga Municipal ",
+        "state": "New-York"
+    },
+    "K4B7": {
+        "lat": 43.8625984192,
+        "long": -73.7425994873,
+        "name": "Schroon Lake ",
+        "state": "New-York"
+    },
+    "K4G6": {
+        "lat": 42.3820991516,
+        "long": -77.6820983887,
+        "name": "Hornell Municipal ",
+        "state": "New-York"
+    },
+    "K5B2": {
+        "lat": 43.05130005,
+        "long": -73.86119843,
+        "name": "Saratoga County ",
+        "state": "New-York"
+    },
+    "K6B9": {
+        "lat": 42.9140014648,
+        "long": -76.4408035278,
+        "name": "Skaneateles Aero Drome ",
+        "state": "New-York"
+    },
+    "K7G0": {
+        "lat": 43.18109894,
+        "long": -77.915802,
+        "name": "Ledgedale Airpark",
+        "state": "New-York"
+    },
+    "K7N1": {
+        "lat": 42.17589951,
+        "long": -77.11219788,
+        "name": "Corning Painted Post ",
+        "state": "New-York"
+    },
+    "K9G3": {
+        "lat": 43.0210990906,
+        "long": -78.4824981689,
+        "name": "Akron ",
+        "state": "New-York"
+    },
+    "KALB": {
+        "lat": 42.748298645,
+        "long": -73.8016967773,
+        "name": "Albany International ",
+        "state": "New-York"
+    },
+    "KART": {
+        "lat": 43.9919013977,
+        "long": -76.021697998,
+        "name": "Watertown International ",
+        "state": "New-York"
+    },
+    "KB16": {
+        "lat": 43.0802993774,
+        "long": -76.5383987427,
+        "name": "Whitfords ",
+        "state": "New-York"
+    },
+    "KBGM": {
+        "lat": 42.20869827,
+        "long": -75.97979736,
+        "name": "Greater Binghamton/Edwin A Link field",
+        "state": "New-York"
+    },
+    "KBQR": {
+        "lat": 42.92229843,
+        "long": -78.61229706,
+        "name": "Buffalo Lancaster Regional ",
+        "state": "New-York"
+    },
+    "KBUF": {
+        "lat": 42.94049835,
+        "long": -78.73220062,
+        "name": "Buffalo Niagara International ",
+        "state": "New-York"
+    },
+    "KCDN": {
+        "lat": 34.2835998535,
+        "long": -80.5649032593,
+        "name": "Woodward Field",
+        "state": "New-York"
+    },
+    "KD23": {
+        "lat": 42.5666999817,
+        "long": -78.4261016846,
+        "name": "Arcade Tri County ",
+        "state": "New-York"
+    },
+    "KDKK": {
+        "lat": 42.49330139,
+        "long": -79.27200317,
+        "name": "Chautauqua County-Dunkirk ",
+        "state": "New-York"
+    },
+    "KDSV": {
+        "lat": 42.5708999634,
+        "long": -77.7130966187,
+        "name": "Dansville Municipal ",
+        "state": "New-York"
+    },
+    "KELM": {
+        "lat": 42.1599006653,
+        "long": -76.8916015625,
+        "name": "Elmira Corning Regional ",
+        "state": "New-York"
+    },
+    "KELZ": {
+        "lat": 42.10950089,
+        "long": -77.98999786,
+        "name": "Wellsville Municipal ArptTarantine Field",
+        "state": "New-York"
+    },
+    "KFOK": {
+        "lat": 40.8437004089,
+        "long": -72.6317977905,
+        "name": "Francis S Gabreski ",
+        "state": "New-York"
+    },
+    "KFRG": {
+        "lat": 40.7288017273,
+        "long": -73.4133987427,
+        "name": "Republic ",
+        "state": "New-York"
+    },
+    "KFZY": {
+        "lat": 43.3507995605,
+        "long": -76.3880996704,
+        "name": "Oswego County ",
+        "state": "New-York"
+    },
+    "KGFL": {
+        "lat": 43.3412017822,
+        "long": -73.6102981567,
+        "name": "Floyd Bennett Memorial ",
+        "state": "New-York"
+    },
+    "KGTB": {
+        "lat": 44.05559921,
+        "long": -75.71949768,
+        "name": "Wheeler Sack Army Air Field",
+        "state": "New-York"
+    },
+    "KGVQ": {
+        "lat": 43.03170013,
+        "long": -78.16760254,
+        "name": "Genesee County ",
+        "state": "New-York"
+    },
+    "KHPN": {
+        "lat": 41.0670013428,
+        "long": -73.7076034546,
+        "name": "Westchester County ",
+        "state": "New-York"
+    },
+    "KHTO": {
+        "lat": 40.95959854,
+        "long": -72.25180054,
+        "name": "East Hampton ",
+        "state": "New-York"
+    },
+    "KHWV": {
+        "lat": 40.8218994141,
+        "long": -72.8694000244,
+        "name": "Brookhaven ",
+        "state": "New-York"
+    },
+    "KIAG": {
+        "lat": 43.1072998047,
+        "long": -78.9461975098,
+        "name": "Niagara Falls International ",
+        "state": "New-York"
+    },
+    "KISP": {
+        "lat": 40.79520035,
+        "long": -73.10019684,
+        "name": "Long Island Mac Arthur ",
+        "state": "New-York"
+    },
+    "KITH": {
+        "lat": 42.4910011292,
+        "long": -76.4583969116,
+        "name": "Ithaca Tompkins Regional ",
+        "state": "New-York"
+    },
+    "KJFK": {
+        "lat": 40.63980103,
+        "long": -73.77890015,
+        "name": "John F Kennedy International ",
+        "state": "New-York"
+    },
+    "KJHW": {
+        "lat": 42.15340042,
+        "long": -79.25800323,
+        "name": "Chautauqua County-Jamestown ",
+        "state": "New-York"
+    },
+    "KK09": {
+        "lat": 43.4533996582,
+        "long": -74.5176010132,
+        "name": "Piseco ",
+        "state": "New-York"
+    },
+    "KK16": {
+        "lat": 43.2583999634,
+        "long": -75.6037979126,
+        "name": "Becks Grove ",
+        "state": "New-York"
+    },
+    "KLGA": {
+        "lat": 40.77719879,
+        "long": -73.87259674,
+        "name": "La Guardia ",
+        "state": "New-York"
+    },
+    "KLKP": {
+        "lat": 44.2644996643,
+        "long": -73.9618988037,
+        "name": "Lake Placid ",
+        "state": "New-York"
+    },
+    "KMAL": {
+        "lat": 44.8536987305,
+        "long": -74.3289031982,
+        "name": "Malone Dufort ",
+        "state": "New-York"
+    },
+    "KMGJ": {
+        "lat": 41.50999832,
+        "long": -74.26460266,
+        "name": "Orange County ",
+        "state": "New-York"
+    },
+    "KMNZ": {
+        "lat": 31.6658992767,
+        "long": -98.1485977173,
+        "name": "Hamilton Municipal ",
+        "state": "New-York"
+    },
+    "KMSS": {
+        "lat": 44.935798645,
+        "long": -74.8455963135,
+        "name": "Massena International Richards Field",
+        "state": "New-York"
+    },
+    "KMSV": {
+        "lat": 41.70159912,
+        "long": -74.79499817,
+        "name": "Sullivan County International ",
+        "state": "New-York"
+    },
+    "KMTP": {
+        "lat": 41.076499939,
+        "long": -71.9207992554,
+        "name": "Montauk ",
+        "state": "New-York"
+    },
+    "KN03": {
+        "lat": 42.59260178,
+        "long": -76.21489716,
+        "name": "Cortland County Chase Field",
+        "state": "New-York"
+    },
+    "KN23": {
+        "lat": 42.3026008606,
+        "long": -75.4160003662,
+        "name": "Sidney Municipal ",
+        "state": "New-York"
+    },
+    "KN37": {
+        "lat": 41.6225013733,
+        "long": -74.7013015747,
+        "name": "Monticello ",
+        "state": "New-York"
+    },
+    "KN66": {
+        "lat": 42.52470016,
+        "long": -75.06439972,
+        "name": "Oneonta Municipal ",
+        "state": "New-York"
+    },
+    "KN69": {
+        "lat": 41.5769996643,
+        "long": -73.7323989868,
+        "name": "Stormville ",
+        "state": "New-York"
+    },
+    "KN82": {
+        "lat": 41.5971984863,
+        "long": -74.4582977295,
+        "name": "Wurtsboro Sullivan County ",
+        "state": "New-York"
+    },
+    "KNY0": {
+        "lat": 42.9981994629,
+        "long": -74.3295974731,
+        "name": "Fulton County ",
+        "state": "New-York"
+    },
+    "KNY2": {
+        "lat": 43.0834007263,
+        "long": -76.2829971313,
+        "name": "Camillus ",
+        "state": "New-York"
+    },
+    "KOGS": {
+        "lat": 44.6819000244,
+        "long": -75.4654998779,
+        "name": "Ogdensburg International ",
+        "state": "New-York"
+    },
+    "KOIC": {
+        "lat": 42.5666007996,
+        "long": -75.5241012573,
+        "name": "Lt Warren Eaton ",
+        "state": "New-York"
+    },
+    "KOLE": {
+        "lat": 42.24119949,
+        "long": -78.37139893,
+        "name": "Cattaraugus County-Olean ",
+        "state": "New-York"
+    },
+    "KPBG": {
+        "lat": 44.6509017944,
+        "long": -73.4681015015,
+        "name": "Plattsburgh International ",
+        "state": "New-York"
+    },
+    "KPEO": {
+        "lat": 42.6371002197,
+        "long": -77.0529022217,
+        "name": "Penn Yan ",
+        "state": "New-York"
+    },
+    "KPOU": {
+        "lat": 41.6265983582,
+        "long": -73.8842010498,
+        "name": "Dutchess County ",
+        "state": "New-York"
+    },
+    "KPTD": {
+        "lat": 44.67670059,
+        "long": -74.9484024,
+        "name": "Potsdam Municipal-Damon field",
+        "state": "New-York"
+    },
+    "KRME": {
+        "lat": 43.23379898,
+        "long": -75.40699768,
+        "name": "Griffiss International ",
+        "state": "New-York"
+    },
+    "KROC": {
+        "lat": 43.1189002991,
+        "long": -77.6724014282,
+        "name": "Greater Rochester International ",
+        "state": "New-York"
+    },
+    "KSCH": {
+        "lat": 42.8525009155,
+        "long": -73.9289016724,
+        "name": "Schenectady County ",
+        "state": "New-York"
+    },
+    "KSDC": {
+        "lat": 43.23469925,
+        "long": -77.1210022,
+        "name": "Williamson Sodus ",
+        "state": "New-York"
+    },
+    "KSLK": {
+        "lat": 44.3852996826,
+        "long": -74.206199646,
+        "name": "Adirondack Regional ",
+        "state": "New-York"
+    },
+    "KSWF": {
+        "lat": 41.5041007996,
+        "long": -74.1047973633,
+        "name": "Stewart International ",
+        "state": "New-York"
+    },
+    "KSYR": {
+        "lat": 43.1111984253,
+        "long": -76.106300354,
+        "name": "Syracuse Hancock International ",
+        "state": "New-York"
+    },
+    "KVGC": {
+        "lat": 42.84379959,
+        "long": -75.56140137,
+        "name": "Hamilton Municipal ",
+        "state": "New-York"
+    },
+    "NK01": {
+        "lat": 43.9995002747,
+        "long": -75.6048965454,
+        "name": "Countryman's Landing Strip",
+        "state": "New-York"
+    },
+    "NK04": {
+        "lat": 43.2500991821,
+        "long": -75.9996032715,
+        "name": "Shepard ",
+        "state": "New-York"
+    },
+    "NK05": {
+        "lat": 42.354801178,
+        "long": -76.5160980225,
+        "name": "Tom N' Jerry ",
+        "state": "New-York"
+    },
+    "NK06": {
+        "lat": 42.0961990356,
+        "long": -73.8554000854,
+        "name": "S.O.P. ",
+        "state": "New-York"
+    },
+    "NK07": {
+        "lat": 41.3278999329,
+        "long": -74.4098968506,
+        "name": "Big Island ",
+        "state": "New-York"
+    },
+    "NK08": {
+        "lat": 41.8317985535,
+        "long": -74.1298980713,
+        "name": "Sheeley's Farm ",
+        "state": "New-York"
+    },
+    "NK09": {
+        "lat": 42.4056015015,
+        "long": -76.8205032349,
+        "name": "Eagle Ridge ",
+        "state": "New-York"
+    },
+    "NK12": {
+        "lat": 42.7695007324,
+        "long": -78.5469970703,
+        "name": "Donnelly's ",
+        "state": "New-York"
+    },
+    "NK16": {
+        "lat": 44.3680992126,
+        "long": -75.4023971558,
+        "name": "Hendricks Field",
+        "state": "New-York"
+    },
+    "NK17": {
+        "lat": 43.209361,
+        "long": -73.581711,
+        "name": "August Field",
+        "state": "New-York"
+    },
+    "NK19": {
+        "lat": 43.0611991882,
+        "long": -78.6613998413,
+        "name": "Potoczak ",
+        "state": "New-York"
+    },
+    "NK24": {
+        "lat": 42.3473014832,
+        "long": -76.8787994385,
+        "name": "Tilden ",
+        "state": "New-York"
+    },
+    "NK25": {
+        "lat": 43.2159004211,
+        "long": -78.8084030151,
+        "name": "Cambria ",
+        "state": "New-York"
+    },
+    "NK26": {
+        "lat": 43.725183,
+        "long": -74.976217,
+        "name": "Old Forge ",
+        "state": "New-York"
+    },
+    "NK27": {
+        "lat": 42.4889984131,
+        "long": -78.634803772,
+        "name": "Hedge Hop Field",
+        "state": "New-York"
+    },
+    "NK31": {
+        "lat": 43.2695007324,
+        "long": -78.1453018188,
+        "name": "Dawn Patrol Aviation ",
+        "state": "New-York"
+    },
+    "NK43": {
+        "lat": 42.7583999634,
+        "long": -73.9245986938,
+        "name": "Jerry Phibbs ",
+        "state": "New-York"
+    },
+    "NK47": {
+        "lat": 42.0416984558,
+        "long": -76.8330001831,
+        "name": "Dalrymples ",
+        "state": "New-York"
+    },
+    "NK52": {
+        "lat": 42.0850982666,
+        "long": -76.9213027954,
+        "name": "Connelly Field",
+        "state": "New-York"
+    },
+    "NK53": {
+        "lat": 42.2056007385,
+        "long": -76.7705001831,
+        "name": "Dodge/Coppola/Wheeler ",
+        "state": "New-York"
+    },
+    "NK54": {
+        "lat": 42.176700592,
+        "long": -76.6410980225,
+        "name": "Matejka Field",
+        "state": "New-York"
+    },
+    "NK68": {
+        "lat": 42.0500984192,
+        "long": -75.3010025024,
+        "name": "White Birch Field",
+        "state": "New-York"
+    },
+    "NK71": {
+        "lat": 43.0111999512,
+        "long": -76.3497009277,
+        "name": "Marcellus ",
+        "state": "New-York"
+    },
+    "NK72": {
+        "lat": 42.3762016296,
+        "long": -76.5324020386,
+        "name": "James Henion Private Field",
+        "state": "New-York"
+    },
+    "NK74": {
+        "lat": 42.7444992065,
+        "long": -76.6635971069,
+        "name": "Match Mate ",
+        "state": "New-York"
+    },
+    "NK76": {
+        "lat": 42.8824996948,
+        "long": -77.0516967773,
+        "name": "Grammar ",
+        "state": "New-York"
+    },
+    "NK79": {
+        "lat": 41.4183998108,
+        "long": -74.5324020386,
+        "name": "Lewis Landing ",
+        "state": "New-York"
+    },
+    "NK81": {
+        "lat": 42.6333999634,
+        "long": -78.3553009033,
+        "name": "Roberts Roost ",
+        "state": "New-York"
+    },
+    "NK82": {
+        "lat": 43.3158988953,
+        "long": -76.0149002075,
+        "name": "Engineers ",
+        "state": "New-York"
+    },
+    "NK83": {
+        "lat": 42.7100982666,
+        "long": -74.2237014771,
+        "name": "Nettie's Place ",
+        "state": "New-York"
+    },
+    "NK87": {
+        "lat": 43.0666999817,
+        "long": -78.5997009277,
+        "name": "Merkle ",
+        "state": "New-York"
+    },
+    "NK89": {
+        "lat": 42.2916984558,
+        "long": -77.0579986572,
+        "name": "Ultralight Flight Farm Ultralightport",
+        "state": "New-York"
+    },
+    "NK91": {
+        "lat": 42.8162002563,
+        "long": -74.6246032715,
+        "name": "Boyle's Landing ",
+        "state": "New-York"
+    },
+    "NY00": {
+        "lat": 42.5666999817,
+        "long": -78.556098938,
+        "name": "Basher Field",
+        "state": "New-York"
+    },
+    "NY01": {
+        "lat": 43.2209014893,
+        "long": -78.3150024414,
+        "name": "Knowlesville ",
+        "state": "New-York"
+    },
+    "NY02": {
+        "lat": 42.4873008728,
+        "long": -74.7801971436,
+        "name": "Mountain Top ",
+        "state": "New-York"
+    },
+    "NY03": {
+        "lat": 41.8750991821,
+        "long": -74.9802017212,
+        "name": "Skytop ",
+        "state": "New-York"
+    },
+    "NY04": {
+        "lat": 42.5856018066,
+        "long": -78.3491973877,
+        "name": "East Arcade ",
+        "state": "New-York"
+    },
+    "NY05": {
+        "lat": 42.78150177,
+        "long": -74.3256988525,
+        "name": "Hogan ",
+        "state": "New-York"
+    },
+    "NY06": {
+        "lat": 43.2963981628,
+        "long": -78.2138977051,
+        "name": "Gaines Valley Aviation ",
+        "state": "New-York"
+    },
+    "NY07": {
+        "lat": 44.5457992554,
+        "long": -75.1611022949,
+        "name": "Hurlbut Field",
+        "state": "New-York"
+    },
+    "NY09": {
+        "lat": 41.5611991882,
+        "long": -74.0162963867,
+        "name": "Middle Hope ",
+        "state": "New-York"
+    },
+    "NY10": {
+        "lat": 43.8426017761,
+        "long": -75.4307022095,
+        "name": "Duflo ",
+        "state": "New-York"
+    },
+    "NY11": {
+        "lat": 43.0353012085,
+        "long": -77.3079986572,
+        "name": "Lakestone Farm ",
+        "state": "New-York"
+    },
+    "NY13": {
+        "lat": 43.0917015076,
+        "long": -76.9905014038,
+        "name": "D'Amico ",
+        "state": "New-York"
+    },
+    "NY15": {
+        "lat": 42.826499939,
+        "long": -77.7144012451,
+        "name": "Lakeville ",
+        "state": "New-York"
+    },
+    "NY16": {
+        "lat": 43.098400116,
+        "long": -77.1819000244,
+        "name": "Oak Ridge ",
+        "state": "New-York"
+    },
+    "NY17": {
+        "lat": 44.6091995239,
+        "long": -73.8579025269,
+        "name": "Adirondack Airpark Estates ",
+        "state": "New-York"
+    },
+    "NY18": {
+        "lat": 42.4486999512,
+        "long": -76.616897583,
+        "name": "Neno International ",
+        "state": "New-York"
+    },
+    "NY19": {
+        "lat": 43.0439987183,
+        "long": -76.4618988037,
+        "name": "Walls ",
+        "state": "New-York"
+    },
+    "NY20": {
+        "lat": 42.9584007263,
+        "long": -74.6788024902,
+        "name": "Nellis Field",
+        "state": "New-York"
+    },
+    "NY23": {
+        "lat": 42.9875984192,
+        "long": -74.9664993286,
+        "name": "Mohawk Aviation Center ",
+        "state": "New-York"
+    },
+    "NY24": {
+        "lat": 43.1277999878,
+        "long": -78.9700012207,
+        "name": "Taylor Johnson ",
+        "state": "New-York"
+    },
+    "NY25": {
+        "lat": 42.4500999451,
+        "long": -75.0162963867,
+        "name": "F&F Airpark ",
+        "state": "New-York"
+    },
+    "NY26": {
+        "lat": 42.9833984375,
+        "long": -74.899597168,
+        "name": "Sky-Ranch ",
+        "state": "New-York"
+    },
+    "NY27": {
+        "lat": 42.3708992004,
+        "long": -79.0094985962,
+        "name": "South Dayton ",
+        "state": "New-York"
+    },
+    "NY28": {
+        "lat": 43.0708999634,
+        "long": -76.4079971313,
+        "name": "Anthonson ",
+        "state": "New-York"
+    },
+    "NY29": {
+        "lat": 42.4519996643,
+        "long": -76.9115982056,
+        "name": "Schuyler ",
+        "state": "New-York"
+    },
+    "NY31": {
+        "lat": 43.2237014771,
+        "long": -76.3687973022,
+        "name": "Rabbit Lane ",
+        "state": "New-York"
+    },
+    "NY32": {
+        "lat": 42.9020004272,
+        "long": -77.5477981567,
+        "name": "Fort Hill ",
+        "state": "New-York"
+    },
+    "NY33": {
+        "lat": 42.5223007202,
+        "long": -74.0287017822,
+        "name": "Westerlo ",
+        "state": "New-York"
+    },
+    "NY34": {
+        "lat": 42.1622009277,
+        "long": -77.4274978638,
+        "name": "Randall's Roost ",
+        "state": "New-York"
+    },
+    "NY35": {
+        "lat": 41.7500991821,
+        "long": -74.1163024902,
+        "name": "Stanton ",
+        "state": "New-York"
+    },
+    "NY37": {
+        "lat": 43.0092010498,
+        "long": -74.0912017822,
+        "name": "Galway ",
+        "state": "New-York"
+    },
+    "NY38": {
+        "lat": 42.853099823,
+        "long": -77.1247024536,
+        "name": "Mc Bride's ",
+        "state": "New-York"
+    },
+    "NY40": {
+        "lat": 42.6105995178,
+        "long": -78.5955963135,
+        "name": "Gentzke Aeronautical Park ",
+        "state": "New-York"
+    },
+    "NY42": {
+        "lat": 43.2201004028,
+        "long": -76.6899032593,
+        "name": "Paradise ",
+        "state": "New-York"
+    },
+    "NY48": {
+        "lat": 42.3381004333,
+        "long": -74.7490005493,
+        "name": "Grace's Landing ",
+        "state": "New-York"
+    },
+    "NY49": {
+        "lat": 42.9928016663,
+        "long": -78.9863967896,
+        "name": "Mesmer ",
+        "state": "New-York"
+    },
+    "NY50": {
+        "lat": 42.9916992188,
+        "long": -74.136100769,
+        "name": "Johnson ",
+        "state": "New-York"
+    },
+    "NY51": {
+        "lat": 42.870098114,
+        "long": -74.4992980957,
+        "name": "Russell ",
+        "state": "New-York"
+    },
+    "NY53": {
+        "lat": 42.7389984131,
+        "long": -75.300201416,
+        "name": "Tri County Airways ",
+        "state": "New-York"
+    },
+    "NY55": {
+        "lat": 42.4472999573,
+        "long": -76.5969009399,
+        "name": "Grund Field",
+        "state": "New-York"
+    },
+    "NY57": {
+        "lat": 43.3600997925,
+        "long": -75.1846008301,
+        "name": "Remsen City ",
+        "state": "New-York"
+    },
+    "NY58": {
+        "lat": 42.9566993713,
+        "long": -74.0814971924,
+        "name": "Snow Field",
+        "state": "New-York"
+    },
+    "NY59": {
+        "lat": 43.387298584,
+        "long": -75.4862976074,
+        "name": "Valenty Mierek ",
+        "state": "New-York"
+    },
+    "NY60": {
+        "lat": 44.7625007629,
+        "long": -73.5593032837,
+        "name": "Vasile Field",
+        "state": "New-York"
+    },
+    "NY62": {
+        "lat": 43.1458015442,
+        "long": -75.5419006348,
+        "name": "Curtis ",
+        "state": "New-York"
+    },
+    "NY63": {
+        "lat": 43.0532989502,
+        "long": -73.478302002,
+        "name": "Archdale Meadows ",
+        "state": "New-York"
+    },
+    "NY64": {
+        "lat": 43.1029014587,
+        "long": -74.1550979614,
+        "name": "The Pines ",
+        "state": "New-York"
+    },
+    "NY65": {
+        "lat": 43.137298584,
+        "long": -74.1162033081,
+        "name": "Circle K Ranch ",
+        "state": "New-York"
+    },
+    "NY66": {
+        "lat": 43.1333999634,
+        "long": -74.1162033081,
+        "name": "Lewis Field",
+        "state": "New-York"
+    },
+    "NY67": {
+        "lat": 42.9930992126,
+        "long": -75.9116973877,
+        "name": "Carter Flight Park Ultralightport",
+        "state": "New-York"
+    },
+    "NY68": {
+        "lat": 42.8611984253,
+        "long": -74.9453964233,
+        "name": "Richfield ",
+        "state": "New-York"
+    },
+    "NY69": {
+        "lat": 44.120098114,
+        "long": -76.3013000488,
+        "name": "John Gonzales Field",
+        "state": "New-York"
+    },
+    "NY70": {
+        "lat": 42.648889,
+        "long": -77.920278,
+        "name": "Scott'S Sky Ranch ",
+        "state": "New-York"
+    },
+    "NY71": {
+        "lat": 42.9756011963,
+        "long": -74.7298965454,
+        "name": "O'Riley ",
+        "state": "New-York"
+    },
+    "NY72": {
+        "lat": 43.0722999573,
+        "long": -75.9384994507,
+        "name": "Poolsbrook Aerodrome",
+        "state": "New-York"
+    },
+    "NY73": {
+        "lat": 42.3180999756,
+        "long": -75.5990982056,
+        "name": "Miller Field",
+        "state": "New-York"
+    },
+    "NY74": {
+        "lat": 42.3236999512,
+        "long": -73.8731994629,
+        "name": "Deer Run ",
+        "state": "New-York"
+    },
+    "NY76": {
+        "lat": 42.3156661987,
+        "long": -78.8953323364,
+        "name": "Neverland ",
+        "state": "New-York"
+    },
+    "NY77": {
+        "lat": 42.7181015015,
+        "long": -74.1634979248,
+        "name": "Wandervogel Gliderport",
+        "state": "New-York"
+    },
+    "NY78": {
+        "lat": 42.0583992004,
+        "long": -75.020401001,
+        "name": "Downsville ",
+        "state": "New-York"
+    },
+    "NY79": {
+        "lat": 42.596698761,
+        "long": -78.3403015137,
+        "name": "Keysa ",
+        "state": "New-York"
+    },
+    "NY81": {
+        "lat": 42.6111984253,
+        "long": -74.0647964478,
+        "name": "Heldeberg Airstrip",
+        "state": "New-York"
+    },
+    "NY82": {
+        "lat": 42.5806007385,
+        "long": -73.6162033081,
+        "name": "Alexander Farm ",
+        "state": "New-York"
+    },
+    "NY84": {
+        "lat": 44.2792015076,
+        "long": -73.3787002563,
+        "name": "Richter Aero ",
+        "state": "New-York"
+    },
+    "NY85": {
+        "lat": 43.2495002747,
+        "long": -75.3137969971,
+        "name": "Hickory Hollow ",
+        "state": "New-York"
+    },
+    "NY86": {
+        "lat": 42.5125999451,
+        "long": -74.1148986816,
+        "name": "Waxwing ",
+        "state": "New-York"
+    },
+    "NY87": {
+        "lat": 42.962600708,
+        "long": -74.2537002563,
+        "name": "Amsterdam Airfield",
+        "state": "New-York"
+    },
+    "NY88": {
+        "lat": 42.8833999634,
+        "long": -74.6912994385,
+        "name": "Hickory Acres ",
+        "state": "New-York"
+    },
+    "NY89": {
+        "lat": 42.0801010132,
+        "long": -79.3914031982,
+        "name": "Fairbank Farms ",
+        "state": "New-York"
+    },
+    "NY91": {
+        "lat": 42.9940261841,
+        "long": -75.7027740479,
+        "name": "Cloverdale Farm ",
+        "state": "New-York"
+    },
+    "NY92": {
+        "lat": 42.7358016968,
+        "long": -76.4858016968,
+        "name": "Owasco ",
+        "state": "New-York"
+    },
+    "NY94": {
+        "lat": 41.9715004,
+        "long": -73.86289978,
+        "name": "Old Rhinebeck ",
+        "state": "New-York"
+    },
+    "NY96": {
+        "lat": 43.426700592,
+        "long": -76.1938018799,
+        "name": "Mexico Airdrome ",
+        "state": "New-York"
+    },
+    "NY97": {
+        "lat": 44.6666984558,
+        "long": -73.5662002563,
+        "name": "Northway ",
+        "state": "New-York"
+    },
+    "PA17": {
+        "lat": 42.0037002563,
+        "long": -77.0999984741,
+        "name": "Canaan's Field",
+        "state": "New-York"
+    }
+}

@@ -1,0 +1,1226 @@
+{
+    "02CD": {
+        "lat": 34.1296005249,
+        "long": -90.5240020752,
+        "name": "Shannon Field",
+        "state": "Mississippi"
+    },
+    "02MS": {
+        "lat": 34.1001014709,
+        "long": -90.8468017578,
+        "name": "Watts Field",
+        "state": "Mississippi"
+    },
+    "04MS": {
+        "lat": 32.9396018982,
+        "long": -90.8373031616,
+        "name": "Nick's Flying Service Inc ",
+        "state": "Mississippi"
+    },
+    "08MS": {
+        "lat": 34.66220093,
+        "long": -89.86830139,
+        "name": "Williams Field",
+        "state": "Mississippi"
+    },
+    "0MS0": {
+        "lat": 32.4749984741,
+        "long": -88.6166992188,
+        "name": "Topton Air Estates ",
+        "state": "Mississippi"
+    },
+    "0MS1": {
+        "lat": 31.4251995087,
+        "long": -90.9029006958,
+        "name": "Franklin Field",
+        "state": "Mississippi"
+    },
+    "0MS2": {
+        "lat": 31.5417995453,
+        "long": -89.3917007446,
+        "name": "Morgan Field",
+        "state": "Mississippi"
+    },
+    "0MS5": {
+        "lat": 33.3917999268,
+        "long": -90.9168014526,
+        "name": "Lewis Air Service ",
+        "state": "Mississippi"
+    },
+    "0MS7": {
+        "lat": 34.3426017761,
+        "long": -89.1430969238,
+        "name": "Hale Field",
+        "state": "Mississippi"
+    },
+    "0MS8": {
+        "lat": 33.6992988586,
+        "long": -91.1651000977,
+        "name": "Catfish Point ",
+        "state": "Mississippi"
+    },
+    "0MS9": {
+        "lat": 33.8007011414,
+        "long": -89.0272979736,
+        "name": "Shenandoah Valley Farms ",
+        "state": "Mississippi"
+    },
+    "12MS": {
+        "lat": 31.0930995941,
+        "long": -91.3190002441,
+        "name": "Green Acres ",
+        "state": "Mississippi"
+    },
+    "13MS": {
+        "lat": 30.6333007813,
+        "long": -89.6639022827,
+        "name": "Greener Pastures Airpark",
+        "state": "Mississippi"
+    },
+    "14MS": {
+        "lat": 32.3452987671,
+        "long": -89.0342025757,
+        "name": "Rose Field",
+        "state": "Mississippi"
+    },
+    "1MS0": {
+        "lat": 33.5998001099,
+        "long": -90.7811965942,
+        "name": "Tapley ",
+        "state": "Mississippi"
+    },
+    "1MS2": {
+        "lat": 32.9417991638,
+        "long": -89.9306030273,
+        "name": "Peterson ",
+        "state": "Mississippi"
+    },
+    "1MS6": {
+        "lat": 34.7972984314,
+        "long": -89.9131011963,
+        "name": "Eagles Ridge ",
+        "state": "Mississippi"
+    },
+    "1MS8": {
+        "lat": 32.9401016235,
+        "long": -88.5792007446,
+        "name": "Columbus Air Force Base Aux Field Airfield",
+        "state": "Mississippi"
+    },
+    "1MS9": {
+        "lat": 31.011800766,
+        "long": -90.9682006836,
+        "name": "Piker-Too ",
+        "state": "Mississippi"
+    },
+    "22MS": {
+        "lat": 30.840278,
+        "long": -88.574722,
+        "name": "Sky Landings ",
+        "state": "Mississippi"
+    },
+    "2MS7": {
+        "lat": 32.0584983826,
+        "long": -89.8167037964,
+        "name": "Puff Airpark",
+        "state": "Mississippi"
+    },
+    "2MS8": {
+        "lat": 33.7896995544,
+        "long": -89.8743972778,
+        "name": "Spencer Field",
+        "state": "Mississippi"
+    },
+    "2MS9": {
+        "lat": 33.8300018311,
+        "long": -88.9227981567,
+        "name": "Kimmel Land & Cattle ",
+        "state": "Mississippi"
+    },
+    "32MS": {
+        "lat": 31.194167,
+        "long": -89.9525,
+        "name": "Browns Landing",
+        "state": "Mississippi"
+    },
+    "34MS": {
+        "lat": 30.4738006592,
+        "long": -88.6961975098,
+        "name": "Colle Field",
+        "state": "Mississippi"
+    },
+    "3MS1": {
+        "lat": 34.8058013916,
+        "long": -89.460899353,
+        "name": "Thomas Field",
+        "state": "Mississippi"
+    },
+    "3MS2": {
+        "lat": 31.0790996552,
+        "long": -90.0283966064,
+        "name": "Thunderfoot Ranch ",
+        "state": "Mississippi"
+    },
+    "3MS3": {
+        "lat": 32.5158996582,
+        "long": -90.3511962891,
+        "name": "Root Hog ",
+        "state": "Mississippi"
+    },
+    "3MS5": {
+        "lat": 33.3017997742,
+        "long": -89.8143005371,
+        "name": "Mitchell's ",
+        "state": "Mississippi"
+    },
+    "3MS6": {
+        "lat": 32.5542984009,
+        "long": -90.3029022217,
+        "name": "E E Lane ",
+        "state": "Mississippi"
+    },
+    "3MS8": {
+        "lat": 32.942199707,
+        "long": -88.3635025024,
+        "name": "Fairview Farms ",
+        "state": "Mississippi"
+    },
+    "3MS9": {
+        "lat": 32.5806999207,
+        "long": -89.1361999512,
+        "name": "Union Municipal ",
+        "state": "Mississippi"
+    },
+    "46MS": {
+        "lat": 31.2950000763,
+        "long": -89.9850006104,
+        "name": "Circle Bar Ranch ",
+        "state": "Mississippi"
+    },
+    "4MS0": {
+        "lat": 32.3003997803,
+        "long": -89.8590011597,
+        "name": "Payne ",
+        "state": "Mississippi"
+    },
+    "4MS2": {
+        "lat": 32.2121009827,
+        "long": -90.450302124,
+        "name": "Dogwood Acres ",
+        "state": "Mississippi"
+    },
+    "4MS3": {
+        "lat": 34.9560012817,
+        "long": -89.3939971924,
+        "name": "Jeter Field",
+        "state": "Mississippi"
+    },
+    "4MS4": {
+        "lat": 34.157699585,
+        "long": -88.7602005005,
+        "name": "Spearman Field",
+        "state": "Mississippi"
+    },
+    "4MS5": {
+        "lat": 31.0013999939,
+        "long": -88.516998291,
+        "name": "Bird Nest ",
+        "state": "Mississippi"
+    },
+    "4MS7": {
+        "lat": 34.7484016418,
+        "long": -90.2807998657,
+        "name": "Arnold Field",
+        "state": "Mississippi"
+    },
+    "4MS9": {
+        "lat": 32.6660003662,
+        "long": -90.0675964355,
+        "name": "Cochran ",
+        "state": "Mississippi"
+    },
+    "5MS1": {
+        "lat": 32.9542999268,
+        "long": -90.8459014893,
+        "name": "Rollang Field",
+        "state": "Mississippi"
+    },
+    "5MS2": {
+        "lat": 30.2507991791,
+        "long": -89.4509963989,
+        "name": "Turkey Bayou Airpark",
+        "state": "Mississippi"
+    },
+    "5MS3": {
+        "lat": 31.1749992371,
+        "long": -89.8031005859,
+        "name": "Porter ",
+        "state": "Mississippi"
+    },
+    "5MS4": {
+        "lat": 32.5926017761,
+        "long": -89.925201416,
+        "name": "Walnut Creek ",
+        "state": "Mississippi"
+    },
+    "5MS5": {
+        "lat": 30.5452003479,
+        "long": -89.4627990723,
+        "name": "Mint Julep Airpark",
+        "state": "Mississippi"
+    },
+    "5MS6": {
+        "lat": 32.4230003357,
+        "long": -90.0076980591,
+        "name": "Dee's Strip",
+        "state": "Mississippi"
+    },
+    "5MS8": {
+        "lat": 33.875,
+        "long": -88.723333,
+        "name": "Ball ",
+        "state": "Mississippi"
+    },
+    "6MS1": {
+        "lat": 32.4557991028,
+        "long": -89.9697036743,
+        "name": "Woodbridge ",
+        "state": "Mississippi"
+    },
+    "6MS2": {
+        "lat": 31.983861,
+        "long": -90.335361,
+        "name": "Wells Farm ",
+        "state": "Mississippi"
+    },
+    "7MS1": {
+        "lat": 32.6068992615,
+        "long": -89.9832992554,
+        "name": "Eagle Crest Estates ",
+        "state": "Mississippi"
+    },
+    "93MS": {
+        "lat": 33.9715995789,
+        "long": -90.7682037354,
+        "name": "Shelby Air Service ",
+        "state": "Mississippi"
+    },
+    "K00M": {
+        "lat": 31.9538002014,
+        "long": -89.2344970703,
+        "name": "Thigpen Field",
+        "state": "Mississippi"
+    },
+    "K01M": {
+        "lat": 34.4916992188,
+        "long": -88.2011032104,
+        "name": "Tishomingo County ",
+        "state": "Mississippi"
+    },
+    "K04M": {
+        "lat": 33.9300994873,
+        "long": -89.3427963257,
+        "name": "Calhoun County ",
+        "state": "Mississippi"
+    },
+    "K06M": {
+        "lat": 33.5345993042,
+        "long": -89.3125991821,
+        "name": "Eupora ",
+        "state": "Mississippi"
+    },
+    "K08M": {
+        "lat": 32.7611999512,
+        "long": -89.5300979614,
+        "name": "Carthage-Leake County ",
+        "state": "Mississippi"
+    },
+    "K09M": {
+        "lat": 33.9915008545,
+        "long": -90.0781021118,
+        "name": "Charleston Municipal ",
+        "state": "Mississippi"
+    },
+    "K0R0": {
+        "lat": 31.297000885,
+        "long": -89.8127975464,
+        "name": "Columbia-Marion County ",
+        "state": "Mississippi"
+    },
+    "K14M": {
+        "lat": 33.182598114,
+        "long": -90.8307037354,
+        "name": "Hollandale Municipal ",
+        "state": "Mississippi"
+    },
+    "K15M": {
+        "lat": 34.7723007202,
+        "long": -88.1659011841,
+        "name": "Iuka ",
+        "state": "Mississippi"
+    },
+    "K17M": {
+        "lat": 31.8626995087,
+        "long": -89.8005981445,
+        "name": "Magee Municipal ",
+        "state": "Mississippi"
+    },
+    "K19M": {
+        "lat": 33.1254997253,
+        "long": -90.0255966187,
+        "name": "C. A. Moore ",
+        "state": "Mississippi"
+    },
+    "K1M2": {
+        "lat": 33.145198822,
+        "long": -90.515296936,
+        "name": "Belzoni Municipal ",
+        "state": "Mississippi"
+    },
+    "K1R7": {
+        "lat": 31.6058006287,
+        "long": -90.4093017578,
+        "name": "Brookhaven-Lincoln County ",
+        "state": "Mississippi"
+    },
+    "K20M": {
+        "lat": 33.1334991455,
+        "long": -88.5355987549,
+        "name": "Macon Municipal ",
+        "state": "Mississippi"
+    },
+    "K22M": {
+        "lat": 34.2759017944,
+        "long": -89.0383987427,
+        "name": "Pontotoc County ",
+        "state": "Mississippi"
+    },
+    "K25M": {
+        "lat": 34.7223014832,
+        "long": -89.0150985718,
+        "name": "Ripley ",
+        "state": "Mississippi"
+    },
+    "K2M4": {
+        "lat": 32.3535003662,
+        "long": -89.4887008667,
+        "name": "G. V. Montgomery ",
+        "state": "Mississippi"
+    },
+    "K2R0": {
+        "lat": 31.6459999084,
+        "long": -88.634803772,
+        "name": "Waynesboro Municipal ",
+        "state": "Mississippi"
+    },
+    "K33M": {
+        "lat": 34.1668014526,
+        "long": -89.6862030029,
+        "name": "Water Valley Municipal ",
+        "state": "Mississippi"
+    },
+    "K4R1": {
+        "lat": 31.015499115,
+        "long": -89.4825973511,
+        "name": "I H Bass Jr Memorial ",
+        "state": "Mississippi"
+    },
+    "K5A4": {
+        "lat": 34.0158004761,
+        "long": -88.7261962891,
+        "name": "Okolona Municipal-Richard Stovall Field",
+        "state": "Mississippi"
+    },
+    "K5A6": {
+        "lat": 33.4654007,
+        "long": -89.72920227,
+        "name": "Winona Montgomery County ",
+        "state": "Mississippi"
+    },
+    "K5R2": {
+        "lat": 30.3894004822,
+        "long": -88.75340271,
+        "name": "Ocean Springs ",
+        "state": "Mississippi"
+    },
+    "K66Y": {
+        "lat": 30.3630008698,
+        "long": -89.3877029419,
+        "name": "Diamondhead ",
+        "state": "Mississippi"
+    },
+    "K87I": {
+        "lat": 32.8832015991,
+        "long": -90.4636001587,
+        "name": "Yazoo County ",
+        "state": "Mississippi"
+    },
+    "K8M1": {
+        "lat": 34.590801239,
+        "long": -88.6475982666,
+        "name": "Booneville Baldwyn ",
+        "state": "Mississippi"
+    },
+    "K9M4": {
+        "lat": 33.3035011292,
+        "long": -89.2284011841,
+        "name": "Ackerman Choctaw County ",
+        "state": "Mississippi"
+    },
+    "KBIX": {
+        "lat": 30.4104003906,
+        "long": -88.9244003296,
+        "name": "Keesler Air Force Base",
+        "state": "Mississippi"
+    },
+    "KC71": {
+        "lat": 31.295999527,
+        "long": -91.0529022217,
+        "name": "Crosby Municipal ",
+        "state": "Mississippi"
+    },
+    "KCBM": {
+        "lat": 33.6437988281,
+        "long": -88.4438018799,
+        "name": "Columbus Air Force Base",
+        "state": "Mississippi"
+    },
+    "KCKM": {
+        "lat": 34.2997016907,
+        "long": -90.512298584,
+        "name": "Fletcher Field",
+        "state": "Mississippi"
+    },
+    "KCRX": {
+        "lat": 34.9150009155,
+        "long": -88.6035003662,
+        "name": "Roscoe Turner ",
+        "state": "Mississippi"
+    },
+    "KGLH": {
+        "lat": 33.4828987122,
+        "long": -90.9856033325,
+        "name": "Mid Delta Regional ",
+        "state": "Mississippi"
+    },
+    "KGNF": {
+        "lat": 33.8325004578,
+        "long": -89.7982025146,
+        "name": "Grenada Municipal ",
+        "state": "Mississippi"
+    },
+    "KGPT": {
+        "lat": 30.4073009491,
+        "long": -89.070098877,
+        "name": "Gulfport Biloxi International ",
+        "state": "Mississippi"
+    },
+    "KGTR": {
+        "lat": 33.4502983093,
+        "long": -88.5914001465,
+        "name": "Golden Triangle Regional ",
+        "state": "Mississippi"
+    },
+    "KGWO": {
+        "lat": 33.4943008423,
+        "long": -90.0847015381,
+        "name": "Greenwood Leflore ",
+        "state": "Mississippi"
+    },
+    "KHBG": {
+        "lat": 31.26479912,
+        "long": -89.25279999,
+        "name": "Hattiesburg Bobby L Chain Municipal ",
+        "state": "Mississippi"
+    },
+    "KHEZ": {
+        "lat": 31.6137008667,
+        "long": -91.2973022461,
+        "name": "Hardy Anders Field Natchez Adams County ",
+        "state": "Mississippi"
+    },
+    "KHKS": {
+        "lat": 32.33449936,
+        "long": -90.22219849,
+        "name": "Hawkins Field",
+        "state": "Mississippi"
+    },
+    "KHSA": {
+        "lat": 30.3677997589,
+        "long": -89.4545974731,
+        "name": "Stennis International ",
+        "state": "Mississippi"
+    },
+    "KIDL": {
+        "lat": 33.4856987,
+        "long": -90.6789016724,
+        "name": "Indianola Municipal ",
+        "state": "Mississippi"
+    },
+    "KJAN": {
+        "lat": 32.3111991882,
+        "long": -90.0758972168,
+        "name": "Jackson Evers International ",
+        "state": "Mississippi"
+    },
+    "KJVW": {
+        "lat": 32.30329895,
+        "long": -90.40850067,
+        "name": "John Bell Williams ",
+        "state": "Mississippi"
+    },
+    "KLMS": {
+        "lat": 33.1461982727,
+        "long": -89.0625,
+        "name": "Louisville Winston County ",
+        "state": "Mississippi"
+    },
+    "KLUL": {
+        "lat": 31.6725997925,
+        "long": -89.172203064,
+        "name": "Hesler Noble Field",
+        "state": "Mississippi"
+    },
+    "KM11": {
+        "lat": 31.9029006958,
+        "long": -90.3686981201,
+        "name": "Copiah County ",
+        "state": "Mississippi"
+    },
+    "KM13": {
+        "lat": 30.7859992981,
+        "long": -89.5045013428,
+        "name": "Poplarville Pearl River County ",
+        "state": "Mississippi"
+    },
+    "KM23": {
+        "lat": 32.3117980957,
+        "long": -89.1359024048,
+        "name": "James H Easom Field",
+        "state": "Mississippi"
+    },
+    "KM24": {
+        "lat": 30.8432006836,
+        "long": -89.1597976685,
+        "name": "Dean Griffin Memorial ",
+        "state": "Mississippi"
+    },
+    "KM37": {
+        "lat": 33.7764015198,
+        "long": -90.5250015259,
+        "name": "Ruleville Drew ",
+        "state": "Mississippi"
+    },
+    "KM40": {
+        "lat": 33.8736991882,
+        "long": -88.4897003174,
+        "name": "Monroe County ",
+        "state": "Mississippi"
+    },
+    "KM41": {
+        "lat": 34.8042984009,
+        "long": -89.5211029053,
+        "name": "Holly Springs Marshall County ",
+        "state": "Mississippi"
+    },
+    "KM43": {
+        "lat": 31.59539986,
+        "long": -89.90619659,
+        "name": "Prentiss Jefferson Davis County ",
+        "state": "Mississippi"
+    },
+    "KM44": {
+        "lat": 33.8917999268,
+        "long": -89.0236968994,
+        "name": "Houston Municipal ",
+        "state": "Mississippi"
+    },
+    "KM51": {
+        "lat": 33.4975013733,
+        "long": -88.6812973022,
+        "name": "Oktibbeha ",
+        "state": "Mississippi"
+    },
+    "KM59": {
+        "lat": 31.3173999786,
+        "long": -88.9349975586,
+        "name": "Richton Perry County ",
+        "state": "Mississippi"
+    },
+    "KM72": {
+        "lat": 34.5486984253,
+        "long": -89.0242004395,
+        "name": "New Albany Union County ",
+        "state": "Mississippi"
+    },
+    "KM83": {
+        "lat": 33.5839996338,
+        "long": -88.6667022705,
+        "name": "Mccharen Field",
+        "state": "Mississippi"
+    },
+    "KMBO": {
+        "lat": 32.4387016296,
+        "long": -90.1031036377,
+        "name": "Bruce Campbell Field",
+        "state": "Mississippi"
+    },
+    "KMCB": {
+        "lat": 31.17849922,
+        "long": -90.47190094,
+        "name": "Mc Comb/Pike County/John E Lewis Field",
+        "state": "Mississippi"
+    },
+    "KMEI": {
+        "lat": 32.3325996399,
+        "long": -88.7518997192,
+        "name": "Key Field",
+        "state": "Mississippi"
+    },
+    "KMJD": {
+        "lat": 30.48749924,
+        "long": -89.65119934,
+        "name": "Picayune Municipal ",
+        "state": "Mississippi"
+    },
+    "KMMS": {
+        "lat": 34.2314987183,
+        "long": -90.2895965576,
+        "name": "Selfs ",
+        "state": "Mississippi"
+    },
+    "KMPE": {
+        "lat": 32.79940033,
+        "long": -89.12599945,
+        "name": "Philadelphia Municipal ",
+        "state": "Mississippi"
+    },
+    "KNJW": {
+        "lat": 32.7961998,
+        "long": -88.83170319,
+        "name": "Joe Williams Nolf ",
+        "state": "Mississippi"
+    },
+    "KNMM": {
+        "lat": 32.55210114,
+        "long": -88.55560303,
+        "name": "Meridian Naval Air Station",
+        "state": "Mississippi"
+    },
+    "KOLV": {
+        "lat": 34.9786987305,
+        "long": -89.7869033813,
+        "name": "Olive Branch ",
+        "state": "Mississippi"
+    },
+    "KOSX": {
+        "lat": 33.0903015137,
+        "long": -89.5419998169,
+        "name": "Kosciusko Attala County ",
+        "state": "Mississippi"
+    },
+    "KPIB": {
+        "lat": 31.4671001434,
+        "long": -89.337097168,
+        "name": "Hattiesburg Laurel Regional ",
+        "state": "Mississippi"
+    },
+    "KPMU": {
+        "lat": 34.36349869,
+        "long": -89.89260101,
+        "name": "Panola County ",
+        "state": "Mississippi"
+    },
+    "KPQL": {
+        "lat": 30.4627990723,
+        "long": -88.5291976929,
+        "name": "Trent Lott International ",
+        "state": "Mississippi"
+    },
+    "KRNV": {
+        "lat": 33.76110077,
+        "long": -90.75789642,
+        "name": "Cleveland Municipal ",
+        "state": "Mississippi"
+    },
+    "KSLJ": {
+        "lat": 31.17379951,
+        "long": -89.19120026,
+        "name": "Hagler Army Air Field",
+        "state": "Mississippi"
+    },
+    "KSTF": {
+        "lat": 33.43310165,
+        "long": -88.84860229,
+        "name": "George M Bryan ",
+        "state": "Mississippi"
+    },
+    "KT36": {
+        "lat": 31.1459999084,
+        "long": -90.1680984497,
+        "name": "Paul Pittman Memorial ",
+        "state": "Mississippi"
+    },
+    "KTUP": {
+        "lat": 34.2681007385,
+        "long": -88.7698974609,
+        "name": "Tupelo Regional ",
+        "state": "Mississippi"
+    },
+    "KUBS": {
+        "lat": 33.4654006958,
+        "long": -88.3803024292,
+        "name": "Columbus Lowndes County ",
+        "state": "Mississippi"
+    },
+    "KUOX": {
+        "lat": 34.3843002319,
+        "long": -89.5367965698,
+        "name": "University Oxford ",
+        "state": "Mississippi"
+    },
+    "KUTA": {
+        "lat": 34.6809997559,
+        "long": -90.3467025757,
+        "name": "Tunica Municipal ",
+        "state": "Mississippi"
+    },
+    "KVKS": {
+        "lat": 32.2392997742,
+        "long": -90.9283981323,
+        "name": "Vicksburg Municipal ",
+        "state": "Mississippi"
+    },
+    "MS00": {
+        "lat": 34.988899231,
+        "long": -89.9152984619,
+        "name": "Double O Ranch ",
+        "state": "Mississippi"
+    },
+    "MS03": {
+        "lat": 33.9243011475,
+        "long": -90.7870025635,
+        "name": "Christmas ",
+        "state": "Mississippi"
+    },
+    "MS04": {
+        "lat": 33.6225013733,
+        "long": -88.2861022949,
+        "name": "Hopper Field",
+        "state": "Mississippi"
+    },
+    "MS06": {
+        "lat": 32.7904014587,
+        "long": -90.1380996704,
+        "name": "Linwood ",
+        "state": "Mississippi"
+    },
+    "MS08": {
+        "lat": 32.4738998413,
+        "long": -89.8517990112,
+        "name": "Harrell Field",
+        "state": "Mississippi"
+    },
+    "MS09": {
+        "lat": 34.1017990112,
+        "long": -90.7012023926,
+        "name": "Glidwell Flying Service ",
+        "state": "Mississippi"
+    },
+    "MS10": {
+        "lat": 33.1585006714,
+        "long": -90.5043029785,
+        "name": "Turner Field",
+        "state": "Mississippi"
+    },
+    "MS11": {
+        "lat": 32.2084999084,
+        "long": -89.9417037964,
+        "name": "Mohr Farm ",
+        "state": "Mississippi"
+    },
+    "MS13": {
+        "lat": 33.0756988525,
+        "long": -90.9533996582,
+        "name": "Eifling Farms ",
+        "state": "Mississippi"
+    },
+    "MS14": {
+        "lat": 34.813889,
+        "long": -89.199617,
+        "name": "John Farese Airpark",
+        "state": "Mississippi"
+    },
+    "MS15": {
+        "lat": 33.331199646,
+        "long": -91.0370025635,
+        "name": "Country Club ",
+        "state": "Mississippi"
+    },
+    "MS18": {
+        "lat": 34.7700004578,
+        "long": -88.6055984497,
+        "name": "Dilworth ",
+        "state": "Mississippi"
+    },
+    "MS20": {
+        "lat": 33.354801178,
+        "long": -90.5790023804,
+        "name": "Newell Flying Service ",
+        "state": "Mississippi"
+    },
+    "MS21": {
+        "lat": 33.3320999146,
+        "long": -90.5820007324,
+        "name": "Lester Field",
+        "state": "Mississippi"
+    },
+    "MS22": {
+        "lat": 33.4889984131,
+        "long": -90.3570022583,
+        "name": "Murphey Flying Service ",
+        "state": "Mississippi"
+    },
+    "MS23": {
+        "lat": 31.0067005157,
+        "long": -91.2031021118,
+        "name": "Forest Home ",
+        "state": "Mississippi"
+    },
+    "MS24": {
+        "lat": 32.246799469,
+        "long": -90.5822982788,
+        "name": "Joe Sanford Field",
+        "state": "Mississippi"
+    },
+    "MS25": {
+        "lat": 33.3987007141,
+        "long": -90.9675979614,
+        "name": "Huntley ",
+        "state": "Mississippi"
+    },
+    "MS26": {
+        "lat": 30.8022003174,
+        "long": -88.5475006104,
+        "name": "Cedar Creek Air Ranch ",
+        "state": "Mississippi"
+    },
+    "MS27": {
+        "lat": 30.7068996429,
+        "long": -88.4291992188,
+        "name": "Aerohead ",
+        "state": "Mississippi"
+    },
+    "MS28": {
+        "lat": 31.8687992096,
+        "long": -91.134803772,
+        "name": "Alcorn State University ",
+        "state": "Mississippi"
+    },
+    "MS29": {
+        "lat": 32.601944,
+        "long": -89.863889,
+        "name": "Pace Airstrip",
+        "state": "Mississippi"
+    },
+    "MS30": {
+        "lat": 33.3056983948,
+        "long": -90.9904022217,
+        "name": "Abide Airpark",
+        "state": "Mississippi"
+    },
+    "MS33": {
+        "lat": 33.4168014526,
+        "long": -90.4944992065,
+        "name": "Hobbs ",
+        "state": "Mississippi"
+    },
+    "MS34": {
+        "lat": 32.6982002258,
+        "long": -90.9465026855,
+        "name": "Reality Plantation ",
+        "state": "Mississippi"
+    },
+    "MS35": {
+        "lat": 32.9812011719,
+        "long": -90.9654006958,
+        "name": "Wade ",
+        "state": "Mississippi"
+    },
+    "MS36": {
+        "lat": 32.6500015259,
+        "long": -89.9708023071,
+        "name": "Supplejack ",
+        "state": "Mississippi"
+    },
+    "MS37": {
+        "lat": 33.6534004211,
+        "long": -90.9889984131,
+        "name": "West Bolivar Flying Service ",
+        "state": "Mississippi"
+    },
+    "MS38": {
+        "lat": 33.8722991943,
+        "long": -90.2834014893,
+        "name": "Flautt ",
+        "state": "Mississippi"
+    },
+    "MS39": {
+        "lat": 31.8209991455,
+        "long": -89.4583969116,
+        "name": "Smith County ",
+        "state": "Mississippi"
+    },
+    "MS40": {
+        "lat": 33.2256011963,
+        "long": -90.2466964722,
+        "name": "Southland Flying Service Inc. ",
+        "state": "Mississippi"
+    },
+    "MS41": {
+        "lat": 34.0000991821,
+        "long": -90.4251022339,
+        "name": "Flying Y Service ",
+        "state": "Mississippi"
+    },
+    "MS42": {
+        "lat": 32.520401001,
+        "long": -90.3236999512,
+        "name": "Mississippi Petrified Forest ",
+        "state": "Mississippi"
+    },
+    "MS43": {
+        "lat": 32.5517997742,
+        "long": -90.8303985596,
+        "name": "Whitaker ",
+        "state": "Mississippi"
+    },
+    "MS45": {
+        "lat": 32.1562995911,
+        "long": -91.1246032715,
+        "name": "Dale Landing Strip",
+        "state": "Mississippi"
+    },
+    "MS48": {
+        "lat": 30.6219005585,
+        "long": -89.6965026855,
+        "name": "George Ford ",
+        "state": "Mississippi"
+    },
+    "MS49": {
+        "lat": 31.1630001068,
+        "long": -90.8172988892,
+        "name": "Mc Gehee Air Park",
+        "state": "Mississippi"
+    },
+    "MS50": {
+        "lat": 31.5792999268,
+        "long": -90.1111984253,
+        "name": "Clay ",
+        "state": "Mississippi"
+    },
+    "MS52": {
+        "lat": 33.9236984253,
+        "long": -88.7305984497,
+        "name": "Leuth Flying Service ",
+        "state": "Mississippi"
+    },
+    "MS53": {
+        "lat": 30.9146003723,
+        "long": -89.4445037842,
+        "name": "Wolf River Ranch ",
+        "state": "Mississippi"
+    },
+    "MS54": {
+        "lat": 34.0097999573,
+        "long": -89.7361984253,
+        "name": "Burney Farms ",
+        "state": "Mississippi"
+    },
+    "MS55": {
+        "lat": 34.8109016418,
+        "long": -89.5783996582,
+        "name": "Schloss Adlers ",
+        "state": "Mississippi"
+    },
+    "MS57": {
+        "lat": 31.220199585,
+        "long": -91.2404022217,
+        "name": "Fred Netterville Lbr Co Wilkinson Commnty ",
+        "state": "Mississippi"
+    },
+    "MS58": {
+        "lat": 32.1654014587,
+        "long": -90.0439987183,
+        "name": "Tullos Field",
+        "state": "Mississippi"
+    },
+    "MS59": {
+        "lat": 31.9969997406,
+        "long": -90.8422012329,
+        "name": "Valley of The Moon ",
+        "state": "Mississippi"
+    },
+    "MS61": {
+        "lat": 30.6252002716,
+        "long": -89.7333984375,
+        "name": "Simpson Field",
+        "state": "Mississippi"
+    },
+    "MS62": {
+        "lat": 34.9911994934,
+        "long": -89.8155975342,
+        "name": "Davis Field",
+        "state": "Mississippi"
+    },
+    "MS63": {
+        "lat": 34.0542984009,
+        "long": -88.3712005615,
+        "name": "Rye Field",
+        "state": "Mississippi"
+    },
+    "MS64": {
+        "lat": 34.848342,
+        "long": -89.877992,
+        "name": "Vaiden Landing ",
+        "state": "Mississippi"
+    },
+    "MS65": {
+        "lat": 34.9500999451,
+        "long": -90.2001037598,
+        "name": "Delta Flying Service Inc ",
+        "state": "Mississippi"
+    },
+    "MS66": {
+        "lat": 30.4459991455,
+        "long": -88.9259033203,
+        "name": "Kennedy Executive ",
+        "state": "Mississippi"
+    },
+    "MS68": {
+        "lat": 34.326499939,
+        "long": -88.5725021362,
+        "name": "Lamb's Field",
+        "state": "Mississippi"
+    },
+    "MS69": {
+        "lat": 32.1087989807,
+        "long": -90.0465011597,
+        "name": "Falcon Field",
+        "state": "Mississippi"
+    },
+    "MS70": {
+        "lat": 32.7354011536,
+        "long": -88.9259033203,
+        "name": "Mc Lain  -Calico ",
+        "state": "Mississippi"
+    },
+    "MS71": {
+        "lat": 32.495098114,
+        "long": -90.2929000854,
+        "name": "Slobovia Outernational ",
+        "state": "Mississippi"
+    },
+    "MS74": {
+        "lat": 30.5363006592,
+        "long": -89.5111999512,
+        "name": "Lee's Field",
+        "state": "Mississippi"
+    },
+    "MS75": {
+        "lat": 33.013999939,
+        "long": -91.0390014648,
+        "name": "Lewis ",
+        "state": "Mississippi"
+    },
+    "MS76": {
+        "lat": 33.7728996277,
+        "long": -89.2425994873,
+        "name": "Wade Field",
+        "state": "Mississippi"
+    },
+    "MS77": {
+        "lat": 33.3317985535,
+        "long": -90.6432037354,
+        "name": "Lang Flying Service ",
+        "state": "Mississippi"
+    },
+    "MS80": {
+        "lat": 33.9945983887,
+        "long": -89.3125991821,
+        "name": "Hasting Airpark",
+        "state": "Mississippi"
+    },
+    "MS82": {
+        "lat": 30.5104999542,
+        "long": -89.1473007202,
+        "name": "Shade Tree Field",
+        "state": "Mississippi"
+    },
+    "MS83": {
+        "lat": 32.0295982361,
+        "long": -90.1015014648,
+        "name": "Alton Field",
+        "state": "Mississippi"
+    },
+    "MS85": {
+        "lat": 33.5979003906,
+        "long": -90.8029022217,
+        "name": "Skelton ",
+        "state": "Mississippi"
+    },
+    "MS86": {
+        "lat": 33.0500984192,
+        "long": -91.0833969116,
+        "name": "Oglesby Farms Inc. ",
+        "state": "Mississippi"
+    },
+    "MS88": {
+        "lat": 30.7773990631,
+        "long": -89.7250976563,
+        "name": "Oreck ",
+        "state": "Mississippi"
+    },
+    "MS90": {
+        "lat": 32.3156013489,
+        "long": -90.1436004639,
+        "name": "Flowood Industrial STOLport",
+        "state": "Mississippi"
+    },
+    "MS92": {
+        "lat": 32.9201011658,
+        "long": -91.0257034302,
+        "name": "Heigle Field",
+        "state": "Mississippi"
+    },
+    "MS93": {
+        "lat": 30.726600647,
+        "long": -89.7316970825,
+        "name": "Hooper Skylark Field",
+        "state": "Mississippi"
+    },
+    "MS95": {
+        "lat": 33.8473014832,
+        "long": -90.7250976563,
+        "name": "Dorr Field",
+        "state": "Mississippi"
+    },
+    "MS96": {
+        "lat": 32.7667999268,
+        "long": -89.1000976563,
+        "name": "Barrett Field",
+        "state": "Mississippi"
+    },
+    "MS98": {
+        "lat": 30.7668991089,
+        "long": -88.5999984741,
+        "name": "Farmco Field",
+        "state": "Mississippi"
+    },
+    "MS99": {
+        "lat": 30.2558002472,
+        "long": -89.5417022705,
+        "name": "Rocking T Ranch ",
+        "state": "Mississippi"
+    }
+}

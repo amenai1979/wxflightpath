@@ -1,0 +1,112 @@
+{
+  "LZDB": {
+    "lat": 48.9968986511,
+    "long": 18.192199707,
+    "name": "Dubnica Glider "
+  },
+  "LZHL": {
+    "lat": 48.8103,
+    "long": 17.1338,
+    "name": "Holic "
+  },
+  "LZIB": {
+    "lat": 48.1702003479,
+    "long": 17.2126998901,
+    "name": "M. R. Stefanik "
+  },
+  "LZKC": {
+    "lat": 48.937,
+    "long": 21.9952,
+    "name": "Kamenica nad Cirochou "
+  },
+  "LZKS": {
+    "lat": 48.2010993958,
+    "long": 17.4719009399,
+    "name": "Kralova pri Senci "
+  },
+  "LZKZ": {
+    "lat": 48.6631011963,
+    "long": 21.2411003113,
+    "name": "Kosice "
+  },
+  "LZLU": {
+    "lat": 48.3394012451,
+    "long": 19.7357997894,
+    "name": "Lucenec "
+  },
+  "LZMA": {
+    "lat": 49.0652999878,
+    "long": 18.950799942,
+    "name": "Martin Glider "
+  },
+  "LZMC": {
+    "lat": 48.4020004272,
+    "long": 17.1184005737,
+    "name": "Malacky Air Base"
+  },
+  "LZNI": {
+    "lat": 48.2793998718,
+    "long": 18.1327991486,
+    "name": "Nitra Glider "
+  },
+  "LZPE": {
+    "lat": 48.7661018372,
+    "long": 18.5867004395,
+    "name": "Prievidza Glider "
+  },
+  "LZPP": {
+    "lat": 48.6251983643,
+    "long": 17.8283996582,
+    "name": "Piestany "
+  },
+  "LZPT": {
+    "lat": 48.6192016602,
+    "long": 18.32970047,
+    "name": "Male Bielice Glider "
+  },
+  "LZPW": {
+    "lat": 49.0297012329,
+    "long": 21.3155994415,
+    "name": "Presov Air Base"
+  },
+  "LZSE": {
+    "lat": 48.6568984985,
+    "long": 17.3321990967,
+    "name": "Senica "
+  },
+  "LZSK": {
+    "lat": 49.3339004517,
+    "long": 21.5702991486,
+    "name": "Svidnik "
+  },
+  "LZSL": {
+    "lat": 48.6377983093,
+    "long": 19.1340999603,
+    "name": "Sliac "
+  },
+  "LZSV": {
+    "lat": 48.9407997131,
+    "long": 20.5338993073,
+    "name": "Spisska Nova Glider "
+  },
+  "LZTN": {
+    "lat": 48.8650016785,
+    "long": 17.9923000336,
+    "name": "Trencin Air Base"
+  },
+  "LZTR": {
+    "lat": 48.4557991028,
+    "long": 17.5263996124,
+    "name": "Letisko "
+  },
+  "LZTT": {
+    "lat": 49.073600769,
+    "long": 20.2411003113,
+    "name": "Poprad-Tatry "
+  },
+  "LZZI": {
+    "lat": 49.2314987183,
+    "long": 18.6135005951,
+    "name": "Zilina "
+  }
+}

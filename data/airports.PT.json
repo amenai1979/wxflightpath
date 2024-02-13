@@ -1,0 +1,242 @@
+{
+  "LP77": {
+    "lat": 39.4024009705,
+    "long": -8.289059639,
+    "name": "Santa Margarida "
+  },
+  "LPAR": {
+    "lat": 38.8833007813,
+    "long": -9.0300998688,
+    "name": "Alverca "
+  },
+  "LPAV": {
+    "lat": 40.6542015076,
+    "long": -8.7435503006,
+    "name": "Aveiro "
+  },
+  "LPAZ": {
+    "lat": 36.9714012146,
+    "long": -25.1706008911,
+    "name": "Santa Maria "
+  },
+  "LPBG": {
+    "lat": 41.85779953,
+    "long": -6.7071299553,
+    "name": "Braganca "
+  },
+  "LPBJ": {
+    "lat": 38.0788993835,
+    "long": -7.9324002266,
+    "name": "Beja International "
+  },
+  "LPBR": {
+    "lat": 41.5871009827,
+    "long": -8.445139885,
+    "name": "Braga Municipal Aerodrome"
+  },
+  "LPCH": {
+    "lat": 41.7223243713,
+    "long": -7.4631500244,
+    "name": "Chaves "
+  },
+  "LPCO": {
+    "lat": 40.1571998596,
+    "long": -8.470000267,
+    "name": "Coimbra "
+  },
+  "LPCR": {
+    "lat": 39.6715011597,
+    "long": -31.1135997772,
+    "name": "Corvo "
+  },
+  "LPCS": {
+    "lat": 38.7249984741,
+    "long": -9.3552303314,
+    "name": "Cascais "
+  },
+  "LPCV": {
+    "lat": 40.2648010254,
+    "long": -7.4799599648,
+    "name": "Covilha "
+  },
+  "LPEV": {
+    "lat": 38.5335006714,
+    "long": -7.8896398544,
+    "name": "Evora "
+  },
+  "LPFL": {
+    "lat": 39.4552993774,
+    "long": -31.1313991547,
+    "name": "Flores "
+  },
+  "LPFR": {
+    "lat": 37.0144004822,
+    "long": -7.9659099579,
+    "name": "Faro "
+  },
+  "LPGR": {
+    "lat": 39.0922012329,
+    "long": -28.029800415,
+    "name": "Graciosa "
+  },
+  "LPHR": {
+    "lat": 38.5199012756,
+    "long": -28.7159004211,
+    "name": "Horta "
+  },
+  "LPIN": {
+    "lat": 40.9742012024,
+    "long": -8.6444396973,
+    "name": "Espinho "
+  },
+  "LPJF": {
+    "lat": 39.7785987854,
+    "long": -8.8197202682,
+    "name": "Leiria Gandara "
+  },
+  "LPJO": {
+    "lat": 41.3252983093,
+    "long": -7.4461097717,
+    "name": "Alijo "
+  },
+  "LPLA": {
+    "lat": 38.7617988586,
+    "long": -27.0907993317,
+    "name": "Lajes Field"
+  },
+  "LPLZ": {
+    "lat": 40.1342010498,
+    "long": -8.2325000763,
+    "name": "Lousa Private "
+  },
+  "LPMA": {
+    "lat": 32.6978988647,
+    "long": -16.7744998932,
+    "name": "Madeira "
+  },
+  "LPMF": {
+    "lat": 39.976398468,
+    "long": -6.9066238403,
+    "name": "Monfortinho "
+  },
+  "LPMI": {
+    "lat": 41.468006134,
+    "long": -7.2262573242,
+    "name": "Mirandela "
+  },
+  "LPMO": {
+    "lat": 38.9958000183,
+    "long": -8.14083004,
+    "name": "Montargil "
+  },
+  "LPMR": {
+    "lat": 39.831199646,
+    "long": -8.887260437,
+    "name": "Monte Real "
+  },
+  "LPMT": {
+    "lat": 38.7038993835,
+    "long": -9.0359201431,
+    "name": "Montijo "
+  },
+  "LPMU": {
+    "lat": 41.396900177,
+    "long": -6.6816701889,
+    "name": "Mogadouro "
+  },
+  "LPOT": {
+    "lat": 39.0875015259,
+    "long": -8.9627799988,
+    "name": "Ota "
+  },
+  "LPOV": {
+    "lat": 40.9159011841,
+    "long": -8.6459197998,
+    "name": "Ovar "
+  },
+  "LPPD": {
+    "lat": 37.7411994934,
+    "long": -25.6979007721,
+    "name": "Joao Paulo II "
+  },
+  "LPPI": {
+    "lat": 38.5542984009,
+    "long": -28.4412994385,
+    "name": "Pico "
+  },
+  "LPPM": {
+    "lat": 37.1492996216,
+    "long": -8.5839595795,
+    "name": "Portimao "
+  },
+  "LPPR": {
+    "lat": 41.2481002808,
+    "long": -8.6813898087,
+    "name": "Francisco de Sa Carneiro "
+  },
+  "LPPS": {
+    "lat": 33.0733985901,
+    "long": -16.3500003815,
+    "name": "Porto Santo "
+  },
+  "LPPT": {
+    "lat": 38.7812995911,
+    "long": -9.1359195709,
+    "name": "Lisbon Portela "
+  },
+  "LPPV": {
+    "lat": 37.1925010681,
+    "long": -7.4730601311,
+    "name": "Praia Verde 23M "
+  },
+  "LPSC": {
+    "lat": 39.1246986389,
+    "long": -9.3811302185,
+    "name": "Santa Cruz "
+  },
+  "LPSI": {
+    "lat": 37.9416923523,
+    "long": -8.8173007965,
+    "name": "Sines "
+  },
+  "LPSJ": {
+    "lat": 38.6655006409,
+    "long": -28.1758003235,
+    "name": "Sao Jorge "
+  },
+  "LPSO": {
+    "lat": 39.208089,
+    "long": -8.057534,
+    "name": "Ponte De Sor"
+  },
+  "LPSR": {
+    "lat": 39.2094993591,
+    "long": -8.6883001328,
+    "name": "Santarem "
+  },
+  "LPST": {
+    "lat": 38.8311004639,
+    "long": -9.3395500183,
+    "name": "Sintra "
+  },
+  "LPTN": {
+    "lat": 39.4751014709,
+    "long": -8.3645801544,
+    "name": "Tancos "
+  },
+  "LPVL": {
+    "lat": 41.2772903442,
+    "long": -8.5162067413,
+    "name": "Vilar Da Luz "
+  },
+  "LPVR": {
+    "lat": 41.2742996216,
+    "long": -7.7204699516,
+    "name": "Vila Real "
+  },
+  "LPVZ": {
+    "lat": 40.7254981995,
+    "long": -7.8889899254,
+    "name": "Viseu "
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "GUCY": {
+    "lat": 9.57689,
+    "long": -13.612,
+    "name": "Conakry "
+  },
+  "GUFA": {
+    "lat": 10.3506002426,
+    "long": -13.5691995621,
+    "name": "Fria "
+  },
+  "GUFH": {
+    "lat": 10.0354995728,
+    "long": -10.7698001862,
+    "name": "Faranah "
+  },
+  "GUGO": {
+    "lat": 9.2460298538,
+    "long": -9.2951402664,
+    "name": "Gbenko "
+  },
+  "GUKR": {
+    "lat": 10.6510000229,
+    "long": -14.5335998535,
+    "name": "Kawass "
+  },
+  "GUKU": {
+    "lat": 9.1605596542,
+    "long": -10.1244001389,
+    "name": "Kissidougou "
+  },
+  "GULB": {
+    "lat": 11.3261003494,
+    "long": -12.2868003845,
+    "name": "Labe "
+  },
+  "GUMA": {
+    "lat": 8.5329999924,
+    "long": -9.4670000076,
+    "name": "Macenta "
+  },
+  "GUNZ": {
+    "lat": 7.8060193062,
+    "long": -8.7017974854,
+    "name": "Nzerekore "
+  },
+  "GUOK": {
+    "lat": 10.9658002853,
+    "long": -14.2811002731,
+    "name": "Boke "
+  },
+  "GUSA": {
+    "lat": 11.1169996262,
+    "long": -13.8330001831,
+    "name": "Sangaredi "
+  },
+  "GUSB": {
+    "lat": 12.5726995468,
+    "long": -13.358499527,
+    "name": "Sambailo "
+  },
+  "GUSI": {
+    "lat": 11.4329996109,
+    "long": -9.1669998169,
+    "name": "Siguiri "
+  },
+  "GUXN": {
+    "lat": 10.3940000534,
+    "long": -9.3037996292,
+    "name": "Kankan "
+  }
+}

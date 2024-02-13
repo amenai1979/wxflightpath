@@ -1,0 +1,77 @@
+{
+  "EEEI": {
+    "lat": 59.2602996826,
+    "long": 24.2084999084,
+    "name": "Amari Air Base"
+  },
+  "EEJI": {
+    "lat": 59.3330001831,
+    "long": 27.3829994202,
+    "name": "Johvi Airfield"
+  },
+  "EEKA": {
+    "lat": 58.9907989502,
+    "long": 22.8306999207,
+    "name": "Kardla "
+  },
+  "EEKE": {
+    "lat": 58.2299003601,
+    "long": 22.5095005035,
+    "name": "Kuressaare "
+  },
+  "EEKU": {
+    "lat": 58.1483001709,
+    "long": 24.0025005341,
+    "name": "Kihnu Airfield"
+  },
+  "EENA": {
+    "lat": 59.3885993958,
+    "long": 28.1135997772,
+    "name": "Narva Estonia "
+  },
+  "EENI": {
+    "lat": 58.8650016785,
+    "long": 25.7299995422,
+    "name": "Nurmsi "
+  },
+  "EEPU": {
+    "lat": 58.4189987183,
+    "long": 24.4727993011,
+    "name": "Parnu "
+  },
+  "EERA": {
+    "lat": 58.9864006042,
+    "long": 24.7243995667,
+    "name": "Rapla Airfield"
+  },
+  "EERI": {
+    "lat": 57.9399986267,
+    "long": 26.9790000916,
+    "name": "Ridali Airfield"
+  },
+  "EERU": {
+    "lat": 57.7839012146,
+    "long": 23.2660999298,
+    "name": "Ruhnu Airfield"
+  },
+  "EETA": {
+    "lat": 59.2407989502,
+    "long": 25.9622001648,
+    "name": "Tapa Airfield"
+  },
+  "EETN": {
+    "lat": 59.4132995605,
+    "long": 24.8327999115,
+    "name": "Tallinn "
+  },
+  "EETU": {
+    "lat": 58.3074989319,
+    "long": 26.6903991699,
+    "name": "Tartu "
+  },
+  "EEVI": {
+    "lat": 58.3499984741,
+    "long": 25.4930992126,
+    "name": "Viljandi Airfield"
+  }
+}

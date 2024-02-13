@@ -1,0 +1,1010 @@
+{
+    "00NY": {
+        "lat": 42.900100708,
+        "long": -77.4997024536,
+        "name": "Weiss Airfield",
+        "state": "New York"
+    },
+    "03NY": {
+        "lat": 40.9584007263,
+        "long": -72.716796875,
+        "name": "Talmage Field",
+        "state": "New York"
+    },
+    "04NY": {
+        "lat": 42.262298584,
+        "long": -73.6961975098,
+        "name": "Klaverack ",
+        "state": "New York"
+    },
+    "06NY": {
+        "lat": 42.8428001404,
+        "long": -76.4452972412,
+        "name": "Murphy Field",
+        "state": "New York"
+    },
+    "06PA": {
+        "lat": 42.0083999634,
+        "long": -78.258102417,
+        "name": "Freefall Oz ",
+        "state": "New York"
+    },
+    "08NY": {
+        "lat": 41.3680992126,
+        "long": -74.5055999756,
+        "name": "Md1 ",
+        "state": "New York"
+    },
+    "0NK0": {
+        "lat": 42.3339996338,
+        "long": -78.7909011841,
+        "name": "Berdick Field",
+        "state": "New York"
+    },
+    "0NK1": {
+        "lat": 43.3616981506,
+        "long": -76.220199585,
+        "name": "Spring Brook ",
+        "state": "New York"
+    },
+    "0NK2": {
+        "lat": 42.9833984375,
+        "long": -74.0161972046,
+        "name": "Westwind Farm ",
+        "state": "New York"
+    },
+    "0NK3": {
+        "lat": 42.6958999634,
+        "long": -77.7921981812,
+        "name": "Seven Gullies ",
+        "state": "New York"
+    },
+    "0NK6": {
+        "lat": 42.4384002686,
+        "long": -76.0887985229,
+        "name": "Lapeer Flyer ",
+        "state": "New York"
+    },
+    "0NK8": {
+        "lat": 41.9208984375,
+        "long": -73.6704025269,
+        "name": "Rocky Reef Farm ",
+        "state": "New York"
+    },
+    "0NK9": {
+        "lat": 43.0102996826,
+        "long": -75.8268966675,
+        "name": "Lakeview ",
+        "state": "New York"
+    },
+    "0NY0": {
+        "lat": 43.7000999451,
+        "long": -73.9829025269,
+        "name": "Bennetts ",
+        "state": "New York"
+    },
+    "0NY1": {
+        "lat": 43.1391983032,
+        "long": -73.6531982422,
+        "name": "Russell Field",
+        "state": "New York"
+    },
+    "0NY3": {
+        "lat": 43.313999176,
+        "long": -74.9320983887,
+        "name": "Kermizian ",
+        "state": "New York"
+    },
+    "0NY7": {
+        "lat": 43.0376014709,
+        "long": -74.1843032837,
+        "name": "Murphys Landing Strip",
+        "state": "New York"
+    },
+    "0NY8": {
+        "lat": 42.9972991943,
+        "long": -74.2453994751,
+        "name": "Wenskoski Field",
+        "state": "New York"
+    },
+    "11NK": {
+        "lat": 42.913898468,
+        "long": -74.6117019653,
+        "name": "Hop House Airpark",
+        "state": "New York"
+    },
+    "11NY": {
+        "lat": 42.2089996338,
+        "long": -76.4496994019,
+        "name": "Saikkonen ",
+        "state": "New York"
+    },
+    "12NK": {
+        "lat": 44.1584014893,
+        "long": -73.4328994751,
+        "name": "Westport ",
+        "state": "New York"
+    },
+    "14NK": {
+        "lat": 43.3400001526,
+        "long": -73.4789962769,
+        "name": "Mountain View ",
+        "state": "New York"
+    },
+    "15NK": {
+        "lat": 42.5764007568,
+        "long": -78.5567016602,
+        "name": "Knox Landing ",
+        "state": "New York"
+    },
+    "17NK": {
+        "lat": 42.5395011902,
+        "long": -76.9483032227,
+        "name": "Re-Dun Field",
+        "state": "New York"
+    },
+    "18NY": {
+        "lat": 42.0164985657,
+        "long": -74.0490036011,
+        "name": "Strip in the Woods ",
+        "state": "New York"
+    },
+    "19NK": {
+        "lat": 43.2439002991,
+        "long": -76.1528015137,
+        "name": "Riveredge Airpark",
+        "state": "New York"
+    },
+    "19NY": {
+        "lat": 42.4062004089,
+        "long": -77.9608001709,
+        "name": "Four Seasons ",
+        "state": "New York"
+    },
+    "1NK0": {
+        "lat": 42.2972984314,
+        "long": -74.5482025146,
+        "name": "Roxbury Runway ",
+        "state": "New York"
+    },
+    "1NK5": {
+        "lat": 41.3614997864,
+        "long": -74.5242996216,
+        "name": "Westtown ",
+        "state": "New York"
+    },
+    "1NK6": {
+        "lat": 44.4236984253,
+        "long": -73.7496032715,
+        "name": "Catalano Airfield",
+        "state": "New York"
+    },
+    "1NK7": {
+        "lat": 43.4667015076,
+        "long": -75.2496032715,
+        "name": "Boonville Inc ",
+        "state": "New York"
+    },
+    "1NK8": {
+        "lat": 42.1916999817,
+        "long": -75.8413009644,
+        "name": "Chenango Bridge ",
+        "state": "New York"
+    },
+    "1NY2": {
+        "lat": 43.6166992188,
+        "long": -76.1626968384,
+        "name": "Kidder Field",
+        "state": "New York"
+    },
+    "1NY3": {
+        "lat": 43.5666999817,
+        "long": -76.0329971313,
+        "name": "Richland ",
+        "state": "New York"
+    },
+    "1NY4": {
+        "lat": 44.6175003052,
+        "long": -73.9110031128,
+        "name": "High Banks Farm Landing Area ",
+        "state": "New York"
+    },
+    "1NY5": {
+        "lat": 41.638999939,
+        "long": -73.7428970337,
+        "name": "Sherman Field",
+        "state": "New York"
+    },
+    "1NY7": {
+        "lat": 41.7084007263,
+        "long": -74.0617980957,
+        "name": "Minard Farms ",
+        "state": "New York"
+    },
+    "1NY8": {
+        "lat": 42.8000984192,
+        "long": -76.5830001831,
+        "name": "Killian Airfield",
+        "state": "New York"
+    },
+    "1NY9": {
+        "lat": 43.2658996582,
+        "long": -76.18800354,
+        "name": "Caughdenoy ",
+        "state": "New York"
+    },
+    "20NY": {
+        "lat": 43.0088996887,
+        "long": -78.0430984497,
+        "name": "Stafford ",
+        "state": "New York"
+    },
+    "21NK": {
+        "lat": 42.5527992249,
+        "long": -75.1911010742,
+        "name": "Don Kichote ",
+        "state": "New York"
+    },
+    "23NK": {
+        "lat": 43.1124992371,
+        "long": -77.3125,
+        "name": "Long Acre Farms ",
+        "state": "New York"
+    },
+    "23NY": {
+        "lat": 42.279800415,
+        "long": -77.3399963379,
+        "name": "Jolamtra Landing Area ",
+        "state": "New York"
+    },
+    "24NY": {
+        "lat": 43.0666999817,
+        "long": -77.9589004517,
+        "name": "Ely Air Park",
+        "state": "New York"
+    },
+    "25NK": {
+        "lat": 42.4361991882,
+        "long": -77.1322021484,
+        "name": "Loucks ",
+        "state": "New York"
+    },
+    "27NK": {
+        "lat": 43.113317,
+        "long": -75.044467,
+        "name": "Mohawk Air Park",
+        "state": "New York"
+    },
+    "28NK": {
+        "lat": 44.186944,
+        "long": -76.076389,
+        "name": "Ritchie Airfield",
+        "state": "New York"
+    },
+    "28NY": {
+        "lat": 42.308333,
+        "long": -79.225,
+        "name": "Spaudling Aerodrome",
+        "state": "New York"
+    },
+    "2NK1": {
+        "lat": 42.2961997986,
+        "long": -77.4654998779,
+        "name": "Gaskin's Hilltop ",
+        "state": "New York"
+    },
+    "2NK3": {
+        "lat": 41.1543006897,
+        "long": -72.2800979614,
+        "name": "Rose Field",
+        "state": "New York"
+    },
+    "2NK7": {
+        "lat": 42.1579017639,
+        "long": -75.1479034424,
+        "name": "Walton ",
+        "state": "New York"
+    },
+    "2NK9": {
+        "lat": 41.6571998596,
+        "long": -74.0772018433,
+        "name": "Old Orchard Airpark",
+        "state": "New York"
+    },
+    "2NY0": {
+        "lat": 42.2806015015,
+        "long": -73.9529037476,
+        "name": "Catskill Valley Airpark",
+        "state": "New York"
+    },
+    "2NY4": {
+        "lat": 43.0736999512,
+        "long": -78.0500030518,
+        "name": "Sackett Farms Airstrip",
+        "state": "New York"
+    },
+    "2NY7": {
+        "lat": 42.1214981079,
+        "long": -77.2114028931,
+        "name": "Towner Farm ",
+        "state": "New York"
+    },
+    "2NY9": {
+        "lat": 42.370098114,
+        "long": -76.7225036621,
+        "name": "Kayutah Lake ",
+        "state": "New York"
+    },
+    "30NY": {
+        "lat": 42.7500991821,
+        "long": -77.5580978394,
+        "name": "Coye Field",
+        "state": "New York"
+    },
+    "32NK": {
+        "lat": 42.7532997131,
+        "long": -74.3110961914,
+        "name": "Schoharie Creek ",
+        "state": "New York"
+    },
+    "33NY": {
+        "lat": 42.3995018005,
+        "long": -73.8662033081,
+        "name": "Wayne Delp ",
+        "state": "New York"
+    },
+    "34NY": {
+        "lat": 43.2901000977,
+        "long": -77.8273010254,
+        "name": "Hendershot ",
+        "state": "New York"
+    },
+    "35NY": {
+        "lat": 42.5125999451,
+        "long": -78.7352981567,
+        "name": "Ciszak ",
+        "state": "New York"
+    },
+    "36NY": {
+        "lat": 42.2359008789,
+        "long": -78.2117004395,
+        "name": "Dew Airpark",
+        "state": "New York"
+    },
+    "38NY": {
+        "lat": 42.5486984253,
+        "long": -76.9580001831,
+        "name": "Greenlawn Farm ",
+        "state": "New York"
+    },
+    "3NK0": {
+        "lat": 43.2030982971,
+        "long": -77.9024963379,
+        "name": "Mc Kinney ",
+        "state": "New York"
+    },
+    "3NK4": {
+        "lat": 42.0278015137,
+        "long": -79.1941986084,
+        "name": "Laska ",
+        "state": "New York"
+    },
+    "3NK5": {
+        "lat": 44.6166992188,
+        "long": -73.4653015137,
+        "name": "Secret Spot ",
+        "state": "New York"
+    },
+    "3NK6": {
+        "lat": 42.6370010376,
+        "long": -77.8839035034,
+        "name": "Tuscarora Plateau ",
+        "state": "New York"
+    },
+    "3NK8": {
+        "lat": 42.1405982971,
+        "long": -73.6119003296,
+        "name": "B Flat Farm ",
+        "state": "New York"
+    },
+    "3NY0": {
+        "lat": 42.8273010254,
+        "long": -74.4039993286,
+        "name": "The Ranch ",
+        "state": "New York"
+    },
+    "3NY3": {
+        "lat": 42.8597984314,
+        "long": -74.8243026733,
+        "name": "De Ronda ",
+        "state": "New York"
+    },
+    "3NY4": {
+        "lat": 42.922000885,
+        "long": -74.6268005371,
+        "name": "Di Stefano Airpark",
+        "state": "New York"
+    },
+    "3NY5": {
+        "lat": 42.0237007141,
+        "long": -75.9570999146,
+        "name": "Luke ",
+        "state": "New York"
+    },
+    "3NY6": {
+        "lat": 42.8412017822,
+        "long": -74.1787033081,
+        "name": "Six Ponds ",
+        "state": "New York"
+    },
+    "3NY7": {
+        "lat": 42.9832992554,
+        "long": -74.5167007446,
+        "name": "Hiserts Airpark Inc ",
+        "state": "New York"
+    },
+    "3NY9": {
+        "lat": 42.6643981934,
+        "long": -78.6731033325,
+        "name": "Hilltop ",
+        "state": "New York"
+    },
+    "41NK": {
+        "lat": 41.947778,
+        "long": -73.518055,
+        "name": "Winchell Mountain ",
+        "state": "New York"
+    },
+    "41NY": {
+        "lat": 44.3124008179,
+        "long": -73.3849029541,
+        "name": "Bonebender ",
+        "state": "New York"
+    },
+    "42NY": {
+        "lat": 42.6689987183,
+        "long": -76.0561981201,
+        "name": "Walter's Field",
+        "state": "New York"
+    },
+    "43NY": {
+        "lat": 42.7846984863,
+        "long": -74.8024978638,
+        "name": "Watercolor ",
+        "state": "New York"
+    },
+    "44NY": {
+        "lat": 42.934299469,
+        "long": -74.6523971558,
+        "name": "Tomcat ",
+        "state": "New York"
+    },
+    "46NY": {
+        "lat": 43.0187988281,
+        "long": -76.7610015869,
+        "name": "Savannah Agri-Air ",
+        "state": "New York"
+    },
+    "47NY": {
+        "lat": 42.0449981689,
+        "long": -77.3499984741,
+        "name": "Elk Creek ",
+        "state": "New York"
+    },
+    "49NY": {
+        "lat": 41.0667991638,
+        "long": -72.3495025635,
+        "name": "Westmoreland ",
+        "state": "New York"
+    },
+    "4NK1": {
+        "lat": 43.1447982788,
+        "long": -76.3113021851,
+        "name": "B-Ville Airpark",
+        "state": "New York"
+    },
+    "4NK2": {
+        "lat": 43.145233,
+        "long": -73.41965,
+        "name": "Tracy Field",
+        "state": "New York"
+    },
+    "4NK3": {
+        "lat": 42.6725006104,
+        "long": -78.9670028687,
+        "name": "Evans Airways ",
+        "state": "New York"
+    },
+    "4NK4": {
+        "lat": 42.8272018433,
+        "long": -76.0258026123,
+        "name": "Woodford Airfield",
+        "state": "New York"
+    },
+    "4NK5": {
+        "lat": 43.1012001038,
+        "long": -77.3677978516,
+        "name": "Harvs ",
+        "state": "New York"
+    },
+    "4NK6": {
+        "lat": 43.1610984802,
+        "long": -77.1774978638,
+        "name": "Ag-Alley ",
+        "state": "New York"
+    },
+    "4NK8": {
+        "lat": 43.0009002686,
+        "long": -74.1871032715,
+        "name": "Longwell ",
+        "state": "New York"
+    },
+    "4NY0": {
+        "lat": 44.6688995361,
+        "long": -73.5462036133,
+        "name": "Mountain View Airpark",
+        "state": "New York"
+    },
+    "4NY1": {
+        "lat": 41.3278999329,
+        "long": -74.3246002197,
+        "name": "Orange Poultry Farm ",
+        "state": "New York"
+    },
+    "4NY4": {
+        "lat": 42.5595016479,
+        "long": -73.772102356,
+        "name": "Cross' Farm ",
+        "state": "New York"
+    },
+    "4NY8": {
+        "lat": 42.1208992004,
+        "long": -76.9011001587,
+        "name": "Harris Hill Gliderport",
+        "state": "New York"
+    },
+    "50NY": {
+        "lat": 42.8144989014,
+        "long": -77.5733032227,
+        "name": "Old Fort Farm ",
+        "state": "New York"
+    },
+    "51NY": {
+        "lat": 43.1795005798,
+        "long": -78.0397033691,
+        "name": "Maxon Field",
+        "state": "New York"
+    },
+    "52NY": {
+        "lat": 42.9305992126,
+        "long": -77.644203186,
+        "name": "Bedson's Land Base ",
+        "state": "New York"
+    },
+    "53NY": {
+        "lat": 42.9584007263,
+        "long": -77.6157989502,
+        "name": "Smiths Land Base ",
+        "state": "New York"
+    },
+    "54NY": {
+        "lat": 42.3550987244,
+        "long": -78.0353012085,
+        "name": "Erb Acres ",
+        "state": "New York"
+    },
+    "55NY": {
+        "lat": 42.0820007324,
+        "long": -79.3123016357,
+        "name": "Ridgeview ",
+        "state": "New York"
+    },
+    "56NY": {
+        "lat": 43.3252983093,
+        "long": -78.049697876,
+        "name": "Maynard's ",
+        "state": "New York"
+    },
+    "59NY": {
+        "lat": 43.2305984497,
+        "long": -78.6900024414,
+        "name": "Bent-Wing ",
+        "state": "New York"
+    },
+    "5NK0": {
+        "lat": 44.0442008972,
+        "long": -76.1436004639,
+        "name": "Salubrious Point ",
+        "state": "New York"
+    },
+    "5NK1": {
+        "lat": 43.1111984253,
+        "long": -77.0539016724,
+        "name": "Toggenburg Farms ",
+        "state": "New York"
+    },
+    "5NK5": {
+        "lat": 43.4086990356,
+        "long": -76.4412994385,
+        "name": "Kingdom Field",
+        "state": "New York"
+    },
+    "5NK9": {
+        "lat": 42.7616996765,
+        "long": -78.4961013794,
+        "name": "Treichler Farm ",
+        "state": "New York"
+    },
+    "5NY1": {
+        "lat": 42.3997993469,
+        "long": -74.9063034058,
+        "name": "Tomahawk Hills ",
+        "state": "New York"
+    },
+    "5NY3": {
+        "lat": 42.4929008484,
+        "long": -76.3869018555,
+        "name": "Keech ",
+        "state": "New York"
+    },
+    "5NY4": {
+        "lat": 43.1576004028,
+        "long": -75.4307022095,
+        "name": "Stanwix Heights ",
+        "state": "New York"
+    },
+    "5NY5": {
+        "lat": 41.6668014526,
+        "long": -74.149597168,
+        "name": "Gardiner ",
+        "state": "New York"
+    },
+    "5NY7": {
+        "lat": 41.3278999329,
+        "long": -74.4098968506,
+        "name": "Rolling Hills ",
+        "state": "New York"
+    },
+    "61NK": {
+        "lat": 44.329856,
+        "long": -73.361793,
+        "name": "Sunset ",
+        "state": "New York"
+    },
+    "61NY": {
+        "lat": 43.1687011719,
+        "long": -78.7823028564,
+        "name": "Bassett Field",
+        "state": "New York"
+    },
+    "63NY": {
+        "lat": 43.2611999512,
+        "long": -78.9653015137,
+        "name": "Shear ",
+        "state": "New York"
+    },
+    "64NY": {
+        "lat": 42.3672981262,
+        "long": -76.931098938,
+        "name": "Hemlock Run ",
+        "state": "New York"
+    },
+    "65NY": {
+        "lat": 42.2839012146,
+        "long": -79.443901062,
+        "name": "Chautauqua Lake Airpark",
+        "state": "New York"
+    },
+    "66NY": {
+        "lat": 43.2028007507,
+        "long": -78.3538970947,
+        "name": "Maple Ridge ",
+        "state": "New York"
+    },
+    "67NY": {
+        "lat": 42.2930984497,
+        "long": -78.7900009155,
+        "name": "Ultralight Port Ultralightport",
+        "state": "New York"
+    },
+    "68NY": {
+        "lat": 42.7500991821,
+        "long": -77.7838973999,
+        "name": "Merrimac Farms ",
+        "state": "New York"
+    },
+    "6NK0": {
+        "lat": 42.6291999817,
+        "long": -74.8208007813,
+        "name": "Knapp ",
+        "state": "New York"
+    },
+    "6NK1": {
+        "lat": 42.756401062,
+        "long": -78.1755981445,
+        "name": "Casey's ",
+        "state": "New York"
+    },
+    "6NK2": {
+        "lat": 42.9505996704,
+        "long": -73.3347015381,
+        "name": "Meerwarth ",
+        "state": "New York"
+    },
+    "6NK4": {
+        "lat": 42.5978012085,
+        "long": -78.9689025879,
+        "name": "Ttt Air ",
+        "state": "New York"
+    },
+    "6NK8": {
+        "lat": 43.0097999573,
+        "long": -76.6405029297,
+        "name": "Flying K ",
+        "state": "New York"
+    },
+    "6NY1": {
+        "lat": 42.1128997803,
+        "long": -77.0894012451,
+        "name": "Old Port Royal ",
+        "state": "New York"
+    },
+    "6NY2": {
+        "lat": 42.2319984436,
+        "long": -76.8469009399,
+        "name": "Omni Airpark",
+        "state": "New York"
+    },
+    "6NY3": {
+        "lat": 42.6440010071,
+        "long": -76.7296981812,
+        "name": "Airy-Acres ",
+        "state": "New York"
+    },
+    "6NY4": {
+        "lat": 42.7004013062,
+        "long": -74.1550979614,
+        "name": "West Township ",
+        "state": "New York"
+    },
+    "6NY7": {
+        "lat": 41.865398407,
+        "long": -74.332901001,
+        "name": "Piolis Brookside ",
+        "state": "New York"
+    },
+    "73NY": {
+        "lat": 42.265767,
+        "long": -75.310033,
+        "name": "Olmstead Landing Strip",
+        "state": "New York"
+    },
+    "74NY": {
+        "lat": 43.0055999756,
+        "long": -77.2913970947,
+        "name": "New Salem Aerodrome",
+        "state": "New York"
+    },
+    "75NY": {
+        "lat": 42.1166992188,
+        "long": -78.3155975342,
+        "name": "Reiss Game Farm ",
+        "state": "New York"
+    },
+    "77NY": {
+        "lat": 43.0820007324,
+        "long": -78.779800415,
+        "name": "Pendleton Airpark",
+        "state": "New York"
+    },
+    "78NY": {
+        "lat": 43.0555992126,
+        "long": -78.8161010742,
+        "name": "Flying F ",
+        "state": "New York"
+    },
+    "79NY": {
+        "lat": 43.0870018005,
+        "long": -78.8114013672,
+        "name": "Smith ",
+        "state": "New York"
+    },
+    "7NK0": {
+        "lat": 42.6475982666,
+        "long": -74.3873977661,
+        "name": "Valley View ",
+        "state": "New York"
+    },
+    "7NK1": {
+        "lat": 42.9430999756,
+        "long": -75.7536010742,
+        "name": "Deer Run Air Field",
+        "state": "New York"
+    },
+    "7NK4": {
+        "lat": 43.2225990295,
+        "long": -77.8106002808,
+        "name": "Ridge Road West ",
+        "state": "New York"
+    },
+    "7NK6": {
+        "lat": 42.2916984558,
+        "long": -75.0667037964,
+        "name": "Blueberry Field",
+        "state": "New York"
+    },
+    "7NK7": {
+        "lat": 42.7132987976,
+        "long": -75.8899993896,
+        "name": "Morin ",
+        "state": "New York"
+    },
+    "7NY0": {
+        "lat": 41.6833992004,
+        "long": -75.0162963867,
+        "name": "Campis ",
+        "state": "New York"
+    },
+    "7NY1": {
+        "lat": 42.7634010315,
+        "long": -74.278503418,
+        "name": "Gar Field",
+        "state": "New York"
+    },
+    "7NY2": {
+        "lat": 43.8433990479,
+        "long": -76.0947036743,
+        "name": "Butterville ",
+        "state": "New York"
+    },
+    "7NY4": {
+        "lat": 42.4250984192,
+        "long": -76.7149963379,
+        "name": "Culver Airfield",
+        "state": "New York"
+    },
+    "7NY6": {
+        "lat": 42.893699646,
+        "long": -73.5078964233,
+        "name": "Sherwood Farm ",
+        "state": "New York"
+    },
+    "7NY8": {
+        "lat": 43.1922988892,
+        "long": -73.6297988892,
+        "name": "Shaw Field",
+        "state": "New York"
+    },
+    "82NY": {
+        "lat": 42.001389,
+        "long": -73.67111,
+        "name": "Silvernails Field",
+        "state": "New York"
+    },
+    "84NY": {
+        "lat": 42.9861984253,
+        "long": -77.6125030518,
+        "name": "Skyview ",
+        "state": "New York"
+    },
+    "85NY": {
+        "lat": 42.5783996582,
+        "long": -78.5199966431,
+        "name": "High Acres ",
+        "state": "New York"
+    },
+    "88NY": {
+        "lat": 43.1577987671,
+        "long": -78.3583984375,
+        "name": "Zelazny ",
+        "state": "New York"
+    },
+    "89NY": {
+        "lat": 44.3166999817,
+        "long": -75.8996963501,
+        "name": "Maxson Airfield",
+        "state": "New York"
+    },
+    "8NK4": {
+        "lat": 42.9432983398,
+        "long": -78.1382980347,
+        "name": "Bethany Airpark",
+        "state": "New York"
+    },
+    "8NK6": {
+        "lat": 42.713056,
+        "long": -75.168333,
+        "name": "Suntime ",
+        "state": "New York"
+    },
+    "8NY3": {
+        "lat": 42.268699646,
+        "long": -75.5597000122,
+        "name": "North Fork ",
+        "state": "New York"
+    },
+    "8NY5": {
+        "lat": 42.820400238,
+        "long": -74.1482009888,
+        "name": "Mariaville Aerodrome",
+        "state": "New York"
+    },
+    "8NY7": {
+        "lat": 41.5714988708,
+        "long": -74.4023971558,
+        "name": "Sha-Wan-Ga Valley ",
+        "state": "New York"
+    },
+    "90NY": {
+        "lat": 42.919508,
+        "long": -77.242778,
+        "name": "Hopewell Airpark",
+        "state": "New York"
+    },
+    "91NY": {
+        "lat": 43.1955986023,
+        "long": -77.7481002808,
+        "name": "Manitou Field",
+        "state": "New York"
+    },
+    "92NY": {
+        "lat": 42.7519989014,
+        "long": -78.4614028931,
+        "name": "Bloecher Farm ",
+        "state": "New York"
+    },
+    "94NY": {
+        "lat": 42.8250999451,
+        "long": -76.6912994385,
+        "name": "St Bernard Field",
+        "state": "New York"
+    },
+    "95NY": {
+        "lat": 42.7891998291,
+        "long": -78.4764022827,
+        "name": "Fisher ",
+        "state": "New York"
+    },
+    "97NY": {
+        "lat": 42.2342987061,
+        "long": -74.2376022339,
+        "name": "Hunter Mountain ",
+        "state": "New York"
+    },
+    "98NY": {
+        "lat": 42.8833999634,
+        "long": -77.5330963135,
+        "name": "Krenzers ",
+        "state": "New York"
+    },
+    "99NY": {
+        "lat": 43.2333984375,
+        "long": -78.7873001099,
+        "name": "Hibbard's ",
+        "state": "New York"
+    },
+    "9NY4": {
+        "lat": 42.1007995605,
+        "long": -79.0818023682,
+        "name": "Kennedy Airfield",
+        "state": "New York"
+    },
+    "9NY6": {
+        "lat": 42.324798584,
+        "long": -74.9862976074,
+        "name": "Mason Airway ",
+        "state": "New York"
+    },
+    "9NY7": {
+        "lat": 43.0329017639,
+        "long": -74.1510009766,
+        "name": "Hart ",
+        "state": "New York"
+    },
+    "KIUA": {
+        "lat": 42.9089019,
+        "long": -77.3252263,
+        "name": "Canandaigua ",
+        "state": "New York"
+    }
+}

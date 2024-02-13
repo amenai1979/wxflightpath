@@ -1,0 +1,142 @@
+{
+  "MG13": {
+    "lat": 15.8042001724,
+    "long": -89.8507003784,
+    "name": "Inta Northeast "
+  },
+  "MGBN": {
+    "lat": 15.4735002518,
+    "long": -88.8371963501,
+    "name": "Bananera "
+  },
+  "MGCB": {
+    "lat": 15.4689998627,
+    "long": -90.4067001343,
+    "name": "Coban "
+  },
+  "MGCQ": {
+    "lat": 14.83092,
+    "long": -89.520938,
+    "name": "Chiquimula "
+  },
+  "MGCR": {
+    "lat": 17.4612007141,
+    "long": -90.0537033081,
+    "name": "Carmelita "
+  },
+  "MGCT": {
+    "lat": 14.6941995621,
+    "long": -91.8824996948,
+    "name": "Coatepeque "
+  },
+  "MGDL": {
+    "lat": 17.6124000549,
+    "long": -89.6884002686,
+    "name": "Dos Lagunas "
+  },
+  "MGES": {
+    "lat": 14.5666704178,
+    "long": -89.3499984741,
+    "name": "Esquipulas "
+  },
+  "MGGT": {
+    "lat": 14.5832996368,
+    "long": -90.5274963379,
+    "name": "La Aurora "
+  },
+  "MGHT": {
+    "lat": 15.3274002075,
+    "long": -91.4624023438,
+    "name": "Huehuetenango "
+  },
+  "MGLL": {
+    "lat": 16.7502994537,
+    "long": -90.1399993896,
+    "name": "La Libertad "
+  },
+  "MGML": {
+    "lat": 14.9074640274,
+    "long": -92.0879211426,
+    "name": "Malacatan "
+  },
+  "MGMM": {
+    "lat": 17.0686092377,
+    "long": -89.1522216797,
+    "name": "Melchor de Mencos "
+  },
+  "MGPB": {
+    "lat": 15.7308998108,
+    "long": -88.5838012695,
+    "name": "Puerto Barrios "
+  },
+  "MGPC": {
+    "lat": 17.2639007568,
+    "long": -90.2563018799,
+    "name": "Paso Caballos "
+  },
+  "MGPG": {
+    "lat": 15.9975004196,
+    "long": -90.7416992188,
+    "name": "Playa Grande "
+  },
+  "MGPP": {
+    "lat": 16.325799942,
+    "long": -89.4160995483,
+    "name": "Poptun "
+  },
+  "MGQC": {
+    "lat": 15.0122003555,
+    "long": -91.1505966187,
+    "name": "Santa Cruz del Quiche "
+  },
+  "MGQZ": {
+    "lat": 14.8655996323,
+    "long": -91.5019989014,
+    "name": "Quezaltenango "
+  },
+  "MGRA": {
+    "lat": 15.0935,
+    "long": -90.5063888889,
+    "name": "Rabinal "
+  },
+  "MGRB": {
+    "lat": 15.9919996262,
+    "long": -90.4452972412,
+    "name": "Rubelsanto "
+  },
+  "MGRD": {
+    "lat": 15.6688995361,
+    "long": -88.957901001,
+    "name": "Las Vegas "
+  },
+  "MGRT": {
+    "lat": 14.5209999084,
+    "long": -91.697303772,
+    "name": "Retalhuleu "
+  },
+  "MGSJ": {
+    "lat": 13.9362001419,
+    "long": -90.8358001709,
+    "name": "San Jose "
+  },
+  "MGSM": {
+    "lat": 14.9562997818,
+    "long": -91.8062973022,
+    "name": "San Marcos "
+  },
+  "MGTK": {
+    "lat": 16.9137992859,
+    "long": -89.8664016724,
+    "name": "Mundo Maya International "
+  },
+  "MGUX": {
+    "lat": 17.3938884735,
+    "long": -89.6327438354,
+    "name": "Uaxactun "
+  },
+  "MGZA": {
+    "lat": 14.9603004456,
+    "long": -89.5391998291,
+    "name": "Zacapa "
+  }
+}

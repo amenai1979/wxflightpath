@@ -1,0 +1,1907 @@
+{
+  "SV02": {
+    "lat": 8.4044303894,
+    "long": -65.0155029297,
+    "name": "San Diego De Cabrutica "
+  },
+  "SV73": {
+    "lat": 8.6703195572,
+    "long": -62.6254005432,
+    "name": "Uverito "
+  },
+  "SV74": {
+    "lat": 9.581870079,
+    "long": -72.7880020142,
+    "name": "Aricuaisa "
+  },
+  "SV75": {
+    "lat": 10.0882997513,
+    "long": -72.5548019409,
+    "name": "Machiques North "
+  },
+  "SVAC": {
+    "lat": 9.5533752441,
+    "long": -69.2378692627,
+    "name": "Oswaldo Guevara Mujica "
+  },
+  "SVAE": {
+    "lat": 10.3281002045,
+    "long": -72.4810028076,
+    "name": "Montellano "
+  },
+  "SVAF": {
+    "lat": 6.9333329201,
+    "long": -68.0166702271,
+    "name": "Medano Alto "
+  },
+  "SVAH": {
+    "lat": 10.0333328247,
+    "long": -69.1666641235,
+    "name": "Cachimbo "
+  },
+  "SVAI": {
+    "lat": 7.8666667938,
+    "long": -67.0333328247,
+    "name": "Arichuna "
+  },
+  "SVAJ": {
+    "lat": 8.8189296722,
+    "long": -65.8867034912,
+    "name": "Mata de Juajua "
+  },
+  "SVAL": {
+    "lat": 8.3500003815,
+    "long": -69.5166702271,
+    "name": "Algodonal "
+  },
+  "SVAM": {
+    "lat": 7.3166670799,
+    "long": -69.1999969482,
+    "name": "Mata de Cana "
+  },
+  "SVAN": {
+    "lat": 9.4302253723,
+    "long": -64.4707260132,
+    "name": "Anaco "
+  },
+  "SVAO": {
+    "lat": 9.8633327484,
+    "long": -66.2933349609,
+    "name": "Altagracia de Orituco "
+  },
+  "SVAP": {
+    "lat": 7.9188499451,
+    "long": -68.483001709,
+    "name": "Apurito "
+  },
+  "SVAQ": {
+    "lat": 9.25,
+    "long": -68.4833297729,
+    "name": "Mata Oscura "
+  },
+  "SVAR": {
+    "lat": 11.9368000031,
+    "long": -69.8096008301,
+    "name": "Adicora "
+  },
+  "SVAS": {
+    "lat": 6.5780501366,
+    "long": -66.8169021606,
+    "name": "Armando Schwarck "
+  },
+  "SVAT": {
+    "lat": 4.0510401726,
+    "long": -67.6996994019,
+    "name": "San Fernando de Atabapo "
+  },
+  "SVAU": {
+    "lat": 6.75,
+    "long": -68.3333358765,
+    "name": "Agua Clara "
+  },
+  "SVAV": {
+    "lat": 9.2733325958,
+    "long": -63.4183311462,
+    "name": "El Alcaravan "
+  },
+  "SVAW": {
+    "lat": 7.4833331108,
+    "long": -67.8499984741,
+    "name": "Merecure "
+  },
+  "SVAX": {
+    "lat": 10,
+    "long": -72.5833358765,
+    "name": "Los Andes "
+  },
+  "SVAY": {
+    "lat": 10.5833330154,
+    "long": -64.2466659546,
+    "name": "Araya "
+  },
+  "SVAZ": {
+    "lat": 8.4333333969,
+    "long": -68.5500030518,
+    "name": "Mata Palos "
+  },
+  "SVBA": {
+    "lat": 7.8333330154,
+    "long": -70.2666702271,
+    "name": "Boca Anaro "
+  },
+  "SVBC": {
+    "lat": 10.1070995331,
+    "long": -64.689201355,
+    "name": "General Jose Antonio Anzoategui International "
+  },
+  "SVBD": {
+    "lat": 7.6166667938,
+    "long": -69.0500030518,
+    "name": "Los Camorucos "
+  },
+  "SVBE": {
+    "lat": 9.6666669846,
+    "long": -72.5833358765,
+    "name": "Bernal "
+  },
+  "SVBF": {
+    "lat": 6.9666671753,
+    "long": -67.2166671753,
+    "name": "Hato Uranon "
+  },
+  "SVBG": {
+    "lat": 9.1999998093,
+    "long": -68.1666641235,
+    "name": "La Batalla "
+  },
+  "SVBH": {
+    "lat": 10.9416666031,
+    "long": -68.2666702271,
+    "name": "Los Belseres "
+  },
+  "SVBI": {
+    "lat": 8.6195697784,
+    "long": -70.2208023071,
+    "name": "Barinas "
+  },
+  "SVBJ": {
+    "lat": 7.3216671944,
+    "long": -69.6699981689,
+    "name": "Hato Viejo "
+  },
+  "SVBK": {
+    "lat": 9.2671003342,
+    "long": -70.2304992676,
+    "name": "Bocono "
+  },
+  "SVBL": {
+    "lat": 10.1833753586,
+    "long": -67.5573196411,
+    "name": "El Libertador Airbase"
+  },
+  "SVBM": {
+    "lat": 10.0427465439,
+    "long": -69.3586196899,
+    "name": "Barquisimeto International "
+  },
+  "SVBN": {
+    "lat": 6.5999999046,
+    "long": -62.7333335876,
+    "name": "Bocon "
+  },
+  "SVBP": {
+    "lat": 7.5999999046,
+    "long": -67.1999969482,
+    "name": "Jobito "
+  },
+  "SVBQ": {
+    "lat": 10.0015001297,
+    "long": -71.0837020874,
+    "name": "Bachaquero "
+  },
+  "SVBR": {
+    "lat": 10.4166669846,
+    "long": -68.6666641235,
+    "name": "Carbonero "
+  },
+  "SVBS": {
+    "lat": 10.2499780655,
+    "long": -67.6494216919,
+    "name": "Escuela Mariscal Sucre "
+  },
+  "SVBT": {
+    "lat": 9.1999998093,
+    "long": -69.75,
+    "name": "Boquemonte "
+  },
+  "SVBU": {
+    "lat": 9.1666669846,
+    "long": -71.0999984741,
+    "name": "Central Venezuela "
+  },
+  "SVBV": {
+    "lat": 8.733332634,
+    "long": -69.5333328247,
+    "name": "Banco Verde "
+  },
+  "SVBW": {
+    "lat": 7.1316671371,
+    "long": -63.4566688538,
+    "name": "Hato El Burro "
+  },
+  "SVBX": {
+    "lat": 9.766667366,
+    "long": -72.6999969482,
+    "name": "La Cabana "
+  },
+  "SVCB": {
+    "lat": 8.1221609116,
+    "long": -63.5369567871,
+    "name": "Ciudad Bolivar "
+  },
+  "SVCD": {
+    "lat": 7.6255102158,
+    "long": -66.1628036499,
+    "name": "Caicara del Orinoco "
+  },
+  "SVCE": {
+    "lat": 9.3503055573,
+    "long": -65.2806549072,
+    "name": "Apruna "
+  },
+  "SVCG": {
+    "lat": 8.7581396103,
+    "long": -72.5363006592,
+    "name": "Casigua El Cubo "
+  },
+  "SVCH": {
+    "lat": 7.7399997711,
+    "long": -68.2399978638,
+    "name": "Achaguas "
+  },
+  "SVCI": {
+    "lat": 9.5016670227,
+    "long": -70.9516677856,
+    "name": "Punta de Oro "
+  },
+  "SVCJ": {
+    "lat": 9.6477203369,
+    "long": -68.5746994019,
+    "name": "San Carlos "
+  },
+  "SVCK": {
+    "lat": 9.4166669846,
+    "long": -68.8833312988,
+    "name": "Cano Lucas "
+  },
+  "SVCL": {
+    "lat": 8.9246559143,
+    "long": -67.4170913696,
+    "name": "Calabozo "
+  },
+  "SVCM": {
+    "lat": 9.6833333969,
+    "long": -68.4166641235,
+    "name": "Canita Mendera "
+  },
+  "SVCN": {
+    "lat": 6.2319889069,
+    "long": -62.8544311523,
+    "name": "Canaima "
+  },
+  "SVCO": {
+    "lat": 10.1756029129,
+    "long": -70.0652160645,
+    "name": "Carora "
+  },
+  "SVCP": {
+    "lat": 10.6600141525,
+    "long": -63.261680603,
+    "name": "General Francisco Bermudez "
+  },
+  "SVCQ": {
+    "lat": 8.0606002808,
+    "long": -66.9699020386,
+    "name": "Cazorla "
+  },
+  "SVCR": {
+    "lat": 11.4149436951,
+    "long": -69.6809005737,
+    "name": "Jose Leonardo Chirinos "
+  },
+  "SVCS": {
+    "lat": 10.286110878,
+    "long": -66.8161087036,
+    "name": "Oscar Machado Zuluaga "
+  },
+  "SVCT": {
+    "lat": 6.8833332062,
+    "long": -68.3833312988,
+    "name": "Caujarito "
+  },
+  "SVCU": {
+    "lat": 10.4503326416,
+    "long": -64.1304702759,
+    "name": "Cumana (Antonio Jose de Sucre) "
+  },
+  "SVCV": {
+    "lat": 7.4000000954,
+    "long": -67.4333343506,
+    "name": "Cunaviche "
+  },
+  "SVCW": {
+    "lat": 9.326666832,
+    "long": -70.9333343506,
+    "name": "Chinazon "
+  },
+  "SVCX": {
+    "lat": 7.3000001907,
+    "long": -68.3666687012,
+    "name": "Guachara "
+  },
+  "SVCY": {
+    "lat": 6.9333329201,
+    "long": -68.6333312988,
+    "name": "Cuartel Yaruro "
+  },
+  "SVCZ": {
+    "lat": 9.3726501465,
+    "long": -66.9227981567,
+    "name": "Capitan Manuel Rios Airbase"
+  },
+  "SVDA": {
+    "lat": 10.9366674423,
+    "long": -65.2233352661,
+    "name": "La Tortuga Punta Delgada "
+  },
+  "SVDB": {
+    "lat": 9.3333330154,
+    "long": -68.4333343506,
+    "name": "Dona Bella "
+  },
+  "SVDC": {
+    "lat": 8.5900001526,
+    "long": -66.2549972534,
+    "name": "Cocuiza "
+  },
+  "SVDF": {
+    "lat": 6.8666667938,
+    "long": -68.7833328247,
+    "name": "Punto Fijo "
+  },
+  "SVDG": {
+    "lat": 9.6499996185,
+    "long": -63.7216682434,
+    "name": "Punta Gorda "
+  },
+  "SVDM": {
+    "lat": 11.7967996597,
+    "long": -66.8929977417,
+    "name": "Dos Mosquises "
+  },
+  "SVDP": {
+    "lat": 4.7300000191,
+    "long": -60.9650001526,
+    "name": "La Divina Pastora "
+  },
+  "SVDR": {
+    "lat": 7.9333329201,
+    "long": -69.9000015259,
+    "name": "Cordereno "
+  },
+  "SVDS": {
+    "lat": 4.7916669846,
+    "long": -61.1199989319,
+    "name": "Codsa "
+  },
+  "SVDV": {
+    "lat": 9.4499998093,
+    "long": -63.1749992371,
+    "name": "Hato Veladero "
+  },
+  "SVDW": {
+    "lat": 7.4937901497,
+    "long": -63.2697982788,
+    "name": "Ciudad Piar "
+  },
+  "SVDX": {
+    "lat": 8.4666671753,
+    "long": -62.4833335876,
+    "name": "Hato Puga "
+  },
+  "SVDZ": {
+    "lat": 6.2333331108,
+    "long": -67.4336090088,
+    "name": "Puerto Paez"
+  },
+  "SVEB": {
+    "lat": 8.6761598587,
+    "long": -72.3356018066,
+    "name": "El Guayabo del Zulia "
+  },
+  "SVED": {
+    "lat": 6.7333331108,
+    "long": -61.5833320618,
+    "name": "El Dorado "
+  },
+  "SVEE": {
+    "lat": 7.9083328247,
+    "long": -68.6966705322,
+    "name": "El Esterero "
+  },
+  "SVEF": {
+    "lat": 10.595000267,
+    "long": -68.4950027466,
+    "name": "Empujeca "
+  },
+  "SVEG": {
+    "lat": 9.6999998093,
+    "long": -68.3333358765,
+    "name": "El Guayabo de Cojedes "
+  },
+  "SVEJ": {
+    "lat": 9.4499998093,
+    "long": -70.8000030518,
+    "name": "El Jabillal "
+  },
+  "SVEK": {
+    "lat": 10.1135997772,
+    "long": -72.5765991211,
+    "name": "El Capitan "
+  },
+  "SVEL": {
+    "lat": 7.3000001907,
+    "long": -61.7999992371,
+    "name": "El Callao (El Peru) "
+  },
+  "SVEM": {
+    "lat": 8.3333330154,
+    "long": -70.375,
+    "name": "El Paraiso "
+  },
+  "SVEN": {
+    "lat": 9.1116666794,
+    "long": -72.2699966431,
+    "name": "Encontrados "
+  },
+  "SVEP": {
+    "lat": 10.2066669464,
+    "long": -67.4416656494,
+    "name": "El Palmar "
+  },
+  "SVER": {
+    "lat": 7.2166671753,
+    "long": -68.9833297729,
+    "name": "El Respiro "
+  },
+  "SVES": {
+    "lat": 7.9123501778,
+    "long": -68.6927032471,
+    "name": "El Saman de Apure "
+  },
+  "SVET": {
+    "lat": 7.3610701561,
+    "long": -62.5321006775,
+    "name": "El Manteco "
+  },
+  "SVEW": {
+    "lat": 9.5500001907,
+    "long": -70.6833343506,
+    "name": "El Cenizo "
+  },
+  "SVEX": {
+    "lat": 8.6999998093,
+    "long": -69.0749969482,
+    "name": "La Esperanza "
+  },
+  "SVEY": {
+    "lat": 6.2800002098,
+    "long": -69.1166687012,
+    "name": "El Centro "
+  },
+  "SVEZ": {
+    "lat": 7.0833330154,
+    "long": -69.5333328247,
+    "name": "Elorza "
+  },
+  "SVFE": {
+    "lat": 9.5,
+    "long": -72.5833358765,
+    "name": "Hacienda Santa Fe "
+  },
+  "SVFG": {
+    "lat": 9.1883325577,
+    "long": -67.0166702271,
+    "name": "El Flagelo "
+  },
+  "SVFK": {
+    "lat": 9.483332634,
+    "long": -67.8166656494,
+    "name": "La Fe de Cojedes "
+  },
+  "SVFL": {
+    "lat": 7.1999998093,
+    "long": -68.1333312988,
+    "name": "Fundacion Layera "
+  },
+  "SVFM": {
+    "lat": 10.4850330353,
+    "long": -66.8435134888,
+    "name": "Francisco de Miranda "
+  },
+  "SVFR": {
+    "lat": 7.8233327866,
+    "long": -68.8983306885,
+    "name": "El Frio "
+  },
+  "SVFS": {
+    "lat": 9.4016399384,
+    "long": -66.6430969238,
+    "name": "Fagotrans "
+  },
+  "SVFT": {
+    "lat": 7.0999999046,
+    "long": -69.5833358765,
+    "name": "El Fuentero "
+  },
+  "SVFU": {
+    "lat": 7.5833330154,
+    "long": -71.4666671753,
+    "name": "La Fortuna "
+  },
+  "SVFX": {
+    "lat": 7.2133331299,
+    "long": -69.4966659546,
+    "name": "La Fe de Apure "
+  },
+  "SVFY": {
+    "lat": 9.0333328247,
+    "long": -69.0999984741,
+    "name": "Finca Yacurito "
+  },
+  "SVGA": {
+    "lat": 8.75,
+    "long": -70,
+    "name": "Agropecuaria Gamma "
+  },
+  "SVGC": {
+    "lat": 9.7770795822,
+    "long": -72.4868011475,
+    "name": "La Gran China "
+  },
+  "SVGD": {
+    "lat": 7.2333331108,
+    "long": -70.8000030518,
+    "name": "Guasdalito "
+  },
+  "SVGE": {
+    "lat": 9.2100000381,
+    "long": -69.5816650391,
+    "name": "Ganaderia Pedernales "
+  },
+  "SVGG": {
+    "lat": 9.5833330154,
+    "long": -63.0499992371,
+    "name": "Agropecuaria Los Araguaneyes "
+  },
+  "SVGH": {
+    "lat": 9.5349998474,
+    "long": -66.7249984741,
+    "name": "La Guacharaca "
+  },
+  "SVGI": {
+    "lat": 10.5740776062,
+    "long": -62.3126678467,
+    "name": "Guiria "
+  },
+  "SVGL": {
+    "lat": 7.6350002289,
+    "long": -70.8499984741,
+    "name": "Agua Linda "
+  },
+  "SVGP": {
+    "lat": 9.6333332062,
+    "long": -67.1833343506,
+    "name": "Guesipo "
+  },
+  "SVGR": {
+    "lat": 10.1529998779,
+    "long": -68.3751983643,
+    "name": "El Milagro Carabobo "
+  },
+  "SVGT": {
+    "lat": 7.4749999046,
+    "long": -61.9000015259,
+    "name": "Guasipati "
+  },
+  "SVGU": {
+    "lat": 9.0269441605,
+    "long": -69.7551498413,
+    "name": "Guanare "
+  },
+  "SVGX": {
+    "lat": 8.7550001144,
+    "long": -63.5250015259,
+    "name": "Las Guadalupes "
+  },
+  "SVGZ": {
+    "lat": 7.9499998093,
+    "long": -69.1166687012,
+    "name": "La Garza "
+  },
+  "SVHA": {
+    "lat": 7.5999999046,
+    "long": -63.2166671753,
+    "name": "Hato Altamira de Bolivar "
+  },
+  "SVHC": {
+    "lat": 10.1499996185,
+    "long": -72.1833343506,
+    "name": "Hacienda El Caimito "
+  },
+  "SVHD": {
+    "lat": 9.8999996185,
+    "long": -72.5500030518,
+    "name": "Hacienda El Calvario "
+  },
+  "SVHE": {
+    "lat": 9.5666666031,
+    "long": -67.5666656494,
+    "name": "Hato Rancho Alegre "
+  },
+  "SVHG": {
+    "lat": 10.4624528885,
+    "long": -66.0927581787,
+    "name": "Higuerote "
+  },
+  "SVHH": {
+    "lat": 10.8080997467,
+    "long": -69.6383972168,
+    "name": "Churuguara "
+  },
+  "SVHK": {
+    "lat": 9.3999996185,
+    "long": -67.7833328247,
+    "name": "Hato la Guaca "
+  },
+  "SVHL": {
+    "lat": 9.7166671753,
+    "long": -66.7833328247,
+    "name": "Hacienda Carutal "
+  },
+  "SVHM": {
+    "lat": 9.3333330154,
+    "long": -67.9166641235,
+    "name": "Hato Los Mamones "
+  },
+  "SVHN": {
+    "lat": 8.1054096222,
+    "long": -68.7191009521,
+    "name": "Hato La Chaconera "
+  },
+  "SVHO": {
+    "lat": 8.3682203293,
+    "long": -69.9570999146,
+    "name": "El Oasis "
+  },
+  "SVHP": {
+    "lat": 10.7133331299,
+    "long": -69.2083358765,
+    "name": "Hacienda El Paso "
+  },
+  "SVHR": {
+    "lat": 9.5,
+    "long": -67.9499969482,
+    "name": "Hato El Carito "
+  },
+  "SVHS": {
+    "lat": 8.25,
+    "long": -65.5833358765,
+    "name": "Hato El Sesenta "
+  },
+  "SVHT": {
+    "lat": 9.3666667938,
+    "long": -63.0833320618,
+    "name": "Hato Altamira de Monagas "
+  },
+  "SVHX": {
+    "lat": 8.6833333969,
+    "long": -67.7166671753,
+    "name": "Hato La Candelaria "
+  },
+  "SVHY": {
+    "lat": 8.720000267,
+    "long": -68.4716644287,
+    "name": "Hato Las Yeguas "
+  },
+  "SVIC": {
+    "lat": 4.3363199234,
+    "long": -61.7396011353,
+    "name": "Icabaru "
+  },
+  "SVIE": {
+    "lat": 10.7944059372,
+    "long": -63.981590271,
+    "name": "Andres Miguel Salazar Marcano "
+  },
+  "SVIM": {
+    "lat": 9.1000003815,
+    "long": -69.6200027466,
+    "name": "Hato El Caiman "
+  },
+  "SVJC": {
+    "lat": 11.7807750702,
+    "long": -70.1514968872,
+    "name": "Josefa Camejo International "
+  },
+  "SVJF": {
+    "lat": 7.4000000954,
+    "long": -67.9833297729,
+    "name": "Juan Florencio "
+  },
+  "SVJH": {
+    "lat": 8.1797199249,
+    "long": -63.5960006714,
+    "name": "Juancho "
+  },
+  "SVJI": {
+    "lat": 9.0971803665,
+    "long": -63.118598938,
+    "name": "Hato La Lejania "
+  },
+  "SVJJ": {
+    "lat": 7.443333149,
+    "long": -67.7966690063,
+    "name": "Curujujul "
+  },
+  "SVJL": {
+    "lat": 8.016667366,
+    "long": -67.3833312988,
+    "name": "Los Lajeros "
+  },
+  "SVJM": {
+    "lat": 9.906952858,
+    "long": -67.3796386719,
+    "name": "San Juan de Los Morros "
+  },
+  "SVJO": {
+    "lat": 9.6666669846,
+    "long": -67.0500030518,
+    "name": "La Vigia Oeste "
+  },
+  "SVJU": {
+    "lat": 9.1833333969,
+    "long": -68.0999984741,
+    "name": "Hato La Laguna del Junco "
+  },
+  "SVKA": {
+    "lat": 5.632999897,
+    "long": -61.783000946,
+    "name": "Kavanayen "
+  },
+  "SVKB": {
+    "lat": 7.9833331108,
+    "long": -70.0999984741,
+    "name": "La Calzada "
+  },
+  "SVKC": {
+    "lat": 8.5399999619,
+    "long": -68.8050003052,
+    "name": "El Carrao "
+  },
+  "SVKI": {
+    "lat": 7.5466599464,
+    "long": -71.7883987427,
+    "name": "Piscuri "
+  },
+  "SVKL": {
+    "lat": 9.3249998093,
+    "long": -70.9749984741,
+    "name": "Las Clavellinas "
+  },
+  "SVKN": {
+    "lat": 5.5,
+    "long": -65.6183319092,
+    "name": "Cano Negro "
+  },
+  "SVKV": {
+    "lat": 9.6666669846,
+    "long": -70.9666671753,
+    "name": "Corral Viejo "
+  },
+  "SVLA": {
+    "lat": 9.016667366,
+    "long": -63.75,
+    "name": "Las Adjuntas "
+  },
+  "SVLB": {
+    "lat": 11.8205785751,
+    "long": -64.5862121582,
+    "name": "La Blanquilla "
+  },
+  "SVLC": {
+    "lat": 6.9833331108,
+    "long": -68.0666656494,
+    "name": "El Lucero de Apure "
+  },
+  "SVLD": {
+    "lat": 7.203332901,
+    "long": -69.5366668701,
+    "name": "Las Brisas "
+  },
+  "SVLE": {
+    "lat": 10.4499998093,
+    "long": -71.3666687012,
+    "name": "El Lucero del Zulia "
+  },
+  "SVLF": {
+    "lat": 8.2391672134,
+    "long": -72.2710266113,
+    "name": "La Fria "
+  },
+  "SVLG": {
+    "lat": 9.6499996185,
+    "long": -68.9833297729,
+    "name": "Las Majaguas "
+  },
+  "SVLH": {
+    "lat": 7.1666669846,
+    "long": -69.3833312988,
+    "name": "Las Delicias "
+  },
+  "SVLI": {
+    "lat": 7.3000001907,
+    "long": -67.3333358765,
+    "name": "La Alcancia "
+  },
+  "SVLJ": {
+    "lat": 9.6833333969,
+    "long": -64.1833343506,
+    "name": "La Vieja "
+  },
+  "SVLK": {
+    "lat": 6.1666669846,
+    "long": -69.1666641235,
+    "name": "Hato Macolla "
+  },
+  "SVLL": {
+    "lat": 8.0083332062,
+    "long": -69.626663208,
+    "name": "Callejas "
+  },
+  "SVLM": {
+    "lat": 9.4979400635,
+    "long": -62.9013061523,
+    "name": "Las Flores "
+  },
+  "SVLN": {
+    "lat": 10.7266998291,
+    "long": -68.3335037231,
+    "name": "La Candelaria "
+  },
+  "SVLO": {
+    "lat": 11.8072004318,
+    "long": -66.1796035767,
+    "name": "La Orchila "
+  },
+  "SVLP": {
+    "lat": 6.9333329201,
+    "long": -68.3666687012,
+    "name": "Las Lagunitas "
+  },
+  "SVLS": {
+    "lat": 6.7666668892,
+    "long": -68.3499984741,
+    "name": "Las Corobas "
+  },
+  "SVLT": {
+    "lat": 7.5833330154,
+    "long": -69.1833343506,
+    "name": "La Argentina "
+  },
+  "SVLU": {
+    "lat": 9.3000001907,
+    "long": -66.6783294678,
+    "name": "El Lechozo "
+  },
+  "SVLW": {
+    "lat": 10.0683326721,
+    "long": -68.0216674805,
+    "name": "Los Aguacates "
+  },
+  "SVLX": {
+    "lat": 6.9666671753,
+    "long": -69.3499984741,
+    "name": "La Yaguita "
+  },
+  "SVLY": {
+    "lat": 7.2833328247,
+    "long": -68.5333328247,
+    "name": "La Yagua "
+  },
+  "SVLZ": {
+    "lat": 8.3288803101,
+    "long": -68.7519989014,
+    "name": "Las Cruces "
+  },
+  "SVMA": {
+    "lat": 10.1431999207,
+    "long": -68.1978988647,
+    "name": "La Mona "
+  },
+  "SVMB": {
+    "lat": 8.671667099,
+    "long": -66.5049972534,
+    "name": "El Embrujo "
+  },
+  "SVMC": {
+    "lat": 10.5582084656,
+    "long": -71.7278594971,
+    "name": "La Chinita International "
+  },
+  "SVMD": {
+    "lat": 8.58207798,
+    "long": -71.1610412598,
+    "name": "Alberto Carnevalli "
+  },
+  "SVME": {
+    "lat": 7.738629818,
+    "long": -64.7194976807,
+    "name": "Mapire "
+  },
+  "SVMF": {
+    "lat": 8.5333328247,
+    "long": -69.9499969482,
+    "name": "Mata Charo "
+  },
+  "SVMG": {
+    "lat": 10.9126033783,
+    "long": -63.9665985107,
+    "name": "Del Caribe Santiago Marino International "
+  },
+  "SVMH": {
+    "lat": 7.3166670799,
+    "long": -68,
+    "name": "Macanillal "
+  },
+  "SVMI": {
+    "lat": 10.6031169891,
+    "long": -66.9905853271,
+    "name": "Maiquetia (Simon Bolivar Internacional) "
+  },
+  "SVMJ": {
+    "lat": 10.5983333588,
+    "long": -68.5350036621,
+    "name": "Hacienda Las Lomas "
+  },
+  "SVMK": {
+    "lat": 9.2299995422,
+    "long": -67.9700012207,
+    "name": "El Milagro Cojedes "
+  },
+  "SVML": {
+    "lat": 7.2666668892,
+    "long": -67.2833328247,
+    "name": "El Milagro Sureste "
+  },
+  "SVMM": {
+    "lat": 11.266667366,
+    "long": -70.25,
+    "name": "Mamon "
+  },
+  "SVMN": {
+    "lat": 9.8031597137,
+    "long": -70.8921966553,
+    "name": "Mene Grande "
+  },
+  "SVMO": {
+    "lat": 7.6833329201,
+    "long": -68.1833343506,
+    "name": "El Milagro Oeste "
+  },
+  "SVMP": {
+    "lat": 10.1331691742,
+    "long": -66.7878265381,
+    "name": "Metropolitano "
+  },
+  "SVMQ": {
+    "lat": 8.8416671753,
+    "long": -70.0333328247,
+    "name": "Fundo la Marquesena "
+  },
+  "SVMS": {
+    "lat": 7.7166671753,
+    "long": -67.9833297729,
+    "name": "Guasimal "
+  },
+  "SVMT": {
+    "lat": 9.754529953,
+    "long": -63.1473999023,
+    "name": "Maturin "
+  },
+  "SVMV": {
+    "lat": 2.6925001144,
+    "long": -67.5188980103,
+    "name": "Maroa "
+  },
+  "SVMW": {
+    "lat": 7.6166667938,
+    "long": -72.4499969482,
+    "name": "Los Malabares "
+  },
+  "SVMX": {
+    "lat": 9.1999998093,
+    "long": -64.0500030518,
+    "name": "Mata "
+  },
+  "SVMY": {
+    "lat": 5.3083329201,
+    "long": -66.0500030518,
+    "name": "Manapiare "
+  },
+  "SVMZ": {
+    "lat": 7.5575799942,
+    "long": -69.1416015625,
+    "name": "Mantecal "
+  },
+  "SVNA": {
+    "lat": 9.9230203629,
+    "long": -72.0804977417,
+    "name": "Macana "
+  },
+  "SVNB": {
+    "lat": 7.4000000954,
+    "long": -65.1833343506,
+    "name": "Maripa "
+  },
+  "SVNE": {
+    "lat": 7.7666668892,
+    "long": -70.2666702271,
+    "name": "Las Mercedes "
+  },
+  "SVNF": {
+    "lat": 7.3833332062,
+    "long": -68.8333358765,
+    "name": "Morichitos "
+  },
+  "SVNG": {
+    "lat": 10.2833328247,
+    "long": -72.4666671753,
+    "name": "El Mango "
+  },
+  "SVNJ": {
+    "lat": 8.9666671753,
+    "long": -66.0833358765,
+    "name": "Morichito II "
+  },
+  "SVNK": {
+    "lat": 8.4177780151,
+    "long": -63.567779541,
+    "name": "Hato Mikitole "
+  },
+  "SVNP": {
+    "lat": 9.1333332062,
+    "long": -69.0550003052,
+    "name": "Marisol "
+  },
+  "SVNR": {
+    "lat": 6.9833331108,
+    "long": -68.6333312988,
+    "name": "El Morichal "
+  },
+  "SVNT": {
+    "lat": 7.6999998093,
+    "long": -69.3000030518,
+    "name": "Mata de Turagua "
+  },
+  "SVNV": {
+    "lat": 6.5833330154,
+    "long": -66.1999969482,
+    "name": "Las Nieves "
+  },
+  "SVNX": {
+    "lat": 8.8281497955,
+    "long": -63.0950012207,
+    "name": "Morichal "
+  },
+  "SVOA": {
+    "lat": 8.2847223282,
+    "long": -69.9166641235,
+    "name": "San Lorenzo De Barinas "
+  },
+  "SVOB": {
+    "lat": 11.0500001907,
+    "long": -68.4833297729,
+    "name": "San Lorenzo De Falcon "
+  },
+  "SVOC": {
+    "lat": 6.9666671753,
+    "long": -68.3333358765,
+    "name": "San Luis Capanaparo "
+  },
+  "SVOD": {
+    "lat": 7.9833331108,
+    "long": -67.6500015259,
+    "name": "Santa Ana "
+  },
+  "SVOE": {
+    "lat": 8.7441396713,
+    "long": -69.9138031006,
+    "name": "Sabaneta "
+  },
+  "SVOF": {
+    "lat": 9.6984996796,
+    "long": -63.6222991943,
+    "name": "Santa Barbara de Monagas "
+  },
+  "SVOG": {
+    "lat": 3.9416670799,
+    "long": -67.0783309937,
+    "name": "Santa Barbara del Amazonas "
+  },
+  "SVOH": {
+    "lat": 8.3500003815,
+    "long": -70.0500030518,
+    "name": "San Silvestre "
+  },
+  "SVOI": {
+    "lat": 7.3000001907,
+    "long": -68.0666656494,
+    "name": "Los Indios "
+  },
+  "SVOJ": {
+    "lat": 8.0666666031,
+    "long": -70.1833343506,
+    "name": "Ojo de Agua "
+  },
+  "SVOK": {
+    "lat": 9.0616674423,
+    "long": -63.4449996948,
+    "name": "Oritupano "
+  },
+  "SVOL": {
+    "lat": 9.3166666031,
+    "long": -64.6333312988,
+    "name": "San Roque "
+  },
+  "SVON": {
+    "lat": 10.3306999207,
+    "long": -71.3225021362,
+    "name": "Oro Negro "
+  },
+  "SVOO": {
+    "lat": 7.6500000954,
+    "long": -69.4166641235,
+    "name": "Hato El Rosero "
+  },
+  "SVOP": {
+    "lat": 7.5999999046,
+    "long": -68.4333343506,
+    "name": "Los Oripopos "
+  },
+  "SVOQ": {
+    "lat": 8.6666669846,
+    "long": -67.6666641235,
+    "name": "Santa Monica "
+  },
+  "SVOR": {
+    "lat": 8.0916671753,
+    "long": -66.4216690063,
+    "name": "San Ramon "
+  },
+  "SVOS": {
+    "lat": 7.4666671753,
+    "long": -68.6666641235,
+    "name": "Los Cocos "
+  },
+  "SVOT": {
+    "lat": 7.7666668892,
+    "long": -70.6333312988,
+    "name": "San Pablo De Barinas "
+  },
+  "SVOW": {
+    "lat": 7.1999998093,
+    "long": -68.5166702271,
+    "name": "Coco de Mono "
+  },
+  "SVOZ": {
+    "lat": 7.7833328247,
+    "long": -68.5,
+    "name": "San Pablo Paeno "
+  },
+  "SVPA": {
+    "lat": 5.619989872,
+    "long": -67.6061019897,
+    "name": "Cacique Aramare "
+  },
+  "SVPB": {
+    "lat": 10.7839002609,
+    "long": -68.3436965942,
+    "name": "Punta Brava "
+  },
+  "SVPC": {
+    "lat": 10.4805002213,
+    "long": -68.0729980469,
+    "name": "General Bartolome Salom International "
+  },
+  "SVPD": {
+    "lat": 7.0999999046,
+    "long": -67.9000015259,
+    "name": "Hato La Ponderosa "
+  },
+  "SVPE": {
+    "lat": 9.9792404175,
+    "long": -62.2285995483,
+    "name": "Pedernales "
+  },
+  "SVPF": {
+    "lat": 8.8191204071,
+    "long": -64.7397003174,
+    "name": "Pariaguan "
+  },
+  "SVPG": {
+    "lat": 7.1333332062,
+    "long": -68.5833358765,
+    "name": "El Progreso "
+  },
+  "SVPH": {
+    "lat": 4.5666670799,
+    "long": -61.4833335876,
+    "name": "Perai Tepuy "
+  },
+  "SVPI": {
+    "lat": 4.4666671753,
+    "long": -61.593334198,
+    "name": "El Pauji "
+  },
+  "SVPJ": {
+    "lat": 6.2833328247,
+    "long": -69.3166656494,
+    "name": "Pesurca "
+  },
+  "SVPK": {
+    "lat": 7.6333332062,
+    "long": -69.3666687012,
+    "name": "Las Palmeras "
+  },
+  "SVPL": {
+    "lat": 7.8166670799,
+    "long": -62.7166671753,
+    "name": "El Pueblito "
+  },
+  "SVPM": {
+    "lat": 7.801320076,
+    "long": -72.2029037476,
+    "name": "Paramillo "
+  },
+  "SVPN": {
+    "lat": 8.5635004044,
+    "long": -66.0183029175,
+    "name": "Espino "
+  },
+  "SVPO": {
+    "lat": 7.5500001907,
+    "long": -68.25,
+    "name": "Hato El Porvenir "
+  },
+  "SVPP": {
+    "lat": 5.7926797867,
+    "long": -61.4402008057,
+    "name": "Luepa "
+  },
+  "SVPQ": {
+    "lat": 8.5982704163,
+    "long": -69.7608032227,
+    "name": "El Pardillero "
+  },
+  "SVPR": {
+    "lat": 8.2885303497,
+    "long": -62.7603988647,
+    "name": "General Manuel Carlos Piar International "
+  },
+  "SVPS": {
+    "lat": 9.8900003433,
+    "long": -70.1216659546,
+    "name": "Hacienda La Pastora "
+  },
+  "SVPT": {
+    "lat": 7.5666699409,
+    "long": -70.1832962036,
+    "name": "Palmarito "
+  },
+  "SVPU": {
+    "lat": 6.8499999046,
+    "long": -63.3166656494,
+    "name": "La Paragua "
+  },
+  "SVPV": {
+    "lat": 7.9166669846,
+    "long": -71.0333328247,
+    "name": "Pedraza La Vieja "
+  },
+  "SVPW": {
+    "lat": 9,
+    "long": -63.6666679382,
+    "name": "Pelayo "
+  },
+  "SVPX": {
+    "lat": 7.3666667938,
+    "long": -68.6833343506,
+    "name": "El Pinal "
+  },
+  "SVPY": {
+    "lat": 10.4899997711,
+    "long": -68.1750030518,
+    "name": "Palma Sola "
+  },
+  "SVPZ": {
+    "lat": 7.4883332253,
+    "long": -68.9933319092,
+    "name": "La Paz "
+  },
+  "SVQA": {
+    "lat": 7.4666671753,
+    "long": -65.5666656494,
+    "name": "Santa Rosalia "
+  },
+  "SVQB": {
+    "lat": 7.0500001907,
+    "long": -67.7666702271,
+    "name": "Santa Elena de Rio Claro "
+  },
+  "SVQC": {
+    "lat": 6.5,
+    "long": -67.1333312988,
+    "name": "Santa Maria La Tigra "
+  },
+  "SVQD": {
+    "lat": 8.9583330154,
+    "long": -65.1383361816,
+    "name": "Santa Juana "
+  },
+  "SVQI": {
+    "lat": 9.3500003815,
+    "long": -65.8000030518,
+    "name": "Tucupido "
+  },
+  "SVQJ": {
+    "lat": 7.2333331108,
+    "long": -69.0999984741,
+    "name": "La Trinidad De Apure "
+  },
+  "SVQK": {
+    "lat": 9.6783332825,
+    "long": -66.1633300781,
+    "name": "Tierra Negra "
+  },
+  "SVQL": {
+    "lat": 7.7577600479,
+    "long": -63.0822982788,
+    "name": "Tocomita "
+  },
+  "SVQN": {
+    "lat": 8.3166666031,
+    "long": -70.0500030518,
+    "name": "Torunos "
+  },
+  "SVQO": {
+    "lat": 10.0823001862,
+    "long": -68.1190032959,
+    "name": "Tocuyito "
+  },
+  "SVQP": {
+    "lat": 9.0500001907,
+    "long": -71.368057251,
+    "name": "Miquelon "
+  },
+  "SVQQ": {
+    "lat": 9.8500003815,
+    "long": -65.3166656494,
+    "name": "Los Conucos "
+  },
+  "SVQR": {
+    "lat": 7.5166668892,
+    "long": -68.6833343506,
+    "name": "Santa Rita "
+  },
+  "SVQS": {
+    "lat": 7.6666669846,
+    "long": -66.8000030518,
+    "name": "Santa Rita "
+  },
+  "SVQT": {
+    "lat": 7.6333332062,
+    "long": -69.9250030518,
+    "name": "Los Quitasoles "
+  },
+  "SVQU": {
+    "lat": 8.7495803833,
+    "long": -69.7225036621,
+    "name": "Santa Rosa de Guanare "
+  },
+  "SVQW": {
+    "lat": 8.8333330154,
+    "long": -66.3666687012,
+    "name": "Tamatal "
+  },
+  "SVQX": {
+    "lat": 10.5666666031,
+    "long": -70.1333312988,
+    "name": "Tamayare "
+  },
+  "SVQY": {
+    "lat": 7.9099998474,
+    "long": -64.0583343506,
+    "name": "Tapaquire "
+  },
+  "SVQZ": {
+    "lat": 8.4333333969,
+    "long": -69.7333297729,
+    "name": "Santa Rosa de Barinas "
+  },
+  "SVRA": {
+    "lat": 10.5717000961,
+    "long": -62.9922981262,
+    "name": "Rio de Agua "
+  },
+  "SVRB": {
+    "lat": 11.4866666794,
+    "long": -69.3550033569,
+    "name": "Cumarebo "
+  },
+  "SVRC": {
+    "lat": 10.7833328247,
+    "long": -68.5500030518,
+    "name": "El Rocio "
+  },
+  "SVRE": {
+    "lat": 8.3933334351,
+    "long": -65.8666687012,
+    "name": "Aracay Abajo "
+  },
+  "SVRG": {
+    "lat": 7.3499999046,
+    "long": -69.3499984741,
+    "name": "Rancho Grande de Apure "
+  },
+  "SVRH": {
+    "lat": 7.6166667938,
+    "long": -71.9833297729,
+    "name": "Rancho Grande de Tachira "
+  },
+  "SVRI": {
+    "lat": 6.7840600014,
+    "long": -68.8650970459,
+    "name": "Riecito "
+  },
+  "SVRK": {
+    "lat": 9.1666669846,
+    "long": -67.75,
+    "name": "Los Arrecifes "
+  },
+  "SVRL": {
+    "lat": 8.516667366,
+    "long": -69.6416702271,
+    "name": "San Pancracio "
+  },
+  "SVRM": {
+    "lat": 9.5,
+    "long": -67.6666641235,
+    "name": "Hato La Romerena "
+  },
+  "SVRN": {
+    "lat": 9.3833332062,
+    "long": -63.2666664124,
+    "name": "El Terron "
+  },
+  "SVRO": {
+    "lat": 10.4366674423,
+    "long": -63.9166679382,
+    "name": "El Rosario "
+  },
+  "SVRQ": {
+    "lat": 5.4333329201,
+    "long": -66.1341705322,
+    "name": "Rosetta "
+  },
+  "SVRR": {
+    "lat": 5.9666671753,
+    "long": -62.25,
+    "name": "Carrao "
+  },
+  "SVRS": {
+    "lat": 11.9499998093,
+    "long": -66.6699981689,
+    "name": "Gran Roque "
+  },
+  "SVRT": {
+    "lat": 7.0500001907,
+    "long": -68.5666656494,
+    "name": "Corocito "
+  },
+  "SVRU": {
+    "lat": 9.200220108,
+    "long": -66.3111114502,
+    "name": "Roblecito "
+  },
+  "SVRW": {
+    "lat": 9.1999998093,
+    "long": -72.3833312988,
+    "name": "Rosario "
+  },
+  "SVRX": {
+    "lat": 9.8434696198,
+    "long": -72.547203064,
+    "name": "Hacienda Rio Yaza "
+  },
+  "SVRY": {
+    "lat": 8.1666669846,
+    "long": -62.8333320618,
+    "name": "El Merey "
+  },
+  "SVRZ": {
+    "lat": 8.4666671753,
+    "long": -66.0333328247,
+    "name": "El Corozo "
+  },
+  "SVSA": {
+    "lat": 7.8408298492,
+    "long": -72.4396972656,
+    "name": "San Antonio Del Tachira "
+  },
+  "SVSB": {
+    "lat": 7.8035140038,
+    "long": -71.1657180786,
+    "name": "Santa Barbara de Barinas "
+  },
+  "SVSC": {
+    "lat": 1.9166669846,
+    "long": -67.0500030518,
+    "name": "San Carlos Rio Negro "
+  },
+  "SVSD": {
+    "lat": 8.8166666031,
+    "long": -69.6333312988,
+    "name": "Sabana Dulce "
+  },
+  "SVSE": {
+    "lat": 4.5549998283,
+    "long": -61.1500015259,
+    "name": "Santa Elena de Uairen "
+  },
+  "SVSF": {
+    "lat": 11.0500001907,
+    "long": -68.3850021362,
+    "name": "San Antonio De Falcon "
+  },
+  "SVSG": {
+    "lat": 8.5666666031,
+    "long": -70.0500030518,
+    "name": "San Antonio De Barinas "
+  },
+  "SVSH": {
+    "lat": 7.1841669083,
+    "long": -67.1680526733,
+    "name": "San Juan De Rio Claro "
+  },
+  "SVSI": {
+    "lat": 8.9499998093,
+    "long": -68.0833358765,
+    "name": "Agropecuaria San Francisco "
+  },
+  "SVSJ": {
+    "lat": 8.9166669846,
+    "long": -71.9333343506,
+    "name": "Central Bolivar "
+  },
+  "SVSK": {
+    "lat": 9.7783327103,
+    "long": -68.1750030518,
+    "name": "Nuestra Senora del Socorro "
+  },
+  "SVSL": {
+    "lat": 10.3166666031,
+    "long": -66.3000030518,
+    "name": "Hacienda Santa Elena de Mirand "
+  },
+  "SVSM": {
+    "lat": 8.3216667175,
+    "long": -70.2466659546,
+    "name": "Fundo Santa Maria "
+  },
+  "SVSN": {
+    "lat": 8.8756399155,
+    "long": -66.8398971558,
+    "name": "Los Siete Samanes "
+  },
+  "SVSO": {
+    "lat": 7.5653800964,
+    "long": -72.0351028442,
+    "name": "Mayor Buenaventura Vivas International "
+  },
+  "SVSP": {
+    "lat": 10.2786998749,
+    "long": -68.7552032471,
+    "name": "Sub Teniente Nestor Arias "
+  },
+  "SVSQ": {
+    "lat": 7.0333328247,
+    "long": -68.3333358765,
+    "name": "San Leonardo "
+  },
+  "SVSR": {
+    "lat": 7.8833198547,
+    "long": -67.4440002441,
+    "name": "San Fernando De Apure "
+  },
+  "SVSS": {
+    "lat": 9.4666671753,
+    "long": -71.0333328247,
+    "name": "Hacienda San Jose "
+  },
+  "SVST": {
+    "lat": 8.9451465607,
+    "long": -64.1510848999,
+    "name": "San Tome "
+  },
+  "SVSU": {
+    "lat": 10.3022222519,
+    "long": -72.0522232056,
+    "name": "San Benito "
+  },
+  "SVSW": {
+    "lat": 10.1022224426,
+    "long": -68.0833358765,
+    "name": "San Francisco De Carabobo "
+  },
+  "SVSX": {
+    "lat": 11.1750001907,
+    "long": -68.4216690063,
+    "name": "San Juan de los Cayos "
+  },
+  "SVSY": {
+    "lat": 8.8000001907,
+    "long": -71.5833358765,
+    "name": "San Francisco de Merida "
+  },
+  "SVSZ": {
+    "lat": 8.9745502472,
+    "long": -71.9432525635,
+    "name": "Santa Barbara del Zulia "
+  },
+  "SVTB": {
+    "lat": 7.4000000954,
+    "long": -64.3666687012,
+    "name": "Turapa "
+  },
+  "SVTC": {
+    "lat": 9.0889940262,
+    "long": -62.0941734314,
+    "name": "Tucupita "
+  },
+  "SVTD": {
+    "lat": 7.4000000954,
+    "long": -69.0666656494,
+    "name": "La Estacada "
+  },
+  "SVTE": {
+    "lat": 6.4833331108,
+    "long": -62.8833312988,
+    "name": "Antabare "
+  },
+  "SVTF": {
+    "lat": 7.4000000954,
+    "long": -67.9499969482,
+    "name": "La Trinidad de Ferro "
+  },
+  "SVTG": {
+    "lat": 7.6333332062,
+    "long": -68.6999969482,
+    "name": "La Tigra "
+  },
+  "SVTJ": {
+    "lat": 10.1578998566,
+    "long": -68.8616027832,
+    "name": "Central Matilde "
+  },
+  "SVTK": {
+    "lat": 7.1383328438,
+    "long": -69.7750015259,
+    "name": "La Trinidad de Orichuna "
+  },
+  "SVTL": {
+    "lat": 6.9416670799,
+    "long": -65.8916702271,
+    "name": "La Centella "
+  },
+  "SVTM": {
+    "lat": 7.25,
+    "long": -61.4333343506,
+    "name": "Tumeremo "
+  },
+  "SVTN": {
+    "lat": 8.1333332062,
+    "long": -68.6666641235,
+    "name": "La Trinidad de Barinas "
+  },
+  "SVTO": {
+    "lat": 9.1999998093,
+    "long": -64.8499984741,
+    "name": "El Toco "
+  },
+  "SVTP": {
+    "lat": 10.1333332062,
+    "long": -65.4416656494,
+    "name": "Playa Pintada "
+  },
+  "SVTR": {
+    "lat": 9.016667366,
+    "long": -62.7333335876,
+    "name": "Temblador "
+  },
+  "SVTT": {
+    "lat": 9.5112600327,
+    "long": -66.5539016724,
+    "name": "La Torta "
+  },
+  "SVTU": {
+    "lat": 7.7833328247,
+    "long": -69.2333297729,
+    "name": "Turagua "
+  },
+  "SVTV": {
+    "lat": 9.25,
+    "long": -69.1333312988,
+    "name": "Turen "
+  },
+  "SVTY": {
+    "lat": 9.130825803,
+    "long": -66.3911533356,
+    "name": "Toromacho "
+  },
+  "SVUA": {
+    "lat": 6.1500000954,
+    "long": -62.7000007629,
+    "name": "Mayupa "
+  },
+  "SVUK": {
+    "lat": 9.4499998093,
+    "long": -68.3666687012,
+    "name": "San Ignacio "
+  },
+  "SVUM": {
+    "lat": 5.3333330154,
+    "long": -62.7666664124,
+    "name": "Uriman "
+  },
+  "SVUP": {
+    "lat": 7.9799399376,
+    "long": -62.3227996826,
+    "name": "Upata "
+  },
+  "SVUQ": {
+    "lat": 4.9833331108,
+    "long": -61.7283325195,
+    "name": "Uon Quen "
+  },
+  "SVUY": {
+    "lat": 5.6800498962,
+    "long": -62.4571990967,
+    "name": "Uruyen "
+  },
+  "SVVA": {
+    "lat": 10.1497325897,
+    "long": -67.9283981323,
+    "name": "Arturo Michelena International "
+  },
+  "SVVB": {
+    "lat": 9.0513887405,
+    "long": -66.4674987793,
+    "name": "Bajo Verde "
+  },
+  "SVVD": {
+    "lat": 8.266667366,
+    "long": -67.1666641235,
+    "name": "Valle Grande "
+  },
+  "SVVG": {
+    "lat": 8.6241388321,
+    "long": -71.672668457,
+    "name": "Juan Pablo Perez Alfonso "
+  },
+  "SVVH": {
+    "lat": 9.3666667938,
+    "long": -62.9166679382,
+    "name": "Valle Hondo "
+  },
+  "SVVK": {
+    "lat": 7.1333332062,
+    "long": -69.0500030518,
+    "name": "La Verdad "
+  },
+  "SVVL": {
+    "lat": 9.3404779434,
+    "long": -70.5840606689,
+    "name": "Dr. Antonio Nicolas Briceno "
+  },
+  "SVVM": {
+    "lat": 6.9166669846,
+    "long": -68.1500015259,
+    "name": "Buena Vista del Cano Medio "
+  },
+  "SVVP": {
+    "lat": 9.2220277786,
+    "long": -65.9935836792,
+    "name": "Valle de La Pascua "
+  },
+  "SVVQ": {
+    "lat": 10.2427997589,
+    "long": -70.5018005371,
+    "name": "Venelac  "
+  },
+  "SVVR": {
+    "lat": 6.8333330154,
+    "long": -63.5833320618,
+    "name": "Hato La Vergarena "
+  },
+  "SVVS": {
+    "lat": 10.3166666031,
+    "long": -72.3000030518,
+    "name": "Villa del Rosario "
+  },
+  "SVVV": {
+    "lat": 10.5402002335,
+    "long": -68.2453994751,
+    "name": "Venepal "
+  },
+  "SVVX": {
+    "lat": 6.5616669655,
+    "long": -66.001663208,
+    "name": "Los Venados "
+  },
+  "SVWA": {
+    "lat": 7.3166670799,
+    "long": -67.9083328247,
+    "name": "Mata de Agua "
+  },
+  "SVWB": {
+    "lat": 10.4794998169,
+    "long": -68.4728012085,
+    "name": "La Bananera "
+  },
+  "SVWE": {
+    "lat": 8.0116672516,
+    "long": -69.8316650391,
+    "name": "Bella Vista "
+  },
+  "SVXF": {
+    "lat": 7.1500000954,
+    "long": -69.25,
+    "name": "Hato Santa Clara "
+  },
+  "SVYA": {
+    "lat": 7.7166671753,
+    "long": -71.2333297729,
+    "name": "Yaure "
+  },
+  "SVYG": {
+    "lat": 7.4666671753,
+    "long": -68.4499969482,
+    "name": "El Yagual "
+  },
+  "SVYI": {
+    "lat": 5.4583330154,
+    "long": -65.8983306885,
+    "name": "El Yavi "
+  },
+  "SVYP": {
+    "lat": 7.1999998093,
+    "long": -69.3166656494,
+    "name": "Yopita "
+  },
+  "SVYT": {
+    "lat": 5.6097798347,
+    "long": -66.1103973389,
+    "name": "Yutaje "
+  }
+}

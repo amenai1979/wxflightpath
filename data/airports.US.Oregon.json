@@ -1,0 +1,1964 @@
+{
+    "01OR": {
+        "lat": 43.1193008423,
+        "long": -121.0449981689,
+        "name": "Red & White Flying Service ",
+        "state": "Oregon"
+    },
+    "02OR": {
+        "lat": 45.6814994812,
+        "long": -121.3160018921,
+        "name": "Rowena Dell ",
+        "state": "Oregon"
+    },
+    "03OR": {
+        "lat": 45.8554000854,
+        "long": -117.4840011597,
+        "name": "Powwatka Ridge ",
+        "state": "Oregon"
+    },
+    "04OR": {
+        "lat": 44.7499008179,
+        "long": -120.200996399,
+        "name": "Collins Landing Strip",
+        "state": "Oregon"
+    },
+    "05OR": {
+        "lat": 45.4415016174,
+        "long": -117.3509979248,
+        "name": "Peacock Ranch ",
+        "state": "Oregon"
+    },
+    "06OR": {
+        "lat": 45.4650993347,
+        "long": -123.0800018311,
+        "name": "Hayden Mountain ",
+        "state": "Oregon"
+    },
+    "07OR": {
+        "lat": 45.4217987061,
+        "long": -122.6200027466,
+        "name": "Bruce's ",
+        "state": "Oregon"
+    },
+    "08OR": {
+        "lat": 42.8392982483,
+        "long": -121.1169967651,
+        "name": "Saxon Sycan ",
+        "state": "Oregon"
+    },
+    "0OR3": {
+        "lat": 42.0190010071,
+        "long": -121.7040023804,
+        "name": "Long Ranch ",
+        "state": "Oregon"
+    },
+    "0OR5": {
+        "lat": 42.5035018921,
+        "long": -122.855003357,
+        "name": "East Oregon Cattle Co ",
+        "state": "Oregon"
+    },
+    "0OR6": {
+        "lat": 42.8339996338,
+        "long": -117.6289978027,
+        "name": "Rome Service ",
+        "state": "Oregon"
+    },
+    "0OR7": {
+        "lat": 44.8540000916,
+        "long": -123.263999939,
+        "name": "Marr Field",
+        "state": "Oregon"
+    },
+    "0OR8": {
+        "lat": 42.4847984314,
+        "long": -122.8659973145,
+        "name": "Sutton on Rogue ",
+        "state": "Oregon"
+    },
+    "0OR9": {
+        "lat": 45.5926017761,
+        "long": -121.5490036011,
+        "name": "Hanel Field",
+        "state": "Oregon"
+    },
+    "10OR": {
+        "lat": 45.7892990112,
+        "long": -123.2320022583,
+        "name": "Stevens Mountain ",
+        "state": "Oregon"
+    },
+    "11OG": {
+        "lat": 44.4513015747,
+        "long": -118.18699646,
+        "name": "Unity ",
+        "state": "Oregon"
+    },
+    "11OR": {
+        "lat": 43.3935012817,
+        "long": -123.2850036621,
+        "name": "Holiday Sky Ranch ",
+        "state": "Oregon"
+    },
+    "12OR": {
+        "lat": 42.9513015747,
+        "long": -117.2819976807,
+        "name": "Skinner Ranch ",
+        "state": "Oregon"
+    },
+    "13OR": {
+        "lat": 43.7406997681,
+        "long": -122.4260025024,
+        "name": "Aubrey Mountain Airstrip",
+        "state": "Oregon"
+    },
+    "17OR": {
+        "lat": 43.2641983032,
+        "long": -123.1100006104,
+        "name": "Glide Aero ",
+        "state": "Oregon"
+    },
+    "18OR": {
+        "lat": 45.0918655396,
+        "long": -123.182350159,
+        "name": "Red's Field",
+        "state": "Oregon"
+    },
+    "19OR": {
+        "lat": 45.1096000671,
+        "long": -121.2239990234,
+        "name": "Nelson Ranch ",
+        "state": "Oregon"
+    },
+    "1JY2": {
+        "lat": 43.0671005249,
+        "long": -121.0530014038,
+        "name": "Mahogany Mtn. ",
+        "state": "Oregon"
+    },
+    "1OR0": {
+        "lat": 43.4832000732,
+        "long": -124.2030029297,
+        "name": "Sunnyhill ",
+        "state": "Oregon"
+    },
+    "1OR3": {
+        "lat": 45.5914993286,
+        "long": -123.0100021362,
+        "name": "Sunset Air Strip",
+        "state": "Oregon"
+    },
+    "1OR4": {
+        "lat": 45.6040000916,
+        "long": -123.0250015259,
+        "name": "North Plains Gliderport",
+        "state": "Oregon"
+    },
+    "1OR5": {
+        "lat": 45.4874000549,
+        "long": -120.2259979248,
+        "name": "Reed ",
+        "state": "Oregon"
+    },
+    "1OR6": {
+        "lat": 45.3713989258,
+        "long": -122.5540008545,
+        "name": "Clackamas Heights ",
+        "state": "Oregon"
+    },
+    "1OR7": {
+        "lat": 45.2878990173,
+        "long": -122.4560012817,
+        "name": "Skyhill ",
+        "state": "Oregon"
+    },
+    "20OR": {
+        "lat": 45.3250007629,
+        "long": -122.4240036011,
+        "name": "Warner's ",
+        "state": "Oregon"
+    },
+    "21OG": {
+        "lat": 44.771806,
+        "long": -122.969444,
+        "name": "Ames ",
+        "state": "Oregon"
+    },
+    "22OG": {
+        "lat": 42.2753982544,
+        "long": -120.3939971924,
+        "name": "Withrotor ",
+        "state": "Oregon"
+    },
+    "22OR": {
+        "lat": 44.9417991638,
+        "long": -122.7630004883,
+        "name": "Iron Crown ",
+        "state": "Oregon"
+    },
+    "26OR": {
+        "lat": 45.4379005432,
+        "long": -122.5279998779,
+        "name": "Cub Port ",
+        "state": "Oregon"
+    },
+    "28OR": {
+        "lat": 45.4790000916,
+        "long": -122.2340011597,
+        "name": "Parrett Mountain ",
+        "state": "Oregon"
+    },
+    "29OR": {
+        "lat": 45.0317993164,
+        "long": -122.9570007324,
+        "name": "Smith Private ",
+        "state": "Oregon"
+    },
+    "2OG4": {
+        "lat": 42.330278,
+        "long": -118.647222,
+        "name": "El Rancho ",
+        "state": "Oregon"
+    },
+    "2OG5": {
+        "lat": 45.117978,
+        "long": -123.506458,
+        "name": "Mendenhall Airstrip",
+        "state": "Oregon"
+    },
+    "2OR0": {
+        "lat": 45.3442993164,
+        "long": -122.5179977417,
+        "name": "Nielsen ",
+        "state": "Oregon"
+    },
+    "2OR1": {
+        "lat": 44.8284988403,
+        "long": -120.4950027466,
+        "name": "Big Muddy Ranch ",
+        "state": "Oregon"
+    },
+    "2OR3": {
+        "lat": 44.7946014404,
+        "long": -123.0979995728,
+        "name": "Davidson Field",
+        "state": "Oregon"
+    },
+    "2OR4": {
+        "lat": 43.4748001099,
+        "long": -123.3460006714,
+        "name": "Heavens Gate Ranch ",
+        "state": "Oregon"
+    },
+    "2OR6": {
+        "lat": 44.1813011169,
+        "long": -118.2149963379,
+        "name": "Lockhart ",
+        "state": "Oregon"
+    },
+    "2OR7": {
+        "lat": 44.3992996216,
+        "long": -122.6849975586,
+        "name": "Sweet Home ",
+        "state": "Oregon"
+    },
+    "30OR": {
+        "lat": 45.8026008606,
+        "long": -123.2799987793,
+        "name": "Bero Field",
+        "state": "Oregon"
+    },
+    "32OR": {
+        "lat": 45.2547988892,
+        "long": -121.2939987183,
+        "name": "Pine Hollow ",
+        "state": "Oregon"
+    },
+    "33OR": {
+        "lat": 44.0637016296,
+        "long": -123.3909988403,
+        "name": "Crow-Mag ",
+        "state": "Oregon"
+    },
+    "35OR": {
+        "lat": 44.1926002502,
+        "long": -121.1790008545,
+        "name": "Freight Wagon Field",
+        "state": "Oregon"
+    },
+    "36OR": {
+        "lat": 44.0032997131,
+        "long": -122.8799972534,
+        "name": "Jasper Ridge Airstrip",
+        "state": "Oregon"
+    },
+    "37OR": {
+        "lat": 45.0932006836,
+        "long": -118.3990020752,
+        "name": "Vey Sheep Ranch ",
+        "state": "Oregon"
+    },
+    "3OG3": {
+        "lat": 42.122222,
+        "long": -121.791667,
+        "name": "Dillon Field ",
+        "state": "Oregon"
+    },
+    "3OR1": {
+        "lat": 44.3646011353,
+        "long": -122.9580001831,
+        "name": "Cubehole ",
+        "state": "Oregon"
+    },
+    "3OR2": {
+        "lat": 45.3124008179,
+        "long": -117.9589996338,
+        "name": "Maxwell Private ",
+        "state": "Oregon"
+    },
+    "3OR8": {
+        "lat": 44.2831993103,
+        "long": -121.2689971924,
+        "name": "Cline Falls Air Park",
+        "state": "Oregon"
+    },
+    "3OR9": {
+        "lat": 43.9574012756,
+        "long": -118.1320037842,
+        "name": "Murphy Ranch ",
+        "state": "Oregon"
+    },
+    "42OR": {
+        "lat": 44.1342010498,
+        "long": -120.3229980469,
+        "name": "Shotgun Ranch Airstrip",
+        "state": "Oregon"
+    },
+    "43OR": {
+        "lat": 44.6225013733,
+        "long": -122.7519989014,
+        "name": "Inspiration ",
+        "state": "Oregon"
+    },
+    "44OR": {
+        "lat": 45.2223014832,
+        "long": -122.7269973755,
+        "name": "Compton ",
+        "state": "Oregon"
+    },
+    "45OG": {
+        "lat": 45.476389,
+        "long": -118.791667,
+        "name": "Rugg Ranches ",
+        "state": "Oregon"
+    },
+    "45OR": {
+        "lat": 43.154800415,
+        "long": -124.1709976196,
+        "name": "Benham ",
+        "state": "Oregon"
+    },
+    "47OR": {
+        "lat": 42.1649017334,
+        "long": -119.904998779,
+        "name": "Mc Ranch ",
+        "state": "Oregon"
+    },
+    "48OR": {
+        "lat": 43.1593017578,
+        "long": -123.5019989014,
+        "name": "Lookingglass ",
+        "state": "Oregon"
+    },
+    "49OR": {
+        "lat": 44.5937995911,
+        "long": -119.5640029907,
+        "name": "Land's Inn Ranch ",
+        "state": "Oregon"
+    },
+    "4OR0": {
+        "lat": 42.5550994873,
+        "long": -123.2040023804,
+        "name": "Springbrook ",
+        "state": "Oregon"
+    },
+    "4OR3": {
+        "lat": 44.7304000854,
+        "long": -123.0759963989,
+        "name": "Lambert Field",
+        "state": "Oregon"
+    },
+    "4OR4": {
+        "lat": 44.4435997009,
+        "long": -123.2379989624,
+        "name": "Schrock ",
+        "state": "Oregon"
+    },
+    "4OR5": {
+        "lat": 44.9678993225,
+        "long": -122.9410018921,
+        "name": "Fly 'N' W ",
+        "state": "Oregon"
+    },
+    "4OR6": {
+        "lat": 45.449798584,
+        "long": -122.2539978027,
+        "name": "Auberge Des Fleurs ",
+        "state": "Oregon"
+    },
+    "4OR7": {
+        "lat": 44.98540115,
+        "long": -122.9459991,
+        "name": "Lusardi Field",
+        "state": "Oregon"
+    },
+    "4OR8": {
+        "lat": 44.8484992981,
+        "long": -123.0410003662,
+        "name": "Wagoner ",
+        "state": "Oregon"
+    },
+    "50OR": {
+        "lat": 44.0973014832,
+        "long": -120.9469985962,
+        "name": "Goering Ranches ",
+        "state": "Oregon"
+    },
+    "52OR": {
+        "lat": 45.7453994751,
+        "long": -122.8460006714,
+        "name": "Chinook Ultralight Airpark",
+        "state": "Oregon"
+    },
+    "55OR": {
+        "lat": 44.436000824,
+        "long": -123.3079986572,
+        "name": "Muddy Creek ",
+        "state": "Oregon"
+    },
+    "57OR": {
+        "lat": 43.3400001526,
+        "long": -123.4509963989,
+        "name": "Umpqua River Farm ",
+        "state": "Oregon"
+    },
+    "58OR": {
+        "lat": 43.3097000122,
+        "long": -123.1269989014,
+        "name": "Umpqua ",
+        "state": "Oregon"
+    },
+    "5OR0": {
+        "lat": 42.2850990295,
+        "long": -123.5329971313,
+        "name": "Backachers Ranch ",
+        "state": "Oregon"
+    },
+    "5OR2": {
+        "lat": 45.1031990051,
+        "long": -123.425003052,
+        "name": "Bushnell ",
+        "state": "Oregon"
+    },
+    "5OR3": {
+        "lat": 44.7304000854,
+        "long": -123.9150009155,
+        "name": "Siletz ",
+        "state": "Oregon"
+    },
+    "5OR4": {
+        "lat": 42.4348983765,
+        "long": -121.3499984741,
+        "name": "Flying T Ranch ",
+        "state": "Oregon"
+    },
+    "5OR5": {
+        "lat": 44.0345993042,
+        "long": -121.1179962158,
+        "name": "Juniper Air Park",
+        "state": "Oregon"
+    },
+    "5OR8": {
+        "lat": 44.7732009888,
+        "long": -122.8499984741,
+        "name": "Hatch ",
+        "state": "Oregon"
+    },
+    "5OR9": {
+        "lat": 44.7767982483,
+        "long": -122.7600021362,
+        "name": "Lone Oaks Ranch ",
+        "state": "Oregon"
+    },
+    "60OR": {
+        "lat": 43.4264984131,
+        "long": -123.2799987793,
+        "name": "Whitaker ",
+        "state": "Oregon"
+    },
+    "61OR": {
+        "lat": 44.3348007202,
+        "long": -121.3550033569,
+        "name": "The Citadel ",
+        "state": "Oregon"
+    },
+    "63OR": {
+        "lat": 45.6165008545,
+        "long": -123.0459976196,
+        "name": "Mountaindale ",
+        "state": "Oregon"
+    },
+    "64OG": {
+        "lat": 44.493436,
+        "long": -119.843686,
+        "name": "Antone Ranch ",
+        "state": "Oregon"
+    },
+    "64OR": {
+        "lat": 45.0336990356,
+        "long": -123.1719970703,
+        "name": "Plum Valley ",
+        "state": "Oregon"
+    },
+    "67OG": {
+        "lat": 45.031389,
+        "long": -123.406111,
+        "name": "George ",
+        "state": "Oregon"
+    },
+    "67OR": {
+        "lat": 45.2336997986,
+        "long": -122.856002808,
+        "name": "Mc Gee ",
+        "state": "Oregon"
+    },
+    "68OR": {
+        "lat": 45.3911018372,
+        "long": -121.2760009766,
+        "name": "Lyda Ranch Airstrip",
+        "state": "Oregon"
+    },
+    "69OR": {
+        "lat": 45.4126014709,
+        "long": -123.1370010376,
+        "name": "Dick Fisher ",
+        "state": "Oregon"
+    },
+    "6OG3": {
+        "lat": 42.130283,
+        "long": -121.531633,
+        "name": "Sky Wagon Ranch ",
+        "state": "Oregon"
+    },
+    "6OR0": {
+        "lat": 44.5297012329,
+        "long": -123.091003418,
+        "name": "Grells ",
+        "state": "Oregon"
+    },
+    "6OR1": {
+        "lat": 45.572101593,
+        "long": -121.2720031738,
+        "name": "Pointers ",
+        "state": "Oregon"
+    },
+    "6OR2": {
+        "lat": 45.611000061,
+        "long": -121.2710037231,
+        "name": "Chenoweth Airpark",
+        "state": "Oregon"
+    },
+    "6OR4": {
+        "lat": 44.2731825,
+        "long": -120.794741944,
+        "name": "Tailwheel ",
+        "state": "Oregon"
+    },
+    "6OR6": {
+        "lat": 42.3914985657,
+        "long": -123.5350036621,
+        "name": "Wonder ",
+        "state": "Oregon"
+    },
+    "6OR7": {
+        "lat": 45.4528999329,
+        "long": -122.3209991455,
+        "name": "Schmidt ",
+        "state": "Oregon"
+    },
+    "6OR8": {
+        "lat": 45.9715003967,
+        "long": -123.3499984741,
+        "name": "Holce & Oblack ",
+        "state": "Oregon"
+    },
+    "6OR9": {
+        "lat": 45.3414993286,
+        "long": -117.6259994507,
+        "name": "Reds Wallowa Horse Ranch ",
+        "state": "Oregon"
+    },
+    "70OR": {
+        "lat": 45.4095993042,
+        "long": -123.1490020752,
+        "name": "Goodin Creek ",
+        "state": "Oregon"
+    },
+    "71OR": {
+        "lat": 44.2445,
+        "long": -119.126242,
+        "name": "Cerny ",
+        "state": "Oregon"
+    },
+    "72OR": {
+        "lat": 44.7843017578,
+        "long": -120.9550018311,
+        "name": "Ochs Private ",
+        "state": "Oregon"
+    },
+    "73OR": {
+        "lat": 45.3703994751,
+        "long": -123.0650024414,
+        "name": "Ribbon Ridge ",
+        "state": "Oregon"
+    },
+    "74OR": {
+        "lat": 45.3236999512,
+        "long": -123.0189971924,
+        "name": "Stan Jost ",
+        "state": "Oregon"
+    },
+    "78OR": {
+        "lat": 43.3078994751,
+        "long": -117.8939971924,
+        "name": "Crowley Ranch Airstrip",
+        "state": "Oregon"
+    },
+    "7OR0": {
+        "lat": 45.3582000732,
+        "long": -117.6340026855,
+        "name": "Minam Lodge ",
+        "state": "Oregon"
+    },
+    "7OR1": {
+        "lat": 43.4193000793,
+        "long": -118.5759963989,
+        "name": "Arnold Airstrip",
+        "state": "Oregon"
+    },
+    "7OR2": {
+        "lat": 44.8228988647,
+        "long": -122.6800003052,
+        "name": "Basl Hill Farms ",
+        "state": "Oregon"
+    },
+    "7OR3": {
+        "lat": 45.5904006958,
+        "long": -121.2139968872,
+        "name": "Honald Ranch ",
+        "state": "Oregon"
+    },
+    "7OR4": {
+        "lat": 44.3096008301,
+        "long": -121.4430007935,
+        "name": "Pineridge Ranch ",
+        "state": "Oregon"
+    },
+    "7OR6": {
+        "lat": 45.6367988586,
+        "long": -121.591003418,
+        "name": "Green Acres Air Park",
+        "state": "Oregon"
+    },
+    "7OR7": {
+        "lat": 45.0540008545,
+        "long": -122.9069976807,
+        "name": "Hollin ",
+        "state": "Oregon"
+    },
+    "7OR8": {
+        "lat": 44.0904006958,
+        "long": -119.2900009155,
+        "name": "Inshallah International ",
+        "state": "Oregon"
+    },
+    "7OR9": {
+        "lat": 45.3242988586,
+        "long": -122.472000122,
+        "name": "Parson Landing ",
+        "state": "Oregon"
+    },
+    "80OR": {
+        "lat": 42.3642997742,
+        "long": -120.966003418,
+        "name": "Wilderness ",
+        "state": "Oregon"
+    },
+    "81OR": {
+        "lat": 43.2499008179,
+        "long": -119.875,
+        "name": "Wagontire ",
+        "state": "Oregon"
+    },
+    "82OR": {
+        "lat": 43.8992996216,
+        "long": -122.8170013428,
+        "name": "Lost Creek ",
+        "state": "Oregon"
+    },
+    "83OR": {
+        "lat": 45.5013008118,
+        "long": -117.4720001221,
+        "name": "Tamarack Springs Ranch ",
+        "state": "Oregon"
+    },
+    "84OR": {
+        "lat": 42.2476005554,
+        "long": -123.5699996948,
+        "name": "B Bar Ranch ",
+        "state": "Oregon"
+    },
+    "85OR": {
+        "lat": 42.4045982361,
+        "long": -121.0490036011,
+        "name": "Allen's Airstrip",
+        "state": "Oregon"
+    },
+    "87OR": {
+        "lat": 42.6517982483,
+        "long": -121.3290023804,
+        "name": "Moondance Ranch ",
+        "state": "Oregon"
+    },
+    "88OR": {
+        "lat": 44.5682983398,
+        "long": -122.9710006714,
+        "name": "Tallman ",
+        "state": "Oregon"
+    },
+    "89OR": {
+        "lat": 42.5979003906,
+        "long": -122.7129974365,
+        "name": "Mucky Flat ",
+        "state": "Oregon"
+    },
+    "8OR2": {
+        "lat": 44.7784996033,
+        "long": -122.7300033569,
+        "name": "Kingston Airpark",
+        "state": "Oregon"
+    },
+    "8OR3": {
+        "lat": 42.9337005615,
+        "long": -123.1210021973,
+        "name": "Riverview Ranch ",
+        "state": "Oregon"
+    },
+    "8OR5": {
+        "lat": 44.0472984314,
+        "long": -121.2760009766,
+        "name": "Pilot Butte ",
+        "state": "Oregon"
+    },
+    "8OR6": {
+        "lat": 45.7822990417,
+        "long": -122.8939971924,
+        "name": "Grabhorn's ",
+        "state": "Oregon"
+    },
+    "8OR7": {
+        "lat": 44.6271019,
+        "long": -123.2249985,
+        "name": "Gates ",
+        "state": "Oregon"
+    },
+    "91OR": {
+        "lat": 45.1026000977,
+        "long": -123.418998718,
+        "name": "Abba's ",
+        "state": "Oregon"
+    },
+    "94OR": {
+        "lat": 43.5307006836,
+        "long": -123.5490036011,
+        "name": "Farm Yard Field",
+        "state": "Oregon"
+    },
+    "95OR": {
+        "lat": 43.2075996399,
+        "long": -123.5329971313,
+        "name": "Flournoy Valley ",
+        "state": "Oregon"
+    },
+    "96OR": {
+        "lat": 45.1006011963,
+        "long": -118.8170013428,
+        "name": "Cable Creek Ranch ",
+        "state": "Oregon"
+    },
+    "97OG": {
+        "lat": 43.897828,
+        "long": -116.989964,
+        "name": "Bybee Field",
+        "state": "Oregon"
+    },
+    "97OR": {
+        "lat": 44.4351997375,
+        "long": -118.6620025635,
+        "name": "Hi Country No 2 ",
+        "state": "Oregon"
+    },
+    "98OR": {
+        "lat": 45.1990013123,
+        "long": -123.3700027466,
+        "name": "Mach-O Acres ",
+        "state": "Oregon"
+    },
+    "98TE": {
+        "lat": 43.322101593,
+        "long": -123.1770019531,
+        "name": "Hilltop ",
+        "state": "Oregon"
+    },
+    "99OR": {
+        "lat": 45.6506996155,
+        "long": -117.669998169,
+        "name": "Lazy F Ranch ",
+        "state": "Oregon"
+    },
+    "9OR0": {
+        "lat": 44.3151016235,
+        "long": -123.0250015259,
+        "name": "Lafferty Field",
+        "state": "Oregon"
+    },
+    "9OR1": {
+        "lat": 45.0028991699,
+        "long": -120.7399978638,
+        "name": "Shaniko Ranch ",
+        "state": "Oregon"
+    },
+    "9OR4": {
+        "lat": 45.9337005615,
+        "long": -118.4479980469,
+        "name": "King's ",
+        "state": "Oregon"
+    },
+    "9OR8": {
+        "lat": 44.7326011658,
+        "long": -123.0559997559,
+        "name": "Wooldridge Agstrip ",
+        "state": "Oregon"
+    },
+    "K22S": {
+        "lat": 42.7178993225,
+        "long": -120.56300354,
+        "name": "Paisley ",
+        "state": "Oregon"
+    },
+    "K26U": {
+        "lat": 42.0021018982,
+        "long": -117.722999573,
+        "name": "Mc Dermitt State ",
+        "state": "Oregon"
+    },
+    "K2S7": {
+        "lat": 42.579440493,
+        "long": -121.879062653,
+        "name": "Chiloquin State ",
+        "state": "Oregon"
+    },
+    "K35S": {
+        "lat": 45.5894012451,
+        "long": -120.6740036011,
+        "name": "Wasco State ",
+        "state": "Oregon"
+    },
+    "K3S4": {
+        "lat": 42.1036987305,
+        "long": -123.6819992065,
+        "name": "Illinois Valley ",
+        "state": "Oregon"
+    },
+    "K3S8": {
+        "lat": 42.5101013184,
+        "long": -123.388000488,
+        "name": "Grants Pass ",
+        "state": "Oregon"
+    },
+    "K3S9": {
+        "lat": 45.2466011047,
+        "long": -120.1660003662,
+        "name": "Condon State Pauling Field",
+        "state": "Oregon"
+    },
+    "K4S1": {
+        "lat": 42.41339874,
+        "long": -124.4240036,
+        "name": "Gold Beach Municipal ",
+        "state": "Oregon"
+    },
+    "K4S2": {
+        "lat": 45.67259979,
+        "long": -121.5360031,
+        "name": "Ken Jernstedt Airfield",
+        "state": "Oregon"
+    },
+    "K4S9": {
+        "lat": 45.2163009644,
+        "long": -122.5899963379,
+        "name": "Portland Mulino ",
+        "state": "Oregon"
+    },
+    "K5S0": {
+        "lat": 43.7526016235,
+        "long": -122.5029983521,
+        "name": "Oakridge State ",
+        "state": "Oregon"
+    },
+    "K5S2": {
+        "lat": 43.5326004028,
+        "long": -121.9499969482,
+        "name": "Crescent Lake State ",
+        "state": "Oregon"
+    },
+    "K5S6": {
+        "lat": 42.8578987122,
+        "long": -124.5179977417,
+        "name": "Cape Blanco State ",
+        "state": "Oregon"
+    },
+    "K5S9": {
+        "lat": 45.3082008362,
+        "long": -122.3190002441,
+        "name": "Valley View ",
+        "state": "Oregon"
+    },
+    "K61S": {
+        "lat": 43.7998008728,
+        "long": -123.0289993286,
+        "name": "Cottage Grove State ",
+        "state": "Oregon"
+    },
+    "K62S": {
+        "lat": 43.2364997864,
+        "long": -120.6660003662,
+        "name": "Christmas Valley ",
+        "state": "Oregon"
+    },
+    "K64S": {
+        "lat": 42.7431983948,
+        "long": -122.4879989624,
+        "name": "Prospect State ",
+        "state": "Oregon"
+    },
+    "K6K5": {
+        "lat": 44.304599762,
+        "long": -121.5390014648,
+        "name": "Sisters Eagle Air ",
+        "state": "Oregon"
+    },
+    "K6S2": {
+        "lat": 43.98279953,
+        "long": -124.111000061,
+        "name": "Florence Municipal ",
+        "state": "Oregon"
+    },
+    "K77S": {
+        "lat": 43.9308013916,
+        "long": -123.0070037842,
+        "name": "Hobby Field",
+        "state": "Oregon"
+    },
+    "K7S5": {
+        "lat": 44.8670005798,
+        "long": -123.1979980469,
+        "name": "Independence State ",
+        "state": "Oregon"
+    },
+    "K7S9": {
+        "lat": 45.1804008484,
+        "long": -122.7429962158,
+        "name": "Lenhardt Airpark",
+        "state": "Oregon"
+    },
+    "K9S9": {
+        "lat": 45.4541015625,
+        "long": -119.6900024414,
+        "name": "Lexington ",
+        "state": "Oregon"
+    },
+    "KAST": {
+        "lat": 46.158000946,
+        "long": -123.878997803,
+        "name": "Astoria Regional ",
+        "state": "Oregon"
+    },
+    "KBDN": {
+        "lat": 44.09479904,
+        "long": -121.2009964,
+        "name": "Bend Municipal ",
+        "state": "Oregon"
+    },
+    "KBKE": {
+        "lat": 44.8372993469,
+        "long": -117.808998108,
+        "name": "Baker City Municipal ",
+        "state": "Oregon"
+    },
+    "KBNO": {
+        "lat": 43.5918998718,
+        "long": -118.955001831,
+        "name": "Burns Municipal ",
+        "state": "Oregon"
+    },
+    "KCVO": {
+        "lat": 44.49720001,
+        "long": -123.2900009,
+        "name": "Corvallis Municipal ",
+        "state": "Oregon"
+    },
+    "KEUG": {
+        "lat": 44.1245994568,
+        "long": -123.2119979858,
+        "name": "Mahlon Sweet Field",
+        "state": "Oregon"
+    },
+    "KGCD": {
+        "lat": 44.40420151,
+        "long": -118.9629974,
+        "name": "Grant Co Regional/Ogilvie Field",
+        "state": "Oregon"
+    },
+    "KGKY": {
+        "lat": 32.663898468,
+        "long": -97.0942993164,
+        "name": "Arlington Municipal ",
+        "state": "Oregon"
+    },
+    "KHIO": {
+        "lat": 45.54040146,
+        "long": -122.9499969,
+        "name": "Portland Hillsboro ",
+        "state": "Oregon"
+    },
+    "KHRI": {
+        "lat": 45.8282012939,
+        "long": -119.2590026855,
+        "name": "Hermiston Municipal ",
+        "state": "Oregon"
+    },
+    "KJSY": {
+        "lat": 45.3596000671,
+        "long": -117.253997803,
+        "name": "Joseph State ",
+        "state": "Oregon"
+    },
+    "KLGD": {
+        "lat": 45.2901992798,
+        "long": -118.0070037842,
+        "name": "La Grande Union County ",
+        "state": "Oregon"
+    },
+    "KLMT": {
+        "lat": 42.1561012268,
+        "long": -121.733001709,
+        "name": "Klamath Falls ",
+        "state": "Oregon"
+    },
+    "KM50": {
+        "lat": 45.8148002625,
+        "long": -119.8209991455,
+        "name": "Boardman ",
+        "state": "Oregon"
+    },
+    "KMFR": {
+        "lat": 42.3741989136,
+        "long": -122.8730010986,
+        "name": "Rogue Valley International Medford ",
+        "state": "Oregon"
+    },
+    "KMMV": {
+        "lat": 45.19440079,
+        "long": -123.1360016,
+        "name": "Mc Minnville Municipal ",
+        "state": "Oregon"
+    },
+    "KONO": {
+        "lat": 44.0205001831,
+        "long": -117.013999939,
+        "name": "Ontario Municipal ",
+        "state": "Oregon"
+    },
+    "KONP": {
+        "lat": 44.5803985596,
+        "long": -124.0579986572,
+        "name": "Newport Municipal ",
+        "state": "Oregon"
+    },
+    "KOTH": {
+        "lat": 43.417098999,
+        "long": -124.2460021973,
+        "name": "Southwest Oregon Regional ",
+        "state": "Oregon"
+    },
+    "KPDT": {
+        "lat": 45.695098877,
+        "long": -118.841003418,
+        "name": "Eastern Oregon Regional At Pendleton ",
+        "state": "Oregon"
+    },
+    "KPDX": {
+        "lat": 45.58869934,
+        "long": -122.5979996,
+        "name": "Portland International ",
+        "state": "Oregon"
+    },
+    "KPFC": {
+        "lat": 45.199798584,
+        "long": -123.961997986,
+        "name": "Pacific City State ",
+        "state": "Oregon"
+    },
+    "KRBG": {
+        "lat": 43.2388000488,
+        "long": -123.3560028076,
+        "name": "Roseburg Regional ",
+        "state": "Oregon"
+    },
+    "KRDM": {
+        "lat": 44.2541008,
+        "long": -121.1500015,
+        "name": "Roberts Field",
+        "state": "Oregon"
+    },
+    "KREO": {
+        "lat": 42.5777015686,
+        "long": -117.8850021362,
+        "name": "Rome State ",
+        "state": "Oregon"
+    },
+    "KS03": {
+        "lat": 42.1902999878,
+        "long": -122.661003113,
+        "name": "Ashland Municipal Sumner Parker Field",
+        "state": "Oregon"
+    },
+    "KS05": {
+        "lat": 43.08649826,
+        "long": -124.4079971,
+        "name": "Bandon State ",
+        "state": "Oregon"
+    },
+    "KS12": {
+        "lat": 44.6377983093,
+        "long": -123.0589981079,
+        "name": "Albany Municipal ",
+        "state": "Oregon"
+    },
+    "KS21": {
+        "lat": 43.8763008118,
+        "long": -121.45300293,
+        "name": "Sunriver ",
+        "state": "Oregon"
+    },
+    "KS33": {
+        "lat": 44.67020035,
+        "long": -121.1549988,
+        "name": "Madras Municipal ",
+        "state": "Oregon"
+    },
+    "KS39": {
+        "lat": 44.2869987488,
+        "long": -120.9039993286,
+        "name": "Prineville ",
+        "state": "Oregon"
+    },
+    "KS45": {
+        "lat": 44.8768997192,
+        "long": -124.0289993286,
+        "name": "Siletz Bay State ",
+        "state": "Oregon"
+    },
+    "KS48": {
+        "lat": 45.3544006348,
+        "long": -122.2679977417,
+        "name": "Country Squire Airpark",
+        "state": "Oregon"
+    },
+    "KSFF": {
+        "lat": 47.682800293,
+        "long": -117.3229980469,
+        "name": "Felts Field",
+        "state": "Oregon"
+    },
+    "KSLE": {
+        "lat": 44.90950012,
+        "long": -123.0029984,
+        "name": "McNary Field",
+        "state": "Oregon"
+    },
+    "KSPB": {
+        "lat": 45.7709999084,
+        "long": -122.8619995117,
+        "name": "Scappoose Industrial Airpark",
+        "state": "Oregon"
+    },
+    "KTMK": {
+        "lat": 45.4182014465,
+        "long": -123.814002991,
+        "name": "Tillamook ",
+        "state": "Oregon"
+    },
+    "KTTD": {
+        "lat": 45.5494003296,
+        "long": -122.4010009766,
+        "name": "Portland Troutdale ",
+        "state": "Oregon"
+    },
+    "KUAO": {
+        "lat": 45.2471008301,
+        "long": -122.7699966431,
+        "name": "Aurora State ",
+        "state": "Oregon"
+    },
+    "OG00": {
+        "lat": 44.5578994751,
+        "long": -121.4010009766,
+        "name": "3 Rivers Recreation Area ",
+        "state": "Oregon"
+    },
+    "OG01": {
+        "lat": 44.5974998474,
+        "long": -123.233001709,
+        "name": "Dunning Vineyards ",
+        "state": "Oregon"
+    },
+    "OG02": {
+        "lat": 45.6102981567,
+        "long": -123.0800018311,
+        "name": "Rieben ",
+        "state": "Oregon"
+    },
+    "OG04": {
+        "lat": 45.7486000061,
+        "long": -118.6210021973,
+        "name": "Rothrock Field",
+        "state": "Oregon"
+    },
+    "OG05": {
+        "lat": 43.9900016785,
+        "long": -121.2060012817,
+        "name": "Sundance Meadows ",
+        "state": "Oregon"
+    },
+    "OG06": {
+        "lat": 43.2114982605,
+        "long": -120.8430023193,
+        "name": "Table Rock ",
+        "state": "Oregon"
+    },
+    "OG07": {
+        "lat": 45.3335990906,
+        "long": -117.8199996948,
+        "name": "Cove Side Ranch Port ",
+        "state": "Oregon"
+    },
+    "OG08": {
+        "lat": 45.8086013794,
+        "long": -118.65599823,
+        "name": "Curtis Airfield",
+        "state": "Oregon"
+    },
+    "OG10": {
+        "lat": 44.5572013855,
+        "long": -122.8259963989,
+        "name": "Mt Hope ",
+        "state": "Oregon"
+    },
+    "OG12": {
+        "lat": 44.2122001648,
+        "long": -120.5240020752,
+        "name": "Wilson Ranch ",
+        "state": "Oregon"
+    },
+    "OG13": {
+        "lat": 42.2461013794,
+        "long": -123.0699996948,
+        "name": "Fly By Night ",
+        "state": "Oregon"
+    },
+    "OG14": {
+        "lat": 44.0242996216,
+        "long": -118.8489990234,
+        "name": "Ponderosa Ranch ",
+        "state": "Oregon"
+    },
+    "OG15": {
+        "lat": 44.2332000732,
+        "long": -121.3909988403,
+        "name": "Sage Ranch ",
+        "state": "Oregon"
+    },
+    "OG16": {
+        "lat": 44.382598877,
+        "long": -123.2129974365,
+        "name": "Jim's Airstrip",
+        "state": "Oregon"
+    },
+    "OG17": {
+        "lat": 42.1848983765,
+        "long": -120.466003418,
+        "name": "Teed's ",
+        "state": "Oregon"
+    },
+    "OG18": {
+        "lat": 43.479598999,
+        "long": -118.8310012817,
+        "name": "Lawen Strip",
+        "state": "Oregon"
+    },
+    "OG19": {
+        "lat": 44.650100708,
+        "long": -121.2379989624,
+        "name": "Bombay Farms ",
+        "state": "Oregon"
+    },
+    "OG20": {
+        "lat": 45.3207015991,
+        "long": -122.5510025024,
+        "name": "Fairways ",
+        "state": "Oregon"
+    },
+    "OG21": {
+        "lat": 44.195098877,
+        "long": -120.8229980469,
+        "name": "Dry Creek Airpark",
+        "state": "Oregon"
+    },
+    "OG23": {
+        "lat": 45.1571006775,
+        "long": -123.3909988403,
+        "name": "Poverty Hollow ",
+        "state": "Oregon"
+    },
+    "OG24": {
+        "lat": 43.3886985779,
+        "long": -123.2220001221,
+        "name": "Flying D Ranch ",
+        "state": "Oregon"
+    },
+    "OG25": {
+        "lat": 42.5111999512,
+        "long": -122.9240036011,
+        "name": "Firefly Ranch Airfield",
+        "state": "Oregon"
+    },
+    "OG26": {
+        "lat": 45.0619010925,
+        "long": -123.486000061,
+        "name": "Roscoes ",
+        "state": "Oregon"
+    },
+    "OG27": {
+        "lat": 44.9401016235,
+        "long": -118.0120010376,
+        "name": "Muddy Creek ",
+        "state": "Oregon"
+    },
+    "OG28": {
+        "lat": 44.6832008362,
+        "long": -122.7829971313,
+        "name": "The Green Trees Ranch ",
+        "state": "Oregon"
+    },
+    "OG29": {
+        "lat": 45.4306983948,
+        "long": -122.241996765,
+        "name": "Mc Kinnon Airpark",
+        "state": "Oregon"
+    },
+    "OG30": {
+        "lat": 45.3165016174,
+        "long": -122.6050033569,
+        "name": "Aeroacres ",
+        "state": "Oregon"
+    },
+    "OG31": {
+        "lat": 42.6082000732,
+        "long": -122.8259963989,
+        "name": "Shady Cove Airpark",
+        "state": "Oregon"
+    },
+    "OG33": {
+        "lat": 45.8790016174,
+        "long": -118.4049987793,
+        "name": "Oregon Sky Ranch ",
+        "state": "Oregon"
+    },
+    "OG34": {
+        "lat": 45.3997993469,
+        "long": -122.8290023804,
+        "name": "Meyer Riverside Airpark",
+        "state": "Oregon"
+    },
+    "OG36": {
+        "lat": 44.2504005432,
+        "long": -123.2279968262,
+        "name": "Munson ",
+        "state": "Oregon"
+    },
+    "OG39": {
+        "lat": 44.6617012024,
+        "long": -119.6520004272,
+        "name": "Longview Ranch ",
+        "state": "Oregon"
+    },
+    "OG40": {
+        "lat": 43.2373008728,
+        "long": -123.4929962158,
+        "name": "Napier Ranch ",
+        "state": "Oregon"
+    },
+    "OG41": {
+        "lat": 42.7711982727,
+        "long": -123.3150024414,
+        "name": "Nace Family Airstrip",
+        "state": "Oregon"
+    },
+    "OG42": {
+        "lat": 45.6548995972,
+        "long": -118.5899963379,
+        "name": "Quail Field",
+        "state": "Oregon"
+    },
+    "OG44": {
+        "lat": 45.1534004211,
+        "long": -123.2369995117,
+        "name": "Watts Landing ",
+        "state": "Oregon"
+    },
+    "OG45": {
+        "lat": 44.6169013977,
+        "long": -117.8720016479,
+        "name": "Bald Mountain ",
+        "state": "Oregon"
+    },
+    "OG48": {
+        "lat": 44.1958999634,
+        "long": -123.0729980469,
+        "name": "Greer ",
+        "state": "Oregon"
+    },
+    "OG49": {
+        "lat": 44.4219017029,
+        "long": -123.2590026855,
+        "name": "Coca Cola ",
+        "state": "Oregon"
+    },
+    "OG50": {
+        "lat": 43.8471984863,
+        "long": -117.5739974976,
+        "name": "Cottonwood Creek Ranch ",
+        "state": "Oregon"
+    },
+    "OG51": {
+        "lat": 44.4835014343,
+        "long": -120.9160003662,
+        "name": "Six Springs Ranch ",
+        "state": "Oregon"
+    },
+    "OG52": {
+        "lat": 44.8391990662,
+        "long": -123.2590026855,
+        "name": "Jpm ",
+        "state": "Oregon"
+    },
+    "OG53": {
+        "lat": 42.4878997803,
+        "long": -118.608001709,
+        "name": "Wildhorse Valley ",
+        "state": "Oregon"
+    },
+    "OG54": {
+        "lat": 44.9600982666,
+        "long": -120.8850021362,
+        "name": "Shaniko Cattle ",
+        "state": "Oregon"
+    },
+    "OG63": {
+        "lat": 45.648889,
+        "long": -123.039444,
+        "name": "Gilbert ",
+        "state": "Oregon"
+    },
+    "OL02": {
+        "lat": 45.6652984619,
+        "long": -119.3860015869,
+        "name": "West Buttercreek ",
+        "state": "Oregon"
+    },
+    "OL03": {
+        "lat": 45.4482002258,
+        "long": -122.5,
+        "name": "Happy Valley ",
+        "state": "Oregon"
+    },
+    "OL04": {
+        "lat": 45.1665000916,
+        "long": -120.6679992676,
+        "name": "Decker Ranch ",
+        "state": "Oregon"
+    },
+    "OL05": {
+        "lat": 45.1461982727,
+        "long": -122.6179962158,
+        "name": "Skydive Oregon ",
+        "state": "Oregon"
+    },
+    "OR00": {
+        "lat": 45.4345016479,
+        "long": -122.8799972534,
+        "name": "Flying K Ranch ",
+        "state": "Oregon"
+    },
+    "OR02": {
+        "lat": 44.3357009888,
+        "long": -121.0199966431,
+        "name": "River Run Ranch ",
+        "state": "Oregon"
+    },
+    "OR04": {
+        "lat": 44.0295982361,
+        "long": -121.1650009155,
+        "name": "Kennel Airstrip",
+        "state": "Oregon"
+    },
+    "OR05": {
+        "lat": 45.3620986938,
+        "long": -123.3560028076,
+        "name": "Flying M ",
+        "state": "Oregon"
+    },
+    "OR06": {
+        "lat": 42.5390014648,
+        "long": -122.922996521,
+        "name": "Snider Creek ",
+        "state": "Oregon"
+    },
+    "OR07": {
+        "lat": 44.76240158,
+        "long": -119.1019974,
+        "name": "Miranda'S Skyranch ",
+        "state": "Oregon"
+    },
+    "OR08": {
+        "lat": 43.1287994385,
+        "long": -118.6770019531,
+        "name": "Barton Lake Ranch ",
+        "state": "Oregon"
+    },
+    "OR09": {
+        "lat": 42.3356018066,
+        "long": -118.2580032349,
+        "name": "Whitehorse Ranch ",
+        "state": "Oregon"
+    },
+    "OR10": {
+        "lat": 42.6496009827,
+        "long": -118.9919967651,
+        "name": "Roaring Springs Ranch ",
+        "state": "Oregon"
+    },
+    "OR11": {
+        "lat": 44.912399292,
+        "long": -117.9580001831,
+        "name": "Jensens Strip",
+        "state": "Oregon"
+    },
+    "OR12": {
+        "lat": 45.0042991638,
+        "long": -116.8489990234,
+        "name": "Oxbow ",
+        "state": "Oregon"
+    },
+    "OR13": {
+        "lat": 44.5023994446,
+        "long": -119.3720016479,
+        "name": "Wiley Creek ",
+        "state": "Oregon"
+    },
+    "OR14": {
+        "lat": 43.7415008545,
+        "long": -118.0640029907,
+        "name": "Juntura ",
+        "state": "Oregon"
+    },
+    "OR16": {
+        "lat": 45.0573997498,
+        "long": -117.9680023193,
+        "name": "Umpleby Ranch ",
+        "state": "Oregon"
+    },
+    "OR17": {
+        "lat": 44.4118003845,
+        "long": -118.6910018921,
+        "name": "Oxbow Ranch ",
+        "state": "Oregon"
+    },
+    "OR19": {
+        "lat": 44.6386985779,
+        "long": -123.0230026245,
+        "name": "Propst ",
+        "state": "Oregon"
+    },
+    "OR20": {
+        "lat": 44.6581993103,
+        "long": -123.1429977417,
+        "name": "Hemmingson ",
+        "state": "Oregon"
+    },
+    "OR21": {
+        "lat": 44.5932006836,
+        "long": -122.9899978638,
+        "name": "Miller Airstrip",
+        "state": "Oregon"
+    },
+    "OR22": {
+        "lat": 44.6193008423,
+        "long": -123.0319976807,
+        "name": "Roppair ",
+        "state": "Oregon"
+    },
+    "OR23": {
+        "lat": 46.1613998413,
+        "long": -123.6399993896,
+        "name": "Karpens ",
+        "state": "Oregon"
+    },
+    "OR24": {
+        "lat": 45.8212013245,
+        "long": -118.4980010986,
+        "name": "Barrett Field",
+        "state": "Oregon"
+    },
+    "OR25": {
+        "lat": 44.8447990417,
+        "long": -122.9010009766,
+        "name": "Flying E ",
+        "state": "Oregon"
+    },
+    "OR26": {
+        "lat": 42.1277008057,
+        "long": -120.4840011597,
+        "name": "Farr ",
+        "state": "Oregon"
+    },
+    "OR27": {
+        "lat": 45.6332015991,
+        "long": -123.1679992676,
+        "name": "Chadwick ",
+        "state": "Oregon"
+    },
+    "OR28": {
+        "lat": 45.44150162,
+        "long": -122.8929977,
+        "name": "Harvey'S Acres ",
+        "state": "Oregon"
+    },
+    "OR29": {
+        "lat": 44.1111984253,
+        "long": -121.3339996338,
+        "name": "Gopher Gulch ",
+        "state": "Oregon"
+    },
+    "OR30": {
+        "lat": 44.003200531,
+        "long": -121.2720031738,
+        "name": "D M Stevenson Ranch ",
+        "state": "Oregon"
+    },
+    "OR32": {
+        "lat": 45.7521018982,
+        "long": -119.9459991455,
+        "name": "Simtag Farms ",
+        "state": "Oregon"
+    },
+    "OR34": {
+        "lat": 44.3222999573,
+        "long": -121.4329986572,
+        "name": "Whippet Field",
+        "state": "Oregon"
+    },
+    "OR35": {
+        "lat": 45.4426002502,
+        "long": -122.3209991455,
+        "name": "Flying K Bar J Ranch ",
+        "state": "Oregon"
+    },
+    "OR38": {
+        "lat": 45.0775985718,
+        "long": -122.9290008545,
+        "name": "Harchenko Industrial ",
+        "state": "Oregon"
+    },
+    "OR39": {
+        "lat": 44.6576004028,
+        "long": -123.2119979858,
+        "name": "Flying Tom ",
+        "state": "Oregon"
+    },
+    "OR40": {
+        "lat": 45.2556991577,
+        "long": -122.6510009766,
+        "name": "Dietz Airpark",
+        "state": "Oregon"
+    },
+    "OR41": {
+        "lat": 45.2075996399,
+        "long": -122.6689987183,
+        "name": "Workman Airpark",
+        "state": "Oregon"
+    },
+    "OR42": {
+        "lat": 43.1026000977,
+        "long": -124.1610031128,
+        "name": "Norway ",
+        "state": "Oregon"
+    },
+    "OR44": {
+        "lat": 44.153301239,
+        "long": -123.0650024414,
+        "name": "Briggs ",
+        "state": "Oregon"
+    },
+    "OR45": {
+        "lat": 44.197101593,
+        "long": -123.0559997559,
+        "name": "West Point ",
+        "state": "Oregon"
+    },
+    "OR46": {
+        "lat": 45.3832015991,
+        "long": -120.4680023193,
+        "name": "Ajax ",
+        "state": "Oregon"
+    },
+    "OR47": {
+        "lat": 44.1883010864,
+        "long": -123.1890029907,
+        "name": "Strauch Field",
+        "state": "Oregon"
+    },
+    "OR48": {
+        "lat": 45.1943016052,
+        "long": -120.2170028687,
+        "name": "Snyder Ranch ",
+        "state": "Oregon"
+    },
+    "OR50": {
+        "lat": 45.4856987,
+        "long": -122.2340011597,
+        "name": "Lehman Field",
+        "state": "Oregon"
+    },
+    "OR51": {
+        "lat": 44.7196006775,
+        "long": -122.6999969482,
+        "name": "Gillette Field",
+        "state": "Oregon"
+    },
+    "OR52": {
+        "lat": 44.4734992981,
+        "long": -123.3030014038,
+        "name": "Venell ",
+        "state": "Oregon"
+    },
+    "OR53": {
+        "lat": 45.1456985474,
+        "long": -121.2289962769,
+        "name": "Wapinitia ",
+        "state": "Oregon"
+    },
+    "OR54": {
+        "lat": 44.5984992981,
+        "long": -123.2070007324,
+        "name": "Winn ",
+        "state": "Oregon"
+    },
+    "OR56": {
+        "lat": 44.5698013306,
+        "long": -123.1709976196,
+        "name": "Holiday ",
+        "state": "Oregon"
+    },
+    "OR57": {
+        "lat": 43.8686981201,
+        "long": -123.033996582,
+        "name": "Walker ",
+        "state": "Oregon"
+    },
+    "OR59": {
+        "lat": 45.3315010071,
+        "long": -123.2070007324,
+        "name": "Trivelpiece ",
+        "state": "Oregon"
+    },
+    "OR60": {
+        "lat": 45.4365005493,
+        "long": -121.1660003662,
+        "name": "Fargher ",
+        "state": "Oregon"
+    },
+    "OR61": {
+        "lat": 45.6783981323,
+        "long": -123.1859970093,
+        "name": "Apple Valley ",
+        "state": "Oregon"
+    },
+    "OR64": {
+        "lat": 45.9637985229,
+        "long": -117.2350006104,
+        "name": "Beach Ranch ",
+        "state": "Oregon"
+    },
+    "OR65": {
+        "lat": 45.354801178,
+        "long": -122.3460006714,
+        "name": "Eagle Nest Ranch ",
+        "state": "Oregon"
+    },
+    "OR66": {
+        "lat": 45.3040008545,
+        "long": -122.361000061,
+        "name": "Beaver Oaks ",
+        "state": "Oregon"
+    },
+    "OR67": {
+        "lat": 45.3372993469,
+        "long": -122.398002625,
+        "name": "Mc Gill ",
+        "state": "Oregon"
+    },
+    "OR70": {
+        "lat": 44.8596000671,
+        "long": -117.0879974365,
+        "name": "Pine Valley ",
+        "state": "Oregon"
+    },
+    "OR72": {
+        "lat": 45.4421005249,
+        "long": -122.3229980469,
+        "name": "Krueger ",
+        "state": "Oregon"
+    },
+    "OR73": {
+        "lat": 42.7787017822,
+        "long": -123.7340011597,
+        "name": "Calvert Peak STOLport",
+        "state": "Oregon"
+    },
+    "OR74": {
+        "lat": 42.701499939,
+        "long": -123.8050003052,
+        "name": "Winkle Bar ",
+        "state": "Oregon"
+    },
+    "OR76": {
+        "lat": 44.3632011414,
+        "long": -123.1399993896,
+        "name": "Waynes Air Service ",
+        "state": "Oregon"
+    },
+    "OR77": {
+        "lat": 44.8003997803,
+        "long": -123.15599823,
+        "name": "Faust Field ",
+        "state": "Oregon"
+    },
+    "OR78": {
+        "lat": 44.2720985413,
+        "long": -123.0609970093,
+        "name": "Daniels Field",
+        "state": "Oregon"
+    },
+    "OR79": {
+        "lat": 44.2892990112,
+        "long": -123.1309967041,
+        "name": "Knox's Private Airstrip",
+        "state": "Oregon"
+    },
+    "OR81": {
+        "lat": 45.5597991943,
+        "long": -123.019996643,
+        "name": "Olinger Airpark",
+        "state": "Oregon"
+    },
+    "OR85": {
+        "lat": 44.8123016357,
+        "long": -123.1500015259,
+        "name": "Wigrich ",
+        "state": "Oregon"
+    },
+    "OR86": {
+        "lat": 44.7554016113,
+        "long": -123.04699707,
+        "name": "Gilmour Ag Air ",
+        "state": "Oregon"
+    },
+    "OR87": {
+        "lat": 44.966111,
+        "long": -122.9225,
+        "name": "Blue Skies Farm ",
+        "state": "Oregon"
+    },
+    "OR89": {
+        "lat": 44.9999008179,
+        "long": -120.0530014038,
+        "name": "Kinzua ",
+        "state": "Oregon"
+    },
+    "OR90": {
+        "lat": 45.2443008423,
+        "long": -123.1289978027,
+        "name": "Lafayette Airstrip",
+        "state": "Oregon"
+    },
+    "OR92": {
+        "lat": 42.3914985657,
+        "long": -123.43699646,
+        "name": "Billiebob Ultralightport",
+        "state": "Oregon"
+    },
+    "OR94": {
+        "lat": 44.3917007446,
+        "long": -123.0299987793,
+        "name": "Showa ",
+        "state": "Oregon"
+    },
+    "OR95": {
+        "lat": 45.0498008728,
+        "long": -123.2350006104,
+        "name": "Vineyard ",
+        "state": "Oregon"
+    },
+    "OR96": {
+        "lat": 42.5390014648,
+        "long": -122.9039993286,
+        "name": "Beagle Sky Ranch ",
+        "state": "Oregon"
+    },
+    "OR97": {
+        "lat": 42.4387016296,
+        "long": -122.8639984131,
+        "name": "Burrill ",
+        "state": "Oregon"
+    },
+    "OR98": {
+        "lat": 44.1381988525,
+        "long": -118.9820022583,
+        "name": "Seneca Emergency Airstrip",
+        "state": "Oregon"
+    }
+}

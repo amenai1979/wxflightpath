@@ -1,0 +1,152 @@
+{
+  "MNAL": {
+    "lat": 13.5122995377,
+    "long": -84.2471008301,
+    "name": "Alamicamba "
+  },
+  "MNAM": {
+    "lat": 12.1106004715,
+    "long": -85.7604980469,
+    "name": "Altamira "
+  },
+  "MNBC": {
+    "lat": 12.4690999985,
+    "long": -85.6625976563,
+    "name": "Boaco "
+  },
+  "MNBL": {
+    "lat": 11.9910001755,
+    "long": -83.7741012573,
+    "name": "Bluefields "
+  },
+  "MNBR": {
+    "lat": 12.1899995804,
+    "long": -86.3538970947,
+    "name": "Los Brasiles "
+  },
+  "MNBZ": {
+    "lat": 13.9499998093,
+    "long": -84.5999984741,
+    "name": "San Pedro "
+  },
+  "MNCH": {
+    "lat": 12.6400003433,
+    "long": -87.1373977661,
+    "name": "Chinandega"
+  },
+  "MNCI": {
+    "lat": 12.162899971,
+    "long": -83.0637969971,
+    "name": "Corn Island"
+  },
+  "MNCT": {
+    "lat": 12.4788999557,
+    "long": -87.1772003174,
+    "name": "Corinto "
+  },
+  "MNDM": {
+    "lat": 12.8004999161,
+    "long": -86.1483001709,
+    "name": "Dos Montes "
+  },
+  "MNEP": {
+    "lat": 12.1999998093,
+    "long": -84.2833328247,
+    "name": "La Esperanza "
+  },
+  "MNES": {
+    "lat": 13.111700058,
+    "long": -86.3632965088,
+    "name": "Esteli "
+  },
+  "MNFC": {
+    "lat": 12.3534002304,
+    "long": -86.1828994751,
+    "name": "Punta Huete (Panchito) "
+  },
+  "MNFF": {
+    "lat": 11.9942998886,
+    "long": -83.6878967285,
+    "name": "El Bluff "
+  },
+  "MNHG": {
+    "lat": 11.9813995361,
+    "long": -85.4327011108,
+    "name": "Hato Grande "
+  },
+  "MNJG": {
+    "lat": 13.0857000351,
+    "long": -85.987701416,
+    "name": "Jinotega"
+  },
+  "MNJU": {
+    "lat": 12.1000003815,
+    "long": -85.3666687012,
+    "name": "Juigalpa"
+  },
+  "MNKW": {
+    "lat": 12.8921003342,
+    "long": -83.582901001,
+    "name": "Karawala "
+  },
+  "MNLN": {
+    "lat": 12.4292001724,
+    "long": -86.9028015137,
+    "name": "Leon (Fanor Urroz) "
+  },
+  "MNMA": {
+    "lat": 13.2451000214,
+    "long": -84.0839004517,
+    "name": "Macantaca "
+  },
+  "MNMG": {
+    "lat": 12.141500473,
+    "long": -86.1681976318,
+    "name": "Augusto C. Sandino (Managua) International "
+  },
+  "MNMR": {
+    "lat": 11.8051996231,
+    "long": -86.5112991333,
+    "name": "Montelimar "
+  },
+  "MNNG": {
+    "lat": 11.6666669846,
+    "long": -84.4499969482,
+    "name": "Nueva Guinea "
+  },
+  "MNPC": {
+    "lat": 14.0472002029,
+    "long": -83.3867034912,
+    "name": "Puerto Cabezas "
+  },
+  "MNPP": {
+    "lat": 12.4657001495,
+    "long": -86.4679031372,
+    "name": "El Papalonal "
+  },
+  "MNRS": {
+    "lat": 11.4277000427,
+    "long": -85.8385009766,
+    "name": "Rivas"
+  },
+  "MNRT": {
+    "lat": 13.8896999359,
+    "long": -84.4088973999,
+    "name": "Rosita "
+  },
+  "MNSC": {
+    "lat": 11.1333999634,
+    "long": -84.7699966431,
+    "name": "San Carlos"
+  },
+  "MNSI": {
+    "lat": 13.7272224426,
+    "long": -84.7777786255,
+    "name": "Siuna"
+  },
+  "MNWP": {
+    "lat": 14.7391996384,
+    "long": -83.9693984985,
+    "name": "Waspam "
+  }
+}

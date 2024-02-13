@@ -1,0 +1,137 @@
+{
+  "EHAL": {
+    "lat": 53.4516983032,
+    "long": 5.6772198677,
+    "name": "Ameland "
+  },
+  "EHAM": {
+    "lat": 52.3086013794,
+    "long": 4.7638897896,
+    "name": "Amsterdam  Schiphol"
+  },
+  "EHBD": {
+    "lat": 51.2552986145,
+    "long": 5.601389885,
+    "name": "Budel "
+  },
+  "EHBK": {
+    "lat": 50.9117012024,
+    "long": 5.7701401711,
+    "name": "Maastricht Aachen "
+  },
+  "EHDL": {
+    "lat": 52.0606002808,
+    "long": 5.8730602264,
+    "name": "Deelen Air Base"
+  },
+  "EHDP": {
+    "lat": 51.5172996521,
+    "long": 5.8557200432,
+    "name": "De Peel Air Base"
+  },
+  "EHDR": {
+    "lat": 53.1192016602,
+    "long": 6.129720211,
+    "name": "Drachten "
+  },
+  "EHDS": {
+    "lat": 52.4683333333,
+    "long": 6.3333333333,
+    "name": "Aero Club Salland"
+  },
+  "EHEH": {
+    "lat": 51.4500999451,
+    "long": 5.3745298386,
+    "name": "Eindhoven "
+  },
+  "EHGG": {
+    "lat": 53.1197013855,
+    "long": 6.5794401169,
+    "name": "Eelde "
+  },
+  "EHGR": {
+    "lat": 51.567401886,
+    "long": 4.9318299294,
+    "name": "Gilze Rijen Air Base"
+  },
+  "EHHO": {
+    "lat": 52.7308006287,
+    "long": 6.5161099434,
+    "name": "Hoogeveen "
+  },
+  "EHHV": {
+    "lat": 52.1918983459,
+    "long": 5.1469402313,
+    "name": "Hilversum "
+  },
+  "EHKD": {
+    "lat": 52.9234008789,
+    "long": 4.7806200981,
+    "name": "De Kooy "
+  },
+  "EHLE": {
+    "lat": 52.4603004456,
+    "long": 5.5272197723,
+    "name": "Lelystad "
+  },
+  "EHLW": {
+    "lat": 53.2285995483,
+    "long": 5.7605600357,
+    "name": "Leeuwarden Air Base"
+  },
+  "EHMZ": {
+    "lat": 51.5121994019,
+    "long": 3.731110096,
+    "name": "Midden-Zeeland "
+  },
+  "EHOW": {
+    "lat": 53.2097583333,
+    "long": 7.0365194444,
+    "name": "Oostwold "
+  },
+  "EHRD": {
+    "lat": 51.9569015503,
+    "long": 4.4372200966,
+    "name": "Rotterdam "
+  },
+  "EHSE": {
+    "lat": 51.5546989441,
+    "long": 4.5524997711,
+    "name": "Seppe "
+  },
+  "EHST": {
+    "lat": 52.9986000061,
+    "long": 7.0227799416,
+    "name": "Stadskanaal "
+  },
+  "EHTE": {
+    "lat": 52.2447013855,
+    "long": 6.04666996,
+    "name": "Teuge "
+  },
+  "EHTL": {
+    "lat": 52.0572013855,
+    "long": 5.9244399071,
+    "name": "Terlet "
+  },
+  "EHTW": {
+    "lat": 52.2700004578,
+    "long": 6.8741698265,
+    "name": "Twenthe "
+  },
+  "EHTX": {
+    "lat": 53.1152992249,
+    "long": 4.8336100578,
+    "name": "Texel "
+  },
+  "EHVK": {
+    "lat": 51.6563987732,
+    "long": 5.7086100578,
+    "name": "Volkel Air Base"
+  },
+  "EHWO": {
+    "lat": 51.4491004944,
+    "long": 4.3420300484,
+    "name": "Woensdrecht Air Base"
+  }
+}

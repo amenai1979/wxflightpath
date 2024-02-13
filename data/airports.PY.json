@@ -1,0 +1,122 @@
+{
+  "SG67": {
+    "lat": -23.2199993134,
+    "long": -55.9500007629,
+    "name": "Estancia Pai Quara "
+  },
+  "SGAS": {
+    "lat": -25.2399997711,
+    "long": -57.5200004578,
+    "name": "Silvio Pettirossi International "
+  },
+  "SGAY": {
+    "lat": -27.3700008392,
+    "long": -56.8499984741,
+    "name": "Juan De Ayolas "
+  },
+  "SGBA": {
+    "lat": -27.052393,
+    "long": -55.578026,
+    "name": "Bella Vista Sur "
+  },
+  "SGBN": {
+    "lat": -20.2245998383,
+    "long": -58.1791992188,
+    "name": "Bahia Negra "
+  },
+  "SGCO": {
+    "lat": -23.4400005341,
+    "long": -57.4300003052,
+    "name": "Teniente Col Carmelo Peralta "
+  },
+  "SGEN": {
+    "lat": -27.2999992371,
+    "long": -55.9099998474,
+    "name": "Encarnacion "
+  },
+  "SGES": {
+    "lat": -25.4599990845,
+    "long": -54.8400001526,
+    "name": "Guarani International "
+  },
+  "SGFI": {
+    "lat": -22.3600006104,
+    "long": -60.0499992371,
+    "name": "Filadelfia "
+  },
+  "SGGR": {
+    "lat": -24.032269,
+    "long": -54.350829,
+    "name": "Salto del Guaira "
+  },
+  "SGIB": {
+    "lat": -25.4099998474,
+    "long": -54.6199989319,
+    "name": "Itaipu "
+  },
+  "SGME": {
+    "lat": -22.0499992371,
+    "long": -60.6199989319,
+    "name": "Dr. Luis Maria Argana International "
+  },
+  "SGNB": {
+    "lat": -25.1599998474,
+    "long": -57.5600013733,
+    "name": "Villa Hayes Sarg "
+  },
+  "SGOL": {
+    "lat": -21.0452003479,
+    "long": -57.8824996948,
+    "name": "Fuerte Olimpo "
+  },
+  "SGOV": {
+    "lat": -25.5200004578,
+    "long": -56.4099998474,
+    "name": "Coronel Oviedo "
+  },
+  "SGPC": {
+    "lat": -23.499127,
+    "long": -58.785914,
+    "name": "Pozo Colorado "
+  },
+  "SGPG": {
+    "lat": -22.555819,
+    "long": -61.613992,
+    "name": "Pelayo Prats Gill Airstrip"
+  },
+  "SGPI": {
+    "lat": -26.8799991608,
+    "long": -58.3199996948,
+    "name": "Carlos Miguel Gimenez "
+  },
+  "SGPJ": {
+    "lat": -22.6399993896,
+    "long": -55.8300018311,
+    "name": "Dr Augusto Roberto Fuster International "
+  },
+  "SGPO": {
+    "lat": -22.6299991608,
+    "long": -57.8400001526,
+    "name": "Puerto Pinasco "
+  },
+  "SGRO": {
+    "lat": -24.4300003052,
+    "long": -57.1199989319,
+    "name": "Rosario "
+  },
+  "SGSP": {
+    "lat": -24.082883,
+    "long": -57.088112,
+    "name": "San Pedro "
+  },
+  "SGST": {
+    "lat": -22.6200008392,
+    "long": -56.6300010681,
+    "name": "Santa Teresa "
+  },
+  "Z23Z": {
+    "lat": -25.6000003815,
+    "long": -57.1500015259,
+    "name": "Paraguari "
+  }
+}

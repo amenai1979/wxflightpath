@@ -1,0 +1,1658 @@
+{
+    "00CO": {
+        "lat": 40.6222000122,
+        "long": -104.34400177,
+        "name": "Cass Field",
+        "state": "Colorado"
+    },
+    "02CO": {
+        "lat": 37.6432991028,
+        "long": -106.04699707,
+        "name": "Mc Cullough ",
+        "state": "Colorado"
+    },
+    "03CO": {
+        "lat": 40.2125015259,
+        "long": -104.744003296,
+        "name": "Kugel-Strong ",
+        "state": "Colorado"
+    },
+    "05CO": {
+        "lat": 40.2149839,
+        "long": -104.9844228,
+        "name": "Rancho De Aereo ",
+        "state": "Colorado"
+    },
+    "06CO": {
+        "lat": 37.3875007629,
+        "long": -103.6910018921,
+        "name": "Jecan ",
+        "state": "Colorado"
+    },
+    "07CO": {
+        "lat": 39.2635993958,
+        "long": -104.4270019531,
+        "name": "Comanche Creek ",
+        "state": "Colorado"
+    },
+    "08CO": {
+        "lat": 38.7324981689,
+        "long": -104.0410003662,
+        "name": "Terra Firma ",
+        "state": "Colorado"
+    },
+    "09CO": {
+        "lat": 38.0555992126,
+        "long": -103.6529998779,
+        "name": "Cottonwood Field",
+        "state": "Colorado"
+    },
+    "0CD2": {
+        "lat": 38.6525001526,
+        "long": -104.23400116,
+        "name": "Foxx Valley ",
+        "state": "Colorado"
+    },
+    "0CD5": {
+        "lat": 37.4905014038,
+        "long": -104.143997192,
+        "name": "Pinon Canyon ",
+        "state": "Colorado"
+    },
+    "0CD7": {
+        "lat": 40.004699707,
+        "long": -105.071998596,
+        "name": "Fox Hole ",
+        "state": "Colorado"
+    },
+    "0CO1": {
+        "lat": 40.0332984924,
+        "long": -105.124000549,
+        "name": "Dave's ",
+        "state": "Colorado"
+    },
+    "0CO2": {
+        "lat": 38.8518981934,
+        "long": -106.932998657,
+        "name": "Buckhorn Ranch ",
+        "state": "Colorado"
+    },
+    "0CO3": {
+        "lat": 39.8894004822,
+        "long": -104.544998169,
+        "name": "Greggs Nr 1 ",
+        "state": "Colorado"
+    },
+    "0CO5": {
+        "lat": 39.8333015442,
+        "long": -103.589996338,
+        "name": "Chenoweth ",
+        "state": "Colorado"
+    },
+    "0CO6": {
+        "lat": 38.2193984985,
+        "long": -108.212997437,
+        "name": "Flying M & M Ranch ",
+        "state": "Colorado"
+    },
+    "0CO8": {
+        "lat": 40.2083015442,
+        "long": -105.013000488,
+        "name": "Cartwheel ",
+        "state": "Colorado"
+    },
+    "0CO9": {
+        "lat": 37.6582984924,
+        "long": -106.033996582,
+        "name": "Van Treese ",
+        "state": "Colorado"
+    },
+    "10CO": {
+        "lat": 39.45470047,
+        "long": -102.212997437,
+        "name": "Silkman Farms Inc. ",
+        "state": "Colorado"
+    },
+    "12CO": {
+        "lat": 38.8354988098,
+        "long": -107.8150024414,
+        "name": "Omega 1 STOLport",
+        "state": "Colorado"
+    },
+    "14CO": {
+        "lat": 38.0971984863,
+        "long": -104.9100036621,
+        "name": "Good Pasture ",
+        "state": "Colorado"
+    },
+    "16CO": {
+        "lat": 39.40995,
+        "long": -108.085667,
+        "name": "Dry Pen ",
+        "state": "Colorado"
+    },
+    "17CO": {
+        "lat": 40.272258,
+        "long": -105.032625,
+        "name": "Skylane Ranch ",
+        "state": "Colorado"
+    },
+    "1CD1": {
+        "lat": 40.6902999878,
+        "long": -104.8669967651,
+        "name": "Reed ",
+        "state": "Colorado"
+    },
+    "1CD2": {
+        "lat": 40.1671981812,
+        "long": -104.7929992676,
+        "name": "Tonga ",
+        "state": "Colorado"
+    },
+    "1CD4": {
+        "lat": 40.5093002319,
+        "long": -106.9430007935,
+        "name": "Eagle Soaring ",
+        "state": "Colorado"
+    },
+    "1CO2": {
+        "lat": 38.1624984741,
+        "long": -108.3399963379,
+        "name": "Williams Ranch ",
+        "state": "Colorado"
+    },
+    "1CO3": {
+        "lat": 40.7041015625,
+        "long": -104.797996521,
+        "name": "Bellmore Farms ",
+        "state": "Colorado"
+    },
+    "1CO4": {
+        "lat": 38.5750007629,
+        "long": -107.9589996338,
+        "name": "Clifford Field",
+        "state": "Colorado"
+    },
+    "1CO5": {
+        "lat": 38.0153007507,
+        "long": -103.6989974976,
+        "name": "Melon Field",
+        "state": "Colorado"
+    },
+    "1CO7": {
+        "lat": 38.551399231,
+        "long": -105.9919967651,
+        "name": "Dodsworth ",
+        "state": "Colorado"
+    },
+    "1CO8": {
+        "lat": 39.5292015076,
+        "long": -104.6579971313,
+        "name": "Everitt ",
+        "state": "Colorado"
+    },
+    "22CO": {
+        "lat": 39.9580574036,
+        "long": -104.485557556,
+        "name": "Flying E ",
+        "state": "Colorado"
+    },
+    "23CD": {
+        "lat": 39.29945,
+        "long": -102.321817,
+        "name": "Aviation Acres ",
+        "state": "Colorado"
+    },
+    "23CO": {
+        "lat": 38.8438987732,
+        "long": -103.9899978638,
+        "name": "High Mesa ",
+        "state": "Colorado"
+    },
+    "25CD": {
+        "lat": 39.152333,
+        "long": -105.720167,
+        "name": "Lux Field",
+        "state": "Colorado"
+    },
+    "25CO": {
+        "lat": 40.851600647,
+        "long": -105.6330032349,
+        "name": "Crystal Lakes ",
+        "state": "Colorado"
+    },
+    "27CO": {
+        "lat": 38.7260017395,
+        "long": -108.1289978027,
+        "name": "Roubideau ",
+        "state": "Colorado"
+    },
+    "2CD3": {
+        "lat": 39.119472,
+        "long": -104.431806,
+        "name": "Bijou Springs Ranch ",
+        "state": "Colorado"
+    },
+    "2CD6": {
+        "lat": 39.39485,
+        "long": -104.547033,
+        "name": "Safer ",
+        "state": "Colorado"
+    },
+    "2CD9": {
+        "lat": 40.6814,
+        "long": -105.13855,
+        "name": "Kellogg Airstrip",
+        "state": "Colorado"
+    },
+    "2CO1": {
+        "lat": 39.1105003357,
+        "long": -104.5839996338,
+        "name": "Cherokee Trail Ranch ",
+        "state": "Colorado"
+    },
+    "2CO2": {
+        "lat": 38.5402984619,
+        "long": -106.105003357,
+        "name": "CMRS Airdrome ",
+        "state": "Colorado"
+    },
+    "2CO3": {
+        "lat": 40.375,
+        "long": -104.8730010986,
+        "name": "Jackrabbit Strip",
+        "state": "Colorado"
+    },
+    "2CO5": {
+        "lat": 38.3471984863,
+        "long": -104.6320037842,
+        "name": "Edenway ",
+        "state": "Colorado"
+    },
+    "30CO": {
+        "lat": 38.6725006104,
+        "long": -105.3359985352,
+        "name": "Coyote Creek Ranch ",
+        "state": "Colorado"
+    },
+    "32CO": {
+        "lat": 38.4552993774,
+        "long": -105.0839996338,
+        "name": "Braun ",
+        "state": "Colorado"
+    },
+    "33CO": {
+        "lat": 37.0649986267,
+        "long": -105.4639968872,
+        "name": "Melby Ranch Airstrip",
+        "state": "Colorado"
+    },
+    "34CD": {
+        "lat": 40.262683,
+        "long": -105.448011,
+        "name": "Elk Park Ranch ",
+        "state": "Colorado"
+    },
+    "34CO": {
+        "lat": 39.7164001465,
+        "long": -104.7320022583,
+        "name": "Simons ",
+        "state": "Colorado"
+    },
+    "35CO": {
+        "lat": 38.8819999695,
+        "long": -103.8089981079,
+        "name": "Lone Tree Ranch ",
+        "state": "Colorado"
+    },
+    "36CO": {
+        "lat": 39.106098175,
+        "long": -104.5439987183,
+        "name": "Fat Chance ",
+        "state": "Colorado"
+    },
+    "39CO": {
+        "lat": 38.4879989624,
+        "long": -107.6740036011,
+        "name": "Flying M Ranch ",
+        "state": "Colorado"
+    },
+    "3CO0": {
+        "lat": 38.7374992371,
+        "long": -108.0059967041,
+        "name": "Sky Island Ranch ",
+        "state": "Colorado"
+    },
+    "3CO1": {
+        "lat": 38.8483009338,
+        "long": -107.8330001831,
+        "name": "Cridler Field",
+        "state": "Colorado"
+    },
+    "3CO2": {
+        "lat": 40.6175003052,
+        "long": -103.3330001831,
+        "name": "Mertens ",
+        "state": "Colorado"
+    },
+    "3CO4": {
+        "lat": 37.0708999634,
+        "long": -105.0189971924,
+        "name": "Tercio Ranch Airstrip",
+        "state": "Colorado"
+    },
+    "3CO7": {
+        "lat": 39.3325004578,
+        "long": -104.5660018921,
+        "name": "Dietrichs ",
+        "state": "Colorado"
+    },
+    "41CO": {
+        "lat": 39.971111,
+        "long": -107.611111,
+        "name": "Flying Dog Ranch Airstrip",
+        "state": "Colorado"
+    },
+    "43CO": {
+        "lat": 39.3666992188,
+        "long": -104.6780014038,
+        "name": "Kostroski ",
+        "state": "Colorado"
+    },
+    "44CO": {
+        "lat": 38.8367004395,
+        "long": -107.7929992676,
+        "name": "Redlands ",
+        "state": "Colorado"
+    },
+    "46CO": {
+        "lat": 38.0999984741,
+        "long": -104.4260025024,
+        "name": "Huerfano Agricultural ",
+        "state": "Colorado"
+    },
+    "47CO": {
+        "lat": 40.9000015259,
+        "long": -104.8339996338,
+        "name": "Mile Hi ",
+        "state": "Colorado"
+    },
+    "48CO": {
+        "lat": 40.7215995789,
+        "long": -104.7779998779,
+        "name": "Shaull Farm Airstrip",
+        "state": "Colorado"
+    },
+    "49CO": {
+        "lat": 40.0932998657,
+        "long": -104.375,
+        "name": "Air Dusters Inc ",
+        "state": "Colorado"
+    },
+    "4CO0": {
+        "lat": 39.3889007568,
+        "long": -107.1600036621,
+        "name": "Glen-Aspen ",
+        "state": "Colorado"
+    },
+    "4CO2": {
+        "lat": 40.8046989441,
+        "long": -104.9850006104,
+        "name": "Owl Canyon Gliderport",
+        "state": "Colorado"
+    },
+    "4CO3": {
+        "lat": 37.3917007446,
+        "long": -102.2799987793,
+        "name": "Griffin Field",
+        "state": "Colorado"
+    },
+    "4CO7": {
+        "lat": 39.2178001404,
+        "long": -104.6800003052,
+        "name": "Ambrosich Field",
+        "state": "Colorado"
+    },
+    "4CO8": {
+        "lat": 39.3069000244,
+        "long": -104.8160018921,
+        "name": "Kelgun ",
+        "state": "Colorado"
+    },
+    "51CO": {
+        "lat": 38.8856010437,
+        "long": -107.8040008545,
+        "name": "Flying W No.2 ",
+        "state": "Colorado"
+    },
+    "52CO": {
+        "lat": 39.1096992493,
+        "long": -104.6539993286,
+        "name": "Mountain View Ranch ",
+        "state": "Colorado"
+    },
+    "53CO": {
+        "lat": 37.5531005859,
+        "long": -102.391998291,
+        "name": "Rons Field",
+        "state": "Colorado"
+    },
+    "59CO": {
+        "lat": 39.8333015442,
+        "long": -104.3170013428,
+        "name": "Comanche Livestock ",
+        "state": "Colorado"
+    },
+    "5CO0": {
+        "lat": 38.8166999817,
+        "long": -102.3059997559,
+        "name": "Cheyenne Wells Municipal ",
+        "state": "Colorado"
+    },
+    "5CO1": {
+        "lat": 38.8333015442,
+        "long": -107.8590011597,
+        "name": "Shipman Ranch ",
+        "state": "Colorado"
+    },
+    "5CO4": {
+        "lat": 39.7000007629,
+        "long": -104.2509994507,
+        "name": "Spickard Farm ",
+        "state": "Colorado"
+    },
+    "5CO6": {
+        "lat": 39.5499992371,
+        "long": -105.283996582,
+        "name": "Meyer Ranch ",
+        "state": "Colorado"
+    },
+    "5CO7": {
+        "lat": 40.7750015259,
+        "long": -107.533996582,
+        "name": "Mesa View Ranch ",
+        "state": "Colorado"
+    },
+    "5CO8": {
+        "lat": 40.3414001465,
+        "long": -106.8489990234,
+        "name": "Pleasant Valley ",
+        "state": "Colorado"
+    },
+    "60CO": {
+        "lat": 39.9667015076,
+        "long": -104.6510009766,
+        "name": "Stevens ",
+        "state": "Colorado"
+    },
+    "62CO": {
+        "lat": 40.0983009338,
+        "long": -104.4250030518,
+        "name": "The Farm ",
+        "state": "Colorado"
+    },
+    "63CO": {
+        "lat": 38.7055015564,
+        "long": -108.93699646,
+        "name": "Hendricks Field At West Creek Ranch ",
+        "state": "Colorado"
+    },
+    "64CO": {
+        "lat": 37.755556,
+        "long": -104.756389,
+        "name": "Cholla ",
+        "state": "Colorado"
+    },
+    "65CO": {
+        "lat": 40.5208015442,
+        "long": -104.9670028687,
+        "name": "Wkr ",
+        "state": "Colorado"
+    },
+    "67CO": {
+        "lat": 40.4715003967,
+        "long": -104.81300354,
+        "name": "Highline Farm Airstrip",
+        "state": "Colorado"
+    },
+    "68CO": {
+        "lat": 39.8722000122,
+        "long": -104.1529998779,
+        "name": "Singleton Ranch ",
+        "state": "Colorado"
+    },
+    "6CO0": {
+        "lat": 38.8527984619,
+        "long": -108.016998291,
+        "name": "Doctors Mesa ",
+        "state": "Colorado"
+    },
+    "6CO1": {
+        "lat": 40.7813987732,
+        "long": -104.9169998169,
+        "name": "Burnham Field",
+        "state": "Colorado"
+    },
+    "6CO2": {
+        "lat": 38.961101532,
+        "long": -107.9580001831,
+        "name": "Mesawood Airpark",
+        "state": "Colorado"
+    },
+    "6CO3": {
+        "lat": 37.6363983154,
+        "long": -103.6579971313,
+        "name": "Wine Glass International ",
+        "state": "Colorado"
+    },
+    "6CO4": {
+        "lat": 40.5102996826,
+        "long": -105.0009994507,
+        "name": "Hat-Field STOLport",
+        "state": "Colorado"
+    },
+    "6CO6": {
+        "lat": 40.311886,
+        "long": -105.145833,
+        "name": "Skywagon Ranch ",
+        "state": "Colorado"
+    },
+    "72CO": {
+        "lat": 39.6794013977,
+        "long": -102.591003418,
+        "name": "Idler Bro's ",
+        "state": "Colorado"
+    },
+    "73CO": {
+        "lat": 38.3889007568,
+        "long": -107.8229980469,
+        "name": "Woods STOLport",
+        "state": "Colorado"
+    },
+    "74CO": {
+        "lat": 40.0471992493,
+        "long": -104.2089996338,
+        "name": "Westberg-Rosling Farms ",
+        "state": "Colorado"
+    },
+    "76CO": {
+        "lat": 39.8358001709,
+        "long": -104.4219970703,
+        "name": "Hoy Airstrip",
+        "state": "Colorado"
+    },
+    "7CO0": {
+        "lat": 40.0717010498,
+        "long": -105.033996582,
+        "name": "Parkland ",
+        "state": "Colorado"
+    },
+    "7CO1": {
+        "lat": 38.7597007751,
+        "long": -105.3840026855,
+        "name": "Dave Nash Ranch ",
+        "state": "Colorado"
+    },
+    "7CO2": {
+        "lat": 38.8415985107,
+        "long": -107.8759994507,
+        "name": "Hawkins Ranch ",
+        "state": "Colorado"
+    },
+    "7CO3": {
+        "lat": 40.038898468,
+        "long": -104.6240005493,
+        "name": "Lindys Airpark",
+        "state": "Colorado"
+    },
+    "7CO4": {
+        "lat": 40.6041984558,
+        "long": -103.9390029907,
+        "name": "Williams Ranch ",
+        "state": "Colorado"
+    },
+    "7CO5": {
+        "lat": 40.2999992371,
+        "long": -104.2300033569,
+        "name": "Yocam Ranch ",
+        "state": "Colorado"
+    },
+    "7CO6": {
+        "lat": 38.760278,
+        "long": -104.101389,
+        "name": "Vantage View ",
+        "state": "Colorado"
+    },
+    "7CO8": {
+        "lat": 38.3633003235,
+        "long": -104.7379989624,
+        "name": "West Pueblo ",
+        "state": "Colorado"
+    },
+    "80CO": {
+        "lat": 38.1516990662,
+        "long": -104.7060012817,
+        "name": "Simonson Field",
+        "state": "Colorado"
+    },
+    "81CO": {
+        "lat": 40.4061012268,
+        "long": -106.8209991455,
+        "name": "Mesa 1 ",
+        "state": "Colorado"
+    },
+    "86CO": {
+        "lat": 40.3135986328,
+        "long": -105.1449966431,
+        "name": "Lazy W ",
+        "state": "Colorado"
+    },
+    "87CO": {
+        "lat": 39.6911010742,
+        "long": -104.4160003662,
+        "name": "Young's Strip",
+        "state": "Colorado"
+    },
+    "88CO": {
+        "lat": 38.886100769,
+        "long": -104.2490005493,
+        "name": "Tranquila ",
+        "state": "Colorado"
+    },
+    "89CO": {
+        "lat": 40.238899231,
+        "long": -103.9919967651,
+        "name": "Vallery ",
+        "state": "Colorado"
+    },
+    "8CO0": {
+        "lat": 40.2527999878,
+        "long": -104.0029983521,
+        "name": "Kent ",
+        "state": "Colorado"
+    },
+    "8CO2": {
+        "lat": 40.6707992554,
+        "long": -104.2080001831,
+        "name": "William Leon Schawo ",
+        "state": "Colorado"
+    },
+    "8CO4": {
+        "lat": 39.670501709,
+        "long": -104.1360015869,
+        "name": "East Moore Field",
+        "state": "Colorado"
+    },
+    "8CO5": {
+        "lat": 38.8339004517,
+        "long": -107.891998291,
+        "name": "Widner ",
+        "state": "Colorado"
+    },
+    "8CO7": {
+        "lat": 40.1225013733,
+        "long": -105.1719970703,
+        "name": "Colorado Antique Field",
+        "state": "Colorado"
+    },
+    "8CO8": {
+        "lat": 40.1082992554,
+        "long": -102.7279968262,
+        "name": "Koenig ",
+        "state": "Colorado"
+    },
+    "8CO9": {
+        "lat": 39.3443984985,
+        "long": -104.5810012817,
+        "name": "Pine View ",
+        "state": "Colorado"
+    },
+    "92CO": {
+        "lat": 38.2916984558,
+        "long": -105.611000061,
+        "name": "Lake Creek Ranch ",
+        "state": "Colorado"
+    },
+    "93CO": {
+        "lat": 39.0233192444,
+        "long": -105.614997864,
+        "name": "Antelope Airpark",
+        "state": "Colorado"
+    },
+    "95CO": {
+        "lat": 37.8684997559,
+        "long": -104.8359985352,
+        "name": "Mann Ranch ",
+        "state": "Colorado"
+    },
+    "96CO": {
+        "lat": 39.8563995361,
+        "long": -104.3960037231,
+        "name": "Logan ",
+        "state": "Colorado"
+    },
+    "97CO": {
+        "lat": 38.9249992371,
+        "long": -104.158996582,
+        "name": "Peakview ",
+        "state": "Colorado"
+    },
+    "99CO": {
+        "lat": 38.1363983154,
+        "long": -104.8150024414,
+        "name": "Rock Creek ",
+        "state": "Colorado"
+    },
+    "9CO2": {
+        "lat": 39.69609833,
+        "long": -104.4759979,
+        "name": "Van Slyke Field",
+        "state": "Colorado"
+    },
+    "9CO3": {
+        "lat": 38.6833000183,
+        "long": -108.9840011597,
+        "name": "Hubbard ",
+        "state": "Colorado"
+    },
+    "9CO5": {
+        "lat": 38.5766983032,
+        "long": -102.43699646,
+        "name": "Scherler Private Airstrip",
+        "state": "Colorado"
+    },
+    "9CO6": {
+        "lat": 39.2812995911,
+        "long": -104.5729980469,
+        "name": "D Bar D ",
+        "state": "Colorado"
+    },
+    "9CO7": {
+        "lat": 40.3405990601,
+        "long": -104.5729980469,
+        "name": "Beaugh ",
+        "state": "Colorado"
+    },
+    "9CO8": {
+        "lat": 39.2793,
+        "long": -104.34315,
+        "name": "Herrick ",
+        "state": "Colorado"
+    },
+    "9CO9": {
+        "lat": 39.1291007996,
+        "long": -108.141998291,
+        "name": "Phylcon Ranch ",
+        "state": "Colorado"
+    },
+    "CD01": {
+        "lat": 38.3983001709,
+        "long": -105.6200027466,
+        "name": "Lowe Airstrip",
+        "state": "Colorado"
+    },
+    "CD02": {
+        "lat": 40.7579994202,
+        "long": -106.9720001221,
+        "name": "Skyote ",
+        "state": "Colorado"
+    },
+    "CD03": {
+        "lat": 38.1990013123,
+        "long": -102.5729980469,
+        "name": "Tinnes ",
+        "state": "Colorado"
+    },
+    "CD05": {
+        "lat": 40.1944007874,
+        "long": -102.697998047,
+        "name": "Jackson Airfield",
+        "state": "Colorado"
+    },
+    "CD09": {
+        "lat": 39.8196983337,
+        "long": -104.408996582,
+        "name": "Yoder Airstrip",
+        "state": "Colorado"
+    },
+    "CD10": {
+        "lat": 37.6749992371,
+        "long": -106.5559997559,
+        "name": "Chapman Field",
+        "state": "Colorado"
+    },
+    "CD13": {
+        "lat": 39.8350982666,
+        "long": -103.736000061,
+        "name": "Morris ",
+        "state": "Colorado"
+    },
+    "CD14": {
+        "lat": 39.8288993835,
+        "long": -104.43699646,
+        "name": "J & S ",
+        "state": "Colorado"
+    },
+    "CD15": {
+        "lat": 39.2963981628,
+        "long": -104.125,
+        "name": "Schantz Airstrip",
+        "state": "Colorado"
+    },
+    "CD17": {
+        "lat": 39.9082984924,
+        "long": -104.1259994507,
+        "name": "Bijou Basin ",
+        "state": "Colorado"
+    },
+    "CD20": {
+        "lat": 40.4749984741,
+        "long": -105.2200012207,
+        "name": "Sprague ",
+        "state": "Colorado"
+    },
+    "CD23": {
+        "lat": 39.198299408,
+        "long": -104.3290023804,
+        "name": "Aero Bear Field",
+        "state": "Colorado"
+    },
+    "CD28": {
+        "lat": 39.643901825,
+        "long": -105.2679977417,
+        "name": "Tall Timber ",
+        "state": "Colorado"
+    },
+    "CD32": {
+        "lat": 37.909198761,
+        "long": -107.3499984741,
+        "name": "Castle Lakes ",
+        "state": "Colorado"
+    },
+    "CD39": {
+        "lat": 40.2649993896,
+        "long": -105.1370010376,
+        "name": "Pond's Field",
+        "state": "Colorado"
+    },
+    "CD45": {
+        "lat": 39.323299408,
+        "long": -104.5729980469,
+        "name": "Flyin' B Ranch ",
+        "state": "Colorado"
+    },
+    "CD48": {
+        "lat": 37.7863998413,
+        "long": -104.59400177,
+        "name": "Cuchara Ranch ",
+        "state": "Colorado"
+    },
+    "CD69": {
+        "lat": 37.7402992249,
+        "long": -106.5260009766,
+        "name": "Morning Shadows Ranch ",
+        "state": "Colorado"
+    },
+    "CD82": {
+        "lat": 37.3377990723,
+        "long": -107.8519973755,
+        "name": "Val Air ",
+        "state": "Colorado"
+    },
+    "CD97": {
+        "lat": 38.8055992126,
+        "long": -107.7740020752,
+        "name": "Montemadeira Ii ",
+        "state": "Colorado"
+    },
+    "CD99": {
+        "lat": 40.3582992554,
+        "long": -106.8300018311,
+        "name": "Lucky L Ranch ",
+        "state": "Colorado"
+    },
+    "CO00": {
+        "lat": 39.2799987793,
+        "long": -103.0670013428,
+        "name": "Flagler Aerial Spraying Inc ",
+        "state": "Colorado"
+    },
+    "CO02": {
+        "lat": 39.629699707,
+        "long": -104.5189971924,
+        "name": "Harrington Ranch ",
+        "state": "Colorado"
+    },
+    "CO03": {
+        "lat": 39.2599983215,
+        "long": -106.9120025635,
+        "name": "Aspen Gliderport",
+        "state": "Colorado"
+    },
+    "CO06": {
+        "lat": 40.5135993958,
+        "long": -103.9120025635,
+        "name": "Wirth Field",
+        "state": "Colorado"
+    },
+    "CO07": {
+        "lat": 39.8541984558,
+        "long": -105.4710006714,
+        "name": "Athanasiou Valley ",
+        "state": "Colorado"
+    },
+    "CO09": {
+        "lat": 38.2667007446,
+        "long": -104.283996582,
+        "name": "Youtsey ",
+        "state": "Colorado"
+    },
+    "CO10": {
+        "lat": 39.9947013855,
+        "long": -105.2239990234,
+        "name": "Lemons Private Strip",
+        "state": "Colorado"
+    },
+    "CO11": {
+        "lat": 38.4160995483,
+        "long": -106.0579986572,
+        "name": "Granite Mountain Lodge ",
+        "state": "Colorado"
+    },
+    "CO12": {
+        "lat": 39.983001709,
+        "long": -104.705001831,
+        "name": "Brighton Van-Aire Estates ",
+        "state": "Colorado"
+    },
+    "CO13": {
+        "lat": 39.9632987976,
+        "long": -104.7490005493,
+        "name": "Heckendorf Ranches ",
+        "state": "Colorado"
+    },
+    "CO14": {
+        "lat": 39.9166984558,
+        "long": -104.8050003052,
+        "name": "Reasoner ",
+        "state": "Colorado"
+    },
+    "CO15": {
+        "lat": 39.2247009277,
+        "long": -104.63999939,
+        "name": "Kelly Air Park",
+        "state": "Colorado"
+    },
+    "CO17": {
+        "lat": 39.7136001587,
+        "long": -104.1940002441,
+        "name": "Sky Haven ",
+        "state": "Colorado"
+    },
+    "CO18": {
+        "lat": 39.4640007019,
+        "long": -104.2580032349,
+        "name": "Chaparral ",
+        "state": "Colorado"
+    },
+    "CO19": {
+        "lat": 38.4108009338,
+        "long": -105.6039962769,
+        "name": "Tezak ",
+        "state": "Colorado"
+    },
+    "CO20": {
+        "lat": 38.8624992371,
+        "long": -107.8209991455,
+        "name": "Flying W Ranch ",
+        "state": "Colorado"
+    },
+    "CO22": {
+        "lat": 39.2791671753,
+        "long": -102.4749984741,
+        "name": "Hildebrandt ",
+        "state": "Colorado"
+    },
+    "CO25": {
+        "lat": 39.4961013794,
+        "long": -103.7239990234,
+        "name": "Metrogro Farm ",
+        "state": "Colorado"
+    },
+    "CO27": {
+        "lat": 37.4678001404,
+        "long": -108.6650009155,
+        "name": "Tanner Field",
+        "state": "Colorado"
+    },
+    "CO38": {
+        "lat": 39.7472000122,
+        "long": -104.31300354,
+        "name": "Comanche Airfield Llc ",
+        "state": "Colorado"
+    },
+    "CO42": {
+        "lat": 39.3347015381,
+        "long": -104.5459976196,
+        "name": "Circle 8 Ranch ",
+        "state": "Colorado"
+    },
+    "CO43": {
+        "lat": 39.0027999878,
+        "long": -108.7099990845,
+        "name": "Pinyon ",
+        "state": "Colorado"
+    },
+    "CO47": {
+        "lat": 39.5999984741,
+        "long": -106.9739990234,
+        "name": "Gypsum Creek Ranch ",
+        "state": "Colorado"
+    },
+    "CO48": {
+        "lat": 40.5125007629,
+        "long": -104.6520004272,
+        "name": "Crop Air Inc ",
+        "state": "Colorado"
+    },
+    "CO49": {
+        "lat": 39.1624984741,
+        "long": -104.5350036621,
+        "name": "Flying Lazy D Ranch ",
+        "state": "Colorado"
+    },
+    "CO52": {
+        "lat": 39.5833015442,
+        "long": -105.3030014038,
+        "name": "Marshdale STOLport",
+        "state": "Colorado"
+    },
+    "CO53": {
+        "lat": 40.6347007751,
+        "long": -104.9909973145,
+        "name": "Yankee Field",
+        "state": "Colorado"
+    },
+    "CO54": {
+        "lat": 38.9832992554,
+        "long": -104.6340026855,
+        "name": "G W Flanders Ranch Strip",
+        "state": "Colorado"
+    },
+    "CO55": {
+        "lat": 40.5971984863,
+        "long": -105.1439971924,
+        "name": "Christman Field",
+        "state": "Colorado"
+    },
+    "CO56": {
+        "lat": 39.964099884,
+        "long": -104.4629974365,
+        "name": "Jjs ",
+        "state": "Colorado"
+    },
+    "CO58": {
+        "lat": 40.1058006287,
+        "long": -104.9550018311,
+        "name": "Wings N Things Airpark & Museum ",
+        "state": "Colorado"
+    },
+    "CO59": {
+        "lat": 40.5457992554,
+        "long": -104.5640029907,
+        "name": "Hay Fever Farm ",
+        "state": "Colorado"
+    },
+    "CO60": {
+        "lat": 40.1082992554,
+        "long": -104.4309997559,
+        "name": "Horseshoe Landings ",
+        "state": "Colorado"
+    },
+    "CO61": {
+        "lat": 37.8422012329,
+        "long": -105.2139968872,
+        "name": "Golden Field (Yellow Hat) ",
+        "state": "Colorado"
+    },
+    "CO65": {
+        "lat": 38.0457992554,
+        "long": -105.4710006714,
+        "name": "Geary Ranch ",
+        "state": "Colorado"
+    },
+    "CO70": {
+        "lat": 40.4604988098,
+        "long": -104.6460037231,
+        "name": "Uhrich ",
+        "state": "Colorado"
+    },
+    "CO73": {
+        "lat": 38.0999984741,
+        "long": -102.2170028687,
+        "name": "Air-Sprayers Nr 2 ",
+        "state": "Colorado"
+    },
+    "CO76": {
+        "lat": 38.8363990784,
+        "long": -107.8659973145,
+        "name": "Eden Ranch ",
+        "state": "Colorado"
+    },
+    "CO77": {
+        "lat": 39.9785995483,
+        "long": -104.59400177,
+        "name": "Horth Strip",
+        "state": "Colorado"
+    },
+    "CO80": {
+        "lat": 38.0724983215,
+        "long": -104.0459976196,
+        "name": "Fowler ",
+        "state": "Colorado"
+    },
+    "CO81": {
+        "lat": 39.6208000183,
+        "long": -102.7440032959,
+        "name": "Hill ",
+        "state": "Colorado"
+    },
+    "CO82": {
+        "lat": 40.0957984924,
+        "long": -104.5889968872,
+        "name": "Land ",
+        "state": "Colorado"
+    },
+    "CO84": {
+        "lat": 39.6082992554,
+        "long": -102.5410003662,
+        "name": "Idlers Field",
+        "state": "Colorado"
+    },
+    "CO86": {
+        "lat": 40.0485992432,
+        "long": -105.93800354,
+        "name": "Granby Sports Park Ultralightport",
+        "state": "Colorado"
+    },
+    "CO89": {
+        "lat": 38.7728004456,
+        "long": -108.0439987183,
+        "name": "Barber Field",
+        "state": "Colorado"
+    },
+    "CO90": {
+        "lat": 38.7583007813,
+        "long": -104.3069992065,
+        "name": "Usaf Academy Bullseye Aux Airstrip",
+        "state": "Colorado"
+    },
+    "CO92": {
+        "lat": 39.6417007446,
+        "long": -103.6449966431,
+        "name": "Frasier Ranch ",
+        "state": "Colorado"
+    },
+    "CO93": {
+        "lat": 39.25,
+        "long": -104.8909988403,
+        "name": "Perry Park ",
+        "state": "Colorado"
+    },
+    "CO94": {
+        "lat": 39.7069015503,
+        "long": -103.3519973755,
+        "name": "Decker Farms ",
+        "state": "Colorado"
+    },
+    "CO95": {
+        "lat": 38.0527992249,
+        "long": -107.9800033569,
+        "name": "Wilson Ranch ",
+        "state": "Colorado"
+    },
+    "CO96": {
+        "lat": 39.3717002869,
+        "long": -104.7429962158,
+        "name": "Reed Hollow Ranch ",
+        "state": "Colorado"
+    },
+    "CO97": {
+        "lat": 39.7207984924,
+        "long": -104.3229980469,
+        "name": "Comanche Springs Ranch ",
+        "state": "Colorado"
+    },
+    "CO98": {
+        "lat": 39.5499992371,
+        "long": -105.033996582,
+        "name": "Bowen Farms Nr 1 ",
+        "state": "Colorado"
+    },
+    "K00C": {
+        "lat": 37.2032012939,
+        "long": -107.869003296,
+        "name": "Animas Air Park",
+        "state": "Colorado"
+    },
+    "K07V": {
+        "lat": 37.5237998962,
+        "long": -105.0090026855,
+        "name": "Cuchara Valley At La Veta ",
+        "state": "Colorado"
+    },
+    "K11V": {
+        "lat": 40.3305015564,
+        "long": -104.60900116,
+        "name": "Easton/Valley View ",
+        "state": "Colorado"
+    },
+    "K17V": {
+        "lat": 40.625,
+        "long": -102.6029968262,
+        "name": "Haxtun Municipal ",
+        "state": "Colorado"
+    },
+    "K1V6": {
+        "lat": 38.4280014038,
+        "long": -105.1060028076,
+        "name": "Fremont County ",
+        "state": "Colorado"
+    },
+    "K1V8": {
+        "lat": 37.7846984863,
+        "long": -106.0380020142,
+        "name": "Leach ",
+        "state": "Colorado"
+    },
+    "K20V": {
+        "lat": 40.0536994934,
+        "long": -106.369003296,
+        "name": "Mc Elroy Airfield",
+        "state": "Colorado"
+    },
+    "K2V5": {
+        "lat": 40.10029984,
+        "long": -102.2409973,
+        "name": "Wray Municipal ",
+        "state": "Colorado"
+    },
+    "K2V6": {
+        "lat": 40.1057105,
+        "long": -102.7144377,
+        "name": "Yuma Municipal ",
+        "state": "Colorado"
+    },
+    "K33V": {
+        "lat": 40.7504005432,
+        "long": -106.2710037231,
+        "name": "Walden Jackson County ",
+        "state": "Colorado"
+    },
+    "K4V1": {
+        "lat": 37.69660187,
+        "long": -104.7839966,
+        "name": "Spanish Peaks Airfield",
+        "state": "Colorado"
+    },
+    "K7V2": {
+        "lat": 38.8316993713,
+        "long": -107.6460037231,
+        "name": "North Fork Valley ",
+        "state": "Colorado"
+    },
+    "K7V8": {
+        "lat": 40.97079849,
+        "long": -102.3150024,
+        "name": "Julesburg Municipal ",
+        "state": "Colorado"
+    },
+    "K7V9": {
+        "lat": 38.0527992249,
+        "long": -103.2369995117,
+        "name": "City of Las Animas Bent County ",
+        "state": "Colorado"
+    },
+    "K8V1": {
+        "lat": 37.71360016,
+        "long": -106.3539963,
+        "name": "Del Norte Municipal & County ",
+        "state": "Colorado"
+    },
+    "K8V7": {
+        "lat": 37.4586982727,
+        "long": -102.6179962158,
+        "name": "Springfield Municipal ",
+        "state": "Colorado"
+    },
+    "K99V": {
+        "lat": 38.7042007446,
+        "long": -107.6439971924,
+        "name": "Crawford ",
+        "state": "Colorado"
+    },
+    "K9V7": {
+        "lat": 38.4751014709,
+        "long": -102.8109970093,
+        "name": "Eads Municipal ",
+        "state": "Colorado"
+    },
+    "KA50": {
+        "lat": 38.8744010925,
+        "long": -104.4100036621,
+        "name": "Colorado Springs East ",
+        "state": "Colorado"
+    },
+    "KAEJ": {
+        "lat": 38.814201355,
+        "long": -106.1210021973,
+        "name": "Central Colorado Regional ",
+        "state": "Colorado"
+    },
+    "KAFF": {
+        "lat": 38.96969986,
+        "long": -104.8130035,
+        "name": "USAF Academy Airfield",
+        "state": "Colorado"
+    },
+    "KAIB": {
+        "lat": 38.2388000488,
+        "long": -108.56300354,
+        "name": "Hopkins Field",
+        "state": "Colorado"
+    },
+    "KAJZ": {
+        "lat": 38.7863998413,
+        "long": -108.0640029907,
+        "name": "Blake Field",
+        "state": "Colorado"
+    },
+    "KAKO": {
+        "lat": 40.1755981445,
+        "long": -103.222000122,
+        "name": "Colorado Plains Regional ",
+        "state": "Colorado"
+    },
+    "KALS": {
+        "lat": 37.4348983765,
+        "long": -105.866996765,
+        "name": "San Luis Valley Regional Bergman Field",
+        "state": "Colorado"
+    },
+    "KANK": {
+        "lat": 38.5382995605,
+        "long": -106.0490036011,
+        "name": "Harriet Alexander Field",
+        "state": "Colorado"
+    },
+    "KAPA": {
+        "lat": 39.57009888,
+        "long": -104.848999,
+        "name": "Centennial ",
+        "state": "Colorado"
+    },
+    "KASE": {
+        "lat": 39.22320175,
+        "long": -106.8690033,
+        "name": "Aspen-Pitkin Co/Sardy Field",
+        "state": "Colorado"
+    },
+    "KBDU": {
+        "lat": 40.0393981934,
+        "long": -105.225997925,
+        "name": "Boulder Municipal ",
+        "state": "Colorado"
+    },
+    "KBJC": {
+        "lat": 39.90879822,
+        "long": -105.1169968,
+        "name": "Rocky Mountain Metropolitan ",
+        "state": "Colorado"
+    },
+    "KBKF": {
+        "lat": 39.7016983032,
+        "long": -104.751998901,
+        "name": "Buckley Air Force Base",
+        "state": "Colorado"
+    },
+    "KC08": {
+        "lat": 38.011100769,
+        "long": -105.3730010986,
+        "name": "Silver West ",
+        "state": "Colorado"
+    },
+    "KCAG": {
+        "lat": 40.4952011108,
+        "long": -107.5220031738,
+        "name": "Craig Moffat ",
+        "state": "Colorado"
+    },
+    "KCEZ": {
+        "lat": 37.3030014038,
+        "long": -108.627998352,
+        "name": "Cortez Municipal ",
+        "state": "Colorado"
+    },
+    "KCOS": {
+        "lat": 38.8058013916,
+        "long": -104.7009963989,
+        "name": "City of Colorado Springs Municipal ",
+        "state": "Colorado"
+    },
+    "KD17": {
+        "lat": 38.7574996948,
+        "long": -108.1480026245,
+        "name": "Westwinds ",
+        "state": "Colorado"
+    },
+    "KDEN": {
+        "lat": 39.8616981506,
+        "long": -104.672996521,
+        "name": "Denver International ",
+        "state": "Colorado"
+    },
+    "KDRO": {
+        "lat": 37.1515007019,
+        "long": -107.753997803,
+        "name": "Durango La Plata County ",
+        "state": "Colorado"
+    },
+    "KEEO": {
+        "lat": 40.0488014221,
+        "long": -107.8860015869,
+        "name": "Meeker ",
+        "state": "Colorado"
+    },
+    "KEGE": {
+        "lat": 39.64260101,
+        "long": -106.9179993,
+        "name": "Eagle County Regional ",
+        "state": "Colorado"
+    },
+    "KEIK": {
+        "lat": 40.0102005005,
+        "long": -105.047996521,
+        "name": "Erie Municipal ",
+        "state": "Colorado"
+    },
+    "KFCS": {
+        "lat": 38.67839813,
+        "long": -104.7570038,
+        "name": "Butts AAF (Fort Carson) Air Field",
+        "state": "Colorado"
+    },
+    "KFLY": {
+        "lat": 38.9458007812,
+        "long": -104.569999695,
+        "name": "Meadow Lake ",
+        "state": "Colorado"
+    },
+    "KFMM": {
+        "lat": 40.3335990906,
+        "long": -103.8040008545,
+        "name": "Fort Morgan Municipal ",
+        "state": "Colorado"
+    },
+    "KFNL": {
+        "lat": 40.4518013,
+        "long": -105.011001587,
+        "name": "Fort Collins Loveland Municipal ",
+        "state": "Colorado"
+    },
+    "KFTG": {
+        "lat": 39.7853012085,
+        "long": -104.5429992676,
+        "name": "Front Range ",
+        "state": "Colorado"
+    },
+    "KGJT": {
+        "lat": 39.1223983765,
+        "long": -108.527000427,
+        "name": "Grand Junction Regional ",
+        "state": "Colorado"
+    },
+    "KGNB": {
+        "lat": 40.0896987915,
+        "long": -105.9169998169,
+        "name": "Granby Grand County ",
+        "state": "Colorado"
+    },
+    "KGUC": {
+        "lat": 38.53390121,
+        "long": -106.9329987,
+        "name": "Gunnison Crested Butte Regional ",
+        "state": "Colorado"
+    },
+    "KGWS": {
+        "lat": 39.5083007813,
+        "long": -107.3109970093,
+        "name": "Glenwood Springs Municipal ",
+        "state": "Colorado"
+    },
+    "KGXY": {
+        "lat": 40.4374008179,
+        "long": -104.6330032349,
+        "name": "Greeley Weld County ",
+        "state": "Colorado"
+    },
+    "KHDN": {
+        "lat": 40.48120117,
+        "long": -107.2180023,
+        "name": "Yampa Valley ",
+        "state": "Colorado"
+    },
+    "KHEQ": {
+        "lat": 40.5694007874,
+        "long": -102.2730026245,
+        "name": "Holyoke ",
+        "state": "Colorado"
+    },
+    "KITR": {
+        "lat": 39.2425003052,
+        "long": -102.2850036621,
+        "name": "Kit Carson County ",
+        "state": "Colorado"
+    },
+    "KLAA": {
+        "lat": 38.0696983337,
+        "long": -102.68800354,
+        "name": "Lamar Municipal ",
+        "state": "Colorado"
+    },
+    "KLHX": {
+        "lat": 38.04970169,
+        "long": -103.5090027,
+        "name": "La Junta Municipal ",
+        "state": "Colorado"
+    },
+    "KLIC": {
+        "lat": 39.2747993469,
+        "long": -103.6660003662,
+        "name": "Limon Municipal ",
+        "state": "Colorado"
+    },
+    "KLKV": {
+        "lat": 42.1610984802,
+        "long": -120.3990020752,
+        "name": "Lake County ",
+        "state": "Colorado"
+    },
+    "KLMO": {
+        "lat": 40.1637001,
+        "long": -105.163002,
+        "name": "Vance Brand ",
+        "state": "Colorado"
+    },
+    "KLXV": {
+        "lat": 39.2202987671,
+        "long": -106.3170013428,
+        "name": "Lake County ",
+        "state": "Colorado"
+    },
+    "KMTJ": {
+        "lat": 38.5097999573,
+        "long": -107.893997192,
+        "name": "Montrose Regional ",
+        "state": "Colorado"
+    },
+    "KMVI": {
+        "lat": 37.5273017883,
+        "long": -106.047996521,
+        "name": "Monte Vista Municipal ",
+        "state": "Colorado"
+    },
+    "KPSO": {
+        "lat": 37.28630066,
+        "long": -107.0559998,
+        "name": "Stevens Field",
+        "state": "Colorado"
+    },
+    "KPUB": {
+        "lat": 38.289100647,
+        "long": -104.4970016479,
+        "name": "Pueblo Memorial ",
+        "state": "Colorado"
+    },
+    "KRCV": {
+        "lat": 37.7137838,
+        "long": -106.3520185,
+        "name": "Astronaut Kent Rominger ",
+        "state": "Colorado"
+    },
+    "KRIL": {
+        "lat": 39.52629852,
+        "long": -107.7269974,
+        "name": "Garfield County Regional ",
+        "state": "Colorado"
+    },
+    "KRMY": {
+        "lat": 42.2512016296,
+        "long": -84.9554977417,
+        "name": "Brooks Field",
+        "state": "Colorado"
+    },
+    "KSBS": {
+        "lat": 40.5163002,
+        "long": -106.8659973,
+        "name": "Steamboat Springs Bob Adams Field",
+        "state": "Colorado"
+    },
+    "KSTK": {
+        "lat": 40.61529922,
+        "long": -103.2649994,
+        "name": "Sterling Municipal ",
+        "state": "Colorado"
+    },
+    "KTAD": {
+        "lat": 37.2593994141,
+        "long": -104.341003418,
+        "name": "Perry Stokes ",
+        "state": "Colorado"
+    },
+    "KTEX": {
+        "lat": 37.9538002,
+        "long": -107.9079971,
+        "name": "Telluride Regional ",
+        "state": "Colorado"
+    }
+}

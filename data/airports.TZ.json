@@ -1,0 +1,297 @@
+{
+  "HTAG": {
+    "lat": -6.935353,
+    "long": 39.493046,
+    "name": "Amani Gomvu "
+  },
+  "HTAR": {
+    "lat": -3.3677899837,
+    "long": 36.6333007813,
+    "name": "Arusha "
+  },
+  "HTBB": {
+    "lat": -7.748241,
+    "long": 38.001833,
+    "name": "Kibambawe Airstrip"
+  },
+  "HTBS": {
+    "lat": -11.331675,
+    "long": 37.067816,
+    "name": "Mbesa "
+  },
+  "HTBU": {
+    "lat": -1.332,
+    "long": 31.8212,
+    "name": "Bukoba "
+  },
+  "HTCH": {
+    "lat": -8.5500001907,
+    "long": 33.4329986572,
+    "name": "Chunya "
+  },
+  "HTDA": {
+    "lat": -6.8781099319,
+    "long": 39.2025985718,
+    "name": "Mwalimu Julius K. Nyerere International "
+  },
+  "HTDO": {
+    "lat": -6.170440197,
+    "long": 35.7526016235,
+    "name": "Dodoma "
+  },
+  "HTIR": {
+    "lat": -7.6686301231,
+    "long": 35.7521018982,
+    "name": "Iringa "
+  },
+  "HTIY": {
+    "lat": -6.7166700363,
+    "long": 32.0999984741,
+    "name": "Inyonga "
+  },
+  "HTKA": {
+    "lat": -4.8862,
+    "long": 29.6709,
+    "name": "Kigoma "
+  },
+  "HTKB": {
+    "lat": -3.5259799957,
+    "long": 30.6504001617,
+    "name": "Kibondo "
+  },
+  "HTKD": {
+    "lat": -4.8937101364,
+    "long": 35.7682991028,
+    "name": "Kondoa "
+  },
+  "HTKI": {
+    "lat": -8.9329996109,
+    "long": 39.516998291,
+    "name": "Kilwa Masoko "
+  },
+  "HTKJ": {
+    "lat": -3.4294099808,
+    "long": 37.0745010376,
+    "name": "Kilimanjaro International "
+  },
+  "HTKL": {
+    "lat": -4.3143720627,
+    "long": 34.3333206177,
+    "name": "Kirondatal "
+  },
+  "HTKO": {
+    "lat": -6.1500000954,
+    "long": 36.4169998169,
+    "name": "Kongwa "
+  },
+  "HTKS": {
+    "lat": -6.9000000954,
+    "long": 37.0166664124,
+    "name": "Kilosa "
+  },
+  "HTKT": {
+    "lat": -5.8330001831,
+    "long": 34.9329986572,
+    "name": "Kilimatinde "
+  },
+  "HTLD": {
+    "lat": -2.0696899891,
+    "long": 35.5457000732,
+    "name": "Loliondo "
+  },
+  "HTLI": {
+    "lat": -9.8511104584,
+    "long": 39.7578010559,
+    "name": "Kikwetu "
+  },
+  "HTLL": {
+    "lat": -11.116399765,
+    "long": 34.6521987915,
+    "name": "Liuli "
+  },
+  "HTLM": {
+    "lat": -3.3763101101,
+    "long": 35.8182983398,
+    "name": "Lake Manyara "
+  },
+  "HTMA": {
+    "lat": -7.9169998169,
+    "long": 39.6669998169,
+    "name": "Mafia Island "
+  },
+  "HTMB": {
+    "lat": -8.9169998169,
+    "long": 33.466999054,
+    "name": "Mbeya "
+  },
+  "HTMD": {
+    "lat": -3.5,
+    "long": 33.6170005798,
+    "name": "Mwadui "
+  },
+  "HTMF": {
+    "lat": -8.7320404053,
+    "long": 35.3026008606,
+    "name": "Mufindi "
+  },
+  "HTMG": {
+    "lat": -6.7972202301,
+    "long": 37.6530990601,
+    "name": "Morogoro "
+  },
+  "HTMI": {
+    "lat": -10.7329998016,
+    "long": 38.766998291,
+    "name": "Masasi "
+  },
+  "HTMK": {
+    "lat": -7.333427906,
+    "long": 37.1163597107,
+    "name": "Mikumi "
+  },
+  "HTML": {
+    "lat": -2.9778599739,
+    "long": 33.5163002014,
+    "name": "Malya "
+  },
+  "HTMO": {
+    "lat": -4.882999897,
+    "long": 38.283000946,
+    "name": "Mombo "
+  },
+  "HTMP": {
+    "lat": -6.3499999046,
+    "long": 31.0830001831,
+    "name": "Mpanda "
+  },
+  "HTMS": {
+    "lat": -3.3633298874,
+    "long": 37.3269004822,
+    "name": "Moshi "
+  },
+  "HTMT": {
+    "lat": -10.339099884,
+    "long": 40.1818008423,
+    "name": "Mtwara "
+  },
+  "HTMU": {
+    "lat": -1.503,
+    "long": 33.8021,
+    "name": "Musoma "
+  },
+  "HTMW": {
+    "lat": -2.4444899559,
+    "long": 32.9327011108,
+    "name": "Mwanza "
+  },
+  "HTMX": {
+    "lat": -6.3499999046,
+    "long": 36.483001709,
+    "name": "Mpwapwa "
+  },
+  "HTNA": {
+    "lat": -10.3575000763,
+    "long": 38.7792015076,
+    "name": "Nachingwea "
+  },
+  "HTNJ": {
+    "lat": -9.3500003815,
+    "long": 34.7999992371,
+    "name": "Njombe "
+  },
+  "HTNR": {
+    "lat": -2.5417900085,
+    "long": 30.7031002045,
+    "name": "Ngara "
+  },
+  "HTOL": {
+    "lat": -4.287732,
+    "long": 36.616115,
+    "name": "Oltipesi "
+  },
+  "HTPE": {
+    "lat": -5.2572598457,
+    "long": 39.8114013672,
+    "name": "Pemba "
+  },
+  "HTSD": {
+    "lat": -4.8169999123,
+    "long": 34.733001709,
+    "name": "Singida "
+  },
+  "HTSE": {
+    "lat": -4.0830001831,
+    "long": 37.716999054,
+    "name": "Same "
+  },
+  "HTSH": {
+    "lat": -8.3500003815,
+    "long": 35.2999992371,
+    "name": "Mafinga "
+  },
+  "HTSN": {
+    "lat": -2.4580600262,
+    "long": 34.8224983215,
+    "name": "Seronera "
+  },
+  "HTSO": {
+    "lat": -10.6829996109,
+    "long": 35.5830001831,
+    "name": "Songea "
+  },
+  "HTSU": {
+    "lat": -7.9670000076,
+    "long": 31.6669998169,
+    "name": "Sumbawanga "
+  },
+  "HTSY": {
+    "lat": -3.6093,
+    "long": 33.5035,
+    "name": "Shinyanga "
+  },
+  "HTTB": {
+    "lat": -5.0763897896,
+    "long": 32.8333015442,
+    "name": "Tabora "
+  },
+  "HTTG": {
+    "lat": -5.0923600197,
+    "long": 39.0712013245,
+    "name": "Tanga "
+  },
+  "HTTU": {
+    "lat": -11.1000003815,
+    "long": 37.3670005798,
+    "name": "Tunduru "
+  },
+  "HTUK": {
+    "lat": -2.0435299873,
+    "long": 33.0643997192,
+    "name": "Nansio "
+  },
+  "HTUR": {
+    "lat": -5.0669999123,
+    "long": 32.0499992371,
+    "name": "Urambo "
+  },
+  "HTUT": {
+    "lat": -8.002579689,
+    "long": 38.7616996765,
+    "name": "Utete "
+  },
+  "HTUV": {
+    "lat": -5.0879502296,
+    "long": 30.4060001373,
+    "name": "Uvinza "
+  },
+  "HTWK": {
+    "lat": -3.0499999523,
+    "long": 37,
+    "name": "West Kilimanjaro "
+  },
+  "HTZA": {
+    "lat": -6.2220201492,
+    "long": 39.224899292,
+    "name": "Zanzibar "
+  }
+}

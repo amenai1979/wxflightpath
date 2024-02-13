@@ -1,0 +1,37 @@
+{
+  "OJ38": {
+    "lat": 32.0252990723,
+    "long": 36.1447982788,
+    "name": "Zarqa "
+  },
+  "OJ40": {
+    "lat": 31.8255996704,
+    "long": 36.7820014954,
+    "name": "Al Azraq / Al Shaheed Muwaffaq Salti Air Base"
+  },
+  "OJAI": {
+    "lat": 31.7226009369,
+    "long": 35.9931983948,
+    "name": "Queen Alia International "
+  },
+  "OJAM": {
+    "lat": 31.972700119,
+    "long": 35.9916000366,
+    "name": "Amman-Marka International "
+  },
+  "OJAQ": {
+    "lat": 29.6116008759,
+    "long": 35.0181007385,
+    "name": "Aqaba King Hussein International "
+  },
+  "OJHF": {
+    "lat": 32.1607017517,
+    "long": 37.1493988037,
+    "name": "Prince Hasan Air Base"
+  },
+  "OJMF": {
+    "lat": 32.3563995361,
+    "long": 36.2592010498,
+    "name": "King Hussein Air College"
+  }
+}

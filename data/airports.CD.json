@@ -1,0 +1,1317 @@
+{
+  "FZAA": {
+    "lat": -4.3857498169,
+    "long": 15.4446001053,
+    "name": "Ndjili International "
+  },
+  "FZAB": {
+    "lat": -4.3266601563,
+    "long": 15.3275003433,
+    "name": "Ndolo "
+  },
+  "FZAD": {
+    "lat": -4.7829999924,
+    "long": 14.9169998169,
+    "name": "Celo Zongo "
+  },
+  "FZAE": {
+    "lat": -4.2170000076,
+    "long": 15.5670003891,
+    "name": "Kimpoko "
+  },
+  "FZAF": {
+    "lat": -5.5999999046,
+    "long": 15.3170003891,
+    "name": "Nsangi "
+  },
+  "FZAG": {
+    "lat": -5.9308600426,
+    "long": 12.3517999649,
+    "name": "Muanda "
+  },
+  "FZAH": {
+    "lat": -4.9829998016,
+    "long": 12.9329996109,
+    "name": "Tshela "
+  },
+  "FZAI": {
+    "lat": -5.9180598259,
+    "long": 12.4476995468,
+    "name": "Kitona Base "
+  },
+  "FZAJ": {
+    "lat": -5.8540000916,
+    "long": 13.0640001297,
+    "name": "Boma "
+  },
+  "FZAL": {
+    "lat": -4.9499998093,
+    "long": 14.1330003738,
+    "name": "Luozi "
+  },
+  "FZAM": {
+    "lat": -5.7996101379,
+    "long": 13.4404001236,
+    "name": "Tshimpi "
+  },
+  "FZAN": {
+    "lat": -5.5316700935,
+    "long": 13.5794000626,
+    "name": "Inga "
+  },
+  "FZAP": {
+    "lat": -5.5170001984,
+    "long": 14.5,
+    "name": "Lukala "
+  },
+  "FZAR": {
+    "lat": -5.4499998093,
+    "long": 14.8330001831,
+    "name": "Nkolo Fuma "
+  },
+  "FZAS": {
+    "lat": -5.1669998169,
+    "long": 15,
+    "name": "Inkisi "
+  },
+  "FZAU": {
+    "lat": -5.75,
+    "long": 12.25,
+    "name": "Konde "
+  },
+  "FZAW": {
+    "lat": -5.5,
+    "long": 14.6999998093,
+    "name": "Kwilu-Ngongo "
+  },
+  "FZAX": {
+    "lat": -4.8499999046,
+    "long": 13.7670001984,
+    "name": "Luheki "
+  },
+  "FZAY": {
+    "lat": -5.632999897,
+    "long": 13.4169998169,
+    "name": "Mvula Sanda "
+  },
+  "FZBA": {
+    "lat": -1.9472199678,
+    "long": 18.2858009338,
+    "name": "Inongo "
+  },
+  "FZBB": {
+    "lat": -3.382999897,
+    "long": 20,
+    "name": "Bongimba "
+  },
+  "FZBC": {
+    "lat": -0.7329999804,
+    "long": 18.1329994202,
+    "name": "Bikoro "
+  },
+  "FZBD": {
+    "lat": -3.382999897,
+    "long": 19.5,
+    "name": "Oshwe "
+  },
+  "FZBE": {
+    "lat": -3.5999999046,
+    "long": 17.783000946,
+    "name": "Beno "
+  },
+  "FZBF": {
+    "lat": -3.0999999046,
+    "long": 18.7329998016,
+    "name": "Bonkita "
+  },
+  "FZBG": {
+    "lat": -2.9330000877,
+    "long": 18.3999996185,
+    "name": "Kempa "
+  },
+  "FZBH": {
+    "lat": -1.3999999762,
+    "long": 18.3999996185,
+    "name": "Isongo "
+  },
+  "FZBI": {
+    "lat": -2.7174999714,
+    "long": 17.6847000122,
+    "name": "Nioki "
+  },
+  "FZBJ": {
+    "lat": -3,
+    "long": 16.9330005646,
+    "name": "Mushie "
+  },
+  "FZBK": {
+    "lat": -3.0666599274,
+    "long": 18.6417007446,
+    "name": "Boshwe "
+  },
+  "FZBL": {
+    "lat": -3.0499999523,
+    "long": 17.1000003815,
+    "name": "Djokele "
+  },
+  "FZBN": {
+    "lat": -2.4670000076,
+    "long": 16.5499992371,
+    "name": "Malebo "
+  },
+  "FZBO": {
+    "lat": -3.3113200665,
+    "long": 17.3817005157,
+    "name": "Bandundu "
+  },
+  "FZBP": {
+    "lat": -2.7999899387,
+    "long": 19.9083003998,
+    "name": "Bolongonkele "
+  },
+  "FZBQ": {
+    "lat": -3.3833301067,
+    "long": 19.6597003937,
+    "name": "Bindja "
+  },
+  "FZBS": {
+    "lat": -3.1830000877,
+    "long": 18.0830001831,
+    "name": "Semendua "
+  },
+  "FZBT": {
+    "lat": -1.4349999428,
+    "long": 19.0240001678,
+    "name": "Basango Mboliasa "
+  },
+  "FZBU": {
+    "lat": -2.4830000401,
+    "long": 18.25,
+    "name": "Ipeke "
+  },
+  "FZBV": {
+    "lat": -2.7170000076,
+    "long": 18.1329994202,
+    "name": "Kempile "
+  },
+  "FZBW": {
+    "lat": -1.9170000553,
+    "long": 17.9169998169,
+    "name": "Basengele "
+  },
+  "FZCA": {
+    "lat": -5.0357699394,
+    "long": 18.7856006622,
+    "name": "Kikwit "
+  },
+  "FZCB": {
+    "lat": -5,
+    "long": 19.6000003815,
+    "name": "Idiofa "
+  },
+  "FZCD": {
+    "lat": -4.4000000954,
+    "long": 18.466999054,
+    "name": "Vanga "
+  },
+  "FZCE": {
+    "lat": -4.8000001907,
+    "long": 18.716999054,
+    "name": "Lusanga "
+  },
+  "FZCF": {
+    "lat": -7.3330001831,
+    "long": 19.0170001984,
+    "name": "Kahemba "
+  },
+  "FZCI": {
+    "lat": -5.4499998093,
+    "long": 20.4500007629,
+    "name": "Banga "
+  },
+  "FZCK": {
+    "lat": -7.617000103,
+    "long": 18.5499992371,
+    "name": "Kajiji "
+  },
+  "FZCL": {
+    "lat": -4.1999998093,
+    "long": 17.8330001831,
+    "name": "Banza Lute "
+  },
+  "FZCM": {
+    "lat": -4.0830001831,
+    "long": 19.5,
+    "name": "Mangai Ii "
+  },
+  "FZCO": {
+    "lat": -5.3000001907,
+    "long": 16.8500003815,
+    "name": "Boko "
+  },
+  "FZCP": {
+    "lat": -5.6999998093,
+    "long": 16.5830001831,
+    "name": "Popokabaka "
+  },
+  "FZCR": {
+    "lat": -4.132999897,
+    "long": 18.716999054,
+    "name": "Busala "
+  },
+  "FZCS": {
+    "lat": -4.8388900757,
+    "long": 17.0291996002,
+    "name": "Kenge "
+  },
+  "FZCT": {
+    "lat": -4.132999897,
+    "long": 17.2999992371,
+    "name": "Fatundu "
+  },
+  "FZCU": {
+    "lat": -3.3329999447,
+    "long": 17.466999054,
+    "name": "Ito "
+  },
+  "FZCV": {
+    "lat": -4.7829999924,
+    "long": 17.8500003815,
+    "name": "Masi Manimba "
+  },
+  "FZCW": {
+    "lat": -4.2670001984,
+    "long": 17.2670001984,
+    "name": "Kikongo Sur Wamba "
+  },
+  "FZCX": {
+    "lat": -4.5999999046,
+    "long": 17.5830001831,
+    "name": "Kimafu "
+  },
+  "FZCY": {
+    "lat": -4.0830001831,
+    "long": 19.4330005646,
+    "name": "Yuki "
+  },
+  "FZDA": {
+    "lat": -5.5329999924,
+    "long": 14.8500003815,
+    "name": "Malanga "
+  },
+  "FZDB": {
+    "lat": -5.617000103,
+    "long": 17.6000003815,
+    "name": "Kimbau "
+  },
+  "FZDD": {
+    "lat": -6.5500001907,
+    "long": 17.3999996185,
+    "name": "Wamba Luadi "
+  },
+  "FZDE": {
+    "lat": -6.5500001907,
+    "long": 18.2000007629,
+    "name": "Tono "
+  },
+  "FZDF": {
+    "lat": -6.8330001831,
+    "long": 17.6669998169,
+    "name": "Nzamba "
+  },
+  "FZDG": {
+    "lat": -5.9670000076,
+    "long": 20.4169998169,
+    "name": "Nyanga "
+  },
+  "FZDH": {
+    "lat": -4.4169998169,
+    "long": 17.1669998169,
+    "name": "Ngi "
+  },
+  "FZDJ": {
+    "lat": -6.7670001984,
+    "long": 21.1499996185,
+    "name": "Mutena "
+  },
+  "FZDK": {
+    "lat": -5.0329999924,
+    "long": 17.6499996185,
+    "name": "Kipata Katika "
+  },
+  "FZDL": {
+    "lat": -4.4499998093,
+    "long": 17.4169998169,
+    "name": "Kolokoso "
+  },
+  "FZDM": {
+    "lat": -4.8000001907,
+    "long": 17.5830001831,
+    "name": "Masamuna "
+  },
+  "FZDN": {
+    "lat": -6.9000000954,
+    "long": 16.9500007629,
+    "name": "Mongo Wa Kenda "
+  },
+  "FZDO": {
+    "lat": -5.5329999924,
+    "long": 17.6170005798,
+    "name": "Moanza "
+  },
+  "FZDP": {
+    "lat": -5.6999998093,
+    "long": 19.7670001984,
+    "name": "Mukedi "
+  },
+  "FZDQ": {
+    "lat": -7.2829999924,
+    "long": 17.033000946,
+    "name": "Mazelele "
+  },
+  "FZDR": {
+    "lat": -1.1499999762,
+    "long": 21.8999996185,
+    "name": "Bokela "
+  },
+  "FZDS": {
+    "lat": -4.4499998093,
+    "long": 17.783000946,
+    "name": "Yasa Bongo "
+  },
+  "FZDT": {
+    "lat": -6.1999998093,
+    "long": 17.6499996185,
+    "name": "Matari "
+  },
+  "FZDU": {
+    "lat": -5.8330001831,
+    "long": 15,
+    "name": "Kimpangu "
+  },
+  "FZDY": {
+    "lat": -3.882999897,
+    "long": 17.3500003815,
+    "name": "Missayi "
+  },
+  "FZEA": {
+    "lat": 0.0226000007,
+    "long": 18.2887001038,
+    "name": "Mbandaka "
+  },
+  "FZEB": {
+    "lat": -0.0670000017,
+    "long": 19.9829998016,
+    "name": "Monieka "
+  },
+  "FZEI": {
+    "lat": 0.25,
+    "long": 18.9330005646,
+    "name": "Ingende "
+  },
+  "FZEM": {
+    "lat": -4.6830000877,
+    "long": 18.216999054,
+    "name": "Yembe Moke "
+  },
+  "FZEN": {
+    "lat": 1.2247200012,
+    "long": 19.7889003754,
+    "name": "Basankusu "
+  },
+  "FZEO": {
+    "lat": 1.0169999599,
+    "long": 20.6000003815,
+    "name": "Beongo "
+  },
+  "FZEP": {
+    "lat": 1.3170000315,
+    "long": 20.7000007629,
+    "name": "Mentole "
+  },
+  "FZER": {
+    "lat": 1.2829999924,
+    "long": 20.3330001831,
+    "name": "Kodoro "
+  },
+  "FZES": {
+    "lat": 1.4670000076,
+    "long": 20.2999992371,
+    "name": "Ngumu "
+  },
+  "FZFA": {
+    "lat": 3.632999897,
+    "long": 18.6329994202,
+    "name": "Libenge "
+  },
+  "FZFB": {
+    "lat": 2.5169999599,
+    "long": 18.283000946,
+    "name": "Imesse "
+  },
+  "FZFC": {
+    "lat": 2.0999999046,
+    "long": 22.6972007751,
+    "name": "Engengele "
+  },
+  "FZFD": {
+    "lat": 4.2532100677,
+    "long": 20.9752998352,
+    "name": "Gbadolite "
+  },
+  "FZFE": {
+    "lat": 3.6830000877,
+    "long": 22.1499996185,
+    "name": "Abumumbazi "
+  },
+  "FZFF": {
+    "lat": 3.7330000401,
+    "long": 19.0830001831,
+    "name": "Bau "
+  },
+  "FZFG": {
+    "lat": 4.117000103,
+    "long": 19.4169998169,
+    "name": "Bokada "
+  },
+  "FZFH": {
+    "lat": 2.117000103,
+    "long": 23.283000946,
+    "name": "Mokaria-Yamoleka "
+  },
+  "FZFJ": {
+    "lat": 4.1830000877,
+    "long": 19.783000946,
+    "name": "Goyongo "
+  },
+  "FZFK": {
+    "lat": 3.2353699207,
+    "long": 19.7712993622,
+    "name": "Gemena "
+  },
+  "FZFL": {
+    "lat": 3.383611111,
+    "long": 18.654722222,
+    "name": "Kala "
+  },
+  "FZFN": {
+    "lat": 4.4388899803,
+    "long": 19.5389003754,
+    "name": "Lombo "
+  },
+  "FZFP": {
+    "lat": 4.1576399803,
+    "long": 21.6508998871,
+    "name": "Kotakoli "
+  },
+  "FZFQ": {
+    "lat": 4.117000103,
+    "long": 19.216999054,
+    "name": "Mpaka "
+  },
+  "FZFR": {
+    "lat": 1.6499999762,
+    "long": 23.1499996185,
+    "name": "Mombongo "
+  },
+  "FZFS": {
+    "lat": 3.367000103,
+    "long": 20.2999992371,
+    "name": "Karawa "
+  },
+  "FZFT": {
+    "lat": 2.9775845186,
+    "long": 19.3514084816,
+    "name": "Tandala "
+  },
+  "FZFU": {
+    "lat": 2.1827800274,
+    "long": 22.4817008972,
+    "name": "Bumbar "
+  },
+  "FZFV": {
+    "lat": 3.882999897,
+    "long": 20.783000946,
+    "name": "Gbado "
+  },
+  "FZFW": {
+    "lat": 2.4670000076,
+    "long": 20.1000003815,
+    "name": "Gwaka "
+  },
+  "FZGA": {
+    "lat": 2.1706600189,
+    "long": 21.4969005585,
+    "name": "Lisala "
+  },
+  "FZGB": {
+    "lat": 1.8669999838,
+    "long": 21.783000946,
+    "name": "Bosondjo "
+  },
+  "FZGC": {
+    "lat": 1.8500000238,
+    "long": 23.1170005798,
+    "name": "Bolila "
+  },
+  "FZGE": {
+    "lat": 2.4330000877,
+    "long": 20.5,
+    "name": "Binga "
+  },
+  "FZGF": {
+    "lat": -0.6830000281,
+    "long": 22.3330001831,
+    "name": "Bokungu "
+  },
+  "FZGG": {
+    "lat": -0.8830000162,
+    "long": 22.8169994354,
+    "name": "Mondombe "
+  },
+  "FZGH": {
+    "lat": -0.4329999983,
+    "long": 21.6499996185,
+    "name": "Wema "
+  },
+  "FZGI": {
+    "lat": 2.2829999924,
+    "long": 22.8500003815,
+    "name": "Yalingimba "
+  },
+  "FZGN": {
+    "lat": -0.2169999927,
+    "long": 20.8500003815,
+    "name": "Boende "
+  },
+  "FZGT": {
+    "lat": -0.3170000017,
+    "long": 19.0669994354,
+    "name": "Boteka "
+  },
+  "FZGV": {
+    "lat": -1.2000000477,
+    "long": 23.283000946,
+    "name": "Ikela "
+  },
+  "FZGX": {
+    "lat": -1.6000000238,
+    "long": 20.6499996185,
+    "name": "Monkoto "
+  },
+  "FZGY": {
+    "lat": -0.4670000076,
+    "long": 21.9330005646,
+    "name": "Yemo "
+  },
+  "FZIA": {
+    "lat": 0.5174999833,
+    "long": 25.1550006866,
+    "name": "Kisangani Simisini "
+  },
+  "FZIC": {
+    "lat": 0.4816389978,
+    "long": 25.3379993439,
+    "name": "Bangoka International "
+  },
+  "FZIG": {
+    "lat": -0.150000006,
+    "long": 25.3500003815,
+    "name": "KM 95 CFL "
+  },
+  "FZIK": {
+    "lat": 0.3330000043,
+    "long": 25.5,
+    "name": "Katende "
+  },
+  "FZIR": {
+    "lat": 0.7829999924,
+    "long": 24.466999054,
+    "name": "Yangambi "
+  },
+  "FZIZ": {
+    "lat": 1.1169999838,
+    "long": 23.6170005798,
+    "name": "Lokutu "
+  },
+  "FZJB": {
+    "lat": 3.2330000401,
+    "long": 29.5669994354,
+    "name": "Doko "
+  },
+  "FZJC": {
+    "lat": 3.5999999046,
+    "long": 28.8999996185,
+    "name": "Dungu-Uye "
+  },
+  "FZJD": {
+    "lat": 4.7329998016,
+    "long": 27.6830005646,
+    "name": "Doruma "
+  },
+  "FZJF": {
+    "lat": 3.9000000954,
+    "long": 30.25,
+    "name": "Aba "
+  },
+  "FZJH": {
+    "lat": 2.8276100159,
+    "long": 27.588300705,
+    "name": "Matari "
+  },
+  "FZJI": {
+    "lat": 3.0169401169,
+    "long": 29.5592002869,
+    "name": "Watsa "
+  },
+  "FZJK": {
+    "lat": 3.7330000401,
+    "long": 29.7000007629,
+    "name": "Faradje "
+  },
+  "FZJN": {
+    "lat": -8.1999998093,
+    "long": 24.7329998016,
+    "name": "Luniemu "
+  },
+  "FZJR": {
+    "lat": 2.7330000401,
+    "long": 30.533000946,
+    "name": "Kere Kere "
+  },
+  "FZKA": {
+    "lat": 1.5657199621,
+    "long": 30.2208003998,
+    "name": "Bunia "
+  },
+  "FZKB": {
+    "lat": 3.6500000954,
+    "long": 26.1170005798,
+    "name": "Bambili-Dingila "
+  },
+  "FZKC": {
+    "lat": 2.1670000553,
+    "long": 31.1499996185,
+    "name": "Mahagi "
+  },
+  "FZKF": {
+    "lat": 1.8170000315,
+    "long": 30.2329998016,
+    "name": "Kilomines "
+  },
+  "FZKI": {
+    "lat": 2.0329999924,
+    "long": 24.7999992371,
+    "name": "Yedi "
+  },
+  "FZKJ": {
+    "lat": 2.8183500767,
+    "long": 24.7936992645,
+    "name": "Buta Zega "
+  },
+  "FZKN": {
+    "lat": 2.7000000477,
+    "long": 23.8330001831,
+    "name": "Aketi "
+  },
+  "FZKO": {
+    "lat": 4.0289998055,
+    "long": 25.8619995117,
+    "name": "Ango "
+  },
+  "FZMA": {
+    "lat": -2.3089799881,
+    "long": 28.8087997437,
+    "name": "Bukavu Kavumu "
+  },
+  "FZMB": {
+    "lat": 0.117142,
+    "long": 29.312992,
+    "name": "Rughenda Airfield"
+  },
+  "FZMC": {
+    "lat": -2.9830000401,
+    "long": 27.8500003815,
+    "name": "Mulungu "
+  },
+  "FZMD": {
+    "lat": -2.5829999447,
+    "long": 27.9829998016,
+    "name": "Nzovu "
+  },
+  "FZMK": {
+    "lat": -2.6670000553,
+    "long": 28.7999992371,
+    "name": "Bulongo Kigogo "
+  },
+  "FZMP": {
+    "lat": -4.382999897,
+    "long": 28.3500003815,
+    "name": "Kimano Ii "
+  },
+  "FZMW": {
+    "lat": -2.6830000877,
+    "long": 27.3330001831,
+    "name": "Shabunda "
+  },
+  "FZNA": {
+    "lat": -1.6708099842,
+    "long": 29.2385005951,
+    "name": "Goma International "
+  },
+  "FZNB": {
+    "lat": -1.3047200441,
+    "long": 29.3738994598,
+    "name": "Katale "
+  },
+  "FZNC": {
+    "lat": -1.1670000553,
+    "long": 29.4169998169,
+    "name": "Rutshuru "
+  },
+  "FZNF": {
+    "lat": -0.1330000013,
+    "long": 29.25,
+    "name": "Lubero "
+  },
+  "FZNI": {
+    "lat": -0.75,
+    "long": 29.6329994202,
+    "name": "Ishasha "
+  },
+  "FZNK": {
+    "lat": -0.8000000119,
+    "long": 29.3670005798,
+    "name": "Katanda Rusthuru "
+  },
+  "FZNP": {
+    "lat": 0.5749999881,
+    "long": 29.4738998413,
+    "name": "Beni "
+  },
+  "FZNQ": {
+    "lat": -1.3329999447,
+    "long": 27.7329998016,
+    "name": "Obaye "
+  },
+  "FZNR": {
+    "lat": -0.7902780175,
+    "long": 29.2749996185,
+    "name": "Rwindi "
+  },
+  "FZOA": {
+    "lat": -2.9191799164,
+    "long": 25.9153995514,
+    "name": "Kindu "
+  },
+  "FZOB": {
+    "lat": -0.7624999881,
+    "long": 26.6096992493,
+    "name": "Tingi-Tingi "
+  },
+  "FZOC": {
+    "lat": -2.5499999523,
+    "long": 26.6166667938,
+    "name": "Kamisuku "
+  },
+  "FZOD": {
+    "lat": -2.5780000687,
+    "long": 26.7339992523,
+    "name": "Kinkungwa "
+  },
+  "FZOE": {
+    "lat": -3.5829999447,
+    "long": 26.7000007629,
+    "name": "Kampene "
+  },
+  "FZOF": {
+    "lat": -2.9000000954,
+    "long": 27.2999992371,
+    "name": "Kiapupe "
+  },
+  "FZOG": {
+    "lat": -2.3169999123,
+    "long": 27.5499992371,
+    "name": "Lulingu Tshionka "
+  },
+  "FZOH": {
+    "lat": -2.4670000076,
+    "long": 26.7999992371,
+    "name": "Moga "
+  },
+  "FZOJ": {
+    "lat": -0.8500000238,
+    "long": 26.3330001831,
+    "name": "Obokote "
+  },
+  "FZOK": {
+    "lat": -4.5329999924,
+    "long": 26.6170005798,
+    "name": "Kasongo "
+  },
+  "FZOO": {
+    "lat": -2.632999897,
+    "long": 26.1000003815,
+    "name": "Kailo "
+  },
+  "FZOP": {
+    "lat": -1.3669999838,
+    "long": 26.3330001831,
+    "name": "Punia "
+  },
+  "FZOQ": {
+    "lat": -1.4670000076,
+    "long": 26.4330005646,
+    "name": "Punia-Basenge "
+  },
+  "FZOR": {
+    "lat": -1.5329999924,
+    "long": 26.533000946,
+    "name": "Saulia "
+  },
+  "FZOS": {
+    "lat": -1.6330000162,
+    "long": 27.0499992371,
+    "name": "Kasese "
+  },
+  "FZOT": {
+    "lat": -2.9330000877,
+    "long": 27.533000946,
+    "name": "Phibraki "
+  },
+  "FZPB": {
+    "lat": -3.0329999924,
+    "long": 28.1170005798,
+    "name": "Kamituga "
+  },
+  "FZPC": {
+    "lat": -3.3169999123,
+    "long": 27.8829994202,
+    "name": "Lugushwa "
+  },
+  "FZQA": {
+    "lat": -11.5913000107,
+    "long": 27.5308990479,
+    "name": "Lubumbashi International "
+  },
+  "FZQC": {
+    "lat": -8.4670000076,
+    "long": 28.8829994202,
+    "name": "Pweto "
+  },
+  "FZQD": {
+    "lat": -10.75,
+    "long": 26.6329994202,
+    "name": "Mulungwishi "
+  },
+  "FZQF": {
+    "lat": -10.5333003998,
+    "long": 26.3250007629,
+    "name": "Fungurume "
+  },
+  "FZQG": {
+    "lat": -10.3500003815,
+    "long": 28.6329994202,
+    "name": "Kasenga "
+  },
+  "FZQH": {
+    "lat": -10.5500001907,
+    "long": 27.8500003815,
+    "name": "Katwe "
+  },
+  "FZQI": {
+    "lat": -10.8330001831,
+    "long": 26.75,
+    "name": "Kamatanda "
+  },
+  "FZQJ": {
+    "lat": -10.75,
+    "long": 27.2000007629,
+    "name": "Mwadingusha "
+  },
+  "FZQM": {
+    "lat": -10.7658996582,
+    "long": 25.5056991577,
+    "name": "Kolwezi "
+  },
+  "FZQN": {
+    "lat": -10.5670003891,
+    "long": 24.3999996185,
+    "name": "Mutshatsha "
+  },
+  "FZQP": {
+    "lat": -10.6669998169,
+    "long": 23.1669998169,
+    "name": "Kisenge "
+  },
+  "FZQU": {
+    "lat": -9.9329996109,
+    "long": 26,
+    "name": "Lubudi "
+  },
+  "FZQV": {
+    "lat": -8.6450004578,
+    "long": 27.3449993134,
+    "name": "Mitwaba "
+  },
+  "FZRA": {
+    "lat": -7.2888898849,
+    "long": 27.3943996429,
+    "name": "Manono "
+  },
+  "FZRB": {
+    "lat": -7.0669999123,
+    "long": 29.783000946,
+    "name": "Moba "
+  },
+  "FZRC": {
+    "lat": -7.5329999924,
+    "long": 28.7000007629,
+    "name": "Mukoy "
+  },
+  "FZRD": {
+    "lat": -7.3499999046,
+    "long": 28.033000946,
+    "name": "Kabombo "
+  },
+  "FZRE": {
+    "lat": -7.75,
+    "long": 27.2000007629,
+    "name": "Bukena "
+  },
+  "FZRF": {
+    "lat": -5.8755598068,
+    "long": 29.25,
+    "name": "Kalemie "
+  },
+  "FZRG": {
+    "lat": -7.4169998169,
+    "long": 27.1499996185,
+    "name": "Sominka "
+  },
+  "FZRJ": {
+    "lat": -7.7170000076,
+    "long": 29.7999992371,
+    "name": "Pepa "
+  },
+  "FZRK": {
+    "lat": -7.3169999123,
+    "long": 29.1669998169,
+    "name": "Kansimba "
+  },
+  "FZRL": {
+    "lat": -8.9329996109,
+    "long": 27.1830005646,
+    "name": "Lusinga "
+  },
+  "FZRM": {
+    "lat": -6.0830001831,
+    "long": 26.9169998169,
+    "name": "Kabalo "
+  },
+  "FZRN": {
+    "lat": -5.9330000877,
+    "long": 28,
+    "name": "Nyunzu "
+  },
+  "FZRO": {
+    "lat": -7.9330000877,
+    "long": 28.533000946,
+    "name": "Luvua "
+  },
+  "FZRQ": {
+    "lat": -5.3944401741,
+    "long": 26.9899997711,
+    "name": "Kongolo "
+  },
+  "FZSA": {
+    "lat": -8.6420202255,
+    "long": 25.2528991699,
+    "name": "Kamina Base "
+  },
+  "FZSB": {
+    "lat": -8.7286100388,
+    "long": 24.991399765,
+    "name": "Ville "
+  },
+  "FZSC": {
+    "lat": -8.1000003815,
+    "long": 25.033000946,
+    "name": "Songa "
+  },
+  "FZSD": {
+    "lat": -9.6330003738,
+    "long": 22.8500003815,
+    "name": "Sandoa "
+  },
+  "FZSE": {
+    "lat": -9.3000001907,
+    "long": 24.6669998169,
+    "name": "Kanene "
+  },
+  "FZSI": {
+    "lat": -10.7170000076,
+    "long": 22.3500003815,
+    "name": "Dilolo "
+  },
+  "FZSJ": {
+    "lat": -10.3500003815,
+    "long": 23.4169998169,
+    "name": "Kasaji "
+  },
+  "FZSK": {
+    "lat": -8.3500003815,
+    "long": 22.5830001831,
+    "name": "Kapanga "
+  },
+  "FZTK": {
+    "lat": -7.5830001831,
+    "long": 24.1499996185,
+    "name": "Kaniama "
+  },
+  "FZTL": {
+    "lat": -9.4670000076,
+    "long": 25.75,
+    "name": "Luena "
+  },
+  "FZTS": {
+    "lat": -7.6999998093,
+    "long": 24.0499992371,
+    "name": "Kaniama "
+  },
+  "FZUA": {
+    "lat": -5.9000501633,
+    "long": 22.4692001343,
+    "name": "Kananga "
+  },
+  "FZUE": {
+    "lat": -6.5830001831,
+    "long": 22.5,
+    "name": "Lubondaie "
+  },
+  "FZUF": {
+    "lat": -6.6500000954,
+    "long": 22.3829994202,
+    "name": "Kasonga "
+  },
+  "FZUG": {
+    "lat": -7.1830000877,
+    "long": 22.3999996185,
+    "name": "Luiza "
+  },
+  "FZUH": {
+    "lat": -7.2329998016,
+    "long": 22.6000003815,
+    "name": "Moma "
+  },
+  "FZUI": {
+    "lat": -6.8330001831,
+    "long": 22,
+    "name": "Mboi "
+  },
+  "FZUJ": {
+    "lat": -6.6830000877,
+    "long": 22.533000946,
+    "name": "Muambi "
+  },
+  "FZUK": {
+    "lat": -6.4383301735,
+    "long": 20.7947006226,
+    "name": "Tshikapa "
+  },
+  "FZUL": {
+    "lat": -4.617000103,
+    "long": 21.6000003815,
+    "name": "Bulape "
+  },
+  "FZUM": {
+    "lat": -5.6999998093,
+    "long": 23.716999054,
+    "name": "Mutoto "
+  },
+  "FZUN": {
+    "lat": -5.3499999046,
+    "long": 21.3330001831,
+    "name": "Luebo "
+  },
+  "FZUO": {
+    "lat": -5.5,
+    "long": 21.4330005646,
+    "name": "Musese "
+  },
+  "FZUP": {
+    "lat": -7.0036101341,
+    "long": 21.2441997528,
+    "name": "Diboko "
+  },
+  "FZUR": {
+    "lat": -6.9330000877,
+    "long": 22,
+    "name": "Tshibala "
+  },
+  "FZUS": {
+    "lat": -5.9670000076,
+    "long": 22.4169998169,
+    "name": "Tshikaji "
+  },
+  "FZUT": {
+    "lat": -6.0500001907,
+    "long": 22.6000003815,
+    "name": "Katubwe "
+  },
+  "FZUU": {
+    "lat": -6.2170000076,
+    "long": 22.0830001831,
+    "name": "Lutshatsha "
+  },
+  "FZUV": {
+    "lat": -6.4670000076,
+    "long": 20.7999992371,
+    "name": "Kalonda "
+  },
+  "FZVA": {
+    "lat": -3.4170000553,
+    "long": 23.4500007629,
+    "name": "Lodja "
+  },
+  "FZVC": {
+    "lat": -3.4000000954,
+    "long": 22.533000946,
+    "name": "Kole Sur Lukenie "
+  },
+  "FZVD": {
+    "lat": -3.5999999046,
+    "long": 24.5830001831,
+    "name": "Dingele "
+  },
+  "FZVE": {
+    "lat": -2.2999999523,
+    "long": 23.2670001984,
+    "name": "Lomela "
+  },
+  "FZVF": {
+    "lat": -2.6670000553,
+    "long": 23.1669998169,
+    "name": "Kutusongo "
+  },
+  "FZVG": {
+    "lat": -3.4670000076,
+    "long": 24.4330005646,
+    "name": "Katako'kombe "
+  },
+  "FZVH": {
+    "lat": -4.3499999046,
+    "long": 21.283000946,
+    "name": "Shongamba "
+  },
+  "FZVI": {
+    "lat": -4.9616699219,
+    "long": 23.3782997131,
+    "name": "Lusambo "
+  },
+  "FZVJ": {
+    "lat": -4.0999999046,
+    "long": 24.3670005798,
+    "name": "Tshumbe "
+  },
+  "FZVK": {
+    "lat": -4.3330001831,
+    "long": 22.0830001831,
+    "name": "Lukombe-Batwa "
+  },
+  "FZVL": {
+    "lat": -3.9500000477,
+    "long": 22.5170001984,
+    "name": "Wasolo "
+  },
+  "FZVM": {
+    "lat": -4.8499999046,
+    "long": 21.5499992371,
+    "name": "Mweka "
+  },
+  "FZVN": {
+    "lat": -4.4829998016,
+    "long": 24.4500007629,
+    "name": "Wembo-Nyama "
+  },
+  "FZVO": {
+    "lat": -4.0830001831,
+    "long": 22.8330001831,
+    "name": "Beni-Dibele "
+  },
+  "FZVP": {
+    "lat": -4.0329999924,
+    "long": 24.466999054,
+    "name": "Dikungu "
+  },
+  "FZVR": {
+    "lat": -4.3169999123,
+    "long": 20.4330005646,
+    "name": "Basongo "
+  },
+  "FZVS": {
+    "lat": -4.3330001831,
+    "long": 20.5830001831,
+    "name": "Ilebo "
+  },
+  "FZVT": {
+    "lat": -3.4670000076,
+    "long": 21.4330005646,
+    "name": "Dekese "
+  },
+  "FZVU": {
+    "lat": -3.9170000553,
+    "long": 21.5830001831,
+    "name": "Idumbe "
+  },
+  "FZWA": {
+    "lat": -6.121240139,
+    "long": 23.5690002441,
+    "name": "Mbuji Mayi "
+  },
+  "FZWB": {
+    "lat": -6.25,
+    "long": 23.9829998016,
+    "name": "Bibanga "
+  },
+  "FZWC": {
+    "lat": -6.7329998016,
+    "long": 23.9500007629,
+    "name": "Gandajika "
+  },
+  "FZWE": {
+    "lat": -6.9829998016,
+    "long": 23.0830001831,
+    "name": "Mwene-Ditu "
+  },
+  "FZWF": {
+    "lat": -6.1669998169,
+    "long": 25.1830005646,
+    "name": "Kipushi "
+  },
+  "FZWI": {
+    "lat": -7.2170000076,
+    "long": 23.75,
+    "name": "Kashia "
+  },
+  "FZWL": {
+    "lat": -5.7670001984,
+    "long": 23.0499992371,
+    "name": "Munkamba "
+  },
+  "FZWR": {
+    "lat": -6.0170001984,
+    "long": 25.8829994202,
+    "name": "Kisengwa "
+  },
+  "FZWS": {
+    "lat": -5.3000001907,
+    "long": 25.7329998016,
+    "name": "Lubao "
+  },
+  "FZWT": {
+    "lat": -6.132999897,
+    "long": 24.4829998016,
+    "name": "Tunta "
+  }
+}

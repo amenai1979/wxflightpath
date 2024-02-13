@@ -1,0 +1,32 @@
+{
+  "TFFA": {
+    "lat": 16.2968997955,
+    "long": -61.084400177,
+    "name": "La Desirade "
+  },
+  "TFFB": {
+    "lat": 16.013299942,
+    "long": -61.7421989441,
+    "name": "Baillif "
+  },
+  "TFFC": {
+    "lat": 16.2577991486,
+    "long": -61.2625007629,
+    "name": "St-Francois "
+  },
+  "TFFM": {
+    "lat": 15.8687000275,
+    "long": -61.2700004578,
+    "name": "Les Bases "
+  },
+  "TFFR": {
+    "lat": 16.2653007507,
+    "long": -61.5317993164,
+    "name": "Pointe-a-Pitre Le Raizet"
+  },
+  "TFFS": {
+    "lat": 15.86439991,
+    "long": -61.5806007385,
+    "name": "Terre-de-Haut "
+  }
+}

@@ -1,0 +1,2870 @@
+{
+    "01II": {
+        "lat": 39.8849983215,
+        "long": -86.5066986084,
+        "name": "Myers Field",
+        "state": "Indiana"
+    },
+    "02II": {
+        "lat": 40.0623016357,
+        "long": -86.2105026245,
+        "name": "King Ultralightport",
+        "state": "Indiana"
+    },
+    "02IN": {
+        "lat": 40.2089004517,
+        "long": -85.540802002,
+        "name": "Diamond P. Field",
+        "state": "Indiana"
+    },
+    "03II": {
+        "lat": 37.9620018005,
+        "long": -87.7789001465,
+        "name": "Davis Field Ultralightport",
+        "state": "Indiana"
+    },
+    "03IN": {
+        "lat": 40.1800003052,
+        "long": -86.0124969482,
+        "name": "Heinzman ",
+        "state": "Indiana"
+    },
+    "04II": {
+        "lat": 41.1305999756,
+        "long": -84.994102478,
+        "name": "Turkey Run ",
+        "state": "Indiana"
+    },
+    "05II": {
+        "lat": 41.0287017822,
+        "long": -84.9972000122,
+        "name": "Reichhart ",
+        "state": "Indiana"
+    },
+    "05IN": {
+        "lat": 39.641998291,
+        "long": -86.5042037964,
+        "name": "Cooper ",
+        "state": "Indiana"
+    },
+    "06IN": {
+        "lat": 39.2827987671,
+        "long": -87.3035964966,
+        "name": "Ellis Fly-In ",
+        "state": "Indiana"
+    },
+    "07IN": {
+        "lat": 39.5736999512,
+        "long": -85.9139022827,
+        "name": "Gray ",
+        "state": "Indiana"
+    },
+    "09II": {
+        "lat": 38.4472999573,
+        "long": -86.4449996948,
+        "name": "Gibbons Field",
+        "state": "Indiana"
+    },
+    "09IN": {
+        "lat": 41.1208992004,
+        "long": -85.4250030518,
+        "name": "Gordon ",
+        "state": "Indiana"
+    },
+    "0II0": {
+        "lat": 40.2599983215,
+        "long": -85.2533035278,
+        "name": "Chuck's ",
+        "state": "Indiana"
+    },
+    "0II1": {
+        "lat": 40.4281005859,
+        "long": -86.1532974243,
+        "name": "Unsicker ",
+        "state": "Indiana"
+    },
+    "0II2": {
+        "lat": 41.4572982788,
+        "long": -86.1243972778,
+        "name": "Creighton ",
+        "state": "Indiana"
+    },
+    "0II3": {
+        "lat": 40.6277999878,
+        "long": -86.0378036499,
+        "name": "Miller Strip",
+        "state": "Indiana"
+    },
+    "0II5": {
+        "lat": 40.6595001221,
+        "long": -86.8572006226,
+        "name": "Marshall Field",
+        "state": "Indiana"
+    },
+    "0II6": {
+        "lat": 41.6431007385,
+        "long": -85.8296966553,
+        "name": "Kropf ",
+        "state": "Indiana"
+    },
+    "0II7": {
+        "lat": 39.7956008911,
+        "long": -85.7861022949,
+        "name": "Frost Field",
+        "state": "Indiana"
+    },
+    "0II8": {
+        "lat": 41.324798584,
+        "long": -87.4758987427,
+        "name": "Sutton's Field",
+        "state": "Indiana"
+    },
+    "0II9": {
+        "lat": 39.534198761,
+        "long": -86.5772018433,
+        "name": "Winters ",
+        "state": "Indiana"
+    },
+    "0IN1": {
+        "lat": 38.5,
+        "long": -87.5959014893,
+        "name": "Snider Field",
+        "state": "Indiana"
+    },
+    "0IN2": {
+        "lat": 40.8278007507,
+        "long": -85.0860977173,
+        "name": "The Lazy K ",
+        "state": "Indiana"
+    },
+    "0IN3": {
+        "lat": 41.1166992188,
+        "long": -86.6667022705,
+        "name": "Graves Landing Strip",
+        "state": "Indiana"
+    },
+    "0IN4": {
+        "lat": 41.1277999878,
+        "long": -84.9471969604,
+        "name": "Air Park Field",
+        "state": "Indiana"
+    },
+    "0IN5": {
+        "lat": 38.3289985657,
+        "long": -86.0335998535,
+        "name": "Byrne Field",
+        "state": "Indiana"
+    },
+    "0IN9": {
+        "lat": 37.9930992126,
+        "long": -87.9514007568,
+        "name": "Parrish ",
+        "state": "Indiana"
+    },
+    "10IN": {
+        "lat": 39.7183990479,
+        "long": -85.0488967896,
+        "name": "Squires ",
+        "state": "Indiana"
+    },
+    "11II": {
+        "lat": 39.3417015076,
+        "long": -86.0305023193,
+        "name": "Atterbury Field (Camp Atterbury)",
+        "state": "Indiana"
+    },
+    "11IN": {
+        "lat": 39.818901062,
+        "long": -86.5381011963,
+        "name": "Jr's ",
+        "state": "Indiana"
+    },
+    "12II": {
+        "lat": 39.8562011719,
+        "long": -84.9721984863,
+        "name": "Pentecost ",
+        "state": "Indiana"
+    },
+    "12IN": {
+        "lat": 38.118598938,
+        "long": -87.6474990845,
+        "name": "J & S Field",
+        "state": "Indiana"
+    },
+    "13IN": {
+        "lat": 40.8152999878,
+        "long": -84.927696228,
+        "name": "Gage ",
+        "state": "Indiana"
+    },
+    "14IN": {
+        "lat": 41.2070007324,
+        "long": -87.2125015259,
+        "name": "De Motte ",
+        "state": "Indiana"
+    },
+    "15IN": {
+        "lat": 38.1506004333,
+        "long": -87.8403015137,
+        "name": "Bugtown ",
+        "state": "Indiana"
+    },
+    "16II": {
+        "lat": 41.1831016541,
+        "long": -86.9336013794,
+        "name": "Harrington Field",
+        "state": "Indiana"
+    },
+    "17II": {
+        "lat": 41.4500007629,
+        "long": -86.5102996826,
+        "name": "Dreessen Field",
+        "state": "Indiana"
+    },
+    "17IN": {
+        "lat": 38.9784011841,
+        "long": -85.109703064,
+        "name": "Pruss ",
+        "state": "Indiana"
+    },
+    "18II": {
+        "lat": 40.1199989319,
+        "long": -86.0682983398,
+        "name": "Mc Gill ",
+        "state": "Indiana"
+    },
+    "18IN": {
+        "lat": 39.2784004211,
+        "long": -87.4135971069,
+        "name": "Kester Fly Inn ",
+        "state": "Indiana"
+    },
+    "19IN": {
+        "lat": 40.1944999695,
+        "long": -86.5231018066,
+        "name": "Clark ",
+        "state": "Indiana"
+    },
+    "1II0": {
+        "lat": 39.5766983032,
+        "long": -85.5877990723,
+        "name": "Webster ",
+        "state": "Indiana"
+    },
+    "1II2": {
+        "lat": 40.6157989502,
+        "long": -84.8348007202,
+        "name": "Adams ",
+        "state": "Indiana"
+    },
+    "1II3": {
+        "lat": 38.9570007324,
+        "long": -87.394203186,
+        "name": "Davis ",
+        "state": "Indiana"
+    },
+    "1II4": {
+        "lat": 38.1250991821,
+        "long": -86.1622009277,
+        "name": "Amy ",
+        "state": "Indiana"
+    },
+    "1II5": {
+        "lat": 41.2472991943,
+        "long": -86.5030975342,
+        "name": "Van De Mark ",
+        "state": "Indiana"
+    },
+    "1II8": {
+        "lat": 39.814201355,
+        "long": -85.818901062,
+        "name": "Morris ",
+        "state": "Indiana"
+    },
+    "1IN0": {
+        "lat": 40.1333999634,
+        "long": -85.2304992676,
+        "name": "Belknap-Icarus Acres ",
+        "state": "Indiana"
+    },
+    "1IN1": {
+        "lat": 39.4883995056,
+        "long": -86.6530990601,
+        "name": "Shearer STOLport",
+        "state": "Indiana"
+    },
+    "1IN3": {
+        "lat": 41.0978012085,
+        "long": -85.2425003052,
+        "name": "Confer's Place ",
+        "state": "Indiana"
+    },
+    "1IN4": {
+        "lat": 38.1431007385,
+        "long": -85.9878005981,
+        "name": "Robinson Airpark",
+        "state": "Indiana"
+    },
+    "1IN5": {
+        "lat": 38.2848014832,
+        "long": -87.3820037842,
+        "name": "Bottoms Brothers ",
+        "state": "Indiana"
+    },
+    "1IN6": {
+        "lat": 40.4016990662,
+        "long": -87.2202987671,
+        "name": "Cottingham ",
+        "state": "Indiana"
+    },
+    "20II": {
+        "lat": 39.5872001648,
+        "long": -86.2755966187,
+        "name": "Kay Air ",
+        "state": "Indiana"
+    },
+    "20IN": {
+        "lat": 39.5139007568,
+        "long": -86.051399231,
+        "name": "Canary's ",
+        "state": "Indiana"
+    },
+    "21IN": {
+        "lat": 40.4183998108,
+        "long": -85.3554992676,
+        "name": "Minneman ",
+        "state": "Indiana"
+    },
+    "22II": {
+        "lat": 37.9169998169,
+        "long": -87.761100769,
+        "name": "Lewis ",
+        "state": "Indiana"
+    },
+    "22IN": {
+        "lat": 41.3483009338,
+        "long": -85.0074996948,
+        "name": "Mooney Field",
+        "state": "Indiana"
+    },
+    "24IN": {
+        "lat": 39.2625007629,
+        "long": -86.2874984741,
+        "name": "Kenstin Manor ",
+        "state": "Indiana"
+    },
+    "25IN": {
+        "lat": 41.7028007507,
+        "long": -85.4194030762,
+        "name": "Reid-Eash ",
+        "state": "Indiana"
+    },
+    "26IN": {
+        "lat": 39.8233985901,
+        "long": -85.5919036865,
+        "name": "Willcox ",
+        "state": "Indiana"
+    },
+    "28II": {
+        "lat": 37.9747009277,
+        "long": -86.0561981201,
+        "name": "Cedar Farm ",
+        "state": "Indiana"
+    },
+    "28IN": {
+        "lat": 38.6377983093,
+        "long": -87.4347000122,
+        "name": "Marchino Field",
+        "state": "Indiana"
+    },
+    "29II": {
+        "lat": 41.6598014832,
+        "long": -86.8075027466,
+        "name": "Norm's ",
+        "state": "Indiana"
+    },
+    "29IN": {
+        "lat": 41.0759010315,
+        "long": -85.386100769,
+        "name": "Homestead ",
+        "state": "Indiana"
+    },
+    "2IG4": {
+        "lat": 38.851398468,
+        "long": -87.4997024536,
+        "name": "Ed-Air ",
+        "state": "Indiana"
+    },
+    "2II0": {
+        "lat": 40.4174003601,
+        "long": -86.1524963379,
+        "name": "Indian Hills Flying Field",
+        "state": "Indiana"
+    },
+    "2II1": {
+        "lat": 41.6097984314,
+        "long": -85.5254974365,
+        "name": "Yoder ",
+        "state": "Indiana"
+    },
+    "2II2": {
+        "lat": 37.9874992371,
+        "long": -87.9384002686,
+        "name": "Indian Creek ",
+        "state": "Indiana"
+    },
+    "2II3": {
+        "lat": 40.2266998291,
+        "long": -85.8163986206,
+        "name": "Stottlemyer ",
+        "state": "Indiana"
+    },
+    "2II6": {
+        "lat": 40.2648010254,
+        "long": -86.1027984619,
+        "name": "Baird-Wolford ",
+        "state": "Indiana"
+    },
+    "2IN0": {
+        "lat": 40.8368988037,
+        "long": -85.1710968018,
+        "name": "Skip's Place ",
+        "state": "Indiana"
+    },
+    "2IN2": {
+        "lat": 41.0092010498,
+        "long": -85.3713989258,
+        "name": "Gerig's Field",
+        "state": "Indiana"
+    },
+    "2IN3": {
+        "lat": 41.0848007202,
+        "long": -86.9242019653,
+        "name": "Tatertown ",
+        "state": "Indiana"
+    },
+    "2IN4": {
+        "lat": 41.2566986084,
+        "long": -86.1896972656,
+        "name": "Scott Field",
+        "state": "Indiana"
+    },
+    "2IN5": {
+        "lat": 40.0152015686,
+        "long": -85.4729003906,
+        "name": "Midkiff ",
+        "state": "Indiana"
+    },
+    "2IN6": {
+        "lat": 40.0419006348,
+        "long": -85.9169006348,
+        "name": "Galloway ",
+        "state": "Indiana"
+    },
+    "2IN9": {
+        "lat": 39.5666999817,
+        "long": -86.1181030273,
+        "name": "Berry Field",
+        "state": "Indiana"
+    },
+    "30IN": {
+        "lat": 41.2092018127,
+        "long": -85.4580001831,
+        "name": "Wigent ",
+        "state": "Indiana"
+    },
+    "31II": {
+        "lat": 38.9258995056,
+        "long": -84.9119033813,
+        "name": "Rising Sun ",
+        "state": "Indiana"
+    },
+    "31IN": {
+        "lat": 40.2849998474,
+        "long": -86.8563995361,
+        "name": "Timber House ",
+        "state": "Indiana"
+    },
+    "32II": {
+        "lat": 38.8163986206,
+        "long": -85.106300354,
+        "name": "Roberts ",
+        "state": "Indiana"
+    },
+    "34II": {
+        "lat": 40.0505981445,
+        "long": -85.6027984619,
+        "name": "Burk Personal Use ",
+        "state": "Indiana"
+    },
+    "34IN": {
+        "lat": 40.3403015137,
+        "long": -85.0179977417,
+        "name": "Windy P Ridge ",
+        "state": "Indiana"
+    },
+    "35II": {
+        "lat": 41.542301178,
+        "long": -85.8419036865,
+        "name": "Brown ",
+        "state": "Indiana"
+    },
+    "35IN": {
+        "lat": 40.2944984436,
+        "long": -85.9424972534,
+        "name": "Ellison ",
+        "state": "Indiana"
+    },
+    "36II": {
+        "lat": 39.8412017822,
+        "long": -86.3486022949,
+        "name": "Newby Landing ",
+        "state": "Indiana"
+    },
+    "36IN": {
+        "lat": 41.5362014771,
+        "long": -86.443901062,
+        "name": "Peterson Ultralightport",
+        "state": "Indiana"
+    },
+    "37II": {
+        "lat": 41.1755981445,
+        "long": -86.3735961914,
+        "name": "Winn Field",
+        "state": "Indiana"
+    },
+    "37IN": {
+        "lat": 40.2916984558,
+        "long": -86.7802963257,
+        "name": "Felix ",
+        "state": "Indiana"
+    },
+    "38II": {
+        "lat": 39.728611,
+        "long": -86.823056,
+        "name": "Hampton Field",
+        "state": "Indiana"
+    },
+    "38IN": {
+        "lat": 39.9020004272,
+        "long": -86.3630981445,
+        "name": "Fuller Field",
+        "state": "Indiana"
+    },
+    "39II": {
+        "lat": 41.5148010254,
+        "long": -85.5522003174,
+        "name": "Miller Field",
+        "state": "Indiana"
+    },
+    "39IN": {
+        "lat": 40.0023002625,
+        "long": -85.4289016724,
+        "name": "Roberts Field",
+        "state": "Indiana"
+    },
+    "3IG3": {
+        "lat": 41.1702003479,
+        "long": -85.4216003418,
+        "name": "Terry's ",
+        "state": "Indiana"
+    },
+    "3II0": {
+        "lat": 41.6910848513,
+        "long": -84.864256382,
+        "name": "Fremont (Murphy) ",
+        "state": "Indiana"
+    },
+    "3II1": {
+        "lat": 39.4166984558,
+        "long": -86.6358032227,
+        "name": "Shenandoah Flying Field",
+        "state": "Indiana"
+    },
+    "3II2": {
+        "lat": 38.2127990723,
+        "long": -87.9195022583,
+        "name": "Fifer Field",
+        "state": "Indiana"
+    },
+    "3II3": {
+        "lat": 41.0870018005,
+        "long": -84.8411026001,
+        "name": "Basting ",
+        "state": "Indiana"
+    },
+    "3II5": {
+        "lat": 41.0839004517,
+        "long": -86.7733001709,
+        "name": "Stout Field",
+        "state": "Indiana"
+    },
+    "3II8": {
+        "lat": 41.4422988892,
+        "long": -86.261100769,
+        "name": "Birkey Private ",
+        "state": "Indiana"
+    },
+    "3II9": {
+        "lat": 41.0973014832,
+        "long": -85.2422027588,
+        "name": "Dick's Strip",
+        "state": "Indiana"
+    },
+    "3IN2": {
+        "lat": 40.4192008972,
+        "long": -85.8561019897,
+        "name": "Dupouy ",
+        "state": "Indiana"
+    },
+    "3IN3": {
+        "lat": 41.5231018066,
+        "long": -87.1639022827,
+        "name": "Carlson Farm ",
+        "state": "Indiana"
+    },
+    "3IN4": {
+        "lat": 40.7750015259,
+        "long": -85.3388977051,
+        "name": "Johnson ",
+        "state": "Indiana"
+    },
+    "3IN5": {
+        "lat": 41.3168983459,
+        "long": -85.3713989258,
+        "name": "Pippenger ",
+        "state": "Indiana"
+    },
+    "3IN6": {
+        "lat": 38.588333,
+        "long": -85.505833,
+        "name": "Holloway Field",
+        "state": "Indiana"
+    },
+    "3IN7": {
+        "lat": 41.6624984741,
+        "long": -86.3542022705,
+        "name": "Chain-O-Lakes ",
+        "state": "Indiana"
+    },
+    "3IN8": {
+        "lat": 41.20470047,
+        "long": -86.3458023071,
+        "name": "Ddt Field",
+        "state": "Indiana"
+    },
+    "3IN9": {
+        "lat": 40.1514015198,
+        "long": -86.1192016602,
+        "name": "Thomas ",
+        "state": "Indiana"
+    },
+    "40II": {
+        "lat": 41.351398468,
+        "long": -84.8169021606,
+        "name": "Keener Field",
+        "state": "Indiana"
+    },
+    "40IN": {
+        "lat": 39.0741996765,
+        "long": -86.1541976929,
+        "name": "Cherry Hill ",
+        "state": "Indiana"
+    },
+    "42II": {
+        "lat": 41.6845016479,
+        "long": -86.7677993774,
+        "name": "Norm's Airpark",
+        "state": "Indiana"
+    },
+    "43IN": {
+        "lat": 38.1375007629,
+        "long": -87.676399231,
+        "name": "Hepler ",
+        "state": "Indiana"
+    },
+    "44II": {
+        "lat": 40.9530982971,
+        "long": -85.3865966797,
+        "name": "The Wolf Den ",
+        "state": "Indiana"
+    },
+    "44IN": {
+        "lat": 40.4998016357,
+        "long": -86.9550018311,
+        "name": "Rush STOLport",
+        "state": "Indiana"
+    },
+    "45II": {
+        "lat": 41.6337013245,
+        "long": -86.585899353,
+        "name": "Cummings Field",
+        "state": "Indiana"
+    },
+    "45IN": {
+        "lat": 38.9963989258,
+        "long": -85.7480010986,
+        "name": "Aerobatic Practice ",
+        "state": "Indiana"
+    },
+    "46IN": {
+        "lat": 41.3811988831,
+        "long": -86.2228012085,
+        "name": "Ames Field",
+        "state": "Indiana"
+    },
+    "47II": {
+        "lat": 41.0561981201,
+        "long": -85.6904983521,
+        "name": "Westrick ",
+        "state": "Indiana"
+    },
+    "47IN": {
+        "lat": 38.9883995056,
+        "long": -87.5180969238,
+        "name": "Mann ",
+        "state": "Indiana"
+    },
+    "48II": {
+        "lat": 41.1903991699,
+        "long": -85.0242004395,
+        "name": "Cedar Creek ",
+        "state": "Indiana"
+    },
+    "49II": {
+        "lat": 39.6097984314,
+        "long": -87.015296936,
+        "name": "Reinoehl Field",
+        "state": "Indiana"
+    },
+    "49IN": {
+        "lat": 39.1316986084,
+        "long": -87.3820037842,
+        "name": "Drake ",
+        "state": "Indiana"
+    },
+    "4II0": {
+        "lat": 40.609500885,
+        "long": -86.7382965088,
+        "name": "De Ford ",
+        "state": "Indiana"
+    },
+    "4II2": {
+        "lat": 39.8534011841,
+        "long": -85.9541015625,
+        "name": "Hangar Fly Ultralight Fly Club Ultralightport",
+        "state": "Indiana"
+    },
+    "4II3": {
+        "lat": 39.7364006042,
+        "long": -86.7296981812,
+        "name": "Oleo ",
+        "state": "Indiana"
+    },
+    "4II4": {
+        "lat": 41.2555999756,
+        "long": -86.7881011963,
+        "name": "Chesak ",
+        "state": "Indiana"
+    },
+    "4II6": {
+        "lat": 38.3791999817,
+        "long": -86.0815963745,
+        "name": "Gettlefinger Field",
+        "state": "Indiana"
+    },
+    "4II7": {
+        "lat": 40.1058998108,
+        "long": -86.5218963623,
+        "name": "Sport Aircraft Flight Park Ultralightport",
+        "state": "Indiana"
+    },
+    "4II8": {
+        "lat": 39.7223014832,
+        "long": -85.7165985107,
+        "name": "Willis ",
+        "state": "Indiana"
+    },
+    "4II9": {
+        "lat": 40.6091995239,
+        "long": -86.8807983398,
+        "name": "Shultz /Private/ ",
+        "state": "Indiana"
+    },
+    "4IN4": {
+        "lat": 39.9752998352,
+        "long": -87.1802978516,
+        "name": "Wilson ",
+        "state": "Indiana"
+    },
+    "4IN5": {
+        "lat": 41.3442001343,
+        "long": -86.1483001709,
+        "name": "Ball Field",
+        "state": "Indiana"
+    },
+    "4IN7": {
+        "lat": 40.3008995056,
+        "long": -87.2292022705,
+        "name": "Riley Field",
+        "state": "Indiana"
+    },
+    "4IN8": {
+        "lat": 40.8675003052,
+        "long": -87.0682983398,
+        "name": "Culp Farms ",
+        "state": "Indiana"
+    },
+    "4IN9": {
+        "lat": 41.4188995361,
+        "long": -85.6917037964,
+        "name": "Wawasee ",
+        "state": "Indiana"
+    },
+    "50II": {
+        "lat": 39.7737007141,
+        "long": -86.756401062,
+        "name": "Way West ",
+        "state": "Indiana"
+    },
+    "50IN": {
+        "lat": 40.058086,
+        "long": -86.795421,
+        "name": "Ropkey Field",
+        "state": "Indiana"
+    },
+    "51IN": {
+        "lat": 40.4928016663,
+        "long": -86.9056015015,
+        "name": "Dahnke ",
+        "state": "Indiana"
+    },
+    "52IN": {
+        "lat": 39.3414001465,
+        "long": -87.5314025879,
+        "name": "Higginbotham Field",
+        "state": "Indiana"
+    },
+    "53II": {
+        "lat": 41.0731010437,
+        "long": -84.8407974243,
+        "name": "Steinman ",
+        "state": "Indiana"
+    },
+    "53IN": {
+        "lat": 40.5214004517,
+        "long": -86.2149963379,
+        "name": "Hartman Farms Field",
+        "state": "Indiana"
+    },
+    "54II": {
+        "lat": 40.6245002747,
+        "long": -86.1552963257,
+        "name": "Caldwell Field",
+        "state": "Indiana"
+    },
+    "55IN": {
+        "lat": 41.1446990967,
+        "long": -84.862197876,
+        "name": "Brenneke ",
+        "state": "Indiana"
+    },
+    "56IN": {
+        "lat": 41.0792007446,
+        "long": -84.9427032471,
+        "name": "Casad Industrial Park ",
+        "state": "Indiana"
+    },
+    "57II": {
+        "lat": 39.9641990662,
+        "long": -86.5674972534,
+        "name": "Reimer Aerodrome",
+        "state": "Indiana"
+    },
+    "58II": {
+        "lat": 39.5209007263,
+        "long": -85.9000015259,
+        "name": "Henneman ",
+        "state": "Indiana"
+    },
+    "58IN": {
+        "lat": 41.2583999634,
+        "long": -84.863899231,
+        "name": "Hilltop ",
+        "state": "Indiana"
+    },
+    "59II": {
+        "lat": 37.9039001465,
+        "long": -87.7902984619,
+        "name": "Posey Patch Ultralightport",
+        "state": "Indiana"
+    },
+    "59IN": {
+        "lat": 41.4737014771,
+        "long": -86.4507980347,
+        "name": "Stuntz & Hochstetler Pines ",
+        "state": "Indiana"
+    },
+    "5II1": {
+        "lat": 39.7827987671,
+        "long": -86.6175003052,
+        "name": "Layne Field",
+        "state": "Indiana"
+    },
+    "5II2": {
+        "lat": 39.5597991943,
+        "long": -86.1350021362,
+        "name": "Miles Field",
+        "state": "Indiana"
+    },
+    "5II5": {
+        "lat": 38.1180144538,
+        "long": -87.7020978928,
+        "name": "Koester Field",
+        "state": "Indiana"
+    },
+    "5II8": {
+        "lat": 38.4100990295,
+        "long": -86.1288986206,
+        "name": "Jacobi ",
+        "state": "Indiana"
+    },
+    "5II9": {
+        "lat": 39.3527984619,
+        "long": -87.3733978271,
+        "name": "Aero Plaines ",
+        "state": "Indiana"
+    },
+    "5IN3": {
+        "lat": 40.3003005981,
+        "long": -86.0503005981,
+        "name": "Tragesser ",
+        "state": "Indiana"
+    },
+    "5IN4": {
+        "lat": 41.4833984375,
+        "long": -86.9499969482,
+        "name": "Wyckoff Airstrip",
+        "state": "Indiana"
+    },
+    "5IN5": {
+        "lat": 41.2877998352,
+        "long": -85.9005966187,
+        "name": "Berkey Field",
+        "state": "Indiana"
+    },
+    "5IN6": {
+        "lat": 41.5875015259,
+        "long": -86.9028015137,
+        "name": "Orthodontic Strip",
+        "state": "Indiana"
+    },
+    "5IN9": {
+        "lat": 41.3162002563,
+        "long": -85.4649963379,
+        "name": "Stangland ",
+        "state": "Indiana"
+    },
+    "60IN": {
+        "lat": 40.9458999634,
+        "long": -85.3700027466,
+        "name": "Fisher Farm ",
+        "state": "Indiana"
+    },
+    "61II": {
+        "lat": 41.3624992371,
+        "long": -85.4777984619,
+        "name": "Kay Field",
+        "state": "Indiana"
+    },
+    "61IN": {
+        "lat": 38.7136993408,
+        "long": -85.6035995483,
+        "name": "Wilkerson's ",
+        "state": "Indiana"
+    },
+    "62IN": {
+        "lat": 40.4309005737,
+        "long": -85.978302002,
+        "name": "Fowler Field /Private/ ",
+        "state": "Indiana"
+    },
+    "63II": {
+        "lat": 39.5051002502,
+        "long": -86.0302963257,
+        "name": "Woods Field",
+        "state": "Indiana"
+    },
+    "63IN": {
+        "lat": 39.8995018005,
+        "long": -86.271697998,
+        "name": "Ropkey Field",
+        "state": "Indiana"
+    },
+    "64IN": {
+        "lat": 40.4347991943,
+        "long": -85.62550354,
+        "name": "Peacock Farms ",
+        "state": "Indiana"
+    },
+    "66II": {
+        "lat": 40.0421981812,
+        "long": -85.8653030396,
+        "name": "Pat Robinson ",
+        "state": "Indiana"
+    },
+    "66IN": {
+        "lat": 39.7874984741,
+        "long": -85.6369018555,
+        "name": "Oakes Field",
+        "state": "Indiana"
+    },
+    "67II": {
+        "lat": 39.3713989258,
+        "long": -85.5922012329,
+        "name": "Schoettmer Farm ",
+        "state": "Indiana"
+    },
+    "67IN": {
+        "lat": 41.2364006042,
+        "long": -86.5942001343,
+        "name": "Smitty's Soaring ",
+        "state": "Indiana"
+    },
+    "68IN": {
+        "lat": 41.1213989258,
+        "long": -86.9974975586,
+        "name": "Alley Oop ",
+        "state": "Indiana"
+    },
+    "69II": {
+        "lat": 41.3694000244,
+        "long": -84.8788986206,
+        "name": "Greuter Field",
+        "state": "Indiana"
+    },
+    "6II0": {
+        "lat": 40.6453018188,
+        "long": -86.2928009033,
+        "name": "Turnpaugh Field",
+        "state": "Indiana"
+    },
+    "6II2": {
+        "lat": 39.7333984375,
+        "long": -85.7232971191,
+        "name": "Willis  Site No. 2 ",
+        "state": "Indiana"
+    },
+    "6II4": {
+        "lat": 37.9822006226,
+        "long": -87.2988967896,
+        "name": "Cornell ",
+        "state": "Indiana"
+    },
+    "6II6": {
+        "lat": 41.5606002808,
+        "long": -85.2739028931,
+        "name": "David Beiswanger Ultralightport",
+        "state": "Indiana"
+    },
+    "6II7": {
+        "lat": 39.8861999512,
+        "long": -86.5813980103,
+        "name": "Bergs ",
+        "state": "Indiana"
+    },
+    "6II8": {
+        "lat": 38.654499054,
+        "long": -87.2827987671,
+        "name": "Godahavit ",
+        "state": "Indiana"
+    },
+    "6IN2": {
+        "lat": 39.493598938,
+        "long": -85.6485977173,
+        "name": "Whelen ",
+        "state": "Indiana"
+    },
+    "6IN3": {
+        "lat": 40.3492012024,
+        "long": -86.7639007568,
+        "name": "Wyandotte ",
+        "state": "Indiana"
+    },
+    "6IN4": {
+        "lat": 39.465801239,
+        "long": -85.698600769,
+        "name": "Fischer Field",
+        "state": "Indiana"
+    },
+    "6IN5": {
+        "lat": 40.0327987671,
+        "long": -85.7835998535,
+        "name": "Foghorn Farms ",
+        "state": "Indiana"
+    },
+    "6IN6": {
+        "lat": 39.5489006042,
+        "long": -86.4766998291,
+        "name": "Mershon ",
+        "state": "Indiana"
+    },
+    "6IN8": {
+        "lat": 39.5285987854,
+        "long": -85.3167037964,
+        "name": "Mcminn ",
+        "state": "Indiana"
+    },
+    "70II": {
+        "lat": 39.5217018127,
+        "long": -85.6864013672,
+        "name": "Nasby ",
+        "state": "Indiana"
+    },
+    "70IN": {
+        "lat": 39.1817016602,
+        "long": -85.1512985229,
+        "name": "Lewis Airfield",
+        "state": "Indiana"
+    },
+    "71IN": {
+        "lat": 38.6659011841,
+        "long": -86.0057983398,
+        "name": "Morgan Airfield",
+        "state": "Indiana"
+    },
+    "72IN": {
+        "lat": 40.9119987488,
+        "long": -86.8739013672,
+        "name": "Gutwein ",
+        "state": "Indiana"
+    },
+    "73II": {
+        "lat": 39.5717010498,
+        "long": -85.1585998535,
+        "name": "Nulltown Wingnuts Ultralightport",
+        "state": "Indiana"
+    },
+    "73IN": {
+        "lat": 38.9766998291,
+        "long": -87.0224990845,
+        "name": "Benham ",
+        "state": "Indiana"
+    },
+    "74IN": {
+        "lat": 40.5684013367,
+        "long": -85.3443984985,
+        "name": "Tucker Farms ",
+        "state": "Indiana"
+    },
+    "75II": {
+        "lat": 38.4467010498,
+        "long": -86.2608032227,
+        "name": "Lowells Landing ",
+        "state": "Indiana"
+    },
+    "76II": {
+        "lat": 41.2764015198,
+        "long": -85.2711029053,
+        "name": "Ries ",
+        "state": "Indiana"
+    },
+    "76IN": {
+        "lat": 40.5391998291,
+        "long": -87.4694976807,
+        "name": "Krebs ",
+        "state": "Indiana"
+    },
+    "78II": {
+        "lat": 40.6361999512,
+        "long": -85.68800354,
+        "name": "Fox Station ",
+        "state": "Indiana"
+    },
+    "79II": {
+        "lat": 39.8833999634,
+        "long": -85.7024993896,
+        "name": "Sauer-Harter ",
+        "state": "Indiana"
+    },
+    "7II0": {
+        "lat": 39.5620002747,
+        "long": -86.1125030518,
+        "name": "Porter Field",
+        "state": "Indiana"
+    },
+    "7II3": {
+        "lat": 38.0033988953,
+        "long": -87.756401062,
+        "name": "Schroeder Private ",
+        "state": "Indiana"
+    },
+    "7II7": {
+        "lat": 41.2972984314,
+        "long": -85.4832992554,
+        "name": "Rex's Ultralightport",
+        "state": "Indiana"
+    },
+    "7II9": {
+        "lat": 39.5828018188,
+        "long": -86.1797027588,
+        "name": "Thorn Field",
+        "state": "Indiana"
+    },
+    "7IN2": {
+        "lat": 41.5013999939,
+        "long": -84.8783035278,
+        "name": "Flying Crown ",
+        "state": "Indiana"
+    },
+    "7IN3": {
+        "lat": 38.243598938,
+        "long": -87.7900009155,
+        "name": "Garrett Field",
+        "state": "Indiana"
+    },
+    "7IN6": {
+        "lat": 38.5819015503,
+        "long": -86.2536010742,
+        "name": "Myers Farm ",
+        "state": "Indiana"
+    },
+    "7IN7": {
+        "lat": 40.2358016968,
+        "long": -87.3507995605,
+        "name": "Gary Johnson Field",
+        "state": "Indiana"
+    },
+    "7IN9": {
+        "lat": 40.0374984741,
+        "long": -85.4105987549,
+        "name": "The Last Resort ",
+        "state": "Indiana"
+    },
+    "80IN": {
+        "lat": 41.2042007446,
+        "long": -84.8051986694,
+        "name": "Gustin's /Private/ ",
+        "state": "Indiana"
+    },
+    "82IN": {
+        "lat": 40.9812011719,
+        "long": -85.9291992188,
+        "name": "Hunter ",
+        "state": "Indiana"
+    },
+    "83IN": {
+        "lat": 40.7397994995,
+        "long": -86.00050354,
+        "name": "Goodenough ",
+        "state": "Indiana"
+    },
+    "85IN": {
+        "lat": 40.4338989258,
+        "long": -87.5049972534,
+        "name": "Leak ",
+        "state": "Indiana"
+    },
+    "87IN": {
+        "lat": 41.452999115,
+        "long": -86.4697036743,
+        "name": "May's Strip",
+        "state": "Indiana"
+    },
+    "88IN": {
+        "lat": 39.5797996521,
+        "long": -85.9321975708,
+        "name": "Gardner ",
+        "state": "Indiana"
+    },
+    "89IN": {
+        "lat": 39.5069999695,
+        "long": -86.3897018433,
+        "name": "Milhon ",
+        "state": "Indiana"
+    },
+    "8II0": {
+        "lat": 38.8569984436,
+        "long": -85.1013031006,
+        "name": "Allen and Gloss ",
+        "state": "Indiana"
+    },
+    "8II1": {
+        "lat": 39.1831016541,
+        "long": -87.1260986328,
+        "name": "Careferre Acres ",
+        "state": "Indiana"
+    },
+    "8II2": {
+        "lat": 39.6530990601,
+        "long": -84.8660964966,
+        "name": "Norris Field",
+        "state": "Indiana"
+    },
+    "8II3": {
+        "lat": 38.2125015259,
+        "long": -87.579498291,
+        "name": "Thrust Industries ",
+        "state": "Indiana"
+    },
+    "8II5": {
+        "lat": 40.8995018005,
+        "long": -85,
+        "name": "Holt Field",
+        "state": "Indiana"
+    },
+    "8IN2": {
+        "lat": 39.623298645,
+        "long": -86.0314025879,
+        "name": "Robinson Field",
+        "state": "Indiana"
+    },
+    "8IN7": {
+        "lat": 39.04529953,
+        "long": -85.515296936,
+        "name": "Brush Creek ",
+        "state": "Indiana"
+    },
+    "8IN9": {
+        "lat": 39.68560028,
+        "long": -86.60220337,
+        "name": "Marcidale ",
+        "state": "Indiana"
+    },
+    "8IS2": {
+        "lat": 40.9977989197,
+        "long": -85.3889007568,
+        "name": "Kilsoquah Farm ",
+        "state": "Indiana"
+    },
+    "90IN": {
+        "lat": 39.4089012146,
+        "long": -86.4441986084,
+        "name": "Mc Daniel's Field",
+        "state": "Indiana"
+    },
+    "91IN": {
+        "lat": 39.2080993652,
+        "long": -85.9747009277,
+        "name": "Strietelmeier Flying Field",
+        "state": "Indiana"
+    },
+    "92IN": {
+        "lat": 41.4234008789,
+        "long": -85.8475036621,
+        "name": "H R Weisser ",
+        "state": "Indiana"
+    },
+    "93IN": {
+        "lat": 39.5886001587,
+        "long": -85.7360992432,
+        "name": "Foltz Farm ",
+        "state": "Indiana"
+    },
+    "95IN": {
+        "lat": 38.8875007629,
+        "long": -85.8264007568,
+        "name": "Stewart Field",
+        "state": "Indiana"
+    },
+    "98IN": {
+        "lat": 41.363899231,
+        "long": -85.3886032104,
+        "name": "B & V Flying Ranch ",
+        "state": "Indiana"
+    },
+    "99II": {
+        "lat": 39.5835,
+        "long": -86.952527,
+        "name": "Cooper Field",
+        "state": "Indiana"
+    },
+    "99IN": {
+        "lat": 40.2061004639,
+        "long": -86.1005020142,
+        "name": "Bee-Acre Farm Strip",
+        "state": "Indiana"
+    },
+    "9II0": {
+        "lat": 41.2825012207,
+        "long": -85.4385986328,
+        "name": "Shaffer ",
+        "state": "Indiana"
+    },
+    "9II1": {
+        "lat": 37.8997001648,
+        "long": -87.2177963257,
+        "name": "Short Stop ",
+        "state": "Indiana"
+    },
+    "9II2": {
+        "lat": 41.6875,
+        "long": -86.1549987793,
+        "name": "Nelund Field",
+        "state": "Indiana"
+    },
+    "9II3": {
+        "lat": 41.5625,
+        "long": -86.4721984863,
+        "name": "Dillon ",
+        "state": "Indiana"
+    },
+    "9II4": {
+        "lat": 40.1725006104,
+        "long": -85.9447021484,
+        "name": "Cruzan Field",
+        "state": "Indiana"
+    },
+    "9II8": {
+        "lat": 39.086101532,
+        "long": -85.3711013794,
+        "name": "Francis ",
+        "state": "Indiana"
+    },
+    "9IN2": {
+        "lat": 38.5583000183,
+        "long": -85.8653030396,
+        "name": "New Liberty Field",
+        "state": "Indiana"
+    },
+    "9IN3": {
+        "lat": 41.5569000244,
+        "long": -87.2264022827,
+        "name": "Johnsons Strawberry Farm ",
+        "state": "Indiana"
+    },
+    "9IN4": {
+        "lat": 38.534198761,
+        "long": -87.5919036865,
+        "name": "Bandmill Field",
+        "state": "Indiana"
+    },
+    "9IN6": {
+        "lat": 39.840801239,
+        "long": -87.3394012451,
+        "name": "Garrard ",
+        "state": "Indiana"
+    },
+    "9IN7": {
+        "lat": 39.3546981812,
+        "long": -86.3069000244,
+        "name": "Zupancic Field",
+        "state": "Indiana"
+    },
+    "9IN8": {
+        "lat": 41.2291984558,
+        "long": -85.3581008911,
+        "name": "Green Field",
+        "state": "Indiana"
+    },
+    "9IN9": {
+        "lat": 40.0778007507,
+        "long": -87.515296936,
+        "name": "Gessie ",
+        "state": "Indiana"
+    },
+    "IG02": {
+        "lat": 40.2731018066,
+        "long": -86.9075012207,
+        "name": "Ratcliff ",
+        "state": "Indiana"
+    },
+    "IG03": {
+        "lat": 39.3917007446,
+        "long": -86.5999984741,
+        "name": "Bluebird ",
+        "state": "Indiana"
+    },
+    "IG04": {
+        "lat": 39.0461006165,
+        "long": -85.1567001343,
+        "name": "Litzinger Ultralightport",
+        "state": "Indiana"
+    },
+    "IG05": {
+        "lat": 41.189763,
+        "long": -86.606956,
+        "name": "Wheeler ",
+        "state": "Indiana"
+    },
+    "IG07": {
+        "lat": 39.0569000244,
+        "long": -85.0355987549,
+        "name": "Josephs Field",
+        "state": "Indiana"
+    },
+    "II01": {
+        "lat": 40.7561988831,
+        "long": -85.25050354,
+        "name": "Grandlienard-Hogg ",
+        "state": "Indiana"
+    },
+    "II02": {
+        "lat": 41.3856010437,
+        "long": -84.8268966675,
+        "name": "Kline Field",
+        "state": "Indiana"
+    },
+    "II03": {
+        "lat": 39.198600769,
+        "long": -85.1363983154,
+        "name": "Buell ",
+        "state": "Indiana"
+    },
+    "II04": {
+        "lat": 40.8838996887,
+        "long": -87.3692016602,
+        "name": "North West Indiana Air ",
+        "state": "Indiana"
+    },
+    "II05": {
+        "lat": 41.0741996765,
+        "long": -86.064201355,
+        "name": "Woodcock ",
+        "state": "Indiana"
+    },
+    "II06": {
+        "lat": 39.9700012207,
+        "long": -85.4708023071,
+        "name": "Ferrell ",
+        "state": "Indiana"
+    },
+    "II07": {
+        "lat": 39.5322990417,
+        "long": -86.8321990967,
+        "name": "Clover Knoll ",
+        "state": "Indiana"
+    },
+    "II08": {
+        "lat": 40.660900116,
+        "long": -87.4396972656,
+        "name": "Rheude ",
+        "state": "Indiana"
+    },
+    "II09": {
+        "lat": 39.5736999512,
+        "long": -86.6181030273,
+        "name": "Patrum Field",
+        "state": "Indiana"
+    },
+    "II10": {
+        "lat": 40.5820007324,
+        "long": -86.1675033569,
+        "name": "Rockey's Air Strip",
+        "state": "Indiana"
+    },
+    "II11": {
+        "lat": 41.2106018066,
+        "long": -84.9860992432,
+        "name": "Pelz Port ",
+        "state": "Indiana"
+    },
+    "II12": {
+        "lat": 40.9645004272,
+        "long": -86.3719024658,
+        "name": "Dague Strip",
+        "state": "Indiana"
+    },
+    "II13": {
+        "lat": 39.920278,
+        "long": -85.598611,
+        "name": "Sugar Creek Air Park",
+        "state": "Indiana"
+    },
+    "II14": {
+        "lat": 40.9612007141,
+        "long": -85.5625,
+        "name": "Beck Private ",
+        "state": "Indiana"
+    },
+    "II15": {
+        "lat": 40.9936981201,
+        "long": -86.3416976929,
+        "name": "Friedrich ",
+        "state": "Indiana"
+    },
+    "II16": {
+        "lat": 41.6370010376,
+        "long": -84.9494018555,
+        "name": "Pigeon ",
+        "state": "Indiana"
+    },
+    "II17": {
+        "lat": 41.2681007385,
+        "long": -86.5595016479,
+        "name": "Bickel's Cow Patch ",
+        "state": "Indiana"
+    },
+    "II18": {
+        "lat": 41.3356018066,
+        "long": -86.9285964966,
+        "name": "Lou Abbett Farms ",
+        "state": "Indiana"
+    },
+    "II19": {
+        "lat": 40.4061012268,
+        "long": -86.7536010742,
+        "name": "Etter ",
+        "state": "Indiana"
+    },
+    "II20": {
+        "lat": 40.6736984253,
+        "long": -85.2632980347,
+        "name": "Mossburg ",
+        "state": "Indiana"
+    },
+    "II21": {
+        "lat": 41.4752998352,
+        "long": -85.6947021484,
+        "name": "Zollinger Strip",
+        "state": "Indiana"
+    },
+    "II22": {
+        "lat": 41.1020011902,
+        "long": -86.9321975708,
+        "name": "Antonian ",
+        "state": "Indiana"
+    },
+    "II25": {
+        "lat": 39.3372993469,
+        "long": -86.7797012329,
+        "name": "Timber Trails ",
+        "state": "Indiana"
+    },
+    "II26": {
+        "lat": 40.7038993835,
+        "long": -87.1877975464,
+        "name": "Ashby ",
+        "state": "Indiana"
+    },
+    "II27": {
+        "lat": 40.1666984558,
+        "long": -85.9408035278,
+        "name": "Ward ",
+        "state": "Indiana"
+    },
+    "II28": {
+        "lat": 41.2106018066,
+        "long": -85.0635986328,
+        "name": "Stettler Strip",
+        "state": "Indiana"
+    },
+    "II29": {
+        "lat": 39.6109008789,
+        "long": -86.7561035156,
+        "name": "Owens Field",
+        "state": "Indiana"
+    },
+    "II30": {
+        "lat": 38.9067001343,
+        "long": -87.4017028809,
+        "name": "Ridgway Flying Service ",
+        "state": "Indiana"
+    },
+    "II32": {
+        "lat": 38.0491981506,
+        "long": -87.381401062,
+        "name": "Raceway ",
+        "state": "Indiana"
+    },
+    "II33": {
+        "lat": 38.460899353,
+        "long": -87.6549987793,
+        "name": "Eickholtz ",
+        "state": "Indiana"
+    },
+    "II34": {
+        "lat": 39.2731018066,
+        "long": -87.1222000122,
+        "name": "Booe ",
+        "state": "Indiana"
+    },
+    "II35": {
+        "lat": 39.8087005615,
+        "long": -86.4955978394,
+        "name": "Lindley Private ",
+        "state": "Indiana"
+    },
+    "II36": {
+        "lat": 39.6652984619,
+        "long": -85.8167037964,
+        "name": "Mc Neil Field",
+        "state": "Indiana"
+    },
+    "II37": {
+        "lat": 39.7463989258,
+        "long": -85.7746963501,
+        "name": "Arthur ",
+        "state": "Indiana"
+    },
+    "II38": {
+        "lat": 41.426399231,
+        "long": -86.3163986206,
+        "name": "Sherk Field",
+        "state": "Indiana"
+    },
+    "II39": {
+        "lat": 38.3362007141,
+        "long": -87.4677963257,
+        "name": "Hollingsworth ",
+        "state": "Indiana"
+    },
+    "II40": {
+        "lat": 38.3083992004,
+        "long": -87.4085998535,
+        "name": "Hopkins Farms ",
+        "state": "Indiana"
+    },
+    "II42": {
+        "lat": 40.0685997009,
+        "long": -85.922203064,
+        "name": "Creekside Farm ",
+        "state": "Indiana"
+    },
+    "II43": {
+        "lat": 41.75,
+        "long": -86.192199707,
+        "name": "C. V. ",
+        "state": "Indiana"
+    },
+    "II45": {
+        "lat": 37.8925018311,
+        "long": -87.1900024414,
+        "name": "Renshaw ",
+        "state": "Indiana"
+    },
+    "II49": {
+        "lat": 38.0369987488,
+        "long": -86.9111022949,
+        "name": "Foertsch ",
+        "state": "Indiana"
+    },
+    "II50": {
+        "lat": 39.48279953,
+        "long": -86.676902771,
+        "name": "Jack Oak ",
+        "state": "Indiana"
+    },
+    "II51": {
+        "lat": 41.4847984314,
+        "long": -85.5930023193,
+        "name": "Hull ",
+        "state": "Indiana"
+    },
+    "II52": {
+        "lat": 39.8774986267,
+        "long": -86.5278015137,
+        "name": "Haffner ",
+        "state": "Indiana"
+    },
+    "II53": {
+        "lat": 38.7703018188,
+        "long": -85.484703064,
+        "name": "Burke's ",
+        "state": "Indiana"
+    },
+    "II54": {
+        "lat": 38.8158988953,
+        "long": -85.4464035034,
+        "name": "Giltner ",
+        "state": "Indiana"
+    },
+    "II55": {
+        "lat": 39.5270004272,
+        "long": -86.3003005981,
+        "name": "Hodges ",
+        "state": "Indiana"
+    },
+    "II59": {
+        "lat": 39.8400001526,
+        "long": -87.3936004639,
+        "name": "Strip ",
+        "state": "Indiana"
+    },
+    "II62": {
+        "lat": 41.3877983093,
+        "long": -86.2585983276,
+        "name": "Berger ",
+        "state": "Indiana"
+    },
+    "II65": {
+        "lat": 40.8875007629,
+        "long": -87.1235961914,
+        "name": "Gilmore ",
+        "state": "Indiana"
+    },
+    "II67": {
+        "lat": 40.4277992249,
+        "long": -85.3734970093,
+        "name": "Hickory Hills ",
+        "state": "Indiana"
+    },
+    "II68": {
+        "lat": 39.85499954,
+        "long": -86.959198,
+        "name": "Durham ",
+        "state": "Indiana"
+    },
+    "II69": {
+        "lat": 38.7181015015,
+        "long": -85.7602005005,
+        "name": "Harrod/Rose ",
+        "state": "Indiana"
+    },
+    "II70": {
+        "lat": 40.3844985962,
+        "long": -86.0633010864,
+        "name": "Salsbery ",
+        "state": "Indiana"
+    },
+    "II71": {
+        "lat": 39.3863983154,
+        "long": -85.6172027588,
+        "name": "Smith ",
+        "state": "Indiana"
+    },
+    "II72": {
+        "lat": 39.1958007813,
+        "long": -85.2055969238,
+        "name": "Anderson ",
+        "state": "Indiana"
+    },
+    "II73": {
+        "lat": 40.2262001038,
+        "long": -84.8349990845,
+        "name": "Good Earth Farm Strip",
+        "state": "Indiana"
+    },
+    "II74": {
+        "lat": 41.5597991943,
+        "long": -86.0531005859,
+        "name": "Eby Field",
+        "state": "Indiana"
+    },
+    "II75": {
+        "lat": 40.6791992188,
+        "long": -85.4152984619,
+        "name": "Daugherty Field",
+        "state": "Indiana"
+    },
+    "II76": {
+        "lat": 38.8507003784,
+        "long": -86.1368026733,
+        "name": "Clay Hill Farms ",
+        "state": "Indiana"
+    },
+    "II77": {
+        "lat": 40.2594985962,
+        "long": -85.2604980469,
+        "name": "Finney's Airpark",
+        "state": "Indiana"
+    },
+    "II78": {
+        "lat": 39.8583984375,
+        "long": -85.601600647,
+        "name": "Wallace Field",
+        "state": "Indiana"
+    },
+    "II79": {
+        "lat": 41.0769996643,
+        "long": -86.7245025635,
+        "name": "Sommers ",
+        "state": "Indiana"
+    },
+    "II81": {
+        "lat": 38.3805999756,
+        "long": -87.2205963135,
+        "name": "Richardson Field",
+        "state": "Indiana"
+    },
+    "II82": {
+        "lat": 39.7942008972,
+        "long": -86.577796936,
+        "name": "Meadors Field",
+        "state": "Indiana"
+    },
+    "II83": {
+        "lat": 39.8342018127,
+        "long": -86.4341964722,
+        "name": "Bramble ",
+        "state": "Indiana"
+    },
+    "II84": {
+        "lat": 37.9319992065,
+        "long": -87.7714004517,
+        "name": "Hilakos ",
+        "state": "Indiana"
+    },
+    "II85": {
+        "lat": 40.8961982727,
+        "long": -85.0491027832,
+        "name": "Blomenberg ",
+        "state": "Indiana"
+    },
+    "II86": {
+        "lat": 40.0155982971,
+        "long": -85.8874969482,
+        "name": "Poole ",
+        "state": "Indiana"
+    },
+    "II87": {
+        "lat": 39.4514007568,
+        "long": -86.3283004761,
+        "name": "Twelve Oaks ",
+        "state": "Indiana"
+    },
+    "II89": {
+        "lat": 38.0870018005,
+        "long": -87.6817016602,
+        "name": "Yelverton ",
+        "state": "Indiana"
+    },
+    "II90": {
+        "lat": 41.199798584,
+        "long": -86.8364028931,
+        "name": "Crawford Field",
+        "state": "Indiana"
+    },
+    "II91": {
+        "lat": 39.8438987732,
+        "long": -86.5053024292,
+        "name": "Dunbar Field",
+        "state": "Indiana"
+    },
+    "II93": {
+        "lat": 39.4838981628,
+        "long": -86.2268981934,
+        "name": "Bronson ",
+        "state": "Indiana"
+    },
+    "II94": {
+        "lat": 40.1283988953,
+        "long": -85.886100769,
+        "name": "Irion ",
+        "state": "Indiana"
+    },
+    "II95": {
+        "lat": 41.3644981384,
+        "long": -86.0633010864,
+        "name": "Rust's Landing ",
+        "state": "Indiana"
+    },
+    "II96": {
+        "lat": 38.4928016663,
+        "long": -86.9330978394,
+        "name": "Buchta ",
+        "state": "Indiana"
+    },
+    "II97": {
+        "lat": 39.4777984619,
+        "long": -85.8833007813,
+        "name": "Solenberg ",
+        "state": "Indiana"
+    },
+    "II98": {
+        "lat": 39.0438995361,
+        "long": -87.4219970703,
+        "name": "Shrum Field",
+        "state": "Indiana"
+    },
+    "II99": {
+        "lat": 41.4364013672,
+        "long": -86.4708023071,
+        "name": "Drake Field",
+        "state": "Indiana"
+    },
+    "IN00": {
+        "lat": 40.54529953,
+        "long": -87.0522003174,
+        "name": "Sutton ",
+        "state": "Indiana"
+    },
+    "IN01": {
+        "lat": 39.8880996704,
+        "long": -86.0661010742,
+        "name": "Best Lock Corp Airstrip",
+        "state": "Indiana"
+    },
+    "IN03": {
+        "lat": 38.4639015198,
+        "long": -87.25,
+        "name": "Alford Airpark",
+        "state": "Indiana"
+    },
+    "IN04": {
+        "lat": 38.8464012146,
+        "long": -87.2403030396,
+        "name": "N'Meier ",
+        "state": "Indiana"
+    },
+    "IN05": {
+        "lat": 39.6605987549,
+        "long": -85.5483016968,
+        "name": "Stevens Farms ",
+        "state": "Indiana"
+    },
+    "IN08": {
+        "lat": 39.1694984436,
+        "long": -87.1902999878,
+        "name": "Shakamak ",
+        "state": "Indiana"
+    },
+    "IN09": {
+        "lat": 40.5242004395,
+        "long": -87.4119033813,
+        "name": "Clifton ",
+        "state": "Indiana"
+    },
+    "IN10": {
+        "lat": 40.9758987427,
+        "long": -86.4199981689,
+        "name": "Plummer ",
+        "state": "Indiana"
+    },
+    "IN11": {
+        "lat": 41.2928009033,
+        "long": -86.0710983276,
+        "name": "Arrowhead Farm ",
+        "state": "Indiana"
+    },
+    "IN13": {
+        "lat": 38.2237014771,
+        "long": -85.9749984741,
+        "name": "Lanesville Skyways ",
+        "state": "Indiana"
+    },
+    "IN14": {
+        "lat": 38.2389984131,
+        "long": -86.0194015503,
+        "name": "Greenridge RLA Restricted Landing Area",
+        "state": "Indiana"
+    },
+    "IN15": {
+        "lat": 38.604801178,
+        "long": -87.4630966187,
+        "name": "T & T ",
+        "state": "Indiana"
+    },
+    "IN18": {
+        "lat": 41.2745018005,
+        "long": -84.8050003052,
+        "name": "Hook Field",
+        "state": "Indiana"
+    },
+    "IN19": {
+        "lat": 39.6431007385,
+        "long": -85.9816970825,
+        "name": "Marshall Field",
+        "state": "Indiana"
+    },
+    "IN20": {
+        "lat": 39.4537010193,
+        "long": -86.2802963257,
+        "name": "Jungclaus ",
+        "state": "Indiana"
+    },
+    "IN21": {
+        "lat": 40.0430984497,
+        "long": -85.2604980469,
+        "name": "Starkey's ",
+        "state": "Indiana"
+    },
+    "IN23": {
+        "lat": 37.9084014893,
+        "long": -87.7583999634,
+        "name": "Zeller Elev County ",
+        "state": "Indiana"
+    },
+    "IN25": {
+        "lat": 39.9981002808,
+        "long": -86.5772018433,
+        "name": "Hood Field",
+        "state": "Indiana"
+    },
+    "IN26": {
+        "lat": 41.2613983154,
+        "long": -86.8724975586,
+        "name": "Archangels Landing ",
+        "state": "Indiana"
+    },
+    "IN27": {
+        "lat": 40.1791992188,
+        "long": -86.1157989502,
+        "name": "Skyridge ",
+        "state": "Indiana"
+    },
+    "IN29": {
+        "lat": 40.573600769,
+        "long": -87.1035995483,
+        "name": "Durflinger ",
+        "state": "Indiana"
+    },
+    "IN30": {
+        "lat": 38.4023017883,
+        "long": -87.5995025635,
+        "name": "Hull ",
+        "state": "Indiana"
+    },
+    "IN31": {
+        "lat": 40.0223007202,
+        "long": -85.7536010742,
+        "name": "North Lakeland ",
+        "state": "Indiana"
+    },
+    "IN32": {
+        "lat": 39.9772987366,
+        "long": -85.7444000244,
+        "name": "Stephenson ",
+        "state": "Indiana"
+    },
+    "IN33": {
+        "lat": 40.7361984253,
+        "long": -86.1153030396,
+        "name": "Robison ",
+        "state": "Indiana"
+    },
+    "IN34": {
+        "lat": 40.8344993591,
+        "long": -86.0522003174,
+        "name": "Rush Strip",
+        "state": "Indiana"
+    },
+    "IN35": {
+        "lat": 40.6542015076,
+        "long": -86.0227966309,
+        "name": "Shinn Bone Lane ",
+        "state": "Indiana"
+    },
+    "IN36": {
+        "lat": 38.0355987549,
+        "long": -87.7240982056,
+        "name": "Plugger ",
+        "state": "Indiana"
+    },
+    "IN38": {
+        "lat": 41.54529953,
+        "long": -86.452796936,
+        "name": "Stewarts Green Acres ",
+        "state": "Indiana"
+    },
+    "IN39": {
+        "lat": 40.7672996521,
+        "long": -86.9207992554,
+        "name": "Klopfenstein ",
+        "state": "Indiana"
+    },
+    "IN40": {
+        "lat": 37.9099998474,
+        "long": -87.182800293,
+        "name": "Brauns ",
+        "state": "Indiana"
+    },
+    "IN41": {
+        "lat": 40.354801178,
+        "long": -85.0491027832,
+        "name": "Nuckols ",
+        "state": "Indiana"
+    },
+    "IN42": {
+        "lat": 41.4902992249,
+        "long": -86.1994018555,
+        "name": "Hackbarth ",
+        "state": "Indiana"
+    },
+    "IN43": {
+        "lat": 38.4751014709,
+        "long": -85.9972000122,
+        "name": "Spring Lake ",
+        "state": "Indiana"
+    },
+    "IN44": {
+        "lat": 38.564201355,
+        "long": -86.0575027466,
+        "name": "Hardin ",
+        "state": "Indiana"
+    },
+    "IN45": {
+        "lat": 39.8250007629,
+        "long": -86.8833007813,
+        "name": "4 Winds Aerodrome",
+        "state": "Indiana"
+    },
+    "IN46": {
+        "lat": 39.738899231,
+        "long": -87.2194976807,
+        "name": "Butler Field",
+        "state": "Indiana"
+    },
+    "IN47": {
+        "lat": 39.773601532,
+        "long": -84.9227981567,
+        "name": "White ",
+        "state": "Indiana"
+    },
+    "IN49": {
+        "lat": 39.4874992371,
+        "long": -85.8052978516,
+        "name": "Pherigo ",
+        "state": "Indiana"
+    },
+    "IN50": {
+        "lat": 39.4402999878,
+        "long": -85.765296936,
+        "name": "Siefert ",
+        "state": "Indiana"
+    },
+    "IN51": {
+        "lat": 40.1399993896,
+        "long": -86.1524963379,
+        "name": "Windy Knoll ",
+        "state": "Indiana"
+    },
+    "IN53": {
+        "lat": 39.2916984558,
+        "long": -86.823600769,
+        "name": "Miller ",
+        "state": "Indiana"
+    },
+    "IN54": {
+        "lat": 41.2836990356,
+        "long": -86.4627990723,
+        "name": "I & C Field",
+        "state": "Indiana"
+    },
+    "IN55": {
+        "lat": 40.0792007446,
+        "long": -87.261100769,
+        "name": "Songer ",
+        "state": "Indiana"
+    },
+    "IN56": {
+        "lat": 40.1268997192,
+        "long": -85.4319000244,
+        "name": "Carroll's Airpark",
+        "state": "Indiana"
+    },
+    "IN57": {
+        "lat": 39.2613983154,
+        "long": -87.4208984375,
+        "name": "Shure ",
+        "state": "Indiana"
+    },
+    "IN58": {
+        "lat": 40.9037017822,
+        "long": -84.8475036621,
+        "name": "Sealscott ",
+        "state": "Indiana"
+    },
+    "IN60": {
+        "lat": 40.0177993774,
+        "long": -86.1603012085,
+        "name": "Wilderness Field",
+        "state": "Indiana"
+    },
+    "IN61": {
+        "lat": 41.2641983032,
+        "long": -87.1343994141,
+        "name": "Flying J ",
+        "state": "Indiana"
+    },
+    "IN62": {
+        "lat": 41.2448005676,
+        "long": -85.2975006104,
+        "name": "Tropria ",
+        "state": "Indiana"
+    },
+    "IN63": {
+        "lat": 40.3666992188,
+        "long": -85.3386001587,
+        "name": "Horizon Field",
+        "state": "Indiana"
+    },
+    "IN64": {
+        "lat": 39.5609016418,
+        "long": -86.2040023804,
+        "name": "Beck ",
+        "state": "Indiana"
+    },
+    "IN65": {
+        "lat": 41.6913986206,
+        "long": -85.5954971313,
+        "name": "Wolfe Field",
+        "state": "Indiana"
+    },
+    "IN67": {
+        "lat": 38.9373016357,
+        "long": -85.7375030518,
+        "name": "Greener Pastures ",
+        "state": "Indiana"
+    },
+    "IN68": {
+        "lat": 38.1355018616,
+        "long": -86.0186004639,
+        "name": "Stewart ",
+        "state": "Indiana"
+    },
+    "IN69": {
+        "lat": 41.665599823,
+        "long": -85.8321990967,
+        "name": "Hatfield ",
+        "state": "Indiana"
+    },
+    "IN70": {
+        "lat": 41.6335983276,
+        "long": -87.0270004272,
+        "name": "Bodin ",
+        "state": "Indiana"
+    },
+    "IN71": {
+        "lat": 41.1856002808,
+        "long": -85.5215988159,
+        "name": "Plew ",
+        "state": "Indiana"
+    },
+    "IN72": {
+        "lat": 40.785900116,
+        "long": -85.2442016602,
+        "name": "Mayer ",
+        "state": "Indiana"
+    },
+    "IN73": {
+        "lat": 41.2223014832,
+        "long": -86.386100769,
+        "name": "Fleet Field",
+        "state": "Indiana"
+    },
+    "IN74": {
+        "lat": 41.3069992065,
+        "long": -86.4375,
+        "name": "H.J.Umbaugh ",
+        "state": "Indiana"
+    },
+    "IN76": {
+        "lat": 41.1263999939,
+        "long": -86.6932983398,
+        "name": "Podell ",
+        "state": "Indiana"
+    },
+    "IN80": {
+        "lat": 38.3213996887,
+        "long": -86.4907989502,
+        "name": "Roberson ",
+        "state": "Indiana"
+    },
+    "IN81": {
+        "lat": 39.7518997192,
+        "long": -85.5575027466,
+        "name": "Small Field",
+        "state": "Indiana"
+    },
+    "IN82": {
+        "lat": 41.7495002747,
+        "long": -86.0880966187,
+        "name": "Foos Field",
+        "state": "Indiana"
+    },
+    "IN83": {
+        "lat": 41.5023002625,
+        "long": -84.9301986694,
+        "name": "Lautzenhiser Airpark",
+        "state": "Indiana"
+    },
+    "IN84": {
+        "lat": 41.4081001282,
+        "long": -86.7472000122,
+        "name": "Shamrock ",
+        "state": "Indiana"
+    },
+    "IN85": {
+        "lat": 40.8372993469,
+        "long": -85.4835968018,
+        "name": "Bowlin ",
+        "state": "Indiana"
+    },
+    "IN86": {
+        "lat": 41.2803001404,
+        "long": -86.6320037842,
+        "name": "Wilson ",
+        "state": "Indiana"
+    },
+    "IN87": {
+        "lat": 41.351398468,
+        "long": -86.6264038086,
+        "name": "Singleton's Landing Strip",
+        "state": "Indiana"
+    },
+    "IN88": {
+        "lat": 39.5134010315,
+        "long": -86.7639007568,
+        "name": "Sanders Gyroport ",
+        "state": "Indiana"
+    },
+    "IN89": {
+        "lat": 41.4500999451,
+        "long": -85.6054992676,
+        "name": "Ligonier ",
+        "state": "Indiana"
+    },
+    "IN90": {
+        "lat": 41.2597999573,
+        "long": -87.4813995361,
+        "name": "Wietbrock ",
+        "state": "Indiana"
+    },
+    "IN91": {
+        "lat": 41.0023002625,
+        "long": -84.991897583,
+        "name": "Valhalla ",
+        "state": "Indiana"
+    },
+    "IN92": {
+        "lat": 38.6528015137,
+        "long": -87.5635986328,
+        "name": "Klein ",
+        "state": "Indiana"
+    },
+    "IN93": {
+        "lat": 41.7120018005,
+        "long": -86.432800293,
+        "name": "Hustons ",
+        "state": "Indiana"
+    },
+    "IN95": {
+        "lat": 41.2275009155,
+        "long": -86.7902984619,
+        "name": "Long ",
+        "state": "Indiana"
+    },
+    "IN98": {
+        "lat": 39.6831016541,
+        "long": -85.8442001343,
+        "name": "Farm Strip",
+        "state": "Indiana"
+    },
+    "IN99": {
+        "lat": 39.4067001343,
+        "long": -86.3054962158,
+        "name": "Donica Field",
+        "state": "Indiana"
+    },
+    "K05C": {
+        "lat": 41.5197982788,
+        "long": -87.3994979858,
+        "name": "Griffith-Merrillville ",
+        "state": "Indiana"
+    },
+    "K1I7": {
+        "lat": 39.7125015259,
+        "long": -87.4013977051,
+        "name": "Clinton ",
+        "state": "Indiana"
+    },
+    "K2R2": {
+        "lat": 39.74810028,
+        "long": -86.47380066,
+        "name": "Hendricks County Gordon Graham Field",
+        "state": "Indiana"
+    },
+    "K3HO": {
+        "lat": 41.5541992188,
+        "long": -87.2624969482,
+        "name": "Hobart Sky Ranch ",
+        "state": "Indiana"
+    },
+    "K3I3": {
+        "lat": 39.5477981567,
+        "long": -87.3772964478,
+        "name": "Sky King ",
+        "state": "Indiana"
+    },
+    "K4I7": {
+        "lat": 39.6302986145,
+        "long": -86.8139038086,
+        "name": "Putnam County ",
+        "state": "Indiana"
+    },
+    "K50I": {
+        "lat": 40.7587013245,
+        "long": -87.4281997681,
+        "name": "Kentland Municipal ",
+        "state": "Indiana"
+    },
+    "K5I4": {
+        "lat": 40.177898407,
+        "long": -86.217300415,
+        "name": "Sheridan ",
+        "state": "Indiana"
+    },
+    "K6I4": {
+        "lat": 40.0073013306,
+        "long": -86.4405975342,
+        "name": "Boone County ",
+        "state": "Indiana"
+    },
+    "K7I4": {
+        "lat": 38.6584014893,
+        "long": -86.4430007935,
+        "name": "Orleans ",
+        "state": "Indiana"
+    },
+    "K7L8": {
+        "lat": 39.75,
+        "long": -86.0139007568,
+        "name": "Post Air ",
+        "state": "Indiana"
+    },
+    "KAID": {
+        "lat": 40.1086006165,
+        "long": -85.6129989624,
+        "name": "Anderson Municipal Darlington Field",
+        "state": "Indiana"
+    },
+    "KANQ": {
+        "lat": 41.6397018433,
+        "long": -85.0835037231,
+        "name": "Tri State Steuben County ",
+        "state": "Indiana"
+    },
+    "KASW": {
+        "lat": 41.2747001648,
+        "long": -85.8401031494,
+        "name": "Warsaw Municipal ",
+        "state": "Indiana"
+    },
+    "KBAK": {
+        "lat": 39.2619018555,
+        "long": -85.8963012695,
+        "name": "Columbus Municipal ",
+        "state": "Indiana"
+    },
+    "KBFR": {
+        "lat": 38.84000015,
+        "long": -86.44539642,
+        "name": "Virgil I Grissom Municipal ",
+        "state": "Indiana"
+    },
+    "KC03": {
+        "lat": 41.4462013245,
+        "long": -85.9347991943,
+        "name": "Nappanee Municipal ",
+        "state": "Indiana"
+    },
+    "KC62": {
+        "lat": 41.4726982117,
+        "long": -85.2608032227,
+        "name": "Kendallville Municipal ",
+        "state": "Indiana"
+    },
+    "KC65": {
+        "lat": 41.3651008606,
+        "long": -86.3004989624,
+        "name": "Plymouth Municipal ",
+        "state": "Indiana"
+    },
+    "KCEV": {
+        "lat": 39.6985015869,
+        "long": -85.129699707,
+        "name": "Mettel Field",
+        "state": "Indiana"
+    },
+    "KCFJ": {
+        "lat": 39.9756011963,
+        "long": -86.9198989868,
+        "name": "Crawfordsville Municipal ",
+        "state": "Indiana"
+    },
+    "KDCY": {
+        "lat": 38.7004013062,
+        "long": -87.129699707,
+        "name": "Daviess County ",
+        "state": "Indiana"
+    },
+    "KEKM": {
+        "lat": 41.7193984985,
+        "long": -86.0031967163,
+        "name": "Elkhart Municipal ",
+        "state": "Indiana"
+    },
+    "KEVV": {
+        "lat": 38.0369987488,
+        "long": -87.5324020386,
+        "name": "Evansville Regional ",
+        "state": "Indiana"
+    },
+    "KEYE": {
+        "lat": 39.8306999207,
+        "long": -86.2944030762,
+        "name": "Eagle Creek Airpark",
+        "state": "Indiana"
+    },
+    "KFKR": {
+        "lat": 40.273399353,
+        "long": -86.5622024536,
+        "name": "Frankfort Municipal ",
+        "state": "Indiana"
+    },
+    "KFRH": {
+        "lat": 38.5061988831,
+        "long": -86.6369018555,
+        "name": "French Lick Municipal ",
+        "state": "Indiana"
+    },
+    "KFWA": {
+        "lat": 40.97850037,
+        "long": -85.19509888,
+        "name": "Fort Wayne International ",
+        "state": "Indiana"
+    },
+    "KGEZ": {
+        "lat": 39.58319855,
+        "long": -85.80480194,
+        "name": "Shelbyville Municipal ",
+        "state": "Indiana"
+    },
+    "KGGP": {
+        "lat": 40.7112007141,
+        "long": -86.3749008179,
+        "name": "Logansport Cass County ",
+        "state": "Indiana"
+    },
+    "KGSH": {
+        "lat": 41.5264015198,
+        "long": -85.7929000854,
+        "name": "Goshen Municipal ",
+        "state": "Indiana"
+    },
+    "KGUS": {
+        "lat": 40.6481018066,
+        "long": -86.1520996094,
+        "name": "Grissom ARB ",
+        "state": "Indiana"
+    },
+    "KGWB": {
+        "lat": 41.3072013855,
+        "long": -85.0643997192,
+        "name": "De Kalb County ",
+        "state": "Indiana"
+    },
+    "KGYY": {
+        "lat": 41.6162986755,
+        "long": -87.4128036499,
+        "name": "Gary Chicago International ",
+        "state": "Indiana"
+    },
+    "KHFY": {
+        "lat": 39.6283988953,
+        "long": -86.0878982544,
+        "name": "Greenwood Municipal ",
+        "state": "Indiana"
+    },
+    "KHHG": {
+        "lat": 40.8529014587,
+        "long": -85.4570999146,
+        "name": "Huntington Municipal ",
+        "state": "Indiana"
+    },
+    "KHLB": {
+        "lat": 39.3445014954,
+        "long": -85.2583007813,
+        "name": "Hillenbrand Industries ",
+        "state": "Indiana"
+    },
+    "KHNB": {
+        "lat": 38.2490005493,
+        "long": -86.9536972046,
+        "name": "Huntingburg ",
+        "state": "Indiana"
+    },
+    "KHUF": {
+        "lat": 39.451499939,
+        "long": -87.3076019287,
+        "name": "Terre Haute International Hulman Field",
+        "state": "Indiana"
+    },
+    "KI22": {
+        "lat": 40.1688995361,
+        "long": -84.9256973267,
+        "name": "Randolph County ",
+        "state": "Indiana"
+    },
+    "KI34": {
+        "lat": 39.32690048,
+        "long": -85.52249908,
+        "name": "Greensburg Municipal ",
+        "state": "Indiana"
+    },
+    "KI76": {
+        "lat": 40.7863006592,
+        "long": -86.1464004517,
+        "name": "Peru Municipal ",
+        "state": "Indiana"
+    },
+    "KIMS": {
+        "lat": 38.75889969,
+        "long": -85.46549988,
+        "name": "Madison Municipal ",
+        "state": "Indiana"
+    },
+    "KIND": {
+        "lat": 39.717300415,
+        "long": -86.2944030762,
+        "name": "Indianapolis International ",
+        "state": "Indiana"
+    },
+    "KIWH": {
+        "lat": 40.7620010376,
+        "long": -85.7987976074,
+        "name": "Wabash Municipal ",
+        "state": "Indiana"
+    },
+    "KJVY": {
+        "lat": 38.365398407,
+        "long": -85.7381973267,
+        "name": "Clark Regional ",
+        "state": "Indiana"
+    },
+    "KLAF": {
+        "lat": 40.4123001099,
+        "long": -86.9368972778,
+        "name": "Purdue University ",
+        "state": "Indiana"
+    },
+    "KMCX": {
+        "lat": 40.7088012695,
+        "long": -86.7667999268,
+        "name": "White County ",
+        "state": "Indiana"
+    },
+    "KMGC": {
+        "lat": 41.7033004761,
+        "long": -86.8211975098,
+        "name": "Michigan City Municipal ",
+        "state": "Indiana"
+    },
+    "KMIE": {
+        "lat": 40.2422981262,
+        "long": -85.3958969116,
+        "name": "Delaware County Johnson Field",
+        "state": "Indiana"
+    },
+    "KMQJ": {
+        "lat": 39.84349823,
+        "long": -85.89710236,
+        "name": "Mount Comfort ",
+        "state": "Indiana"
+    },
+    "KMZZ": {
+        "lat": 40.4898986816,
+        "long": -85.6797027588,
+        "name": "Marion Municipal ",
+        "state": "Indiana"
+    },
+    "KOKK": {
+        "lat": 40.5281982422,
+        "long": -86.0589981079,
+        "name": "Kokomo Municipal ",
+        "state": "Indiana"
+    },
+    "KOVO": {
+        "lat": 39.04560089,
+        "long": -85.6053009,
+        "name": "North Vernon ",
+        "state": "Indiana"
+    },
+    "KOXI": {
+        "lat": 41.3302002,
+        "long": -86.66470337,
+        "name": "Starke County ",
+        "state": "Indiana"
+    },
+    "KPLD": {
+        "lat": 40.45080185,
+        "long": -84.99009705,
+        "name": "Portland Municipal ",
+        "state": "Indiana"
+    },
+    "KPPO": {
+        "lat": 41.5724983215,
+        "long": -86.7344970703,
+        "name": "La Porte Municipal ",
+        "state": "Indiana"
+    },
+    "KPYM": {
+        "lat": 41.9090003967,
+        "long": -70.7287979126,
+        "name": "Plymouth Municipal ",
+        "state": "Indiana"
+    },
+    "KRCR": {
+        "lat": 41.0656013489,
+        "long": -86.1817016602,
+        "name": "Fulton County ",
+        "state": "Indiana"
+    },
+    "KRID": {
+        "lat": 39.7571983337,
+        "long": -84.8427963257,
+        "name": "Richmond Municipal ",
+        "state": "Indiana"
+    },
+    "KRWN": {
+        "lat": 41.092300415,
+        "long": -86.6128997803,
+        "name": "Arens Field",
+        "state": "Indiana"
+    },
+    "KRZL": {
+        "lat": 40.9478988647,
+        "long": -87.1826019287,
+        "name": "Jasper County ",
+        "state": "Indiana"
+    },
+    "KSBN": {
+        "lat": 41.7086982727,
+        "long": -86.3172988892,
+        "name": "South Bend Regional ",
+        "state": "Indiana"
+    },
+    "KSER": {
+        "lat": 38.9235992432,
+        "long": -85.9074020386,
+        "name": "Freeman Municipal ",
+        "state": "Indiana"
+    },
+    "KSIV": {
+        "lat": 39.1147003174,
+        "long": -87.4483032227,
+        "name": "Sullivan County ",
+        "state": "Indiana"
+    },
+    "KTEL": {
+        "lat": 38.0177002,
+        "long": -86.69090271,
+        "name": "Perry County Municipal ",
+        "state": "Indiana"
+    },
+    "KTYQ": {
+        "lat": 40.0307006836,
+        "long": -86.2514038086,
+        "name": "Indianapolis Executive ",
+        "state": "Indiana"
+    },
+    "KUMP": {
+        "lat": 39.93519974,
+        "long": -86.04499817,
+        "name": "Indianapolis Metropolitan ",
+        "state": "Indiana"
+    },
+    "KUWL": {
+        "lat": 39.87590027,
+        "long": -85.32649994,
+        "name": "New Castle Henry Co. Municipal ",
+        "state": "Indiana"
+    },
+    "KVPZ": {
+        "lat": 41.45399857,
+        "long": -87.00710297,
+        "name": "Porter County Municipal ",
+        "state": "Indiana"
+    }
+}

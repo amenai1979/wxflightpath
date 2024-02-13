@@ -1,0 +1,177 @@
+{
+  "HE15": {
+    "lat": 29.8225002289,
+    "long": 31.3309001923,
+    "name": "Hulwan"
+  },
+  "HE16": {
+    "lat": 30.83659935,
+    "long": 30.936000824,
+    "name": "Birma"
+  },
+  "HE24": {
+    "lat": 29.345500946,
+    "long": 25.5067005157,
+    "name": "Siwa Oasis North "
+  },
+  "HE26": {
+    "lat": 26.5572185516,
+    "long": 33.1219291687,
+    "name": "Wadi Abu Shihat"
+  },
+  "HE45": {
+    "lat": 29.6030006409,
+    "long": 32.6896018982,
+    "name": "Ras Sudr"
+  },
+  "HEAL": {
+    "lat": 30.9244995117,
+    "long": 28.4613990784,
+    "name": "El Alamein International "
+  },
+  "HEAR": {
+    "lat": 31.073299408,
+    "long": 33.8358001709,
+    "name": "El Arish International "
+  },
+  "HEAT": {
+    "lat": 27.0464992523,
+    "long": 31.0119991302,
+    "name": "Assiut International "
+  },
+  "HEAX": {
+    "lat": 31.1839008331,
+    "long": 29.9489002228,
+    "name": "El Nouzha "
+  },
+  "HEAZ": {
+    "lat": 30.0918006897,
+    "long": 31.3600006104,
+    "name": "Almaza Air Force Base"
+  },
+  "HEBA": {
+    "lat": 30.9176998138,
+    "long": 29.6963996887,
+    "name": "Borg El Arab International "
+  },
+  "HEBL": {
+    "lat": 22.3759994507,
+    "long": 31.611700058,
+    "name": "Abu Simbel "
+  },
+  "HEBS": {
+    "lat": 29.2082996368,
+    "long": 31.0165996552,
+    "name": "Beni Suef Air Base"
+  },
+  "HECA": {
+    "lat": 30.1219005585,
+    "long": 31.4055995941,
+    "name": "Cairo International "
+  },
+  "HECW": {
+    "lat": 30.116399765,
+    "long": 30.9153995514,
+    "name": "Cairo West "
+  },
+  "HEDK": {
+    "lat": 25.4116001129,
+    "long": 29.0030994415,
+    "name": "Dakhla "
+  },
+  "HEEM": {
+    "lat": 30.0746994019,
+    "long": 31.191400528,
+    "name": "Giza Embaba "
+  },
+  "HEGN": {
+    "lat": 27.1783008575,
+    "long": 33.7994003296,
+    "name": "Hurghada International "
+  },
+  "HEGO": {
+    "lat": 27.3668994904,
+    "long": 33.6682014465,
+    "name": "El Gouna "
+  },
+  "HEGR": {
+    "lat": 31.0690002441,
+    "long": 34.1291999817,
+    "name": "El Gora "
+  },
+  "HEGS": {
+    "lat": 30.8197994232,
+    "long": 30.1912002563,
+    "name": "Jiyanklis Air Base"
+  },
+  "HEKG": {
+    "lat": 25.4736003876,
+    "long": 30.5907001495,
+    "name": "El Kharga "
+  },
+  "HELX": {
+    "lat": 25.670999527,
+    "long": 32.7066001892,
+    "name": "Luxor International "
+  },
+  "HEMA": {
+    "lat": 25.557100296,
+    "long": 34.5836982727,
+    "name": "Marsa Alam International "
+  },
+  "HEMK": {
+    "lat": 26.3427777778,
+    "long": 31.7427777778,
+    "name": "Sohag International "
+  },
+  "HEMM": {
+    "lat": 31.3253993988,
+    "long": 27.2217006683,
+    "name": "Mersa Matruh "
+  },
+  "HEOC": {
+    "lat": 29.8120994568,
+    "long": 30.8234004974,
+    "name": "October "
+  },
+  "HEOW": {
+    "lat": 22.5856990814,
+    "long": 28.7166004181,
+    "name": "Shark El Oweinat International "
+  },
+  "HEPS": {
+    "lat": 31.2793998718,
+    "long": 32.2400016785,
+    "name": "Port Said "
+  },
+  "HESC": {
+    "lat": 28.685300827,
+    "long": 34.0625,
+    "name": "St Catherine International "
+  },
+  "HESH": {
+    "lat": 27.9773006439,
+    "long": 34.3950004578,
+    "name": "Sharm El Sheikh International "
+  },
+  "HESN": {
+    "lat": 23.9643993378,
+    "long": 32.8199996948,
+    "name": "Aswan International "
+  },
+  "HESX": {
+    "lat": 30.1147222,
+    "long": 30.8933333,
+    "name": "Sphinx International "
+  },
+  "HETB": {
+    "lat": 29.5877990723,
+    "long": 34.7780990601,
+    "name": "Taba International "
+  },
+  "HETR": {
+    "lat": 28.2089996338,
+    "long": 33.6455001831,
+    "name": "El Tor "
+  }
+}

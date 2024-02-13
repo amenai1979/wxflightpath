@@ -1,0 +1,27 @@
+{
+  "UTAA": {
+    "lat": 37.9868011475,
+    "long": 58.361000061,
+    "name": "Ashgabat "
+  },
+  "UTAK": {
+    "lat": 40.0633010864,
+    "long": 53.0071983337,
+    "name": "Turkmenbashi "
+  },
+  "UTAM": {
+    "lat": 37.6194000244,
+    "long": 61.8967018127,
+    "name": "Mary "
+  },
+  "UTAT": {
+    "lat": 41.761100769,
+    "long": 59.8266983032,
+    "name": "Dashoguz "
+  },
+  "UTAV": {
+    "lat": 39.0833015442,
+    "long": 63.6133003235,
+    "name": "Turkmenabat "
+  }
+}

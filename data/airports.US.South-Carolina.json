@@ -1,0 +1,842 @@
+{
+    "K0A2": {
+        "lat": 34.0904006958,
+        "long": -82.5679016113,
+        "name": "Hester Memorial ",
+        "state": "South-Carolina"
+    },
+    "K35A": {
+        "lat": 34.6870002747,
+        "long": -81.6411972046,
+        "name": "Union County Troy Shelton Field",
+        "state": "South-Carolina"
+    },
+    "K38J": {
+        "lat": 33.7285995483,
+        "long": -79.5159988403,
+        "name": "Hemingway Stuckey ",
+        "state": "South-Carolina"
+    },
+    "K3J0": {
+        "lat": 32.8678016663,
+        "long": -81.0831985474,
+        "name": "Hampton Varnville ",
+        "state": "South-Carolina"
+    },
+    "K3J1": {
+        "lat": 32.4926986694,
+        "long": -80.9923019409,
+        "name": "Ridgeland ",
+        "state": "South-Carolina"
+    },
+    "K51J": {
+        "lat": 33.8535995483,
+        "long": -79.7680969238,
+        "name": "Lake City Municipal CJ Evans Field",
+        "state": "South-Carolina"
+    },
+    "K52J": {
+        "lat": 34.2444992065,
+        "long": -80.236000061,
+        "name": "Lee County Butters Field",
+        "state": "South-Carolina"
+    },
+    "K5J9": {
+        "lat": 34.0884017944,
+        "long": -78.8648986816,
+        "name": "Twin City ",
+        "state": "South-Carolina"
+    },
+    "K6J0": {
+        "lat": 33.7946014404,
+        "long": -81.2459030151,
+        "name": "Lexington County At Pelion ",
+        "state": "South-Carolina"
+    },
+    "K6J2": {
+        "lat": 33.19549942,
+        "long": -80.50849915,
+        "name": "St George ",
+        "state": "South-Carolina"
+    },
+    "K6J4": {
+        "lat": 33.9267997742,
+        "long": -81.7946014404,
+        "name": "Saluda County ",
+        "state": "South-Carolina"
+    },
+    "K6J7": {
+        "lat": 34.2821006775,
+        "long": -79.9287033081,
+        "name": "Branhams ",
+        "state": "South-Carolina"
+    },
+    "K88J": {
+        "lat": 32.995098114,
+        "long": -81.2702026367,
+        "name": "Allendale County ",
+        "state": "South-Carolina"
+    },
+    "K99N": {
+        "lat": 33.3045005798,
+        "long": -81.1083984375,
+        "name": "Bamberg County ",
+        "state": "South-Carolina"
+    },
+    "KAIK": {
+        "lat": 33.6493988037,
+        "long": -81.6849975586,
+        "name": "Aiken Municipal ",
+        "state": "South-Carolina"
+    },
+    "KAND": {
+        "lat": 34.4945983887,
+        "long": -82.7093963623,
+        "name": "Anderson Regional ",
+        "state": "South-Carolina"
+    },
+    "KARW": {
+        "lat": 32.4122009277,
+        "long": -80.6343994141,
+        "name": "Beaufort County ",
+        "state": "South-Carolina"
+    },
+    "KBBP": {
+        "lat": 34.62170029,
+        "long": -79.73439789,
+        "name": "Marlboro County Jetport H.E. Avent Field",
+        "state": "South-Carolina"
+    },
+    "KBNL": {
+        "lat": 33.25780106,
+        "long": -81.38829803,
+        "name": "Barnwell Regional ",
+        "state": "South-Carolina"
+    },
+    "KCAE": {
+        "lat": 33.9388008118,
+        "long": -81.1194992065,
+        "name": "Columbia Metropolitan ",
+        "state": "South-Carolina"
+    },
+    "KCEU": {
+        "lat": 34.6719017,
+        "long": -82.8864975,
+        "name": "Oconee County Regional ",
+        "state": "South-Carolina"
+    },
+    "KCHS": {
+        "lat": 32.89860153,
+        "long": -80.04049683,
+        "name": "Charleston Air Force Base-International ",
+        "state": "South-Carolina"
+    },
+    "KCKI": {
+        "lat": 33.7172012329,
+        "long": -79.8570022583,
+        "name": "Williamsburg Regional ",
+        "state": "South-Carolina"
+    },
+    "KCQW": {
+        "lat": 34.71289825,
+        "long": -79.95700073,
+        "name": "Cheraw Municipal Lynch Bellinger Field",
+        "state": "South-Carolina"
+    },
+    "KCRE": {
+        "lat": 33.8116989136,
+        "long": -78.7238998413,
+        "name": "Grand Strand ",
+        "state": "South-Carolina"
+    },
+    "KCUB": {
+        "lat": 33.970500946,
+        "long": -80.9952011108,
+        "name": "Jim Hamilton L.B. Owens ",
+        "state": "South-Carolina"
+    },
+    "KDCM": {
+        "lat": 34.7892990112,
+        "long": -81.1958007813,
+        "name": "Chester Catawba Regional ",
+        "state": "South-Carolina"
+    },
+    "KDLC": {
+        "lat": 34.4491004944,
+        "long": -79.368598938,
+        "name": "Dillon County ",
+        "state": "South-Carolina"
+    },
+    "KDYB": {
+        "lat": 33.0634002686,
+        "long": -80.279296875,
+        "name": "Summerville ",
+        "state": "South-Carolina"
+    },
+    "KEOE": {
+        "lat": 34.30929947,
+        "long": -81.63970184,
+        "name": "Newberry County ",
+        "state": "South-Carolina"
+    },
+    "KFLO": {
+        "lat": 34.1853981018,
+        "long": -79.7238998413,
+        "name": "Florence Regional ",
+        "state": "South-Carolina"
+    },
+    "KGGE": {
+        "lat": 33.3116989136,
+        "long": -79.3196029663,
+        "name": "Georgetown County ",
+        "state": "South-Carolina"
+    },
+    "KGMU": {
+        "lat": 34.8479003906,
+        "long": -82.3499984741,
+        "name": "Greenville Downtown ",
+        "state": "South-Carolina"
+    },
+    "KGRD": {
+        "lat": 34.2486991882,
+        "long": -82.1591033936,
+        "name": "Greenwood County ",
+        "state": "South-Carolina"
+    },
+    "KGSP": {
+        "lat": 34.8956985474,
+        "long": -82.2189025879,
+        "name": "Greenville Spartanburg International ",
+        "state": "South-Carolina"
+    },
+    "KGYH": {
+        "lat": 34.7583007813,
+        "long": -82.3764038086,
+        "name": "Donaldson Center ",
+        "state": "South-Carolina"
+    },
+    "KHVS": {
+        "lat": 34.4030990601,
+        "long": -80.1192016602,
+        "name": "Hartsville Regional ",
+        "state": "South-Carolina"
+    },
+    "KHXD": {
+        "lat": 32.2243995667,
+        "long": -80.6975021362,
+        "name": "Hilton Head ",
+        "state": "South-Carolina"
+    },
+    "KHYW": {
+        "lat": 33.82849884,
+        "long": -79.12220001,
+        "name": "Conway Horry County ",
+        "state": "South-Carolina"
+    },
+    "KJZI": {
+        "lat": 32.7009010315,
+        "long": -80.0028991699,
+        "name": "Charleston Executive ",
+        "state": "South-Carolina"
+    },
+    "KLKR": {
+        "lat": 34.72290039,
+        "long": -80.854599,
+        "name": "Lancaster County-Mc Whirter Field",
+        "state": "South-Carolina"
+    },
+    "KLQK": {
+        "lat": 34.8100013733,
+        "long": -82.7029037476,
+        "name": "Pickens County ",
+        "state": "South-Carolina"
+    },
+    "KLRO": {
+        "lat": 32.89780045,
+        "long": -79.78289795,
+        "name": "Mt Pleasant Regional-Faison field",
+        "state": "South-Carolina"
+    },
+    "KLUX": {
+        "lat": 34.5070991516,
+        "long": -81.9471969604,
+        "name": "Laurens County ",
+        "state": "South-Carolina"
+    },
+    "KMAO": {
+        "lat": 34.1811981201,
+        "long": -79.3347015381,
+        "name": "Marion County ",
+        "state": "South-Carolina"
+    },
+    "KMKS": {
+        "lat": 33.1855010986,
+        "long": -80.0363006592,
+        "name": "Berkeley County ",
+        "state": "South-Carolina"
+    },
+    "KMMT": {
+        "lat": 33.92079926,
+        "long": -80.80130005,
+        "name": "Mc Entire JNGB ",
+        "state": "South-Carolina"
+    },
+    "KMNI": {
+        "lat": 33.5871009827,
+        "long": -80.2087020874,
+        "name": "Santee Cooper Regional ",
+        "state": "South-Carolina"
+    },
+    "KMYR": {
+        "lat": 33.6796989441,
+        "long": -78.9282989502,
+        "name": "Myrtle Beach International ",
+        "state": "South-Carolina"
+    },
+    "KNBC": {
+        "lat": 32.4774017334,
+        "long": -80.723197937,
+        "name": "Beaufort MCAS - Merritt Field",
+        "state": "South-Carolina"
+    },
+    "KOGB": {
+        "lat": 33.4567985535,
+        "long": -80.8594970703,
+        "name": "Orangeburg Municipal ",
+        "state": "South-Carolina"
+    },
+    "KPHH": {
+        "lat": 33.4516983032,
+        "long": -79.5261993408,
+        "name": "Robert F Swinnie ",
+        "state": "South-Carolina"
+    },
+    "KPYG": {
+        "lat": 34.742099762,
+        "long": -80.345199585,
+        "name": "Pageland ",
+        "state": "South-Carolina"
+    },
+    "KRBW": {
+        "lat": 32.9210014343,
+        "long": -80.6406021118,
+        "name": "Lowcountry Regional ",
+        "state": "South-Carolina"
+    },
+    "KS17": {
+        "lat": 33.6456985474,
+        "long": -81.8671035767,
+        "name": "Twin Lakes ",
+        "state": "South-Carolina"
+    },
+    "KS19": {
+        "lat": 33.90810013,
+        "long": -82.26689911,
+        "name": "Mc Cormick County ",
+        "state": "South-Carolina"
+    },
+    "KSMS": {
+        "lat": 33.9949989319,
+        "long": -80.3612976074,
+        "name": "Sumter ",
+        "state": "South-Carolina"
+    },
+    "KSPA": {
+        "lat": 34.9156990051,
+        "long": -81.9564971924,
+        "name": "Spartanburg Downtown Memorial ",
+        "state": "South-Carolina"
+    },
+    "KSSC": {
+        "lat": 33.97269821,
+        "long": -80.47059631,
+        "name": "Shaw Air Force Base",
+        "state": "South-Carolina"
+    },
+    "KUDG": {
+        "lat": 34.44940186,
+        "long": -79.89009857,
+        "name": "Darlington County Jetport ",
+        "state": "South-Carolina"
+    },
+    "KUZA": {
+        "lat": 34.9878006,
+        "long": -81.05719757,
+        "name": "Rock Hill York Co Bryant field",
+        "state": "South-Carolina"
+    },
+    "KXNO": {
+        "lat": 33.6150016785,
+        "long": -81.0843963623,
+        "name": "North Af Aux ",
+        "state": "South-Carolina"
+    },
+    "PAPB": {
+        "lat": 56.5783004761,
+        "long": -169.6620025635,
+        "name": "St George ",
+        "state": "South-Carolina"
+    },
+    "SC00": {
+        "lat": 34.6744003296,
+        "long": -82.0014038086,
+        "name": "Triple Tree ",
+        "state": "South-Carolina"
+    },
+    "SC01": {
+        "lat": 33.0390014648,
+        "long": -81.2942962646,
+        "name": "Sugar Hill ",
+        "state": "South-Carolina"
+    },
+    "SC03": {
+        "lat": 33.5570983887,
+        "long": -80.648399353,
+        "name": "Mc Neil ",
+        "state": "South-Carolina"
+    },
+    "SC05": {
+        "lat": 32.4912986755,
+        "long": -80.6150970459,
+        "name": "Laurel Hill Plantation ",
+        "state": "South-Carolina"
+    },
+    "SC06": {
+        "lat": 32.6320991516,
+        "long": -80.092300415,
+        "name": "Pluff Mud Field",
+        "state": "South-Carolina"
+    },
+    "SC07": {
+        "lat": 33.6758003235,
+        "long": -80.9496994019,
+        "name": "Alan's ",
+        "state": "South-Carolina"
+    },
+    "SC08": {
+        "lat": 35.0500984192,
+        "long": -81.137298584,
+        "name": "Bethel-Lake Wylie ",
+        "state": "South-Carolina"
+    },
+    "SC10": {
+        "lat": 35.1785011292,
+        "long": -81.8179016113,
+        "name": "State Line Ultraport/Flightpark Ultralightport",
+        "state": "South-Carolina"
+    },
+    "SC12": {
+        "lat": 32.6721000671,
+        "long": -81.3112030029,
+        "name": "Davis ",
+        "state": "South-Carolina"
+    },
+    "SC13": {
+        "lat": 33.8406982422,
+        "long": -81.1837005615,
+        "name": "Darden ",
+        "state": "South-Carolina"
+    },
+    "SC14": {
+        "lat": 34.0625991821,
+        "long": -81.4097976685,
+        "name": "Shealy ",
+        "state": "South-Carolina"
+    },
+    "SC15": {
+        "lat": 32.6320991516,
+        "long": -80.5039978027,
+        "name": "Airy Hall ",
+        "state": "South-Carolina"
+    },
+    "SC16": {
+        "lat": 34.3778991699,
+        "long": -80.0053024292,
+        "name": "Curry ",
+        "state": "South-Carolina"
+    },
+    "SC17": {
+        "lat": 33.3578987122,
+        "long": -80.4598007202,
+        "name": "Russell ",
+        "state": "South-Carolina"
+    },
+    "SC19": {
+        "lat": 34.1677017212,
+        "long": -80.0775985718,
+        "name": "Lamar ",
+        "state": "South-Carolina"
+    },
+    "SC20": {
+        "lat": 33.4842987061,
+        "long": -81.8258972168,
+        "name": "Harman ",
+        "state": "South-Carolina"
+    },
+    "SC21": {
+        "lat": 33.9417991638,
+        "long": -78.8330993652,
+        "name": "Myrtle Beach Hardee Airpark",
+        "state": "South-Carolina"
+    },
+    "SC23": {
+        "lat": 33.763999939,
+        "long": -81.3587036133,
+        "name": "Eagles Nest-Fairview Airpark",
+        "state": "South-Carolina"
+    },
+    "SC24": {
+        "lat": 34.6716995239,
+        "long": -82.9135971069,
+        "name": "Eagle Ridge ",
+        "state": "South-Carolina"
+    },
+    "SC25": {
+        "lat": 34.4226989746,
+        "long": -79.884803772,
+        "name": "Ross Strip",
+        "state": "South-Carolina"
+    },
+    "SC26": {
+        "lat": 34.8081016541,
+        "long": -82.9985961914,
+        "name": "Hawks Nest Farm ",
+        "state": "South-Carolina"
+    },
+    "SC27": {
+        "lat": 34.1010017395,
+        "long": -80.1256027222,
+        "name": "Tallon Field",
+        "state": "South-Carolina"
+    },
+    "SC28": {
+        "lat": 33.6520996094,
+        "long": -78.9942016602,
+        "name": "Javika ",
+        "state": "South-Carolina"
+    },
+    "SC29": {
+        "lat": 34.1106987,
+        "long": -79.9014968872,
+        "name": "Mc Kay ",
+        "state": "South-Carolina"
+    },
+    "SC32": {
+        "lat": 34.6503982544,
+        "long": -82.5035018921,
+        "name": "Sky Valley Airpark",
+        "state": "South-Carolina"
+    },
+    "SC33": {
+        "lat": 34.8242988586,
+        "long": -82.259803772,
+        "name": "Cox ",
+        "state": "South-Carolina"
+    },
+    "SC34": {
+        "lat": 34.2971000671,
+        "long": -82.6837005615,
+        "name": "Iva Field",
+        "state": "South-Carolina"
+    },
+    "SC35": {
+        "lat": 33.0895996094,
+        "long": -81.0082015991,
+        "name": "Ehrhardt ",
+        "state": "South-Carolina"
+    },
+    "SC36": {
+        "lat": 35.1246986389,
+        "long": -82.3264007568,
+        "name": "Emery ",
+        "state": "South-Carolina"
+    },
+    "SC37": {
+        "lat": 33.2718009949,
+        "long": -80.2543029785,
+        "name": "Crosswinds-Wilson Private ",
+        "state": "South-Carolina"
+    },
+    "SC38": {
+        "lat": 33.7075004578,
+        "long": -80.0805969238,
+        "name": "Pocotaligo ",
+        "state": "South-Carolina"
+    },
+    "SC39": {
+        "lat": 34.808553284,
+        "long": -82.0773768425,
+        "name": "Green Pond ",
+        "state": "South-Carolina"
+    },
+    "SC40": {
+        "lat": 35.0573005676,
+        "long": -81.9448013306,
+        "name": "Pearson's Farm ",
+        "state": "South-Carolina"
+    },
+    "SC41": {
+        "lat": 33.66609955,
+        "long": -80.24389648,
+        "name": "Palmetto Air Plantation ",
+        "state": "South-Carolina"
+    },
+    "SC42": {
+        "lat": 32.6869010925,
+        "long": -80.1063995361,
+        "name": "Hondarosa ",
+        "state": "South-Carolina"
+    },
+    "SC43": {
+        "lat": 34.5937004089,
+        "long": -82.3990020752,
+        "name": "Moore's Field",
+        "state": "South-Carolina"
+    },
+    "SC44": {
+        "lat": 34.12879944,
+        "long": -80.54730225,
+        "name": "El Porvenir Airpark",
+        "state": "South-Carolina"
+    },
+    "SC45": {
+        "lat": 33.8839988708,
+        "long": -81.3817977905,
+        "name": "Gilbert International ",
+        "state": "South-Carolina"
+    },
+    "SC46": {
+        "lat": 33.8510017395,
+        "long": -81.5484008789,
+        "name": "House Movers Field",
+        "state": "South-Carolina"
+    },
+    "SC47": {
+        "lat": 34.7613983154,
+        "long": -82.1613998413,
+        "name": "Parker Field",
+        "state": "South-Carolina"
+    },
+    "SC48": {
+        "lat": 33.8843002319,
+        "long": -79.9998016357,
+        "name": "Byrd Field",
+        "state": "South-Carolina"
+    },
+    "SC50": {
+        "lat": 32.6973991394,
+        "long": -80.2258987427,
+        "name": "Yonges Island ",
+        "state": "South-Carolina"
+    },
+    "SC51": {
+        "lat": 32.7046012878,
+        "long": -80.2531967163,
+        "name": "Too Goo Doo Farms ",
+        "state": "South-Carolina"
+    },
+    "SC52": {
+        "lat": 34.8123016357,
+        "long": -82.8188018799,
+        "name": "Oakview ",
+        "state": "South-Carolina"
+    },
+    "SC55": {
+        "lat": 33.0056991577,
+        "long": -81.0484008789,
+        "name": "Broxton Bridge Plantation ",
+        "state": "South-Carolina"
+    },
+    "SC56": {
+        "lat": 34.3634986877,
+        "long": -81.9932022095,
+        "name": "Thomason Airfield",
+        "state": "South-Carolina"
+    },
+    "SC57": {
+        "lat": 33.8843002319,
+        "long": -80.4947967529,
+        "name": "Creech Aviation Facility ",
+        "state": "South-Carolina"
+    },
+    "SC58": {
+        "lat": 34.8470993042,
+        "long": -82.2518005371,
+        "name": "Hartness ",
+        "state": "South-Carolina"
+    },
+    "SC60": {
+        "lat": 33.9040985107,
+        "long": -79.6839981079,
+        "name": "Cockfield Aerodrome",
+        "state": "South-Carolina"
+    },
+    "SC61": {
+        "lat": 34.6179008484,
+        "long": -80.1517028809,
+        "name": "Wild Irish Rose ",
+        "state": "South-Carolina"
+    },
+    "SC65": {
+        "lat": 32.8237991333,
+        "long": -79.8067016602,
+        "name": "Raven's Run ",
+        "state": "South-Carolina"
+    },
+    "SC67": {
+        "lat": 34.9099006653,
+        "long": -81.074798584,
+        "name": "Country Squire ",
+        "state": "South-Carolina"
+    },
+    "SC69": {
+        "lat": 33.1206016541,
+        "long": -80.9507980347,
+        "name": "Shiloh Plantation ",
+        "state": "South-Carolina"
+    },
+    "SC70": {
+        "lat": 34.7249984741,
+        "long": -83.0849990845,
+        "name": "Anna's ",
+        "state": "South-Carolina"
+    },
+    "SC72": {
+        "lat": 34.8228988647,
+        "long": -82.1482009888,
+        "name": "Chandelle ",
+        "state": "South-Carolina"
+    },
+    "SC74": {
+        "lat": 32.4618988037,
+        "long": -80.6008987427,
+        "name": "Marsh Point ",
+        "state": "South-Carolina"
+    },
+    "SC75": {
+        "lat": 34.9981994629,
+        "long": -82.7349014282,
+        "name": "Oolenoy Valley ",
+        "state": "South-Carolina"
+    },
+    "SC76": {
+        "lat": 34.8027000427,
+        "long": -80.6800994873,
+        "name": "Unity Aerodrome",
+        "state": "South-Carolina"
+    },
+    "SC78": {
+        "lat": 35.0906982422,
+        "long": -82.4953994751,
+        "name": "King Field",
+        "state": "South-Carolina"
+    },
+    "SC79": {
+        "lat": 34.6113014221,
+        "long": -80.449798584,
+        "name": "Bermuda High Gliderport",
+        "state": "South-Carolina"
+    },
+    "SC80": {
+        "lat": 34.6678009033,
+        "long": -82.7099990845,
+        "name": "Anderson ",
+        "state": "South-Carolina"
+    },
+    "SC81": {
+        "lat": 34.1515007019,
+        "long": -82.3536987305,
+        "name": "Abbeville ",
+        "state": "South-Carolina"
+    },
+    "SC82": {
+        "lat": 34.5847015381,
+        "long": -82.3516998291,
+        "name": "Oakhill Airpark",
+        "state": "South-Carolina"
+    },
+    "SC86": {
+        "lat": 34.8646011353,
+        "long": -82.5675964355,
+        "name": "Williamsport Airpark",
+        "state": "South-Carolina"
+    },
+    "SC87": {
+        "lat": 33.4427986145,
+        "long": -80.4555969238,
+        "name": "Avinger Field",
+        "state": "South-Carolina"
+    },
+    "SC88": {
+        "lat": 35.1473007202,
+        "long": -81.7942962646,
+        "name": "Davis Field",
+        "state": "South-Carolina"
+    },
+    "SC89": {
+        "lat": 34.4749984741,
+        "long": -79.3936004639,
+        "name": "Price ",
+        "state": "South-Carolina"
+    },
+    "SC90": {
+        "lat": 33.6761016846,
+        "long": -80.9483032227,
+        "name": "Do-Little Field",
+        "state": "South-Carolina"
+    },
+    "SC91": {
+        "lat": 33.3064994812,
+        "long": -80.848197937,
+        "name": "Bell's Branch ",
+        "state": "South-Carolina"
+    },
+    "SC92": {
+        "lat": 34.1031990051,
+        "long": -82.2817993164,
+        "name": "Rambos Field",
+        "state": "South-Carolina"
+    },
+    "SC93": {
+        "lat": 34.3660011292,
+        "long": -79.8242034912,
+        "name": "Paul's Plantation ",
+        "state": "South-Carolina"
+    },
+    "SC94": {
+        "lat": 33.8894004822,
+        "long": -79.506401062,
+        "name": "Weaver Field",
+        "state": "South-Carolina"
+    },
+    "SC95": {
+        "lat": 33.6292991638,
+        "long": -81.3296966553,
+        "name": "Perry International ",
+        "state": "South-Carolina"
+    },
+    "SC96": {
+        "lat": 34.5602989197,
+        "long": -82.9353027344,
+        "name": "Tokeena Air Park",
+        "state": "South-Carolina"
+    },
+    "SC97": {
+        "lat": 34.7266998291,
+        "long": -82.3396987915,
+        "name": "Riverbend Airpark",
+        "state": "South-Carolina"
+    },
+    "SC98": {
+        "lat": 33.0542984009,
+        "long": -80.0833969116,
+        "name": "Mount Holly ",
+        "state": "South-Carolina"
+    },
+    "SC99": {
+        "lat": 33.9639015198,
+        "long": -81.3591995239,
+        "name": "Whiteplains ",
+        "state": "South-Carolina"
+    }
+}

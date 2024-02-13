@@ -1,0 +1,592 @@
+{
+  "LIAF": {
+    "lat": 42.932800293,
+    "long": 12.710100174,
+    "name": "Foligno "
+  },
+  "LIAP": {
+    "lat": 42.379901886,
+    "long": 13.3092002869,
+    "name": "L'Aquila / Preturo "
+  },
+  "LIAQ": {
+    "lat": 41.4863014221,
+    "long": 13.7187995911,
+    "name": "Aquino "
+  },
+  "LIAU": {
+    "lat": 41.1160011292,
+    "long": 14.1780004501,
+    "name": "Capua "
+  },
+  "LIBA": {
+    "lat": 41.5414009094,
+    "long": 15.7180995941,
+    "name": "Amendola "
+  },
+  "LIBC": {
+    "lat": 38.9972000122,
+    "long": 17.0802001953,
+    "name": "Crotone "
+  },
+  "LIBD": {
+    "lat": 41.1389007568,
+    "long": 16.7605991364,
+    "name": "Bari / Palese International "
+  },
+  "LIBF": {
+    "lat": 41.4328994751,
+    "long": 15.5349998474,
+    "name": "Foggia / Gino Lisa "
+  },
+  "LIBG": {
+    "lat": 40.5175018311,
+    "long": 17.4032001495,
+    "name": "Taranto / Grottaglie "
+  },
+  "LIBN": {
+    "lat": 40.239200592,
+    "long": 18.1333007813,
+    "name": "Lecce "
+  },
+  "LIBP": {
+    "lat": 42.4317016602,
+    "long": 14.1810998917,
+    "name": "Pescara International "
+  },
+  "LIBR": {
+    "lat": 40.6576004028,
+    "long": 17.9470005035,
+    "name": "Brindisi / Casale "
+  },
+  "LIBV": {
+    "lat": 40.7677993774,
+    "long": 16.9333000183,
+    "name": "Gioia Del Colle "
+  },
+  "LIBX": {
+    "lat": 40.7000007629,
+    "long": 17.3330001831,
+    "name": "Martina Franca Air Force Base"
+  },
+  "LICA": {
+    "lat": 38.9053993225,
+    "long": 16.2423000336,
+    "name": "Lamezia Terme "
+  },
+  "LICB": {
+    "lat": 36.9946010208,
+    "long": 14.6071815491,
+    "name": "Comiso  Vincenzo Magliocco"
+  },
+  "LICC": {
+    "lat": 37.4668006897,
+    "long": 15.0663995743,
+    "name": "Catania / Fontanarossa "
+  },
+  "LICD": {
+    "lat": 35.4978981018,
+    "long": 12.6181001663,
+    "name": "Lampedusa "
+  },
+  "LICG": {
+    "lat": 36.8165016174,
+    "long": 11.9688997269,
+    "name": "Pantelleria "
+  },
+  "LICJ": {
+    "lat": 38.1759986877,
+    "long": 13.0909996033,
+    "name": "Palermo / Punta Raisi "
+  },
+  "LICP": {
+    "lat": 38.1108016968,
+    "long": 13.3133001328,
+    "name": "Palermo / Bocca Di Falco "
+  },
+  "LICR": {
+    "lat": 38.0712013245,
+    "long": 15.651599884,
+    "name": "Reggio Calabria "
+  },
+  "LICT": {
+    "lat": 37.9113998413,
+    "long": 12.4879999161,
+    "name": "Trapani / Birgi "
+  },
+  "LICZ": {
+    "lat": 37.4016990662,
+    "long": 14.9224004745,
+    "name": "Sigonella "
+  },
+  "LIDA": {
+    "lat": 45.8869018555,
+    "long": 11.5169000626,
+    "name": "Asiago "
+  },
+  "LIDB": {
+    "lat": 46.1674995422,
+    "long": 12.2479000092,
+    "name": "Belluno "
+  },
+  "LIDC": {
+    "lat": 45.0830001831,
+    "long": 12.1499996185,
+    "name": "Ca Negra "
+  },
+  "LIDE": {
+    "lat": 44.698299408,
+    "long": 10.6627998352,
+    "name": "Reggio Emilia "
+  },
+  "LIDF": {
+    "lat": 43.8260002136,
+    "long": 13.0275001526,
+    "name": "Fano "
+  },
+  "LIDG": {
+    "lat": 44.3982009888,
+    "long": 11.8548002243,
+    "name": "Lugo Di Romagna "
+  },
+  "LIDH": {
+    "lat": 45.6757011414,
+    "long": 11.4965000153,
+    "name": "Thiene "
+  },
+  "LIDI": {
+    "lat": 46.5730018616,
+    "long": 12.1180000305,
+    "name": "Cortina "
+  },
+  "LIDL": {
+    "lat": 45.1332015991,
+    "long": 11.2922000885,
+    "name": "Legnago "
+  },
+  "LIDM": {
+    "lat": 45.1358337402,
+    "long": 10.7944440842,
+    "name": "Mantova "
+  },
+  "LIDP": {
+    "lat": 44.3223991394,
+    "long": 10.831700325,
+    "name": "Pavullo "
+  },
+  "LIDR": {
+    "lat": 44.3642997742,
+    "long": 12.2249002457,
+    "name": "Ravenna "
+  },
+  "LIDT": {
+    "lat": 46.0214004517,
+    "long": 11.1241998672,
+    "name": "Trento / Mattarello "
+  },
+  "LIDU": {
+    "lat": 44.8352012634,
+    "long": 10.8716001511,
+    "name": "Carpi / Budrione "
+  },
+  "LIDV": {
+    "lat": 44.7902984619,
+    "long": 11.6691999435,
+    "name": "Prati Vecchi D'Aguscello "
+  },
+  "LIDW": {
+    "lat": 45.6991996765,
+    "long": 12.5431003571,
+    "name": "Salgareda Carrer "
+  },
+  "LIEA": {
+    "lat": 40.6320991516,
+    "long": 8.290769577,
+    "name": "Alghero / Fertilia "
+  },
+  "LIED": {
+    "lat": 39.3541984558,
+    "long": 8.9724798203,
+    "name": "Decimomannu "
+  },
+  "LIEE": {
+    "lat": 39.251499176,
+    "long": 9.0542802811,
+    "name": "Cagliari / Elmas "
+  },
+  "LIEO": {
+    "lat": 40.8987007141,
+    "long": 9.5176296234,
+    "name": "Olbia / Costa Smeralda "
+  },
+  "LIER": {
+    "lat": 39.8942985535,
+    "long": 8.6403999329,
+    "name": "Oristano / Fenosu "
+  },
+  "LIET": {
+    "lat": 39.918800354,
+    "long": 9.6829795837,
+    "name": "Tortoli' / Arbatax "
+  },
+  "LILA": {
+    "lat": 44.925201416,
+    "long": 8.6251296997,
+    "name": "Alessandria "
+  },
+  "LILB": {
+    "lat": 45.770198822,
+    "long": 9.1607198715,
+    "name": "Alzate Brianza "
+  },
+  "LILC": {
+    "lat": 45.8097000122,
+    "long": 8.7680597305,
+    "name": "Calcinate Del Pesce "
+  },
+  "LILE": {
+    "lat": 45.495300293,
+    "long": 8.1027803421,
+    "name": "Biella / Cerrione "
+  },
+  "LILG": {
+    "lat": 45.7131996155,
+    "long": 8.6991195679,
+    "name": "Vergiate "
+  },
+  "LILH": {
+    "lat": 44.9519996643,
+    "long": 9.0165300369,
+    "name": "Voghera-Rivanazzano "
+  },
+  "LILI": {
+    "lat": 45.3111991882,
+    "long": 8.4174203873,
+    "name": "Vercelli "
+  },
+  "LILM": {
+    "lat": 45.1111984253,
+    "long": 8.456029892,
+    "name": "Casale Monferrato "
+  },
+  "LILN": {
+    "lat": 45.7421989441,
+    "long": 8.8882303238,
+    "name": "Varese / Venegono "
+  },
+  "LILO": {
+    "lat": 46.1542015076,
+    "long": 9.7980604172,
+    "name": "Sondrio Caiolo "
+  },
+  "LILQ": {
+    "lat": 43.986000061,
+    "long": 10.1428003311,
+    "name": "Massa Cinquale "
+  },
+  "LILR": {
+    "lat": 45.1674003601,
+    "long": 10.0018997192,
+    "name": "Cremona / Migliaro "
+  },
+  "LILV": {
+    "lat": 45.7207984924,
+    "long": 9.5934696198,
+    "name": "Valbrembo "
+  },
+  "LIMA": {
+    "lat": 45.0863990784,
+    "long": 7.6033701897,
+    "name": "Torino / Aeritalia "
+  },
+  "LIMB": {
+    "lat": 45.5421981812,
+    "long": 9.20333004,
+    "name": "Milano / Bresso "
+  },
+  "LIMC": {
+    "lat": 45.6305999756,
+    "long": 8.7281103134,
+    "name": "Malpensa International "
+  },
+  "LIME": {
+    "lat": 45.6739006042,
+    "long": 9.7041702271,
+    "name": "Bergamo / Orio Al Serio "
+  },
+  "LIMF": {
+    "lat": 45.2008018494,
+    "long": 7.6496300697,
+    "name": "Torino / Caselle International "
+  },
+  "LIMG": {
+    "lat": 44.0505981445,
+    "long": 8.1274299622,
+    "name": "Villanova D'Albenga International "
+  },
+  "LIMJ": {
+    "lat": 44.4132995605,
+    "long": 8.8374996185,
+    "name": "Genova / Sestri Cristoforo Colombo "
+  },
+  "LIML": {
+    "lat": 45.445098877,
+    "long": 9.2767400742,
+    "name": "Linate "
+  },
+  "LIMN": {
+    "lat": 45.5295982361,
+    "long": 8.6692199707,
+    "name": "Cameri "
+  },
+  "LIMP": {
+    "lat": 44.8245010376,
+    "long": 10.2964000702,
+    "name": "Parma "
+  },
+  "LIMR": {
+    "lat": 44.7799987793,
+    "long": 8.7863903046,
+    "name": "Novi Ligure Glider "
+  },
+  "LIMS": {
+    "lat": 44.9131011963,
+    "long": 9.7233295441,
+    "name": "Piacenza "
+  },
+  "LIMW": {
+    "lat": 45.7384986877,
+    "long": 7.3687200546,
+    "name": "Aosta "
+  },
+  "LIMZ": {
+    "lat": 44.547000885,
+    "long": 7.6232199669,
+    "name": "Cuneo / Levaldigi "
+  },
+  "LINL": {
+    "lat": 40.3576011658,
+    "long": 18.2938995361,
+    "name": "Lecce / Lepore "
+  },
+  "LIPA": {
+    "lat": 46.0318984985,
+    "long": 12.5965003967,
+    "name": "Aviano Air Base"
+  },
+  "LIPB": {
+    "lat": 46.4602012634,
+    "long": 11.3263998032,
+    "name": "Bolzano "
+  },
+  "LIPC": {
+    "lat": 44.2242012024,
+    "long": 12.3072004318,
+    "name": "Cervia Air Force Base"
+  },
+  "LIPD": {
+    "lat": 46.0321998596,
+    "long": 13.1868000031,
+    "name": "Udine / Campoformido Air Base"
+  },
+  "LIPE": {
+    "lat": 44.5354003906,
+    "long": 11.2887001038,
+    "name": "Bologna / Borgo Panigale "
+  },
+  "LIPF": {
+    "lat": 44.8160018921,
+    "long": 11.6134004593,
+    "name": "Ferrara "
+  },
+  "LIPG": {
+    "lat": 45.9068984985,
+    "long": 13.5993003845,
+    "name": "Gorizia "
+  },
+  "LIPH": {
+    "lat": 45.648399353,
+    "long": 12.1943998337,
+    "name": "Treviso / Sant'Angelo "
+  },
+  "LIPI": {
+    "lat": 45.9786987305,
+    "long": 13.0493001938,
+    "name": "Rivolto Air Base"
+  },
+  "LIPK": {
+    "lat": 44.1948013306,
+    "long": 12.0700998306,
+    "name": "Forli "
+  },
+  "LIPL": {
+    "lat": 45.4322013855,
+    "long": 10.2677001953,
+    "name": "Ghedi "
+  },
+  "LIPM": {
+    "lat": 44.6348991394,
+    "long": 10.8101997375,
+    "name": "Modena / Marzaglia "
+  },
+  "LIPN": {
+    "lat": 45.4720001221,
+    "long": 10.9279003143,
+    "name": "Verona / Boscomantico "
+  },
+  "LIPO": {
+    "lat": 45.4289016724,
+    "long": 10.3305997849,
+    "name": "Brescia / Montichiari "
+  },
+  "LIPQ": {
+    "lat": 45.8274993896,
+    "long": 13.4722003937,
+    "name": "Trieste / Ronchi Dei Legionari"
+  },
+  "LIPR": {
+    "lat": 44.0203018188,
+    "long": 12.611700058,
+    "name": "Rimini / Miramare - Federico Fellini International "
+  },
+  "LIPS": {
+    "lat": 45.6848983765,
+    "long": 12.0829000473,
+    "name": "Istrana "
+  },
+  "LIPT": {
+    "lat": 45.5733985901,
+    "long": 11.5295000076,
+    "name": "Vicenza "
+  },
+  "LIPU": {
+    "lat": 45.3958015442,
+    "long": 11.8479003906,
+    "name": "Padova "
+  },
+  "LIPV": {
+    "lat": 45.4282989502,
+    "long": 12.3880996704,
+    "name": "Venezia / Lido - San Nicolo "
+  },
+  "LIPX": {
+    "lat": 45.3956985474,
+    "long": 10.8885002136,
+    "name": "Verona / Villafranca "
+  },
+  "LIPY": {
+    "lat": 43.6162986755,
+    "long": 13.3622999191,
+    "name": "Ancona / Falconara "
+  },
+  "LIPZ": {
+    "lat": 45.5052986145,
+    "long": 12.3519001007,
+    "name": "Venezia / Tessera -  Marco Polo "
+  },
+  "LIQB": {
+    "lat": 43.4558982849,
+    "long": 11.8470001221,
+    "name": "Arezzo "
+  },
+  "LIQL": {
+    "lat": 43.8282012939,
+    "long": 10.5781002045,
+    "name": "Lucca / Tassignano "
+  },
+  "LIQN": {
+    "lat": 42.4272003174,
+    "long": 12.8516998291,
+    "name": "Rieti "
+  },
+  "LIQS": {
+    "lat": 43.2563018799,
+    "long": 11.2550001144,
+    "name": "Siena / Ampugnano "
+  },
+  "LIQW": {
+    "lat": 44.0880012512,
+    "long": 9.987950325,
+    "name": "Sarzana / Luni Military "
+  },
+  "LIRA": {
+    "lat": 41.7994003296,
+    "long": 12.5949001312,
+    "name": "Ciampino "
+  },
+  "LIRE": {
+    "lat": 41.654499054,
+    "long": 12.4451999664,
+    "name": "Pratica Di Mare "
+  },
+  "LIRF": {
+    "lat": 41.8045005798,
+    "long": 12.2508001328,
+    "name": "Leonardo Da Vinci (Fiumicino) International "
+  },
+  "LIRG": {
+    "lat": 41.9902992249,
+    "long": 12.7407999039,
+    "name": "Guidonia "
+  },
+  "LIRH": {
+    "lat": 41.6464004517,
+    "long": 13.2997999191,
+    "name": "Frosinone Military "
+  },
+  "LIRI": {
+    "lat": 40.6203994751,
+    "long": 14.9112997055,
+    "name": "Salerno / Pontecagnano "
+  },
+  "LIRJ": {
+    "lat": 42.7602996826,
+    "long": 10.23939991,
+    "name": "Marina Di Campo "
+  },
+  "LIRL": {
+    "lat": 41.5424003601,
+    "long": 12.9090003967,
+    "name": "Latina "
+  },
+  "LIRM": {
+    "lat": 41.060798645,
+    "long": 14.0818996429,
+    "name": "Grazzanise "
+  },
+  "LIRN": {
+    "lat": 40.8860015869,
+    "long": 14.2908000946,
+    "name": "Napoli / Capodichino International "
+  },
+  "LIRP": {
+    "lat": 43.6838989258,
+    "long": 10.3927001953,
+    "name": "Pisa / San Giusto - Galileo Galilei International "
+  },
+  "LIRQ": {
+    "lat": 43.8100013733,
+    "long": 11.2051000595,
+    "name": "Firenze / Peretola "
+  },
+  "LIRS": {
+    "lat": 42.7597007751,
+    "long": 11.0719003677,
+    "name": "Grosseto "
+  },
+  "LIRU": {
+    "lat": 41.9519004822,
+    "long": 12.4989004135,
+    "name": "Urbe "
+  },
+  "LIRV": {
+    "lat": 42.4301986694,
+    "long": 12.0642004013,
+    "name": "Viterbo "
+  },
+  "LIRZ": {
+    "lat": 43.0959014893,
+    "long": 12.5131998062,
+    "name": "Perugia / San Egidio "
+  }
+}

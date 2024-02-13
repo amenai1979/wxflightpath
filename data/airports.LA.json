@@ -1,0 +1,72 @@
+{
+  "VLAP": {
+    "lat": 14.814715357,
+    "long": 106.821699142,
+    "name": "Attopeu "
+  },
+  "VLHS": {
+    "lat": 20.2572994232,
+    "long": 100.43699646,
+    "name": "Ban Huoeisay "
+  },
+  "VLLB": {
+    "lat": 19.8973007202,
+    "long": 102.1610031128,
+    "name": "Luang Phabang International "
+  },
+  "VLLN": {
+    "lat": 20.966999054,
+    "long": 101.4000015259,
+    "name": "Luang Namtha "
+  },
+  "VLOS": {
+    "lat": 20.6826992035,
+    "long": 101.9940032959,
+    "name": "Oudomsay "
+  },
+  "VLPS": {
+    "lat": 15.1321001053,
+    "long": 105.78099823,
+    "name": "Pakse International "
+  },
+  "VLPV": {
+    "lat": 19.4549007416,
+    "long": 103.2180023193,
+    "name": "Phonesavanh "
+  },
+  "VLSB": {
+    "lat": 19.2329998016,
+    "long": 101.733001709,
+    "name": "Sayaboury "
+  },
+  "VLSK": {
+    "lat": 16.5566005707,
+    "long": 104.7600021362,
+    "name": "Savannakhet "
+  },
+  "VLSN": {
+    "lat": 20.4183998108,
+    "long": 104.0670013428,
+    "name": "Sam Neua "
+  },
+  "VLSV": {
+    "lat": 15.7094392077,
+    "long": 106.410698891,
+    "name": "Saravane "
+  },
+  "VLTK": {
+    "lat": 17.3999996185,
+    "long": 104.8000030518,
+    "name": "Thakhek "
+  },
+  "VLVT": {
+    "lat": 17.9883003235,
+    "long": 102.56300354,
+    "name": "Wattay International "
+  },
+  "VLXK": {
+    "lat": 19.4500007629,
+    "long": 103.1579971313,
+    "name": "Xieng Khouang "
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "MYA0": {
+    "lat": 26.3176994324,
+    "long": -77.5635986328,
+    "name": "Mores Island "
+  },
+  "MYAB": {
+    "lat": 24.2877006531,
+    "long": -77.6846008301,
+    "name": "Clarence A. Bain "
+  },
+  "MYAF": {
+    "lat": 24.6979007721,
+    "long": -77.7956008911,
+    "name": "Andros Town "
+  },
+  "MYAK": {
+    "lat": 24.158700943,
+    "long": -77.5897979736,
+    "name": "Congo Town "
+  },
+  "MYAM": {
+    "lat": 26.5114002228,
+    "long": -77.0835037231,
+    "name": "Marsh Harbour International "
+  },
+  "MYAN": {
+    "lat": 25.0538005829,
+    "long": -78.0490036011,
+    "name": "San Andros "
+  },
+  "MYAP": {
+    "lat": 22.4417991638,
+    "long": -73.9709014893,
+    "name": "Spring Point "
+  },
+  "MYAS": {
+    "lat": 26.0046005249,
+    "long": -77.3955001831,
+    "name": "Sandy Point "
+  },
+  "MYAT": {
+    "lat": 26.745300293,
+    "long": -77.3912963867,
+    "name": "Treasure Cay "
+  },
+  "MYAW": {
+    "lat": 27.2667007446,
+    "long": -78.3996963501,
+    "name": "Abaco I Walker C "
+  },
+  "MYAX": {
+    "lat": 26.9503002167,
+    "long": -77.543800354,
+    "name": "Spanish Cay "
+  },
+  "MYBC": {
+    "lat": 25.4171009064,
+    "long": -77.880897522,
+    "name": "Chub Cay "
+  },
+  "MYBG": {
+    "lat": 25.7383003235,
+    "long": -77.8401031494,
+    "name": "Great Harbour Cay "
+  },
+  "MYBS": {
+    "lat": 25.6998996735,
+    "long": -79.2647018433,
+    "name": "South Bimini "
+  },
+  "MYCA": {
+    "lat": 24.6294002533,
+    "long": -75.6737976074,
+    "name": "Arthur's Town "
+  },
+  "MYCB": {
+    "lat": 24.3152999878,
+    "long": -75.4523010254,
+    "name": "New Bight "
+  },
+  "MYCC": {
+    "lat": 25.6000003815,
+    "long": -79.266998291,
+    "name": "Cat Cay "
+  },
+  "MYCH": {
+    "lat": 24.1536006927,
+    "long": -75.5199966431,
+    "name": "Hawks News "
+  },
+  "MYCI": {
+    "lat": 22.7455997467,
+    "long": -74.1824035645,
+    "name": "Colonel Hill "
+  },
+  "MYCP": {
+    "lat": 22.82970047,
+    "long": -74.3460998535,
+    "name": "Pitts Town "
+  },
+  "MYCS": {
+    "lat": 23.6963996887,
+    "long": -80.3212966919,
+    "name": "Cay Sal "
+  },
+  "MYCX": {
+    "lat": 24.1488990784,
+    "long": -75.3981018066,
+    "name": "Cutlass Bay "
+  },
+  "MYEB": {
+    "lat": 24.0894884488,
+    "long": -76.3979172707,
+    "name": "Black Point Airstrip"
+  },
+  "MYEF": {
+    "lat": 23.5625991821,
+    "long": -75.8779983521,
+    "name": "Exuma International "
+  },
+  "MYEG": {
+    "lat": 23.4666996002,
+    "long": -75.7817001343,
+    "name": "George Town "
+  },
+  "MYEH": {
+    "lat": 25.474899292,
+    "long": -76.6835021973,
+    "name": "North Eleuthera "
+  },
+  "MYEL": {
+    "lat": 23.7756004333,
+    "long": -76.1035995483,
+    "name": "Lee Stocking "
+  },
+  "MYEM": {
+    "lat": 25.2847003937,
+    "long": -76.3310012817,
+    "name": "Governor's Harbour "
+  },
+  "MYEN": {
+    "lat": 24.5942993164,
+    "long": -76.8201980591,
+    "name": "Normans Cay "
+  },
+  "MYER": {
+    "lat": 24.8950787333,
+    "long": -76.1768817902,
+    "name": "Rock Sound "
+  },
+  "MYES": {
+    "lat": 24.1690998077,
+    "long": -76.4391021729,
+    "name": "Staniel Cay "
+  },
+  "MYEY": {
+    "lat": 23.3971996307,
+    "long": -75.4969024658,
+    "name": "Hog Cay "
+  },
+  "MYGD": {
+    "lat": 26.6317005157,
+    "long": -77.9216995239,
+    "name": "Deep Water Cay "
+  },
+  "MYGF": {
+    "lat": 26.5587005615,
+    "long": -78.695602417,
+    "name": "Grand Bahama International "
+  },
+  "MYGM": {
+    "lat": 26.6319007874,
+    "long": -78.3591995239,
+    "name": "Auxiliary Airfield"
+  },
+  "MYGW": {
+    "lat": 26.685300827,
+    "long": -78.9749984741,
+    "name": "West End "
+  },
+  "MYIG": {
+    "lat": 20.9750003815,
+    "long": -73.6669006348,
+    "name": "Inagua "
+  },
+  "MYLD": {
+    "lat": 23.1790008545,
+    "long": -75.0935974121,
+    "name": "Deadman's Cay "
+  },
+  "MYLS": {
+    "lat": 23.5823168043,
+    "long": -75.2686214447,
+    "name": "Stella Maris "
+  },
+  "MYMM": {
+    "lat": 22.3794994354,
+    "long": -73.0134963989,
+    "name": "Mayaguana "
+  },
+  "MYNN": {
+    "lat": 25.0389995575,
+    "long": -77.4662017822,
+    "name": "Lynden Pindling International "
+  },
+  "MYPI": {
+    "lat": 25.0830001831,
+    "long": -77.3000030518,
+    "name": "Nassau Paradise Island "
+  },
+  "MYRD": {
+    "lat": 22.1818008423,
+    "long": -75.7294998169,
+    "name": "Duncan Town "
+  },
+  "MYRP": {
+    "lat": 23.6844005585,
+    "long": -74.8361968994,
+    "name": "Rum Cay "
+  },
+  "MYSM": {
+    "lat": 24.0632991791,
+    "long": -74.5240020752,
+    "name": "San Salvador "
+  },
+  "MYX4": {
+    "lat": 25.3995990753,
+    "long": -77.7910003662,
+    "name": "Big Whale Cay "
+  },
+  "MYX5": {
+    "lat": 25.7786998749,
+    "long": -77.8852005005,
+    "name": "Cistern Field"
+  },
+  "MYX7": {
+    "lat": 23.8864002228,
+    "long": -76.2537002563,
+    "name": "Rudder Cut Cay "
+  },
+  "MYX8": {
+    "lat": 23.8502998352,
+    "long": -76.2282028198,
+    "name": "Darby Island "
+  },
+  "MYXC": {
+    "lat": 23.6007003784,
+    "long": -75.339302063,
+    "name": "Hog Key "
+  },
+  "MYXD": {
+    "lat": 24.1492004395,
+    "long": -76.4664001465,
+    "name": "Leaf Cay "
+  },
+  "MYXH": {
+    "lat": 24.2159996033,
+    "long": -76.4785003662,
+    "name": "Sampson Cay "
+  },
+  "MYZ2": {
+    "lat": 24.789899826,
+    "long": -76.2939987183,
+    "name": "Cape Eleuthera "
+  },
+  "MYZ3": {
+    "lat": 25.4417991638,
+    "long": -77.7617034912,
+    "name": "Little Whale Cay Berry Islands "
+  }
+}

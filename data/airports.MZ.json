@@ -1,0 +1,127 @@
+{
+  "FQ49": {
+    "lat": -21.1644992828,
+    "long": 34.5606994629,
+    "name": "Vila Franca do Save "
+  },
+  "FQAG": {
+    "lat": -16.1818695068,
+    "long": 39.9452171326,
+    "name": "Angoche "
+  },
+  "FQBI": {
+    "lat": -25.2659854889,
+    "long": 33.2385978699,
+    "name": "Bilene "
+  },
+  "FQBR": {
+    "lat": -19.7964000702,
+    "long": 34.9076004028,
+    "name": "Beira "
+  },
+  "FQCB": {
+    "lat": -14.8149995804,
+    "long": 36.5299987793,
+    "name": "Cuamba "
+  },
+  "FQCH": {
+    "lat": -19.1513004303,
+    "long": 33.4290008545,
+    "name": "Chimoio "
+  },
+  "FQFU": {
+    "lat": -14.9186000824,
+    "long": 33.6282997131,
+    "name": "Furancungo "
+  },
+  "FQIA": {
+    "lat": -25.9971446991,
+    "long": 32.9293518066,
+    "name": "Inhaca "
+  },
+  "FQIN": {
+    "lat": -23.8763999939,
+    "long": 35.4085006714,
+    "name": "Inhambane "
+  },
+  "FQLC": {
+    "lat": -13.2740001678,
+    "long": 35.2663002014,
+    "name": "Lichinga "
+  },
+  "FQLU": {
+    "lat": -15.0331001282,
+    "long": 40.6716995239,
+    "name": "Lumbo "
+  },
+  "FQMA": {
+    "lat": -25.9207992554,
+    "long": 32.5726013184,
+    "name": "Maputo "
+  },
+  "FQMD": {
+    "lat": -11.6729001999,
+    "long": 39.5630989075,
+    "name": "Mueda "
+  },
+  "FQMP": {
+    "lat": -11.3618001938,
+    "long": 40.3549003601,
+    "name": "Mocimboa da Praia "
+  },
+  "FQMR": {
+    "lat": -13.2250995636,
+    "long": 37.5521011353,
+    "name": "Marrupa "
+  },
+  "FQNC": {
+    "lat": -14.4882001877,
+    "long": 40.7122001648,
+    "name": "Nacala "
+  },
+  "FQNP": {
+    "lat": -15.1056003571,
+    "long": 39.2817993164,
+    "name": "Nampula "
+  },
+  "FQPB": {
+    "lat": -12.9917621613,
+    "long": 40.5240135193,
+    "name": "Pemba "
+  },
+  "FQPO": {
+    "lat": -26.8285522461,
+    "long": 32.8377075195,
+    "name": "Ponta do Ouro "
+  },
+  "FQQL": {
+    "lat": -17.8554992676,
+    "long": 36.8690986633,
+    "name": "Quelimane "
+  },
+  "FQSG": {
+    "lat": -15.6027002335,
+    "long": 32.7732009888,
+    "name": "Songo "
+  },
+  "FQTT": {
+    "lat": -16.1047992706,
+    "long": 33.6402015686,
+    "name": "Chingozi "
+  },
+  "FQUG": {
+    "lat": -14.7046003342,
+    "long": 34.3524017334,
+    "name": "Ulongwe "
+  },
+  "FQVL": {
+    "lat": -22.0184001923,
+    "long": 35.3133010864,
+    "name": "Vilankulo "
+  },
+  "FQXA": {
+    "lat": -25.0377998352,
+    "long": 33.6273994446,
+    "name": "Xai-Xai "
+  }
+}

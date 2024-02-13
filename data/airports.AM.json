@@ -1,0 +1,32 @@
+{
+  "UD21": {
+    "lat": 40.2941017151,
+    "long": 44.5646018982,
+    "name": "Yerevan Yegvard "
+  },
+  "UDLS": {
+    "lat": 41.048500061,
+    "long": 44.3372001648,
+    "name": "Stepanavan "
+  },
+  "UDSG": {
+    "lat": 40.7504005432,
+    "long": 43.8592987061,
+    "name": "Gyumri Shirak "
+  },
+  "UDYE": {
+    "lat": 40.1221008301,
+    "long": 44.4650001526,
+    "name": "Erebuni "
+  },
+  "UDYZ": {
+    "lat": 40.1473007202,
+    "long": 44.3959007263,
+    "name": "Zvartnots International "
+  },
+  "UGEJ": {
+    "lat": 39.8240013123,
+    "long": 45.6739997864,
+    "name": "Dzhermuk "
+  }
+}

@@ -1,0 +1,404 @@
+{
+    "JY04": {
+        "lat": 39.0651016235,
+        "long": -74.9095993042,
+        "name": "Paramount Air ",
+        "state": "New-Jersey"
+    },
+    "JY07": {
+        "lat": 40.6957015991,
+        "long": -75.1324005127,
+        "name": "Air-List-Ads ",
+        "state": "New-Jersey"
+    },
+    "JY08": {
+        "lat": 39.650100708,
+        "long": -75.2841033936,
+        "name": "Var-Sky ",
+        "state": "New-Jersey"
+    },
+    "JY17": {
+        "lat": 39.4721984863,
+        "long": -75.2774963379,
+        "name": "Woodcrest Farms Airstrip",
+        "state": "New-Jersey"
+    },
+    "JY24": {
+        "lat": 40.9236984253,
+        "long": -74.8703994751,
+        "name": "Weiss Farm ",
+        "state": "New-Jersey"
+    },
+    "JY31": {
+        "lat": 39.4468002319,
+        "long": -75.3132019043,
+        "name": "Wide Sky Airpark",
+        "state": "New-Jersey"
+    },
+    "JY39": {
+        "lat": 39.661111,
+        "long": -75.465278,
+        "name": "Rainbow'S End ",
+        "state": "New-Jersey"
+    },
+    "JY43": {
+        "lat": 41.08322144,
+        "long": -74.33855438,
+        "name": "Hill Top ",
+        "state": "New-Jersey"
+    },
+    "K12N": {
+        "lat": 41.0085983276,
+        "long": -74.7379989624,
+        "name": "Aeroflex-Andover ",
+        "state": "New-Jersey"
+    },
+    "K17N": {
+        "lat": 39.7055015564,
+        "long": -75.0329971313,
+        "name": "Cross Keys ",
+        "state": "New-Jersey"
+    },
+    "K19N": {
+        "lat": 39.77840042,
+        "long": -74.94779968,
+        "name": "Camden County ",
+        "state": "New-Jersey"
+    },
+    "K31E": {
+        "lat": 39.6654014587,
+        "long": -74.3078994751,
+        "name": "Eagles Nest ",
+        "state": "New-Jersey"
+    },
+    "K3N6": {
+        "lat": 40.3298988342,
+        "long": -74.3468017578,
+        "name": "Old Bridge ",
+        "state": "New-Jersey"
+    },
+    "KACY": {
+        "lat": 39.4575996399,
+        "long": -74.5772018433,
+        "name": "Atlantic City International ",
+        "state": "New-Jersey"
+    },
+    "KBLM": {
+        "lat": 40.18690109,
+        "long": -74.12490082,
+        "name": "Monmouth Executive ",
+        "state": "New-Jersey"
+    },
+    "KCDW": {
+        "lat": 40.8751983643,
+        "long": -74.2814025879,
+        "name": "Essex County ",
+        "state": "New-Jersey"
+    },
+    "KEWR": {
+        "lat": 40.6925010681,
+        "long": -74.1687011719,
+        "name": "Newark Liberty International ",
+        "state": "New-Jersey"
+    },
+    "KFWN": {
+        "lat": 41.2001991272,
+        "long": -74.6230010986,
+        "name": "Sussex ",
+        "state": "New-Jersey"
+    },
+    "KLDJ": {
+        "lat": 40.617401123,
+        "long": -74.2445983887,
+        "name": "Linden ",
+        "state": "New-Jersey"
+    },
+    "KMIV": {
+        "lat": 39.3678016663,
+        "long": -75.0721969604,
+        "name": "Millville Municipal ",
+        "state": "New-Jersey"
+    },
+    "KMJX": {
+        "lat": 39.92750168,
+        "long": -74.29239655,
+        "name": "Robert J. Miller Air Park",
+        "state": "New-Jersey"
+    },
+    "KMMU": {
+        "lat": 40.7994003296,
+        "long": -74.4149017334,
+        "name": "Morristown Municipal ",
+        "state": "New-Jersey"
+    },
+    "KN12": {
+        "lat": 40.0667991638,
+        "long": -74.177696228,
+        "name": "Lakewood ",
+        "state": "New-Jersey"
+    },
+    "KN14": {
+        "lat": 39.934299469,
+        "long": -74.8072967529,
+        "name": "Flying W ",
+        "state": "New-Jersey"
+    },
+    "KN40": {
+        "lat": 40.5662994385,
+        "long": -74.9785995483,
+        "name": "Sky Manor ",
+        "state": "New-Jersey"
+    },
+    "KN51": {
+        "lat": 40.5836982727,
+        "long": -74.7361984253,
+        "name": "Solberg Hunterdon ",
+        "state": "New-Jersey"
+    },
+    "KN73": {
+        "lat": 39.9042015076,
+        "long": -74.74949646,
+        "name": "Red Lion ",
+        "state": "New-Jersey"
+    },
+    "KN81": {
+        "lat": 39.66749954,
+        "long": -74.75769806,
+        "name": "Hammonton Municipal ",
+        "state": "New-Jersey"
+    },
+    "KNEL": {
+        "lat": 40.03329849,
+        "long": -74.353302,
+        "name": "Lakehurst NAES /Maxfield Field",
+        "state": "New-Jersey"
+    },
+    "KOBI": {
+        "lat": 39.2192001343,
+        "long": -74.7947998047,
+        "name": "Woodbine Municipal ",
+        "state": "New-Jersey"
+    },
+    "KSMQ": {
+        "lat": 40.6259994507,
+        "long": -74.6701965332,
+        "name": "Somerset ",
+        "state": "New-Jersey"
+    },
+    "KTEB": {
+        "lat": 40.8501014709,
+        "long": -74.060798645,
+        "name": "Teterboro ",
+        "state": "New-Jersey"
+    },
+    "KTTN": {
+        "lat": 40.2766990662,
+        "long": -74.8134994507,
+        "name": "Trenton Mercer ",
+        "state": "New-Jersey"
+    },
+    "KVAY": {
+        "lat": 39.9429016113,
+        "long": -74.845703125,
+        "name": "South Jersey Regional ",
+        "state": "New-Jersey"
+    },
+    "KWRI": {
+        "lat": 40.0155983,
+        "long": -74.59169769,
+        "name": "Mc Guire Air Force Base",
+        "state": "New-Jersey"
+    },
+    "KWWD": {
+        "lat": 39.0084991455,
+        "long": -74.9083023071,
+        "name": "Cape May County ",
+        "state": "New-Jersey"
+    },
+    "NJ02": {
+        "lat": 39.5418014526,
+        "long": -75.304397583,
+        "name": "Alloway Airfield",
+        "state": "New-Jersey"
+    },
+    "NJ06": {
+        "lat": 39.4575996399,
+        "long": -75.2732009888,
+        "name": "B J Farms ",
+        "state": "New-Jersey"
+    },
+    "NJ09": {
+        "lat": 40.7918014526,
+        "long": -75.0703964233,
+        "name": "Matthews ",
+        "state": "New-Jersey"
+    },
+    "NJ16": {
+        "lat": 40.749066667,
+        "long": -74.862786111,
+        "name": "Sliker Strip",
+        "state": "New-Jersey"
+    },
+    "NJ20": {
+        "lat": 39.8125991821,
+        "long": -74.4245986938,
+        "name": "Coyle Field",
+        "state": "New-Jersey"
+    },
+    "NJ24": {
+        "lat": 39.6967010498,
+        "long": -74.4000015259,
+        "name": "Warren Grove Range ",
+        "state": "New-Jersey"
+    },
+    "NJ25": {
+        "lat": 39.7892990112,
+        "long": -75.2291030884,
+        "name": "Peaslees Airstrip",
+        "state": "New-Jersey"
+    },
+    "NJ30": {
+        "lat": 39.5307998657,
+        "long": -75.4772033691,
+        "name": "Paruszewski Farm Strip",
+        "state": "New-Jersey"
+    },
+    "NJ46": {
+        "lat": 40.2765007019,
+        "long": -74.3884963989,
+        "name": "Mar Bar L Farms ",
+        "state": "New-Jersey"
+    },
+    "NJ47": {
+        "lat": 40.5167999268,
+        "long": -74.8828964233,
+        "name": "Teeny Weeny Acres ",
+        "state": "New-Jersey"
+    },
+    "NJ49": {
+        "lat": 40.5007019043,
+        "long": -74.9560012817,
+        "name": "Bradford Field",
+        "state": "New-Jersey"
+    },
+    "NJ50": {
+        "lat": 40.4807014465,
+        "long": -74.9617996216,
+        "name": "The Landing ",
+        "state": "New-Jersey"
+    },
+    "NJ52": {
+        "lat": 39.5918006897,
+        "long": -74.8246002197,
+        "name": "Folsom ",
+        "state": "New-Jersey"
+    },
+    "NJ58": {
+        "lat": 39.3926010132,
+        "long": -74.606300354,
+        "name": "Nordheim Flying K Airpark",
+        "state": "New-Jersey"
+    },
+    "NJ59": {
+        "lat": 40.1828994751,
+        "long": -74.2788009644,
+        "name": "Ekdahl ",
+        "state": "New-Jersey"
+    },
+    "NJ60": {
+        "lat": 40.1870994568,
+        "long": -74.2670974731,
+        "name": "Cuddihy Landing Strip",
+        "state": "New-Jersey"
+    },
+    "NJ61": {
+        "lat": 40.5500984192,
+        "long": -75.0162963867,
+        "name": "Malone ",
+        "state": "New-Jersey"
+    },
+    "NJ63": {
+        "lat": 40.4678993225,
+        "long": -75.0503997803,
+        "name": "Eagles Lair ",
+        "state": "New-Jersey"
+    },
+    "NJ64": {
+        "lat": 39.7056999207,
+        "long": -75.0802001953,
+        "name": "Reeder ",
+        "state": "New-Jersey"
+    },
+    "NJ65": {
+        "lat": 40.8534011841,
+        "long": -74.9296035767,
+        "name": "John E. Rogers ",
+        "state": "New-Jersey"
+    },
+    "NJ69": {
+        "lat": 39.6585006714,
+        "long": -74.8023986816,
+        "name": "Ideal Mfg Corp ",
+        "state": "New-Jersey"
+    },
+    "NJ72": {
+        "lat": 40.3512001038,
+        "long": -74.1812973022,
+        "name": "Hop Brook Farm ",
+        "state": "New-Jersey"
+    },
+    "NJ74": {
+        "lat": 39.5625991821,
+        "long": -75.4496002197,
+        "name": "Salem Airfield",
+        "state": "New-Jersey"
+    },
+    "NJ75": {
+        "lat": 40.3501014709,
+        "long": -74.3663024902,
+        "name": "Werner Private ",
+        "state": "New-Jersey"
+    },
+    "NJ79": {
+        "lat": 40.3515014648,
+        "long": -74.9093017578,
+        "name": "Goat Hill ",
+        "state": "New-Jersey"
+    },
+    "NJ81": {
+        "lat": 39.4422988892,
+        "long": -74.9427032471,
+        "name": "Free Spirit ",
+        "state": "New-Jersey"
+    },
+    "NJ84": {
+        "lat": 39.4331016541,
+        "long": -75.396697998,
+        "name": "Hidden Acres Farm ",
+        "state": "New-Jersey"
+    },
+    "NJ95": {
+        "lat": 40.5556983948,
+        "long": -75.0724029541,
+        "name": "Herr Brothers ",
+        "state": "New-Jersey"
+    },
+    "NJ96": {
+        "lat": 39.5261993408,
+        "long": -74.9565963745,
+        "name": "Als Landing Strip",
+        "state": "New-Jersey"
+    },
+    "NJ98": {
+        "lat": 41.3167991638,
+        "long": -74.7496032715,
+        "name": "Zitone ",
+        "state": "New-Jersey"
+    },
+    "PA77": {
+        "lat": 40.5000991821,
+        "long": -75.0662994385,
+        "name": "Erwinna Private ",
+        "state": "New-Jersey"
+    }
+}

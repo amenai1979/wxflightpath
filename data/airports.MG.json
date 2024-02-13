@@ -1,0 +1,322 @@
+{
+  "FM43": {
+    "lat": -12.2560997009,
+    "long": 49.2541999817,
+    "name": "Antsiranana Andrakaka "
+  },
+  "FMFE": {
+    "lat": -18.9175,
+    "long": 48.2181944444,
+    "name": "Moramanga Aerodrome"
+  },
+  "FMFZ": {
+    "lat": -18.1958013864,
+    "long": 49.348526001,
+    "name": "Betainomby "
+  },
+  "FMMA": {
+    "lat": -19.0289993286,
+    "long": 47.1717987061,
+    "name": "Antananarivo Arivonimamo "
+  },
+  "FMMC": {
+    "lat": -20.3553902921,
+    "long": 45.5433726311,
+    "name": "Malaimbandy "
+  },
+  "FMME": {
+    "lat": -19.8392214824,
+    "long": 47.0637130737,
+    "name": "Antsirabe "
+  },
+  "FMMG": {
+    "lat": -18.7012732424,
+    "long": 44.6149206161,
+    "name": "Antsalova "
+  },
+  "FMMH": {
+    "lat": -19.8330001831,
+    "long": 48.7999992371,
+    "name": "Mahanoro "
+  },
+  "FMMI": {
+    "lat": -18.7968997955,
+    "long": 47.4788017273,
+    "name": "Ivato "
+  },
+  "FMMJ": {
+    "lat": -17.4644789611,
+    "long": 48.3267116547,
+    "name": "Ambohijanahary "
+  },
+  "FMMK": {
+    "lat": -18.8050095209,
+    "long": 45.2734673023,
+    "name": "Ankavandra "
+  },
+  "FMML": {
+    "lat": -19.6867008209,
+    "long": 44.5419006348,
+    "name": "Belo sur Tsiribihina "
+  },
+  "FMMN": {
+    "lat": -19.5627994537,
+    "long": 45.4508018494,
+    "name": "Miandrivazo "
+  },
+  "FMMO": {
+    "lat": -18.0499992371,
+    "long": 44.033000946,
+    "name": "Maintirano "
+  },
+  "FMMP": {
+    "lat": -17.6545730219,
+    "long": 48.2144451141,
+    "name": "Amparafaravola "
+  },
+  "FMMQ": {
+    "lat": -19.5830001831,
+    "long": 48.8030014038,
+    "name": "Atsinanana "
+  },
+  "FMMR": {
+    "lat": -17.850083459,
+    "long": 44.9204671383,
+    "name": "Morafenobe "
+  },
+  "FMMS": {
+    "lat": -17.0939006805,
+    "long": 49.8157997131,
+    "name": "Sainte Marie "
+  },
+  "FMMT": {
+    "lat": -18.109500885,
+    "long": 49.3925018311,
+    "name": "Toamasina "
+  },
+  "FMMU": {
+    "lat": -17.4761009216,
+    "long": 43.9728012085,
+    "name": "Tambohorano "
+  },
+  "FMMV": {
+    "lat": -20.2847003937,
+    "long": 44.3176002502,
+    "name": "Morondava "
+  },
+  "FMMX": {
+    "lat": -18.7596765564,
+    "long": 46.0540652275,
+    "name": "Tsiroanomandidy "
+  },
+  "FMMY": {
+    "lat": -19.383333,
+    "long": 48.95,
+    "name": "Vatomandry "
+  },
+  "FMMZ": {
+    "lat": -17.7953776085,
+    "long": 48.4425830841,
+    "name": "Ambatondrazaka "
+  },
+  "FMNA": {
+    "lat": -12.3493995667,
+    "long": 49.2916984558,
+    "name": "Arrachart "
+  },
+  "FMNC": {
+    "lat": -16.1639003754,
+    "long": 49.7737998962,
+    "name": "Mananara Nord "
+  },
+  "FMND": {
+    "lat": -14.6517000198,
+    "long": 49.6206016541,
+    "name": "Andapa "
+  },
+  "FMNE": {
+    "lat": -13.1884002686,
+    "long": 48.9879989624,
+    "name": "Ambilobe "
+  },
+  "FMNF": {
+    "lat": -15.1999998093,
+    "long": 48.483001709,
+    "name": "Avaratra "
+  },
+  "FMNG": {
+    "lat": -15.5842864741,
+    "long": 47.6235866547,
+    "name": "Port Berge "
+  },
+  "FMNH": {
+    "lat": -14.9994001389,
+    "long": 50.3202018738,
+    "name": "Antsirabato "
+  },
+  "FMNJ": {
+    "lat": -13.6457053132,
+    "long": 48.4594273567,
+    "name": "Ambanja "
+  },
+  "FMNL": {
+    "lat": -14.629699707,
+    "long": 47.7638015747,
+    "name": "Analalava "
+  },
+  "FMNM": {
+    "lat": -15.6668417421,
+    "long": 46.3512325287,
+    "name": "Amborovy "
+  },
+  "FMNN": {
+    "lat": -13.3121004105,
+    "long": 48.3148002625,
+    "name": "Fascene "
+  },
+  "FMNO": {
+    "lat": -16.1016904207,
+    "long": 45.3588366508,
+    "name": "Soalala "
+  },
+  "FMNP": {
+    "lat": -16.0722693402,
+    "long": 47.6441645622,
+    "name": "Mampikony "
+  },
+  "FMNQ": {
+    "lat": -16.7445302965,
+    "long": 44.4824838638,
+    "name": "Besalampy "
+  },
+  "FMNR": {
+    "lat": -15.4366998672,
+    "long": 49.6883010864,
+    "name": "Maroantsetra "
+  },
+  "FMNS": {
+    "lat": -14.2785997391,
+    "long": 50.1747016907,
+    "name": "Sambava "
+  },
+  "FMNT": {
+    "lat": -16.7510643983,
+    "long": 47.6190161705,
+    "name": "Tsaratanana "
+  },
+  "FMNV": {
+    "lat": -13.3758001328,
+    "long": 50.0027999878,
+    "name": "Vohimarina "
+  },
+  "FMNW": {
+    "lat": -14.8987998962,
+    "long": 47.9939002991,
+    "name": "Ambalabe "
+  },
+  "FMNX": {
+    "lat": -15.8330494086,
+    "long": 48.8332843781,
+    "name": "Mandritsara "
+  },
+  "FMNZ": {
+    "lat": -13.4848003387,
+    "long": 48.6327018738,
+    "name": "Ampampamena "
+  },
+  "FMSA": {
+    "lat": -21.8148910188,
+    "long": 46.914024353,
+    "name": "Ambalavao "
+  },
+  "FMSB": {
+    "lat": -21.6069837647,
+    "long": 45.1360201836,
+    "name": "Antsoa "
+  },
+  "FMSC": {
+    "lat": -21.0463049303,
+    "long": 44.9404120445,
+    "name": "Mandabe "
+  },
+  "FMSD": {
+    "lat": -25.0380992889,
+    "long": 46.9561004639,
+    "name": "Tolanaro "
+  },
+  "FMSE": {
+    "lat": -23.2743078483,
+    "long": 46.1249828339,
+    "name": "Betroka "
+  },
+  "FMSF": {
+    "lat": -21.4416007996,
+    "long": 47.1116981506,
+    "name": "Fianarantsoa "
+  },
+  "FMSG": {
+    "lat": -22.8052997589,
+    "long": 47.8205986023,
+    "name": "Farafangana "
+  },
+  "FMSI": {
+    "lat": -22.4047202024,
+    "long": 46.1649370193,
+    "name": "Ihosy "
+  },
+  "FMSJ": {
+    "lat": -21.4261052506,
+    "long": 44.31650877,
+    "name": "Manja "
+  },
+  "FMSK": {
+    "lat": -22.1196994781,
+    "long": 48.0217018127,
+    "name": "Manakara "
+  },
+  "FMSL": {
+    "lat": -24.2356947547,
+    "long": 45.3045272827,
+    "name": "Bekily "
+  },
+  "FMSM": {
+    "lat": -21.2017993927,
+    "long": 48.3582992554,
+    "name": "Mananjary "
+  },
+  "FMSN": {
+    "lat": -21.7000007629,
+    "long": 43.733001709,
+    "name": "Samangoky "
+  },
+  "FMSR": {
+    "lat": -21.753900528,
+    "long": 43.3754997253,
+    "name": "Morombe "
+  },
+  "FMST": {
+    "lat": -23.3833999634,
+    "long": 43.7285003662,
+    "name": "Toliara "
+  },
+  "FMSU": {
+    "lat": -23.3507665915,
+    "long": 47.5817012787,
+    "name": "Vangaindrano "
+  },
+  "FMSV": {
+    "lat": -23.7329998016,
+    "long": 44.388999939,
+    "name": "Betioky "
+  },
+  "FMSY": {
+    "lat": -24.6996994019,
+    "long": 44.7341995239,
+    "name": "Ampanihy "
+  },
+  "FMSZ": {
+    "lat": -22.2964423522,
+    "long": 44.5315361023,
+    "name": "Ankazoabo "
+  }
+}

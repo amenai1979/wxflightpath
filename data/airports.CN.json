@@ -1,0 +1,947 @@
+{
+  "ZBAA": {
+    "lat": 40.0801010132,
+    "long": 116.5849990845,
+    "name": "Beijing Capital International "
+  },
+  "ZBAD": {
+    "lat": 39.509167,
+    "long": 116.410556,
+    "name": "Beijing Daxing International "
+  },
+  "ZBBB": {
+    "lat": 39.9608001709,
+    "long": 116.2570037842,
+    "name": "Beijing Xijiao "
+  },
+  "ZBCF": {
+    "lat": 42.2350006104,
+    "long": 118.9079971313,
+    "name": "Chifeng "
+  },
+  "ZBCZ": {
+    "lat": 36.2475013733,
+    "long": 113.1259994507,
+    "name": "Changzhi "
+  },
+  "ZBDS": {
+    "lat": 39.49,
+    "long": 109.861388889,
+    "name": "Ordos Ejin Horo "
+  },
+  "ZBDT": {
+    "lat": 40.0602989197,
+    "long": 113.4820022583,
+    "name": "Datong "
+  },
+  "ZBER": {
+    "lat": 43.4225,
+    "long": 112.096666667,
+    "name": "Erenhot Saiwusu International "
+  },
+  "ZBGS": {
+    "lat": 23.7206001282,
+    "long": 106.959999084,
+    "name": "Tian Yang Air Base"
+  },
+  "ZBHD": {
+    "lat": 36.5258333333,
+    "long": 114.425555556,
+    "name": "Handan "
+  },
+  "ZBHH": {
+    "lat": 40.851398468,
+    "long": 111.823997498,
+    "name": "Baita International "
+  },
+  "ZBLA": {
+    "lat": 49.2050018311,
+    "long": 119.824996948,
+    "name": "Dongshan "
+  },
+  "ZBNY": {
+    "lat": 39.7827987671,
+    "long": 116.3880004883,
+    "name": "Beijing Nanyuan "
+  },
+  "ZBOW": {
+    "lat": 40.5600013733,
+    "long": 109.9970016479,
+    "name": "Baotou "
+  },
+  "ZBSH": {
+    "lat": 39.9681015015,
+    "long": 119.731002808,
+    "name": "Shanhaiguan "
+  },
+  "ZBSJ": {
+    "lat": 38.2807006836,
+    "long": 114.6969985962,
+    "name": "Shijiazhuang Daguocun International "
+  },
+  "ZBTJ": {
+    "lat": 39.1244010925,
+    "long": 117.346000671,
+    "name": "Tianjin Binhai International "
+  },
+  "ZBTL": {
+    "lat": 43.5567016602,
+    "long": 122.1999969482,
+    "name": "Tongliao "
+  },
+  "ZBUL": {
+    "lat": 46.195333,
+    "long": 122.008333,
+    "name": "Ulanhot "
+  },
+  "ZBXH": {
+    "lat": 43.915599823,
+    "long": 115.9639968872,
+    "name": "Xilinhot "
+  },
+  "ZBYC": {
+    "lat": 35.116391,
+    "long": 111.031388889,
+    "name": "Yuncheng Guangong "
+  },
+  "ZBYN": {
+    "lat": 37.7468986511,
+    "long": 112.6279983521,
+    "name": "Taiyuan Wusu "
+  },
+  "ZGBH": {
+    "lat": 21.5394001007,
+    "long": 109.2939987183,
+    "name": "Beihai "
+  },
+  "ZGCD": {
+    "lat": 28.9188995361,
+    "long": 111.63999939,
+    "name": "Changde "
+  },
+  "ZGCJ": {
+    "lat": 27.4411111111,
+    "long": 109.7,
+    "name": "Zhijiang "
+  },
+  "ZGDY": {
+    "lat": 29.1028003693,
+    "long": 110.4430007935,
+    "name": "Dayong "
+  },
+  "ZGFS": {
+    "lat": 23.0832996368,
+    "long": 113.069999695,
+    "name": "Foshan Shadi "
+  },
+  "ZGGG": {
+    "lat": 23.3924007416,
+    "long": 113.2990036011,
+    "name": "Guangzhou Baiyun International "
+  },
+  "ZGHA": {
+    "lat": 28.1891994476,
+    "long": 113.2200012207,
+    "name": "Changsha Huanghua "
+  },
+  "ZGHY": {
+    "lat": 26.9053001404,
+    "long": 112.6279983521,
+    "name": "Hengyang "
+  },
+  "ZGHZ": {
+    "lat": 23.0499992371,
+    "long": 114.599998474,
+    "name": "Huizhou "
+  },
+  "ZGKL": {
+    "lat": 25.2180995941,
+    "long": 110.0390014648,
+    "name": "Guilin Liangjiang International "
+  },
+  "ZGLD": {
+    "lat": 22.711169,
+    "long": 111.60134,
+    "name": "Luoding Sulong ."
+  },
+  "ZGLG": {
+    "lat": 26.338661,
+    "long": 111.610043,
+    "name": "Lingling "
+  },
+  "ZGMX": {
+    "lat": 24.3500003815,
+    "long": 116.1330032349,
+    "name": "Meixian "
+  },
+  "ZGNN": {
+    "lat": 22.6082992554,
+    "long": 108.1719970703,
+    "name": "Nanning Wuxu "
+  },
+  "ZGOW": {
+    "lat": 23.4269008636,
+    "long": 116.7620010376,
+    "name": "Shantou Waisha "
+  },
+  "ZGSD": {
+    "lat": 22.0063991547,
+    "long": 113.3759994507,
+    "name": "Zhuhai "
+  },
+  "ZGSZ": {
+    "lat": 22.6392993927,
+    "long": 113.8109970093,
+    "name": "Shenzhen Bao'an International "
+  },
+  "ZGWZ": {
+    "lat": 23.4566993713,
+    "long": 111.2480010986,
+    "name": "Changzhoudao "
+  },
+  "ZGXN": {
+    "lat": 24.1492004395,
+    "long": 115.7580032349,
+    "name": "Xingning "
+  },
+  "ZGZH": {
+    "lat": 24.2075004578,
+    "long": 109.3909988403,
+    "name": "Bailian "
+  },
+  "ZGZJ": {
+    "lat": 21.2143993378,
+    "long": 110.358001709,
+    "name": "Zhanjiang "
+  },
+  "ZHAY": {
+    "lat": 36.1338996887,
+    "long": 114.34400177,
+    "name": "Anyang "
+  },
+  "ZHCC": {
+    "lat": 34.5196990967,
+    "long": 113.841003418,
+    "name": "Xinzheng "
+  },
+  "ZHES": {
+    "lat": 30.3202991486,
+    "long": 109.48500061,
+    "name": "Enshi "
+  },
+  "ZHGH": {
+    "lat": 32.3894004822,
+    "long": 111.6949996948,
+    "name": "Guangzhou MR Air Base"
+  },
+  "ZHHH": {
+    "lat": 30.7838001251,
+    "long": 114.2080001831,
+    "name": "Wuhan Tianhe International "
+  },
+  "ZHLY": {
+    "lat": 34.7411003113,
+    "long": 112.388000488,
+    "name": "Luoyang "
+  },
+  "ZHNY": {
+    "lat": 32.9808006287,
+    "long": 112.6149978638,
+    "name": "Nanyang "
+  },
+  "ZHSS": {
+    "lat": 30.3243999481,
+    "long": 112.28099823,
+    "name": "Shashi "
+  },
+  "ZHXF": {
+    "lat": 32.1506004333,
+    "long": 112.2910003662,
+    "name": "Xiangfan "
+  },
+  "ZHYC": {
+    "lat": 30.556549722,
+    "long": 111.479988333,
+    "name": "Yichang "
+  },
+  "ZJHK": {
+    "lat": 19.9349002838,
+    "long": 110.4589996338,
+    "name": "Haikou Meilan International "
+  },
+  "ZJSY": {
+    "lat": 18.3029003143,
+    "long": 109.4120025635,
+    "name": "Sanya Phoenix International "
+  },
+  "ZJYX": {
+    "lat": 16.8327999115,
+    "long": 112.34400177,
+    "name": "Woody Island "
+  },
+  "ZLAK": {
+    "lat": 32.7080993652,
+    "long": 108.9309997559,
+    "name": "Ankang "
+  },
+  "ZLDH": {
+    "lat": 40.1610984802,
+    "long": 94.8091964722,
+    "name": "Dunhuang "
+  },
+  "ZLGM": {
+    "lat": 36.4006004333,
+    "long": 94.7861022949,
+    "name": "Golmud "
+  },
+  "ZLGY": {
+    "lat": 36.0788888889,
+    "long": 106.216944444,
+    "name": "Guyuan Liupanshan "
+  },
+  "ZLHZ": {
+    "lat": 33.0635986328,
+    "long": 107.0080032349,
+    "name": "Hanzhong "
+  },
+  "ZLIC": {
+    "lat": 38.4818992615,
+    "long": 106.0090026855,
+    "name": "Yinchuan "
+  },
+  "ZLJC": {
+    "lat": 38.5422222222,
+    "long": 102.348333333,
+    "name": "Jinchuan "
+  },
+  "ZLJN": {
+    "lat": 35.2927777778,
+    "long": 116.346666667,
+    "name": "Jining Qufu "
+  },
+  "ZLJQ": {
+    "lat": 39.8568992615,
+    "long": 98.3414001465,
+    "name": "Jiayuguan "
+  },
+  "ZLLL": {
+    "lat": 36.5152015686,
+    "long": 103.620002747,
+    "name": "Lanzhou Zhongchuan "
+  },
+  "ZLQY": {
+    "lat": 35.7997016907,
+    "long": 107.6029968262,
+    "name": "Qingyang "
+  },
+  "ZLSN": {
+    "lat": 34.376701355,
+    "long": 109.1200027466,
+    "name": "Xiguan "
+  },
+  "ZLTS": {
+    "lat": 34.5593986511,
+    "long": 105.86000061,
+    "name": "Tianshui Maijishan "
+  },
+  "ZLXN": {
+    "lat": 36.5275001526,
+    "long": 102.0429992676,
+    "name": "Xining Caojiabu "
+  },
+  "ZLXY": {
+    "lat": 34.447101593,
+    "long": 108.7519989014,
+    "name": "Xi'an Xianyang International "
+  },
+  "ZLYA": {
+    "lat": 36.6369018555,
+    "long": 109.5540008545,
+    "name": "Yan'an "
+  },
+  "ZLYL": {
+    "lat": 38.2691993713,
+    "long": 109.7310028076,
+    "name": "Yulin "
+  },
+  "ZLZW": {
+    "lat": 37.572778,
+    "long": 105.154444,
+    "name": "Zhongwei Shapotou "
+  },
+  "ZPBS": {
+    "lat": 25.0533008575,
+    "long": 99.168296814,
+    "name": "Baoshan Yunduan "
+  },
+  "ZPDL": {
+    "lat": 25.6494007111,
+    "long": 100.3190002441,
+    "name": "Dali "
+  },
+  "ZPDQ": {
+    "lat": 27.7936000824,
+    "long": 99.6772003174,
+    "name": "Diqing "
+  },
+  "ZPJH": {
+    "lat": 21.9738998413,
+    "long": 100.7600021362,
+    "name": "Xishuangbanna Gasa "
+  },
+  "ZPLC": {
+    "lat": 23.738333,
+    "long": 100.025,
+    "name": "Lincang "
+  },
+  "ZPLJ": {
+    "lat": 26.6800003052,
+    "long": 100.246002197,
+    "name": "Lijiang "
+  },
+  "ZPLX": {
+    "lat": 24.4011001587,
+    "long": 98.5317001343,
+    "name": "Mangshi "
+  },
+  "ZPPP": {
+    "lat": 24.9923992157,
+    "long": 102.7440032959,
+    "name": "Kunming Wujiaba International "
+  },
+  "ZPSM": {
+    "lat": 22.7933006287,
+    "long": 100.9589996338,
+    "name": "Simao "
+  },
+  "ZPZT": {
+    "lat": 27.3255996704,
+    "long": 103.7549972534,
+    "name": "Zhaotong "
+  },
+  "ZSAM": {
+    "lat": 24.5440006256,
+    "long": 118.1279983521,
+    "name": "Xiamen Gaoqi International "
+  },
+  "ZSAQ": {
+    "lat": 30.5821990967,
+    "long": 117.0500030518,
+    "name": "Anqing "
+  },
+  "ZSBB": {
+    "lat": 32.8477333333,
+    "long": 117.320244444,
+    "name": "Bengbu "
+  },
+  "ZSCG": {
+    "lat": 31.9197006226,
+    "long": 119.7789993286,
+    "name": "Changzhou "
+  },
+  "ZSCN": {
+    "lat": 28.8649997711,
+    "long": 115.9000015259,
+    "name": "Nanchang Changbei International "
+  },
+  "ZSDY": {
+    "lat": 37.5085983276,
+    "long": 118.788002014,
+    "name": "Dongying Shengli "
+  },
+  "ZSFY": {
+    "lat": 32.882157,
+    "long": 115.734364,
+    "name": "Fuyang Xiguan "
+  },
+  "ZSFZ": {
+    "lat": 25.9351005554,
+    "long": 119.6630020142,
+    "name": "Fuzhou Changle International "
+  },
+  "ZSGS": {
+    "lat": 26.8568992615,
+    "long": 114.736999512,
+    "name": "Jinggangshan "
+  },
+  "ZSGZ": {
+    "lat": 25.825799942,
+    "long": 114.912002563,
+    "name": "Ganzhou "
+  },
+  "ZSHC": {
+    "lat": 30.2294998169,
+    "long": 120.4339981079,
+    "name": "Hangzhou Xiaoshan International "
+  },
+  "ZSJD": {
+    "lat": 29.3386001587,
+    "long": 117.176002502,
+    "name": "Jingdezhen "
+  },
+  "ZSJJ": {
+    "lat": 29.476944,
+    "long": 115.801111,
+    "name": "Jiujiang Lushan "
+  },
+  "ZSJN": {
+    "lat": 36.8572006226,
+    "long": 117.216003418,
+    "name": "Yaoqiang "
+  },
+  "ZSJU": {
+    "lat": 28.9657993317,
+    "long": 118.8990020752,
+    "name": "Quzhou "
+  },
+  "ZSLD": {
+    "lat": 25.6746997833,
+    "long": 116.747001648,
+    "name": "Longyan Guanzhishan "
+  },
+  "ZSLG": {
+    "lat": 34.571667,
+    "long": 118.873611,
+    "name": "Lianyungang "
+  },
+  "ZSLQ": {
+    "lat": 28.5622005463,
+    "long": 121.4290008545,
+    "name": "Huangyan Luqiao "
+  },
+  "ZSLY": {
+    "lat": 35.0461006165,
+    "long": 118.4120025635,
+    "name": "Shubuling "
+  },
+  "ZSNB": {
+    "lat": 29.8267002106,
+    "long": 121.4619979858,
+    "name": "Ningbo Lishe International "
+  },
+  "ZSNJ": {
+    "lat": 31.7420005798,
+    "long": 118.8619995117,
+    "name": "Nanjing Lukou "
+  },
+  "ZSNT": {
+    "lat": 32.0708007812,
+    "long": 120.975997925,
+    "name": "Nantong "
+  },
+  "ZSOF": {
+    "lat": 31.98898,
+    "long": 116.9638,
+    "name": "Hefei Xinqiao International "
+  },
+  "ZSPD": {
+    "lat": 31.1434001923,
+    "long": 121.8050003052,
+    "name": "Shanghai Pudong International "
+  },
+  "ZSQD": {
+    "lat": 36.2661018372,
+    "long": 120.374000549,
+    "name": "Liuting "
+  },
+  "ZSQZ": {
+    "lat": 24.7964000702,
+    "long": 118.5899963379,
+    "name": "Quanzhou "
+  },
+  "ZSRG": {
+    "lat": 32.2578849792,
+    "long": 120.5016555786,
+    "name": "Rugao Air Base"
+  },
+  "ZSSH": {
+    "lat": 33.7908333333,
+    "long": 119.125,
+    "name": "Lianshui "
+  },
+  "ZSSL": {
+    "lat": 31.1669006348,
+    "long": 121.45400238,
+    "name": "Shanghai Longhua "
+  },
+  "ZSSM": {
+    "lat": 26.428056,
+    "long": 117.845,
+    "name": "Sanming Shaxian "
+  },
+  "ZSSS": {
+    "lat": 31.1979007721,
+    "long": 121.3359985352,
+    "name": "Shanghai Hongqiao International "
+  },
+  "ZSSZ": {
+    "lat": 31.2630996704,
+    "long": 120.4010009766,
+    "name": "Guangfu "
+  },
+  "ZSTX": {
+    "lat": 29.7332992554,
+    "long": 118.2559967041,
+    "name": "Tunxi International "
+  },
+  "ZSWF": {
+    "lat": 36.6467018127,
+    "long": 119.1190032959,
+    "name": "Weifang "
+  },
+  "ZSWH": {
+    "lat": 37.1870994568,
+    "long": 122.2289962769,
+    "name": "Weihai "
+  },
+  "ZSWU": {
+    "lat": 31.3906002045,
+    "long": 118.408996582,
+    "name": "Wuhu Air Base"
+  },
+  "ZSWX": {
+    "lat": 31.4944000244,
+    "long": 120.429000854,
+    "name": "Sunan Shuofang International "
+  },
+  "ZSWY": {
+    "lat": 27.7019004822,
+    "long": 118.0009994507,
+    "name": "Nanping Wuyishan "
+  },
+  "ZSWZ": {
+    "lat": 27.9122009277,
+    "long": 120.8519973755,
+    "name": "Wenzhou Yongqiang "
+  },
+  "ZSXZ": {
+    "lat": 34.059056,
+    "long": 117.555278,
+    "name": "Xuzhou Guanyin "
+  },
+  "ZSYN": {
+    "lat": 33.425833,
+    "long": 120.203056,
+    "name": "Yancheng "
+  },
+  "ZSYT": {
+    "lat": 37.4016990662,
+    "long": 121.3720016479,
+    "name": "Yantai Laishan "
+  },
+  "ZSYW": {
+    "lat": 29.3446998596,
+    "long": 120.031997681,
+    "name": "Yiwu "
+  },
+  "ZSZS": {
+    "lat": 29.9342002869,
+    "long": 122.361999512,
+    "name": "Zhoushan "
+  },
+  "ZUAL": {
+    "lat": 32.1,
+    "long": 80.0530555556,
+    "name": "Ngari Gunsa "
+  },
+  "ZUAS": {
+    "lat": 26.2605555556,
+    "long": 105.873333333,
+    "name": "Anshun Huangguoshu "
+  },
+  "ZUBD": {
+    "lat": 30.5536003113,
+    "long": 97.1082992554,
+    "name": "Qamdo Bangda "
+  },
+  "ZUCK": {
+    "lat": 29.7192001343,
+    "long": 106.641998291,
+    "name": "Chongqing Jiangbei International "
+  },
+  "ZUDX": {
+    "lat": 31.1302,
+    "long": 107.4295,
+    "name": "Dachuan "
+  },
+  "ZUGU": {
+    "lat": 32.3911018372,
+    "long": 105.702003479,
+    "name": "Guangyuan "
+  },
+  "ZUGY": {
+    "lat": 26.5384998322,
+    "long": 106.8010025024,
+    "name": "Longdongbao "
+  },
+  "ZUJZ": {
+    "lat": 32.8533333333,
+    "long": 103.682222222,
+    "name": "Jiuzhai Huanglong "
+  },
+  "ZULP": {
+    "lat": 30.6793994904,
+    "long": 107.7860031128,
+    "name": "Liangping "
+  },
+  "ZULS": {
+    "lat": 29.2978000641,
+    "long": 90.9119033813,
+    "name": "Lhasa Gonggar "
+  },
+  "ZULZ": {
+    "lat": 28.8521995544,
+    "long": 105.3929977417,
+    "name": "Luzhou "
+  },
+  "ZUMY": {
+    "lat": 31.4281005859,
+    "long": 104.7409973145,
+    "name": "Mianyang "
+  },
+  "ZUNC": {
+    "lat": 30.79545,
+    "long": 106.1626,
+    "name": "Nanchong "
+  },
+  "ZUNZ": {
+    "lat": 29.3033008575,
+    "long": 94.3352966309,
+    "name": "Nyingchi "
+  },
+  "ZUQJ": {
+    "lat": 29.514559,
+    "long": 108.83371499999998,
+    "name": "Qianjiang Wulingshan "
+  },
+  "ZUTC": {
+    "lat": 24.9380555556,
+    "long": 98.4858333333,
+    "name": "Tengchong Tuofeng "
+  },
+  "ZUTF": {
+    "lat": 30.319,
+    "long": 104.445,
+    "name": "Chengdu Tianfu International "
+  },
+  "ZUTR": {
+    "lat": 27.883333,
+    "long": 109.308889,
+    "name": "Tongren Fenghuang "
+  },
+  "ZUUU": {
+    "lat": 30.5785007477,
+    "long": 103.9469985962,
+    "name": "Chengdu Shuangliu International "
+  },
+  "ZUWX": {
+    "lat": 30.8017,
+    "long": 108.433,
+    "name": "Wanxian "
+  },
+  "ZUXC": {
+    "lat": 27.9890995026,
+    "long": 102.1839981079,
+    "name": "Xichang Qingshan "
+  },
+  "ZUYB": {
+    "lat": 28.8005555556,
+    "long": 104.545,
+    "name": "Yibin Caiba "
+  },
+  "ZUYI": {
+    "lat": 25.0863888889,
+    "long": 104.959444444,
+    "name": "Xingyi "
+  },
+  "ZUZY": {
+    "lat": 27.5895,
+    "long": 107.0007,
+    "name": "Zunyi Xinzhou "
+  },
+  "ZWAK": {
+    "lat": 41.2625007629,
+    "long": 80.2917022705,
+    "name": "Aksu "
+  },
+  "ZWAT": {
+    "lat": 47.7498855591,
+    "long": 88.0858078003,
+    "name": "Altay Air Base"
+  },
+  "ZWBL": {
+    "lat": 44.895,
+    "long": 82.3,
+    "name": "Alashankou Bole (Bortala) "
+  },
+  "ZWCM": {
+    "lat": 38.1493988037,
+    "long": 85.5327987671,
+    "name": "Qiemo "
+  },
+  "ZWHM": {
+    "lat": 42.8414001465,
+    "long": 93.6691970825,
+    "name": "Hami "
+  },
+  "ZWKC": {
+    "lat": 41.7181015015,
+    "long": 82.9869003296,
+    "name": "Kuqa "
+  },
+  "ZWKL": {
+    "lat": 41.6977996826,
+    "long": 86.1288986206,
+    "name": "Korla "
+  },
+  "ZWKM": {
+    "lat": 45.46655,
+    "long": 84.9527,
+    "name": "Karamay "
+  },
+  "ZWSH": {
+    "lat": 39.5429000854,
+    "long": 76.0199966431,
+    "name": "Kashgar "
+  },
+  "ZWSS": {
+    "lat": 42.9117012024,
+    "long": 90.2474975586,
+    "name": "Shanshan "
+  },
+  "ZWTC": {
+    "lat": 46.6725006104,
+    "long": 83.3407974243,
+    "name": "Tacheng "
+  },
+  "ZWTN": {
+    "lat": 37.0385017395,
+    "long": 79.8648986816,
+    "name": "Hotan "
+  },
+  "ZWWW": {
+    "lat": 43.9071006775,
+    "long": 87.4741973877,
+    "name": "Urumqi Diwopu International "
+  },
+  "ZWYN": {
+    "lat": 43.9557991028,
+    "long": 81.3302993774,
+    "name": "Yining "
+  },
+  "ZYAS": {
+    "lat": 41.1053009033,
+    "long": 122.8539962769,
+    "name": "Anshan Air Base"
+  },
+  "ZYCC": {
+    "lat": 43.9962005615,
+    "long": 125.684997559,
+    "name": "Longjia "
+  },
+  "ZYCH": {
+    "lat": 39.2666666667,
+    "long": 122.666944444,
+    "name": "Changhai "
+  },
+  "ZYCY": {
+    "lat": 41.5381011963,
+    "long": 120.4349975586,
+    "name": "Chaoyang "
+  },
+  "ZYDD": {
+    "lat": 40.0247001648,
+    "long": 124.286003113,
+    "name": "Dandong "
+  },
+  "ZYDQ": {
+    "lat": 46.7463888889,
+    "long": 125.140555556,
+    "name": "Saertu "
+  },
+  "ZYHB": {
+    "lat": 45.6234016418,
+    "long": 126.25,
+    "name": "Taiping "
+  },
+  "ZYHE": {
+    "lat": 50.1716209371,
+    "long": 127.308883667,
+    "name": "Heihe "
+  },
+  "ZYJL": {
+    "lat": 44.0022010803,
+    "long": 126.3960037231,
+    "name": "Jilin "
+  },
+  "ZYJM": {
+    "lat": 46.8433990479,
+    "long": 130.464996338,
+    "name": "Jiamusi "
+  },
+  "ZYJZ": {
+    "lat": 41.101398468,
+    "long": 121.06199646,
+    "name": "Jinzhou "
+  },
+  "ZYLD": {
+    "lat": 47.7520555556,
+    "long": 129.019125,
+    "name": "Lindu "
+  },
+  "ZYLS": {
+    "lat": 32.8363888889,
+    "long": 97.0363888889,
+    "name": "Yushu Batang "
+  },
+  "ZYMD": {
+    "lat": 44.5241012573,
+    "long": 129.569000244,
+    "name": "Mudanjiang Hailang International "
+  },
+  "ZYMH": {
+    "lat": 52.9127777778,
+    "long": 122.43,
+    "name": "Gu-Lian "
+  },
+  "ZYQQ": {
+    "lat": 47.2396011353,
+    "long": 123.9179992676,
+    "name": "Qiqihar Sanjiazi "
+  },
+  "ZYTH": {
+    "lat": 52.2244444444,
+    "long": 124.720222222,
+    "name": "Tahe "
+  },
+  "ZYTL": {
+    "lat": 38.9656982422,
+    "long": 121.5390014648,
+    "name": "Zhoushuizi "
+  },
+  "ZYTN": {
+    "lat": 42.2538888889,
+    "long": 125.703333333,
+    "name": "Tonghua Sanyuanpu "
+  },
+  "ZYTX": {
+    "lat": 41.6398010254,
+    "long": 123.483001709,
+    "name": "Taoxian "
+  },
+  "ZYXC": {
+    "lat": 40.5802993774,
+    "long": 120.697998047,
+    "name": "Xingcheng Air Base"
+  },
+  "ZYYJ": {
+    "lat": 42.8828010559,
+    "long": 129.451004028,
+    "name": "Yanji Chaoyangchuan "
+  },
+  "ZYYY": {
+    "lat": 41.7844009399,
+    "long": 123.4960021973,
+    "name": "Shenyang Dongta "
+  }
+}

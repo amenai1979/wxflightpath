@@ -1,0 +1,22 @@
+{
+  "PGRO": {
+    "lat": 14.1743001938,
+    "long": 145.2429962158,
+    "name": "Rota International "
+  },
+  "PGSN": {
+    "lat": 15.1190004349,
+    "long": 145.7290039063,
+    "name": "Francisco C. Ada Saipan International "
+  },
+  "PGWT": {
+    "lat": 14.9991998672,
+    "long": 145.6190032959,
+    "name": "Tinian International "
+  },
+  "TT01": {
+    "lat": 18.1243991852,
+    "long": 145.7689971924,
+    "name": "Pagan Airstrip"
+  }
+}

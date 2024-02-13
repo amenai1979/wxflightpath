@@ -1,0 +1,162 @@
+{
+  "NVSA": {
+    "lat": -13.6660003662,
+    "long": 167.7120056152,
+    "name": "Mota Lava "
+  },
+  "NVSC": {
+    "lat": -13.8516998291,
+    "long": 167.5370025635,
+    "name": "Sola "
+  },
+  "NVSD": {
+    "lat": -13.3280000687,
+    "long": 166.6380004883,
+    "name": "Torres Airstrip"
+  },
+  "NVSE": {
+    "lat": -17.0902996063,
+    "long": 168.3430023193,
+    "name": "Sangafa "
+  },
+  "NVSF": {
+    "lat": -16.2649993896,
+    "long": 167.9239959717,
+    "name": "Craig Cove "
+  },
+  "NVSG": {
+    "lat": -15.3066997528,
+    "long": 167.9669952393,
+    "name": "Longana "
+  },
+  "NVSH": {
+    "lat": -15.4708003998,
+    "long": 168.1519927979,
+    "name": "Sara "
+  },
+  "NVSI": {
+    "lat": -16.438999176,
+    "long": 168.2570037842,
+    "name": "Tavie "
+  },
+  "NVSL": {
+    "lat": -16.454000473,
+    "long": 167.8229980469,
+    "name": "Lamap "
+  },
+  "NVSM": {
+    "lat": -16.5841999054,
+    "long": 168.158996582,
+    "name": "Lamen Bay "
+  },
+  "NVSN": {
+    "lat": -15,
+    "long": 168.0829925537,
+    "name": "Naone "
+  },
+  "NVSO": {
+    "lat": -15.8655996323,
+    "long": 168.1719970703,
+    "name": "Lonorore "
+  },
+  "NVSP": {
+    "lat": -16.07970047,
+    "long": 167.4010009766,
+    "name": "Norsup "
+  },
+  "NVSQ": {
+    "lat": -14.2180995941,
+    "long": 167.587005615,
+    "name": "Gaua Island "
+  },
+  "NVSR": {
+    "lat": -15.4720001221,
+    "long": 167.8350067139,
+    "name": "Redcliffe "
+  },
+  "NVSS": {
+    "lat": -15.5050001144,
+    "long": 167.220001221,
+    "name": "Santo Pekoa International "
+  },
+  "NVST": {
+    "lat": -16.8910999298,
+    "long": 168.550994873,
+    "name": "Tongoa Island "
+  },
+  "NVSU": {
+    "lat": -16.3297,
+    "long": 168.3011,
+    "name": "Ulei "
+  },
+  "NVSV": {
+    "lat": -16.7961006165,
+    "long": 168.1770019531,
+    "name": "Valesdir "
+  },
+  "NVSW": {
+    "lat": -15.4119997025,
+    "long": 167.6909942627,
+    "name": "Walaha "
+  },
+  "NVSX": {
+    "lat": -16.4864,
+    "long": 167.4472,
+    "name": "Southwest Bay "
+  },
+  "NVSZ": {
+    "lat": -14.8816995621,
+    "long": 166.557998657,
+    "name": "North West Santo "
+  },
+  "NVVA": {
+    "lat": -20.2492008209,
+    "long": 169.7709960938,
+    "name": "Anelghowhat "
+  },
+  "NVVB": {
+    "lat": -19.2399997711,
+    "long": 169.6049957275,
+    "name": "Aniwa "
+  },
+  "NVVD": {
+    "lat": -18.7693996429,
+    "long": 169.0010070801,
+    "name": "Dillon's Bay "
+  },
+  "NVVF": {
+    "lat": -19.5163993835,
+    "long": 170.231994629,
+    "name": "Futuna "
+  },
+  "NVVI": {
+    "lat": -18.856389,
+    "long": 169.283333,
+    "name": "Ipota "
+  },
+  "NVVJ": {
+    "lat": -17.7010993958,
+    "long": 168.5269927979,
+    "name": "Forari "
+  },
+  "NVVK": {
+    "lat": -19.5130004883,
+    "long": 169.2599945068,
+    "name": "Lenakel "
+  },
+  "NVVQ": {
+    "lat": -17.5400009155,
+    "long": 168.4420013428,
+    "name": "Quion Hill "
+  },
+  "NVVV": {
+    "lat": -17.699300766,
+    "long": 168.3200073242,
+    "name": "Port Vila Bauerfield "
+  },
+  "NVVW": {
+    "lat": -19.4550991058,
+    "long": 169.2239990234,
+    "name": "Tanna "
+  }
+}

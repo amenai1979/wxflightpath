@@ -1,0 +1,42 @@
+{
+  "UBBA": {
+    "lat": 41.1223983765,
+    "long": 45.4248008728,
+    "name": "Akstafa "
+  },
+  "UBBB": {
+    "lat": 40.4674987793,
+    "long": 50.0466995239,
+    "name": "Heydar Aliyev International "
+  },
+  "UBBG": {
+    "lat": 40.737701416,
+    "long": 46.3176002502,
+    "name": "Ganja "
+  },
+  "UBBL": {
+    "lat": 38.7463989258,
+    "long": 48.8180007935,
+    "name": "Lankaran International "
+  },
+  "UBBN": {
+    "lat": 39.1888008118,
+    "long": 45.4584007263,
+    "name": "Nakhchivan "
+  },
+  "UBBQ": {
+    "lat": 40.8266666667,
+    "long": 47.7125,
+    "name": "Gabala International "
+  },
+  "UBBY": {
+    "lat": 41.5622215271,
+    "long": 46.6672210693,
+    "name": "Zaqatala International "
+  },
+  "UBEE": {
+    "lat": 40.6319007874,
+    "long": 47.1418991089,
+    "name": "Yevlakh "
+  }
+}

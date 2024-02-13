@@ -1,0 +1,37 @@
+{
+  "UG0U": {
+    "lat": 43.1040000916,
+    "long": 40.5792999268,
+    "name": "Gudauta Air Base"
+  },
+  "UGKO": {
+    "lat": 42.176700592,
+    "long": 42.4826011658,
+    "name": "Kopitnari "
+  },
+  "UGMM": {
+    "lat": 41.916,
+    "long": 44.566,
+    "name": "Mukhrani "
+  },
+  "UGSB": {
+    "lat": 41.6102981567,
+    "long": 41.5997009277,
+    "name": "Batumi International "
+  },
+  "UGSP": {
+    "lat": 42.1629024102,
+    "long": 41.7058074474,
+    "name": "Poti East "
+  },
+  "UGSS": {
+    "lat": 42.8582000732,
+    "long": 41.1281013489,
+    "name": "Sukhumi Dranda "
+  },
+  "UGTB": {
+    "lat": 41.6692008972,
+    "long": 44.95470047,
+    "name": "Tbilisi International "
+  }
+}

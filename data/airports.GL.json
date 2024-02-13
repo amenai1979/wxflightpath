@@ -1,0 +1,87 @@
+{
+  "BGAA": {
+    "lat": 68.7218017578,
+    "long": -52.7846984863,
+    "name": "Aasiaat "
+  },
+  "BGBW": {
+    "lat": 61.1604995728,
+    "long": -45.4259986877,
+    "name": "Narsarsuaq "
+  },
+  "BGCO": {
+    "lat": 70.7431030273,
+    "long": -22.6504993439,
+    "name": "Neerlerit Inaat "
+  },
+  "BGDH": {
+    "lat": 76.7666702271,
+    "long": -18.6666679382,
+    "name": "Danmarkshavn Landing Strip"
+  },
+  "BGGH": {
+    "lat": 64.19090271,
+    "long": -51.6781005859,
+    "name": "Godthaab / Nuuk "
+  },
+  "BGJN": {
+    "lat": 69.2432022095,
+    "long": -51.0570983887,
+    "name": "Ilulissat "
+  },
+  "BGKK": {
+    "lat": 65.573600769,
+    "long": -37.1236000061,
+    "name": "Kulusuk "
+  },
+  "BGMI": {
+    "lat": 81.6,
+    "long": -16.6666666667,
+    "name": "Station Nord Landing Strip"
+  },
+  "BGMQ": {
+    "lat": 65.4124984741,
+    "long": -52.9393997192,
+    "name": "Maniitsoq "
+  },
+  "BGMV": {
+    "lat": 72.2369003296,
+    "long": -23.9319000244,
+    "name": "Mestersvig "
+  },
+  "BGPT": {
+    "lat": 62.0147361755,
+    "long": -49.6709365845,
+    "name": "Paamiut "
+  },
+  "BGQQ": {
+    "lat": 77.4886016846,
+    "long": -69.3887023926,
+    "name": "Qaanaaq "
+  },
+  "BGSF": {
+    "lat": 67.0122218992,
+    "long": -50.7116031647,
+    "name": "Kangerlussuaq "
+  },
+  "BGSS": {
+    "lat": 66.9513015747,
+    "long": -53.7293014526,
+    "name": "Sisimiut "
+  },
+  "BGTL": {
+    "lat": 76.5311965942,
+    "long": -68.7032012939,
+    "name": "Thule Air Base"
+  },
+  "BGUK": {
+    "lat": 72.7901992798,
+    "long": -56.1305999756,
+    "name": "Upernavik "
+  },
+  "BGUQ": {
+    "lat": 70.7341995239,
+    "long": -52.6962013245,
+    "name": "Qaarsut "
+  }
+}

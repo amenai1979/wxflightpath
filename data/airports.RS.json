@@ -1,0 +1,87 @@
+{
+  "LY87": {
+    "lat": 44.7743,
+    "long": 20.9613,
+    "name": "Kovin "
+  },
+  "LYBE": {
+    "lat": 44.8184013367,
+    "long": 20.3090991974,
+    "name": "Belgrade Nikola Tesla "
+  },
+  "LYBJ": {
+    "lat": 44.9369583333,
+    "long": 20.4425555556,
+    "name": " Lisicji Jarak"
+  },
+  "LYBO": {
+    "lat": 44.0181999207,
+    "long": 22.1371002197,
+    "name": "Bor "
+  },
+  "LYBT": {
+    "lat": 44.935299,
+    "long": 20.2575,
+    "name": "Batajnica Air Base"
+  },
+  "LYKI": {
+    "lat": 45.768122,
+    "long": 20.417261,
+    "name": "Kikinda "
+  },
+  "LYKV": {
+    "lat": 43.818298,
+    "long": 20.5872,
+    "name": "Ladevci "
+  },
+  "LYNI": {
+    "lat": 43.337299,
+    "long": 21.853701,
+    "name": "Nis "
+  },
+  "LYNS": {
+    "lat": 45.385799,
+    "long": 19.839199,
+    "name": "Cenej "
+  },
+  "LYSM": {
+    "lat": 45.037453,
+    "long": 19.660661,
+    "name": "Veliki Radinci Airfield"
+  },
+  "LYSP": {
+    "lat": 44.3513888889,
+    "long": 20.96,
+    "name": "Rudine airfield"
+  },
+  "LYSU": {
+    "lat": 46.022837,
+    "long": 19.706454,
+    "name": "Subotica "
+  },
+  "LYTR": {
+    "lat": 43.614189,
+    "long": 21.030217,
+    "name": "Trstenik "
+  },
+  "LYUZ": {
+    "lat": 43.898899,
+    "long": 19.697701,
+    "name": "Ponikve "
+  },
+  "LYVA": {
+    "lat": 44.2978166667,
+    "long": 20.0219111111,
+    "name": "Divci "
+  },
+  "LYVR": {
+    "lat": 45.1469,
+    "long": 21.3099,
+    "name": "Vrsac International "
+  },
+  "LYZR": {
+    "lat": 45.339756,
+    "long": 20.454078,
+    "name": "Zrenjanin "
+  }
+}

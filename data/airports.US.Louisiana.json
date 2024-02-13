@@ -1,0 +1,1610 @@
+{
+    "00LS": {
+        "lat": 30.1362991333,
+        "long": -92.429397583,
+        "name": "Lejeune ",
+        "state": "Louisiana"
+    },
+    "01LA": {
+        "lat": 32.638999939,
+        "long": -91.7736968994,
+        "name": "Barham ",
+        "state": "Louisiana"
+    },
+    "01LS": {
+        "lat": 30.7059993744,
+        "long": -91.0774002075,
+        "name": "Country Breeze ",
+        "state": "Louisiana"
+    },
+    "05LA": {
+        "lat": 32.2653007507,
+        "long": -91.6977996826,
+        "name": "Greg's Flying Service ",
+        "state": "Louisiana"
+    },
+    "05LS": {
+        "lat": 31.252199173,
+        "long": -92.4757995605,
+        "name": "Grass Roots ",
+        "state": "Louisiana"
+    },
+    "08LS": {
+        "lat": 30.4036006927,
+        "long": -92.0235977173,
+        "name": "Aeleron ",
+        "state": "Louisiana"
+    },
+    "0LA1": {
+        "lat": 30.2294006348,
+        "long": -90.9733963013,
+        "name": "Double H Ranch ",
+        "state": "Louisiana"
+    },
+    "0LA2": {
+        "lat": 30.2779998779,
+        "long": -90.9632034302,
+        "name": "Don Babin-Private ",
+        "state": "Louisiana"
+    },
+    "0LA3": {
+        "lat": 32.7492980957,
+        "long": -93.8734970093,
+        "name": "Belcher Airpatch ",
+        "state": "Louisiana"
+    },
+    "0LA9": {
+        "lat": 30.5862998962,
+        "long": -90.8615036011,
+        "name": "Rebel Field",
+        "state": "Louisiana"
+    },
+    "0LS0": {
+        "lat": 29.7497005463,
+        "long": -90.7358016968,
+        "name": "Theriot Field",
+        "state": "Louisiana"
+    },
+    "0LS4": {
+        "lat": 30.8087005615,
+        "long": -92.18800354,
+        "name": "Buller's Airstrip",
+        "state": "Louisiana"
+    },
+    "0LS5": {
+        "lat": 30.3069000244,
+        "long": -92.1297988892,
+        "name": "Trahan Ultralightport",
+        "state": "Louisiana"
+    },
+    "0LS6": {
+        "lat": 30.7877006531,
+        "long": -92.0503997803,
+        "name": "Dufour ",
+        "state": "Louisiana"
+    },
+    "0LS7": {
+        "lat": 30.6128005981,
+        "long": -91.4841995239,
+        "name": "Morgan Field",
+        "state": "Louisiana"
+    },
+    "0LS8": {
+        "lat": 30.2858009338,
+        "long": -92.9412994385,
+        "name": "Lonesome Dove Airfield",
+        "state": "Louisiana"
+    },
+    "0LS9": {
+        "lat": 32.5042991638,
+        "long": -91.9821014404,
+        "name": "Huenefeld ",
+        "state": "Louisiana"
+    },
+    "10LA": {
+        "lat": 30.2474002838,
+        "long": -92.0960006714,
+        "name": "Industrial Helicopters Inc. ",
+        "state": "Louisiana"
+    },
+    "10LS": {
+        "lat": 30.0463008881,
+        "long": -91.9945983887,
+        "name": "G & J Fly A Way Ultralightport",
+        "state": "Louisiana"
+    },
+    "11LS": {
+        "lat": 30.9759998322,
+        "long": -92.5690002441,
+        "name": "Jasmine Hill ",
+        "state": "Louisiana"
+    },
+    "12LA": {
+        "lat": 30.2758998871,
+        "long": -93.3573989868,
+        "name": "Kml ",
+        "state": "Louisiana"
+    },
+    "12LS": {
+        "lat": 30.1786003113,
+        "long": -92.2850036621,
+        "name": "Hains Airstrip",
+        "state": "Louisiana"
+    },
+    "13LS": {
+        "lat": 29.9939002991,
+        "long": -92.385597229,
+        "name": "Tee Brad's ",
+        "state": "Louisiana"
+    },
+    "14LA": {
+        "lat": 30.8409996033,
+        "long": -91.5082015991,
+        "name": "Killarny Farm ",
+        "state": "Louisiana"
+    },
+    "16LS": {
+        "lat": 30.9444007874,
+        "long": -91.7938995361,
+        "name": "Atchafalaya Flying Company ",
+        "state": "Louisiana"
+    },
+    "17LS": {
+        "lat": 30.6056995392,
+        "long": -91.9917984009,
+        "name": "Yankee Field",
+        "state": "Louisiana"
+    },
+    "1LA0": {
+        "lat": 30.0168991089,
+        "long": -92.5279006958,
+        "name": "Ken Guidry Nr 2 ",
+        "state": "Louisiana"
+    },
+    "1LA1": {
+        "lat": 29.983499527,
+        "long": -90.4347991943,
+        "name": "Triche Field",
+        "state": "Louisiana"
+    },
+    "1LA3": {
+        "lat": 30.0307998657,
+        "long": -92.8335037231,
+        "name": "Goose Island ",
+        "state": "Louisiana"
+    },
+    "1LA5": {
+        "lat": 30.799200058,
+        "long": -92.0597000122,
+        "name": "Morrow Strip",
+        "state": "Louisiana"
+    },
+    "1LS0": {
+        "lat": 30.2241001129,
+        "long": -90.8820037842,
+        "name": "Cal Mire Field",
+        "state": "Louisiana"
+    },
+    "1LS5": {
+        "lat": 29.8033008575,
+        "long": -93.334602356,
+        "name": "Cameron Airstrip",
+        "state": "Louisiana"
+    },
+    "1LS8": {
+        "lat": 31.682100296,
+        "long": -91.4987030029,
+        "name": "Summerell ",
+        "state": "Louisiana"
+    },
+    "20LS": {
+        "lat": 30.6229000092,
+        "long": -91.0329971313,
+        "name": "Clark Field",
+        "state": "Louisiana"
+    },
+    "21LA": {
+        "lat": 30.2968997955,
+        "long": -91.2149963379,
+        "name": "Southern Helicopters ",
+        "state": "Louisiana"
+    },
+    "21LS": {
+        "lat": 30.8703994751,
+        "long": -91.431098938,
+        "name": "Solitude Airstrip",
+        "state": "Louisiana"
+    },
+    "22LA": {
+        "lat": 30.9974994659,
+        "long": -91.8811035156,
+        "name": "Wd Flyers ",
+        "state": "Louisiana"
+    },
+    "22LS": {
+        "lat": 30.3978004456,
+        "long": -91.9738998413,
+        "name": "Couvillion ",
+        "state": "Louisiana"
+    },
+    "23LA": {
+        "lat": 30.6301994324,
+        "long": -90.079498291,
+        "name": "Warner-Thunder Hill ",
+        "state": "Louisiana"
+    },
+    "2LA0": {
+        "lat": 29.7896995544,
+        "long": -92.15650177,
+        "name": "Central Industries ",
+        "state": "Louisiana"
+    },
+    "2LA4": {
+        "lat": 30.9291000366,
+        "long": -92.1792984009,
+        "name": "Bunkie Flying Service ",
+        "state": "Louisiana"
+    },
+    "2LA5": {
+        "lat": 30.3432998657,
+        "long": -92.4320983887,
+        "name": "Reed Flying Service Inc ",
+        "state": "Louisiana"
+    },
+    "2LA6": {
+        "lat": 30.8334999084,
+        "long": -91.1668014526,
+        "name": "Howell 1 ",
+        "state": "Louisiana"
+    },
+    "2LA7": {
+        "lat": 32.9670982361,
+        "long": -91.4262008667,
+        "name": "Costello ",
+        "state": "Louisiana"
+    },
+    "2LS2": {
+        "lat": 29.872222,
+        "long": -91.543056,
+        "name": "Chitimacha Air Park",
+        "state": "Louisiana"
+    },
+    "2LS3": {
+        "lat": 30.618244,
+        "long": -91.752064,
+        "name": "Majors Airpark",
+        "state": "Louisiana"
+    },
+    "32LS": {
+        "lat": 30.41959953,
+        "long": -90.35900116,
+        "name": "Stevens Strip",
+        "state": "Louisiana"
+    },
+    "33LA": {
+        "lat": 30.0695991516,
+        "long": -91.9861984253,
+        "name": "Sky Ranch ",
+        "state": "Louisiana"
+    },
+    "34LA": {
+        "lat": 30.7716007233,
+        "long": -93.2713012695,
+        "name": "Swamp Smith ",
+        "state": "Louisiana"
+    },
+    "34LS": {
+        "lat": 30.0289001465,
+        "long": -92.014503479,
+        "name": "Coastal Ridge Airpark",
+        "state": "Louisiana"
+    },
+    "35LA": {
+        "lat": 29.9745006561,
+        "long": -92.1761016846,
+        "name": "Ms Pats ",
+        "state": "Louisiana"
+    },
+    "37LA": {
+        "lat": 31.7276992798,
+        "long": -91.582901001,
+        "name": "Wayne Brown ",
+        "state": "Louisiana"
+    },
+    "38LA": {
+        "lat": 30.7844009399,
+        "long": -92.1822967529,
+        "name": "Whiteville ",
+        "state": "Louisiana"
+    },
+    "38LS": {
+        "lat": 30.236700058,
+        "long": -91.8296966553,
+        "name": "Ace Flying ",
+        "state": "Louisiana"
+    },
+    "39LA": {
+        "lat": 30.58833333,
+        "long": -92.23055556,
+        "name": "Whitaker Ultralightport",
+        "state": "Louisiana"
+    },
+    "3LA0": {
+        "lat": 29.9197006226,
+        "long": -92.2473983765,
+        "name": "Harrington Flying Service ",
+        "state": "Louisiana"
+    },
+    "3LA1": {
+        "lat": 30.5585002899,
+        "long": -92.8042984009,
+        "name": "Wilder ",
+        "state": "Louisiana"
+    },
+    "3LA3": {
+        "lat": 30.5023994446,
+        "long": -91.2428970337,
+        "name": "La Coste Construction County ",
+        "state": "Louisiana"
+    },
+    "3LA4": {
+        "lat": 29.8001995087,
+        "long": -92.8001022339,
+        "name": "Little Pecan Island ",
+        "state": "Louisiana"
+    },
+    "3LA6": {
+        "lat": 30.1376991272,
+        "long": -93.0792999268,
+        "name": "Morgan Crop Service Nr 2 ",
+        "state": "Louisiana"
+    },
+    "3LA8": {
+        "lat": 30.1385002136,
+        "long": -93.227897644,
+        "name": "Open A-1 Ranch ",
+        "state": "Louisiana"
+    },
+    "3LA9": {
+        "lat": 30.2294006348,
+        "long": -93.0885009766,
+        "name": "Morgan Crop Service ",
+        "state": "Louisiana"
+    },
+    "40LA": {
+        "lat": 32.3460006714,
+        "long": -91.9695968628,
+        "name": "Woodsland Plantation ",
+        "state": "Louisiana"
+    },
+    "43LA": {
+        "lat": 32.747643,
+        "long": -93.874708,
+        "name": "Slay'S Airstrip",
+        "state": "Louisiana"
+    },
+    "44LA": {
+        "lat": 30.6473999023,
+        "long": -93.0551986694,
+        "name": "B T & K H Ranch ",
+        "state": "Louisiana"
+    },
+    "46LA": {
+        "lat": 32.7965011597,
+        "long": -91.9468002319,
+        "name": "Davis Plantation ",
+        "state": "Louisiana"
+    },
+    "46LS": {
+        "lat": 30.086111,
+        "long": -92.532222,
+        "name": "Venissat Airstrip",
+        "state": "Louisiana"
+    },
+    "4LA3": {
+        "lat": 30.807800293,
+        "long": -91.2133026123,
+        "name": "Jackson ",
+        "state": "Louisiana"
+    },
+    "4LA8": {
+        "lat": 30.7077007294,
+        "long": -90.8742980957,
+        "name": "Overton Private ",
+        "state": "Louisiana"
+    },
+    "4LA9": {
+        "lat": 29.7362995148,
+        "long": -90.6342010498,
+        "name": "Blouin Flightpark Ultralightport",
+        "state": "Louisiana"
+    },
+    "51LA": {
+        "lat": 30.1434993744,
+        "long": -91.1531982422,
+        "name": "R T Leblanc ",
+        "state": "Louisiana"
+    },
+    "51LS": {
+        "lat": 30.438053,
+        "long": -92.116653,
+        "name": "Red Oak Landing",
+        "state": "Louisiana"
+    },
+    "54LA": {
+        "lat": 30.5627002716,
+        "long": -91.0383987427,
+        "name": "Triangle J ",
+        "state": "Louisiana"
+    },
+    "56LA": {
+        "lat": 32.3452987671,
+        "long": -93.8182983398,
+        "name": "Old Hickory Ranch ",
+        "state": "Louisiana"
+    },
+    "58LA": {
+        "lat": 30.9195995331,
+        "long": -91.1668014526,
+        "name": "Sydal Acres ",
+        "state": "Louisiana"
+    },
+    "5LA0": {
+        "lat": 32.5918006897,
+        "long": -93.8280029297,
+        "name": "Juneau Ultralightport",
+        "state": "Louisiana"
+    },
+    "5LA1": {
+        "lat": 31.0279998779,
+        "long": -91.9812011719,
+        "name": "Kent's Flying Service ",
+        "state": "Louisiana"
+    },
+    "5LS6": {
+        "lat": 32.7650985718,
+        "long": -91.7962036133,
+        "name": "Arkla Flyers Inc ",
+        "state": "Louisiana"
+    },
+    "5LS9": {
+        "lat": 31.5316009521,
+        "long": -93.7077026367,
+        "name": "Ammons ",
+        "state": "Louisiana"
+    },
+    "62LA": {
+        "lat": 30.0751991272,
+        "long": -92.2136993408,
+        "name": "Ken Guidry Nr 4 ",
+        "state": "Louisiana"
+    },
+    "63LA": {
+        "lat": 29.964099884,
+        "long": -91.9121017456,
+        "name": "Leonards Airfield & Indust Park ",
+        "state": "Louisiana"
+    },
+    "65LA": {
+        "lat": 29.8661003113,
+        "long": -90.0222015381,
+        "name": "Southern Seaplane ",
+        "state": "Louisiana"
+    },
+    "66LA": {
+        "lat": 30.5104999542,
+        "long": -91.3923034668,
+        "name": "Schexnayder ",
+        "state": "Louisiana"
+    },
+    "68LA": {
+        "lat": 32.3306007385,
+        "long": -93.5171966553,
+        "name": "Pilkinton Airstrip",
+        "state": "Louisiana"
+    },
+    "6LA1": {
+        "lat": 32.9840011597,
+        "long": -91.2059020996,
+        "name": "Cottonwood ",
+        "state": "Louisiana"
+    },
+    "6LA4": {
+        "lat": 30.807100296,
+        "long": -92.591796875,
+        "name": "Dyer ",
+        "state": "Louisiana"
+    },
+    "6LA5": {
+        "lat": 30.4547996521,
+        "long": -92.2406005859,
+        "name": "Church Point Flyers ",
+        "state": "Louisiana"
+    },
+    "6LA6": {
+        "lat": 32.2182006836,
+        "long": -91.8682022095,
+        "name": "Williams Flying Service ",
+        "state": "Louisiana"
+    },
+    "70LA": {
+        "lat": 31.1690998077,
+        "long": -92.7563018799,
+        "name": "Roland ",
+        "state": "Louisiana"
+    },
+    "71LA": {
+        "lat": 32.4331016541,
+        "long": -91.3152008057,
+        "name": "Gustafson ",
+        "state": "Louisiana"
+    },
+    "78LA": {
+        "lat": 32.2667999268,
+        "long": -93.7251968384,
+        "name": "Heinsohn's Airfield",
+        "state": "Louisiana"
+    },
+    "7LA0": {
+        "lat": 30.525100708,
+        "long": -91.5319976807,
+        "name": "Valverda Strip",
+        "state": "Louisiana"
+    },
+    "7LA1": {
+        "lat": 29.4582996368,
+        "long": -89.6759033203,
+        "name": "Birdwin ",
+        "state": "Louisiana"
+    },
+    "7LA3": {
+        "lat": 30.4829998016,
+        "long": -93.2287979126,
+        "name": "Habetz ",
+        "state": "Louisiana"
+    },
+    "7LA4": {
+        "lat": 30.1252002716,
+        "long": -92.2195968628,
+        "name": "Gladney ",
+        "state": "Louisiana"
+    },
+    "80LA": {
+        "lat": 30.4263000488,
+        "long": -92.3181991577,
+        "name": "Luscombe Lane 1 ",
+        "state": "Louisiana"
+    },
+    "82LA": {
+        "lat": 29.9323997498,
+        "long": -89.932800293,
+        "name": "Fisher's Field",
+        "state": "Louisiana"
+    },
+    "83LA": {
+        "lat": 29.5555000305,
+        "long": -90.329498291,
+        "name": "Ledet Airfield",
+        "state": "Louisiana"
+    },
+    "84LA": {
+        "lat": 32.552898407,
+        "long": -93.5932006836,
+        "name": "Touchstone Ridge Ultralightport",
+        "state": "Louisiana"
+    },
+    "86LA": {
+        "lat": 30.9738006592,
+        "long": -90.6657028198,
+        "name": "Spring ",
+        "state": "Louisiana"
+    },
+    "88LA": {
+        "lat": 30.1294002533,
+        "long": -92.1351013184,
+        "name": "Freebird Field",
+        "state": "Louisiana"
+    },
+    "8LA9": {
+        "lat": 30.3570995331,
+        "long": -92.7445983887,
+        "name": "Koll ",
+        "state": "Louisiana"
+    },
+    "8TA9": {
+        "lat": 30.635799408,
+        "long": -92.0584030151,
+        "name": "Star Dusters ",
+        "state": "Louisiana"
+    },
+    "90LA": {
+        "lat": 32.613899231,
+        "long": -93.323600769,
+        "name": "Sharp Field",
+        "state": "Louisiana"
+    },
+    "91LA": {
+        "lat": 30.5345993042,
+        "long": -92.367401123,
+        "name": "Koch ",
+        "state": "Louisiana"
+    },
+    "97LA": {
+        "lat": 30.0338001251,
+        "long": -92.0551986694,
+        "name": "Greene Air Park",
+        "state": "Louisiana"
+    },
+    "99LA": {
+        "lat": 30.2894001007,
+        "long": -92.388999939,
+        "name": "Lawson Field",
+        "state": "Louisiana"
+    },
+    "9LA1": {
+        "lat": 31.9067993164,
+        "long": -91.7593002319,
+        "name": "Turkey Creek Lake ",
+        "state": "Louisiana"
+    },
+    "9LA2": {
+        "lat": 32.1403999329,
+        "long": -91.4112014771,
+        "name": "Norris Airstrip",
+        "state": "Louisiana"
+    },
+    "9LA6": {
+        "lat": 31.3068008423,
+        "long": -92.6115036011,
+        "name": "Chandler ",
+        "state": "Louisiana"
+    },
+    "9LA9": {
+        "lat": 30.733499527,
+        "long": -90.4501037598,
+        "name": "Skyline Airpark",
+        "state": "Louisiana"
+    },
+    "9LS1": {
+        "lat": 32.7000999451,
+        "long": -91.3833999634,
+        "name": "Bayou Meadows ",
+        "state": "Louisiana"
+    },
+    "9LS5": {
+        "lat": 32.2835006714,
+        "long": -91.1278991699,
+        "name": "Red Beard Dusting Service ",
+        "state": "Louisiana"
+    },
+    "9LS9": {
+        "lat": 32.4099006653,
+        "long": -91.3487014771,
+        "name": "4B Ranch ",
+        "state": "Louisiana"
+    },
+    "K0M8": {
+        "lat": 32.8259010315,
+        "long": -91.1876983643,
+        "name": "Byerley ",
+        "state": "Louisiana"
+    },
+    "K0M9": {
+        "lat": 32.4107017517,
+        "long": -91.4987030029,
+        "name": "Delhi Municipal ",
+        "state": "Louisiana"
+    },
+    "K0R3": {
+        "lat": 29.97579956,
+        "long": -92.084198,
+        "name": "Abbeville Chris Crusta Memorial ",
+        "state": "Louisiana"
+    },
+    "K0R4": {
+        "lat": 31.5620002747,
+        "long": -91.5065002441,
+        "name": "Concordia Parish ",
+        "state": "Louisiana"
+    },
+    "K0R5": {
+        "lat": 31.9636993408,
+        "long": -92.6603012085,
+        "name": "David G Joyce ",
+        "state": "Louisiana"
+    },
+    "K1L0": {
+        "lat": 30.0869998932,
+        "long": -90.5826034546,
+        "name": "St John The Baptist Parish ",
+        "state": "Louisiana"
+    },
+    "K1R1": {
+        "lat": 31.6569004059,
+        "long": -92.1575012207,
+        "name": "Jena ",
+        "state": "Louisiana"
+    },
+    "K1R4": {
+        "lat": 31.1263999939,
+        "long": -92.5014038086,
+        "name": "Woodworth ",
+        "state": "Louisiana"
+    },
+    "K2L0": {
+        "lat": 31.3460998535,
+        "long": -92.4436035156,
+        "name": "Pineville Municipal ",
+        "state": "Louisiana"
+    },
+    "K2R1": {
+        "lat": 29.89909935,
+        "long": -91.6660003662,
+        "name": "Le Maire Memorial ",
+        "state": "Louisiana"
+    },
+    "K2R6": {
+        "lat": 30.9566993713,
+        "long": -92.2341003418,
+        "name": "Bunkie Municipal ",
+        "state": "Louisiana"
+    },
+    "K2R7": {
+        "lat": 30.8194007874,
+        "long": -90.1125030518,
+        "name": "Franklinton ",
+        "state": "Louisiana"
+    },
+    "K3F3": {
+        "lat": 32.0735015869,
+        "long": -93.7655029297,
+        "name": "C E 'Rusty' Williams ",
+        "state": "Louisiana"
+    },
+    "K3F4": {
+        "lat": 32.8613014221,
+        "long": -94.0102005005,
+        "name": "Vivian ",
+        "state": "Louisiana"
+    },
+    "K3R2": {
+        "lat": 30.1609992981,
+        "long": -92.4849014282,
+        "name": "Le Gros Memorial ",
+        "state": "Louisiana"
+    },
+    "K3R4": {
+        "lat": 31.54490089,
+        "long": -93.4865036,
+        "name": "Hart ",
+        "state": "Louisiana"
+    },
+    "K3R7": {
+        "lat": 30.2427005768,
+        "long": -92.6734008789,
+        "name": "Jennings ",
+        "state": "Louisiana"
+    },
+    "K4R7": {
+        "lat": 30.466299057,
+        "long": -92.4237976074,
+        "name": "Eunice ",
+        "state": "Louisiana"
+    },
+    "K5F0": {
+        "lat": 32.5307006836,
+        "long": -92.9540023804,
+        "name": "Arcadia Bienville Parish ",
+        "state": "Louisiana"
+    },
+    "K5F4": {
+        "lat": 32.7885017395,
+        "long": -93.0037002563,
+        "name": "Homer Municipal ",
+        "state": "Louisiana"
+    },
+    "K5R8": {
+        "lat": 30.4412002563,
+        "long": -93.4735031128,
+        "name": "De Quincy Industrial Airpark",
+        "state": "Louisiana"
+    },
+    "K9M6": {
+        "lat": 32.8492012024,
+        "long": -91.4039001465,
+        "name": "Kelly ",
+        "state": "Louisiana"
+    },
+    "KACP": {
+        "lat": 30.7502994537,
+        "long": -92.6883010864,
+        "name": "Allen Parish ",
+        "state": "Louisiana"
+    },
+    "KAEX": {
+        "lat": 31.3274002075,
+        "long": -92.5497970581,
+        "name": "Alexandria International ",
+        "state": "Louisiana"
+    },
+    "KARA": {
+        "lat": 30.0377998352,
+        "long": -91.8839035034,
+        "name": "Acadiana Regional ",
+        "state": "Louisiana"
+    },
+    "KASD": {
+        "lat": 30.3451004,
+        "long": -89.82080078,
+        "name": "Slidell ",
+        "state": "Louisiana"
+    },
+    "KBAD": {
+        "lat": 32.5018005371,
+        "long": -93.6626968384,
+        "name": "Barksdale Air Force Base",
+        "state": "Louisiana"
+    },
+    "KBQP": {
+        "lat": 32.75510025,
+        "long": -91.88189697,
+        "name": "Morehouse Memorial ",
+        "state": "Louisiana"
+    },
+    "KBTR": {
+        "lat": 30.53319931,
+        "long": -91.14959717,
+        "name": "Baton Rouge Metropolitan Ryan Field",
+        "state": "Louisiana"
+    },
+    "KBXA": {
+        "lat": 30.8136997223,
+        "long": -89.8649978638,
+        "name": "George R Carr Memorial Air Field",
+        "state": "Louisiana"
+    },
+    "KCWF": {
+        "lat": 30.2105998993,
+        "long": -93.1432037354,
+        "name": "Chennault International ",
+        "state": "Louisiana"
+    },
+    "KDRI": {
+        "lat": 30.8316993713,
+        "long": -93.3398971558,
+        "name": "Beauregard Regional ",
+        "state": "Louisiana"
+    },
+    "KDTN": {
+        "lat": 32.5401992798,
+        "long": -93.7450027466,
+        "name": "Shreveport Downtown ",
+        "state": "Louisiana"
+    },
+    "KESF": {
+        "lat": 31.3948993683,
+        "long": -92.2957992554,
+        "name": "Esler Regional ",
+        "state": "Louisiana"
+    },
+    "KF24": {
+        "lat": 32.6459999084,
+        "long": -93.2981033325,
+        "name": "Minden Webster ",
+        "state": "Louisiana"
+    },
+    "KF86": {
+        "lat": 32.12239838,
+        "long": -92.05290222,
+        "name": "Columbia ",
+        "state": "Louisiana"
+    },
+    "KF87": {
+        "lat": 32.7249984741,
+        "long": -92.3371963501,
+        "name": "Union Parish ",
+        "state": "Louisiana"
+    },
+    "KF88": {
+        "lat": 32.2019996643,
+        "long": -92.7329025269,
+        "name": "Jonesboro ",
+        "state": "Louisiana"
+    },
+    "KF89": {
+        "lat": 32.1529998779,
+        "long": -91.6985015869,
+        "name": "Winnsboro Municipal ",
+        "state": "Louisiana"
+    },
+    "KGAO": {
+        "lat": 29.44479942,
+        "long": -90.26110077,
+        "name": "South Lafourche Leonard Miller Jr ",
+        "state": "Louisiana"
+    },
+    "KHDC": {
+        "lat": 30.52160072,
+        "long": -90.41840363,
+        "name": "Hammond Northshore Regional ",
+        "state": "Louisiana"
+    },
+    "KHUM": {
+        "lat": 29.5664997101,
+        "long": -90.6604003906,
+        "name": "Houma Terrebonne ",
+        "state": "Louisiana"
+    },
+    "KHZR": {
+        "lat": 30.71829987,
+        "long": -91.47869873,
+        "name": "False River Regional ",
+        "state": "Louisiana"
+    },
+    "KIER": {
+        "lat": 31.7357006073,
+        "long": -93.0990982056,
+        "name": "Natchitoches Regional ",
+        "state": "Louisiana"
+    },
+    "KL31": {
+        "lat": 30.44510078,
+        "long": -89.98889923,
+        "name": "St. Tammany Regional ",
+        "state": "Louisiana"
+    },
+    "KL32": {
+        "lat": 31.6252994537,
+        "long": -91.8292007446,
+        "name": "Jonesville ",
+        "state": "Louisiana"
+    },
+    "KL33": {
+        "lat": 31.9974002838,
+        "long": -91.2472991943,
+        "name": "Tensas Parish ",
+        "state": "Louisiana"
+    },
+    "KL38": {
+        "lat": 30.17270088,
+        "long": -90.94059753,
+        "name": "Louisiana Regional ",
+        "state": "Louisiana"
+    },
+    "KL39": {
+        "lat": 31.16860008,
+        "long": -93.34249878,
+        "name": "Leesville ",
+        "state": "Louisiana"
+    },
+    "KL47": {
+        "lat": 31.8953990936,
+        "long": -92.2179031372,
+        "name": "Olla ",
+        "state": "Louisiana"
+    },
+    "KL66": {
+        "lat": 31.47750092,
+        "long": -92.46109772,
+        "name": "Pollock Municipal ",
+        "state": "Louisiana"
+    },
+    "KL83": {
+        "lat": 29.747800827,
+        "long": -90.832901001,
+        "name": "Thibodaux Municipal ",
+        "state": "Louisiana"
+    },
+    "KLCH": {
+        "lat": 30.1261005402,
+        "long": -93.2232971191,
+        "name": "Lake Charles Regional ",
+        "state": "Louisiana"
+    },
+    "KLFT": {
+        "lat": 30.20529938,
+        "long": -91.98760223,
+        "name": "Lafayette Regional ",
+        "state": "Louisiana"
+    },
+    "KM79": {
+        "lat": 32.4852981567,
+        "long": -91.7703018188,
+        "name": "John H Hooks Jr Memorial ",
+        "state": "Louisiana"
+    },
+    "KM80": {
+        "lat": 32.4163017273,
+        "long": -91.1489028931,
+        "name": "Scott ",
+        "state": "Louisiana"
+    },
+    "KMKV": {
+        "lat": 31.0946998596,
+        "long": -92.0690994263,
+        "name": "Marksville Municipal ",
+        "state": "Louisiana"
+    },
+    "KMLU": {
+        "lat": 32.5108985901,
+        "long": -92.0376968384,
+        "name": "Monroe Regional ",
+        "state": "Louisiana"
+    },
+    "KMSY": {
+        "lat": 29.9934005737,
+        "long": -90.2580032349,
+        "name": "Louis Armstrong New Orleans International ",
+        "state": "Louisiana"
+    },
+    "KNBG": {
+        "lat": 29.82530022,
+        "long": -90.03500366,
+        "name": "New Orleans Nas Jrb/Alvin Callender Field/ ",
+        "state": "Louisiana"
+    },
+    "KNEW": {
+        "lat": 30.0424003601,
+        "long": -90.0282974243,
+        "name": "Lakefront ",
+        "state": "Louisiana"
+    },
+    "KOPL": {
+        "lat": 30.5583992004,
+        "long": -92.0994033813,
+        "name": "St Landry Parish Ahart Field",
+        "state": "Louisiana"
+    },
+    "KPOE": {
+        "lat": 31.0447998,
+        "long": -93.1917038,
+        "name": "Polk Army Air Field",
+        "state": "Louisiana"
+    },
+    "KPTN": {
+        "lat": 29.7094993591,
+        "long": -91.3389968872,
+        "name": "Harry P Williams Memorial ",
+        "state": "Louisiana"
+    },
+    "KREG": {
+        "lat": 30.1713667,
+        "long": -90.9403861,
+        "name": "Louisiana Regional ",
+        "state": "Louisiana"
+    },
+    "KRSN": {
+        "lat": 32.5144004822,
+        "long": -92.5916976929,
+        "name": "Ruston Regional ",
+        "state": "Louisiana"
+    },
+    "KSHV": {
+        "lat": 32.4466018677,
+        "long": -93.8255996704,
+        "name": "Shreveport Regional ",
+        "state": "Louisiana"
+    },
+    "KSPH": {
+        "lat": 32.9833984375,
+        "long": -93.4092025757,
+        "name": "Springhill ",
+        "state": "Louisiana"
+    },
+    "KTVR": {
+        "lat": 32.351600647,
+        "long": -91.0277023315,
+        "name": "Vicksburg Tallulah Regional ",
+        "state": "Louisiana"
+    },
+    "KUXL": {
+        "lat": 30.13139915,
+        "long": -93.37609863,
+        "name": "Southland Field",
+        "state": "Louisiana"
+    },
+    "LA01": {
+        "lat": 30.483499527,
+        "long": -92.5467987061,
+        "name": "Millers Flying Service ",
+        "state": "Louisiana"
+    },
+    "LA03": {
+        "lat": 30.3532009125,
+        "long": -91.2820968628,
+        "name": "Daniel ",
+        "state": "Louisiana"
+    },
+    "LA04": {
+        "lat": 30.0501995087,
+        "long": -91.0668029785,
+        "name": "Cane-Air ",
+        "state": "Louisiana"
+    },
+    "LA07": {
+        "lat": 30.5174999237,
+        "long": -90.0083007813,
+        "name": "Price Ultralightport",
+        "state": "Louisiana"
+    },
+    "LA13": {
+        "lat": 30.5781993866,
+        "long": -90.31590271,
+        "name": "Shaw Crop Service ",
+        "state": "Louisiana"
+    },
+    "LA15": {
+        "lat": 30.2598991394,
+        "long": -91.2862014771,
+        "name": "Wilbert ",
+        "state": "Louisiana"
+    },
+    "LA16": {
+        "lat": 30.2460002899,
+        "long": -91.8667984009,
+        "name": "Castille Field",
+        "state": "Louisiana"
+    },
+    "LA17": {
+        "lat": 32.6017990112,
+        "long": -93.6940994263,
+        "name": "Pioneer Field Flight Park Ultralightport",
+        "state": "Louisiana"
+    },
+    "LA21": {
+        "lat": 30.2548999786,
+        "long": -93.1352005005,
+        "name": "Chloe ",
+        "state": "Louisiana"
+    },
+    "LA25": {
+        "lat": 30.6973991394,
+        "long": -92.4140014648,
+        "name": "Central Farmers Coop ",
+        "state": "Louisiana"
+    },
+    "LA26": {
+        "lat": 30.6611003876,
+        "long": -90.2332992554,
+        "name": "Unicorn ",
+        "state": "Louisiana"
+    },
+    "LA30": {
+        "lat": 30.2481994629,
+        "long": -92.2416992188,
+        "name": "Phoenix ",
+        "state": "Louisiana"
+    },
+    "LA31": {
+        "lat": 30.2000007629,
+        "long": -92.9332962036,
+        "name": "Gotreaux Strip",
+        "state": "Louisiana"
+    },
+    "LA32": {
+        "lat": 30.0834999084,
+        "long": -92.6836013794,
+        "name": "Lake Air Service ",
+        "state": "Louisiana"
+    },
+    "LA33": {
+        "lat": 32.576499939,
+        "long": -92.1137008667,
+        "name": "Cuba Farm ",
+        "state": "Louisiana"
+    },
+    "LA34": {
+        "lat": 32.4052009583,
+        "long": -92.0663986206,
+        "name": "Reno Flight Park ",
+        "state": "Louisiana"
+    },
+    "LA35": {
+        "lat": 31.447599411,
+        "long": -91.6838989258,
+        "name": "W & E Air Service ",
+        "state": "Louisiana"
+    },
+    "LA36": {
+        "lat": 30.07980537,
+        "long": -90.8932724,
+        "name": "Whitehall Field Ultralightport",
+        "state": "Louisiana"
+    },
+    "LA40": {
+        "lat": 31.3439006805,
+        "long": -91.5927963257,
+        "name": "F L Braughton ",
+        "state": "Louisiana"
+    },
+    "LA41": {
+        "lat": 30.315667,
+        "long": -91.940778,
+        "name": "Dupuis ",
+        "state": "Louisiana"
+    },
+    "LA42": {
+        "lat": 30.3502998352,
+        "long": -90.922203064,
+        "name": "Capozzoli ",
+        "state": "Louisiana"
+    },
+    "LA46": {
+        "lat": 30.5041007996,
+        "long": -91.3022994995,
+        "name": "Omni ",
+        "state": "Louisiana"
+    },
+    "LA48": {
+        "lat": 30.9939002991,
+        "long": -92.0446014404,
+        "name": "Max ",
+        "state": "Louisiana"
+    },
+    "LA51": {
+        "lat": 32.0181999207,
+        "long": -93.4307022095,
+        "name": "Stuart Airstrip",
+        "state": "Louisiana"
+    },
+    "LA52": {
+        "lat": 32.6987991333,
+        "long": -93.8237991333,
+        "name": "T & M Ag Aviation ",
+        "state": "Louisiana"
+    },
+    "LA53": {
+        "lat": 31.9775,
+        "long": -91.263889,
+        "name": "Tensas Flying Service ",
+        "state": "Louisiana"
+    },
+    "LA54": {
+        "lat": 32.837600708,
+        "long": -93.8376998901,
+        "name": "Gilliam ",
+        "state": "Louisiana"
+    },
+    "LA56": {
+        "lat": 32.3418006897,
+        "long": -93.6585006714,
+        "name": "Naylor ",
+        "state": "Louisiana"
+    },
+    "LA57": {
+        "lat": 30.39909935,
+        "long": -92.408996582,
+        "name": "Mowata Flying Service-Eunice ",
+        "state": "Louisiana"
+    },
+    "LA58": {
+        "lat": 32.9790000916,
+        "long": -92.5932006836,
+        "name": "Peter Creek Ranch ",
+        "state": "Louisiana"
+    },
+    "LA60": {
+        "lat": 29.8169002533,
+        "long": -92.1167984009,
+        "name": "Live Oak Landing Strip",
+        "state": "Louisiana"
+    },
+    "LA61": {
+        "lat": 30.00839996,
+        "long": -92.24120331,
+        "name": "Kenan Airstrip",
+        "state": "Louisiana"
+    },
+    "LA63": {
+        "lat": 32.971698761,
+        "long": -91.8308029175,
+        "name": "Travis ",
+        "state": "Louisiana"
+    },
+    "LA67": {
+        "lat": 30.9515991211,
+        "long": -91.5848007202,
+        "name": "Angola Airstrip",
+        "state": "Louisiana"
+    },
+    "LA68": {
+        "lat": 30.3157997131,
+        "long": -92.5198974609,
+        "name": "Zaunbrecher Strip",
+        "state": "Louisiana"
+    },
+    "LA71": {
+        "lat": 30.2243995667,
+        "long": -93.0001983643,
+        "name": "O'Brien Flying Service ",
+        "state": "Louisiana"
+    },
+    "LA73": {
+        "lat": 29.6086006165,
+        "long": -90.8022994995,
+        "name": "Huffaker Field",
+        "state": "Louisiana"
+    },
+    "LA75": {
+        "lat": 30.2052784,
+        "long": -92.21444702,
+        "name": "Glenn's Strip Ultralightport",
+        "state": "Louisiana"
+    },
+    "LA76": {
+        "lat": 30.2294006348,
+        "long": -91.9084014893,
+        "name": "Spillers Club ",
+        "state": "Louisiana"
+    },
+    "LA77": {
+        "lat": 30.9631996155,
+        "long": -92.1745986938,
+        "name": "Mixon ",
+        "state": "Louisiana"
+    },
+    "LA79": {
+        "lat": 30.7185001373,
+        "long": -90.3579025269,
+        "name": "Sycamore ",
+        "state": "Louisiana"
+    },
+    "LA81": {
+        "lat": 30.0016002655,
+        "long": -92.2800979614,
+        "name": "Cheneyville ",
+        "state": "Louisiana"
+    },
+    "LA83": {
+        "lat": 30.8959999084,
+        "long": -91.0458984375,
+        "name": "Mc Cutcheon Field",
+        "state": "Louisiana"
+    },
+    "LA87": {
+        "lat": 30.5095996857,
+        "long": -90.1529006958,
+        "name": "Covington-Vincent ",
+        "state": "Louisiana"
+    },
+    "LA88": {
+        "lat": 30.3446006775,
+        "long": -92.3432006836,
+        "name": "Hensgens Strip",
+        "state": "Louisiana"
+    },
+    "LA90": {
+        "lat": 30.4610004425,
+        "long": -92.4262008667,
+        "name": "Walsh ",
+        "state": "Louisiana"
+    },
+    "LA91": {
+        "lat": 30.2213001251,
+        "long": -91.8335037231,
+        "name": "Gary Landing Strip Ultralightport",
+        "state": "Louisiana"
+    },
+    "LA94": {
+        "lat": 30.7224006653,
+        "long": -90.0653991699,
+        "name": "Corkern ",
+        "state": "Louisiana"
+    },
+    "LS00": {
+        "lat": 30.6755008698,
+        "long": -91.1143035889,
+        "name": "Whitehead Ultralightport",
+        "state": "Louisiana"
+    },
+    "LS03": {
+        "lat": 32.2933006287,
+        "long": -91.5932998657,
+        "name": "Stephen's Flying Service ",
+        "state": "Louisiana"
+    },
+    "LS04": {
+        "lat": 32.3166999817,
+        "long": -91.8395004272,
+        "name": "Bobby Jones Flying Service Inc ",
+        "state": "Louisiana"
+    },
+    "LS09": {
+        "lat": 30.6958007813,
+        "long": -92.3175964355,
+        "name": "Sylvester's ",
+        "state": "Louisiana"
+    },
+    "LS10": {
+        "lat": 30.2721004486,
+        "long": -93.3117980957,
+        "name": "Reynolds ",
+        "state": "Louisiana"
+    },
+    "LS11": {
+        "lat": 32.1534996033,
+        "long": -91.8436965942,
+        "name": "Liddieville ",
+        "state": "Louisiana"
+    },
+    "LS14": {
+        "lat": 30.0709991455,
+        "long": -92.8251037598,
+        "name": "Lyon ",
+        "state": "Louisiana"
+    },
+    "LS16": {
+        "lat": 32.0112991333,
+        "long": -91.7550964355,
+        "name": "Circle G ",
+        "state": "Louisiana"
+    },
+    "LS18": {
+        "lat": 30.2238998413,
+        "long": -92.7786026001,
+        "name": "Ag Aviation ",
+        "state": "Louisiana"
+    },
+    "LS21": {
+        "lat": 29.6704998016,
+        "long": -90.7705993652,
+        "name": "Southland Strip Ultralightport",
+        "state": "Louisiana"
+    },
+    "LS25": {
+        "lat": 30.7045993805,
+        "long": -91.0606994629,
+        "name": "Annison Private ",
+        "state": "Louisiana"
+    },
+    "LS34": {
+        "lat": 30.3066997528,
+        "long": -91.8764038086,
+        "name": "Bordelon Airpark",
+        "state": "Louisiana"
+    },
+    "LS35": {
+        "lat": 30.7625007629,
+        "long": -91.2772979736,
+        "name": "Nauga Field",
+        "state": "Louisiana"
+    },
+    "LS36": {
+        "lat": 30.2502002716,
+        "long": -92.9720001221,
+        "name": "Light Plane Flyers Airfield",
+        "state": "Louisiana"
+    },
+    "LS38": {
+        "lat": 30.0130996704,
+        "long": -91.8692016602,
+        "name": "Richard's ",
+        "state": "Louisiana"
+    },
+    "LS39": {
+        "lat": 30.5893993378,
+        "long": -90.9845962524,
+        "name": "Country Bend ",
+        "state": "Louisiana"
+    },
+    "LS40": {
+        "lat": 29.9519004822,
+        "long": -90.2861022949,
+        "name": "St Charles ",
+        "state": "Louisiana"
+    },
+    "LS41": {
+        "lat": 32.5671005249,
+        "long": -93.8788986206,
+        "name": "Tater Patch Ultralightport",
+        "state": "Louisiana"
+    },
+    "LS43": {
+        "lat": 29.6718997955,
+        "long": -90.7676010132,
+        "name": "Southland Strip Nr 2 Ultralightport",
+        "state": "Louisiana"
+    },
+    "LS44": {
+        "lat": 30.0898990631,
+        "long": -92.3436965942,
+        "name": "Ken Guidry No 3 ",
+        "state": "Louisiana"
+    },
+    "LS46": {
+        "lat": 31.4584999084,
+        "long": -91.8228988647,
+        "name": "Blount ",
+        "state": "Louisiana"
+    },
+    "LS49": {
+        "lat": 30.3027000427,
+        "long": -91.2714996338,
+        "name": "Simpson ",
+        "state": "Louisiana"
+    },
+    "LS54": {
+        "lat": 30.6919002533,
+        "long": -91.1875991821,
+        "name": "Brian's Ultralightport",
+        "state": "Louisiana"
+    },
+    "LS59": {
+        "lat": 30.6294002533,
+        "long": -92.1878967285,
+        "name": "La Petite Airdrome Ultralightport",
+        "state": "Louisiana"
+    },
+    "LS68": {
+        "lat": 29.9347000122,
+        "long": -92.2135009766,
+        "name": "Ken Guidry Nr 1 ",
+        "state": "Louisiana"
+    },
+    "LS69": {
+        "lat": 32.6435012817,
+        "long": -93.662399292,
+        "name": "L J Earnest ",
+        "state": "Louisiana"
+    },
+    "LS72": {
+        "lat": 30.202999115,
+        "long": -92.8121032715,
+        "name": "Aerolite Aero Park Ultralightport",
+        "state": "Louisiana"
+    },
+    "LS76": {
+        "lat": 30.4626998901,
+        "long": -90.1700973511,
+        "name": "Hickham Field",
+        "state": "Louisiana"
+    },
+    "LS77": {
+        "lat": 30.7271003723,
+        "long": -91.1485977173,
+        "name": "A & P Airpark",
+        "state": "Louisiana"
+    },
+    "LS83": {
+        "lat": 32.0626564026,
+        "long": -91.2542800903,
+        "name": "Kifer ",
+        "state": "Louisiana"
+    },
+    "LS86": {
+        "lat": 30.6819000244,
+        "long": -90.4192962646,
+        "name": "Le Blanc Field",
+        "state": "Louisiana"
+    },
+    "LS89": {
+        "lat": 30.9466991425,
+        "long": -91.4749984741,
+        "name": "Sara Field",
+        "state": "Louisiana"
+    },
+    "LS90": {
+        "lat": 32.2624015808,
+        "long": -93.9356994629,
+        "name": "Caddo Detention Center ",
+        "state": "Louisiana"
+    },
+    "LS91": {
+        "lat": 30.4172000885,
+        "long": -91.9736022949,
+        "name": "Tim Bullard Memorial ",
+        "state": "Louisiana"
+    },
+    "LS92": {
+        "lat": 30.5974006653,
+        "long": -90.31590271,
+        "name": "Koenig Airpark",
+        "state": "Louisiana"
+    },
+    "LS93": {
+        "lat": 29.6107997894,
+        "long": -90.898399353,
+        "name": "Greenwood Plantation Ultralightport",
+        "state": "Louisiana"
+    }
+}

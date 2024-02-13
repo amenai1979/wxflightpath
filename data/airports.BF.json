@@ -1,0 +1,247 @@
+{
+  "DFCA": {
+    "lat": 13.0670003891,
+    "long": -1.1000000238,
+    "name": "Kaya "
+  },
+  "DFCB": {
+    "lat": 13.3999996185,
+    "long": -1.0670000315,
+    "name": "Barsalogho "
+  },
+  "DFCC": {
+    "lat": 13.5670003891,
+    "long": -2.4170000553,
+    "name": "Ouahigouya "
+  },
+  "DFCD": {
+    "lat": 12.5500001907,
+    "long": -2.617000103,
+    "name": "Didyr "
+  },
+  "DFCE": {
+    "lat": 9.8830003738,
+    "long": -2.9170000553,
+    "name": "Batie "
+  },
+  "DFCG": {
+    "lat": 13.3170003891,
+    "long": -1.5329999924,
+    "name": "Kongoussi "
+  },
+  "DFCI": {
+    "lat": 13.7670001984,
+    "long": -2.0829999447,
+    "name": "Titao "
+  },
+  "DFCJ": {
+    "lat": 14.1000003815,
+    "long": -1.6330000162,
+    "name": "Djibo "
+  },
+  "DFCK": {
+    "lat": 12.2670001984,
+    "long": -2.4000000954,
+    "name": "Koudougou "
+  },
+  "DFCL": {
+    "lat": 11.1000003815,
+    "long": -2.0999999046,
+    "name": "Leo "
+  },
+  "DFCM": {
+    "lat": 11.6669998169,
+    "long": -1.0670000315,
+    "name": "Manga "
+  },
+  "DFCP": {
+    "lat": 11.1499996185,
+    "long": -1.1499999762,
+    "name": "Po "
+  },
+  "DFCR": {
+    "lat": 11.6169996262,
+    "long": -2.75,
+    "name": "Poura "
+  },
+  "DFCS": {
+    "lat": 13.4329996109,
+    "long": -2,
+    "name": "Seguenega "
+  },
+  "DFCT": {
+    "lat": 12.1999998093,
+    "long": -2.5829999447,
+    "name": "Tenado "
+  },
+  "DFCU": {
+    "lat": 13.1999998093,
+    "long": -2.367000103,
+    "name": "Gourcy "
+  },
+  "DFCY": {
+    "lat": 12.9499998093,
+    "long": -2.2829999924,
+    "name": "Yako "
+  },
+  "DFEA": {
+    "lat": 12.6499996185,
+    "long": -0.5669999719,
+    "name": "Boulsa "
+  },
+  "DFEB": {
+    "lat": 12.9829998016,
+    "long": -0.1669999957,
+    "name": "Bogande "
+  },
+  "DFEC": {
+    "lat": 11.6999998093,
+    "long": 0.150000006,
+    "name": "Komin-Yanga "
+  },
+  "DFED": {
+    "lat": 12.0500001907,
+    "long": 1.7829999924,
+    "name": "Diapaga "
+  },
+  "DFEE": {
+    "lat": 14.0329999924,
+    "long": -0.0329999998,
+    "name": "Dori "
+  },
+  "DFEF": {
+    "lat": 12.0329999924,
+    "long": 0.349999994,
+    "name": "Fada N'gourma "
+  },
+  "DFEG": {
+    "lat": 14.4499998093,
+    "long": -0.2329999954,
+    "name": "Gorom-Gorom "
+  },
+  "DFEK": {
+    "lat": 12.1669998169,
+    "long": -0.3000000119,
+    "name": "Koupela "
+  },
+  "DFEL": {
+    "lat": 12.4670000076,
+    "long": 1.5,
+    "name": "Kantchari "
+  },
+  "DFEM": {
+    "lat": 14.8000001907,
+    "long": 0.0500000007,
+    "name": "Tambao "
+  },
+  "DFEO": {
+    "lat": 12.25,
+    "long": -0.6169999838,
+    "name": "Zorgo "
+  },
+  "DFEP": {
+    "lat": 11.25,
+    "long": 0.6999999881,
+    "name": "Pama "
+  },
+  "DFER": {
+    "lat": 11.5970001221,
+    "long": 1.4830000401,
+    "name": "Arly "
+  },
+  "DFES": {
+    "lat": 13.4499998093,
+    "long": 0.5170000196,
+    "name": "Sebba "
+  },
+  "DFET": {
+    "lat": 11.8000001907,
+    "long": -0.3670000136,
+    "name": "Tenkodogo "
+  },
+  "DFEY": {
+    "lat": 11.5170001984,
+    "long": 0.0500000007,
+    "name": "Ouargaye "
+  },
+  "DFEZ": {
+    "lat": 11.1669998169,
+    "long": -0.6169999838,
+    "name": "Zabre "
+  },
+  "DFFD": {
+    "lat": 12.3531999588,
+    "long": -1.5124200583,
+    "name": "Ouagadougou "
+  },
+  "DFOA": {
+    "lat": 11.1330003738,
+    "long": -3.0669999123,
+    "name": "Dano "
+  },
+  "DFOB": {
+    "lat": 10.6829996109,
+    "long": -4.7170000076,
+    "name": "Banfora "
+  },
+  "DFOD": {
+    "lat": 12.4589996338,
+    "long": -3.4900000095,
+    "name": "Dedougou "
+  },
+  "DFOF": {
+    "lat": 12.1499996185,
+    "long": -3.1830000877,
+    "name": "Safane "
+  },
+  "DFOG": {
+    "lat": 10.299200058,
+    "long": -3.2508299351,
+    "name": "Gaoua "
+  },
+  "DFOH": {
+    "lat": 11.4829998016,
+    "long": -3.5169999599,
+    "name": "Hounde "
+  },
+  "DFOL": {
+    "lat": 10.5670003891,
+    "long": -5.3499999046,
+    "name": "Loumana "
+  },
+  "DFON": {
+    "lat": 12.75,
+    "long": -3.867000103,
+    "name": "Nouna "
+  },
+  "DFOO": {
+    "lat": 11.1600999832,
+    "long": -4.3309698105,
+    "name": "Bobo Dioulasso "
+  },
+  "DFOR": {
+    "lat": 10.9829998016,
+    "long": -4.9330000877,
+    "name": "Orodara "
+  },
+  "DFOS": {
+    "lat": 10.6669998169,
+    "long": -4.2670001984,
+    "name": "Sideradougou "
+  },
+  "DFOT": {
+    "lat": 13.0670003891,
+    "long": -3.0669999123,
+    "name": "Tougan "
+  },
+  "DFOU": {
+    "lat": 10.9499998093,
+    "long": -3.25,
+    "name": "Diebougou "
+  },
+  "DFOY": {
+    "lat": 14.2170000076,
+    "long": -0.8830000162,
+    "name": "Aribinda "
+  }
+}

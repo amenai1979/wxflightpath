@@ -1,0 +1,412 @@
+{
+  "FV76": {
+    "lat": -19.010799408,
+    "long": 30.0251998901,
+    "name": "Kwekwe East "
+  },
+  "FV77": {
+    "lat": -16.9101009369,
+    "long": 30.2423000336,
+    "name": "Mhangura "
+  },
+  "FVAB": {
+    "lat": -18.1669998169,
+    "long": 32.6669998169,
+    "name": "Aberdeen "
+  },
+  "FVAE": {
+    "lat": -16.6669998169,
+    "long": 31.2329998016,
+    "name": "Braebourne "
+  },
+  "FVBB": {
+    "lat": -22.2000007629,
+    "long": 30.0167007446,
+    "name": "Beit Bridge "
+  },
+  "FVBI": {
+    "lat": -17.6480998993,
+    "long": 27.3174991608,
+    "name": "Binga "
+  },
+  "FVBL": {
+    "lat": -21.9169998169,
+    "long": 31.466999054,
+    "name": "Mabalauta "
+  },
+  "FVBM": {
+    "lat": -16.8169994354,
+    "long": 28.3500003815,
+    "name": "Bumi "
+  },
+  "FVBO": {
+    "lat": -18.216999054,
+    "long": 30.1329994202,
+    "name": "Bosbury "
+  },
+  "FVBU": {
+    "lat": -20.0174007416,
+    "long": 28.6179008484,
+    "name": "Joshua Mqabuko Nkomo International "
+  },
+  "FVCC": {
+    "lat": -17.4330005646,
+    "long": 30.2999992371,
+    "name": "C.C. Strip"
+  },
+  "FVCD": {
+    "lat": -16,
+    "long": 28.8999996185,
+    "name": "Chirundu "
+  },
+  "FVCE": {
+    "lat": -17.5170001984,
+    "long": 30.8500003815,
+    "name": "Celina "
+  },
+  "FVCH": {
+    "lat": -20.2066993713,
+    "long": 32.6282997131,
+    "name": "Chipinge "
+  },
+  "FVCM": {
+    "lat": -18.2999992371,
+    "long": 29.966999054,
+    "name": "Cam+Motor "
+  },
+  "FVCN": {
+    "lat": -16.7341003418,
+    "long": 31.1219997406,
+    "name": "Centenary "
+  },
+  "FVCP": {
+    "lat": -17.7516002655,
+    "long": 30.9246997833,
+    "name": "Charles Prince "
+  },
+  "FVCR": {
+    "lat": -17.6830005646,
+    "long": 27.8999996185,
+    "name": "Chizarira "
+  },
+  "FVCV": {
+    "lat": -19.033000946,
+    "long": 30.8999996185,
+    "name": "Chivu "
+  },
+  "FVCZ": {
+    "lat": -21.0081005096,
+    "long": 31.5785999298,
+    "name": "Buffalo Range "
+  },
+  "FVDA": {
+    "lat": -17.0170001984,
+    "long": 30.8999996185,
+    "name": "Dawsons "
+  },
+  "FVDE": {
+    "lat": -18.1000003815,
+    "long": 26.716999054,
+    "name": "Deka "
+  },
+  "FVDU": {
+    "lat": -18.283000946,
+    "long": 31.4829998016,
+    "name": "Dudley "
+  },
+  "FVED": {
+    "lat": -18.7670001984,
+    "long": 29.783000946,
+    "name": "Eduan "
+  },
+  "FVFA": {
+    "lat": -18.0958995819,
+    "long": 25.8390007019,
+    "name": "Victoria Falls International "
+  },
+  "FVFG": {
+    "lat": -16.7000007629,
+    "long": 28.6669998169,
+    "name": "Fothergill "
+  },
+  "FVFI": {
+    "lat": -20.533000946,
+    "long": 29.2670001984,
+    "name": "Filabusi "
+  },
+  "FVGD": {
+    "lat": -20.8999996185,
+    "long": 29,
+    "name": "Gwanda "
+  },
+  "FVGO": {
+    "lat": -18.2000007629,
+    "long": 28.9167003632,
+    "name": "Gokwe "
+  },
+  "FVGR": {
+    "lat": -18.9775009155,
+    "long": 32.4508018494,
+    "name": "Mutara Grand Ref "
+  },
+  "FVGT": {
+    "lat": -19.9829998016,
+    "long": 30.5,
+    "name": "Gaths Mine "
+  },
+  "FVGW": {
+    "lat": -19.5499992371,
+    "long": 29.7329998016,
+    "name": "Gweru "
+  },
+  "FVHA": {
+    "lat": -17.9318008423,
+    "long": 31.0928001404,
+    "name": "Harare International "
+  },
+  "FVHP": {
+    "lat": -18.2000007629,
+    "long": 31.7329998016,
+    "name": "Home Park "
+  },
+  "FVHY": {
+    "lat": -21.0499992371,
+    "long": 31.6669998169,
+    "name": "Hippo Valley "
+  },
+  "FVIN": {
+    "lat": -20.0830001831,
+    "long": 28.7000007629,
+    "name": "Induna "
+  },
+  "FVIT": {
+    "lat": -18.2999992371,
+    "long": 29.8829994202,
+    "name": "Itafa "
+  },
+  "FVKB": {
+    "lat": -16.5198001862,
+    "long": 28.8850002289,
+    "name": "Kariba International "
+  },
+  "FVKK": {
+    "lat": -18.9333000183,
+    "long": 29.8428001404,
+    "name": "Kwekwe "
+  },
+  "FVKW": {
+    "lat": -20.7999992371,
+    "long": 31.8169994354,
+    "name": "Mkwasine "
+  },
+  "FVKZ": {
+    "lat": -20.9169998169,
+    "long": 28.4829998016,
+    "name": "Kezi "
+  },
+  "FVLA": {
+    "lat": -17.9330005646,
+    "long": 30.9500007629,
+    "name": "Langford "
+  },
+  "FVLG": {
+    "lat": -17,
+    "long": 29.6329994202,
+    "name": "Longuiel "
+  },
+  "FVLU": {
+    "lat": -18.0830001831,
+    "long": 27.8670005798,
+    "name": "Lusulu "
+  },
+  "FVMA": {
+    "lat": -18.1830005646,
+    "long": 31.466999054,
+    "name": "Marondera "
+  },
+  "FVMB": {
+    "lat": -16.1669998169,
+    "long": 30.5669994354,
+    "name": "Mashumbi "
+  },
+  "FVMD": {
+    "lat": -16.7691993713,
+    "long": 31.5597991943,
+    "name": "Mount Darwin "
+  },
+  "FVMF": {
+    "lat": -18.7329998016,
+    "long": 27.533000946,
+    "name": "Mabikwa "
+  },
+  "FVMK": {
+    "lat": -17.716999054,
+    "long": 30.4169998169,
+    "name": "Mkonono "
+  },
+  "FVMN": {
+    "lat": -15.7670001984,
+    "long": 29.3829994202,
+    "name": "Mana Pools "
+  },
+  "FVMS": {
+    "lat": -20.216999054,
+    "long": 32.3670005798,
+    "name": "Middle Sabi "
+  },
+  "FVMT": {
+    "lat": -17.4319000244,
+    "long": 32.1845016479,
+    "name": "Mutoko "
+  },
+  "FVMU": {
+    "lat": -18.9974994659,
+    "long": 32.6272010803,
+    "name": "Mutare "
+  },
+  "FVMV": {
+    "lat": -20.0552997589,
+    "long": 30.8591003418,
+    "name": "Masvingo International "
+  },
+  "FVMW": {
+    "lat": -17.6499996185,
+    "long": 31.7999992371,
+    "name": "Murewa "
+  },
+  "FVNY": {
+    "lat": -19.7329998016,
+    "long": 32.4329986572,
+    "name": "Nyanyadzi "
+  },
+  "FVOT": {
+    "lat": -16.9848003387,
+    "long": 32.6726989746,
+    "name": "Kotwa "
+  },
+  "FVPL": {
+    "lat": -20.4829998016,
+    "long": 27.783000946,
+    "name": "Plumtree "
+  },
+  "FVRA": {
+    "lat": -20.1669998169,
+    "long": 32.8330001831,
+    "name": "Ratelshoek "
+  },
+  "FVRE": {
+    "lat": -16.966999054,
+    "long": 29.5669994354,
+    "name": "Renroc "
+  },
+  "FVRT": {
+    "lat": -21.2329998016,
+    "long": 30.7329998016,
+    "name": "Rutenga "
+  },
+  "FVRU": {
+    "lat": -18.533000946,
+    "long": 32.1329994202,
+    "name": "Rusape "
+  },
+  "FVSC": {
+    "lat": -19.0291996002,
+    "long": 29.7219009399,
+    "name": "Zisco "
+  },
+  "FVSE": {
+    "lat": -17.966999054,
+    "long": 29.216999054,
+    "name": "Sanyati Estate "
+  },
+  "FVSH": {
+    "lat": -20.2894992828,
+    "long": 30.0881996155,
+    "name": "Zvishavane "
+  },
+  "FVSN": {
+    "lat": -21.3330001831,
+    "long": 28.5170001984,
+    "name": "Sun Yet Sen "
+  },
+  "FVSV": {
+    "lat": -17.9169998169,
+    "long": 25.8169994354,
+    "name": "Spray View "
+  },
+  "FVSX": {
+    "lat": -18.1669998169,
+    "long": 28.8500003815,
+    "name": "Sengwa Gorge "
+  },
+  "FVSY": {
+    "lat": -16.6329994202,
+    "long": 30.6499996185,
+    "name": "Siyalima "
+  },
+  "FVTA": {
+    "lat": -16.8169994354,
+    "long": 28.4330005646,
+    "name": "Tashinga "
+  },
+  "FVTD": {
+    "lat": -19.9500007629,
+    "long": 31.4330005646,
+    "name": "Tinfields "
+  },
+  "FVTE": {
+    "lat": -17.1170005798,
+    "long": 29.6170005798,
+    "name": "Tengwe "
+  },
+  "FVTJ": {
+    "lat": -20.3169994354,
+    "long": 32.3499984741,
+    "name": "Tonje "
+  },
+  "FVTL": {
+    "lat": -19.4363994598,
+    "long": 29.8619003296,
+    "name": "Thornhill Air Base"
+  },
+  "FVTS": {
+    "lat": -19.7670001984,
+    "long": 27.7670001984,
+    "name": "Tsholothso "
+  },
+  "FVTU": {
+    "lat": -21.9349250793,
+    "long": 29.1963386536,
+    "name": "Tuli "
+  },
+  "FVWD": {
+    "lat": -18.6170005798,
+    "long": 31.5830001831,
+    "name": "Wedza "
+  },
+  "FVWN": {
+    "lat": -18.6298999786,
+    "long": 27.0209999084,
+    "name": "Hwange National Park "
+  },
+  "FVWT": {
+    "lat": -18.3624992371,
+    "long": 26.5167007446,
+    "name": "Hwange "
+  },
+  "FVYT": {
+    "lat": -19.7000007629,
+    "long": 28.8500003815,
+    "name": "Inyati "
+  },
+  "FVZC": {
+    "lat": -19.033000946,
+    "long": 29.716999054,
+    "name": "Zisco "
+  },
+  "FVZK": {
+    "lat": -20.3500003815,
+    "long": 31.4169998169,
+    "name": "Zaka "
+  }
+}

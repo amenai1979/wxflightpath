@@ -1,0 +1,142 @@
+{
+  "HSAT": {
+    "lat": 17.7103443146,
+    "long": 34.05701828,
+    "name": "Atbara "
+  },
+  "HSCG": {
+    "lat": 18.75,
+    "long": 37,
+    "name": "Carthago "
+  },
+  "HSDB": {
+    "lat": 18.0249996185,
+    "long": 30.9582996368,
+    "name": "El Debba "
+  },
+  "HSDL": {
+    "lat": 11.9905996323,
+    "long": 29.6732006073,
+    "name": "Dilling "
+  },
+  "HSDN": {
+    "lat": 19.1539001465,
+    "long": 30.4300994873,
+    "name": "Dongola "
+  },
+  "HSDZ": {
+    "lat": 11.785900116,
+    "long": 34.3367004395,
+    "name": "Damazin "
+  },
+  "HSFS": {
+    "lat": 13.6148996353,
+    "long": 25.3246002197,
+    "name": "El Fasher "
+  },
+  "HSGF": {
+    "lat": 14.1330003738,
+    "long": 35.3170013428,
+    "name": "Azaza "
+  },
+  "HSGG": {
+    "lat": 12.5329999924,
+    "long": 35.0670013428,
+    "name": "Galegu "
+  },
+  "HSGN": {
+    "lat": 13.4816999435,
+    "long": 22.4671993256,
+    "name": "Geneina "
+  },
+  "HSGO": {
+    "lat": 18.8670005798,
+    "long": 28.1170005798,
+    "name": "Gogrial "
+  },
+  "HSHG": {
+    "lat": 9.994933,
+    "long": 29.397718,
+    "name": "Heglig "
+  },
+  "HSKA": {
+    "lat": 15.3874998093,
+    "long": 36.3288002014,
+    "name": "Kassala "
+  },
+  "HSKG": {
+    "lat": 14.9250001907,
+    "long": 35.8779983521,
+    "name": "Khashm El Girba "
+  },
+  "HSKI": {
+    "lat": 13.1829996109,
+    "long": 32.733001709,
+    "name": "Kosti "
+  },
+  "HSLI": {
+    "lat": 11.1379995346,
+    "long": 29.7010993958,
+    "name": "Kadugli "
+  },
+  "HSMN": {
+    "lat": 18.4433333333,
+    "long": 31.8433333333,
+    "name": "Merowe (Merowe New)"
+  },
+  "HSMR": {
+    "lat": 18.4500007629,
+    "long": 31.8330001831,
+    "name": "Merowe "
+  },
+  "HSND": {
+    "lat": 16.7000007629,
+    "long": 33.4329986572,
+    "name": "Shendi "
+  },
+  "HSNH": {
+    "lat": 12.6669998169,
+    "long": 28.3330001831,
+    "name": "En Nahud "
+  },
+  "HSNN": {
+    "lat": 12.0535001755,
+    "long": 24.956199646,
+    "name": "Nyala "
+  },
+  "HSNW": {
+    "lat": 15.3556003571,
+    "long": 35.7277984619,
+    "name": "New Halfa "
+  },
+  "HSOB": {
+    "lat": 13.1532001495,
+    "long": 30.2327003479,
+    "name": "El Obeid "
+  },
+  "HSPN": {
+    "lat": 19.433599472,
+    "long": 37.2341003418,
+    "name": "Port Sudan New International "
+  },
+  "HSSP": {
+    "lat": 19.576499939,
+    "long": 37.2159004211,
+    "name": "Port Sudan Air Base"
+  },
+  "HSSS": {
+    "lat": 15.5895004272,
+    "long": 32.5531997681,
+    "name": "Khartoum International "
+  },
+  "HSSW": {
+    "lat": 21.8026981354,
+    "long": 31.5215778351,
+    "name": "Wadi Halfa "
+  },
+  "HSZA": {
+    "lat": 12.8999996185,
+    "long": 23.4829998016,
+    "name": "Zalingei "
+  }
+}

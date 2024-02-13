@@ -1,0 +1,82 @@
+{
+  "UMBB": {
+    "lat": 52.1082992554,
+    "long": 23.8980998993,
+    "name": "Brest "
+  },
+  "UMDD": {
+    "lat": 53.877,
+    "long": 25.377,
+    "name": "Lida Air Base"
+  },
+  "UMGG": {
+    "lat": 52.5270004272,
+    "long": 31.0167007446,
+    "name": "Gomel "
+  },
+  "UMII": {
+    "lat": 55.126499176,
+    "long": 30.3495998383,
+    "name": "Vitebsk East "
+  },
+  "UMLI": {
+    "lat": 53.7733001709,
+    "long": 27.5799999237,
+    "name": "Minsk Machulishchy "
+  },
+  "UMMA": {
+    "lat": 53.0999984741,
+    "long": 26.0499992371,
+    "name": "Baranavichi Air Base"
+  },
+  "UMMB": {
+    "lat": 53.5699996948,
+    "long": 27.3899993896,
+    "name": "Borovaya Airfield"
+  },
+  "UMMG": {
+    "lat": 53.6020011902,
+    "long": 24.0538005829,
+    "name": "Hrodna "
+  },
+  "UMMM": {
+    "lat": 53.8644981384,
+    "long": 27.5396995544,
+    "name": "Minsk 1 "
+  },
+  "UMMO": {
+    "lat": 52.5569992065,
+    "long": 24.8840007782,
+    "name": "Osovtsy Air Base"
+  },
+  "UMMR": {
+    "lat": 53.303,
+    "long": 24.369,
+    "name": "Ross Air Base"
+  },
+  "UMMS": {
+    "lat": 53.8824996948,
+    "long": 28.0307006836,
+    "name": "Minsk International "
+  },
+  "UMNB": {
+    "lat": 53.1049995422,
+    "long": 29.2049999237,
+    "name": "Babruisk Air Base"
+  },
+  "UMNM": {
+    "lat": 53.945,
+    "long": 30.244,
+    "name": "Novo-Pashkovo "
+  },
+  "UMNV": {
+    "lat": 52.5822957318,
+    "long": 24.379863739,
+    "name": "Pruzhany Air Base"
+  },
+  "UMOO": {
+    "lat": 53.9548988342,
+    "long": 30.0951004028,
+    "name": "Mogilev "
+  }
+}

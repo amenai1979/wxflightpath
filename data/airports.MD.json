@@ -1,0 +1,32 @@
+{
+  "LUBL": {
+    "lat": 47.8381004333,
+    "long": 27.7814998627,
+    "name": "Balti International "
+  },
+  "LUBM": {
+    "lat": 47.862701416,
+    "long": 28.2127990723,
+    "name": "Marculesti International "
+  },
+  "LUCH": {
+    "lat": 45.8437995911,
+    "long": 28.2637004852,
+    "name": "Cahul International "
+  },
+  "LUCL": {
+    "lat": 46.034994,
+    "long": 28.851844,
+    "name": "Chadyr Lunga "
+  },
+  "LUKK": {
+    "lat": 46.9277000427,
+    "long": 28.9309997559,
+    "name": "Chisinau International "
+  },
+  "LUTR": {
+    "lat": 46.8680992126,
+    "long": 29.5905990601,
+    "name": "Tiraspol "
+  }
+}

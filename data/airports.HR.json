@@ -1,0 +1,137 @@
+{
+  "LD57": {
+    "lat": 44.2099990845,
+    "long": 15.1632003784,
+    "name": "Sepurine Training Base"
+  },
+  "LDDU": {
+    "lat": 42.5614013672,
+    "long": 18.2681999207,
+    "name": "Dubrovnik "
+  },
+  "LDLO": {
+    "lat": 44.5657997131,
+    "long": 14.3930997849,
+    "name": "Losinj Island "
+  },
+  "LDOB": {
+    "lat": 45.3863983154,
+    "long": 18.9627990723,
+    "name": "Vukovar Borovo N "
+  },
+  "LDOC": {
+    "lat": 45.5421981812,
+    "long": 18.6361999512,
+    "name": "Cepin "
+  },
+  "LDOR": {
+    "lat": 45.1561012268,
+    "long": 17.9881000519,
+    "name": "Slavonski Jelas "
+  },
+  "LDOS": {
+    "lat": 45.4626998901,
+    "long": 18.8101997375,
+    "name": "Osijek "
+  },
+  "LDOV": {
+    "lat": 45.2510986328,
+    "long": 18.7591991425,
+    "name": "Vinkovci Sopot "
+  },
+  "LDPL": {
+    "lat": 44.8935012817,
+    "long": 13.9222002029,
+    "name": "Pula "
+  },
+  "LDPM": {
+    "lat": 44.8432998657,
+    "long": 13.9041996002,
+    "name": "Medulin Campanoz "
+  },
+  "LDPN": {
+    "lat": 44.6282997131,
+    "long": 14.2411003113,
+    "name": "Unije "
+  },
+  "LDPV": {
+    "lat": 45.1417007446,
+    "long": 13.6305999756,
+    "name": "Vrsar Crljenka "
+  },
+  "LDRG": {
+    "lat": 45.3795013428,
+    "long": 14.5038003922,
+    "name": "Grobnicko Polje "
+  },
+  "LDRI": {
+    "lat": 45.2168998718,
+    "long": 14.5703001022,
+    "name": "Rijeka "
+  },
+  "LDRO": {
+    "lat": 44.8477745056,
+    "long": 15.2866172791,
+    "name": "Otocac "
+  },
+  "LDSB": {
+    "lat": 43.2857017517,
+    "long": 16.6797008514,
+    "name": "Brac "
+  },
+  "LDSH": {
+    "lat": 43.1817016602,
+    "long": 16.6333007813,
+    "name": "Hvar Private "
+  },
+  "LDSP": {
+    "lat": 43.538898468,
+    "long": 16.2980003357,
+    "name": "Split "
+  },
+  "LDSS": {
+    "lat": 43.7002983093,
+    "long": 16.6714000702,
+    "name": "Sinj Glider "
+  },
+  "LDVA": {
+    "lat": 46.2946472168,
+    "long": 16.382932663,
+    "name": "Varazdin "
+  },
+  "LDVC": {
+    "lat": 46.3918991089,
+    "long": 16.5002994537,
+    "name": "Cakovec Pribisla "
+  },
+  "LDVD": {
+    "lat": 45.5593986511,
+    "long": 17.0331001282,
+    "name": "Daruvar Blagorod "
+  },
+  "LDZA": {
+    "lat": 45.7429008484,
+    "long": 16.0687999725,
+    "name": "Zagreb "
+  },
+  "LDZB": {
+    "lat": 45.6474990845,
+    "long": 16.1243991852,
+    "name": "Busevec Velika Glider "
+  },
+  "LDZD": {
+    "lat": 44.1082992554,
+    "long": 15.3466997147,
+    "name": "Zemunik "
+  },
+  "LDZJ": {
+    "lat": 45.8608016968,
+    "long": 16.8358001709,
+    "name": "Bjelovar Brezova "
+  },
+  "LDZL": {
+    "lat": 45.7668991089,
+    "long": 15.8486003876,
+    "name": "Lucko "
+  }
+}

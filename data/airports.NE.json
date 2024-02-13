@@ -1,0 +1,117 @@
+{
+  "DRRA": {
+    "lat": 13.7670001984,
+    "long": 8.0170001984,
+    "name": "Tessaoua "
+  },
+  "DRRB": {
+    "lat": 13.8015003204,
+    "long": 5.2423601151,
+    "name": "Birni-N'Konni "
+  },
+  "DRRC": {
+    "lat": 13.6669998169,
+    "long": 4.0999999046,
+    "name": "Dogondoutchi "
+  },
+  "DRRD": {
+    "lat": 13.0481247896,
+    "long": 3.2209682465,
+    "name": "Dosso "
+  },
+  "DRRE": {
+    "lat": 13.9499998093,
+    "long": 0.7329999804,
+    "name": "Tera "
+  },
+  "DRRG": {
+    "lat": 11.8830003738,
+    "long": 3.4330000877,
+    "name": "Gaya "
+  },
+  "DRRI": {
+    "lat": 18.6867008209,
+    "long": 12.9191999435,
+    "name": "Bilma "
+  },
+  "DRRL": {
+    "lat": 14.1999998093,
+    "long": 1.4670000076,
+    "name": "Tillabery "
+  },
+  "DRRM": {
+    "lat": 13.5024995804,
+    "long": 7.1267499924,
+    "name": "Maradi "
+  },
+  "DRRN": {
+    "lat": 13.4814996719,
+    "long": 2.1836099625,
+    "name": "Diori Hamani International "
+  },
+  "DRRP": {
+    "lat": 12.4829998016,
+    "long": 2.4000000954,
+    "name": "La Tapoa "
+  },
+  "DRRT": {
+    "lat": 14.8756999969,
+    "long": 5.2653598785,
+    "name": "Tahoua "
+  },
+  "DRRU": {
+    "lat": 14.3330001831,
+    "long": 2.0829999447,
+    "name": "Ouallam "
+  },
+  "DRZA": {
+    "lat": 16.9659996033,
+    "long": 8.0001096725,
+    "name": "Mano Dayak International "
+  },
+  "DRZD": {
+    "lat": 18.9687004089,
+    "long": 12.8687000275,
+    "name": "Dirkou "
+  },
+  "DRZF": {
+    "lat": 13.3729000092,
+    "long": 12.6267004013,
+    "name": "Diffa "
+  },
+  "DRZG": {
+    "lat": 13.9835996628,
+    "long": 10.2749004364,
+    "name": "Goure "
+  },
+  "DRZI": {
+    "lat": 19.0669994354,
+    "long": 8.3669996262,
+    "name": "Iferouane "
+  },
+  "DRZL": {
+    "lat": 18.7903995514,
+    "long": 7.3659501076,
+    "name": "Arlit "
+  },
+  "DRZM": {
+    "lat": 13.205499649,
+    "long": 12.0322999954,
+    "name": "Maine-Soroa "
+  },
+  "DRZN": {
+    "lat": 14.2510004044,
+    "long": 13.1289997101,
+    "name": "N'Guigmi "
+  },
+  "DRZR": {
+    "lat": 13.7790002823,
+    "long": 8.9837598801,
+    "name": "Zinder "
+  },
+  "DRZT": {
+    "lat": 14.9702997208,
+    "long": 8.8916702271,
+    "name": "Tanout "
+  }
+}

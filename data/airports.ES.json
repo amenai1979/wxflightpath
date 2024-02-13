@@ -1,0 +1,597 @@
+{
+  "GCFV": {
+    "lat": 28.4526996613,
+    "long": -13.8638000488,
+    "name": "Fuerteventura "
+  },
+  "GCGM": {
+    "lat": 28.0296001434,
+    "long": -17.2145996094,
+    "name": "La Gomera "
+  },
+  "GCHI": {
+    "lat": 27.8148002625,
+    "long": -17.8871002197,
+    "name": "Hierro "
+  },
+  "GCLA": {
+    "lat": 28.626499176,
+    "long": -17.7555999756,
+    "name": "La Palma "
+  },
+  "GCLB": {
+    "lat": 27.7824993134,
+    "long": -15.5072002411,
+    "name": "El Berriel Aeroc "
+  },
+  "GCLP": {
+    "lat": 27.9319000244,
+    "long": -15.3865995407,
+    "name": "Gran Canaria "
+  },
+  "GCRR": {
+    "lat": 28.9454994202,
+    "long": -13.6051998138,
+    "name": "Lanzarote "
+  },
+  "GCTS": {
+    "lat": 28.044500351,
+    "long": -16.5725002289,
+    "name": "Tenerife South "
+  },
+  "GCXO": {
+    "lat": 28.4827003479,
+    "long": -16.3414993286,
+    "name": "Tenerife Norte "
+  },
+  "GEML": {
+    "lat": 35.279800415,
+    "long": -2.9562599659,
+    "name": "Melilla "
+  },
+  "LE84": {
+    "lat": 36.9306983948,
+    "long": -3.8353800774,
+    "name": "Jayena "
+  },
+  "LEAB": {
+    "lat": 38.9485015869,
+    "long": -1.8635200262,
+    "name": "Albacete-Los Llanos "
+  },
+  "LEAE": {
+    "lat": 37.9460983276,
+    "long": -4.5894398689,
+    "name": "Alcolea "
+  },
+  "LEAL": {
+    "lat": 38.2821998596,
+    "long": -0.5581560135,
+    "name": "Alicante International "
+  },
+  "LEAM": {
+    "lat": 36.8438987732,
+    "long": -2.3701000214,
+    "name": "Almeria International "
+  },
+  "LEAP": {
+    "lat": 42.2599983215,
+    "long": 3.109721899,
+    "name": "Ampuriabrava "
+  },
+  "LEAS": {
+    "lat": 43.5635986328,
+    "long": -6.0346198082,
+    "name": "Asturias "
+  },
+  "LEAT": {
+    "lat": 41.5499992371,
+    "long": 0.6499999762,
+    "name": "Alfes "
+  },
+  "LEAX": {
+    "lat": 36.8016662598,
+    "long": -4.135556221,
+    "name": "La Axarquia-Leoni Benabu "
+  },
+  "LEBA": {
+    "lat": 37.841999054,
+    "long": -4.8488798141,
+    "name": "Cordoba "
+  },
+  "LEBB": {
+    "lat": 43.3011016846,
+    "long": -2.9106099606,
+    "name": "Bilbao "
+  },
+  "LEBE": {
+    "lat": 38.2711105347,
+    "long": -2.9488890171,
+    "name": "Beas De Segura "
+  },
+  "LEBG": {
+    "lat": 42.3576011658,
+    "long": -3.620759964,
+    "name": "Burgos "
+  },
+  "LEBL": {
+    "lat": 41.2971000671,
+    "long": 2.0784599781,
+    "name": "Barcelona International "
+  },
+  "LEBZ": {
+    "lat": 38.8913002014,
+    "long": -6.8213300705,
+    "name": "Badajoz "
+  },
+  "LECA": {
+    "lat": 41.4108009338,
+    "long": -3.4483299255,
+    "name": "La Nava - Corral De Ayllon "
+  },
+  "LECD": {
+    "lat": 42.3863983154,
+    "long": 1.8666700125,
+    "name": "La Cerdanya "
+  },
+  "LECF": {
+    "lat": 41.7442016602,
+    "long": 1.5569399595,
+    "name": "Calaf-Sallavinera "
+  },
+  "LECH": {
+    "lat": 40.9000015259,
+    "long": -1.3041199446,
+    "name": "Calamocha "
+  },
+  "LECI": {
+    "lat": 42.5691986084,
+    "long": -0.7277780175,
+    "name": "Santa Cilia De Jaca "
+  },
+  "LECJ": {
+    "lat": 41.60779953,
+    "long": -0.2183270007,
+    "name": "Castejon de los Monegros "
+  },
+  "LECN": {
+    "lat": 39.9991989136,
+    "long": 0.0261109993,
+    "name": "Castellon De La Plana "
+  },
+  "LECO": {
+    "lat": 43.3021011353,
+    "long": -8.3772602081,
+    "name": "A Coruna "
+  },
+  "LECT": {
+    "lat": 39.0107002258,
+    "long": -4.3863601685,
+    "name": "El Castano "
+  },
+  "LECU": {
+    "lat": 40.3707008362,
+    "long": -3.7851400375,
+    "name": "Cuatro Vientos "
+  },
+  "LECX": {
+    "lat": 40.9030990601,
+    "long": -4.5202798843,
+    "name": "Campolara "
+  },
+  "LEDA": {
+    "lat": 41.728185,
+    "long": 0.535023,
+    "name": "Lleida-Alguaire "
+  },
+  "LEDS": {
+    "lat": 40.2138888889,
+    "long": 0.0733333333,
+    "name": "Castellon-Costa Azahar "
+  },
+  "LEEM": {
+    "lat": 38.777507782,
+    "long": -6.9911241531,
+    "name": "El Manantio "
+  },
+  "LEEV": {
+    "lat": 40.7839012146,
+    "long": -4.4627799988,
+    "name": "E. Castellanos-Villacastin "
+  },
+  "LEFM": {
+    "lat": 40.8886108398,
+    "long": -4.2375001907,
+    "name": "Fuentemilanos "
+  },
+  "LEGA": {
+    "lat": 37.1332015991,
+    "long": -3.6356899738,
+    "name": "Armilla "
+  },
+  "LEGC": {
+    "lat": 38.1716995239,
+    "long": -5.7395300865,
+    "name": "Altarejos-Guadalcanal "
+  },
+  "LEGE": {
+    "lat": 41.9010009766,
+    "long": 2.7605500221,
+    "name": "Girona "
+  },
+  "LEGR": {
+    "lat": 37.1887016296,
+    "long": -3.7773599625,
+    "name": "Federico Garcia Lorca "
+  },
+  "LEGT": {
+    "lat": 40.2941017151,
+    "long": -3.7238299847,
+    "name": "Getafe Air Base"
+  },
+  "LEGU": {
+    "lat": 39.3456993103,
+    "long": -5.1973500252,
+    "name": "Guadalupe "
+  },
+  "LEGY": {
+    "lat": 41.8231010437,
+    "long": -2.4786100388,
+    "name": "Garray "
+  },
+  "LEHC": {
+    "lat": 42.0760993958,
+    "long": -0.3166669905,
+    "name": "Huesca/Pirineos "
+  },
+  "LEHI": {
+    "lat": 38.5,
+    "long": -5.117000103,
+    "name": "Hinojosa del Duque "
+  },
+  "LEIB": {
+    "lat": 38.8728981018,
+    "long": 1.3731199503,
+    "name": "Ibiza "
+  },
+  "LEIG": {
+    "lat": 41.5856018066,
+    "long": 1.6530599594,
+    "name": "Igualada/Odena "
+  },
+  "LEIZ": {
+    "lat": 38.5130996704,
+    "long": -3.3643300533,
+    "name": "La Perdiz - Torre De Juan Abad "
+  },
+  "LEJO": {
+    "lat": 42.1343994141,
+    "long": -3.7310299873,
+    "name": "Madrigalejo Del Monte "
+  },
+  "LEJR": {
+    "lat": 36.7445983887,
+    "long": -6.0601100922,
+    "name": "Jerez "
+  },
+  "LEJU": {
+    "lat": 37.2949981689,
+    "long": -6.1624999046,
+    "name": "La Juliana "
+  },
+  "LELA": {
+    "lat": 38.7478981018,
+    "long": -3.5145599842,
+    "name": "La Calderera "
+  },
+  "LELC": {
+    "lat": 37.7750015259,
+    "long": -0.8123890162,
+    "name": "San Javier "
+  },
+  "LELH": {
+    "lat": 37.7489013672,
+    "long": -1.3021600246,
+    "name": "Alhama De Murcia "
+  },
+  "LELI": {
+    "lat": 38.090801239,
+    "long": -3.7066700459,
+    "name": "Linares "
+  },
+  "LELL": {
+    "lat": 41.5209007263,
+    "long": 2.1050798893,
+    "name": "Sabadell "
+  },
+  "LELM": {
+    "lat": 38.8950004578,
+    "long": -1.1131800413,
+    "name": "Almansa "
+  },
+  "LELN": {
+    "lat": 42.5890007019,
+    "long": -5.6555600166,
+    "name": "Leon "
+  },
+  "LELO": {
+    "lat": 42.4609534888,
+    "long": -2.3222351074,
+    "name": "Logrono-Agoncillo "
+  },
+  "LELT": {
+    "lat": 39.7168998718,
+    "long": -3.3205599785,
+    "name": "Lillo "
+  },
+  "LEMD": {
+    "lat": 40.4936,
+    "long": -3.56676,
+    "name": "Madrid Barajas International "
+  },
+  "LEMF": {
+    "lat": 37.3642997742,
+    "long": -6.9209399223,
+    "name": "Mafe - Gibraleon "
+  },
+  "LEMG": {
+    "lat": 36.6749000549,
+    "long": -4.4991102219,
+    "name": "Malaga "
+  },
+  "LEMH": {
+    "lat": 39.8625984192,
+    "long": 4.2186498642,
+    "name": "Menorca "
+  },
+  "LEMI": {
+    "lat": 37.803,
+    "long": -1.125,
+    "name": "Regi\u00f3n de Murcia International "
+  },
+  "LEMO": {
+    "lat": 37.1749000549,
+    "long": -5.615940094,
+    "name": "Moron Air Base"
+  },
+  "LEMP": {
+    "lat": 37.7989006042,
+    "long": -1.0974999666,
+    "name": "Los Martinez Del Puerto "
+  },
+  "LEMR": {
+    "lat": 43.4291992188,
+    "long": -5.8305602074,
+    "name": "La Morgal "
+  },
+  "LEMS": {
+    "lat": 41.7653007507,
+    "long": 1.8616700172,
+    "name": "Manresa "
+  },
+  "LEMT": {
+    "lat": 40.2350006104,
+    "long": -4.0263900757,
+    "name": "Casarrubios Del Monte "
+  },
+  "LEMU": {
+    "lat": 38.4406013489,
+    "long": -0.4752779901,
+    "name": "Muchamiel "
+  },
+  "LEMX": {
+    "lat": 39.5620994568,
+    "long": -3.2507500648,
+    "name": "La Mancha-Toledo "
+  },
+  "LENA": {
+    "lat": 42.0228004456,
+    "long": 0.4822219908,
+    "name": "Benabarre "
+  },
+  "LENE": {
+    "lat": 38.669739,
+    "long": -3.303389,
+    "name": "La Caminera "
+  },
+  "LEOC": {
+    "lat": 39.9375,
+    "long": -3.5033299923,
+    "name": "Ocana "
+  },
+  "LEOT": {
+    "lat": 38.6169013977,
+    "long": -1.5249999762,
+    "name": "Ontur "
+  },
+  "LEPA": {
+    "lat": 39.551700592,
+    "long": 2.7388100624,
+    "name": "Palma De Mallorca "
+  },
+  "LEPI": {
+    "lat": 39.2981987,
+    "long": -2.3787200451,
+    "name": "Casas de los Pinos "
+  },
+  "LEPP": {
+    "lat": 42.7700004578,
+    "long": -1.646329999,
+    "name": "Pamplona "
+  },
+  "LEPR": {
+    "lat": 37.7153015137,
+    "long": -5.2135601044,
+    "name": "Palma Del Rio "
+  },
+  "LEPZ": {
+    "lat": 38.9122009277,
+    "long": -4.1911101341,
+    "name": "Los Pozuelos De Calatrava "
+  },
+  "LERE": {
+    "lat": 39.4747009277,
+    "long": -1.0344400406,
+    "name": "Requena "
+  },
+  "LERI": {
+    "lat": 37.9510993958,
+    "long": -1.2303199768,
+    "name": "Alcantarilla "
+  },
+  "LERM": {
+    "lat": 40.8652992249,
+    "long": -3.2477800846,
+    "name": "Robledillo De Mohernando "
+  },
+  "LERO": {
+    "lat": 43.1169013977,
+    "long": -7.4702801704,
+    "name": "Rozas "
+  },
+  "LERS": {
+    "lat": 41.1473999023,
+    "long": 1.1671700478,
+    "name": "Reus Air Base"
+  },
+  "LERT": {
+    "lat": 36.645198822,
+    "long": -6.349460125,
+    "name": "Rota Naval Station "
+  },
+  "LESA": {
+    "lat": 40.9520988464,
+    "long": -5.5019898415,
+    "name": "Salamanca "
+  },
+  "LESB": {
+    "lat": 39.5988998413,
+    "long": 2.7027800083,
+    "name": "Son Bonet "
+  },
+  "LESE": {
+    "lat": 38.7308006287,
+    "long": -4.3130598068,
+    "name": "San Enrique "
+  },
+  "LESG": {
+    "lat": 42.5656013489,
+    "long": -1.284719944,
+    "name": "Sanguesa "
+  },
+  "LESL": {
+    "lat": 39.8622016907,
+    "long": 4.2583298683,
+    "name": "San Luis "
+  },
+  "LESO": {
+    "lat": 43.3564987183,
+    "long": -1.7906099558,
+    "name": "San Sebastian "
+  },
+  "LESS": {
+    "lat": 40.2042007446,
+    "long": -2.143889904,
+    "name": "Sotos "
+  },
+  "LEST": {
+    "lat": 42.8963012695,
+    "long": -8.415140152,
+    "name": "Santiago de Compostela "
+  },
+  "LESU": {
+    "lat": 42.3386001587,
+    "long": 1.4091700315,
+    "name": "Aerodrom dels Pirineus-Alt Urgell "
+  },
+  "LETC": {
+    "lat": 41.5306015015,
+    "long": -4.9250001907,
+    "name": "Matilla De Los Canos "
+  },
+  "LETE": {
+    "lat": 39.0368995667,
+    "long": -6.690559864,
+    "name": "Morante "
+  },
+  "LETF": {
+    "lat": 36.8717934415,
+    "long": -5.6487751007,
+    "name": "Tomas Fernandez Espada "
+  },
+  "LETI": {
+    "lat": 40.2439002991,
+    "long": -4.7944397926,
+    "name": "El Tietar "
+  },
+  "LETJ": {
+    "lat": 36.8588888889,
+    "long": -6.1391666667,
+    "name": "Trebujena Airfield"
+  },
+  "LETO": {
+    "lat": 40.4967002869,
+    "long": -3.4458699226,
+    "name": "Torrejon "
+  },
+  "LETP": {
+    "lat": 41.2042007446,
+    "long": -3.5947198868,
+    "name": "Santo Tome Del Puerto "
+  },
+  "LETZ": {
+    "lat": 41.7853012085,
+    "long": -4.8647298813,
+    "name": "Torozos "
+  },
+  "LEVB": {
+    "lat": 41.8246994019,
+    "long": -4.8930602074,
+    "name": "El Carrascal "
+  },
+  "LEVC": {
+    "lat": 39.4892997742,
+    "long": -0.4816249907,
+    "name": "Valencia "
+  },
+  "LEVD": {
+    "lat": 41.7061004639,
+    "long": -4.851940155,
+    "name": "Valladolid "
+  },
+  "LEVF": {
+    "lat": 43.5525016785,
+    "long": -7.0877799988,
+    "name": "Villaframil "
+  },
+  "LEVI": {
+    "lat": 38.5055999756,
+    "long": -3.4261500835,
+    "name": "Viso del Marques "
+  },
+  "LEVT": {
+    "lat": 42.8828010559,
+    "long": -2.7244699001,
+    "name": "Vitoria/Foronda "
+  },
+  "LEVX": {
+    "lat": 42.2318000793,
+    "long": -8.6267700195,
+    "name": "Vigo "
+  },
+  "LEXJ": {
+    "lat": 43.4271011353,
+    "long": -3.8200099468,
+    "name": "Santander "
+  },
+  "LEZG": {
+    "lat": 41.6661987305,
+    "long": -1.0415500402,
+    "name": "Zaragoza Air Base"
+  },
+  "LEZL": {
+    "lat": 37.4179992676,
+    "long": -5.8931097984,
+    "name": "Sevilla "
+  }
+}

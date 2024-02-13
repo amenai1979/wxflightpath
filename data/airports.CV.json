@@ -1,0 +1,52 @@
+{
+  "GVAC": {
+    "lat": 16.741399765,
+    "long": -22.9493999481,
+    "name": "Amilcar Cabral International "
+  },
+  "GVAN": {
+    "lat": 17.2028007507,
+    "long": -25.0905990601,
+    "name": "Agostinho Neto "
+  },
+  "GVBA": {
+    "lat": 16.1364994049,
+    "long": -22.8889007568,
+    "name": "Rabil "
+  },
+  "GVBR": {
+    "lat": 14.8643055556,
+    "long": -24.746,
+    "name": "Esperadinha "
+  },
+  "GVMA": {
+    "lat": 15.1559000015,
+    "long": -23.2136993408,
+    "name": "Maio "
+  },
+  "GVMT": {
+    "lat": 15.0450000763,
+    "long": -24.3391990662,
+    "name": "Mosteiros "
+  },
+  "GVNP": {
+    "lat": 14.9245004654,
+    "long": -23.4934997559,
+    "name": "Praia International "
+  },
+  "GVSF": {
+    "lat": 14.8850002289,
+    "long": -24.4799995422,
+    "name": "Sao Filipe "
+  },
+  "GVSN": {
+    "lat": 16.5883998871,
+    "long": -24.2847003937,
+    "name": "Preguica "
+  },
+  "GVSV": {
+    "lat": 16.8332004547,
+    "long": -25.0552997589,
+    "name": "Sao Pedro "
+  }
+}

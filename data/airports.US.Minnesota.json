@@ -1,0 +1,2132 @@
+{
+    "00MN": {
+        "lat": 46.2999992371,
+        "long": -95.700302124,
+        "name": "Battle Lake Municipal ",
+        "state": "Minnesota"
+    },
+    "02MN": {
+        "lat": 48.6833000183,
+        "long": -96.1920013428,
+        "name": "Greenbush Municipal ",
+        "state": "Minnesota"
+    },
+    "03MN": {
+        "lat": 43.6251983643,
+        "long": -95.2247009277,
+        "name": "Nauerth Land Ranch ",
+        "state": "Minnesota"
+    },
+    "04MN": {
+        "lat": 47.9858016968,
+        "long": -94.6868972778,
+        "name": "Helblad ",
+        "state": "Minnesota"
+    },
+    "06MN": {
+        "lat": 47.6519012451,
+        "long": -92.4167022705,
+        "name": "Pike Field ",
+        "state": "Minnesota"
+    },
+    "07MN": {
+        "lat": 44.0550003052,
+        "long": -95.9095001221,
+        "name": "Dairyview ",
+        "state": "Minnesota"
+    },
+    "09MN": {
+        "lat": 44.7799987793,
+        "long": -95.6635971069,
+        "name": "W Johnson Field",
+        "state": "Minnesota"
+    },
+    "0MN1": {
+        "lat": 44.2625007629,
+        "long": -94.0697021484,
+        "name": "Brinkman ",
+        "state": "Minnesota"
+    },
+    "0MN5": {
+        "lat": 44.3072013855,
+        "long": -94.9169006348,
+        "name": "Pankratz ",
+        "state": "Minnesota"
+    },
+    "0MN6": {
+        "lat": 43.6622009277,
+        "long": -92.404296875,
+        "name": "Matson Field",
+        "state": "Minnesota"
+    },
+    "0MN8": {
+        "lat": 45.135799408,
+        "long": -92.8593978882,
+        "name": "Keller ",
+        "state": "Minnesota"
+    },
+    "13MN": {
+        "lat": 46.1007995605,
+        "long": -95.8313980103,
+        "name": "Melby ",
+        "state": "Minnesota"
+    },
+    "15MN": {
+        "lat": 45.2621994019,
+        "long": -94.5106964111,
+        "name": "Tyler Farms ",
+        "state": "Minnesota"
+    },
+    "18MN": {
+        "lat": 46.2372016907,
+        "long": -94.5931015015,
+        "name": "Hines Farm ",
+        "state": "Minnesota"
+    },
+    "1MN0": {
+        "lat": 46.043598175,
+        "long": -96.5462036133,
+        "name": "Wetherbee Farm ",
+        "state": "Minnesota"
+    },
+    "1MN1": {
+        "lat": 45.9733009338,
+        "long": -96.564201355,
+        "name": "Beyer ",
+        "state": "Minnesota"
+    },
+    "1MN2": {
+        "lat": 45.9382019043,
+        "long": -94.7606964111,
+        "name": "Hay Acres ",
+        "state": "Minnesota"
+    },
+    "1MN5": {
+        "lat": 44.8436012268,
+        "long": -93.7399978638,
+        "name": "Molnau Airpark",
+        "state": "Minnesota"
+    },
+    "1MN8": {
+        "lat": 44.5257987976,
+        "long": -93.3268966675,
+        "name": "Sky Harbor Residential Airpark",
+        "state": "Minnesota"
+    },
+    "1MY1": {
+        "lat": 45.9852981567,
+        "long": -96.1943969727,
+        "name": "Carlson Agricultural ",
+        "state": "Minnesota"
+    },
+    "23MN": {
+        "lat": 43.6411018372,
+        "long": -92.022102356,
+        "name": "High Grove ",
+        "state": "Minnesota"
+    },
+    "24MN": {
+        "lat": 44.0041007996,
+        "long": -94.1780014038,
+        "name": "Bergemann ",
+        "state": "Minnesota"
+    },
+    "26MN": {
+        "lat": 47.3300018311,
+        "long": -96.7836990356,
+        "name": "Christianson Field",
+        "state": "Minnesota"
+    },
+    "27MN": {
+        "lat": 48.7374992371,
+        "long": -96.6545028687,
+        "name": "Lake Bronson ",
+        "state": "Minnesota"
+    },
+    "29MN": {
+        "lat": 46.028301239,
+        "long": -96.3628005981,
+        "name": "Wetenkamp ",
+        "state": "Minnesota"
+    },
+    "2MN0": {
+        "lat": 48.0820999146,
+        "long": -97.0162963867,
+        "name": "Pribbs Field",
+        "state": "Minnesota"
+    },
+    "2MN1": {
+        "lat": 45.0461006165,
+        "long": -95.4645004272,
+        "name": "Winter Strip",
+        "state": "Minnesota"
+    },
+    "2MN2": {
+        "lat": 46.9403991699,
+        "long": -93.2978973389,
+        "name": "Dreamcatcher ",
+        "state": "Minnesota"
+    },
+    "2MN6": {
+        "lat": 44.0471992493,
+        "long": -92.0929031372,
+        "name": "Van Norman's ",
+        "state": "Minnesota"
+    },
+    "2MN7": {
+        "lat": 45.7915992737,
+        "long": -94.3407974243,
+        "name": "Fussy ",
+        "state": "Minnesota"
+    },
+    "2MN8": {
+        "lat": 43.9961013794,
+        "long": -92.3357009888,
+        "name": "Trygstad ",
+        "state": "Minnesota"
+    },
+    "2MN9": {
+        "lat": 45.8244018555,
+        "long": -93.995300293,
+        "name": "F. Dillenburg ",
+        "state": "Minnesota"
+    },
+    "2MY2": {
+        "lat": 43.907417,
+        "long": -94.274667,
+        "name": "Zarn ",
+        "state": "Minnesota"
+    },
+    "2MY4": {
+        "lat": 45.433869,
+        "long": -93.948714,
+        "name": "Miller ",
+        "state": "Minnesota"
+    },
+    "32MN": {
+        "lat": 45.3675003052,
+        "long": -94.3993988037,
+        "name": "Don's Landing Field",
+        "state": "Minnesota"
+    },
+    "33MN": {
+        "lat": 46.0900001526,
+        "long": -96.0970001221,
+        "name": "Swift Private ",
+        "state": "Minnesota"
+    },
+    "35MN": {
+        "lat": 44.8154983521,
+        "long": -93.0134963989,
+        "name": "Wipline ",
+        "state": "Minnesota"
+    },
+    "36MN": {
+        "lat": 46.6716003418,
+        "long": -96.575302124,
+        "name": "Wagner Farm ",
+        "state": "Minnesota"
+    },
+    "37MN": {
+        "lat": 44.5821990967,
+        "long": -93.8015975952,
+        "name": "Nagel and Schultz ",
+        "state": "Minnesota"
+    },
+    "38MN": {
+        "lat": 47.4110984802,
+        "long": -94.7724990845,
+        "name": "Chandler Personal Use ",
+        "state": "Minnesota"
+    },
+    "39MN": {
+        "lat": 47.0368995667,
+        "long": -91.7105026245,
+        "name": "Anthony Private ",
+        "state": "Minnesota"
+    },
+    "3MN1": {
+        "lat": 47.4485015869,
+        "long": -92.6448974609,
+        "name": "Stahlberg-Mohr ",
+        "state": "Minnesota"
+    },
+    "3MN3": {
+        "lat": 48.538898468,
+        "long": -95.952003479,
+        "name": "Honker Flats ",
+        "state": "Minnesota"
+    },
+    "3MN5": {
+        "lat": 45.7229995728,
+        "long": -94.193901062,
+        "name": "Little Rock/Rock Port ",
+        "state": "Minnesota"
+    },
+    "3MN7": {
+        "lat": 46.8004989624,
+        "long": -96.5950012207,
+        "name": "Blue Sky ",
+        "state": "Minnesota"
+    },
+    "3MN8": {
+        "lat": 45.5227012634,
+        "long": -94.1228027344,
+        "name": "Aysta Field",
+        "state": "Minnesota"
+    },
+    "3MN9": {
+        "lat": 44.9844017029,
+        "long": -93.9360961914,
+        "name": "Schumacher ",
+        "state": "Minnesota"
+    },
+    "40MN": {
+        "lat": 43.8666000366,
+        "long": -95.0141983032,
+        "name": "Turner Field",
+        "state": "Minnesota"
+    },
+    "41MN": {
+        "lat": 45.4268989563,
+        "long": -96.5895004272,
+        "name": "Shannon Field",
+        "state": "Minnesota"
+    },
+    "42MN": {
+        "lat": 45.0840988159,
+        "long": -93.5643997192,
+        "name": "Kral's Personal Use Landing Field",
+        "state": "Minnesota"
+    },
+    "45MN": {
+        "lat": 47.9261016846,
+        "long": -96.6141967773,
+        "name": "Kaml Airstrip",
+        "state": "Minnesota"
+    },
+    "46MN": {
+        "lat": 46.0055007935,
+        "long": -95.6920013428,
+        "name": "Elmer ",
+        "state": "Minnesota"
+    },
+    "47MN": {
+        "lat": 44.7000007629,
+        "long": -93.866897583,
+        "name": "Sons Private-Commercial ",
+        "state": "Minnesota"
+    },
+    "49MN": {
+        "lat": 44.6719017029,
+        "long": -92.8263015747,
+        "name": "Willow Ridge ",
+        "state": "Minnesota"
+    },
+    "4MN0": {
+        "lat": 45.6618995667,
+        "long": -94.5755996704,
+        "name": "Skalicky Airstrip",
+        "state": "Minnesota"
+    },
+    "4MN2": {
+        "lat": 46.6637992859,
+        "long": -96.2417984009,
+        "name": "Coot Landing ",
+        "state": "Minnesota"
+    },
+    "4MN4": {
+        "lat": 44.4557991028,
+        "long": -96.2305984497,
+        "name": "Mulder Field Inc ",
+        "state": "Minnesota"
+    },
+    "4MN5": {
+        "lat": 45.5504989624,
+        "long": -96.4514007568,
+        "name": "Kapaun-Wilson Field",
+        "state": "Minnesota"
+    },
+    "4MN7": {
+        "lat": 43.8437995911,
+        "long": -94.2857971191,
+        "name": "Burk ",
+        "state": "Minnesota"
+    },
+    "4MN8": {
+        "lat": 46.6274986267,
+        "long": -94.3394012451,
+        "name": "Myers Field",
+        "state": "Minnesota"
+    },
+    "50MN": {
+        "lat": 45.793598175,
+        "long": -96.3001022339,
+        "name": "Zimmerman ",
+        "state": "Minnesota"
+    },
+    "52MN": {
+        "lat": 48.6430015564,
+        "long": -96.8072967529,
+        "name": "Anderson Field",
+        "state": "Minnesota"
+    },
+    "53MN": {
+        "lat": 43.5458984375,
+        "long": -93.0266036987,
+        "name": "Radloff's Cedar View Farms ",
+        "state": "Minnesota"
+    },
+    "54MN": {
+        "lat": 44.8791007996,
+        "long": -93.8854980469,
+        "name": "Sell's Flying Field",
+        "state": "Minnesota"
+    },
+    "55MN": {
+        "lat": 45.8352012634,
+        "long": -93.3355026245,
+        "name": "Conley Field",
+        "state": "Minnesota"
+    },
+    "56MN": {
+        "lat": 44.6455001831,
+        "long": -94.9614028931,
+        "name": "Lothert's Farm Strip",
+        "state": "Minnesota"
+    },
+    "58MN": {
+        "lat": 49.351398468,
+        "long": -95.0710983276,
+        "name": "Northwest Angle ",
+        "state": "Minnesota"
+    },
+    "59MN": {
+        "lat": 48.5993995667,
+        "long": -95.1868972778,
+        "name": "Cox-Coyour Meml Air Field",
+        "state": "Minnesota"
+    },
+    "5MN0": {
+        "lat": 43.8666000366,
+        "long": -92.5610961914,
+        "name": "Scrabeck ",
+        "state": "Minnesota"
+    },
+    "5MN1": {
+        "lat": 44.2005004883,
+        "long": -94.1132965088,
+        "name": "Budde ",
+        "state": "Minnesota"
+    },
+    "5MN2": {
+        "lat": 47.3958015442,
+        "long": -95.3675003052,
+        "name": "Hoiland Field",
+        "state": "Minnesota"
+    },
+    "5MN4": {
+        "lat": 45.4124984741,
+        "long": -94.0766983032,
+        "name": "Seven Hills ",
+        "state": "Minnesota"
+    },
+    "5MN5": {
+        "lat": 45.4364013672,
+        "long": -92.8348999023,
+        "name": "Barnes ",
+        "state": "Minnesota"
+    },
+    "5MN7": {
+        "lat": 46.3871994019,
+        "long": -93.9319000244,
+        "name": "Lindey's Landing ",
+        "state": "Minnesota"
+    },
+    "5MN8": {
+        "lat": 45.7193984985,
+        "long": -96.3103027344,
+        "name": "Rick Mathias Private ",
+        "state": "Minnesota"
+    },
+    "5MN9": {
+        "lat": 48.4235992432,
+        "long": -96.1288986206,
+        "name": "Chanlin Field",
+        "state": "Minnesota"
+    },
+    "60MN": {
+        "lat": 44.4679985046,
+        "long": -95.2835998535,
+        "name": "Fuhr Flying Svc ",
+        "state": "Minnesota"
+    },
+    "61MN": {
+        "lat": 45.9536018372,
+        "long": -96.4009017944,
+        "name": "Traverse Air ",
+        "state": "Minnesota"
+    },
+    "62MN": {
+        "lat": 45.381401062,
+        "long": -92.6824035645,
+        "name": "Taylors Falls ",
+        "state": "Minnesota"
+    },
+    "63MN": {
+        "lat": 47.0943984985,
+        "long": -91.6001968384,
+        "name": "Weideman International ",
+        "state": "Minnesota"
+    },
+    "65MN": {
+        "lat": 45.964099884,
+        "long": -96.1498031616,
+        "name": "Ricks Field",
+        "state": "Minnesota"
+    },
+    "66MN": {
+        "lat": 44.9771995544,
+        "long": -95.4227981567,
+        "name": "Howard's ",
+        "state": "Minnesota"
+    },
+    "67MN": {
+        "lat": 45.2019004822,
+        "long": -94.8011016846,
+        "name": "Pagel's Field",
+        "state": "Minnesota"
+    },
+    "68MN": {
+        "lat": 46.6712989807,
+        "long": -96.4508972168,
+        "name": "Mathew Private Field",
+        "state": "Minnesota"
+    },
+    "69MN": {
+        "lat": 46.2776985168,
+        "long": -96.4294967651,
+        "name": "Yaggie Private ",
+        "state": "Minnesota"
+    },
+    "69MY": {
+        "lat": 44.6610984802,
+        "long": -93.1001968384,
+        "name": "Hall ",
+        "state": "Minnesota"
+    },
+    "6MN0": {
+        "lat": 47.0555992126,
+        "long": -95.4231033325,
+        "name": "Rooney Airfield",
+        "state": "Minnesota"
+    },
+    "6MN2": {
+        "lat": 45.545501709,
+        "long": -95.7795028687,
+        "name": "Brown's Private ",
+        "state": "Minnesota"
+    },
+    "6MN7": {
+        "lat": 44.0999984741,
+        "long": -93.9169006348,
+        "name": "Mankato Farmstrip ",
+        "state": "Minnesota"
+    },
+    "6MN8": {
+        "lat": 44.1526985168,
+        "long": -93.2723999023,
+        "name": "Underland Airstrip",
+        "state": "Minnesota"
+    },
+    "6MN9": {
+        "lat": 45.1166000366,
+        "long": -92.9960021973,
+        "name": "Benson ",
+        "state": "Minnesota"
+    },
+    "70MN": {
+        "lat": 45.3518981934,
+        "long": -93.2461013794,
+        "name": "Harry-Walt ",
+        "state": "Minnesota"
+    },
+    "72MN": {
+        "lat": 47.7524986267,
+        "long": -95.3349990845,
+        "name": "Bardwell Airstrip",
+        "state": "Minnesota"
+    },
+    "73MN": {
+        "lat": 45.1353988647,
+        "long": -95.5167007446,
+        "name": "Paynes ",
+        "state": "Minnesota"
+    },
+    "74MN": {
+        "lat": 45.6972007751,
+        "long": -96.4313964844,
+        "name": "Frisch Personal ",
+        "state": "Minnesota"
+    },
+    "75MN": {
+        "lat": 44.1865997314,
+        "long": -93.7141036987,
+        "name": "Galler's ",
+        "state": "Minnesota"
+    },
+    "76MN": {
+        "lat": 47.5964012146,
+        "long": -96.021697998,
+        "name": "Hemmingsen Private ",
+        "state": "Minnesota"
+    },
+    "77MN": {
+        "lat": 48.3713989258,
+        "long": -95.7881011963,
+        "name": "Klamar Field",
+        "state": "Minnesota"
+    },
+    "78MN": {
+        "lat": 48.3788986206,
+        "long": -95.8116989136,
+        "name": "Hagens Private ",
+        "state": "Minnesota"
+    },
+    "79MN": {
+        "lat": 48.3777008057,
+        "long": -95.7544021606,
+        "name": "Paul Field",
+        "state": "Minnesota"
+    },
+    "7MN0": {
+        "lat": 44.7999992371,
+        "long": -95.3953018188,
+        "name": "Johnson Private ",
+        "state": "Minnesota"
+    },
+    "7MN3": {
+        "lat": 43.7052001953,
+        "long": -92.4607009888,
+        "name": "Caldbeck Field",
+        "state": "Minnesota"
+    },
+    "7MN4": {
+        "lat": 46.3194007874,
+        "long": -93.8308029175,
+        "name": "Mille Lacs Lake Resort ",
+        "state": "Minnesota"
+    },
+    "7MN6": {
+        "lat": 48.3428001404,
+        "long": -96.880897522,
+        "name": "Johnson ",
+        "state": "Minnesota"
+    },
+    "7MN8": {
+        "lat": 48.0699996948,
+        "long": -96.2789001465,
+        "name": "Willis ",
+        "state": "Minnesota"
+    },
+    "7MY9": {
+        "lat": 43.746717,
+        "long": -92.7245,
+        "name": "Petes ",
+        "state": "Minnesota"
+    },
+    "81MN": {
+        "lat": 44.0304985046,
+        "long": -95.1955032349,
+        "name": "Ewen Landing Field",
+        "state": "Minnesota"
+    },
+    "84MN": {
+        "lat": 47.5332984924,
+        "long": -96.8309020996,
+        "name": "Nielsville ",
+        "state": "Minnesota"
+    },
+    "85MN": {
+        "lat": 44.1585998535,
+        "long": -92.2021026611,
+        "name": "Christison ",
+        "state": "Minnesota"
+    },
+    "87MN": {
+        "lat": 48.8102989197,
+        "long": -95.2015991211,
+        "name": "Erickson ",
+        "state": "Minnesota"
+    },
+    "88MN": {
+        "lat": 44.801700592,
+        "long": -93.950302124,
+        "name": "Fox Field",
+        "state": "Minnesota"
+    },
+    "89MN": {
+        "lat": 45.3876991272,
+        "long": -92.6968994141,
+        "name": "Beskar ",
+        "state": "Minnesota"
+    },
+    "8MN1": {
+        "lat": 47.9667812491,
+        "long": -96.640226841,
+        "name": "Shimpa Airstrip",
+        "state": "Minnesota"
+    },
+    "8MN3": {
+        "lat": 46.5957984924,
+        "long": -94.2200012207,
+        "name": "Breezy Point ",
+        "state": "Minnesota"
+    },
+    "8MN4": {
+        "lat": 46.379699707,
+        "long": -93.8135986328,
+        "name": "Sethney Personal STOLport",
+        "state": "Minnesota"
+    },
+    "8MN5": {
+        "lat": 45.2083015442,
+        "long": -93.1335983276,
+        "name": "Vieira ",
+        "state": "Minnesota"
+    },
+    "8MN8": {
+        "lat": 47.0126991272,
+        "long": -93.3937988281,
+        "name": "Porter ",
+        "state": "Minnesota"
+    },
+    "8MN9": {
+        "lat": 45.2569007874,
+        "long": -94.039100647,
+        "name": "Mavencamp ",
+        "state": "Minnesota"
+    },
+    "90MN": {
+        "lat": 44.5032997131,
+        "long": -95.4539031982,
+        "name": "Schmidt Private ",
+        "state": "Minnesota"
+    },
+    "92MN": {
+        "lat": 46.0144004822,
+        "long": -96.1016998291,
+        "name": "Brutlag Farms ",
+        "state": "Minnesota"
+    },
+    "93MN": {
+        "lat": 44.0321006775,
+        "long": -93.9484024048,
+        "name": "Hoppe Sky Ranch ",
+        "state": "Minnesota"
+    },
+    "94MN": {
+        "lat": 46.5765991211,
+        "long": -96.5120010376,
+        "name": "Ag Spray Inc ",
+        "state": "Minnesota"
+    },
+    "96MN": {
+        "lat": 43.5680007935,
+        "long": -93.2544021606,
+        "name": "Air-Ag ",
+        "state": "Minnesota"
+    },
+    "98MN": {
+        "lat": 47.29349899,
+        "long": -94.87490082,
+        "name": "Up Yonder ",
+        "state": "Minnesota"
+    },
+    "9MN1": {
+        "lat": 45.6115989685,
+        "long": -93.1974029541,
+        "name": "Troll Farm ",
+        "state": "Minnesota"
+    },
+    "9MN3": {
+        "lat": 46.6651992798,
+        "long": -96.4412002563,
+        "name": "Barnesville Municipal ",
+        "state": "Minnesota"
+    },
+    "9MN5": {
+        "lat": 46.7118988037,
+        "long": -96.3515014648,
+        "name": "Janssen ",
+        "state": "Minnesota"
+    },
+    "9MN6": {
+        "lat": 44.6433982849,
+        "long": -93.6996994019,
+        "name": "Merill L Harris Field",
+        "state": "Minnesota"
+    },
+    "9MN9": {
+        "lat": 47.5880012512,
+        "long": -90.8235015869,
+        "name": "Tofte ",
+        "state": "Minnesota"
+    },
+    "K04Y": {
+        "lat": 46.8838005066,
+        "long": -96.3503036499,
+        "name": "Hawley Municipal ",
+        "state": "Minnesota"
+    },
+    "K12D": {
+        "lat": 47.8182983398,
+        "long": -92.2917022705,
+        "name": "Tower Municipal ",
+        "state": "Minnesota"
+    },
+    "K12Y": {
+        "lat": 44.4375,
+        "long": -93.9126968384,
+        "name": "Le Sueur Municipal ",
+        "state": "Minnesota"
+    },
+    "K14Y": {
+        "lat": 45.898601532,
+        "long": -94.8739013672,
+        "name": "Todd Field",
+        "state": "Minnesota"
+    },
+    "K16D": {
+        "lat": 46.6040992737,
+        "long": -95.6044998169,
+        "name": "Perham Municipal ",
+        "state": "Minnesota"
+    },
+    "K21D": {
+        "lat": 44.99750137,
+        "long": -92.85569763,
+        "name": "Lake Elmo ",
+        "state": "Minnesota"
+    },
+    "K25D": {
+        "lat": 45.2476997375,
+        "long": -92.9944000244,
+        "name": "Forest Lake ",
+        "state": "Minnesota"
+    },
+    "K3G2": {
+        "lat": 48.2966995239,
+        "long": -95.6271972656,
+        "name": "Grygla Municipal Mel Wilkens Field",
+        "state": "Minnesota"
+    },
+    "K55Y": {
+        "lat": 43.8157997131,
+        "long": -91.8301010132,
+        "name": "Rushford Municipal ",
+        "state": "Minnesota"
+    },
+    "K5C3": {
+        "lat": 47.3760986328,
+        "long": -94.797996521,
+        "name": "Nary National Shefland Field",
+        "state": "Minnesota"
+    },
+    "K6D1": {
+        "lat": 45.5,
+        "long": -95.1128005981,
+        "name": "Brooten Municipal ",
+        "state": "Minnesota"
+    },
+    "K7Y4": {
+        "lat": 47.5250015259,
+        "long": -95.3608016968,
+        "name": "Bagley Municipal ",
+        "state": "Minnesota"
+    },
+    "K8Y6": {
+        "lat": 45.4444007874,
+        "long": -93.9710998535,
+        "name": "Leaders Clear Lake ",
+        "state": "Minnesota"
+    },
+    "KACQ": {
+        "lat": 44.0735015869,
+        "long": -93.5529022217,
+        "name": "Waseca Municipal ",
+        "state": "Minnesota"
+    },
+    "KADC": {
+        "lat": 46.4502983093,
+        "long": -95.2109985352,
+        "name": "Wadena Municipal ",
+        "state": "Minnesota"
+    },
+    "KAEL": {
+        "lat": 43.68149948,
+        "long": -93.36720276,
+        "name": "Albert Lea Municipal ",
+        "state": "Minnesota"
+    },
+    "KAIT": {
+        "lat": 46.5484008789,
+        "long": -93.6768035889,
+        "name": "Aitkin Municipal Steve Kurtz Field",
+        "state": "Minnesota"
+    },
+    "KANE": {
+        "lat": 45.14500046,
+        "long": -93.21140289,
+        "name": "Anoka County-Blaine Arpt(Janes Field) ",
+        "state": "Minnesota"
+    },
+    "KAQP": {
+        "lat": 45.2275009155,
+        "long": -96.0043029785,
+        "name": "Appleton Municipal ",
+        "state": "Minnesota"
+    },
+    "KAUM": {
+        "lat": 43.66500092,
+        "long": -92.93340302,
+        "name": "Austin Municipal ",
+        "state": "Minnesota"
+    },
+    "KAXN": {
+        "lat": 45.8662986755,
+        "long": -95.3946990967,
+        "name": "Chandler Field",
+        "state": "Minnesota"
+    },
+    "KBBB": {
+        "lat": 45.3319015503,
+        "long": -95.6505966187,
+        "name": "Benson Municipal ",
+        "state": "Minnesota"
+    },
+    "KBDE": {
+        "lat": 48.7284011841,
+        "long": -94.612197876,
+        "name": "Baudette International ",
+        "state": "Minnesota"
+    },
+    "KBDH": {
+        "lat": 45.11769867,
+        "long": -95.13040161,
+        "name": "Willmar Municipal -John L Rice Field",
+        "state": "Minnesota"
+    },
+    "KBFW": {
+        "lat": 47.2490005493,
+        "long": -91.4156036377,
+        "name": "Silver Bay Municipal ",
+        "state": "Minnesota"
+    },
+    "KBJI": {
+        "lat": 47.50939941,
+        "long": -94.93370056,
+        "name": "Bemidji Regional ",
+        "state": "Minnesota"
+    },
+    "KBRD": {
+        "lat": 46.39830017,
+        "long": -94.13809967,
+        "name": "Brainerd Lakes Regional ",
+        "state": "Minnesota"
+    },
+    "KCBG": {
+        "lat": 45.5574989319,
+        "long": -93.2641983032,
+        "name": "Cambridge Municipal ",
+        "state": "Minnesota"
+    },
+    "KCFE": {
+        "lat": 45.1590003967,
+        "long": -93.8432998657,
+        "name": "Buffalo Municipal ",
+        "state": "Minnesota"
+    },
+    "KCHU": {
+        "lat": 43.5964012146,
+        "long": -91.5038986206,
+        "name": "Houston County ",
+        "state": "Minnesota"
+    },
+    "KCKC": {
+        "lat": 47.8382987976,
+        "long": -90.3828964233,
+        "name": "Grand Marais Cook County ",
+        "state": "Minnesota"
+    },
+    "KCKN": {
+        "lat": 47.8417015076,
+        "long": -96.62159729,
+        "name": "Crookston Municipal Kirkwood Field",
+        "state": "Minnesota"
+    },
+    "KCNB": {
+        "lat": 44.72949982,
+        "long": -96.26599884,
+        "name": "Myers Field",
+        "state": "Minnesota"
+    },
+    "KCOQ": {
+        "lat": 46.7010993958,
+        "long": -92.5036010742,
+        "name": "Cloquet Carlton County ",
+        "state": "Minnesota"
+    },
+    "KCQM": {
+        "lat": 47.8218994141,
+        "long": -92.6893997192,
+        "name": "Cook Municipal ",
+        "state": "Minnesota"
+    },
+    "KD00": {
+        "lat": 47.26050186,
+        "long": -96.40029907,
+        "name": "Norman County Ada Twin Valley ",
+        "state": "Minnesota"
+    },
+    "KD14": {
+        "lat": 47.5518989563,
+        "long": -96.2919006348,
+        "name": "Fertile Municipal ",
+        "state": "Minnesota"
+    },
+    "KD37": {
+        "lat": 48.1911010742,
+        "long": -96.7110977173,
+        "name": "Warren Municipal ",
+        "state": "Minnesota"
+    },
+    "KD39": {
+        "lat": 45.7066001892,
+        "long": -94.9334030151,
+        "name": "Sauk Centre Municipal ",
+        "state": "Minnesota"
+    },
+    "KD42": {
+        "lat": 44.231098175,
+        "long": -94.9989013672,
+        "name": "Springfield Municipal ",
+        "state": "Minnesota"
+    },
+    "KDLH": {
+        "lat": 46.8420982361,
+        "long": -92.1936035156,
+        "name": "Duluth International ",
+        "state": "Minnesota"
+    },
+    "KDTL": {
+        "lat": 46.82519913,
+        "long": -95.88569641,
+        "name": "Detroit Lakes  - Wething Field",
+        "state": "Minnesota"
+    },
+    "KDVP": {
+        "lat": 43.9868011475,
+        "long": -95.7826004028,
+        "name": "Slayton Municipal ",
+        "state": "Minnesota"
+    },
+    "KDXX": {
+        "lat": 44.9861984253,
+        "long": -96.177696228,
+        "name": "Lac Qui Parle County ",
+        "state": "Minnesota"
+    },
+    "KDYT": {
+        "lat": 46.7219009399,
+        "long": -92.0434036255,
+        "name": "Sky Harbor ",
+        "state": "Minnesota"
+    },
+    "KELO": {
+        "lat": 47.82450104,
+        "long": -91.83070374,
+        "name": "Ely Municipal ",
+        "state": "Minnesota"
+    },
+    "KETH": {
+        "lat": 45.7804985046,
+        "long": -96.5435028076,
+        "name": "Wheaton Municipal ",
+        "state": "Minnesota"
+    },
+    "KEVM": {
+        "lat": 47.42509842,
+        "long": -92.49849701,
+        "name": "Eveleth Virginia Municipal ",
+        "state": "Minnesota"
+    },
+    "KFBL": {
+        "lat": 44.3246994019,
+        "long": -93.310798645,
+        "name": "Faribault Municipal ",
+        "state": "Minnesota"
+    },
+    "KFCM": {
+        "lat": 44.8272018433,
+        "long": -93.4570999146,
+        "name": "Flying Cloud ",
+        "state": "Minnesota"
+    },
+    "KFFM": {
+        "lat": 46.28440094,
+        "long": -96.15670013,
+        "name": "Fergus Falls Municipal Einar Mickelson Field",
+        "state": "Minnesota"
+    },
+    "KFKA": {
+        "lat": 43.67679977,
+        "long": -92.17970276,
+        "name": "Fillmore County ",
+        "state": "Minnesota"
+    },
+    "KFOZ": {
+        "lat": 47.7827987671,
+        "long": -93.6501998901,
+        "name": "Bigfork Municipal ",
+        "state": "Minnesota"
+    },
+    "KFRM": {
+        "lat": 43.643901825,
+        "long": -94.4156036377,
+        "name": "Fairmont Municipal ",
+        "state": "Minnesota"
+    },
+    "KFSE": {
+        "lat": 47.5928001404,
+        "long": -95.7734985352,
+        "name": "Fosston Municipal ",
+        "state": "Minnesota"
+    },
+    "KGDB": {
+        "lat": 44.75329971,
+        "long": -95.55599976,
+        "name": "Granite Falls Municipal-Lenzen-Roe Memorial Field",
+        "state": "Minnesota"
+    },
+    "KGHW": {
+        "lat": 45.643901825,
+        "long": -95.3203964233,
+        "name": "Glenwood Municipal ",
+        "state": "Minnesota"
+    },
+    "KGPZ": {
+        "lat": 47.21110153,
+        "long": -93.50980377,
+        "name": "Grand Rapids Itasca Co-Gordon Newstrom field",
+        "state": "Minnesota"
+    },
+    "KGYL": {
+        "lat": 44.7560005188,
+        "long": -94.081199646,
+        "name": "Glencoe Municipal ",
+        "state": "Minnesota"
+    },
+    "KHCD": {
+        "lat": 44.85990143,
+        "long": -94.38249969,
+        "name": "Hutchinson Municipal Butler Field",
+        "state": "Minnesota"
+    },
+    "KHCO": {
+        "lat": 48.7527008057,
+        "long": -96.9430007935,
+        "name": "Hallock Municipal ",
+        "state": "Minnesota"
+    },
+    "KHIB": {
+        "lat": 47.38660049,
+        "long": -92.83899689,
+        "name": "Chisholm Hibbing ",
+        "state": "Minnesota"
+    },
+    "KHZX": {
+        "lat": 46.6188011169,
+        "long": -93.3097991943,
+        "name": "Isedor Iverson ",
+        "state": "Minnesota"
+    },
+    "KINL": {
+        "lat": 48.5662002563,
+        "long": -93.4030990601,
+        "name": "Falls International ",
+        "state": "Minnesota"
+    },
+    "KJKJ": {
+        "lat": 46.83929825,
+        "long": -96.66369629,
+        "name": "Moorhead Municipal ",
+        "state": "Minnesota"
+    },
+    "KJMR": {
+        "lat": 45.886100769,
+        "long": -93.2717971802,
+        "name": "Mora Municipal ",
+        "state": "Minnesota"
+    },
+    "KJYG": {
+        "lat": 43.9863014221,
+        "long": -94.5578994751,
+        "name": "St James Municipal ",
+        "state": "Minnesota"
+    },
+    "KLJF": {
+        "lat": 45.0970993042,
+        "long": -94.5073013306,
+        "name": "Litchfield Municipal ",
+        "state": "Minnesota"
+    },
+    "KLVN": {
+        "lat": 44.6278991699,
+        "long": -93.2281036377,
+        "name": "Airlake ",
+        "state": "Minnesota"
+    },
+    "KLXL": {
+        "lat": 45.9496994,
+        "long": -94.34739685,
+        "name": "Little Falls-Morrison County-Lindbergh field",
+        "state": "Minnesota"
+    },
+    "KLYV": {
+        "lat": 43.6212005615,
+        "long": -96.2157974243,
+        "name": "Quentin Aanenson Field",
+        "state": "Minnesota"
+    },
+    "KMGG": {
+        "lat": 45.236000061,
+        "long": -93.9856033325,
+        "name": "Maple Lake Municipal ",
+        "state": "Minnesota"
+    },
+    "KMIC": {
+        "lat": 45.0620002747,
+        "long": -93.3538970947,
+        "name": "Crystal ",
+        "state": "Minnesota"
+    },
+    "KMJQ": {
+        "lat": 43.6500015259,
+        "long": -94.9865036011,
+        "name": "Jackson Municipal ",
+        "state": "Minnesota"
+    },
+    "KMKT": {
+        "lat": 44.22159958,
+        "long": -93.91870117,
+        "name": "Mankato Regional ",
+        "state": "Minnesota"
+    },
+    "KMML": {
+        "lat": 44.45050049,
+        "long": -95.82189941,
+        "name": "Southwest Minnesota Regional-Marshall-Ryan Field",
+        "state": "Minnesota"
+    },
+    "KMOX": {
+        "lat": 45.56600189,
+        "long": -95.96720123,
+        "name": "Morris Municipal - Charlie Schmidt ",
+        "state": "Minnesota"
+    },
+    "KMSP": {
+        "lat": 44.8819999695,
+        "long": -93.2218017578,
+        "name": "Minneapolis-St Paul International/Wold-Chamberlain ",
+        "state": "Minnesota"
+    },
+    "KMVE": {
+        "lat": 44.9691009521,
+        "long": -95.7102966309,
+        "name": "Montevideo Chippewa County ",
+        "state": "Minnesota"
+    },
+    "KMWM": {
+        "lat": 43.9133987427,
+        "long": -95.1093978882,
+        "name": "Windom Municipal ",
+        "state": "Minnesota"
+    },
+    "KMZH": {
+        "lat": 46.418800354,
+        "long": -92.8047027588,
+        "name": "Moose Lake Carlton County ",
+        "state": "Minnesota"
+    },
+    "KONA": {
+        "lat": 44.07720184,
+        "long": -91.70829773,
+        "name": "Winona Municipal-Max Conrad Field",
+        "state": "Minnesota"
+    },
+    "KORB": {
+        "lat": 48.0158996582,
+        "long": -92.8561019897,
+        "name": "Orr Regional ",
+        "state": "Minnesota"
+    },
+    "KOTG": {
+        "lat": 43.6551017761,
+        "long": -95.5792007446,
+        "name": "Worthington Municipal ",
+        "state": "Minnesota"
+    },
+    "KOVL": {
+        "lat": 44.7785987854,
+        "long": -95.0327987671,
+        "name": "Olivia Regional ",
+        "state": "Minnesota"
+    },
+    "KOWA": {
+        "lat": 44.12340164,
+        "long": -93.26059723,
+        "name": "Owatonna Degner Regional ",
+        "state": "Minnesota"
+    },
+    "KPEX": {
+        "lat": 45.3722991943,
+        "long": -94.74659729,
+        "name": "Paynesville Municipal ",
+        "state": "Minnesota"
+    },
+    "KPKD": {
+        "lat": 46.90060043,
+        "long": -95.07309723,
+        "name": "Park Rapids Municipal Konshok Field",
+        "state": "Minnesota"
+    },
+    "KPOC": {
+        "lat": 34.0915985107,
+        "long": -117.7819976807,
+        "name": "Brackett Field",
+        "state": "Minnesota"
+    },
+    "KPQN": {
+        "lat": 43.9832992554,
+        "long": -96.3003005981,
+        "name": "Pipestone Municipal ",
+        "state": "Minnesota"
+    },
+    "KPWC": {
+        "lat": 46.7248001099,
+        "long": -94.3816986084,
+        "name": "Pine River Regional ",
+        "state": "Minnesota"
+    },
+    "KROS": {
+        "lat": 45.69800186,
+        "long": -92.95300293,
+        "name": "Rush City Regional ",
+        "state": "Minnesota"
+    },
+    "KROX": {
+        "lat": 48.85599899,
+        "long": -95.6969986,
+        "name": "Roseau Municipal Rudy Billberg Field",
+        "state": "Minnesota"
+    },
+    "KRRT": {
+        "lat": 48.94139862,
+        "long": -95.3483963,
+        "name": "Warroad International Memorial Field",
+        "state": "Minnesota"
+    },
+    "KRST": {
+        "lat": 43.9082984924,
+        "long": -92.5,
+        "name": "Rochester International ",
+        "state": "Minnesota"
+    },
+    "KRWF": {
+        "lat": 44.54719925,
+        "long": -95.08229828,
+        "name": "Redwood Falls Municipal ",
+        "state": "Minnesota"
+    },
+    "KRYM": {
+        "lat": 46.0912017822,
+        "long": -94.360496521,
+        "name": "Ray S Miller Army Air Field",
+        "state": "Minnesota"
+    },
+    "KSAZ": {
+        "lat": 46.3809013367,
+        "long": -94.806602478,
+        "name": "Staples Municipal ",
+        "state": "Minnesota"
+    },
+    "KSBU": {
+        "lat": 43.5952987671,
+        "long": -94.0927963257,
+        "name": "Blue Earth Municipal ",
+        "state": "Minnesota"
+    },
+    "KSGS": {
+        "lat": 44.85710144,
+        "long": -93.03289795,
+        "name": "South St Paul Municipal Richard E Fleming field",
+        "state": "Minnesota"
+    },
+    "KSTC": {
+        "lat": 45.5466003418,
+        "long": -94.0598983765,
+        "name": "St Cloud Regional ",
+        "state": "Minnesota"
+    },
+    "KSTP": {
+        "lat": 44.9345016479,
+        "long": -93.0599975586,
+        "name": "St Paul Downtown Holman Field",
+        "state": "Minnesota"
+    },
+    "KSYN": {
+        "lat": 44.4754981995,
+        "long": -93.0162963867,
+        "name": "Stanton Airfield",
+        "state": "Minnesota"
+    },
+    "KTKC": {
+        "lat": 44.2490997314,
+        "long": -95.6072998047,
+        "name": "Tracy Municipal ",
+        "state": "Minnesota"
+    },
+    "KTOB": {
+        "lat": 44.0180015564,
+        "long": -92.8314971924,
+        "name": "Dodge Center ",
+        "state": "Minnesota"
+    },
+    "KTVF": {
+        "lat": 48.06570053,
+        "long": -96.18499756,
+        "name": "Thief River Falls Regional ",
+        "state": "Minnesota"
+    },
+    "KTWM": {
+        "lat": 47.04919815,
+        "long": -91.74510193,
+        "name": "Richard B Helgeson ",
+        "state": "Minnesota"
+    },
+    "KULM": {
+        "lat": 44.3195991516,
+        "long": -94.5022964478,
+        "name": "New Ulm Municipal ",
+        "state": "Minnesota"
+    },
+    "KVVV": {
+        "lat": 45.30569839,
+        "long": -96.42440033,
+        "name": "Ortonville Municipal Martinson Field",
+        "state": "Minnesota"
+    },
+    "KVWU": {
+        "lat": 48.1540985107,
+        "long": -94.5168991089,
+        "name": "Waskish Municipal ",
+        "state": "Minnesota"
+    },
+    "KXVG": {
+        "lat": 46.9902000427,
+        "long": -94.2040023804,
+        "name": "Longville Municipal ",
+        "state": "Minnesota"
+    },
+    "MN00": {
+        "lat": 46.95980072,
+        "long": -94.42469788,
+        "name": "Webb Lake ",
+        "state": "Minnesota"
+    },
+    "MN01": {
+        "lat": 47.2832984924,
+        "long": -96.6169967651,
+        "name": "Hammars Farm ",
+        "state": "Minnesota"
+    },
+    "MN04": {
+        "lat": 45.773601532,
+        "long": -95.262802124,
+        "name": "Aggies Landing ",
+        "state": "Minnesota"
+    },
+    "MN06": {
+        "lat": 48.0499992371,
+        "long": -96.7836990356,
+        "name": "Pulkrabek Private Landing Field",
+        "state": "Minnesota"
+    },
+    "MN08": {
+        "lat": 44.126499176,
+        "long": -93.8718032837,
+        "name": "Eagles Nest Aerodrome",
+        "state": "Minnesota"
+    },
+    "MN11": {
+        "lat": 45.2999992371,
+        "long": -95.5449981689,
+        "name": "Lorenz ",
+        "state": "Minnesota"
+    },
+    "MN12": {
+        "lat": 47.1988983154,
+        "long": -94.7521972656,
+        "name": "Robco ",
+        "state": "Minnesota"
+    },
+    "MN13": {
+        "lat": 47.4961013794,
+        "long": -94.952796936,
+        "name": "Moberg Air Base",
+        "state": "Minnesota"
+    },
+    "MN15": {
+        "lat": 44.7949981689,
+        "long": -93.8538970947,
+        "name": "Empire Farm Strip",
+        "state": "Minnesota"
+    },
+    "MN17": {
+        "lat": 46.27220154,
+        "long": -94.23940277,
+        "name": "Jackson Field",
+        "state": "Minnesota"
+    },
+    "MN18": {
+        "lat": 46.1781997681,
+        "long": -94.0886001587,
+        "name": "Barrett ",
+        "state": "Minnesota"
+    },
+    "MN19": {
+        "lat": 45.0472984314,
+        "long": -93.8364028931,
+        "name": "Brandt ",
+        "state": "Minnesota"
+    },
+    "MN20": {
+        "lat": 44.9104995728,
+        "long": -94.5714035034,
+        "name": "Runke's Field",
+        "state": "Minnesota"
+    },
+    "MN23": {
+        "lat": 45.3157997131,
+        "long": -92.8858032227,
+        "name": "Dupre's ",
+        "state": "Minnesota"
+    },
+    "MN24": {
+        "lat": 45.1500015259,
+        "long": -93.116897583,
+        "name": "Surfside ",
+        "state": "Minnesota"
+    },
+    "MN28": {
+        "lat": 44.983001709,
+        "long": -94.7481002808,
+        "name": "Lux Strip",
+        "state": "Minnesota"
+    },
+    "MN31": {
+        "lat": 45.0621986389,
+        "long": -94.5792007446,
+        "name": "L & M Aerodrome",
+        "state": "Minnesota"
+    },
+    "MN32": {
+        "lat": 44.1913986206,
+        "long": -92.4526977539,
+        "name": "Nietz Airstrip",
+        "state": "Minnesota"
+    },
+    "MN37": {
+        "lat": 46.9449005127,
+        "long": -92.3571014404,
+        "name": "Shelton's Private ",
+        "state": "Minnesota"
+    },
+    "MN38": {
+        "lat": 47.9249992371,
+        "long": -96.9837036133,
+        "name": "Spud Field",
+        "state": "Minnesota"
+    },
+    "MN40": {
+        "lat": 45.3624992371,
+        "long": -93.5886001587,
+        "name": "Meadowvale ",
+        "state": "Minnesota"
+    },
+    "MN41": {
+        "lat": 44.973428,
+        "long": -94.214186,
+        "name": "Timmers Landing Field",
+        "state": "Minnesota"
+    },
+    "MN42": {
+        "lat": 47.6585998535,
+        "long": -95.9460983276,
+        "name": "Oak Lake Air Strip",
+        "state": "Minnesota"
+    },
+    "MN44": {
+        "lat": 45.9364013672,
+        "long": -95.5261993408,
+        "name": "Angen Field",
+        "state": "Minnesota"
+    },
+    "MN45": {
+        "lat": 44.5661010742,
+        "long": -93.1322021484,
+        "name": "Jennrich Field",
+        "state": "Minnesota"
+    },
+    "MN46": {
+        "lat": 44.6040992737,
+        "long": -93.0919036865,
+        "name": "Lucht Field",
+        "state": "Minnesota"
+    },
+    "MN47": {
+        "lat": 45.54970169,
+        "long": -93.46980286,
+        "name": "Cameron's ",
+        "state": "Minnesota"
+    },
+    "MN49": {
+        "lat": 44.4239006042,
+        "long": -93.4843978882,
+        "name": "Tuma Private ",
+        "state": "Minnesota"
+    },
+    "MN50": {
+        "lat": 48.3702011108,
+        "long": -95.8069000244,
+        "name": "Arthur Field",
+        "state": "Minnesota"
+    },
+    "MN51": {
+        "lat": 45.4536018372,
+        "long": -92.9747009277,
+        "name": "Bowers ",
+        "state": "Minnesota"
+    },
+    "MN52": {
+        "lat": 47.22909927,
+        "long": -93.09210205,
+        "name": "Gospel Ranch ",
+        "state": "Minnesota"
+    },
+    "MN53": {
+        "lat": 45.5821990967,
+        "long": -96.576499939,
+        "name": "Stanley Field",
+        "state": "Minnesota"
+    },
+    "MN55": {
+        "lat": 44.7052001953,
+        "long": -92.8118972778,
+        "name": "Sandy Flats ",
+        "state": "Minnesota"
+    },
+    "MN57": {
+        "lat": 46.036072,
+        "long": -92.988253,
+        "name": "Bush Field",
+        "state": "Minnesota"
+    },
+    "MN58": {
+        "lat": 44.6977005005,
+        "long": -92.8640975952,
+        "name": "Sky Meadow ",
+        "state": "Minnesota"
+    },
+    "MN60": {
+        "lat": 45.7633018494,
+        "long": -96.2155990601,
+        "name": "Itzen Air Strip",
+        "state": "Minnesota"
+    },
+    "MN61": {
+        "lat": 43.7602005005,
+        "long": -93.1780014038,
+        "name": "Ward ",
+        "state": "Minnesota"
+    },
+    "MN62": {
+        "lat": 44.8499984741,
+        "long": -94.3503036499,
+        "name": "Quast ",
+        "state": "Minnesota"
+    },
+    "MN63": {
+        "lat": 44.6833000183,
+        "long": -93.6369018555,
+        "name": "Stocker Private ",
+        "state": "Minnesota"
+    },
+    "MN64": {
+        "lat": 43.6958007813,
+        "long": -95.1725006104,
+        "name": "H Reder Field",
+        "state": "Minnesota"
+    },
+    "MN66": {
+        "lat": 45.0630989075,
+        "long": -93.6522979736,
+        "name": "Ingleside ",
+        "state": "Minnesota"
+    },
+    "MN67": {
+        "lat": 44.6596984863,
+        "long": -93.5183029175,
+        "name": "Sky Park ",
+        "state": "Minnesota"
+    },
+    "MN68": {
+        "lat": 45.7008018494,
+        "long": -93.37159729,
+        "name": "Pangerl ",
+        "state": "Minnesota"
+    },
+    "MN69": {
+        "lat": 45.0027008057,
+        "long": -93.6718978882,
+        "name": "Maple ",
+        "state": "Minnesota"
+    },
+    "MN71": {
+        "lat": 44.875,
+        "long": -93.8918991089,
+        "name": "Ziermann ",
+        "state": "Minnesota"
+    },
+    "MN74": {
+        "lat": 43.8305015564,
+        "long": -93.8404998779,
+        "name": "B & D Flyers International ",
+        "state": "Minnesota"
+    },
+    "MN77": {
+        "lat": 46.9235992432,
+        "long": -96.7155990601,
+        "name": "Jerger's Field",
+        "state": "Minnesota"
+    },
+    "MN79": {
+        "lat": 45.4314002991,
+        "long": -93.8576965332,
+        "name": "Schroeder ",
+        "state": "Minnesota"
+    },
+    "MN81": {
+        "lat": 47.988899231,
+        "long": -97.0311965942,
+        "name": "J J and T ",
+        "state": "Minnesota"
+    },
+    "MN84": {
+        "lat": 47.8138999939,
+        "long": -95.891998291,
+        "name": "Bachand ",
+        "state": "Minnesota"
+    },
+    "MN85": {
+        "lat": 46.0332984924,
+        "long": -93.6613998413,
+        "name": "Swiderski Field",
+        "state": "Minnesota"
+    },
+    "MN86": {
+        "lat": 47.0457992554,
+        "long": -95.1224975586,
+        "name": "Sky Manor Aero Estates ",
+        "state": "Minnesota"
+    },
+    "MN87": {
+        "lat": 45.243598938,
+        "long": -93.2217025757,
+        "name": "Cooks Landing ",
+        "state": "Minnesota"
+    },
+    "MN88": {
+        "lat": 45.2868995667,
+        "long": -94.6753005981,
+        "name": "Empire Valley ",
+        "state": "Minnesota"
+    },
+    "MN89": {
+        "lat": 46.6166000366,
+        "long": -95.6502990723,
+        "name": "Aerovilla ",
+        "state": "Minnesota"
+    },
+    "MN91": {
+        "lat": 45.5374984741,
+        "long": -93.5140991211,
+        "name": "Reynolds Field",
+        "state": "Minnesota"
+    },
+    "MN92": {
+        "lat": 46.7499008179,
+        "long": -92.300201416,
+        "name": "Lennartson ",
+        "state": "Minnesota"
+    },
+    "MN93": {
+        "lat": 46.1054992676,
+        "long": -94.516998291,
+        "name": "Chandler Field",
+        "state": "Minnesota"
+    },
+    "MN95": {
+        "lat": 46.511100769,
+        "long": -96.1920013428,
+        "name": "Velo Airstrip",
+        "state": "Minnesota"
+    },
+    "MN96": {
+        "lat": 43.5983009338,
+        "long": -95.8170013428,
+        "name": "Rohwer ",
+        "state": "Minnesota"
+    },
+    "MN97": {
+        "lat": 45.5901985168,
+        "long": -94.2043991089,
+        "name": "Thens Private Airstrip",
+        "state": "Minnesota"
+    },
+    "MN98": {
+        "lat": 45.4113998413,
+        "long": -93.3846969604,
+        "name": "Aero-Plain ",
+        "state": "Minnesota"
+    },
+    "MN99": {
+        "lat": 44.915599823,
+        "long": -94.0888977051,
+        "name": "Serenity ",
+        "state": "Minnesota"
+    },
+    "MY00": {
+        "lat": 43.8941001892,
+        "long": -94.4938964844,
+        "name": "Sieg's Farm ",
+        "state": "Minnesota"
+    },
+    "MY01": {
+        "lat": 48.1458015442,
+        "long": -96.7526016235,
+        "name": "Roan ",
+        "state": "Minnesota"
+    },
+    "MY03": {
+        "lat": 44.2816009521,
+        "long": -94.6405029297,
+        "name": "Braun's ",
+        "state": "Minnesota"
+    },
+    "MY04": {
+        "lat": 44.6599998474,
+        "long": -96.0373001099,
+        "name": "Koch's Personal Field",
+        "state": "Minnesota"
+    },
+    "MY06": {
+        "lat": 43.831401825,
+        "long": -95.5552978516,
+        "name": "Ramerth ",
+        "state": "Minnesota"
+    },
+    "MY07": {
+        "lat": 46.5833015442,
+        "long": -96.6064987183,
+        "name": "Nord Field",
+        "state": "Minnesota"
+    },
+    "MY10": {
+        "lat": 43.5611000061,
+        "long": -91.6815032959,
+        "name": "Deters Farms ",
+        "state": "Minnesota"
+    },
+    "MY11": {
+        "lat": 43.5214004517,
+        "long": -92.6585006714,
+        "name": "Gilgenbach's ",
+        "state": "Minnesota"
+    },
+    "MY12": {
+        "lat": 43.8807983398,
+        "long": -96.2530975342,
+        "name": "Dykstra Acreage ",
+        "state": "Minnesota"
+    },
+    "MY13": {
+        "lat": 46.86930084,
+        "long": -92.45709991,
+        "name": "Swan Field",
+        "state": "Minnesota"
+    },
+    "MY15": {
+        "lat": 45.9557991028,
+        "long": -93.989402771,
+        "name": "Kastanek ",
+        "state": "Minnesota"
+    },
+    "MY17": {
+        "lat": 48.0889015198,
+        "long": -95.7746963501,
+        "name": "Swanson Private ",
+        "state": "Minnesota"
+    },
+    "MY18": {
+        "lat": 45.1871986389,
+        "long": -93.1305007935,
+        "name": "Lino Air Park",
+        "state": "Minnesota"
+    },
+    "MY19": {
+        "lat": 45.1707992554,
+        "long": -95.3925018311,
+        "name": "Schwenk ",
+        "state": "Minnesota"
+    },
+    "MY24": {
+        "lat": 46.8622016907,
+        "long": -95.0522003174,
+        "name": "Falk Private ",
+        "state": "Minnesota"
+    },
+    "MY25": {
+        "lat": 46.2799987793,
+        "long": -96.3314971924,
+        "name": "Knapp Personal Use ",
+        "state": "Minnesota"
+    },
+    "MY28": {
+        "lat": 45.5797996521,
+        "long": -92.9630966187,
+        "name": "Pinetree Airpark",
+        "state": "Minnesota"
+    },
+    "MY29": {
+        "lat": 46.7969017029,
+        "long": -96.0996017456,
+        "name": "Kaiser's Airstrip",
+        "state": "Minnesota"
+    },
+    "MY35": {
+        "lat": 44.9334983826,
+        "long": -92.8177032471,
+        "name": "Walker Field",
+        "state": "Minnesota"
+    },
+    "MY37": {
+        "lat": 43.981076,
+        "long": -92.246554,
+        "name": "Thomas Field",
+        "state": "Minnesota"
+    },
+    "MY42": {
+        "lat": 47.8638000488,
+        "long": -95.5270004272,
+        "name": "Mathis ",
+        "state": "Minnesota"
+    },
+    "MY43": {
+        "lat": 45.4026985168,
+        "long": -93.3893966675,
+        "name": "Becker Personal ",
+        "state": "Minnesota"
+    },
+    "MY46": {
+        "lat": 44.2792015076,
+        "long": -94.2133026123,
+        "name": "Hay Shakers ",
+        "state": "Minnesota"
+    },
+    "MY47": {
+        "lat": 45.6046981812,
+        "long": -94.2108001709,
+        "name": "Guggenberger ",
+        "state": "Minnesota"
+    },
+    "MY49": {
+        "lat": 47.787399292,
+        "long": -93.0605010986,
+        "name": "Anderson ",
+        "state": "Minnesota"
+    },
+    "MY50": {
+        "lat": 44.5027008057,
+        "long": -92.3612976074,
+        "name": "Frontenac ",
+        "state": "Minnesota"
+    },
+    "MY52": {
+        "lat": 44.7186012268,
+        "long": -93.0440979004,
+        "name": "Turkey Track ",
+        "state": "Minnesota"
+    },
+    "MY54": {
+        "lat": 47.4383010864,
+        "long": -94.8122024536,
+        "name": "Cloverleaf-East Bemidji ",
+        "state": "Minnesota"
+    },
+    "MY55": {
+        "lat": 46.4197006226,
+        "long": -94.2752990723,
+        "name": "B I R ",
+        "state": "Minnesota"
+    },
+    "MY56": {
+        "lat": 47.2523994446,
+        "long": -92.8593978882,
+        "name": "Robertson Field",
+        "state": "Minnesota"
+    },
+    "MY57": {
+        "lat": 45.7633018494,
+        "long": -94.4574966431,
+        "name": "Fedor ",
+        "state": "Minnesota"
+    },
+    "MY58": {
+        "lat": 45.2388000488,
+        "long": -95.9253005981,
+        "name": "Home-Base ",
+        "state": "Minnesota"
+    },
+    "MY59": {
+        "lat": 47.901599884,
+        "long": -96.6122970581,
+        "name": "Gasper ",
+        "state": "Minnesota"
+    },
+    "MY60": {
+        "lat": 46.5027008057,
+        "long": -95.6197967529,
+        "name": "Hagen ",
+        "state": "Minnesota"
+    },
+    "MY62": {
+        "lat": 46.6651992798,
+        "long": -94.3432998657,
+        "name": "Ultraflyte Inc Ultralightport",
+        "state": "Minnesota"
+    },
+    "MY64": {
+        "lat": 47.0311012268,
+        "long": -96.6023025513,
+        "name": "Schjeldrup ",
+        "state": "Minnesota"
+    },
+    "MY66": {
+        "lat": 46.0704994202,
+        "long": -93.8471984863,
+        "name": "North Star Ranch ",
+        "state": "Minnesota"
+    },
+    "MY68": {
+        "lat": 45.7771987915,
+        "long": -96.3914031982,
+        "name": "Johnsons Aero Repair ",
+        "state": "Minnesota"
+    },
+    "MY71": {
+        "lat": 47.1263999939,
+        "long": -96.7806015015,
+        "name": "Mueller ",
+        "state": "Minnesota"
+    },
+    "MY72": {
+        "lat": 46.1596984863,
+        "long": -93.4613037109,
+        "name": "Isle Private ",
+        "state": "Minnesota"
+    },
+    "MY78": {
+        "lat": 45.4291000366,
+        "long": -92.9862976074,
+        "name": "Sunrise ",
+        "state": "Minnesota"
+    },
+    "MY80": {
+        "lat": 43.5222015381,
+        "long": -94.5824966431,
+        "name": "Rosenberg ",
+        "state": "Minnesota"
+    },
+    "MY82": {
+        "lat": 45.2130012512,
+        "long": -93.0746994019,
+        "name": "Du Fresne ",
+        "state": "Minnesota"
+    },
+    "MY88": {
+        "lat": 46.8574981689,
+        "long": -94.9831008911,
+        "name": "Cary ",
+        "state": "Minnesota"
+    },
+    "MY89": {
+        "lat": 45.9082984924,
+        "long": -92.9057998657,
+        "name": "Pavek Personal ",
+        "state": "Minnesota"
+    },
+    "MY90": {
+        "lat": 45.4822006226,
+        "long": -92.9885025024,
+        "name": "Al's Due North ",
+        "state": "Minnesota"
+    },
+    "MY92": {
+        "lat": 45.7285995483,
+        "long": -93.2882995605,
+        "name": "Grohnke Field",
+        "state": "Minnesota"
+    },
+    "MY94": {
+        "lat": 46.7524986267,
+        "long": -92.4191970825,
+        "name": "Country Haven ",
+        "state": "Minnesota"
+    },
+    "MY95": {
+        "lat": 45.4463996887,
+        "long": -93.3827972412,
+        "name": "Swanson Field",
+        "state": "Minnesota"
+    },
+    "MY97": {
+        "lat": 44.5979995728,
+        "long": -93.1268997192,
+        "name": "Nielsen's ",
+        "state": "Minnesota"
+    },
+    "MY98": {
+        "lat": 47.045501709,
+        "long": -96.6656036377,
+        "name": "Pake ",
+        "state": "Minnesota"
+    },
+    "MY99": {
+        "lat": 46.8574981689,
+        "long": -96.2351989746,
+        "name": "Johnston ",
+        "state": "Minnesota"
+    }
+}

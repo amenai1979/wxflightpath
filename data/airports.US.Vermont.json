@@ -1,0 +1,356 @@
+{
+    "04VT": {
+        "lat": 44.4011001587,
+        "long": -72.2636032104,
+        "name": "Lightning Bolt Field ",
+        "state": "Vermont"
+    },
+    "07VT": {
+        "lat": 44.4472007751,
+        "long": -72.9147033691,
+        "name": "Meadow STOLport",
+        "state": "Vermont"
+    },
+    "23VT": {
+        "lat": 43.2215003967,
+        "long": -72.7128982544,
+        "name": "North Windham ",
+        "state": "Vermont"
+    },
+    "37VT": {
+        "lat": 43.868598938,
+        "long": -73.3180999756,
+        "name": "Brisson ",
+        "state": "Vermont"
+    },
+    "42VT": {
+        "lat": 44.3669013977,
+        "long": -73.1501998901,
+        "name": "Frogs End ",
+        "state": "Vermont"
+    },
+    "88VT": {
+        "lat": 44.8782997131,
+        "long": -73.3503036499,
+        "name": "Hawk's Nest ",
+        "state": "Vermont"
+    },
+    "8NK3": {
+        "lat": 43.5,
+        "long": -73.066667,
+        "name": "Harris ",
+        "state": "Vermont"
+    },
+    "KBTV": {
+        "lat": 44.4719009399,
+        "long": -73.1532974243,
+        "name": "Burlington International ",
+        "state": "Vermont"
+    },
+    "KCDA": {
+        "lat": 44.5690994263,
+        "long": -72.0179977417,
+        "name": "Caledonia County ",
+        "state": "Vermont"
+    },
+    "KDDH": {
+        "lat": 42.8913002,
+        "long": -73.24639893,
+        "name": "William H. Morse State ",
+        "state": "Vermont"
+    },
+    "KEFK": {
+        "lat": 44.8888015747,
+        "long": -72.2292022705,
+        "name": "Newport State ",
+        "state": "Vermont"
+    },
+    "KFSO": {
+        "lat": 44.94029999,
+        "long": -73.09750366,
+        "name": "Franklin County State ",
+        "state": "Vermont"
+    },
+    "KMPV": {
+        "lat": 44.20349884,
+        "long": -72.56230164,
+        "name": "Edward F Knapp State ",
+        "state": "Vermont"
+    },
+    "KMVL": {
+        "lat": 44.5345993042,
+        "long": -72.6139984131,
+        "name": "Morrisville Stowe State ",
+        "state": "Vermont"
+    },
+    "KRUT": {
+        "lat": 43.52939987,
+        "long": -72.94960022,
+        "name": "Rutland - Southern Vermont Regional ",
+        "state": "Vermont"
+    },
+    "KVSF": {
+        "lat": 43.34360123,
+        "long": -72.51730347,
+        "name": "Hartness State (Springfield) ",
+        "state": "Vermont"
+    },
+    "VT01": {
+        "lat": 44.2826004028,
+        "long": -72.9373016357,
+        "name": "Teal Farm ",
+        "state": "Vermont"
+    },
+    "VT02": {
+        "lat": 43.1473007202,
+        "long": -72.8851013184,
+        "name": "Red Fox ",
+        "state": "Vermont"
+    },
+    "VT03": {
+        "lat": 44.0886993408,
+        "long": -72.9809036255,
+        "name": "Maule's Roost ",
+        "state": "Vermont"
+    },
+    "VT06": {
+        "lat": 43.0043983459,
+        "long": -72.4737014771,
+        "name": "Santa's ",
+        "state": "Vermont"
+    },
+    "VT09": {
+        "lat": 44.1136016846,
+        "long": -73.2902984619,
+        "name": "Spencer ",
+        "state": "Vermont"
+    },
+    "VT10": {
+        "lat": 43.9813995361,
+        "long": -73.3856964111,
+        "name": "Manning Personal Airstrip",
+        "state": "Vermont"
+    },
+    "VT11": {
+        "lat": 44.0686988831,
+        "long": -73.3733978271,
+        "name": "Ass-Pirin Acres ",
+        "state": "Vermont"
+    },
+    "VT12": {
+        "lat": 44.2911987305,
+        "long": -73.283203125,
+        "name": "E.A.Deeds Farm ",
+        "state": "Vermont"
+    },
+    "VT13": {
+        "lat": 43.3000984192,
+        "long": -72.7175979614,
+        "name": "Holloway ",
+        "state": "Vermont"
+    },
+    "VT14": {
+        "lat": 44.0451011658,
+        "long": -73.1895980835,
+        "name": "Axinn ",
+        "state": "Vermont"
+    },
+    "VT15": {
+        "lat": 44.7038993835,
+        "long": -73.2460021973,
+        "name": "Savage Island ",
+        "state": "Vermont"
+    },
+    "VT17": {
+        "lat": 43.3689994812,
+        "long": -72.6743011475,
+        "name": "Smith ",
+        "state": "Vermont"
+    },
+    "VT20": {
+        "lat": 43.3666992188,
+        "long": -73.1482009888,
+        "name": "Mach Personal Strip",
+        "state": "Vermont"
+    },
+    "VT22": {
+        "lat": 44.4014015198,
+        "long": -73.2670974731,
+        "name": "Shelburne Farms ",
+        "state": "Vermont"
+    },
+    "VT23": {
+        "lat": 44.3708992004,
+        "long": -73.2503967285,
+        "name": "Bostwick Farm ",
+        "state": "Vermont"
+    },
+    "VT24": {
+        "lat": 43.9319992065,
+        "long": -73.3701019287,
+        "name": "Torrey ",
+        "state": "Vermont"
+    },
+    "VT25": {
+        "lat": 44.4166984558,
+        "long": -73.1661987305,
+        "name": "Sky Acres ",
+        "state": "Vermont"
+    },
+    "VT26": {
+        "lat": 44.6344985962,
+        "long": -73.3068008423,
+        "name": "Allenholm ",
+        "state": "Vermont"
+    },
+    "VT29": {
+        "lat": 44.226398468,
+        "long": -72.7954025269,
+        "name": "Mad River Fly-In ",
+        "state": "Vermont"
+    },
+    "VT30": {
+        "lat": 44.1626014709,
+        "long": -72.8339996338,
+        "name": "Ketcham Lndg Area ",
+        "state": "Vermont"
+    },
+    "VT31": {
+        "lat": 44.1111984253,
+        "long": -72.4440002441,
+        "name": "Carriers Skypark ",
+        "state": "Vermont"
+    },
+    "VT33": {
+        "lat": 44.1055984497,
+        "long": -73.3778991699,
+        "name": "Yankee Kingdom ",
+        "state": "Vermont"
+    },
+    "VT34": {
+        "lat": 43.0601005554,
+        "long": -72.4919967651,
+        "name": "Major W. Guth STOLport",
+        "state": "Vermont"
+    },
+    "VT38": {
+        "lat": 45.0092010498,
+        "long": -73.2466964722,
+        "name": "Greenwoods Airfield",
+        "state": "Vermont"
+    },
+    "VT39": {
+        "lat": 44.6076011658,
+        "long": -72.4804000854,
+        "name": "Taylor ",
+        "state": "Vermont"
+    },
+    "VT41": {
+        "lat": 42.9241981506,
+        "long": -72.529800415,
+        "name": "Moore's Field",
+        "state": "Vermont"
+    },
+    "VT42": {
+        "lat": 44.5125999451,
+        "long": -72.6071014404,
+        "name": "Two Tails ",
+        "state": "Vermont"
+    },
+    "VT43": {
+        "lat": 43.0191993713,
+        "long": -72.6529006958,
+        "name": "Onyon ",
+        "state": "Vermont"
+    },
+    "VT44": {
+        "lat": 44.5266990662,
+        "long": -72.5814971924,
+        "name": "Perras Field",
+        "state": "Vermont"
+    },
+    "VT45": {
+        "lat": 44.5172996521,
+        "long": -72.9793014526,
+        "name": "Davis Private ",
+        "state": "Vermont"
+    },
+    "VT46": {
+        "lat": 44.8720016479,
+        "long": -73.2864990234,
+        "name": "Northern Lights ",
+        "state": "Vermont"
+    },
+    "VT47": {
+        "lat": 42.7785987854,
+        "long": -72.5278015137,
+        "name": "Miller's Pleasure Airfield",
+        "state": "Vermont"
+    },
+    "VT48": {
+        "lat": 44.4613990784,
+        "long": -73.1959991455,
+        "name": "Fairholt ",
+        "state": "Vermont"
+    },
+    "VT52": {
+        "lat": 44.6433982849,
+        "long": -73.1875991821,
+        "name": "Shaw Meadow ",
+        "state": "Vermont"
+    },
+    "VT53": {
+        "lat": 44.1175994873,
+        "long": -73.3787002563,
+        "name": "Staton ",
+        "state": "Vermont"
+    },
+    "VT55": {
+        "lat": 43.9011993408,
+        "long": -72.582901001,
+        "name": "Brandon ",
+        "state": "Vermont"
+    },
+    "VT56": {
+        "lat": 44.6130981445,
+        "long": -71.9809036255,
+        "name": "West Burke Aerodrome",
+        "state": "Vermont"
+    },
+    "VT59": {
+        "lat": 43.2778015137,
+        "long": -72.9107971191,
+        "name": "Ardell Flying Field",
+        "state": "Vermont"
+    },
+    "VT60": {
+        "lat": 43.3301010132,
+        "long": -73.2425994873,
+        "name": "Hulett Landing Strip",
+        "state": "Vermont"
+    },
+    "VT62": {
+        "lat": 44.3903999329,
+        "long": -72.3506011963,
+        "name": "Catamount Airfield",
+        "state": "Vermont"
+    },
+    "VT63": {
+        "lat": 44.995300293,
+        "long": -72.3789978027,
+        "name": "Douglas Field",
+        "state": "Vermont"
+    },
+    "VT64": {
+        "lat": 44.5153007507,
+        "long": -72.6411972046,
+        "name": "Mountain View Farm ",
+        "state": "Vermont"
+    },
+    "VT73": {
+        "lat": 43.944861,
+        "long": -73.316833,
+        "name": "Melrose Springs Airfield",
+        "state": "Vermont"
+    }
+}

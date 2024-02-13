@@ -1,0 +1,37 @@
+{
+  "MBGT": {
+    "lat": 21.4444999695,
+    "long": -71.1423034668,
+    "name": "JAGS McCartney International "
+  },
+  "MBMC": {
+    "lat": 21.82602,
+    "long": -71.8025,
+    "name": "Middle Caicos "
+  },
+  "MBNC": {
+    "lat": 21.9174995422,
+    "long": -71.9395980835,
+    "name": "North Caicos "
+  },
+  "MBPI": {
+    "lat": 21.8999996185,
+    "long": -72.0999984741,
+    "name": "Pine Cay "
+  },
+  "MBPV": {
+    "lat": 21.7735996246,
+    "long": -72.2658996582,
+    "name": "Providenciales "
+  },
+  "MBSC": {
+    "lat": 21.5156993866,
+    "long": -71.528503418,
+    "name": "South Caicos "
+  },
+  "MBSY": {
+    "lat": 21.3330001831,
+    "long": -71.1999969482,
+    "name": "Salt Cay "
+  }
+}

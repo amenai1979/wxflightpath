@@ -1,0 +1,112 @@
+{
+  "LR79": {
+    "lat": 45.1586990356,
+    "long": 27.4309005737,
+    "name": "Ianca Air Base"
+  },
+  "LR80": {
+    "lat": 44.3922996521,
+    "long": 27.7266998291,
+    "name": "Fetesti Air Base"
+  },
+  "LR82": {
+    "lat": 45.2164001465,
+    "long": 26.9785995483,
+    "name": "Boboc Air Base"
+  },
+  "LRAR": {
+    "lat": 46.1766014099,
+    "long": 21.2619991302,
+    "name": "Arad International "
+  },
+  "LRBC": {
+    "lat": 46.521900177,
+    "long": 26.9102993011,
+    "name": "Bacau "
+  },
+  "LRBM": {
+    "lat": 47.6584014893,
+    "long": 23.4699993134,
+    "name": "Tautii Magheraus "
+  },
+  "LRBS": {
+    "lat": 44.503200531,
+    "long": 26.1021003723,
+    "name": "Baneasa International "
+  },
+  "LRCK": {
+    "lat": 44.3622016907,
+    "long": 28.4883003235,
+    "name": "Mihail Kogalniceanu International "
+  },
+  "LRCL": {
+    "lat": 46.7851982117,
+    "long": 23.6861991882,
+    "name": "Cluj-Napoca International "
+  },
+  "LRCS": {
+    "lat": 45.4199981689,
+    "long": 22.2532997131,
+    "name": "Caransebes "
+  },
+  "LRCT": {
+    "lat": 46.5023002625,
+    "long": 23.8859004974,
+    "name": "Campia Turzii Air Base"
+  },
+  "LRCV": {
+    "lat": 44.3180999756,
+    "long": 23.8885993958,
+    "name": "Craiova "
+  },
+  "LRIA": {
+    "lat": 47.1785011292,
+    "long": 27.6205997467,
+    "name": "Iasi "
+  },
+  "LROD": {
+    "lat": 47.0252990723,
+    "long": 21.9025001526,
+    "name": "Oradea International "
+  },
+  "LROP": {
+    "lat": 44.5722007751,
+    "long": 26.1021995544,
+    "name": "Henri Coanda International "
+  },
+  "LRSB": {
+    "lat": 45.7855987549,
+    "long": 24.091299057,
+    "name": "Sibiu International "
+  },
+  "LRSM": {
+    "lat": 47.7033004761,
+    "long": 22.8857002258,
+    "name": "Satu Mare "
+  },
+  "LRSV": {
+    "lat": 47.6875,
+    "long": 26.3540992737,
+    "name": "Suceava Stefan cel Mare "
+  },
+  "LRTC": {
+    "lat": 45.0625,
+    "long": 28.7143001556,
+    "name": "Tulcea "
+  },
+  "LRTM": {
+    "lat": 46.4677009583,
+    "long": 24.4125003815,
+    "name": "Transilvania Targu Mures International "
+  },
+  "LRTR": {
+    "lat": 45.8098983765,
+    "long": 21.3379001617,
+    "name": "Timisoara Traian Vuia "
+  },
+  "LRTZ": {
+    "lat": 43.9841995239,
+    "long": 28.6096992493,
+    "name": "Tuzla Romania "
+  }
+}

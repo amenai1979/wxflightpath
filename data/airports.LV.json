@@ -1,0 +1,82 @@
+{
+  "EVAD": {
+    "lat": 57.0985984802,
+    "long": 24.2658004761,
+    "name": "Adazi Airfield"
+  },
+  "EVCA": {
+    "lat": 57.3244438171,
+    "long": 25.3236103058,
+    "name": "Cesis "
+  },
+  "EVDA": {
+    "lat": 55.9447212219,
+    "long": 26.6650009155,
+    "name": "Daugavpils Intrenational "
+  },
+  "EVEA": {
+    "lat": 56.6727981567,
+    "long": 23.6791992188,
+    "name": "Yelgava "
+  },
+  "EVFA": {
+    "lat": 56.4056015015,
+    "long": 21.8868999481,
+    "name": "Vainode "
+  },
+  "EVGA": {
+    "lat": 56.778301239,
+    "long": 24.8539009094,
+    "name": "Lielvarde "
+  },
+  "EVJA": {
+    "lat": 56.941667,
+    "long": 23.223333,
+    "name": "Jurmala "
+  },
+  "EVKA": {
+    "lat": 56.5346984863,
+    "long": 25.8924999237,
+    "name": "Jekabpils "
+  },
+  "EVLA": {
+    "lat": 56.5175018311,
+    "long": 21.0969009399,
+    "name": "Liepaja International "
+  },
+  "EVPA": {
+    "lat": 56.8149986267,
+    "long": 24.5277996063,
+    "name": "Ikshkile "
+  },
+  "EVRA": {
+    "lat": 56.9235992432,
+    "long": 23.9710998535,
+    "name": "Riga International "
+  },
+  "EVRC": {
+    "lat": 56.8833007812,
+    "long": 24.2266998291,
+    "name": "Rumbula Air Base"
+  },
+  "EVRS": {
+    "lat": 56.9911003113,
+    "long": 24.0750007629,
+    "name": "Spilve Aerodrome"
+  },
+  "EVTA": {
+    "lat": 56.942199707,
+    "long": 23.2238998413,
+    "name": "Tukums Air Base"
+  },
+  "EVTE": {
+    "lat": 57.2543984491,
+    "long": 22.5662183762,
+    "name": "Talsi Airfield"
+  },
+  "EVVA": {
+    "lat": 57.35779953,
+    "long": 21.5442008972,
+    "name": "Ventspils International "
+  }
+}

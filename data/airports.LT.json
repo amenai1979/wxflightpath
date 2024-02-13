@@ -1,0 +1,182 @@
+{
+  "EYAL": {
+    "lat": 54.412525177,
+    "long": 24.059928894,
+    "name": "Alytus "
+  },
+  "EYBI": {
+    "lat": 56.1758003235,
+    "long": 24.7602996826,
+    "name": "Birzai "
+  },
+  "EYDR": {
+    "lat": 54.0153007507,
+    "long": 23.9430999756,
+    "name": "Druskininkai "
+  },
+  "EYJB": {
+    "lat": 55.1180496216,
+    "long": 22.7648735046,
+    "name": "Jubarkas "
+  },
+  "EYKA": {
+    "lat": 54.9639015198,
+    "long": 24.0848007202,
+    "name": "Kaunas International "
+  },
+  "EYKD": {
+    "lat": 55.3116989136,
+    "long": 23.9563999176,
+    "name": "Kedainiai Air Base"
+  },
+  "EYKG": {
+    "lat": 54.8800010681,
+    "long": 23.9071998596,
+    "name": "Kaunas Gamykla "
+  },
+  "EYKL": {
+    "lat": 55.7118988037,
+    "long": 21.2427997589,
+    "name": "Klaipeda "
+  },
+  "EYKR": {
+    "lat": 54.8055992126,
+    "long": 23.5331001282,
+    "name": "Kazlu Ruda Air Base"
+  },
+  "EYKS": {
+    "lat": 54.8797988892,
+    "long": 23.8815002441,
+    "name": "S. Darius and S. Girenas "
+  },
+  "EYKT": {
+    "lat": 55.92029953,
+    "long": 21.567199707,
+    "name": "Kartena "
+  },
+  "EYLN": {
+    "lat": 55.0214004517,
+    "long": 22.9738998413,
+    "name": "Valenciunai "
+  },
+  "EYMA": {
+    "lat": 56.2305984497,
+    "long": 22.2593994141,
+    "name": "Tirksliai "
+  },
+  "EYMM": {
+    "lat": 54.6631011963,
+    "long": 23.4538993835,
+    "name": "Sasnava "
+  },
+  "EYMO": {
+    "lat": 55.1128005981,
+    "long": 25.3363990784,
+    "name": "Moletai "
+  },
+  "EYNA": {
+    "lat": 56.2421989441,
+    "long": 22.7331008911,
+    "name": "Akmene "
+  },
+  "EYND": {
+    "lat": 55.3277778625,
+    "long": 21.0458335876,
+    "name": "Nida "
+  },
+  "EYPA": {
+    "lat": 55.9732017517,
+    "long": 21.0939006805,
+    "name": "Palanga International "
+  },
+  "EYPI": {
+    "lat": 55.8274993896,
+    "long": 24.3582992554,
+    "name": "Panevezys Istra "
+  },
+  "EYPN": {
+    "lat": 55.7057418823,
+    "long": 24.3392658234,
+    "name": "Panevezys "
+  },
+  "EYPP": {
+    "lat": 55.7294006348,
+    "long": 24.4608001709,
+    "name": "Panevezys Air Base"
+  },
+  "EYPR": {
+    "lat": 54.6493988037,
+    "long": 24.0618991852,
+    "name": "Pociunai "
+  },
+  "EYRD": {
+    "lat": 54.4956016541,
+    "long": 24.7175006866,
+    "name": "Rudiskes "
+  },
+  "EYRK": {
+    "lat": 55.9719238281,
+    "long": 25.6042385101,
+    "name": "Rokiskis "
+  },
+  "EYRO": {
+    "lat": 55.6108016968,
+    "long": 24.2208003998,
+    "name": "Rojunai "
+  },
+  "EYRU": {
+    "lat": 55.0099983215,
+    "long": 24.3633003235,
+    "name": "Jonava "
+  },
+  "EYSA": {
+    "lat": 55.893901825,
+    "long": 23.3950004578,
+    "name": "Siauliai International "
+  },
+  "EYSB": {
+    "lat": 56.0705986023,
+    "long": 23.5580997467,
+    "name": "Barysiai "
+  },
+  "EYSE": {
+    "lat": 55.7463989258,
+    "long": 23.8047008514,
+    "name": "Seduva "
+  },
+  "EYSI": {
+    "lat": 55.3368988037,
+    "long": 21.5305995941,
+    "name": "Silute Air Base"
+  },
+  "EYTL": {
+    "lat": 55.9864006042,
+    "long": 22.2877998352,
+    "name": "Telsiai "
+  },
+  "EYUT": {
+    "lat": 55.4900016785,
+    "long": 25.7168998718,
+    "name": "Utena "
+  },
+  "EYVI": {
+    "lat": 54.6341018677,
+    "long": 25.2858009338,
+    "name": "Vilnius International "
+  },
+  "EYVK": {
+    "lat": 54.6683006287,
+    "long": 25.5158004761,
+    "name": "Kyviskes Airfield"
+  },
+  "EYVP": {
+    "lat": 54.4848480225,
+    "long": 24.9873733521,
+    "name": "Paluknys "
+  },
+  "EYZA": {
+    "lat": 55.7524986267,
+    "long": 26.2569007874,
+    "name": "Zarasai "
+  }
+}

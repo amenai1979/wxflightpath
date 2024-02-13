@@ -1,0 +1,317 @@
+{
+  "LG53": {
+    "lat": 38.8745994568,
+    "long": 22.4349994659,
+    "name": "Lamia "
+  },
+  "LG54": {
+    "lat": 35.0637016296,
+    "long": 24.7674007416,
+    "name": "Tympaki "
+  },
+  "LG55": {
+    "lat": 37.0941009521,
+    "long": 21.9904003143,
+    "name": "Triodhon "
+  },
+  "LG56": {
+    "lat": 38.2360992432,
+    "long": 25.9391994476,
+    "name": "Olimboi "
+  },
+  "LGAD": {
+    "lat": 37.9207000732,
+    "long": 21.2926006317,
+    "name": "Andravida "
+  },
+  "LGAG": {
+    "lat": 38.6020011902,
+    "long": 21.3512001038,
+    "name": "Agrinion "
+  },
+  "LGAL": {
+    "lat": 40.8558998108,
+    "long": 25.9563007355,
+    "name": "Dimokritos "
+  },
+  "LGAT": {
+    "lat": 37.8932991028,
+    "long": 23.7261009216,
+    "name": "Athen Helenikon "
+  },
+  "LGAV": {
+    "lat": 37.9364013672,
+    "long": 23.9444999695,
+    "name": "Eleftherios Venizelos International "
+  },
+  "LGAX": {
+    "lat": 40.6511001587,
+    "long": 22.4887008667,
+    "name": "Alexandria "
+  },
+  "LGBL": {
+    "lat": 39.2196006775,
+    "long": 22.7943000793,
+    "name": "Nea Anchialos "
+  },
+  "LGEL": {
+    "lat": 38.0638008118,
+    "long": 23.5559997559,
+    "name": "Elefsis "
+  },
+  "LGEP": {
+    "lat": 37.613899231,
+    "long": 21.4981002808,
+    "name": "Epitalion "
+  },
+  "LGHI": {
+    "lat": 38.3432006836,
+    "long": 26.1406002045,
+    "name": "Chios Island National "
+  },
+  "LGHL": {
+    "lat": 37.2975006104,
+    "long": 23.1478004456,
+    "name": "Porto Cheli "
+  },
+  "LGIK": {
+    "lat": 37.6827011108,
+    "long": 26.3470993042,
+    "name": "Ikaria "
+  },
+  "LGIO": {
+    "lat": 39.6963996887,
+    "long": 20.8225002289,
+    "name": "Ioannina "
+  },
+  "LGIR": {
+    "lat": 35.3396987915,
+    "long": 25.1802997589,
+    "name": "Heraklion International Nikos Kazantzakis "
+  },
+  "LGKA": {
+    "lat": 40.4463005066,
+    "long": 21.2821998596,
+    "name": "Kastoria National "
+  },
+  "LGKC": {
+    "lat": 36.2742996216,
+    "long": 23.0170001984,
+    "name": "Kithira "
+  },
+  "LGKF": {
+    "lat": 38.120098114,
+    "long": 20.5004997253,
+    "name": "Kefallinia "
+  },
+  "LGKJ": {
+    "lat": 36.1417007446,
+    "long": 29.5764007568,
+    "name": "Kastelorizo "
+  },
+  "LGKL": {
+    "lat": 37.0682983398,
+    "long": 22.0254993439,
+    "name": "Kalamata "
+  },
+  "LGKM": {
+    "lat": 40.9728012085,
+    "long": 24.3414001465,
+    "name": "Amigdhaleon "
+  },
+  "LGKN": {
+    "lat": 38.1377983093,
+    "long": 23.9510993958,
+    "name": "Marathon Kotroni "
+  },
+  "LGKO": {
+    "lat": 36.7933006287,
+    "long": 27.0916996002,
+    "name": "Kos "
+  },
+  "LGKP": {
+    "lat": 35.4213981628,
+    "long": 27.1459999084,
+    "name": "Karpathos "
+  },
+  "LGKR": {
+    "lat": 39.6018981934,
+    "long": 19.911699295,
+    "name": "Ioannis Kapodistrias International "
+  },
+  "LGKS": {
+    "lat": 35.4213981628,
+    "long": 26.9099998474,
+    "name": "Kasos "
+  },
+  "LGKV": {
+    "lat": 40.9132995605,
+    "long": 24.6191997528,
+    "name": "Alexander the Great International "
+  },
+  "LGKY": {
+    "lat": 36.9632987976,
+    "long": 26.9405994415,
+    "name": "Kalymnos "
+  },
+  "LGKZ": {
+    "lat": 40.2860984802,
+    "long": 21.8407993317,
+    "name": "Filippos "
+  },
+  "LGLE": {
+    "lat": 37.1848983765,
+    "long": 26.8003005981,
+    "name": "Leros "
+  },
+  "LGLM": {
+    "lat": 39.917098999,
+    "long": 25.2362995148,
+    "name": "Limnos "
+  },
+  "LGLR": {
+    "lat": 39.6562825886,
+    "long": 22.3400008678,
+    "name": "Larisa "
+  },
+  "LGMG": {
+    "lat": 37.981098175,
+    "long": 23.3654003143,
+    "name": "Megara "
+  },
+  "LGMK": {
+    "lat": 37.4351005554,
+    "long": 25.3481006622,
+    "name": "Mikonos "
+  },
+  "LGML": {
+    "lat": 36.6968994141,
+    "long": 24.4769001007,
+    "name": "Milos "
+  },
+  "LGMR": {
+    "lat": 38.143901825,
+    "long": 24.0128002167,
+    "name": "Marathon Wasser "
+  },
+  "LGMT": {
+    "lat": 39.0567016602,
+    "long": 26.5983009338,
+    "name": "Mytilene International "
+  },
+  "LGNX": {
+    "lat": 37.0811004639,
+    "long": 25.3680992126,
+    "name": "Naxos "
+  },
+  "LGPA": {
+    "lat": 37.0102996826,
+    "long": 25.1280994415,
+    "name": "Paros "
+  },
+  "LGPL": {
+    "lat": 36.5798988342,
+    "long": 26.3757991791,
+    "name": "Astypalaia "
+  },
+  "LGPZ": {
+    "lat": 38.9254989624,
+    "long": 20.7653007507,
+    "name": "Aktion National "
+  },
+  "LGRD": {
+    "lat": 36.3830986023,
+    "long": 28.1089000702,
+    "name": "Maritsa "
+  },
+  "LGRP": {
+    "lat": 36.4053993225,
+    "long": 28.0862007141,
+    "name": "Diagoras "
+  },
+  "LGRX": {
+    "lat": 38.1511001587,
+    "long": 21.4256000519,
+    "name": "Araxos "
+  },
+  "LGSA": {
+    "lat": 35.5317001343,
+    "long": 24.1497001648,
+    "name": "Chania International "
+  },
+  "LGSD": {
+    "lat": 40.5331001282,
+    "long": 23.0252990723,
+    "name": "Sedes "
+  },
+  "LGSK": {
+    "lat": 39.1771011353,
+    "long": 23.5037002563,
+    "name": "Skiathos Island National "
+  },
+  "LGSM": {
+    "lat": 37.6899986267,
+    "long": 26.911699295,
+    "name": "Samos "
+  },
+  "LGSO": {
+    "lat": 37.4227981567,
+    "long": 24.9508991241,
+    "name": "Syros "
+  },
+  "LGSP": {
+    "lat": 36.9738998413,
+    "long": 22.5263004303,
+    "name": "Sparti "
+  },
+  "LGSR": {
+    "lat": 36.3992004395,
+    "long": 25.4792995453,
+    "name": "Santorini "
+  },
+  "LGST": {
+    "lat": 35.2160987854,
+    "long": 26.1012992859,
+    "name": "Sitia "
+  },
+  "LGSV": {
+    "lat": 39.4799995422,
+    "long": 22.76720047,
+    "name": "Stefanovikion "
+  },
+  "LGSY": {
+    "lat": 38.9676017761,
+    "long": 24.4871997833,
+    "name": "Skiros "
+  },
+  "LGTG": {
+    "lat": 38.3398017883,
+    "long": 23.5650005341,
+    "name": "Tanagra "
+  },
+  "LGTL": {
+    "lat": 35.1920013428,
+    "long": 25.3269996643,
+    "name": "Kasteli "
+  },
+  "LGTP": {
+    "lat": 37.5306015015,
+    "long": 22.4036006927,
+    "name": "Tripolis "
+  },
+  "LGTS": {
+    "lat": 40.5196990967,
+    "long": 22.9708995819,
+    "name": "Thessaloniki Macedonia International "
+  },
+  "LGTT": {
+    "lat": 38.1088981628,
+    "long": 23.7838001251,
+    "name": "Tatoi "
+  },
+  "LGZA": {
+    "lat": 37.7509002686,
+    "long": 20.8843002319,
+    "name": "Dionysios Solomos "
+  }
+}

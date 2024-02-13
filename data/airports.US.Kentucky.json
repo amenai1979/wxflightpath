@@ -1,0 +1,956 @@
+{
+    "00KY": {
+        "lat": 37.4094009399,
+        "long": -84.6196975708,
+        "name": "Robbins Roost ",
+        "state": "Kentucky"
+    },
+    "03KY": {
+        "lat": 37.7916984558,
+        "long": -87.5413970947,
+        "name": "Flying H Farms ",
+        "state": "Kentucky"
+    },
+    "04KY": {
+        "lat": 37.1351013184,
+        "long": -85.7893981934,
+        "name": "Natchez Trace Farm ",
+        "state": "Kentucky"
+    },
+    "05KY": {
+        "lat": 37.53689957,
+        "long": -84.40720367,
+        "name": "Cartersville ",
+        "state": "Kentucky"
+    },
+    "07KY": {
+        "lat": 38.0806007385,
+        "long": -85.6932983398,
+        "name": "Blue Lick ",
+        "state": "Kentucky"
+    },
+    "08KY": {
+        "lat": 36.9725990295,
+        "long": -84.6260986328,
+        "name": "Boss ",
+        "state": "Kentucky"
+    },
+    "0KY0": {
+        "lat": 38.6227989197,
+        "long": -84.7789001465,
+        "name": "Owen Air Park",
+        "state": "Kentucky"
+    },
+    "0KY1": {
+        "lat": 36.7655982971,
+        "long": -86.6183013916,
+        "name": "Arnemann Farms ",
+        "state": "Kentucky"
+    },
+    "0KY4": {
+        "lat": 37.5643997192,
+        "long": -87.0819015503,
+        "name": "Cambron Field",
+        "state": "Kentucky"
+    },
+    "0KY5": {
+        "lat": 36.8125,
+        "long": -86.375,
+        "name": "Falin Landing Strip",
+        "state": "Kentucky"
+    },
+    "0KY7": {
+        "lat": 36.636100769,
+        "long": -88.9985961914,
+        "name": "Clinton-Hickman County ",
+        "state": "Kentucky"
+    },
+    "0KY8": {
+        "lat": 37.1171989441,
+        "long": -83.7360992432,
+        "name": "Sky ",
+        "state": "Kentucky"
+    },
+    "12KY": {
+        "lat": 38.4603004456,
+        "long": -85.1686019897,
+        "name": "John M. Foree ",
+        "state": "Kentucky"
+    },
+    "13KY": {
+        "lat": 37.7056007385,
+        "long": -87.1560974121,
+        "name": "Miles ",
+        "state": "Kentucky"
+    },
+    "14KY": {
+        "lat": 38.1736984253,
+        "long": -84.3683013916,
+        "name": "Blue Haven Farm ",
+        "state": "Kentucky"
+    },
+    "15KY": {
+        "lat": 38.1570014954,
+        "long": -84.3015975952,
+        "name": "Brennan Farm ",
+        "state": "Kentucky"
+    },
+    "16KY": {
+        "lat": 38.4440002441,
+        "long": -83.1227035522,
+        "name": "Praise God ",
+        "state": "Kentucky"
+    },
+    "17KY": {
+        "lat": 37.393901825,
+        "long": -87.2589035034,
+        "name": "Shannon Field",
+        "state": "Kentucky"
+    },
+    "19KY": {
+        "lat": 38.7065010071,
+        "long": -84.599899292,
+        "name": "Conrads ",
+        "state": "Kentucky"
+    },
+    "1KY7": {
+        "lat": 37.8325004578,
+        "long": -84.1808013916,
+        "name": "Jordan Hill Farm ",
+        "state": "Kentucky"
+    },
+    "20KY": {
+        "lat": 38.8168983459,
+        "long": -84.6710968018,
+        "name": "Madi's Meadows ",
+        "state": "Kentucky"
+    },
+    "21KY": {
+        "lat": 37.5376014709,
+        "long": -85.7375030518,
+        "name": "Lincoln Farm ",
+        "state": "Kentucky"
+    },
+    "23KY": {
+        "lat": 37.2308006287,
+        "long": -88.3186035156,
+        "name": "Barnes Farm ",
+        "state": "Kentucky"
+    },
+    "24KY": {
+        "lat": 37.2167015076,
+        "long": -87.4306030273,
+        "name": "Williams Farm ",
+        "state": "Kentucky"
+    },
+    "28KY": {
+        "lat": 36.5759010315,
+        "long": -88.3134002686,
+        "name": "Brandon Airdrome ",
+        "state": "Kentucky"
+    },
+    "29KY": {
+        "lat": 36.8931007385,
+        "long": -87.4272003174,
+        "name": "Cramer Aerodrome",
+        "state": "Kentucky"
+    },
+    "2KY1": {
+        "lat": 37.6192016602,
+        "long": -84.381401062,
+        "name": "Kitty Hawk Farm Ultralightport",
+        "state": "Kentucky"
+    },
+    "2KY3": {
+        "lat": 36.8347015381,
+        "long": -86.4582977295,
+        "name": "Plane-O-Field ",
+        "state": "Kentucky"
+    },
+    "2KY4": {
+        "lat": 37.6549987793,
+        "long": -85.8135986328,
+        "name": "Oz ",
+        "state": "Kentucky"
+    },
+    "2KY5": {
+        "lat": 38.375,
+        "long": -83.1547012329,
+        "name": "Womstead Field",
+        "state": "Kentucky"
+    },
+    "2KY8": {
+        "lat": 38.1055984497,
+        "long": -84.8499984741,
+        "name": "Seldom Scene ",
+        "state": "Kentucky"
+    },
+    "31KY": {
+        "lat": 38.1105995178,
+        "long": -84.3221969604,
+        "name": "Wild Blue ",
+        "state": "Kentucky"
+    },
+    "33KY": {
+        "lat": 37.6123008728,
+        "long": -87.0569000244,
+        "name": "Bigger (Stol) STOLport",
+        "state": "Kentucky"
+    },
+    "34KY": {
+        "lat": 36.9124984741,
+        "long": -86.7827987671,
+        "name": "Lone Pine Aerodrome",
+        "state": "Kentucky"
+    },
+    "35KY": {
+        "lat": 36.7112007141,
+        "long": -86.636100769,
+        "name": "Welcome Field",
+        "state": "Kentucky"
+    },
+    "36KY": {
+        "lat": 37.6556015015,
+        "long": -85.1538009644,
+        "name": "Arnolds ",
+        "state": "Kentucky"
+    },
+    "3KY0": {
+        "lat": 37.8967018127,
+        "long": -86.7893981934,
+        "name": "Lamar Field",
+        "state": "Kentucky"
+    },
+    "3KY1": {
+        "lat": 37.6413993835,
+        "long": -87.1316986084,
+        "name": "Goode Airpark",
+        "state": "Kentucky"
+    },
+    "3KY2": {
+        "lat": 37.1511001587,
+        "long": -84.2574996948,
+        "name": "Chesnut Knolls ",
+        "state": "Kentucky"
+    },
+    "3KY3": {
+        "lat": 38.0382995605,
+        "long": -85.3593978882,
+        "name": "Mason Valley ",
+        "state": "Kentucky"
+    },
+    "3KY4": {
+        "lat": 38.6727981567,
+        "long": -85.182800293,
+        "name": "Craw Daddy Landing ",
+        "state": "Kentucky"
+    },
+    "3KY6": {
+        "lat": 38.0306015015,
+        "long": -86.2316970825,
+        "name": "Russell ",
+        "state": "Kentucky"
+    },
+    "3KY7": {
+        "lat": 38.1032981873,
+        "long": -86.4569015503,
+        "name": "Eagle's Nest ",
+        "state": "Kentucky"
+    },
+    "3KY9": {
+        "lat": 38.125,
+        "long": -85.125,
+        "name": "Miles Field",
+        "state": "Kentucky"
+    },
+    "40KY": {
+        "lat": 38.2933998108,
+        "long": -85.2050018311,
+        "name": "Rooster Field",
+        "state": "Kentucky"
+    },
+    "42KY": {
+        "lat": 36.7764015198,
+        "long": -88.2222976685,
+        "name": "Pirates Cove ",
+        "state": "Kentucky"
+    },
+    "44KY": {
+        "lat": 37.3526000977,
+        "long": -83.3423995972,
+        "name": "Duff ",
+        "state": "Kentucky"
+    },
+    "4KY0": {
+        "lat": 36.7619018555,
+        "long": -88.376701355,
+        "name": "J & C Antique Airfield",
+        "state": "Kentucky"
+    },
+    "4KY1": {
+        "lat": 36.8950004578,
+        "long": -85.7727966309,
+        "name": "Creek Side Landing ",
+        "state": "Kentucky"
+    },
+    "4KY4": {
+        "lat": 37.5924987793,
+        "long": -87.2810974121,
+        "name": "Moseley Field",
+        "state": "Kentucky"
+    },
+    "4KY5": {
+        "lat": 38.0285987854,
+        "long": -83.8899993896,
+        "name": "Weavers Run ",
+        "state": "Kentucky"
+    },
+    "4KY7": {
+        "lat": 38.823299408,
+        "long": -84.6847000122,
+        "name": "Mueller Farm ",
+        "state": "Kentucky"
+    },
+    "4KY8": {
+        "lat": 37.9458007813,
+        "long": -85.6968994141,
+        "name": "Shady Acres ",
+        "state": "Kentucky"
+    },
+    "50KY": {
+        "lat": 38.1297988892,
+        "long": -84.3302001953,
+        "name": "Zanzibar Farm ",
+        "state": "Kentucky"
+    },
+    "52KY": {
+        "lat": 38.1180992126,
+        "long": -84.3023986816,
+        "name": "Air Castle ",
+        "state": "Kentucky"
+    },
+    "53KY": {
+        "lat": 37.2723007202,
+        "long": -84.5571975708,
+        "name": "Short ",
+        "state": "Kentucky"
+    },
+    "54KY": {
+        "lat": 36.731098175,
+        "long": -88.2472000122,
+        "name": "Turner Field",
+        "state": "Kentucky"
+    },
+    "57KY": {
+        "lat": 37.3694000244,
+        "long": -82.3242034912,
+        "name": "Belcher Regional ",
+        "state": "Kentucky"
+    },
+    "58KY": {
+        "lat": 38.1208992004,
+        "long": -85.3319015503,
+        "name": "Willow Island Airpark",
+        "state": "Kentucky"
+    },
+    "59KY": {
+        "lat": 37.8978004456,
+        "long": -85.5551986694,
+        "name": "Samuels Springs ",
+        "state": "Kentucky"
+    },
+    "5KY2": {
+        "lat": 36.8511009216,
+        "long": -88.926902771,
+        "name": "Larkins Farm ",
+        "state": "Kentucky"
+    },
+    "5KY3": {
+        "lat": 36.9674987793,
+        "long": -88.5652999878,
+        "name": "West Kentucky Airpark",
+        "state": "Kentucky"
+    },
+    "5KY5": {
+        "lat": 36.8624992371,
+        "long": -87.7902984619,
+        "name": "Lowe ",
+        "state": "Kentucky"
+    },
+    "5KY6": {
+        "lat": 38.420556,
+        "long": -85.257778,
+        "name": "Jake'S Field",
+        "state": "Kentucky"
+    },
+    "5KY7": {
+        "lat": 36.6377983093,
+        "long": -85.1638031006,
+        "name": "Dale Hollow Regional (Petro Field) ",
+        "state": "Kentucky"
+    },
+    "5KY8": {
+        "lat": 37.889722,
+        "long": -84.927778,
+        "name": "Harold Reynolds ",
+        "state": "Kentucky"
+    },
+    "5KY9": {
+        "lat": 37.3325004578,
+        "long": -86.2542037964,
+        "name": "Nolin Aero Salvage ",
+        "state": "Kentucky"
+    },
+    "61KY": {
+        "lat": 38.5500984192,
+        "long": -84.7632980347,
+        "name": "Schroder ",
+        "state": "Kentucky"
+    },
+    "64KY": {
+        "lat": 38.1530990601,
+        "long": -85.1187973022,
+        "name": "Hemp Ridge ",
+        "state": "Kentucky"
+    },
+    "66KY": {
+        "lat": 37.507598877,
+        "long": -86.2054977417,
+        "name": "Mc Grew ",
+        "state": "Kentucky"
+    },
+    "67KY": {
+        "lat": 38.9833984375,
+        "long": -84.6660995483,
+        "name": "Estes ",
+        "state": "Kentucky"
+    },
+    "68KY": {
+        "lat": 37.0233001709,
+        "long": -84.7296981812,
+        "name": "Lee's Airpark",
+        "state": "Kentucky"
+    },
+    "6KY3": {
+        "lat": 38.328611,
+        "long": -85.214167,
+        "name": "Flying C Farms ",
+        "state": "Kentucky"
+    },
+    "6KY4": {
+        "lat": 36.753333,
+        "long": -85.953889,
+        "name": "Adair ",
+        "state": "Kentucky"
+    },
+    "6KY6": {
+        "lat": 38.3605995178,
+        "long": -85.3630981445,
+        "name": "Jeffries Farm ",
+        "state": "Kentucky"
+    },
+    "6KY7": {
+        "lat": 36.523,
+        "long": -89.051693,
+        "name": "Alexander Field",
+        "state": "Kentucky"
+    },
+    "70KY": {
+        "lat": 37.8158988953,
+        "long": -85.9646987915,
+        "name": "Vine Grove ",
+        "state": "Kentucky"
+    },
+    "71KY": {
+        "lat": 39.0348014832,
+        "long": -84.8727035522,
+        "name": "Sunrise Acres ",
+        "state": "Kentucky"
+    },
+    "72KY": {
+        "lat": 36.7650985718,
+        "long": -84.1994018555,
+        "name": "Carr ",
+        "state": "Kentucky"
+    },
+    "73KY": {
+        "lat": 38.0332984924,
+        "long": -85.8007965088,
+        "name": "Brooks Field",
+        "state": "Kentucky"
+    },
+    "74KY": {
+        "lat": 36.8987007141,
+        "long": -88.8467025757,
+        "name": "Terry Field",
+        "state": "Kentucky"
+    },
+    "75KY": {
+        "lat": 37.9441986084,
+        "long": -83.9978027344,
+        "name": "Hisle Field",
+        "state": "Kentucky"
+    },
+    "76KY": {
+        "lat": 38.0148010254,
+        "long": -84.8415985107,
+        "name": "Buzzard's Roost ",
+        "state": "Kentucky"
+    },
+    "77KY": {
+        "lat": 38.1111984253,
+        "long": -83.8734970093,
+        "name": "One Oak ",
+        "state": "Kentucky"
+    },
+    "79KY": {
+        "lat": 37.8712997437,
+        "long": -84.610496521,
+        "name": "Lucas Field",
+        "state": "Kentucky"
+    },
+    "7KY2": {
+        "lat": 38.8036003113,
+        "long": -84.6611022949,
+        "name": "Ryan Field",
+        "state": "Kentucky"
+    },
+    "7KY3": {
+        "lat": 38.0760993958,
+        "long": -85.2367019653,
+        "name": "Little Mount International ",
+        "state": "Kentucky"
+    },
+    "80KY": {
+        "lat": 37.3961982727,
+        "long": -87.235496521,
+        "name": "David Lowe ",
+        "state": "Kentucky"
+    },
+    "81KY": {
+        "lat": 38.5783004761,
+        "long": -85.0175018311,
+        "name": "Hi Rise Farm ",
+        "state": "Kentucky"
+    },
+    "82KY": {
+        "lat": 38.2834014893,
+        "long": -85.4819030762,
+        "name": "Woodledge Farm ",
+        "state": "Kentucky"
+    },
+    "84KY": {
+        "lat": 37.8152999878,
+        "long": -85.5400009155,
+        "name": "Greene County Parachute Center ",
+        "state": "Kentucky"
+    },
+    "85KY": {
+        "lat": 38.4702987671,
+        "long": -85.1386032104,
+        "name": "Deer Run Airpark",
+        "state": "Kentucky"
+    },
+    "86KY": {
+        "lat": 37.6213989258,
+        "long": -85.7921981812,
+        "name": "Hornback ",
+        "state": "Kentucky"
+    },
+    "8KY0": {
+        "lat": 38.3967018127,
+        "long": -84.4636001587,
+        "name": "Alberta Ultralightport",
+        "state": "Kentucky"
+    },
+    "8KY3": {
+        "lat": 37.661111,
+        "long": -84.9925,
+        "name": "Battle Field",
+        "state": "Kentucky"
+    },
+    "8KY6": {
+        "lat": 38.935528,
+        "long": -84.568278,
+        "name": "Caintuckee ",
+        "state": "Kentucky"
+    },
+    "90KY": {
+        "lat": 37.5825996399,
+        "long": -85.7332992554,
+        "name": "Williams ",
+        "state": "Kentucky"
+    },
+    "92KY": {
+        "lat": 38.284198761,
+        "long": -85.4726028442,
+        "name": "Timmons Field",
+        "state": "Kentucky"
+    },
+    "93KY": {
+        "lat": 37.4707984924,
+        "long": -87.2533035278,
+        "name": "Baggett Farms ",
+        "state": "Kentucky"
+    },
+    "94KY": {
+        "lat": 37.5005989075,
+        "long": -87.3293991089,
+        "name": "Woosley ",
+        "state": "Kentucky"
+    },
+    "95KY": {
+        "lat": 37.42029953,
+        "long": -84.3692016602,
+        "name": "Crawford Ultralightport",
+        "state": "Kentucky"
+    },
+    "96KY": {
+        "lat": 37.5522003174,
+        "long": -87.2714004517,
+        "name": "A & L ",
+        "state": "Kentucky"
+    },
+    "99KY": {
+        "lat": 37.6556015015,
+        "long": -84.6902999878,
+        "name": "Gravity Zero ",
+        "state": "Kentucky"
+    },
+    "9KY9": {
+        "lat": 37.7458992004,
+        "long": -82.7790985107,
+        "name": "Paintsville-Prestonsburg-Combs Field",
+        "state": "Kentucky"
+    },
+    "K0I8": {
+        "lat": 38.3661994934,
+        "long": -84.2833023071,
+        "name": "Cynthiana-Harrison County ",
+        "state": "Kentucky"
+    },
+    "K18I": {
+        "lat": 36.6958999634,
+        "long": -84.3916015625,
+        "name": "Mc Creary County ",
+        "state": "Kentucky"
+    },
+    "K1A6": {
+        "lat": 36.6105995178,
+        "long": -83.7373962402,
+        "name": "Middlesboro-Bell County ",
+        "state": "Kentucky"
+    },
+    "K1M9": {
+        "lat": 36.8177986145,
+        "long": -87.9075012207,
+        "name": "Lake Barkley State Park ",
+        "state": "Kentucky"
+    },
+    "K27K": {
+        "lat": 38.2344017029,
+        "long": -84.4347000122,
+        "name": "Georgetown Scott County - Marshall Field",
+        "state": "Kentucky"
+    },
+    "K2I0": {
+        "lat": 37.3549995422,
+        "long": -87.399597168,
+        "name": "Madisonville Municipal ",
+        "state": "Kentucky"
+    },
+    "K2I3": {
+        "lat": 37.6097984314,
+        "long": -86.5068969727,
+        "name": "Rough River State Park ",
+        "state": "Kentucky"
+    },
+    "K2M0": {
+        "lat": 37.1151008606,
+        "long": -87.8571014404,
+        "name": "Princeton Caldwell County ",
+        "state": "Kentucky"
+    },
+    "K4M7": {
+        "lat": 36.7999000549,
+        "long": -86.8102035522,
+        "name": "Russellville Logan County ",
+        "state": "Kentucky"
+    },
+    "K5M9": {
+        "lat": 37.33430099,
+        "long": -88.11509705,
+        "name": "Marion Crittenden County ",
+        "state": "Kentucky"
+    },
+    "K6I2": {
+        "lat": 37.6334991455,
+        "long": -85.2417984009,
+        "name": "Lebanon Springfield ",
+        "state": "Kentucky"
+    },
+    "K7K4": {
+        "lat": 37.4583015442,
+        "long": -86.8499984741,
+        "name": "Ohio County ",
+        "state": "Kentucky"
+    },
+    "K8M9": {
+        "lat": 37.4248008728,
+        "long": -87.7360992432,
+        "name": "Providence Webster County ",
+        "state": "Kentucky"
+    },
+    "KAAS": {
+        "lat": 37.3582992554,
+        "long": -85.3094024658,
+        "name": "Taylor County ",
+        "state": "Kentucky"
+    },
+    "KBRY": {
+        "lat": 37.8143005371,
+        "long": -85.4996032715,
+        "name": "Samuels Field",
+        "state": "Kentucky"
+    },
+    "KBWG": {
+        "lat": 36.9645004272,
+        "long": -86.4197006226,
+        "name": "Bowling Green Warren County Regional ",
+        "state": "Kentucky"
+    },
+    "KCEY": {
+        "lat": 36.66460037,
+        "long": -88.37280273,
+        "name": "Kyle Oakley Field",
+        "state": "Kentucky"
+    },
+    "KCVG": {
+        "lat": 39.0488014221,
+        "long": -84.6678009033,
+        "name": "Cincinnati Northern Kentucky International ",
+        "state": "Kentucky"
+    },
+    "KDVK": {
+        "lat": 37.5778999329,
+        "long": -84.7696990967,
+        "name": "Stuart Powell Field",
+        "state": "Kentucky"
+    },
+    "KDWU": {
+        "lat": 38.5545005798,
+        "long": -82.7379989624,
+        "name": "Ashland Regional ",
+        "state": "Kentucky"
+    },
+    "KEHR": {
+        "lat": 37.80780029,
+        "long": -87.68569946,
+        "name": "Henderson City County ",
+        "state": "Kentucky"
+    },
+    "KEKQ": {
+        "lat": 36.8553009033,
+        "long": -84.8561019897,
+        "name": "Wayne County ",
+        "state": "Kentucky"
+    },
+    "KEKX": {
+        "lat": 37.686000824,
+        "long": -85.9250030518,
+        "name": "Addington Field",
+        "state": "Kentucky"
+    },
+    "KFFT": {
+        "lat": 38.18249893,
+        "long": -84.90470123,
+        "name": "Capital City ",
+        "state": "Kentucky"
+    },
+    "KFGX": {
+        "lat": 38.5418014526,
+        "long": -83.7434005737,
+        "name": "Fleming Mason ",
+        "state": "Kentucky"
+    },
+    "KFTK": {
+        "lat": 37.9071006775,
+        "long": -85.9720993042,
+        "name": "Godman Army Air Field",
+        "state": "Kentucky"
+    },
+    "KGLW": {
+        "lat": 37.03179932,
+        "long": -85.9536972,
+        "name": "Glasgow Municipal ",
+        "state": "Kentucky"
+    },
+    "KHOP": {
+        "lat": 36.668598175,
+        "long": -87.4962005615,
+        "name": "Campbell AAF (Fort Campbell) Air Field",
+        "state": "Kentucky"
+    },
+    "KHVC": {
+        "lat": 36.8569984436,
+        "long": -87.4551010132,
+        "name": "Hopkinsville Christian County ",
+        "state": "Kentucky"
+    },
+    "KI35": {
+        "lat": 36.8592987061,
+        "long": -83.3584976196,
+        "name": "Tucker Guthrie Memorial ",
+        "state": "Kentucky"
+    },
+    "KI39": {
+        "lat": 37.63079834,
+        "long": -84.33229828,
+        "name": "Madison ",
+        "state": "Kentucky"
+    },
+    "KI50": {
+        "lat": 37.8501014709,
+        "long": -83.8458023071,
+        "name": "Stanton ",
+        "state": "Kentucky"
+    },
+    "KI53": {
+        "lat": 37.3095016479,
+        "long": -85.0587997437,
+        "name": "Liberty Casey County ",
+        "state": "Kentucky"
+    },
+    "KI93": {
+        "lat": 37.7850990295,
+        "long": -86.4419021606,
+        "name": "Breckinridge County ",
+        "state": "Kentucky"
+    },
+    "KIOB": {
+        "lat": 38.05810165,
+        "long": -83.979599,
+        "name": "Mount Sterling Montgomery County ",
+        "state": "Kentucky"
+    },
+    "KJKL": {
+        "lat": 37.5938987732,
+        "long": -83.3172988892,
+        "name": "Julian Carroll ",
+        "state": "Kentucky"
+    },
+    "KK20": {
+        "lat": 37.3877983093,
+        "long": -83.2621002197,
+        "name": "Wendell H Ford ",
+        "state": "Kentucky"
+    },
+    "KK22": {
+        "lat": 37.7509994507,
+        "long": -82.6367034912,
+        "name": "Big Sandy Regional ",
+        "state": "Kentucky"
+    },
+    "KK24": {
+        "lat": 37.0097007751,
+        "long": -85.1026992798,
+        "name": "Russell County ",
+        "state": "Kentucky"
+    },
+    "KK62": {
+        "lat": 38.70420074,
+        "long": -84.39160156,
+        "name": "Gene Snyder ",
+        "state": "Kentucky"
+    },
+    "KLEX": {
+        "lat": 38.0364990234,
+        "long": -84.6059036255,
+        "name": "Blue Grass ",
+        "state": "Kentucky"
+    },
+    "KLOU": {
+        "lat": 38.2280006409,
+        "long": -85.6636962891,
+        "name": "Bowman Field",
+        "state": "Kentucky"
+    },
+    "KLOZ": {
+        "lat": 37.0821990967,
+        "long": -84.0848999023,
+        "name": "London Corbin  Magee Field",
+        "state": "Kentucky"
+    },
+    "KM20": {
+        "lat": 37.3995018005,
+        "long": -86.2602005005,
+        "name": "Grayson County ",
+        "state": "Kentucky"
+    },
+    "KM21": {
+        "lat": 37.2262001038,
+        "long": -87.1564025879,
+        "name": "Muhlenberg County ",
+        "state": "Kentucky"
+    },
+    "KM25": {
+        "lat": 36.7696389,
+        "long": -88.5846667,
+        "name": "Mayfield Graves County ",
+        "state": "Kentucky"
+    },
+    "KM34": {
+        "lat": 37.0094985962,
+        "long": -88.2958984375,
+        "name": "Kentucky Dam State Park ",
+        "state": "Kentucky"
+    },
+    "KOWB": {
+        "lat": 37.74010086,
+        "long": -87.16680145,
+        "name": "Owensboro Daviess County ",
+        "state": "Kentucky"
+    },
+    "KPAH": {
+        "lat": 37.060798645,
+        "long": -88.7738037109,
+        "name": "Barkley Regional ",
+        "state": "Kentucky"
+    },
+    "KPBX": {
+        "lat": 37.5617981,
+        "long": -82.56639862,
+        "name": "Pike County-Hatcher Field",
+        "state": "Kentucky"
+    },
+    "KSDF": {
+        "lat": 38.1744003296,
+        "long": -85.736000061,
+        "name": "Louisville International Standiford Field",
+        "state": "Kentucky"
+    },
+    "KSME": {
+        "lat": 37.0533981323,
+        "long": -84.6158981323,
+        "name": "Lake Cumberland Regional ",
+        "state": "Kentucky"
+    },
+    "KTWT": {
+        "lat": 37.5407981873,
+        "long": -87.9517974854,
+        "name": "Sturgis Municipal ",
+        "state": "Kentucky"
+    },
+    "KTZV": {
+        "lat": 36.7290000916,
+        "long": -85.6523971558,
+        "name": "Tompkinsville Monroe County ",
+        "state": "Kentucky"
+    },
+    "KW38": {
+        "lat": 36.7949981689,
+        "long": -84.1995010376,
+        "name": "Williamsburg Whitley County ",
+        "state": "Kentucky"
+    }
+}

@@ -1,0 +1,102 @@
+{
+  "KQMG": {
+    "lat": 32.4106712341,
+    "long": 41.9474945068,
+    "name": "Mudaysis Air Base"
+  },
+  "ORAA": {
+    "lat": 33.7855987549,
+    "long": 42.4412002563,
+    "name": "Al Asad Air Base"
+  },
+  "ORAT": {
+    "lat": 33.3381004333,
+    "long": 43.5970993042,
+    "name": "Al Taqaddum Air Base"
+  },
+  "ORBB": {
+    "lat": 37.0988006592,
+    "long": 43.2666015625,
+    "name": "Bamarni "
+  },
+  "ORBD": {
+    "lat": 33.9402008057,
+    "long": 44.3615989685,
+    "name": "Balad Southeast Air Base"
+  },
+  "ORBI": {
+    "lat": 33.2625007629,
+    "long": 44.2346000671,
+    "name": "Baghdad International "
+  },
+  "ORBM": {
+    "lat": 36.3058013916,
+    "long": 43.1473999023,
+    "name": "Mosul International "
+  },
+  "ORBR": {
+    "lat": 36.5336990356,
+    "long": 44.3399009705,
+    "name": "Bashur Airfield"
+  },
+  "ORER": {
+    "lat": 36.2375984192,
+    "long": 43.9631996155,
+    "name": "Erbil International "
+  },
+  "ORKK": {
+    "lat": 35.4695014954,
+    "long": 44.3488998413,
+    "name": "Kirkuk Air Base"
+  },
+  "ORMM": {
+    "lat": 30.5491008759,
+    "long": 47.6621017456,
+    "name": "Basrah International "
+  },
+  "ORNI": {
+    "lat": 31.989722,
+    "long": 44.404167,
+    "name": "Al Najaf International "
+  },
+  "ORQW": {
+    "lat": 35.76720047,
+    "long": 43.1250991821,
+    "name": "Qayyarah West "
+  },
+  "ORSH": {
+    "lat": 34.6731987,
+    "long": 43.5429992676,
+    "name": "Al Sahra Army Air Field"
+  },
+  "ORSU": {
+    "lat": 35.5617485046,
+    "long": 45.3167381287,
+    "name": "Sulaymaniyah International "
+  },
+  "ORTF": {
+    "lat": 36.2831001282,
+    "long": 42.4029998779,
+    "name": "Tall Afar Army Air Field"
+  },
+  "ORTI": {
+    "lat": 33.5238990784,
+    "long": 44.2566986084,
+    "name": "Al Taji Army Air Field"
+  },
+  "ORTL": {
+    "lat": 30.9358005524,
+    "long": 46.0900993347,
+    "name": "Ali Air Base"
+  },
+  "ORUB": {
+    "lat": 32.4819984436,
+    "long": 45.7570991516,
+    "name": "Ubaydah Bin Al Jarrah "
+  },
+  "ORUQ": {
+    "lat": 30.0181435212,
+    "long": 47.9246163368,
+    "name": "Umm Qasr "
+  }
+}

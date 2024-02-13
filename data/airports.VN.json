@@ -1,0 +1,147 @@
+{
+  "VVBM": {
+    "lat": 12.668299675,
+    "long": 108.120002747,
+    "name": "Buon Ma Thuot "
+  },
+  "VVCA": {
+    "lat": 15.4033002853,
+    "long": 108.706001282,
+    "name": "Chu Lai International "
+  },
+  "VVCI": {
+    "lat": 20.8194007874,
+    "long": 106.7249984741,
+    "name": "Cat Bi International "
+  },
+  "VVCL": {
+    "lat": 11.9502844865,
+    "long": 108.411004543,
+    "name": "Cam Ly "
+  },
+  "VVCM": {
+    "lat": 9.1776666667,
+    "long": 105.177777778,
+    "name": "Ca Mau "
+  },
+  "VVCR": {
+    "lat": 11.9982004166,
+    "long": 109.21900177,
+    "name": "Cam Ranh "
+  },
+  "VVCS": {
+    "lat": 8.7318296433,
+    "long": 106.633003235,
+    "name": "Co Ong "
+  },
+  "VVCT": {
+    "lat": 10.085100174,
+    "long": 105.7119979858,
+    "name": "Tra Noc "
+  },
+  "VVDB": {
+    "lat": 21.3974990845,
+    "long": 103.008003235,
+    "name": "Dien Bien Phu "
+  },
+  "VVDH": {
+    "lat": 17.515,
+    "long": 106.590556,
+    "name": "Dong Hoi "
+  },
+  "VVDL": {
+    "lat": 11.75,
+    "long": 108.3669967651,
+    "name": "Lien Khuong "
+  },
+  "VVDN": {
+    "lat": 16.0438995361,
+    "long": 108.1989974976,
+    "name": "Da Nang International "
+  },
+  "VVGL": {
+    "lat": 21.0405006409,
+    "long": 105.8860015869,
+    "name": "Gia Lam Air Base"
+  },
+  "VVKP": {
+    "lat": 21.3945999146,
+    "long": 106.261001587,
+    "name": "Kep Air Base"
+  },
+  "VVNB": {
+    "lat": 21.221200943,
+    "long": 105.8069992065,
+    "name": "Noi Bai International "
+  },
+  "VVNS": {
+    "lat": 21.216999054,
+    "long": 104.0329971313,
+    "name": "Na-San "
+  },
+  "VVNT": {
+    "lat": 12.2274999619,
+    "long": 109.192001343,
+    "name": "Nha Trang Air Base"
+  },
+  "VVPB": {
+    "lat": 16.4015007019,
+    "long": 107.70300293,
+    "name": "Phu Bai "
+  },
+  "VVPC": {
+    "lat": 13.9549999237,
+    "long": 109.041999817,
+    "name": "Phu Cat "
+  },
+  "VVPK": {
+    "lat": 14.0045003891,
+    "long": 108.016998291,
+    "name": "Pleiku "
+  },
+  "VVPQ": {
+    "lat": 10.2270002365,
+    "long": 103.967002869,
+    "name": "Phu Quoc "
+  },
+  "VVPR": {
+    "lat": 11.6335000992,
+    "long": 108.952003479,
+    "name": "Phan Rang "
+  },
+  "VVPT": {
+    "lat": 10.9063997269,
+    "long": 108.0690002441,
+    "name": "Phan Thiet "
+  },
+  "VVRG": {
+    "lat": 9.9580299723,
+    "long": 105.132379532,
+    "name": "Rach Gia "
+  },
+  "VVTH": {
+    "lat": 13.0495996475,
+    "long": 109.333999634,
+    "name": "Dong Tac "
+  },
+  "VVTS": {
+    "lat": 10.8187999725,
+    "long": 106.652000427,
+    "name": "Tan Son Nhat International "
+  },
+  "VVTX": {
+    "lat": 19.901667,
+    "long": 105.467778,
+    "name": "Th\u1ecd Xu\u00e2n "
+  },
+  "VVVH": {
+    "lat": 18.7376003265,
+    "long": 105.67099762,
+    "name": "Vinh "
+  },
+  "VVVT": {
+    "lat": 10.3725004196,
+    "long": 107.0950012207,
+    "name": "Vung Tau "
+  }
+}

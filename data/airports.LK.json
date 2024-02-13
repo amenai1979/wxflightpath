@@ -1,0 +1,72 @@
+{
+  "VCBI": {
+    "lat": 7.1807599068,
+    "long": 79.8841018677,
+    "name": "Bandaranaike International Colombo "
+  },
+  "VCCA": {
+    "lat": 8.30148983,
+    "long": 80.4279022217,
+    "name": "Anuradhapura Air Force Base"
+  },
+  "VCCB": {
+    "lat": 7.7057600021,
+    "long": 81.6788024902,
+    "name": "Batticaloa "
+  },
+  "VCCC": {
+    "lat": 6.8219900131,
+    "long": 79.8861999512,
+    "name": "Colombo Ratmalana "
+  },
+  "VCCG": {
+    "lat": 7.3370800018,
+    "long": 81.6259002686,
+    "name": "Amparai "
+  },
+  "VCCH": {
+    "lat": 8.0498104095,
+    "long": 80.9813995361,
+    "name": "Hingurakgoda Air Force Base"
+  },
+  "VCCJ": {
+    "lat": 9.7923297882,
+    "long": 80.070098877,
+    "name": "Kankesanturai "
+  },
+  "VCCK": {
+    "lat": 5.9936800003,
+    "long": 80.3202972412,
+    "name": "Koggala "
+  },
+  "VCCN": {
+    "lat": 6.5521202087,
+    "long": 79.9775009155,
+    "name": "Katukurunda Air Force Base"
+  },
+  "VCCS": {
+    "lat": 7.9566698074,
+    "long": 80.7285003662,
+    "name": "Sigiriya Air Force Base"
+  },
+  "VCCT": {
+    "lat": 8.5385103226,
+    "long": 81.1819000244,
+    "name": "China Bay "
+  },
+  "VCCV": {
+    "lat": 8.7413902283,
+    "long": 80.4973983765,
+    "name": "Vavuniya "
+  },
+  "VCCW": {
+    "lat": 6.2544898987,
+    "long": 81.2351989746,
+    "name": "Weerawila International "
+  },
+  "VCRI": {
+    "lat": 6.288889,
+    "long": 81.123611,
+    "name": "Mattala Rajapaksa International "
+  }
+}

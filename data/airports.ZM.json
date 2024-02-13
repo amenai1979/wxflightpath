@@ -1,0 +1,372 @@
+{
+  "FLAT": {
+    "lat": -14.120300293,
+    "long": 32.0643997192,
+    "name": "Katete "
+  },
+  "FLBA": {
+    "lat": -8.85916996,
+    "long": 31.3363990784,
+    "name": "Mbala "
+  },
+  "FLCC": {
+    "lat": -8.428730011,
+    "long": 29.8059005737,
+    "name": "Chocha "
+  },
+  "FLCH": {
+    "lat": -16.783000946,
+    "long": 27,
+    "name": "Choma "
+  },
+  "FLCP": {
+    "lat": -13.5583000183,
+    "long": 32.5872001648,
+    "name": "Chipata "
+  },
+  "FLCS": {
+    "lat": -10.5329999924,
+    "long": 32.0670013428,
+    "name": "Chinsali "
+  },
+  "FLEA": {
+    "lat": -11.6357002258,
+    "long": 29.7359008789,
+    "name": "East One "
+  },
+  "FLEB": {
+    "lat": -11.1034002304,
+    "long": 30.3381996155,
+    "name": "East Two "
+  },
+  "FLEC": {
+    "lat": -14.1134996414,
+    "long": 30.1294994354,
+    "name": "East Three "
+  },
+  "FLED": {
+    "lat": -14.8330001831,
+    "long": 30.0830001831,
+    "name": "East Four "
+  },
+  "FLEE": {
+    "lat": -10.5356998444,
+    "long": 33.4071998596,
+    "name": "East Five "
+  },
+  "FLEF": {
+    "lat": -11.1342000961,
+    "long": 30.01720047,
+    "name": "East Six "
+  },
+  "FLEG": {
+    "lat": -12.4499998093,
+    "long": 29.4829998016,
+    "name": "East Seven "
+  },
+  "FLEH": {
+    "lat": -12.1169996262,
+    "long": 29.4500007629,
+    "name": "East Eight "
+  },
+  "FLIK": {
+    "lat": -10.1169996262,
+    "long": 32.6329994202,
+    "name": "Isoka "
+  },
+  "FLJK": {
+    "lat": -15.633332,
+    "long": 29.603333,
+    "name": "Jeki Airstrip"
+  },
+  "FLKB": {
+    "lat": -9.7980604172,
+    "long": 29.0916996002,
+    "name": "Kawambwa "
+  },
+  "FLKE": {
+    "lat": -12.5727996826,
+    "long": 27.8938999176,
+    "name": "Kasompe "
+  },
+  "FLKG": {
+    "lat": -13.4741001129,
+    "long": 25.0140991211,
+    "name": "Kalengwa "
+  },
+  "FLKJ": {
+    "lat": -16.4500007629,
+    "long": 23.3670005798,
+    "name": "Kanja "
+  },
+  "FLKK": {
+    "lat": -15.3308000565,
+    "long": 28.4526004791,
+    "name": "Kenneth Kaunda International "
+  },
+  "FLKL": {
+    "lat": -14.9982995987,
+    "long": 22.6453990936,
+    "name": "Kalabo "
+  },
+  "FLKO": {
+    "lat": -14.8000001907,
+    "long": 24.783000946,
+    "name": "Kaoma "
+  },
+  "FLKS": {
+    "lat": -10.2166996002,
+    "long": 31.1333007813,
+    "name": "Kasama "
+  },
+  "FLKU": {
+    "lat": -16.5,
+    "long": 22.4169998169,
+    "name": "Kanyau "
+  },
+  "FLKW": {
+    "lat": -14.4505996704,
+    "long": 28.3791999817,
+    "name": "Milliken "
+  },
+  "FLKY": {
+    "lat": -8.5249996185,
+    "long": 30.6630001068,
+    "name": "Kasaba Bay "
+  },
+  "FLKZ": {
+    "lat": -12.8119001389,
+    "long": 32.0648994446,
+    "name": "Lukuzi "
+  },
+  "FLLA": {
+    "lat": -13.141699791,
+    "long": 28.4249992371,
+    "name": "Luanshya Zambia "
+  },
+  "FLLC": {
+    "lat": -15.4138002396,
+    "long": 28.3306999207,
+    "name": "Lusaka City "
+  },
+  "FLLD": {
+    "lat": -12.2860002518,
+    "long": 33.186000824,
+    "name": "Lundazi "
+  },
+  "FLLG": {
+    "lat": -10.245300293,
+    "long": 29.9139995575,
+    "name": "Luwingu "
+  },
+  "FLLI": {
+    "lat": -17.8218002319,
+    "long": 25.8227005005,
+    "name": "Livingstone "
+  },
+  "FLLK": {
+    "lat": -14.3747997284,
+    "long": 23.2495002747,
+    "name": "Lukulu "
+  },
+  "FLLO": {
+    "lat": -16.9829998016,
+    "long": 26.4829998016,
+    "name": "Kalomo "
+  },
+  "FLLS": {
+    "lat": -15.3308000565,
+    "long": 28.4526004791,
+    "name": "Lusaka International "
+  },
+  "FLMA": {
+    "lat": -11.1370000839,
+    "long": 28.8726005554,
+    "name": "Mansa "
+  },
+  "FLMB": {
+    "lat": -17.3670005798,
+    "long": 27.1830005646,
+    "name": "Maamba "
+  },
+  "FLMF": {
+    "lat": -13.2588996887,
+    "long": 31.9365997314,
+    "name": "Mfuwe "
+  },
+  "FLMG": {
+    "lat": -15.2545003891,
+    "long": 23.1623001099,
+    "name": "Mongu "
+  },
+  "FLMK": {
+    "lat": -13.6169996262,
+    "long": 29.3829994202,
+    "name": "Mkushi "
+  },
+  "FLML": {
+    "lat": -12.565199852,
+    "long": 28.2943000793,
+    "name": "Mufulira "
+  },
+  "FLMO": {
+    "lat": -16.283000946,
+    "long": 27.5170001984,
+    "name": "Monze "
+  },
+  "FLMP": {
+    "lat": -11.8992004395,
+    "long": 31.4347000122,
+    "name": "Mpika "
+  },
+  "FLMU": {
+    "lat": -16.7670001984,
+    "long": 25.1830005646,
+    "name": "Mulobezi "
+  },
+  "FLMW": {
+    "lat": -11.6540002823,
+    "long": 24.4309997559,
+    "name": "Mwinilunga "
+  },
+  "FLMZ": {
+    "lat": -15.8500003815,
+    "long": 27.7416992188,
+    "name": "Mazabuka "
+  },
+  "FLNA": {
+    "lat": -15.9658002853,
+    "long": 25.9333000183,
+    "name": "Ngoma "
+  },
+  "FLND": {
+    "lat": -12.9981002808,
+    "long": 28.664899826,
+    "name": "Ndola "
+  },
+  "FLNL": {
+    "lat": -15.7650003433,
+    "long": 26.4319000244,
+    "name": "Namwala "
+  },
+  "FLNY": {
+    "lat": -14.5685997009,
+    "long": 30.8341007233,
+    "name": "Nyimba "
+  },
+  "FLPA": {
+    "lat": -13.4399995804,
+    "long": 25.7859992981,
+    "name": "Kasempa "
+  },
+  "FLPE": {
+    "lat": -14.1999998093,
+    "long": 31.216999054,
+    "name": "Petauke "
+  },
+  "FLPK": {
+    "lat": -9.3666601181,
+    "long": 30.1389007568,
+    "name": "Mporokoso "
+  },
+  "FLPO": {
+    "lat": -13.5760002136,
+    "long": 24.2299995422,
+    "name": "Kabompo "
+  },
+  "FLRO": {
+    "lat": -9.5268297195,
+    "long": 31.2374992371,
+    "name": "Rosa "
+  },
+  "FLRU": {
+    "lat": -15.0830001831,
+    "long": 29.6329994202,
+    "name": "Rufansa "
+  },
+  "FLSE": {
+    "lat": -13.1829996109,
+    "long": 30.2329998016,
+    "name": "Serenje "
+  },
+  "FLSH": {
+    "lat": -11.2009000778,
+    "long": 31.7481994629,
+    "name": "Shiwa n'gandu "
+  },
+  "FLSJ": {
+    "lat": -11.2327003479,
+    "long": 24.316400528,
+    "name": "Sakeji "
+  },
+  "FLSN": {
+    "lat": -16.1000003815,
+    "long": 23.2670001984,
+    "name": "Senanga "
+  },
+  "FLSO": {
+    "lat": -12.9005002975,
+    "long": 28.1499004364,
+    "name": "Southdowns "
+  },
+  "FLSS": {
+    "lat": -17.4762992859,
+    "long": 24.3047008514,
+    "name": "Sesheke "
+  },
+  "FLSW": {
+    "lat": -12.1737003326,
+    "long": 26.3651008606,
+    "name": "Solwesi "
+  },
+  "FLWA": {
+    "lat": -12.8549003601,
+    "long": 27.0722007751,
+    "name": "West One "
+  },
+  "FLWB": {
+    "lat": -13.7664003372,
+    "long": 27.5172996521,
+    "name": "West Two "
+  },
+  "FLWC": {
+    "lat": -13.3552999496,
+    "long": 26.6005992889,
+    "name": "West Three "
+  },
+  "FLWD": {
+    "lat": -13.6454000473,
+    "long": 25.4218997955,
+    "name": "West Four "
+  },
+  "FLWE": {
+    "lat": -13.9642000198,
+    "long": 24.4605998993,
+    "name": "West Five "
+  },
+  "FLWF": {
+    "lat": -12.2172002792,
+    "long": 27.4904994965,
+    "name": "West Six "
+  },
+  "FLWG": {
+    "lat": -11.9126996994,
+    "long": 25.6844005585,
+    "name": "West Seven "
+  },
+  "FLWW": {
+    "lat": -12.4504003525,
+    "long": 32.2569999695,
+    "name": "Waka Waka "
+  },
+  "FLYA": {
+    "lat": -11.3653001785,
+    "long": 29.5480995178,
+    "name": "Samfya "
+  },
+  "FLZB": {
+    "lat": -13.5361003876,
+    "long": 23.108499527,
+    "name": "Zambezi "
+  }
+}

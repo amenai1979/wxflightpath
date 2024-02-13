@@ -1,0 +1,1617 @@
+{
+  "FAAB": {
+    "lat": -28.5750007629,
+    "long": 16.5333003998,
+    "name": "Alexander Bay "
+  },
+  "FAAD": {
+    "lat": -32.6831016541,
+    "long": 26.2942008972,
+    "name": "Adelaide "
+  },
+  "FAAE": {
+    "lat": -32.4667015076,
+    "long": 24.0666999817,
+    "name": "Aberdeen "
+  },
+  "FAAF": {
+    "lat": -34.7628898621,
+    "long": 20.0349159241,
+    "name": "Andrew's Field "
+  },
+  "FAAG": {
+    "lat": -29.2817993164,
+    "long": 18.8138999939,
+    "name": "Aggeneys "
+  },
+  "FAAK": {
+    "lat": -26.9869441986,
+    "long": 20.7772216797,
+    "name": "Askham "
+  },
+  "FAAL": {
+    "lat": -22.6790008545,
+    "long": 29.0555000305,
+    "name": "Alldays "
+  },
+  "FAAM": {
+    "lat": -26.6333332062,
+    "long": 30.6000003815,
+    "name": "Amsterdam "
+  },
+  "FAAN": {
+    "lat": -30.6800003052,
+    "long": 26.7299995422,
+    "name": "Aliwal North "
+  },
+  "FAAP": {
+    "lat": -25.69389,
+    "long": 27.7825073972,
+    "name": "Aviators Paradise Field"
+  },
+  "FAAS": {
+    "lat": -33.8166656494,
+    "long": 20.0666675568,
+    "name": "Ashton "
+  },
+  "FABA": {
+    "lat": -25.9762557716,
+    "long": 28.3890151978,
+    "name": "Microland Flight Park"
+  },
+  "FABB": {
+    "lat": -26.2385997772,
+    "long": 28.3017997742,
+    "name": "Brakpan "
+  },
+  "FABD": {
+    "lat": -30.9775009155,
+    "long": 26.3080997467,
+    "name": "Burghersdorp "
+  },
+  "FABE": {
+    "lat": -32.8970985413,
+    "long": 27.2791004181,
+    "name": "Bisho "
+  },
+  "FABF": {
+    "lat": -30.9666671753,
+    "long": 27.6041660309,
+    "name": "Barkley East "
+  },
+  "FABG": {
+    "lat": -24.702464,
+    "long": 31.587875,
+    "name": "Buffelshoek "
+  },
+  "FABH": {
+    "lat": -25.6587417378,
+    "long": 30.041577816,
+    "name": "Belfast Aerodrome"
+  },
+  "FABK": {
+    "lat": -32.035,
+    "long": 19.0435,
+    "name": "Bushmans Kloof "
+  },
+  "FABL": {
+    "lat": -29.0926990509,
+    "long": 26.302400589,
+    "name": "J B M Hertzog International "
+  },
+  "FABM": {
+    "lat": -28.2483997345,
+    "long": 28.3360996246,
+    "name": "Bethlehem "
+  },
+  "FABO": {
+    "lat": -27.3668003082,
+    "long": 26.6291999817,
+    "name": "Hendrik Potgieter "
+  },
+  "FABP": {
+    "lat": -27.129724,
+    "long": 22.846255,
+    "name": "Black Rock "
+  },
+  "FABR": {
+    "lat": -25.7168687423,
+    "long": 30.9751796722,
+    "name": "Barberton "
+  },
+  "FABS": {
+    "lat": -25.5323009491,
+    "long": 27.7758998871,
+    "name": "Brits "
+  },
+  "FABT": {
+    "lat": -31.8731994629,
+    "long": 24.7968997955,
+    "name": "Bethesda Road "
+  },
+  "FABU": {
+    "lat": -28.273369,
+    "long": 26.135835,
+    "name": "Bultfontein "
+  },
+  "FABV": {
+    "lat": -30.4666996002,
+    "long": 20.4666996002,
+    "name": "Brandviei "
+  },
+  "FABW": {
+    "lat": -32.2999992371,
+    "long": 22.6700000763,
+    "name": "Beaufort West "
+  },
+  "FABX": {
+    "lat": -28.2450008392,
+    "long": 26.771900177,
+    "name": "Beatrix "
+  },
+  "FABZ": {
+    "lat": -30.8603000641,
+    "long": 29.863899231,
+    "name": "Bizana "
+  },
+  "FACA": {
+    "lat": -28.7999992371,
+    "long": 27.4169998169,
+    "name": "Monte Carlo "
+  },
+  "FACB": {
+    "lat": -30.7339000702,
+    "long": 25.0650005341,
+    "name": "Colesberg "
+  },
+  "FACC": {
+    "lat": -24.7441673279,
+    "long": 31.5224990845,
+    "name": "Arathusa Safari Lodge "
+  },
+  "FACD": {
+    "lat": -32.1567001343,
+    "long": 25.6455993652,
+    "name": "Cradock "
+  },
+  "FACE": {
+    "lat": -33.3530006409,
+    "long": 19.3113994598,
+    "name": "Ceres "
+  },
+  "FACF": {
+    "lat": -34.1869010925,
+    "long": 24.8349990845,
+    "name": "Cap St Francis "
+  },
+  "FACH": {
+    "lat": -32.7447013855,
+    "long": 25.7963008881,
+    "name": "Cookhouse "
+  },
+  "FACI": {
+    "lat": -32.6176986694,
+    "long": 19.005399704,
+    "name": "Citrusdal "
+  },
+  "FACK": {
+    "lat": -27.8777008057,
+    "long": 25.2017993927,
+    "name": "Christiana "
+  },
+  "FACL": {
+    "lat": -26.0781002045,
+    "long": 30.0925006866,
+    "name": "Carolina "
+  },
+  "FACN": {
+    "lat": -30.9885997772,
+    "long": 22.1317005157,
+    "name": "Carnarvon "
+  },
+  "FACO": {
+    "lat": -29.9064006805,
+    "long": 22.3166999817,
+    "name": "Alkantpan Copper "
+  },
+  "FACR": {
+    "lat": -26.3666667938,
+    "long": 27.3466663361,
+    "name": "Carltonville "
+  },
+  "FACT": {
+    "lat": -33.9648017883,
+    "long": 18.6016998291,
+    "name": "Cape Town International "
+  },
+  "FACV": {
+    "lat": -31.5002994537,
+    "long": 19.72590065,
+    "name": "Calvinia "
+  },
+  "FACW": {
+    "lat": -32.1831016541,
+    "long": 18.8885993958,
+    "name": "Clanwilliam "
+  },
+  "FACX": {
+    "lat": -32.2871017456,
+    "long": 27.1387996674,
+    "name": "Cathcart "
+  },
+  "FACY": {
+    "lat": -34.3517990112,
+    "long": 21.4248008728,
+    "name": "Stilbaai "
+  },
+  "FADA": {
+    "lat": -30.692199707,
+    "long": 24.0205993652,
+    "name": "De Aar "
+  },
+  "FADB": {
+    "lat": -24.8071994781,
+    "long": 26.82970047,
+    "name": "Dwaalboom "
+  },
+  "FADD": {
+    "lat": -28.1830997467,
+    "long": 30.2224998474,
+    "name": "Dundee "
+  },
+  "FADE": {
+    "lat": -26.1416664124,
+    "long": 28.6916675568,
+    "name": "Delmas "
+  },
+  "FADG": {
+    "lat": -31.3833332062,
+    "long": 27.0333328247,
+    "name": "Dordrecht "
+  },
+  "FADH": {
+    "lat": -28.0461006165,
+    "long": 30.0063991547,
+    "name": "Durnacol "
+  },
+  "FADK": {
+    "lat": -28.3684005737,
+    "long": 32.2481002808,
+    "name": "Mubatuba "
+  },
+  "FADL": {
+    "lat": -26.6791992188,
+    "long": 25.4747009277,
+    "name": "Delareyville "
+  },
+  "FADM": {
+    "lat": -30.5564994812,
+    "long": 29.4081993103,
+    "name": "Kokstad "
+  },
+  "FADN": {
+    "lat": -29.9701004028,
+    "long": 30.9505004883,
+    "name": "Durban International "
+  },
+  "FADO": {
+    "lat": -23.3805999756,
+    "long": 29.3208007813,
+    "name": "Dendron "
+  },
+  "FADP": {
+    "lat": -33.1832008362,
+    "long": 25.1931991577,
+    "name": "Darlington Dam Lodge "
+  },
+  "FADQ": {
+    "lat": -27.8493995667,
+    "long": 32.3097000122,
+    "name": "Zulu Inyala "
+  },
+  "FADR": {
+    "lat": -26.3497009277,
+    "long": 28.4419002533,
+    "name": "Dunnottar "
+  },
+  "FADS": {
+    "lat": -33.455557,
+    "long": 19.684493,
+    "name": "De Doorns "
+  },
+  "FADU": {
+    "lat": -25.36278,
+    "long": 30.18778,
+    "name": "Walkersons Field"
+  },
+  "FADV": {
+    "lat": -26.3589992523,
+    "long": 28.7896995544,
+    "name": "Devon "
+  },
+  "FADX": {
+    "lat": -33.6494935368,
+    "long": 18.4718799591,
+    "name": "Delta 200 Airstrip"
+  },
+  "FADY": {
+    "lat": -30.6365089417,
+    "long": 23.9197254181,
+    "name": "De Aar Military "
+  },
+  "FADZ": {
+    "lat": -29.75,
+    "long": 29.25,
+    "name": "Drakensberg Gardens "
+  },
+  "FAEC": {
+    "lat": -29.0471992493,
+    "long": 29.9106006622,
+    "name": "Estcourt "
+  },
+  "FAED": {
+    "lat": -29.75,
+    "long": 25.8999996185,
+    "name": "Edenburg "
+  },
+  "FAEG": {
+    "lat": -24.5669994354,
+    "long": 30.3169994354,
+    "name": "Egnep "
+  },
+  "FAEL": {
+    "lat": -33.0355987549,
+    "long": 27.8258991241,
+    "name": "Ben Schoeman "
+  },
+  "FAEM": {
+    "lat": -28.7199993134,
+    "long": 31.8899993896,
+    "name": "Empangeni "
+  },
+  "FAEO": {
+    "lat": -26.4955997467,
+    "long": 29.9797992706,
+    "name": "Ermelo "
+  },
+  "FAER": {
+    "lat": -23.7266998291,
+    "long": 27.6882991791,
+    "name": "Ellisras Matimba "
+  },
+  "FAES": {
+    "lat": -28.8801994324,
+    "long": 31.4549007416,
+    "name": "Eshowe "
+  },
+  "FAET": {
+    "lat": -31.3069000244,
+    "long": 27.8495006561,
+    "name": "Elliot "
+  },
+  "FAFB": {
+    "lat": -28.8230991364,
+    "long": 27.9088993073,
+    "name": "Ficksburg Sentraoes "
+  },
+  "FAFF": {
+    "lat": -27.2854003906,
+    "long": 28.5153007507,
+    "name": "Frankfort "
+  },
+  "FAFG": {
+    "lat": -30.4909992218,
+    "long": 21.1217002869,
+    "name": "Flamingo Vlei "
+  },
+  "FAFK": {
+    "lat": -33.7700004578,
+    "long": 18.7399997711,
+    "name": "Fisantekraal "
+  },
+  "FAFO": {
+    "lat": -32.7905006409,
+    "long": 26.5776996613,
+    "name": "Fort Beaufort "
+  },
+  "FAFR": {
+    "lat": -31.9339008331,
+    "long": 21.5025005341,
+    "name": "Fraserburg "
+  },
+  "FAFU": {
+    "lat": -27.3169994354,
+    "long": 27.25,
+    "name": "Fraaiuitzicht "
+  },
+  "FAFW": {
+    "lat": -25.4771995544,
+    "long": 28.2900009155,
+    "name": "Freeway "
+  },
+  "FAGA": {
+    "lat": -30.2670001984,
+    "long": 29.966999054,
+    "name": "Grange "
+  },
+  "FAGC": {
+    "lat": -25.9862995148,
+    "long": 28.1401004791,
+    "name": "Grand Central "
+  },
+  "FAGG": {
+    "lat": -34.0055999756,
+    "long": 22.378900528,
+    "name": "George "
+  },
+  "FAGH": {
+    "lat": -28.8333339691,
+    "long": 29.4666671753,
+    "name": "Glen Grey "
+  },
+  "FAGI": {
+    "lat": -23.2833003998,
+    "long": 30.6499996185,
+    "name": "Giyani "
+  },
+  "FAGJ": {
+    "lat": -30.3833007813,
+    "long": 20.0333003998,
+    "name": "Gifvlei "
+  },
+  "FAGL": {
+    "lat": -25.1868991852,
+    "long": 29.4032993317,
+    "name": "Groblersdal Kob "
+  },
+  "FAGM": {
+    "lat": -26.2425003052,
+    "long": 28.1511993408,
+    "name": "Rand "
+  },
+  "FAGO": {
+    "lat": -24.7371653036,
+    "long": 31.5602874756,
+    "name": "Gowrie "
+  },
+  "FAGR": {
+    "lat": -32.1935997009,
+    "long": 24.5414009094,
+    "name": "Graaff Reinet "
+  },
+  "FAGS": {
+    "lat": -29.2696990967,
+    "long": 29.5660991669,
+    "name": "Giants Castle "
+  },
+  "FAGT": {
+    "lat": -33.2846984863,
+    "long": 26.4981002808,
+    "name": "Grahamstown "
+  },
+  "FAGV": {
+    "lat": -23.9167003632,
+    "long": 30.7000007629,
+    "name": "Gravelotte "
+  },
+  "FAGW": {
+    "lat": -31.3939418793,
+    "long": 29.6934700012,
+    "name": "Magwa "
+  },
+  "FAGY": {
+    "lat": -29.1219997406,
+    "long": 30.5867004395,
+    "name": "Greytown "
+  },
+  "FAHA": {
+    "lat": -28.0786991119,
+    "long": 26.8612003326,
+    "name": "Harmony "
+  },
+  "FAHB": {
+    "lat": -24.5023994446,
+    "long": 28.0790996552,
+    "name": "Hartebeespoortdam "
+  },
+  "FAHC": {
+    "lat": -29.5527992249,
+    "long": 30.2110996246,
+    "name": "Howick "
+  },
+  "FAHD": {
+    "lat": -34.0365982056,
+    "long": 24.7889003754,
+    "name": "Humansdorp "
+  },
+  "FAHE": {
+    "lat": -25.9778003693,
+    "long": 29.6189002991,
+    "name": "Pullenshope Hendrina "
+  },
+  "FAHF": {
+    "lat": -33.0461006165,
+    "long": 25.7168998718,
+    "name": "Henrys Flats "
+  },
+  "FAHG": {
+    "lat": -26.5100002289,
+    "long": 28.3899993896,
+    "name": "Heidelburg "
+  },
+  "FAHH": {
+    "lat": -30.6299991608,
+    "long": 30.5200004578,
+    "name": "Hibberdene "
+  },
+  "FAHI": {
+    "lat": -30.013299942,
+    "long": 20.1392002106,
+    "name": "Halfweg "
+  },
+  "FAHJ": {
+    "lat": -30.5666999817,
+    "long": 29.8833007813,
+    "name": "Harding "
+  },
+  "FAHK": {
+    "lat": -25.5872001648,
+    "long": 28.1158008575,
+    "name": "Haakdoornboom "
+  },
+  "FAHL": {
+    "lat": -28.0166049887,
+    "long": 32.2751712799,
+    "name": "Hluhluwe "
+  },
+  "FAHO": {
+    "lat": -27.2786006927,
+    "long": 27.9955997467,
+    "name": "Heilbron "
+  },
+  "FAHP": {
+    "lat": -27.8216991425,
+    "long": 25.9169006348,
+    "name": "Hoopstad "
+  },
+  "FAHR": {
+    "lat": -28.2350997925,
+    "long": 29.1061992645,
+    "name": "Harrismith "
+  },
+  "FAHS": {
+    "lat": -24.3686008453,
+    "long": 31.0487003326,
+    "name": "Hoedspruit Air Force Base "
+  },
+  "FAHT": {
+    "lat": -24.3516998291,
+    "long": 30.9493999481,
+    "name": "Hoedspruit "
+  },
+  "FAHU": {
+    "lat": -30.5424995422,
+    "long": 29.4990005493,
+    "name": "H M S Bastard Memorial "
+  },
+  "FAHV": {
+    "lat": -30.5622005463,
+    "long": 25.5282993317,
+    "name": "Gariep Dam "
+  },
+  "FAIA": {
+    "lat": -27.486700058,
+    "long": 31.1711006165,
+    "name": "Itala "
+  },
+  "FAID": {
+    "lat": -32.0999984741,
+    "long": 28.3166999817,
+    "name": "Idutywa "
+  },
+  "FAIO": {
+    "lat": -25.5499992371,
+    "long": 27.9330005646,
+    "name": "Odi "
+  },
+  "FAIS": {
+    "lat": -29.105556488,
+    "long": 31.4074993134,
+    "name": "Isithebe "
+  },
+  "FAIV": {
+    "lat": -27.117099762,
+    "long": 32.0087013245,
+    "name": "Ingwavuma "
+  },
+  "FAIW": {
+    "lat": -31.4833335876,
+    "long": 27.3500003815,
+    "name": "Indwe "
+  },
+  "FAJF": {
+    "lat": -29.7625007629,
+    "long": 25.4330005646,
+    "name": "Jagersfontain "
+  },
+  "FAJP": {
+    "lat": -33.831199646,
+    "long": 23.8300991058,
+    "name": "Joubertina "
+  },
+  "FAJV": {
+    "lat": -32.9390983582,
+    "long": 24.6707000732,
+    "name": "Jansenville "
+  },
+  "FAKA": {
+    "lat": -32.7469940186,
+    "long": 19.5620994568,
+    "name": "Kagga Kamma "
+  },
+  "FAKB": {
+    "lat": -27.0333328247,
+    "long": 32.75,
+    "name": "Kosibaai "
+  },
+  "FAKD": {
+    "lat": -26.871099472,
+    "long": 26.718000412,
+    "name": "P C Pelser "
+  },
+  "FAKE": {
+    "lat": -32.7000007629,
+    "long": 28.3500003815,
+    "name": "Keimouth "
+  },
+  "FAKF": {
+    "lat": -31.9638996124,
+    "long": 29.14909935,
+    "name": "Koffee Bay "
+  },
+  "FAKG": {
+    "lat": -26.0932998657,
+    "long": 29.4556007385,
+    "name": "Komati Power Station "
+  },
+  "FAKH": {
+    "lat": -29.3267002106,
+    "long": 21.1886005402,
+    "name": "Kenhardt "
+  },
+  "FAKI": {
+    "lat": -32.433799,
+    "long": 28.683467,
+    "name": "Kobb Inn "
+  },
+  "FAKK": {
+    "lat": -28.7999992371,
+    "long": 20.6329994202,
+    "name": "Kakamas "
+  },
+  "FAKL": {
+    "lat": -26.2511005402,
+    "long": 29.1947002411,
+    "name": "Kriel "
+  },
+  "FAKM": {
+    "lat": -28.8027992249,
+    "long": 24.7651996613,
+    "name": "Kimberley "
+  },
+  "FAKN": {
+    "lat": -25.3831996918,
+    "long": 31.1056003571,
+    "name": "Kruger Mpumalanga International "
+  },
+  "FAKO": {
+    "lat": -32.5928001404,
+    "long": 27.8757991791,
+    "name": "Komga "
+  },
+  "FAKP": {
+    "lat": -25.4402999878,
+    "long": 31.9300003052,
+    "name": "Komatipoort "
+  },
+  "FAKR": {
+    "lat": -26.0809993744,
+    "long": 27.7257003784,
+    "name": "Krugersdorp "
+  },
+  "FAKS": {
+    "lat": -27.6606006622,
+    "long": 27.3157997131,
+    "name": "Kroonstad "
+  },
+  "FAKT": {
+    "lat": -25.8600006104,
+    "long": 28.4500007629,
+    "name": "Kitty Hawk "
+  },
+  "FAKU": {
+    "lat": -27.4566993713,
+    "long": 23.4113998413,
+    "name": "Johan Pienaar "
+  },
+  "FAKV": {
+    "lat": -29.4393997192,
+    "long": 24.9885997772,
+    "name": "Koffyfontein Min "
+  },
+  "FAKW": {
+    "lat": -33.9666671753,
+    "long": 24.2999992371,
+    "name": "Kareedouw "
+  },
+  "FAKX": {
+    "lat": -33.6693000793,
+    "long": 26.6308994293,
+    "name": "Kenton on Sea "
+  },
+  "FAKZ": {
+    "lat": -29.6884002686,
+    "long": 17.0939998627,
+    "name": "Kleinsee "
+  },
+  "FALA": {
+    "lat": -25.9384994507,
+    "long": 27.9260997772,
+    "name": "Lanseria "
+  },
+  "FALB": {
+    "lat": -29.1811008453,
+    "long": 27.4535999298,
+    "name": "Ladybrand Af "
+  },
+  "FALC": {
+    "lat": -28.3600997925,
+    "long": 23.4391002655,
+    "name": "Lime Acres Finsch Mine "
+  },
+  "FALD": {
+    "lat": -24.7502002716,
+    "long": 31.4757003784,
+    "name": "Londolozi "
+  },
+  "FALE": {
+    "lat": -29.6144444444,
+    "long": 31.1197222222,
+    "name": "King Shaka International "
+  },
+  "FALF": {
+    "lat": -30.9064006805,
+    "long": 19.4253005981,
+    "name": "Loeriesfontein "
+  },
+  "FALH": {
+    "lat": -28.0368003845,
+    "long": 23.0986995697,
+    "name": "Lohathla Military "
+  },
+  "FALI": {
+    "lat": -26.175699234,
+    "long": 26.1846008301,
+    "name": "Lichtenburg "
+  },
+  "FALK": {
+    "lat": -31.3666992188,
+    "long": 29.5832996368,
+    "name": "Lusikisiki "
+  },
+  "FALL": {
+    "lat": -25.1033000946,
+    "long": 30.4141998291,
+    "name": "Lydenburg "
+  },
+  "FALM": {
+    "lat": -23.1599006653,
+    "long": 29.6965007782,
+    "name": "Makhado Air Force Base "
+  },
+  "FALO": {
+    "lat": -23.0618991852,
+    "long": 29.8647003174,
+    "name": "Louis Trichardt "
+  },
+  "FALQ": {
+    "lat": -28.9861106873,
+    "long": 29.4797229767,
+    "name": "El Mirador "
+  },
+  "FALR": {
+    "lat": -33.3370018005,
+    "long": 24.3213996887,
+    "name": "Steytlerville "
+  },
+  "FALS": {
+    "lat": -33.2462272644,
+    "long": 18.4799976349,
+    "name": "Somersveld "
+  },
+  "FALW": {
+    "lat": -32.9688987732,
+    "long": 18.1602993011,
+    "name": "Langebaanweg "
+  },
+  "FALY": {
+    "lat": -28.5816993713,
+    "long": 29.7497005463,
+    "name": "Ladysmith "
+  },
+  "FAMA": {
+    "lat": -30.3222007751,
+    "long": 28.7942008972,
+    "name": "Matatiele "
+  },
+  "FAMB": {
+    "lat": -25.6847991943,
+    "long": 29.4402008057,
+    "name": "Middelburg "
+  },
+  "FAMC": {
+    "lat": -31.5471992493,
+    "long": 25.0293998718,
+    "name": "Middelburg 2 "
+  },
+  "FAMD": {
+    "lat": -24.8180999756,
+    "long": 31.5445995331,
+    "name": "Malamala "
+  },
+  "FAMF": {
+    "lat": -29.0118999481,
+    "long": 23.8474006653,
+    "name": "Malabar "
+  },
+  "FAMG": {
+    "lat": -30.8574008942,
+    "long": 30.343000412,
+    "name": "Margate "
+  },
+  "FAMH": {
+    "lat": -22.3560009003,
+    "long": 29.9862003326,
+    "name": "Musina(Messina) "
+  },
+  "FAMI": {
+    "lat": -24.9890995026,
+    "long": 29.2831001282,
+    "name": "Marble Hall "
+  },
+  "FAMJ": {
+    "lat": -27.0792999268,
+    "long": 29.7784996033,
+    "name": "Majuba Power Station "
+  },
+  "FAMK": {
+    "lat": -25.8166675568,
+    "long": 25.6166667938,
+    "name": "Mafeking "
+  },
+  "FAML": {
+    "lat": -25.8166999817,
+    "long": 25.7166996002,
+    "name": "Manyani Game Lodge "
+  },
+  "FAMM": {
+    "lat": -25.7984008789,
+    "long": 25.5480003357,
+    "name": "Mmabatho International "
+  },
+  "FAMN": {
+    "lat": -25.4300003052,
+    "long": 31.5767002106,
+    "name": "Riverside "
+  },
+  "FAMO": {
+    "lat": -34.1582984924,
+    "long": 22.058599472,
+    "name": "Mossel Bay "
+  },
+  "FAMP": {
+    "lat": -22.3747005463,
+    "long": 30.8815994263,
+    "name": "Madimbo "
+  },
+  "FAMQ": {
+    "lat": -31.0832996368,
+    "long": 28.3763999939,
+    "name": "Maclear "
+  },
+  "FAMS": {
+    "lat": -25.7045001984,
+    "long": 26.9090003967,
+    "name": "Morningside Farm "
+  },
+  "FAMT": {
+    "lat": -31.3896007538,
+    "long": 26.348400116,
+    "name": "Molteno "
+  },
+  "FAMU": {
+    "lat": -27.6261005402,
+    "long": 32.0443000793,
+    "name": "Mkuze "
+  },
+  "FAMV": {
+    "lat": -24.625,
+    "long": 30.1861114502,
+    "name": "Montrose "
+  },
+  "FAMX": {
+    "lat": -27.4813995361,
+    "long": 32.5938987732,
+    "name": "Mbazwana "
+  },
+  "FAMY": {
+    "lat": -33.4618988037,
+    "long": 18.700799942,
+    "name": "Malmesbury "
+  },
+  "FAMZ": {
+    "lat": -26.0499992371,
+    "long": 31.0170001984,
+    "name": "Msauli "
+  },
+  "FANA": {
+    "lat": -27.9139995575,
+    "long": 31.6562004089,
+    "name": "Nongoma "
+  },
+  "FANC": {
+    "lat": -27.7705993652,
+    "long": 29.9769001007,
+    "name": "Newcastle "
+  },
+  "FANG": {
+    "lat": -24.3878002167,
+    "long": 31.325799942,
+    "name": "Ngala "
+  },
+  "FANH": {
+    "lat": -29.3560009003,
+    "long": 30.5184001923,
+    "name": "New Hanover "
+  },
+  "FANL": {
+    "lat": -25.9785003662,
+    "long": 28.9843997955,
+    "name": "New Largo "
+  },
+  "FANS": {
+    "lat": -25.5,
+    "long": 30.9137992859,
+    "name": "Nelspruit "
+  },
+  "FANV": {
+    "lat": -31.3500003815,
+    "long": 19.1166667938,
+    "name": "Nieuwoudtville Airfield"
+  },
+  "FANY": {
+    "lat": -24.6861000061,
+    "long": 28.4349002838,
+    "name": "Nylstroom Airfield"
+  },
+  "FAOB": {
+    "lat": -34.554901123,
+    "long": 20.2506999969,
+    "name": "Overberg "
+  },
+  "FAOD": {
+    "lat": -27.8710002899,
+    "long": 26.6933994293,
+    "name": "Odendaalsrus "
+  },
+  "FAOF": {
+    "lat": -27.9617004395,
+    "long": 22.7166004181,
+    "name": "Jack Duvenhage "
+  },
+  "FAOH": {
+    "lat": -33.6069984436,
+    "long": 22.188999176,
+    "name": "Oudtshoorn "
+  },
+  "FAOI": {
+    "lat": -26.0394001007,
+    "long": 27.5956001282,
+    "name": "Orient Glider "
+  },
+  "FAOL": {
+    "lat": -24.7329998016,
+    "long": 31.3999996185,
+    "name": "Othawa "
+  },
+  "FAON": {
+    "lat": -28.0449008942,
+    "long": 32.4253997803,
+    "name": "Ornate Lake St L "
+  },
+  "FAOR": {
+    "lat": -26.133333,
+    "long": 28.25,
+    "name": "O. R. Tambo International "
+  },
+  "FAOT": {
+    "lat": -26.7982997894,
+    "long": 26.0002994537,
+    "name": "Ottosdal "
+  },
+  "FAOY": {
+    "lat": -26.9839000702,
+    "long": 26.6513996124,
+    "name": "Orkney "
+  },
+  "FAPA": {
+    "lat": -33.5541992188,
+    "long": 26.8777008057,
+    "name": "Port Alfred "
+  },
+  "FAPC": {
+    "lat": -33.2024993896,
+    "long": 22.0321998596,
+    "name": "Prince Albert "
+  },
+  "FAPD": {
+    "lat": -29.1417007446,
+    "long": 19.4130992889,
+    "name": "Pofadder "
+  },
+  "FAPE": {
+    "lat": -33.9849014282,
+    "long": 25.6173000336,
+    "name": "Port Elizabeth "
+  },
+  "FAPF": {
+    "lat": -26.9969005585,
+    "long": 30.8407993317,
+    "name": "Piet Retief "
+  },
+  "FAPG": {
+    "lat": -34.0903015137,
+    "long": 23.3278007507,
+    "name": "Plettenberg Bay "
+  },
+  "FAPH": {
+    "lat": -23.9372005463,
+    "long": 31.1553993225,
+    "name": "Hendrik Van Eck "
+  },
+  "FAPI": {
+    "lat": -23.9260997772,
+    "long": 29.4843997955,
+    "name": "Pietersburg Municipal "
+  },
+  "FAPJ": {
+    "lat": -31.6058998108,
+    "long": 29.5198001862,
+    "name": "Port St Johns "
+  },
+  "FAPK": {
+    "lat": -29.683599472,
+    "long": 22.7705993652,
+    "name": "Prieska "
+  },
+  "FAPL": {
+    "lat": -27.3621997833,
+    "long": 31.6067008972,
+    "name": "Pongola "
+  },
+  "FAPM": {
+    "lat": -29.6490001678,
+    "long": 30.3987007141,
+    "name": "Pietermaritzburg "
+  },
+  "FAPN": {
+    "lat": -25.3337993622,
+    "long": 27.1734008789,
+    "name": "Pilanesberg International "
+  },
+  "FAPO": {
+    "lat": -24.7847003937,
+    "long": 30.7922000885,
+    "name": "Pilgrims Rest "
+  },
+  "FAPP": {
+    "lat": -23.8453006744,
+    "long": 29.4585990906,
+    "name": "Polokwane International "
+  },
+  "FAPQ": {
+    "lat": -22.77,
+    "long": 31.0108,
+    "name": "Punda Maria(Malia) "
+  },
+  "FAPS": {
+    "lat": -26.670999527,
+    "long": 27.0818996429,
+    "name": "Potchefstroom "
+  },
+  "FAPT": {
+    "lat": -28.3386001587,
+    "long": 23.07970047,
+    "name": "Posmasburg Soil "
+  },
+  "FAPU": {
+    "lat": -33.7107666667,
+    "long": 19.0243888889,
+    "name": "Paarl East "
+  },
+  "FAPV": {
+    "lat": -30.0818004608,
+    "long": 24.679599762,
+    "name": "Petrusville "
+  },
+  "FAPW": {
+    "lat": -26.6061000824,
+    "long": 29.3292007446,
+    "name": "Pietersrus "
+  },
+  "FAPX": {
+    "lat": -34.1027793884,
+    "long": 24.8827781677,
+    "name": "Paradise Beach "
+  },
+  "FAPY": {
+    "lat": -26.8892993927,
+    "long": 27.5034008026,
+    "name": "Parys "
+  },
+  "FAPZ": {
+    "lat": -33.9300003052,
+    "long": 25.3700008392,
+    "name": "Progress "
+  },
+  "FAQF": {
+    "lat": -25.847700119,
+    "long": 23.5373001099,
+    "name": "Pomfret "
+  },
+  "FAQR": {
+    "lat": -24.2333335876,
+    "long": 28.9833335876,
+    "name": "Potgietersrus "
+  },
+  "FAQT": {
+    "lat": -31.9202003479,
+    "long": 26.8822002411,
+    "name": "Queenstown "
+  },
+  "FARA": {
+    "lat": -26.0816669464,
+    "long": 28.3999996185,
+    "name": "Petit "
+  },
+  "FARB": {
+    "lat": -28.7409992218,
+    "long": 32.0920982361,
+    "name": "Richards Bay "
+  },
+  "FARD": {
+    "lat": -34.1116981506,
+    "long": 21.2628002167,
+    "name": "Riversdale "
+  },
+  "FARG": {
+    "lat": -25.6443004608,
+    "long": 27.2710990906,
+    "name": "Rustenburg "
+  },
+  "FARI": {
+    "lat": -27.5471992493,
+    "long": 24.1725006104,
+    "name": "Reivilo "
+  },
+  "FARM": {
+    "lat": -31.423500061,
+    "long": 23.9782009125,
+    "name": "Richmond "
+  },
+  "FARO": {
+    "lat": -24.7666664124,
+    "long": 27.75,
+    "name": "Rooiberg "
+  },
+  "FARS": {
+    "lat": -33.8121986389,
+    "long": 19.9027996063,
+    "name": "Robertson "
+  },
+  "FARZ": {
+    "lat": -22.7842006683,
+    "long": 28.4302997589,
+    "name": "Reitz "
+  },
+  "FASA": {
+    "lat": -29.6571998596,
+    "long": 29.4477005005,
+    "name": "Sani Pass "
+  },
+  "FASB": {
+    "lat": -29.6893005371,
+    "long": 17.9395999908,
+    "name": "Springbok "
+  },
+  "FASC": {
+    "lat": -26.52409935,
+    "long": 29.1700992584,
+    "name": "Secunda "
+  },
+  "FASD": {
+    "lat": -32.964099884,
+    "long": 17.9692993164,
+    "name": "Saldanha /Vredenburg "
+  },
+  "FASE": {
+    "lat": -24.9414997101,
+    "long": 31.4445991516,
+    "name": "Sabi Sabi "
+  },
+  "FASG": {
+    "lat": -27.1630992889,
+    "long": 25.2861003876,
+    "name": "Schweizer Reneke "
+  },
+  "FASH": {
+    "lat": -33.9799995422,
+    "long": 18.8199996948,
+    "name": "Stellenbosch "
+  },
+  "FASI": {
+    "lat": -26.2483997345,
+    "long": 28.3974990845,
+    "name": "Springs Airfield"
+  },
+  "FASJ": {
+    "lat": -26.7600002289,
+    "long": 27.7600002289,
+    "name": "Saffier "
+  },
+  "FASK": {
+    "lat": -25.8097000122,
+    "long": 28.1646003723,
+    "name": "Swartkop Air Force Base"
+  },
+  "FASL": {
+    "lat": -32.4882011414,
+    "long": 20.6970996857,
+    "name": "Sutherland "
+  },
+  "FASM": {
+    "lat": -29.3250007629,
+    "long": 30.1492004395,
+    "name": "Siteka "
+  },
+  "FASN": {
+    "lat": -28.3122005463,
+    "long": 27.6460990906,
+    "name": "Senekal "
+  },
+  "FASR": {
+    "lat": -26.9270000458,
+    "long": 29.2099990845,
+    "name": "Standerton "
+  },
+  "FASS": {
+    "lat": -27.6485996246,
+    "long": 22.9993000031,
+    "name": "Sishen "
+  },
+  "FAST": {
+    "lat": -32.7501983643,
+    "long": 25.5949993134,
+    "name": "Somerset East "
+  },
+  "FASU": {
+    "lat": -25.9568996429,
+    "long": 29.2117004395,
+    "name": "Sace "
+  },
+  "FASW": {
+    "lat": -25.8155994415,
+    "long": 25.8864002228,
+    "name": "Slurry "
+  },
+  "FASX": {
+    "lat": -34.0481987,
+    "long": 20.4745998383,
+    "name": "Hendrik Swellengrebel "
+  },
+  "FASY": {
+    "lat": -26.349199295,
+    "long": 27.7793998718,
+    "name": "Syferfontein "
+  },
+  "FASZ": {
+    "lat": -24.960899353,
+    "long": 31.5886993408,
+    "name": "Skukuza "
+  },
+  "FATA": {
+    "lat": -26.3519992828,
+    "long": 27.9689998627,
+    "name": "Tedderfield Air Park"
+  },
+  "FATB": {
+    "lat": -24.4147224426,
+    "long": 31.1650009155,
+    "name": "Thorny Bush Game Lodge "
+  },
+  "FATD": {
+    "lat": -24.5335998535,
+    "long": 31.2999992371,
+    "name": "Tanda Tula "
+  },
+  "FATF": {
+    "lat": -28.2600002289,
+    "long": 22.9932003021,
+    "name": "Tommys Field "
+  },
+  "FATH": {
+    "lat": -23.0769004822,
+    "long": 30.383600235,
+    "name": "Thohoyandou "
+  },
+  "FATI": {
+    "lat": -24.5760850299,
+    "long": 27.4196863174,
+    "name": "Thabazimbi "
+  },
+  "FATK": {
+    "lat": -34.0847015381,
+    "long": 24.2896995544,
+    "name": "Tsitsikama Fly "
+  },
+  "FATM": {
+    "lat": -32.5666656494,
+    "long": 27.4500007629,
+    "name": "Stutterheim "
+  },
+  "FATN": {
+    "lat": -29.3178005219,
+    "long": 26.8227996826,
+    "name": "Thaba Nchu Tar "
+  },
+  "FATP": {
+    "lat": -29.0328998566,
+    "long": 26.1576004028,
+    "name": "New Tempe "
+  },
+  "FATR": {
+    "lat": -32.6385993958,
+    "long": 28.4242992401,
+    "name": "Trennery's "
+  },
+  "FATT": {
+    "lat": -26.776599884,
+    "long": 29.3388004303,
+    "name": "Tutuka Power Station "
+  },
+  "FATW": {
+    "lat": -27.2049999237,
+    "long": 22.4818992615,
+    "name": "Witberg Tswalu "
+  },
+  "FATZ": {
+    "lat": -23.8243999481,
+    "long": 30.3292999268,
+    "name": "Tzaneen "
+  },
+  "FAUB": {
+    "lat": -29.78840065,
+    "long": 29.4983005524,
+    "name": "Underberg "
+  },
+  "FAUC": {
+    "lat": -28.3544998169,
+    "long": 24.2290992737,
+    "name": "Ulco "
+  },
+  "FAUG": {
+    "lat": -31.2199993134,
+    "long": 28.2099990845,
+    "name": "Ugie "
+  },
+  "FAUH": {
+    "lat": -33.7853012085,
+    "long": 25.3833007813,
+    "name": "Uitenhage "
+  },
+  "FAUL": {
+    "lat": -28.3206005096,
+    "long": 31.4165000916,
+    "name": "Prince Mangosuthu Buthelezi "
+  },
+  "FAUP": {
+    "lat": -28.39909935,
+    "long": 21.2602005005,
+    "name": "Pierre Van Ryneveld "
+  },
+  "FAUR": {
+    "lat": -27.6805000305,
+    "long": 30.3167991638,
+    "name": "Utrecht "
+  },
+  "FAUS": {
+    "lat": -24.7854003906,
+    "long": 31.3549003601,
+    "name": "Ulusaba "
+  },
+  "FAUT": {
+    "lat": -31.5478992462,
+    "long": 28.6742992401,
+    "name": "K. D. Matanzima "
+  },
+  "FAVA": {
+    "lat": -30.1341991425,
+    "long": 18.5266990662,
+    "name": "Vaalputs "
+  },
+  "FAVB": {
+    "lat": -26.9824008942,
+    "long": 24.7287998199,
+    "name": "Vryburg "
+  },
+  "FAVD": {
+    "lat": -27.4402999878,
+    "long": 29.1530990601,
+    "name": "Vrede "
+  },
+  "FAVE": {
+    "lat": -26.3008995056,
+    "long": 26.8141994476,
+    "name": "Ventersdorp "
+  },
+  "FAVF": {
+    "lat": -31.1658000946,
+    "long": 23.8094005585,
+    "name": "Verborgenfontei "
+  },
+  "FAVG": {
+    "lat": -29.7705993652,
+    "long": 31.0583992004,
+    "name": "Virginia "
+  },
+  "FAVI": {
+    "lat": -27.6105995178,
+    "long": 26.6835002899,
+    "name": "Von Abo's Villa "
+  },
+  "FAVM": {
+    "lat": -22.4480991364,
+    "long": 29.3376998901,
+    "name": "Venetia "
+  },
+  "FAVP": {
+    "lat": -26.6902999878,
+    "long": 27.7770996094,
+    "name": "Vanderbijlpark "
+  },
+  "FAVR": {
+    "lat": -31.6410007477,
+    "long": 18.5447998047,
+    "name": "Vredendal "
+  },
+  "FAVS": {
+    "lat": -27.8413887024,
+    "long": 21.6341667175,
+    "name": "Vastrap "
+  },
+  "FAVU": {
+    "lat": -27.3768997192,
+    "long": 29.8600006104,
+    "name": "Volksrust "
+  },
+  "FAVV": {
+    "lat": -26.566400528,
+    "long": 27.9608001709,
+    "name": "Vereeniging "
+  },
+  "FAVW": {
+    "lat": -31.3994007111,
+    "long": 23.1564006805,
+    "name": "Victoria West "
+  },
+  "FAVY": {
+    "lat": -27.7868995667,
+    "long": 30.7964000702,
+    "name": "Vryheid "
+  },
+  "FAWA": {
+    "lat": -24.9099998474,
+    "long": 28.2999992371,
+    "name": "Warmbaths "
+  },
+  "FAWB": {
+    "lat": -25.6539001465,
+    "long": 28.224199295,
+    "name": "Wonderboom "
+  },
+  "FAWC": {
+    "lat": -33.6631011963,
+    "long": 19.4153003693,
+    "name": "Worcester Glider "
+  },
+  "FAWD": {
+    "lat": -27.1700000763,
+    "long": 25.9799995422,
+    "name": "Wolmeransstad "
+  },
+  "FAWI": {
+    "lat": -25.8323001862,
+    "long": 29.1919994354,
+    "name": "Witbank "
+  },
+  "FAWK": {
+    "lat": -25.8299999237,
+    "long": 28.2224998474,
+    "name": "Waterkloof Air Force Base"
+  },
+  "FAWL": {
+    "lat": -31.383600235,
+    "long": 20.932800293,
+    "name": "Williston "
+  },
+  "FAWM": {
+    "lat": -27.9979991913,
+    "long": 26.6695995331,
+    "name": "Welkom "
+  },
+  "FAWN": {
+    "lat": -28.5,
+    "long": 27.0166664124,
+    "name": "Winburg "
+  },
+  "FAWO": {
+    "lat": -33.2633018494,
+    "long": 23.4906005859,
+    "name": "Willowmore "
+  },
+  "FAWP": {
+    "lat": -29.7423992157,
+    "long": 27.022600174,
+    "name": "Wepener "
+  },
+  "FAWR": {
+    "lat": -32.5896987915,
+    "long": 28.5191993713,
+    "name": "Wavecrest "
+  },
+  "FAWS": {
+    "lat": -27.8467006683,
+    "long": 26.3505992889,
+    "name": "Wesselbronn Af "
+  },
+  "FAWT": {
+    "lat": -24.665,
+    "long": 30.18528,
+    "name": "Winterveldt Mine "
+  },
+  "FAYP": {
+    "lat": -33.9001998901,
+    "long": 18.4983005524,
+    "name": "Ysterplaat Air Force Base"
+  },
+  "FAZA": {
+    "lat": -30.2999992371,
+    "long": 27.1170005798,
+    "name": "Zastron "
+  },
+  "FAZP": {
+    "lat": -32.4719009399,
+    "long": 28.6527996063,
+    "name": "Mazeppa Bay "
+  },
+  "FAZQ": {
+    "lat": -26.8931007385,
+    "long": 27.6900005341,
+    "name": "Star "
+  },
+  "FAZR": {
+    "lat": -25.5990009308,
+    "long": 26.0422992706,
+    "name": "Zeerust "
+  }
+}

@@ -1,0 +1,3128 @@
+{
+    "00CA": {
+        "lat": 35.3504981995,
+        "long": -116.888000488,
+        "name": "Goldstone /Gts/ ",
+        "state": "California"
+    },
+    "01CL": {
+        "lat": 38.7999000549,
+        "long": -120.7340011597,
+        "name": "Swansboro Country ",
+        "state": "California"
+    },
+    "02CL": {
+        "lat": 34.761100769,
+        "long": -119.0589981079,
+        "name": "Conover Air Lodge ",
+        "state": "California"
+    },
+    "04CA": {
+        "lat": 34.5638999939,
+        "long": -117.6750030518,
+        "name": "Gray Butte Field",
+        "state": "California"
+    },
+    "04CL": {
+        "lat": 33.0816993713,
+        "long": -116.4410018921,
+        "name": "Hunt's Sky Ranch ",
+        "state": "California"
+    },
+    "04NV": {
+        "lat": 35.7555007935,
+        "long": -115.665000916,
+        "name": "Kingston Ranch ",
+        "state": "California"
+    },
+    "05CL": {
+        "lat": 38.6106987,
+        "long": -122.39099884,
+        "name": "Pope Valley ",
+        "state": "California"
+    },
+    "07CL": {
+        "lat": 39.4976997375,
+        "long": -121.7710037231,
+        "name": "Richvale ",
+        "state": "California"
+    },
+    "08CL": {
+        "lat": 37.8596000671,
+        "long": -120.5540008545,
+        "name": "Kistler Ranch ",
+        "state": "California"
+    },
+    "09CL": {
+        "lat": 39.1138000488,
+        "long": -121.0569992065,
+        "name": "Alta Sierra ",
+        "state": "California"
+    },
+    "0CA1": {
+        "lat": 34.9883003235,
+        "long": -120.4580001831,
+        "name": "Northside Airpark",
+        "state": "California"
+    },
+    "0CA3": {
+        "lat": 34.5875015259,
+        "long": -120.0130004883,
+        "name": "Crawford ",
+        "state": "California"
+    },
+    "0CA4": {
+        "lat": 34.6222000122,
+        "long": -120.0650024414,
+        "name": "Shepherd Ranch ",
+        "state": "California"
+    },
+    "0CA5": {
+        "lat": 33.1431007385,
+        "long": -116.7450027466,
+        "name": "Hoffman Private ",
+        "state": "California"
+    },
+    "0CA6": {
+        "lat": 32.7494444,
+        "long": -116.0161111,
+        "name": "Emory Ranch ",
+        "state": "California"
+    },
+    "0CA8": {
+        "lat": 33.4277992249,
+        "long": -116.843002319,
+        "name": "Ward Ranch ",
+        "state": "California"
+    },
+    "0CA9": {
+        "lat": 35.5950012207,
+        "long": -120.338996887,
+        "name": "Blech Ranch ",
+        "state": "California"
+    },
+    "0CL0": {
+        "lat": 37.1180000305,
+        "long": -119.913002014,
+        "name": "Yosemite Hidden Lake Ranch ",
+        "state": "California"
+    },
+    "0CL1": {
+        "lat": 34.5694007874,
+        "long": -117.555999756,
+        "name": "Krey Field ",
+        "state": "California"
+    },
+    "0CL3": {
+        "lat": 32.6330986023,
+        "long": -116.892997742,
+        "name": "John Nichol's Field ",
+        "state": "California"
+    },
+    "0CL6": {
+        "lat": 34.6946983337,
+        "long": -118.282997131,
+        "name": "Bohunk's Airpark",
+        "state": "California"
+    },
+    "0CL8": {
+        "lat": 35.5913009644,
+        "long": -117.634002686,
+        "name": "Tera Ultralightport",
+        "state": "California"
+    },
+    "10CL": {
+        "lat": 35.3680000305,
+        "long": -119.1949996948,
+        "name": "Joe Gottlieb Field",
+        "state": "California"
+    },
+    "11CA": {
+        "lat": 36.6733016968,
+        "long": -119.7220001221,
+        "name": "Turner Field",
+        "state": "California"
+    },
+    "11CL": {
+        "lat": 34.6300010681,
+        "long": -117.6529998779,
+        "name": "Hansen ",
+        "state": "California"
+    },
+    "12CA": {
+        "lat": 38.1096000671,
+        "long": -121.1689987183,
+        "name": "Faber Vineyards ",
+        "state": "California"
+    },
+    "12CL": {
+        "lat": 36.1568984985,
+        "long": -119.8499984741,
+        "name": "Newton Field",
+        "state": "California"
+    },
+    "13CL": {
+        "lat": 38.3813018799,
+        "long": -121.8239974976,
+        "name": "Maine Prairie ",
+        "state": "California"
+    },
+    "15CL": {
+        "lat": 37.3427009583,
+        "long": -120.4039993286,
+        "name": "Hunt Farms ",
+        "state": "California"
+    },
+    "17CL": {
+        "lat": 37.0880012512,
+        "long": -122.274002075,
+        "name": "Las Trancas ",
+        "state": "California"
+    },
+    "18CL": {
+        "lat": 39.2859992981,
+        "long": -121.6940002441,
+        "name": "Bowles ",
+        "state": "California"
+    },
+    "19CL": {
+        "lat": 34.7122001648,
+        "long": -117.3509979248,
+        "name": "Palisades Ranch ",
+        "state": "California"
+    },
+    "1CA1": {
+        "lat": 35.4679985046,
+        "long": -119.7220001221,
+        "name": "Belridge Strip",
+        "state": "California"
+    },
+    "1CA4": {
+        "lat": 33.8694992065,
+        "long": -114.5270004272,
+        "name": "Aha-Quin ",
+        "state": "California"
+    },
+    "1CA6": {
+        "lat": 32.7650985718,
+        "long": -116.7229995728,
+        "name": "On the Rocks ",
+        "state": "California"
+    },
+    "1CL1": {
+        "lat": 34.7941017151,
+        "long": -118.2779998779,
+        "name": "Little Buttes Antique Airfield",
+        "state": "California"
+    },
+    "1CL2": {
+        "lat": 34.9425010681,
+        "long": -118.1699981689,
+        "name": "Pontious ",
+        "state": "California"
+    },
+    "20CL": {
+        "lat": 38.7492980957,
+        "long": -122.3669967651,
+        "name": "Mysterious Valley ",
+        "state": "California"
+    },
+    "22CL": {
+        "lat": 39.2999000549,
+        "long": -121.3590011597,
+        "name": "Double Tree Farm ",
+        "state": "California"
+    },
+    "23CA": {
+        "lat": 41.6249008179,
+        "long": -122.7649993896,
+        "name": "Lefko ",
+        "state": "California"
+    },
+    "23CN": {
+        "lat": 32.788898468,
+        "long": -115.5299987793,
+        "name": "Douthitt Strip",
+        "state": "California"
+    },
+    "24CL": {
+        "lat": 36.0887985229,
+        "long": -119.5429992676,
+        "name": "Salyer Farms ",
+        "state": "California"
+    },
+    "25CA": {
+        "lat": 33.1791992188,
+        "long": -116.7929992676,
+        "name": "Loma Madera Ranch ",
+        "state": "California"
+    },
+    "25CL": {
+        "lat": 38.8666000366,
+        "long": -121.4840011597,
+        "name": "Van Dyke Strip",
+        "state": "California"
+    },
+    "26CA": {
+        "lat": 38.4268989563,
+        "long": -121.1719970703,
+        "name": "Boeckmann Ranch ",
+        "state": "California"
+    },
+    "27CA": {
+        "lat": 34.5611000061,
+        "long": -117.0810012817,
+        "name": "Holiday Ranch ",
+        "state": "California"
+    },
+    "27CL": {
+        "lat": 38.7471008301,
+        "long": -121.5729980469,
+        "name": "Sopwith Farm ",
+        "state": "California"
+    },
+    "28CA": {
+        "lat": 36.9623985291,
+        "long": -120.6299972534,
+        "name": "Dos Palos ",
+        "state": "California"
+    },
+    "29CN": {
+        "lat": 38.849899292,
+        "long": -120.8339996338,
+        "name": "Dubey ",
+        "state": "California"
+    },
+    "2CA2": {
+        "lat": 34.1627998352,
+        "long": -116.047996521,
+        "name": "Cones Field",
+        "state": "California"
+    },
+    "2CA3": {
+        "lat": 34.1599998474,
+        "long": -115.9970016479,
+        "name": "Crosswinds ",
+        "state": "California"
+    },
+    "2CA4": {
+        "lat": 33.2588996887,
+        "long": -117.0920028687,
+        "name": "Blackinton ",
+        "state": "California"
+    },
+    "2CA8": {
+        "lat": 34.4206008911,
+        "long": -116.611000061,
+        "name": "B & E Ranch ",
+        "state": "California"
+    },
+    "2CL2": {
+        "lat": 39.0110015869,
+        "long": -122.097999573,
+        "name": "Mc Cabe Ranch ",
+        "state": "California"
+    },
+    "2CL3": {
+        "lat": 41.6421012878,
+        "long": -121.8899993896,
+        "name": "Longbell Ranch ",
+        "state": "California"
+    },
+    "2CL9": {
+        "lat": 38.334400177,
+        "long": -121.3040008545,
+        "name": "Mustang ",
+        "state": "California"
+    },
+    "2CN3": {
+        "lat": 33.511111,
+        "long": -117.328611,
+        "name": "Tenaja Valley ",
+        "state": "California"
+    },
+    "2CN4": {
+        "lat": 35.6663888889,
+        "long": -119.896388889,
+        "name": "Paramount Farms ",
+        "state": "California"
+    },
+    "2CN8": {
+        "lat": 34.304167,
+        "long": -117.151389,
+        "name": "Lake Arrowhead ",
+        "state": "California"
+    },
+    "32CA": {
+        "lat": 36.3333015442,
+        "long": -119.8249969482,
+        "name": "Stone Airstrip",
+        "state": "California"
+    },
+    "32CL": {
+        "lat": 38.8331985474,
+        "long": -121.7180023193,
+        "name": "Bob's Flying Service Inc ",
+        "state": "California"
+    },
+    "33CA": {
+        "lat": 34.9054985046,
+        "long": -118.3020019531,
+        "name": "Lloyd's Landing ",
+        "state": "California"
+    },
+    "33CL": {
+        "lat": 35.5682983398,
+        "long": -120.7969970703,
+        "name": "Oak Country Ranch ",
+        "state": "California"
+    },
+    "34CN": {
+        "lat": 37.5234985352,
+        "long": -120.3980026245,
+        "name": "Bonanza Hills ",
+        "state": "California"
+    },
+    "35CL": {
+        "lat": 37.2318992615,
+        "long": -120.4789962769,
+        "name": "Flying M Ranch ",
+        "state": "California"
+    },
+    "35CN": {
+        "lat": 39.099899292,
+        "long": -121.9339981079,
+        "name": "Farnsworth Ranch Airstrip",
+        "state": "California"
+    },
+    "36CA": {
+        "lat": 36.1319007874,
+        "long": -119.986000061,
+        "name": "Stone Land County ",
+        "state": "California"
+    },
+    "36CN": {
+        "lat": 35.6363983154,
+        "long": -120.0090026855,
+        "name": "Blackwell Land Company Inc ",
+        "state": "California"
+    },
+    "37CA": {
+        "lat": 33.5069999695,
+        "long": -117.0709991455,
+        "name": "Billy Joe ",
+        "state": "California"
+    },
+    "37CL": {
+        "lat": 33.3245010376,
+        "long": -116.9899978638,
+        "name": "Lyall-Roberts ",
+        "state": "California"
+    },
+    "37CN": {
+        "lat": 36.9143981934,
+        "long": -119.7860031128,
+        "name": "Arnold Ranch ",
+        "state": "California"
+    },
+    "38CA": {
+        "lat": 35.6916007996,
+        "long": -119.4889984131,
+        "name": "Cashen ",
+        "state": "California"
+    },
+    "38CL": {
+        "lat": 38.7541007996,
+        "long": -121.56300354,
+        "name": "Riego Flight Strip",
+        "state": "California"
+    },
+    "38CN": {
+        "lat": 39.1092987061,
+        "long": -121.8840026855,
+        "name": "Sanborn ",
+        "state": "California"
+    },
+    "3CA3": {
+        "lat": 34.9221992493,
+        "long": -119.5260009766,
+        "name": "Dixon ",
+        "state": "California"
+    },
+    "3CA5": {
+        "lat": 36.9416007996,
+        "long": -120.2429962158,
+        "name": "Haws ",
+        "state": "California"
+    },
+    "3CA7": {
+        "lat": 36.3283004761,
+        "long": -121.18699646,
+        "name": "Metz ",
+        "state": "California"
+    },
+    "3CA9": {
+        "lat": 36.3633003235,
+        "long": -121.3099975586,
+        "name": "Clark Ranch ",
+        "state": "California"
+    },
+    "3CL2": {
+        "lat": 40.1563987732,
+        "long": -122.3020019531,
+        "name": "Meadow Airstrip",
+        "state": "California"
+    },
+    "41CA": {
+        "lat": 40.3176002502,
+        "long": -123.2539978027,
+        "name": "Silver Creek Ranch ",
+        "state": "California"
+    },
+    "42CN": {
+        "lat": 36.7090988159,
+        "long": -119.4049987793,
+        "name": "Peg Field",
+        "state": "California"
+    },
+    "43CA": {
+        "lat": 34.8819007874,
+        "long": -115.733001709,
+        "name": "Dick Taylor Airstrip",
+        "state": "California"
+    },
+    "43CL": {
+        "lat": 34.2061004639,
+        "long": -115.9980010986,
+        "name": "Dick Dale Skyranch ",
+        "state": "California"
+    },
+    "43CN": {
+        "lat": 38.1851997375,
+        "long": -122.6019973755,
+        "name": "Mazza ",
+        "state": "California"
+    },
+    "44CA": {
+        "lat": 33.6791992188,
+        "long": -114.6439971924,
+        "name": "W R Byron ",
+        "state": "California"
+    },
+    "44CL": {
+        "lat": 38.0138015747,
+        "long": -121.1259994507,
+        "name": "Cortopassi ",
+        "state": "California"
+    },
+    "45CL": {
+        "lat": 40.1431999207,
+        "long": -123.3980026245,
+        "name": "Hell'er High Water ",
+        "state": "California"
+    },
+    "45CN": {
+        "lat": 37.8801994324,
+        "long": -120.1940002441,
+        "name": "Hermitage ",
+        "state": "California"
+    },
+    "46CA": {
+        "lat": 32.9709014893,
+        "long": -116.408996582,
+        "name": "Rancho Vallecito ",
+        "state": "California"
+    },
+    "46CN": {
+        "lat": 34.4846992493,
+        "long": -117.8259963989,
+        "name": "Crystal ",
+        "state": "California"
+    },
+    "48CN": {
+        "lat": 37.0572013855,
+        "long": -120.1439971924,
+        "name": "Sallaberry Ranch Strip",
+        "state": "California"
+    },
+    "49CL": {
+        "lat": 36.9054985046,
+        "long": -120.1770019531,
+        "name": "El Peco Ranch ",
+        "state": "California"
+    },
+    "49CN": {
+        "lat": 40.0159988403,
+        "long": -122.3899993896,
+        "name": "Rancho Tehama ",
+        "state": "California"
+    },
+    "4CA2": {
+        "lat": 37.9468994141,
+        "long": -121.6470031738,
+        "name": "Funny Farm ",
+        "state": "California"
+    },
+    "4CA7": {
+        "lat": 39.6707000732,
+        "long": -121.8860015869,
+        "name": "Johnsen ",
+        "state": "California"
+    },
+    "4CA8": {
+        "lat": 37.640499115,
+        "long": -121.1620025635,
+        "name": "Yandell Ranch ",
+        "state": "California"
+    },
+    "4CL3": {
+        "lat": 39.1463012695,
+        "long": -122.3539962769,
+        "name": "Antelope Valley Ranch ",
+        "state": "California"
+    },
+    "4CL4": {
+        "lat": 34.4543991089,
+        "long": -117.0260009766,
+        "name": "Rabbit Ranch ",
+        "state": "California"
+    },
+    "51CA": {
+        "lat": 34.4235992432,
+        "long": -116.6169967651,
+        "name": "Kelly ",
+        "state": "California"
+    },
+    "51CL": {
+        "lat": 38.2304992676,
+        "long": -121.2220001221,
+        "name": "Vetters Sky Ranch ",
+        "state": "California"
+    },
+    "52CA": {
+        "lat": 33.853099823,
+        "long": -117.4240036011,
+        "name": "Lake Mathews ",
+        "state": "California"
+    },
+    "52CL": {
+        "lat": 34.5374984741,
+        "long": -117.4609985352,
+        "name": "Adelanto ",
+        "state": "California"
+    },
+    "52CN": {
+        "lat": 40.3442993164,
+        "long": -121.7750015259,
+        "name": "Ponderosa Sky Ranch ",
+        "state": "California"
+    },
+    "53CL": {
+        "lat": 38.8596000671,
+        "long": -123.591003418,
+        "name": "Lofty Redwoods ",
+        "state": "California"
+    },
+    "53CN": {
+        "lat": 39.0749015808,
+        "long": -121.9179992676,
+        "name": "Thayer Aviation ",
+        "state": "California"
+    },
+    "54CL": {
+        "lat": 33.5209007263,
+        "long": -116.7969970703,
+        "name": "Lake Riverside Estates ",
+        "state": "California"
+    },
+    "54CN": {
+        "lat": 38.7541007996,
+        "long": -120.8990020752,
+        "name": "Akin ",
+        "state": "California"
+    },
+    "55CL": {
+        "lat": 35.2633018494,
+        "long": -119.0459976196,
+        "name": "Costerisan Farms ",
+        "state": "California"
+    },
+    "56CL": {
+        "lat": 33.591999054,
+        "long": -114.6060028076,
+        "name": "Cyr Aviation ",
+        "state": "California"
+    },
+    "57CL": {
+        "lat": 35.0036010742,
+        "long": -117.6070022583,
+        "name": "Boron Airstrip",
+        "state": "California"
+    },
+    "57CN": {
+        "lat": 38.4691009521,
+        "long": -121.0749969482,
+        "name": "Van Vleck ",
+        "state": "California"
+    },
+    "58CL": {
+        "lat": 33.1916999817,
+        "long": -116.2760009766,
+        "name": "Borrego Air Ranch ",
+        "state": "California"
+    },
+    "59CA": {
+        "lat": 37.8032989502,
+        "long": -122.0289993286,
+        "name": "Little Hands STOLport",
+        "state": "California"
+    },
+    "59CL": {
+        "lat": 32.9625015259,
+        "long": -115.5419998169,
+        "name": "O'Connell Brothers ",
+        "state": "California"
+    },
+    "59CN": {
+        "lat": 38.8348999023,
+        "long": -121.5299987793,
+        "name": "James Brothers ",
+        "state": "California"
+    },
+    "5CA4": {
+        "lat": 34.7532997131,
+        "long": -116.1539993286,
+        "name": "Ludlow ",
+        "state": "California"
+    },
+    "5CA7": {
+        "lat": 36.336101532,
+        "long": -120.247001648,
+        "name": "Agro-West ",
+        "state": "California"
+    },
+    "5CA8": {
+        "lat": 38.2563018799,
+        "long": -120.931999207,
+        "name": "Howard /Private/ ",
+        "state": "California"
+    },
+    "5CL0": {
+        "lat": 37.3404998779,
+        "long": -119.8619995117,
+        "name": "Grupe Ranch ",
+        "state": "California"
+    },
+    "5CL1": {
+        "lat": 35.40470123,
+        "long": -120.5250015,
+        "name": "Hart Ranch ",
+        "state": "California"
+    },
+    "5CL3": {
+        "lat": 37.6679992676,
+        "long": -121.1989974976,
+        "name": "Mapes Ranch ",
+        "state": "California"
+    },
+    "5CL7": {
+        "lat": 34.3081016541,
+        "long": -114.18699646,
+        "name": "Gene Wash Reservoir ",
+        "state": "California"
+    },
+    "5CL8": {
+        "lat": 35.1761016846,
+        "long": -118.922996521,
+        "name": "Creekside ",
+        "state": "California"
+    },
+    "5CL9": {
+        "lat": 37.1413002014,
+        "long": -119.5080032349,
+        "name": "Johnston Field",
+        "state": "California"
+    },
+    "60CL": {
+        "lat": 38.5988006592,
+        "long": -121.5609970093,
+        "name": "Chp Academy ",
+        "state": "California"
+    },
+    "61CA": {
+        "lat": 34.1747016907,
+        "long": -116.0670013428,
+        "name": "Bauer ",
+        "state": "California"
+    },
+    "61CL": {
+        "lat": 32.6734008789,
+        "long": -115.5589981079,
+        "name": "Johnson Brothers ",
+        "state": "California"
+    },
+    "62CL": {
+        "lat": 35.4071998596,
+        "long": -118.5,
+        "name": "Flying S Ranch ",
+        "state": "California"
+    },
+    "63CA": {
+        "lat": 33.481098175,
+        "long": -115.8740005493,
+        "name": "Desert Air Sky Ranch ",
+        "state": "California"
+    },
+    "63CL": {
+        "lat": 38.7165985107,
+        "long": -122.138999939,
+        "name": "G3 Ranch ",
+        "state": "California"
+    },
+    "63CN": {
+        "lat": 37.6613006592,
+        "long": -121.6940002441,
+        "name": "Meadowlark Field",
+        "state": "California"
+    },
+    "64CL": {
+        "lat": 33.8563995361,
+        "long": -118.2770004272,
+        "name": "Goodyear Blimp Base ",
+        "state": "California"
+    },
+    "64CN": {
+        "lat": 38.8166007996,
+        "long": -121.7009963989,
+        "name": "Sunrise Dusters ",
+        "state": "California"
+    },
+    "65CL": {
+        "lat": 36.5144004822,
+        "long": -119.763999939,
+        "name": "Al Divine ",
+        "state": "California"
+    },
+    "65CN": {
+        "lat": 38.3041000366,
+        "long": -121.2509994507,
+        "name": "Bottimore Ranch ",
+        "state": "California"
+    },
+    "66CA": {
+        "lat": 35.6077003479,
+        "long": -121.1100006104,
+        "name": "Rancho San Simeon ",
+        "state": "California"
+    },
+    "66CL": {
+        "lat": 36.9986000061,
+        "long": -120.4649963379,
+        "name": "Triangle T Ranch ",
+        "state": "California"
+    },
+    "67CA": {
+        "lat": 37.0727005005,
+        "long": -120.3779983521,
+        "name": "Chapman Farms ",
+        "state": "California"
+    },
+    "67CL": {
+        "lat": 39.2010002136,
+        "long": -122.0490036011,
+        "name": "Davis ",
+        "state": "California"
+    },
+    "68CA": {
+        "lat": 40.3610992432,
+        "long": -122.216003418,
+        "name": "Lake California Air Park",
+        "state": "California"
+    },
+    "68CL": {
+        "lat": 36.0457992554,
+        "long": -119.6470031738,
+        "name": "El Rico ",
+        "state": "California"
+    },
+    "68CN": {
+        "lat": 36.0222015381,
+        "long": -118.0950012207,
+        "name": "Porter Ranch ",
+        "state": "California"
+    },
+    "69CL": {
+        "lat": 38.6155014038,
+        "long": -121.7470016479,
+        "name": "Medlock Field",
+        "state": "California"
+    },
+    "6CA1": {
+        "lat": 41.7426986694,
+        "long": -121.8779983521,
+        "name": "Triple R Ranch ",
+        "state": "California"
+    },
+    "6CA5": {
+        "lat": 34.3372001648,
+        "long": -116.5800018311,
+        "name": "Valley Vista ",
+        "state": "California"
+    },
+    "6CA6": {
+        "lat": 38.3277015686,
+        "long": -120.4769973755,
+        "name": "Eagle Ridge Ranch ",
+        "state": "California"
+    },
+    "6CA7": {
+        "lat": 35.1800003052,
+        "long": -118.8550033569,
+        "name": "J&J Crop Dusters Inc ",
+        "state": "California"
+    },
+    "6CA8": {
+        "lat": 34.8563995361,
+        "long": -117.1370010376,
+        "name": "Depue ",
+        "state": "California"
+    },
+    "6CL0": {
+        "lat": 35.5261001587,
+        "long": -119.1019973755,
+        "name": "Majors ",
+        "state": "California"
+    },
+    "6CL4": {
+        "lat": 37.459400177,
+        "long": -119.7419967651,
+        "name": "Manzanita ",
+        "state": "California"
+    },
+    "6CL6": {
+        "lat": 37.1749000549,
+        "long": -119.6090011597,
+        "name": "Mark Franz Private Strip",
+        "state": "California"
+    },
+    "6CL8": {
+        "lat": 37.9508018494,
+        "long": -121.2429962158,
+        "name": "Harley ",
+        "state": "California"
+    },
+    "6CL9": {
+        "lat": 37.9216995239,
+        "long": -120.5149993896,
+        "name": "Peoria ",
+        "state": "California"
+    },
+    "70CL": {
+        "lat": 36.2957992554,
+        "long": -116.4260025024,
+        "name": "Amargosa ",
+        "state": "California"
+    },
+    "71CL": {
+        "lat": 39.3526992798,
+        "long": -122.09400177,
+        "name": "Gunnersfield Ranch ",
+        "state": "California"
+    },
+    "72CL": {
+        "lat": 34.1342010498,
+        "long": -115.1190032959,
+        "name": "Iron Mountain Pumping Plant ",
+        "state": "California"
+    },
+    "73CA": {
+        "lat": 38.4588012695,
+        "long": -120.0400009155,
+        "name": "Bear Valley STOLport",
+        "state": "California"
+    },
+    "73CL": {
+        "lat": 33.6988983154,
+        "long": -115.6370010376,
+        "name": "Julian Hinds Pump Plant Airstrip",
+        "state": "California"
+    },
+    "74CL": {
+        "lat": 35.2569007874,
+        "long": -118.8330001831,
+        "name": "Di Giorgio Ranch Landing Strip",
+        "state": "California"
+    },
+    "75CL": {
+        "lat": 37.0654983521,
+        "long": -120.5670013428,
+        "name": "Willis Ranch ",
+        "state": "California"
+    },
+    "76CL": {
+        "lat": 37.0887985229,
+        "long": -120.5009994507,
+        "name": "Emmett Field",
+        "state": "California"
+    },
+    "77CA": {
+        "lat": 37.1208000183,
+        "long": -119.9879989624,
+        "name": "Daulton ",
+        "state": "California"
+    },
+    "77CL": {
+        "lat": 36.7177009583,
+        "long": -119.1370010376,
+        "name": "Baker & Hall ",
+        "state": "California"
+    },
+    "79CL": {
+        "lat": 39.3249015808,
+        "long": -121.0759963989,
+        "name": "Milhous Ranch ",
+        "state": "California"
+    },
+    "7CA1": {
+        "lat": 34.4146995544,
+        "long": -116.6230010986,
+        "name": "Abraham Ranch ",
+        "state": "California"
+    },
+    "7CA2": {
+        "lat": 35.176700592,
+        "long": -118.9270019531,
+        "name": "Paradise Lakes ",
+        "state": "California"
+    },
+    "7CA6": {
+        "lat": 36.3387985229,
+        "long": -120.1100006104,
+        "name": "West Side Field Station ",
+        "state": "California"
+    },
+    "7CL0": {
+        "lat": 36.7036018372,
+        "long": -120.1350021362,
+        "name": "Du Bois Ranch ",
+        "state": "California"
+    },
+    "7CL9": {
+        "lat": 38.6963005066,
+        "long": -120.7310028076,
+        "name": "Perryman ",
+        "state": "California"
+    },
+    "80CA": {
+        "lat": 38.817401886,
+        "long": -120.9219970703,
+        "name": "Bacchi Valley Industries ",
+        "state": "California"
+    },
+    "81CA": {
+        "lat": 38.7316017151,
+        "long": -122.56300354,
+        "name": "7-M Ranch ",
+        "state": "California"
+    },
+    "82CL": {
+        "lat": 39.4743003845,
+        "long": -123.79599762,
+        "name": "Fort Bragg ",
+        "state": "California"
+    },
+    "86CL": {
+        "lat": 33.5971984863,
+        "long": -116.8830032349,
+        "name": "Ernst Field",
+        "state": "California"
+    },
+    "87CA": {
+        "lat": 36.3998985291,
+        "long": -119.6179962158,
+        "name": "Swanson Ranch Nr 1 ",
+        "state": "California"
+    },
+    "89CA": {
+        "lat": 36.4665985107,
+        "long": -119.8840026855,
+        "name": "Swanson Ranch Nr 2 ",
+        "state": "California"
+    },
+    "8CA0": {
+        "lat": 34.5839004517,
+        "long": -117.266998291,
+        "name": "Osborne ",
+        "state": "California"
+    },
+    "8CA5": {
+        "lat": 33.6455993652,
+        "long": -117.1100006104,
+        "name": "Pines Airpark",
+        "state": "California"
+    },
+    "8CA8": {
+        "lat": 38.067401886,
+        "long": -121.2080001831,
+        "name": "Wallom Field",
+        "state": "California"
+    },
+    "8CL0": {
+        "lat": 34.5889015198,
+        "long": -117.8259963989,
+        "name": "Nichols Farms ",
+        "state": "California"
+    },
+    "8CL1": {
+        "lat": 33.1753473206,
+        "long": -117.002334595,
+        "name": "Lake Wohlford Resort ",
+        "state": "California"
+    },
+    "8CL2": {
+        "lat": 38.423500061,
+        "long": -121.2269973755,
+        "name": "Lucchetti Ranch ",
+        "state": "California"
+    },
+    "8CL6": {
+        "lat": 39.2885017395,
+        "long": -122.1890029907,
+        "name": "Moller ",
+        "state": "California"
+    },
+    "8CL9": {
+        "lat": 36.7123985291,
+        "long": -120.0299987793,
+        "name": "Bland Field",
+        "state": "California"
+    },
+    "90CA": {
+        "lat": 38.0035018921,
+        "long": -121.1190032959,
+        "name": "Fowler's ",
+        "state": "California"
+    },
+    "90CL": {
+        "lat": 39.572101593,
+        "long": -122.6090011597,
+        "name": "Diamond M Ranch ",
+        "state": "California"
+    },
+    "91CL": {
+        "lat": 35.9898986816,
+        "long": -118.0800018311,
+        "name": "Sacatar Meadows ",
+        "state": "California"
+    },
+    "92CA": {
+        "lat": 36.1208000183,
+        "long": -119.8880004883,
+        "name": "Westlake Farms ",
+        "state": "California"
+    },
+    "92CL": {
+        "lat": 39.1031990051,
+        "long": -121.8499984741,
+        "name": "Moronis ",
+        "state": "California"
+    },
+    "95CA": {
+        "lat": 35.6691017151,
+        "long": -120.5490036011,
+        "name": "Bonel ",
+        "state": "California"
+    },
+    "97CA": {
+        "lat": 34.9891014099,
+        "long": -118.9150009155,
+        "name": "Tejon Agricultural ",
+        "state": "California"
+    },
+    "97CL": {
+        "lat": 39.4602012634,
+        "long": -121.5810012817,
+        "name": "Siller Bros Inc ",
+        "state": "California"
+    },
+    "98CL": {
+        "lat": 39.5789985657,
+        "long": -122.2009963989,
+        "name": "Noltas ",
+        "state": "California"
+    },
+    "99CL": {
+        "lat": 34.625,
+        "long": -117.6050033569,
+        "name": "El Mirage Field Adelanto ",
+        "state": "California"
+    },
+    "9CA0": {
+        "lat": 35.113899231,
+        "long": -118.5979995728,
+        "name": "Psk Ranch ",
+        "state": "California"
+    },
+    "9CA7": {
+        "lat": 36.76720047,
+        "long": -119.4359970093,
+        "name": "Harris River Ranch ",
+        "state": "California"
+    },
+    "9CL0": {
+        "lat": 37.4707984924,
+        "long": -120.84400177,
+        "name": "Turlock Airpark",
+        "state": "California"
+    },
+    "9CL1": {
+        "lat": 37.1911010742,
+        "long": -120.2760009766,
+        "name": "Johnson Ranch ",
+        "state": "California"
+    },
+    "9CL2": {
+        "lat": 36.8716011047,
+        "long": -121.3369979858,
+        "name": "Christensen Ranch ",
+        "state": "California"
+    },
+    "9CL3": {
+        "lat": 41.2402000427,
+        "long": -120.5260009766,
+        "name": "Likely ",
+        "state": "California"
+    },
+    "9CL4": {
+        "lat": 35.2832984924,
+        "long": -115.1920013428,
+        "name": "Hart Mine ",
+        "state": "California"
+    },
+    "9CL5": {
+        "lat": 36.2751998901,
+        "long": -119.6409988403,
+        "name": "Blair Strip",
+        "state": "California"
+    },
+    "9CL7": {
+        "lat": 39.3249015808,
+        "long": -121.3590011597,
+        "name": "Old Aerodrome",
+        "state": "California"
+    },
+    "9CL9": {
+        "lat": 38.2165985107,
+        "long": -121.533996582,
+        "name": "Spezia ",
+        "state": "California"
+    },
+    "CA02": {
+        "lat": 37.46849823,
+        "long": -121.1689987183,
+        "name": "Patterson ",
+        "state": "California"
+    },
+    "CA03": {
+        "lat": 37.349899292,
+        "long": -120.2939987183,
+        "name": "John Myers ",
+        "state": "California"
+    },
+    "CA04": {
+        "lat": 40.3462982178,
+        "long": -122.3389968872,
+        "name": "Flying N Ranch ",
+        "state": "California"
+    },
+    "CA05": {
+        "lat": 36.1601982117,
+        "long": -119.81300354,
+        "name": "Machado Dusters ",
+        "state": "California"
+    },
+    "CA06": {
+        "lat": 41.4178009033,
+        "long": -120.5690002441,
+        "name": "Bates Field",
+        "state": "California"
+    },
+    "CA07": {
+        "lat": 38.8401985168,
+        "long": -121.56199646,
+        "name": "Scheidel Ranch ",
+        "state": "California"
+    },
+    "CA09": {
+        "lat": 41.8861999512,
+        "long": -122.84400177,
+        "name": "Round Mountain ",
+        "state": "California"
+    },
+    "CA10": {
+        "lat": 41.617099762,
+        "long": -122.3190002441,
+        "name": "Coonrod Ranch ",
+        "state": "California"
+    },
+    "CA11": {
+        "lat": 41.2732009888,
+        "long": -122.122001648,
+        "name": "Mc Cloud Airstrip",
+        "state": "California"
+    },
+    "CA13": {
+        "lat": 36.6068992615,
+        "long": -119.4629974365,
+        "name": "Kings River Community College ",
+        "state": "California"
+    },
+    "CA16": {
+        "lat": 38.7290992737,
+        "long": -121.388999939,
+        "name": "Holtsmans ",
+        "state": "California"
+    },
+    "CA17": {
+        "lat": 37.7234992981,
+        "long": -120.8899993896,
+        "name": "Peterson ",
+        "state": "California"
+    },
+    "CA18": {
+        "lat": 38.8721008301,
+        "long": -121.7099990845,
+        "name": "Wagner Aviation ",
+        "state": "California"
+    },
+    "CA19": {
+        "lat": 38.2638015747,
+        "long": -120.922996521,
+        "name": "Camanche Skypark ",
+        "state": "California"
+    },
+    "CA20": {
+        "lat": 38.4305000305,
+        "long": -121.01499939,
+        "name": "Eagle's Nest ",
+        "state": "California"
+    },
+    "CA21": {
+        "lat": 39.2206993103,
+        "long": -121.2149963379,
+        "name": "Limberlost Ranch ",
+        "state": "California"
+    },
+    "CA22": {
+        "lat": 38.7593002319,
+        "long": -121.5849990845,
+        "name": "Lauppes Strip",
+        "state": "California"
+    },
+    "CA32": {
+        "lat": 36.5833015442,
+        "long": -120.2509994507,
+        "name": "San Joaquin ",
+        "state": "California"
+    },
+    "CA35": {
+        "lat": 38.0168991089,
+        "long": -122.5210037231,
+        "name": "San Rafael ",
+        "state": "California"
+    },
+    "CA38": {
+        "lat": 39.6512985229,
+        "long": -120.4390029907,
+        "name": "Totem Pole Ranch ",
+        "state": "California"
+    },
+    "CA39": {
+        "lat": 38.4346008301,
+        "long": -122.5640029907,
+        "name": "Graywood Ranch ",
+        "state": "California"
+    },
+    "CA40": {
+        "lat": 36.5213012695,
+        "long": -119.6699981689,
+        "name": "Central Valley Aviation Inc ",
+        "state": "California"
+    },
+    "CA41": {
+        "lat": 36.5833015442,
+        "long": -119.6399993896,
+        "name": "Quinn ",
+        "state": "California"
+    },
+    "CA42": {
+        "lat": 33.6436004639,
+        "long": -117.429000854,
+        "name": "Mc Conville Airstrip",
+        "state": "California"
+    },
+    "CA44": {
+        "lat": 36.1498985291,
+        "long": -118.8020019531,
+        "name": "Sequoia Ranch ",
+        "state": "California"
+    },
+    "CA45": {
+        "lat": 37.3249015808,
+        "long": -120.8679962158,
+        "name": "Stevinson Strip",
+        "state": "California"
+    },
+    "CA49": {
+        "lat": 36.2041015625,
+        "long": -119.841003418,
+        "name": "Jones Farms ",
+        "state": "California"
+    },
+    "CA51": {
+        "lat": 38.7046012878,
+        "long": -123.4329986572,
+        "name": "The Sea Ranch ",
+        "state": "California"
+    },
+    "CA53": {
+        "lat": 40.6725006104,
+        "long": -122.3420028687,
+        "name": "Tews Field",
+        "state": "California"
+    },
+    "CA54": {
+        "lat": 37.670501709,
+        "long": -121.3280029297,
+        "name": "33 Strip",
+        "state": "California"
+    },
+    "CA57": {
+        "lat": 38.4581985474,
+        "long": -122.0459976196,
+        "name": "Blake Sky Park ",
+        "state": "California"
+    },
+    "CA59": {
+        "lat": 38.7915992737,
+        "long": -121.5839996338,
+        "name": "Vestal Strip",
+        "state": "California"
+    },
+    "CA60": {
+        "lat": 39.9499015808,
+        "long": -121.9970016479,
+        "name": "Deer Creek Ranch ",
+        "state": "California"
+    },
+    "CA62": {
+        "lat": 35.71910095,
+        "long": -120.7679977,
+        "name": "Mc Millan Assault Strip",
+        "state": "California"
+    },
+    "CA64": {
+        "lat": 35.6869010925,
+        "long": -119.5999984741,
+        "name": "Gilbreath Bros Duck Club ",
+        "state": "California"
+    },
+    "CA66": {
+        "lat": 36.9061012268,
+        "long": -121.8430023193,
+        "name": "Monterey Bay Academy ",
+        "state": "California"
+    },
+    "CA67": {
+        "lat": 37.5480003357,
+        "long": -121.2050018311,
+        "name": "Westley ",
+        "state": "California"
+    },
+    "CA69": {
+        "lat": 36.0041007996,
+        "long": -120.141998291,
+        "name": "Avenal ",
+        "state": "California"
+    },
+    "CA70": {
+        "lat": 34.7579994202,
+        "long": -117.4970016479,
+        "name": "Sun Hill Ranch ",
+        "state": "California"
+    },
+    "CA71": {
+        "lat": 38.4399986267,
+        "long": -120.8870010376,
+        "name": "Horse Shoe A Ranch ",
+        "state": "California"
+    },
+    "CA73": {
+        "lat": 39.0956993103,
+        "long": -121.716003418,
+        "name": "Vanderford Ranch Company ",
+        "state": "California"
+    },
+    "CA75": {
+        "lat": 32.6380996704,
+        "long": -116.638999939,
+        "name": "Reider Ranch ",
+        "state": "California"
+    },
+    "CA76": {
+        "lat": 33.0703010559,
+        "long": -116.7519989014,
+        "name": "Flying T Ranch ",
+        "state": "California"
+    },
+    "CA84": {
+        "lat": 32.8897018433,
+        "long": -117.2470016479,
+        "name": "Torrey Pines Gliderport",
+        "state": "California"
+    },
+    "CA88": {
+        "lat": 36.0261001587,
+        "long": -120.9079971313,
+        "name": "San Ardo Field",
+        "state": "California"
+    },
+    "CA89": {
+        "lat": 33.6300010681,
+        "long": -117.3020019531,
+        "name": "Skylark Field",
+        "state": "California"
+    },
+    "CA90": {
+        "lat": 34.5139007568,
+        "long": -115.5189971924,
+        "name": "Cadiz Airstrip",
+        "state": "California"
+    },
+    "CA92": {
+        "lat": 39.7106018066,
+        "long": -121.616996765,
+        "name": "Paradise Skypark ",
+        "state": "California"
+    },
+    "CA97": {
+        "lat": 34.0196990967,
+        "long": -119.8529968262,
+        "name": "Christy Airstrip",
+        "state": "California"
+    },
+    "CL01": {
+        "lat": 36.8998985291,
+        "long": -120.6679992676,
+        "name": "Eagle Field",
+        "state": "California"
+    },
+    "CL04": {
+        "lat": 38.4107017517,
+        "long": -121.2350006104,
+        "name": "Sky Way Estates ",
+        "state": "California"
+    },
+    "CL11": {
+        "lat": 38.134601593,
+        "long": -121.2200012207,
+        "name": "Ferdun Ranch ",
+        "state": "California"
+    },
+    "CL13": {
+        "lat": 34.5153007507,
+        "long": -117.7620010376,
+        "name": "Brian Ranch ",
+        "state": "California"
+    },
+    "CL18": {
+        "lat": 34.5550003052,
+        "long": -115.3560028076,
+        "name": "Danby Airstrip",
+        "state": "California"
+    },
+    "CL23": {
+        "lat": 39.4595985413,
+        "long": -121.6959991455,
+        "name": "Jones/Ag-Viation ",
+        "state": "California"
+    },
+    "CL24": {
+        "lat": 36.849899292,
+        "long": -119.5100021362,
+        "name": "Kindsvater Ranch ",
+        "state": "California"
+    },
+    "CL25": {
+        "lat": 34.9355010986,
+        "long": -119.452003479,
+        "name": "7R Ranch ",
+        "state": "California"
+    },
+    "CL29": {
+        "lat": 34.8349990845,
+        "long": -114.9570007324,
+        "name": "Camino Airstrip",
+        "state": "California"
+    },
+    "CL33": {
+        "lat": 33.3106002808,
+        "long": -116.9980010986,
+        "name": "Pauma Valley Air Park",
+        "state": "California"
+    },
+    "CL35": {
+        "lat": 33.2845001221,
+        "long": -116.6750030518,
+        "name": "Warner Springs Gliderport ",
+        "state": "California"
+    },
+    "CL36": {
+        "lat": 38.5694007874,
+        "long": -122.8040008545,
+        "name": "Allan Ranch Flight Park Ultralightport",
+        "state": "California"
+    },
+    "CL46": {
+        "lat": 34.7677993774,
+        "long": -118.7320022583,
+        "name": "Quail Lake Sky Park ",
+        "state": "California"
+    },
+    "CL56": {
+        "lat": 39.7196006775,
+        "long": -121.871002197,
+        "name": "Ranchaero ",
+        "state": "California"
+    },
+    "CL74": {
+        "lat": 34.8319015503,
+        "long": -118.4010009766,
+        "name": "Skyotee Ranch ",
+        "state": "California"
+    },
+    "CL77": {
+        "lat": 37.0704994202,
+        "long": -122.1269989014,
+        "name": "Bonny Doon Village ",
+        "state": "California"
+    },
+    "CL84": {
+        "lat": 37.3883018494,
+        "long": -120.9270019531,
+        "name": "Ahlem Farms ",
+        "state": "California"
+    },
+    "CL88": {
+        "lat": 41.447101593,
+        "long": -120.5839996338,
+        "name": "Wesinger Ranch ",
+        "state": "California"
+    },
+    "CL90": {
+        "lat": 39.6888008118,
+        "long": -121.783996582,
+        "name": "Butte Creek Hog Ranch ",
+        "state": "California"
+    },
+    "CN12": {
+        "lat": 39.1635017395,
+        "long": -122.1320037842,
+        "name": "Williams Gliderport",
+        "state": "California"
+    },
+    "CN13": {
+        "lat": 38.4431991577,
+        "long": -121.509002686,
+        "name": "Borges - Clarksburg ",
+        "state": "California"
+    },
+    "CN15": {
+        "lat": 36.3692016602,
+        "long": -119.7860031128,
+        "name": "Vineyard Oaks Farm ",
+        "state": "California"
+    },
+    "CN19": {
+        "lat": 37.9331016541,
+        "long": -121.6129989624,
+        "name": "Las Serpientes ",
+        "state": "California"
+    },
+    "CN23": {
+        "lat": 34.9617004395,
+        "long": -116.6750030518,
+        "name": "Harvard ",
+        "state": "California"
+    },
+    "CN24": {
+        "lat": 38.283000946,
+        "long": -121.2549972534,
+        "name": "Flying R ",
+        "state": "California"
+    },
+    "CN29": {
+        "lat": 37.9351997375,
+        "long": -121.0149993896,
+        "name": "J-B ",
+        "state": "California"
+    },
+    "CN37": {
+        "lat": 35.38130188,
+        "long": -118.2310028,
+        "name": "Kelso Valley ",
+        "state": "California"
+    },
+    "CN38": {
+        "lat": 38.3413009644,
+        "long": -121.43699646,
+        "name": "Flying B Ranch ",
+        "state": "California"
+    },
+    "CN42": {
+        "lat": 40.4457015991,
+        "long": -121.8820037842,
+        "name": "Double Creek Ranch ",
+        "state": "California"
+    },
+    "CN44": {
+        "lat": 37.6204986572,
+        "long": -121.1630020142,
+        "name": "Flying Bull ",
+        "state": "California"
+    },
+    "CN98": {
+        "lat": 33.245556,
+        "long": -114.710278,
+        "name": "Walter'S Camp ",
+        "state": "California"
+    },
+    "K0O2": {
+        "lat": 35.2854995728,
+        "long": -116.0830001831,
+        "name": "Baker ",
+        "state": "California"
+    },
+    "K0Q5": {
+        "lat": 40.0275993347,
+        "long": -124.0729980469,
+        "name": "Shelter Cove ",
+        "state": "California"
+    },
+    "K1O2": {
+        "lat": 38.9906005859,
+        "long": -122.901000977,
+        "name": "Lampson Field",
+        "state": "California"
+    },
+    "K1O3": {
+        "lat": 38.20240021,
+        "long": -121.2679977,
+        "name": "Lodi ",
+        "state": "California"
+    },
+    "K1O5": {
+        "lat": 41.7304000854,
+        "long": -122.54599762,
+        "name": "Montague-Yreka Rohrer Field",
+        "state": "California"
+    },
+    "K1Q2": {
+        "lat": 40.6502990723,
+        "long": -120.7689971924,
+        "name": "Spaulding ",
+        "state": "California"
+    },
+    "K1Q4": {
+        "lat": 37.6791000366,
+        "long": -121.3000030518,
+        "name": "New Jerusalem ",
+        "state": "California"
+    },
+    "K2O1": {
+        "lat": 39.943901062,
+        "long": -120.944999695,
+        "name": "Gansner Field",
+        "state": "California"
+    },
+    "K2O3": {
+        "lat": 38.5784988403,
+        "long": -122.4349975586,
+        "name": "Angwin Parrett Field",
+        "state": "California"
+    },
+    "K2O6": {
+        "lat": 37.1124000549,
+        "long": -120.2470016479,
+        "name": "Chowchilla ",
+        "state": "California"
+    },
+    "K2O7": {
+        "lat": 36.81380081,
+        "long": -118.2050018,
+        "name": "Independence ",
+        "state": "California"
+    },
+    "K36S": {
+        "lat": 41.7906990051,
+        "long": -123.388999939,
+        "name": "Happy Camp ",
+        "state": "California"
+    },
+    "K3O1": {
+        "lat": 37.2626991272,
+        "long": -120.9629974365,
+        "name": "Gustine ",
+        "state": "California"
+    },
+    "K49X": {
+        "lat": 34.5275001526,
+        "long": -114.4309997559,
+        "name": "Chemehuevi Valley ",
+        "state": "California"
+    },
+    "K9L2": {
+        "lat": 34.9907989502,
+        "long": -117.8629989624,
+        "name": "Edwards Af Aux North Base ",
+        "state": "California"
+    },
+    "KA24": {
+        "lat": 41.412399292,
+        "long": -120.6839981079,
+        "name": "California Pines ",
+        "state": "California"
+    },
+    "KA30": {
+        "lat": 41.5582008362,
+        "long": -122.8550033569,
+        "name": "Scott Valley ",
+        "state": "California"
+    },
+    "KA32": {
+        "lat": 41.8871994019,
+        "long": -121.9759979248,
+        "name": "Butte Valley ",
+        "state": "California"
+    },
+    "KAAT": {
+        "lat": 41.48300171,
+        "long": -120.5650024,
+        "name": "Alturas Municipal ",
+        "state": "California"
+    },
+    "KACV": {
+        "lat": 40.978099823,
+        "long": -124.1090011597,
+        "name": "Arcata ",
+        "state": "California"
+    },
+    "KAHC": {
+        "lat": 40.26620102,
+        "long": -120.1529999,
+        "name": "Amedee Army Air Field",
+        "state": "California"
+    },
+    "KAJO": {
+        "lat": 33.8977012634,
+        "long": -117.6019973755,
+        "name": "Corona Municipal ",
+        "state": "California"
+    },
+    "KAPC": {
+        "lat": 38.2131996155,
+        "long": -122.28099823,
+        "name": "Napa County ",
+        "state": "California"
+    },
+    "KAPV": {
+        "lat": 34.5752983093,
+        "long": -117.185997009,
+        "name": "Apple Valley ",
+        "state": "California"
+    },
+    "KAUN": {
+        "lat": 38.95479965,
+        "long": -121.0820007,
+        "name": "Auburn Municipal ",
+        "state": "California"
+    },
+    "KAVX": {
+        "lat": 33.4048995972,
+        "long": -118.4160003662,
+        "name": "Catalina ",
+        "state": "California"
+    },
+    "KBAB": {
+        "lat": 39.136100769,
+        "long": -121.43699646,
+        "name": "Beale Air Force Base",
+        "state": "California"
+    },
+    "KBFL": {
+        "lat": 35.43360138,
+        "long": -119.0569992,
+        "name": "Meadows Field",
+        "state": "California"
+    },
+    "KBIH": {
+        "lat": 37.3731002808,
+        "long": -118.363998413,
+        "name": "Eastern Sierra Regional ",
+        "state": "California"
+    },
+    "KBLH": {
+        "lat": 33.6192016602,
+        "long": -114.717002869,
+        "name": "Blythe ",
+        "state": "California"
+    },
+    "KBLU": {
+        "lat": 39.2750015259,
+        "long": -120.709999084,
+        "name": "Blue Canyon Nyack ",
+        "state": "California"
+    },
+    "KBNG": {
+        "lat": 33.9230995178,
+        "long": -116.850997925,
+        "name": "Banning Municipal ",
+        "state": "California"
+    },
+    "KBUR": {
+        "lat": 34.2006988525,
+        "long": -118.3590011597,
+        "name": "Bob Hope ",
+        "state": "California"
+    },
+    "KBWC": {
+        "lat": 32.99290085,
+        "long": -115.5169983,
+        "name": "Brawley Municipal ",
+        "state": "California"
+    },
+    "KBYS": {
+        "lat": 35.2804985046,
+        "long": -116.629997253,
+        "name": "Bicycle Lake Army Air Field",
+        "state": "California"
+    },
+    "KC83": {
+        "lat": 37.8283996582,
+        "long": -121.6259994507,
+        "name": "Byron ",
+        "state": "California"
+    },
+    "KCCB": {
+        "lat": 34.1115989685,
+        "long": -117.68800354,
+        "name": "Cable ",
+        "state": "California"
+    },
+    "KCCR": {
+        "lat": 37.9897003174,
+        "long": -122.056999207,
+        "name": "Buchanan Field",
+        "state": "California"
+    },
+    "KCEC": {
+        "lat": 41.78020096,
+        "long": -124.2369995,
+        "name": "Jack Mc Namara Field ",
+        "state": "California"
+    },
+    "KCIC": {
+        "lat": 39.79539871,
+        "long": -121.8580017,
+        "name": "Chico Municipal ",
+        "state": "California"
+    },
+    "KCLR": {
+        "lat": 33.1315002441,
+        "long": -115.5210037231,
+        "name": "Cliff Hatfield Memorial ",
+        "state": "California"
+    },
+    "KCMA": {
+        "lat": 34.2136993408,
+        "long": -119.09400177,
+        "name": "Camarillo ",
+        "state": "California"
+    },
+    "KCNO": {
+        "lat": 33.97470093,
+        "long": -117.637001,
+        "name": "Chino ",
+        "state": "California"
+    },
+    "KCPM": {
+        "lat": 33.8899993896,
+        "long": -118.2440032959,
+        "name": "Compton Woodley ",
+        "state": "California"
+    },
+    "KCPU": {
+        "lat": 38.1460990906,
+        "long": -120.6480026245,
+        "name": "Calaveras Co Maury Rasmussen Field",
+        "state": "California"
+    },
+    "KCRO": {
+        "lat": 36.1025009155,
+        "long": -119.595001221,
+        "name": "Corcoran ",
+        "state": "California"
+    },
+    "KCRQ": {
+        "lat": 33.12829971,
+        "long": -117.2799988,
+        "name": "Mc Clellan-Palomar ",
+        "state": "California"
+    },
+    "KCVH": {
+        "lat": 36.8932991028,
+        "long": -121.410003662,
+        "name": "Hollister Municipal ",
+        "state": "California"
+    },
+    "KCXL": {
+        "lat": 32.6694984436,
+        "long": -115.5130004883,
+        "name": "Calexico International ",
+        "state": "California"
+    },
+    "KD83": {
+        "lat": 39.0126991272,
+        "long": -123.3830032349,
+        "name": "Boonville ",
+        "state": "California"
+    },
+    "KD86": {
+        "lat": 36.448600769,
+        "long": -119.3190002441,
+        "name": "Sequoia Field",
+        "state": "California"
+    },
+    "KDAG": {
+        "lat": 34.85369873,
+        "long": -116.7870026,
+        "name": "Barstow Daggett ",
+        "state": "California"
+    },
+    "KDLO": {
+        "lat": 35.7456016541,
+        "long": -119.2369995117,
+        "name": "Delano Municipal ",
+        "state": "California"
+    },
+    "KDVO": {
+        "lat": 38.1436004639,
+        "long": -122.5559997559,
+        "name": "Gnoss Field",
+        "state": "California"
+    },
+    "KDWA": {
+        "lat": 38.57910156,
+        "long": -121.8570023,
+        "name": "Yolo County Davis Woodland Winters ",
+        "state": "California"
+    },
+    "KE16": {
+        "lat": 37.08160019,
+        "long": -121.5970001,
+        "name": "South County  of Santa Clara County ",
+        "state": "California"
+    },
+    "KE45": {
+        "lat": 37.8616981506,
+        "long": -120.1780014038,
+        "name": "Pine Mountain Lake ",
+        "state": "California"
+    },
+    "KE79": {
+        "lat": 36.84016667,
+        "long": -119.86916667,
+        "name": "Sierra Sky Park ",
+        "state": "California"
+    },
+    "KEDU": {
+        "lat": 38.53150177,
+        "long": -121.7860031128,
+        "name": "University ",
+        "state": "California"
+    },
+    "KEDW": {
+        "lat": 34.90539932,
+        "long": -117.8840027,
+        "name": "Edwards Air Force Base",
+        "state": "California"
+    },
+    "KEED": {
+        "lat": 34.7663002014,
+        "long": -114.6230010986,
+        "name": "Needles ",
+        "state": "California"
+    },
+    "KEKA": {
+        "lat": 40.8033981323,
+        "long": -124.1129989624,
+        "name": "Murray Field",
+        "state": "California"
+    },
+    "KEMT": {
+        "lat": 34.086101532,
+        "long": -118.0350036621,
+        "name": "El Monte ",
+        "state": "California"
+    },
+    "KF34": {
+        "lat": 36.8600006104,
+        "long": -120.4639968872,
+        "name": "Firebaugh ",
+        "state": "California"
+    },
+    "KF62": {
+        "lat": 40.5471000671,
+        "long": -123.1819992065,
+        "name": "Hayfork ",
+        "state": "California"
+    },
+    "KF70": {
+        "lat": 33.5741996765,
+        "long": -117.1279983521,
+        "name": "French Valley ",
+        "state": "California"
+    },
+    "KF72": {
+        "lat": 38.304901123,
+        "long": -121.4300003052,
+        "name": "Franklin Field",
+        "state": "California"
+    },
+    "KFAT": {
+        "lat": 36.7761993408,
+        "long": -119.7180023193,
+        "name": "Fresno Yosemite International ",
+        "state": "California"
+    },
+    "KFCH": {
+        "lat": 36.73239899,
+        "long": -119.8199997,
+        "name": "Fresno Chandler Executive ",
+        "state": "California"
+    },
+    "KFOT": {
+        "lat": 40.55390167,
+        "long": -124.1330032,
+        "name": "Rohnerville ",
+        "state": "California"
+    },
+    "KFUL": {
+        "lat": 33.8720016479,
+        "long": -117.980003357,
+        "name": "Fullerton Municipal ",
+        "state": "California"
+    },
+    "KGOO": {
+        "lat": 39.2239990234,
+        "long": -121.0029983521,
+        "name": "Nevada County Air Park",
+        "state": "California"
+    },
+    "KGVT": {
+        "lat": 33.0677986145,
+        "long": -96.0652999878,
+        "name": "Majors ",
+        "state": "California"
+    },
+    "KH37": {
+        "lat": 40.1388015747,
+        "long": -120.1790008545,
+        "name": "Herlong ",
+        "state": "California"
+    },
+    "KHAF": {
+        "lat": 37.5134010315,
+        "long": -122.5009994507,
+        "name": "Half Moon Bay ",
+        "state": "California"
+    },
+    "KHES": {
+        "lat": 38.6534996033,
+        "long": -122.899002075,
+        "name": "Healdsburg Municipal ",
+        "state": "California"
+    },
+    "KHHR": {
+        "lat": 33.9227981567,
+        "long": -118.3349990845,
+        "name": "Jack Northrop Field Hawthorne Municipal ",
+        "state": "California"
+    },
+    "KHJO": {
+        "lat": 36.31669998,
+        "long": -119.6279984,
+        "name": "Hanford Municipal ",
+        "state": "California"
+    },
+    "KHMT": {
+        "lat": 33.7340011597,
+        "long": -117.0230026245,
+        "name": "Hemet Ryan ",
+        "state": "California"
+    },
+    "KHWD": {
+        "lat": 37.659198761,
+        "long": -122.1220016479,
+        "name": "Hayward Executive ",
+        "state": "California"
+    },
+    "KIPL": {
+        "lat": 32.8342018127,
+        "long": -115.57900238,
+        "name": "Imperial County ",
+        "state": "California"
+    },
+    "KIYK": {
+        "lat": 35.65879822,
+        "long": -117.8300018,
+        "name": "Inyokern ",
+        "state": "California"
+    },
+    "KIZA": {
+        "lat": 34.60680008,
+        "long": -120.0759964,
+        "name": "Santa Ynez ",
+        "state": "California"
+    },
+    "KJAQ": {
+        "lat": 38.3768005371,
+        "long": -120.793998718,
+        "name": "Westover Field Amador County ",
+        "state": "California"
+    },
+    "KKIC": {
+        "lat": 36.2280006409,
+        "long": -121.1220016479,
+        "name": "Mesa Del Rey ",
+        "state": "California"
+    },
+    "KL00": {
+        "lat": 34.8708000183,
+        "long": -118.2089996338,
+        "name": "Rosamond Skypark ",
+        "state": "California"
+    },
+    "KL04": {
+        "lat": 32.8403015137,
+        "long": -115.266998291,
+        "name": "Holtville ",
+        "state": "California"
+    },
+    "KL05": {
+        "lat": 35.7282981873,
+        "long": -118.4199981689,
+        "name": "Kern Valley ",
+        "state": "California"
+    },
+    "KL06": {
+        "lat": 36.4637985229,
+        "long": -116.8809967041,
+        "name": "Furnace Creek ",
+        "state": "California"
+    },
+    "KL08": {
+        "lat": 33.2589988708,
+        "long": -116.320999146,
+        "name": "Borrego Valley ",
+        "state": "California"
+    },
+    "KL09": {
+        "lat": 36.6040992737,
+        "long": -117.158996582,
+        "name": "Stovepipe Wells ",
+        "state": "California"
+    },
+    "KL17": {
+        "lat": 35.1411018372,
+        "long": -119.4410018921,
+        "name": "Taft Kern County ",
+        "state": "California"
+    },
+    "KL19": {
+        "lat": 35.6197013855,
+        "long": -119.3539962769,
+        "name": "Wasco Kern County ",
+        "state": "California"
+    },
+    "KL22": {
+        "lat": 34.1277999878,
+        "long": -116.4079971313,
+        "name": "Yucca Valley ",
+        "state": "California"
+    },
+    "KL26": {
+        "lat": 34.3772010803,
+        "long": -117.3160018921,
+        "name": "Hesperia ",
+        "state": "California"
+    },
+    "KL35": {
+        "lat": 34.2638015747,
+        "long": -116.8560028076,
+        "name": "Big Bear City ",
+        "state": "California"
+    },
+    "KL45": {
+        "lat": 35.32479858,
+        "long": -118.9960022,
+        "name": "Bakersfield Municipal ",
+        "state": "California"
+    },
+    "KL52": {
+        "lat": 35.1015292,
+        "long": -120.6223153,
+        "name": "Oceano County ",
+        "state": "California"
+    },
+    "KL62": {
+        "lat": 35.3526992798,
+        "long": -119.4789962769,
+        "name": "Elk Hills Buttonwillow ",
+        "state": "California"
+    },
+    "KL64": {
+        "lat": 33.7486000061,
+        "long": -115.3229980469,
+        "name": "Desert Center ",
+        "state": "California"
+    },
+    "KL65": {
+        "lat": 33.7608985901,
+        "long": -117.2180023193,
+        "name": "Perris Valley ",
+        "state": "California"
+    },
+    "KL67": {
+        "lat": 34.1292991638,
+        "long": -117.4020004272,
+        "name": "Rialto Municipal Miro Field",
+        "state": "California"
+    },
+    "KL70": {
+        "lat": 34.5041999817,
+        "long": -118.31300354,
+        "name": "Agua Dulce Airpark",
+        "state": "California"
+    },
+    "KL71": {
+        "lat": 35.1511993408,
+        "long": -118.016998291,
+        "name": "California City Municipal ",
+        "state": "California"
+    },
+    "KL72": {
+        "lat": 35.8125,
+        "long": -117.327003479,
+        "name": "Trona ",
+        "state": "California"
+    },
+    "KL73": {
+        "lat": 35.5965995789,
+        "long": -119.1279983521,
+        "name": "Poso Kern County ",
+        "state": "California"
+    },
+    "KL77": {
+        "lat": 33.6652984619,
+        "long": -115.7109985352,
+        "name": "Chiriaco Summit ",
+        "state": "California"
+    },
+    "KL84": {
+        "lat": 35.6236000061,
+        "long": -119.6859970093,
+        "name": "Lost Hills Kern County ",
+        "state": "California"
+    },
+    "KL88": {
+        "lat": 34.9375,
+        "long": -119.68800354,
+        "name": "New Cuyama ",
+        "state": "California"
+    },
+    "KL94": {
+        "lat": 35.1011009216,
+        "long": -118.422996521,
+        "name": "Mountain Valley ",
+        "state": "California"
+    },
+    "KLAX": {
+        "lat": 33.94250107,
+        "long": -118.4079971,
+        "name": "Los Angeles International ",
+        "state": "California"
+    },
+    "KLGB": {
+        "lat": 33.81769943,
+        "long": -118.1520004,
+        "name": "Long Beach /Daugherty Field/ ",
+        "state": "California"
+    },
+    "KLHM": {
+        "lat": 38.909198761,
+        "long": -121.3509979248,
+        "name": "Lincoln Regional Karl Harder Field",
+        "state": "California"
+    },
+    "KLLR": {
+        "lat": 39.2620010376,
+        "long": -123.7539978027,
+        "name": "Little River ",
+        "state": "California"
+    },
+    "KLPC": {
+        "lat": 34.665599823,
+        "long": -120.4680023193,
+        "name": "Lompoc ",
+        "state": "California"
+    },
+    "KLSN": {
+        "lat": 37.06290054,
+        "long": -120.8690033,
+        "name": "Los Banos Municipal ",
+        "state": "California"
+    },
+    "KLVK": {
+        "lat": 37.6934013367,
+        "long": -121.8199996948,
+        "name": "Livermore Municipal ",
+        "state": "California"
+    },
+    "KM45": {
+        "lat": 38.7346992493,
+        "long": -119.766998291,
+        "name": "Alpine County ",
+        "state": "California"
+    },
+    "KM90": {
+        "lat": 36.7585983276,
+        "long": -120.371002197,
+        "name": "William Robert Johnston Municipal ",
+        "state": "California"
+    },
+    "KMAE": {
+        "lat": 36.9886016846,
+        "long": -120.1119995117,
+        "name": "Madera Municipal ",
+        "state": "California"
+    },
+    "KMCC": {
+        "lat": 38.66759872,
+        "long": -121.401001,
+        "name": "Mc Clellan Airfield",
+        "state": "California"
+    },
+    "KMCE": {
+        "lat": 37.28469849,
+        "long": -120.5139999,
+        "name": "Merced Regional Macready Field",
+        "state": "California"
+    },
+    "KMER": {
+        "lat": 37.38050079,
+        "long": -120.5680008,
+        "name": "Castle ",
+        "state": "California"
+    },
+    "KMHR": {
+        "lat": 38.55390167,
+        "long": -121.2979965,
+        "name": "Sacramento Mather ",
+        "state": "California"
+    },
+    "KMHV": {
+        "lat": 35.05939865,
+        "long": -118.1520004,
+        "name": "Mojave ",
+        "state": "California"
+    },
+    "KMIT": {
+        "lat": 35.50740051,
+        "long": -119.1920013,
+        "name": "Shafter Minter Field",
+        "state": "California"
+    },
+    "KMMH": {
+        "lat": 37.62409973,
+        "long": -118.8379974,
+        "name": "Mammoth Yosemite ",
+        "state": "California"
+    },
+    "KMOD": {
+        "lat": 37.62580109,
+        "long": -120.9540024,
+        "name": "Modesto City Co-Harry Sham Field",
+        "state": "California"
+    },
+    "KMPI": {
+        "lat": 37.5108985901,
+        "long": -120.040000916,
+        "name": "Mariposa Yosemite ",
+        "state": "California"
+    },
+    "KMRY": {
+        "lat": 36.5870018005,
+        "long": -121.8430023193,
+        "name": "Monterey Peninsula ",
+        "state": "California"
+    },
+    "KMYF": {
+        "lat": 32.815700531,
+        "long": -117.1399993896,
+        "name": "Montgomery Field",
+        "state": "California"
+    },
+    "KMYV": {
+        "lat": 39.09780121,
+        "long": -121.5699997,
+        "name": "Yuba County ",
+        "state": "California"
+    },
+    "KNFG": {
+        "lat": 33.30130005,
+        "long": -117.3550034,
+        "name": "Camp Pendleton MCAS (Munn Field) ",
+        "state": "California"
+    },
+    "KNID": {
+        "lat": 35.6853981,
+        "long": -117.6920013,
+        "name": "China Lake Naws (Armitage Field) ",
+        "state": "California"
+    },
+    "KNJK": {
+        "lat": 32.8292007446,
+        "long": -115.6719970703,
+        "name": "El Centro Naf ",
+        "state": "California"
+    },
+    "KNKX": {
+        "lat": 32.86840057,
+        "long": -117.1429977,
+        "name": "Miramar Marine Corps Air Station",
+        "state": "California"
+    },
+    "KNLC": {
+        "lat": 36.33300018,
+        "long": -119.9520035,
+        "name": "Lemoore Naval Air Station (Reeves Field) ",
+        "state": "California"
+    },
+    "KNRS": {
+        "lat": 32.56669998,
+        "long": -117.1169968,
+        "name": "Imperial Beach Nolf (Ream Fld) ",
+        "state": "California"
+    },
+    "KNSI": {
+        "lat": 33.2397994995,
+        "long": -119.4580001831,
+        "name": "San Nicolas Island Nolf ",
+        "state": "California"
+    },
+    "KNTD": {
+        "lat": 34.120300293,
+        "long": -119.121002197,
+        "name": "Point Mugu Naval Air Station (Naval Base Ventura Co)",
+        "state": "California"
+    },
+    "KNUC": {
+        "lat": 33.02270126,
+        "long": -118.5879974,
+        "name": "San Clemente Island Naval Auxiliary Landing Field",
+        "state": "California"
+    },
+    "KNUQ": {
+        "lat": 37.4160995483,
+        "long": -122.0490036011,
+        "name": "Moffett Federal Airfield",
+        "state": "California"
+    },
+    "KNXF": {
+        "lat": 33.285644,
+        "long": -117.456478,
+        "name": "MCOLF Camp Pendleton (Red Beach) ",
+        "state": "California"
+    },
+    "KNXP": {
+        "lat": 34.2961998,
+        "long": -116.1620026,
+        "name": "Twentynine Palms (Self) ",
+        "state": "California"
+    },
+    "KNZY": {
+        "lat": 32.69919968,
+        "long": -117.2149963,
+        "name": "North Island Naval Air Station-Halsey Field",
+        "state": "California"
+    },
+    "KO02": {
+        "lat": 39.8185005188,
+        "long": -120.352996826,
+        "name": "Nervino ",
+        "state": "California"
+    },
+    "KO05": {
+        "lat": 40.2823982239,
+        "long": -121.2409973145,
+        "name": "Rogers Field",
+        "state": "California"
+    },
+    "KO08": {
+        "lat": 39.17900085,
+        "long": -121.9929962,
+        "name": "Colusa County ",
+        "state": "California"
+    },
+    "KO09": {
+        "lat": 39.7901992798,
+        "long": -123.2659988403,
+        "name": "Round Valley ",
+        "state": "California"
+    },
+    "KO15": {
+        "lat": 37.4874000549,
+        "long": -120.6969985962,
+        "name": "Turlock Municipal ",
+        "state": "California"
+    },
+    "KO16": {
+        "lat": 40.0859985352,
+        "long": -123.8140029907,
+        "name": "Garberville ",
+        "state": "California"
+    },
+    "KO20": {
+        "lat": 38.0915985107,
+        "long": -121.3590011597,
+        "name": "Kingdon Airpark",
+        "state": "California"
+    },
+    "KO22": {
+        "lat": 38.0303993225,
+        "long": -120.4150009155,
+        "name": "Columbia ",
+        "state": "California"
+    },
+    "KO26": {
+        "lat": 36.5882987976,
+        "long": -118.0520019531,
+        "name": "Lone Pine ",
+        "state": "California"
+    },
+    "KO27": {
+        "lat": 37.75630188,
+        "long": -120.8000031,
+        "name": "Oakdale ",
+        "state": "California"
+    },
+    "KO28": {
+        "lat": 39.4513015747,
+        "long": -123.3720016479,
+        "name": "Ells Field Willits Municipal ",
+        "state": "California"
+    },
+    "KO32": {
+        "lat": 36.6663017273,
+        "long": -119.4499969482,
+        "name": "Reedley Municipal ",
+        "state": "California"
+    },
+    "KO37": {
+        "lat": 39.7211990356,
+        "long": -122.1470031738,
+        "name": "Haigh Field",
+        "state": "California"
+    },
+    "KO41": {
+        "lat": 38.6739006042,
+        "long": -121.8720016479,
+        "name": "Watts Woodland ",
+        "state": "California"
+    },
+    "KO42": {
+        "lat": 36.3987998962,
+        "long": -119.1070022583,
+        "name": "Woodlake ",
+        "state": "California"
+    },
+    "KO46": {
+        "lat": 41.474899292,
+        "long": -122.4530029297,
+        "name": "Weed ",
+        "state": "California"
+    },
+    "KO52": {
+        "lat": 39.1236991882,
+        "long": -121.6050033569,
+        "name": "Sutter County ",
+        "state": "California"
+    },
+    "KO54": {
+        "lat": 40.7457008362,
+        "long": -122.9219970703,
+        "name": "Lonnie Pool Field Weaverville ",
+        "state": "California"
+    },
+    "KO57": {
+        "lat": 38.2624015808,
+        "long": -119.2259979248,
+        "name": "Bryant Field",
+        "state": "California"
+    },
+    "KO59": {
+        "lat": 41.5527000427,
+        "long": -120.1660003662,
+        "name": "Cedarville ",
+        "state": "California"
+    },
+    "KO61": {
+        "lat": 38.6839981079,
+        "long": -120.9879989624,
+        "name": "Cameron Airpark",
+        "state": "California"
+    },
+    "KO69": {
+        "lat": 38.2578333333,
+        "long": -122.6053333333,
+        "name": "Petaluma Municipal ",
+        "state": "California"
+    },
+    "KO79": {
+        "lat": 39.5810012817,
+        "long": -120.3539962769,
+        "name": "Sierraville Dearwater ",
+        "state": "California"
+    },
+    "KO81": {
+        "lat": 41.8874015808,
+        "long": -121.3590011597,
+        "name": "Tulelake Municipal ",
+        "state": "California"
+    },
+    "KO86": {
+        "lat": 40.9832000732,
+        "long": -122.6940002441,
+        "name": "Trinity Center ",
+        "state": "California"
+    },
+    "KO88": {
+        "lat": 38.1934013367,
+        "long": -121.7040023804,
+        "name": "Rio Vista Municipal ",
+        "state": "California"
+    },
+    "KO89": {
+        "lat": 41.0187988281,
+        "long": -121.4329986572,
+        "name": "Fall River Mills ",
+        "state": "California"
+    },
+    "KOAK": {
+        "lat": 37.7212982178,
+        "long": -122.2210006714,
+        "name": "Metropolitan Oakland International ",
+        "state": "California"
+    },
+    "KOAR": {
+        "lat": 36.68190002,
+        "long": -121.762001,
+        "name": "Marina Municipal ",
+        "state": "California"
+    },
+    "KOKB": {
+        "lat": 33.217300415,
+        "long": -117.3539962769,
+        "name": "Oceanside Municipal ",
+        "state": "California"
+    },
+    "KONT": {
+        "lat": 34.0559997559,
+        "long": -117.6009979248,
+        "name": "Ontario International ",
+        "state": "California"
+    },
+    "KOVE": {
+        "lat": 39.4878005981,
+        "long": -121.6220016479,
+        "name": "Oroville Municipal ",
+        "state": "California"
+    },
+    "KOXR": {
+        "lat": 34.2008018494,
+        "long": -119.2070007324,
+        "name": "Oxnard ",
+        "state": "California"
+    },
+    "KPAO": {
+        "lat": 37.461101532,
+        "long": -122.1149978638,
+        "name": "Palo Alto  of Santa Clara County",
+        "state": "California"
+    },
+    "KPMD": {
+        "lat": 34.62939835,
+        "long": -118.0849991,
+        "name": "Palmdale Regional/USAF Plant 42 ",
+        "state": "California"
+    },
+    "KPRB": {
+        "lat": 35.67290115,
+        "long": -120.6269989,
+        "name": "Paso Robles Municipal ",
+        "state": "California"
+    },
+    "KPSP": {
+        "lat": 33.82970047,
+        "long": -116.5070037842,
+        "name": "Palm Springs International ",
+        "state": "California"
+    },
+    "KPTV": {
+        "lat": 36.0295982361,
+        "long": -119.06300354,
+        "name": "Porterville Municipal ",
+        "state": "California"
+    },
+    "KPVF": {
+        "lat": 38.7242012024,
+        "long": -120.7529983521,
+        "name": "Placerville ",
+        "state": "California"
+    },
+    "KRAL": {
+        "lat": 33.95190048,
+        "long": -117.4449997,
+        "name": "Riverside Municipal ",
+        "state": "California"
+    },
+    "KRBL": {
+        "lat": 40.1506996155,
+        "long": -122.2519989014,
+        "name": "Red Bluff Municipal ",
+        "state": "California"
+    },
+    "KRDD": {
+        "lat": 40.50899887,
+        "long": -122.2929993,
+        "name": "Redding Municipal ",
+        "state": "California"
+    },
+    "KREI": {
+        "lat": 34.0853004456,
+        "long": -117.1460037231,
+        "name": "Redlands Municipal ",
+        "state": "California"
+    },
+    "KRHV": {
+        "lat": 37.332901001,
+        "long": -121.8190002441,
+        "name": "Reid Hillview of Santa Clara County ",
+        "state": "California"
+    },
+    "KRIR": {
+        "lat": 33.9897003174,
+        "long": -117.4110031128,
+        "name": "Flabob ",
+        "state": "California"
+    },
+    "KRIU": {
+        "lat": 38.4868011475,
+        "long": -121.1029968262,
+        "name": "Rancho Murieta ",
+        "state": "California"
+    },
+    "KRIV": {
+        "lat": 33.88069916,
+        "long": -117.2590027,
+        "name": "March ARB ",
+        "state": "California"
+    },
+    "KRNM": {
+        "lat": 33.0391998291,
+        "long": -116.9150009155,
+        "name": "Ramona ",
+        "state": "California"
+    },
+    "KSAC": {
+        "lat": 38.5125007629,
+        "long": -121.4929962158,
+        "name": "Sacramento Executive ",
+        "state": "California"
+    },
+    "KSAN": {
+        "lat": 32.7336006165,
+        "long": -117.1900024414,
+        "name": "San Diego International ",
+        "state": "California"
+    },
+    "KSAS": {
+        "lat": 33.2414016724,
+        "long": -115.952003479,
+        "name": "Salton Sea ",
+        "state": "California"
+    },
+    "KSBA": {
+        "lat": 34.42620087,
+        "long": -119.8399963,
+        "name": "Santa Barbara Municipal ",
+        "state": "California"
+    },
+    "KSBD": {
+        "lat": 34.0954017639,
+        "long": -117.2350006104,
+        "name": "San Bernardino International ",
+        "state": "California"
+    },
+    "KSBP": {
+        "lat": 35.2368011475,
+        "long": -120.641998291,
+        "name": "San Luis County Regional ",
+        "state": "California"
+    },
+    "KSCK": {
+        "lat": 37.8941993713,
+        "long": -121.2379989624,
+        "name": "Stockton Metropolitan ",
+        "state": "California"
+    },
+    "KSDM": {
+        "lat": 32.5722999573,
+        "long": -116.9800033569,
+        "name": "Brown Field Municipal ",
+        "state": "California"
+    },
+    "KSEE": {
+        "lat": 32.8261985779,
+        "long": -116.9720001221,
+        "name": "Gillespie Field",
+        "state": "California"
+    },
+    "KSFO": {
+        "lat": 37.6189994812,
+        "long": -122.375,
+        "name": "San Francisco International ",
+        "state": "California"
+    },
+    "KSIY": {
+        "lat": 41.7813987732,
+        "long": -122.4680023193,
+        "name": "Siskiyou County ",
+        "state": "California"
+    },
+    "KSJC": {
+        "lat": 37.3625984192,
+        "long": -121.9290008545,
+        "name": "Norman Y. Mineta San Jose International ",
+        "state": "California"
+    },
+    "KSLI": {
+        "lat": 33.79000092,
+        "long": -118.052002,
+        "name": "Los Alamitos Army Air Field",
+        "state": "California"
+    },
+    "KSMF": {
+        "lat": 38.695400238,
+        "long": -121.591003418,
+        "name": "Sacramento International ",
+        "state": "California"
+    },
+    "KSMO": {
+        "lat": 34.0158004761,
+        "long": -118.4509963989,
+        "name": "Santa Monica Municipal ",
+        "state": "California"
+    },
+    "KSMX": {
+        "lat": 34.89889908,
+        "long": -120.4570007,
+        "name": "Santa Maria Pub/Capt G Allan Hancock Field",
+        "state": "California"
+    },
+    "KSNA": {
+        "lat": 33.67570114,
+        "long": -117.8679962,
+        "name": "John Wayne -Orange County ",
+        "state": "California"
+    },
+    "KSNS": {
+        "lat": 36.6627998352,
+        "long": -121.6060028076,
+        "name": "Salinas Municipal ",
+        "state": "California"
+    },
+    "KSQL": {
+        "lat": 37.5119018555,
+        "long": -122.25,
+        "name": "San Carlos ",
+        "state": "California"
+    },
+    "KSTS": {
+        "lat": 38.50899887,
+        "long": -122.8130035,
+        "name": "Charles M. Schulz Sonoma County ",
+        "state": "California"
+    },
+    "KSUU": {
+        "lat": 38.2626991272,
+        "long": -121.9270019531,
+        "name": "Travis Air Force Base",
+        "state": "California"
+    },
+    "KSVE": {
+        "lat": 40.3757019043,
+        "long": -120.5729980469,
+        "name": "Susanville Municipal ",
+        "state": "California"
+    },
+    "KSZN": {
+        "lat": 34.0606002808,
+        "long": -119.915000916,
+        "name": "Santa Cruz Island ",
+        "state": "California"
+    },
+    "KSZP": {
+        "lat": 34.34719849,
+        "long": -119.060997,
+        "name": "Santa Paula ",
+        "state": "California"
+    },
+    "KT42": {
+        "lat": 40.2112998962,
+        "long": -123.297996521,
+        "name": "Ruth ",
+        "state": "California"
+    },
+    "KTCY": {
+        "lat": 37.688999176,
+        "long": -121.4420013428,
+        "name": "Tracy Municipal ",
+        "state": "California"
+    },
+    "KTLR": {
+        "lat": 36.15629959,
+        "long": -119.3259964,
+        "name": "Mefford Field",
+        "state": "California"
+    },
+    "KTNP": {
+        "lat": 34.13159943,
+        "long": -115.9459991,
+        "name": "Twentynine Palms ",
+        "state": "California"
+    },
+    "KTOA": {
+        "lat": 33.8033981323,
+        "long": -118.3399963379,
+        "name": "Zamperini Field",
+        "state": "California"
+    },
+    "KTRK": {
+        "lat": 39.3199996948,
+        "long": -120.1399993896,
+        "name": "Truckee Tahoe ",
+        "state": "California"
+    },
+    "KTRM": {
+        "lat": 33.626701355,
+        "long": -116.1600036621,
+        "name": "Jacqueline Cochran Regional ",
+        "state": "California"
+    },
+    "KTSP": {
+        "lat": 35.1349983215,
+        "long": -118.4390029907,
+        "name": "Tehachapi Municipal ",
+        "state": "California"
+    },
+    "KTVL": {
+        "lat": 38.893901825,
+        "long": -119.9950027466,
+        "name": "Lake Tahoe ",
+        "state": "California"
+    },
+    "KUDD": {
+        "lat": 33.7484016418,
+        "long": -116.2750015259,
+        "name": "Bermuda Dunes ",
+        "state": "California"
+    },
+    "KUKI": {
+        "lat": 39.1259994507,
+        "long": -123.2009963989,
+        "name": "Ukiah Municipal ",
+        "state": "California"
+    },
+    "KVBG": {
+        "lat": 34.7373008728,
+        "long": -120.5839996338,
+        "name": "Vandenberg Air Force Base",
+        "state": "California"
+    },
+    "KVCB": {
+        "lat": 38.3768005371,
+        "long": -121.9619979858,
+        "name": "Nut Tree ",
+        "state": "California"
+    },
+    "KVCV": {
+        "lat": 34.5974998474,
+        "long": -117.3830032349,
+        "name": "Southern California Logistics ",
+        "state": "California"
+    },
+    "KVIS": {
+        "lat": 36.3186988831,
+        "long": -119.3929977417,
+        "name": "Visalia Municipal ",
+        "state": "California"
+    },
+    "KVNY": {
+        "lat": 34.2098007202,
+        "long": -118.4899978638,
+        "name": "Van Nuys ",
+        "state": "California"
+    },
+    "KWHP": {
+        "lat": 34.2593002319,
+        "long": -118.4130020142,
+        "name": "Whiteman ",
+        "state": "California"
+    },
+    "KWJF": {
+        "lat": 34.74110031,
+        "long": -118.2190018,
+        "name": "General WM J Fox Airfield",
+        "state": "California"
+    },
+    "KWLW": {
+        "lat": 39.51639938,
+        "long": -122.2180023,
+        "name": "Willows Glenn County ",
+        "state": "California"
+    },
+    "KWVI": {
+        "lat": 36.9356994629,
+        "long": -121.7900009155,
+        "name": "Watsonville Municipal ",
+        "state": "California"
+    },
+    "NV42": {
+        "lat": 35.7757987976,
+        "long": -115.6309967041,
+        "name": "Heritage ",
+        "state": "California"
+    }
+}

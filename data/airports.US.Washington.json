@@ -1,0 +1,1916 @@
+{
+    "00WA": {
+        "lat": 47.1783981323,
+        "long": -122.7720031738,
+        "name": "Howell ",
+        "state": "Washington"
+    },
+    "00WN": {
+        "lat": 46.25,
+        "long": -117.2490005493,
+        "name": "Hawks Run ",
+        "state": "Washington"
+    },
+    "02WA": {
+        "lat": 47.1523017883,
+        "long": -122.09400177,
+        "name": "Cawleys South Prairie ",
+        "state": "Washington"
+    },
+    "02WN": {
+        "lat": 48.7458000183,
+        "long": -119.3190002441,
+        "name": "Fowler Field",
+        "state": "Washington"
+    },
+    "03WA": {
+        "lat": 47.4081993103,
+        "long": -117.3720016479,
+        "name": "Spangle Field",
+        "state": "Washington"
+    },
+    "03WN": {
+        "lat": 45.875,
+        "long": -120.6699981689,
+        "name": "Aerostone Ranch ",
+        "state": "Washington"
+    },
+    "04WA": {
+        "lat": 47.5817985535,
+        "long": -117.43699646,
+        "name": "Ox Meadows ",
+        "state": "Washington"
+    },
+    "04WN": {
+        "lat": 46.963889,
+        "long": -119.641667,
+        "name": "Stillwater Creek ",
+        "state": "Washington"
+    },
+    "05WN": {
+        "lat": 48.702222,
+        "long": -118.0475,
+        "name": "Flat Creek Field",
+        "state": "Washington"
+    },
+    "06WN": {
+        "lat": 46.9249992371,
+        "long": -122.5530014038,
+        "name": "Western Airpark",
+        "state": "Washington"
+    },
+    "0WA1": {
+        "lat": 46.617099762,
+        "long": -122.8259963989,
+        "name": "Dwight Field",
+        "state": "Washington"
+    },
+    "0WA2": {
+        "lat": 46.5904006958,
+        "long": -123.1050033569,
+        "name": "Curtis ",
+        "state": "Washington"
+    },
+    "0WN0": {
+        "lat": 48.137298584,
+        "long": -123.1129989624,
+        "name": "Rucilla's Roost ",
+        "state": "Washington"
+    },
+    "0WN1": {
+        "lat": 46.7518997192,
+        "long": -120.6019973755,
+        "name": "Shangri-La ",
+        "state": "Washington"
+    },
+    "0WN2": {
+        "lat": 46.127778,
+        "long": -119.015,
+        "name": "Coopers Landing",
+        "state": "Washington"
+    },
+    "0WN9": {
+        "lat": 48.430464,
+        "long": -119.486058,
+        "name": "Wings For Christ ",
+        "state": "Washington"
+    },
+    "10WA": {
+        "lat": 47.554599762,
+        "long": -117.4130020142,
+        "name": "Mullan Hill ",
+        "state": "Washington"
+    },
+    "11WA": {
+        "lat": 47.5237998962,
+        "long": -117.4700012207,
+        "name": "Homeport ",
+        "state": "Washington"
+    },
+    "12WA": {
+        "lat": 47.5206985474,
+        "long": -117.4629974365,
+        "name": "Fowlers Nw 40 ",
+        "state": "Washington"
+    },
+    "12WT": {
+        "lat": 46.911,
+        "long": -117.218667,
+        "name": "Walker ",
+        "state": "Washington"
+    },
+    "14WA": {
+        "lat": 46.9706993103,
+        "long": -122.7369995117,
+        "name": "Lz Ranch ",
+        "state": "Washington"
+    },
+    "15ID": {
+        "lat": 47.6856002808,
+        "long": -117.0380020142,
+        "name": "Scanlon ",
+        "state": "Washington"
+    },
+    "15WA": {
+        "lat": 48.27230072,
+        "long": -122.3570023,
+        "name": "Sunset ",
+        "state": "Washington"
+    },
+    "16WA": {
+        "lat": 47.8446998596,
+        "long": -117.6940002441,
+        "name": "Tightcliff ",
+        "state": "Washington"
+    },
+    "18JY": {
+        "lat": 46.2846984863,
+        "long": -123.4430007935,
+        "name": "Skamokawa East Valley ",
+        "state": "Washington"
+    },
+    "19WA": {
+        "lat": 45.7196006775,
+        "long": -121.8860015869,
+        "name": "Key Way ",
+        "state": "Washington"
+    },
+    "1S2": {
+        "lat": 48.2586125,
+        "long": -121.6102036,
+        "name": "Darrington Municipal ",
+        "state": "Washington"
+    },
+    "1WA2": {
+        "lat": 46.5191993713,
+        "long": -122.8899993896,
+        "name": "Pilot's Pastures ",
+        "state": "Washington"
+    },
+    "1WA6": {
+        "lat": 47.5595016479,
+        "long": -121.8639984131,
+        "name": "Fall City ",
+        "state": "Washington"
+    },
+    "1WA9": {
+        "lat": 48.5350990295,
+        "long": -123.0449981689,
+        "name": "Friday West ",
+        "state": "Washington"
+    },
+    "1WN0": {
+        "lat": 48.933381,
+        "long": -117.749808,
+        "name": "Schmidt Ranch ",
+        "state": "Washington"
+    },
+    "20WA": {
+        "lat": 46.824798584,
+        "long": -123.0350036621,
+        "name": "Skatter Creek ",
+        "state": "Washington"
+    },
+    "22WA": {
+        "lat": 47.8202018738,
+        "long": -118.68699646,
+        "name": "Gollehon ",
+        "state": "Washington"
+    },
+    "25WA": {
+        "lat": 48.576499939,
+        "long": -119.0650024414,
+        "name": "Hart Ranch ",
+        "state": "Washington"
+    },
+    "26OG": {
+        "lat": 46.463211,
+        "long": -122.733972,
+        "name": "Oakridge Ranch ",
+        "state": "Washington"
+    },
+    "27WA": {
+        "lat": 48.3250999451,
+        "long": -122.3160018921,
+        "name": "J C's ",
+        "state": "Washington"
+    },
+    "28WA": {
+        "lat": 45.7304000854,
+        "long": -122.7350006104,
+        "name": "Robert L Delanoy ",
+        "state": "Washington"
+    },
+    "2WA1": {
+        "lat": 48.0926017761,
+        "long": -122.9290008545,
+        "name": "Diamond Point Airstrip",
+        "state": "Washington"
+    },
+    "2WA3": {
+        "lat": 48.6845016479,
+        "long": -123.2099990845,
+        "name": "Stuart Island West ",
+        "state": "Washington"
+    },
+    "2WA6": {
+        "lat": 47.9981994629,
+        "long": -119.0889968872,
+        "name": "Rice Ranch ",
+        "state": "Washington"
+    },
+    "2WA8": {
+        "lat": 47.3816986084,
+        "long": -118.2969970703,
+        "name": "Kramer Ranch ",
+        "state": "Washington"
+    },
+    "2WA9": {
+        "lat": 46.2891998291,
+        "long": -118.1009979248,
+        "name": "Touchet Valley ",
+        "state": "Washington"
+    },
+    "2WN9": {
+        "lat": 45.8451004028,
+        "long": -120.7009963989,
+        "name": "Hillcrest ",
+        "state": "Washington"
+    },
+    "30WA": {
+        "lat": 46.3148994446,
+        "long": -118.1780014038,
+        "name": "Weller Canyon ",
+        "state": "Washington"
+    },
+    "32WA": {
+        "lat": 48.7227777778,
+        "long": -119.467222222,
+        "name": "Whitestone ",
+        "state": "Washington"
+    },
+    "33WA": {
+        "lat": 47.0499000549,
+        "long": -118.8509979248,
+        "name": "Franz Ranch ",
+        "state": "Washington"
+    },
+    "35WA": {
+        "lat": 46.7499008179,
+        "long": -118.4179992676,
+        "name": "Fisher Ranch ",
+        "state": "Washington"
+    },
+    "36WA": {
+        "lat": 45.956401825,
+        "long": -121.4980010986,
+        "name": "Bob's Field",
+        "state": "Washington"
+    },
+    "37WA": {
+        "lat": 46.8317985535,
+        "long": -118.4619979858,
+        "name": "Baumann Farm Inc. ",
+        "state": "Washington"
+    },
+    "38WA": {
+        "lat": 48.5789985657,
+        "long": -122.825996399,
+        "name": "Blakely Island ",
+        "state": "Washington"
+    },
+    "39WA": {
+        "lat": 47.8518981934,
+        "long": -117.7819976807,
+        "name": "Tailskid Ranch ",
+        "state": "Washington"
+    },
+    "3WA0": {
+        "lat": 46.8975982666,
+        "long": -122.6699981689,
+        "name": "Taylor ",
+        "state": "Washington"
+    },
+    "3WA1": {
+        "lat": 47.6035995483,
+        "long": -120.6699981689,
+        "name": "Johnson's Landing Ultralightport",
+        "state": "Washington"
+    },
+    "3WA2": {
+        "lat": 47.4915008545,
+        "long": -118.2509994507,
+        "name": "Hanes ",
+        "state": "Washington"
+    },
+    "3WA3": {
+        "lat": 46.6484985352,
+        "long": -118.5830001831,
+        "name": "Angel Park ",
+        "state": "Washington"
+    },
+    "3WA4": {
+        "lat": 46.7164993286,
+        "long": -118.6179962158,
+        "name": "Watson ",
+        "state": "Washington"
+    },
+    "3WA9": {
+        "lat": 46.9628982544,
+        "long": -122.8000030518,
+        "name": "Flying Carpet ",
+        "state": "Washington"
+    },
+    "42WA": {
+        "lat": 47.817199707,
+        "long": -118.8010025024,
+        "name": "Sheffels Ranch ",
+        "state": "Washington"
+    },
+    "43IG": {
+        "lat": 46.801528,
+        "long": -124.072944,
+        "name": "Grayland Intergalactic ",
+        "state": "Washington"
+    },
+    "48WA": {
+        "lat": 46.5625,
+        "long": -120.7770004272,
+        "name": "West Valley ",
+        "state": "Washington"
+    },
+    "49WA": {
+        "lat": 46.8470001221,
+        "long": -122.5220031738,
+        "name": "Cougar Mountain Airfield",
+        "state": "Washington"
+    },
+    "4WA0": {
+        "lat": 46.9402999878,
+        "long": -119.737998962,
+        "name": "B & G Farms ",
+        "state": "Washington"
+    },
+    "4WA1": {
+        "lat": 45.6082992554,
+        "long": -122.1969985962,
+        "name": "Brown's Cape Horn ",
+        "state": "Washington"
+    },
+    "4WA2": {
+        "lat": 46.9272003174,
+        "long": -122.9680023193,
+        "name": "Cricket Field",
+        "state": "Washington"
+    },
+    "4WA4": {
+        "lat": 48.5415000916,
+        "long": -122.8870010376,
+        "name": "Windsock ",
+        "state": "Washington"
+    },
+    "4WA6": {
+        "lat": 46.6184997559,
+        "long": -118.5950012207,
+        "name": "Hille-Kimp Airstrip",
+        "state": "Washington"
+    },
+    "4WA8": {
+        "lat": 48.8348007202,
+        "long": -122.263999939,
+        "name": "Riverside ",
+        "state": "Washington"
+    },
+    "4WA9": {
+        "lat": 47.4323005676,
+        "long": -122.6679992676,
+        "name": "Port Orchard ",
+        "state": "Washington"
+    },
+    "50WA": {
+        "lat": 46.6198005676,
+        "long": -122.9649963379,
+        "name": "Hartley ",
+        "state": "Washington"
+    },
+    "51WA": {
+        "lat": 47.2681999207,
+        "long": -122.0680007935,
+        "name": "Evergreen Sky Ranch ",
+        "state": "Washington"
+    },
+    "51WT": {
+        "lat": 48.010417,
+        "long": -118.362028,
+        "name": "Whiterik Field",
+        "state": "Washington"
+    },
+    "52WA": {
+        "lat": 46.9320983887,
+        "long": -117.9759979248,
+        "name": "Honn Farm ",
+        "state": "Washington"
+    },
+    "53WA": {
+        "lat": 46.2924003601,
+        "long": -118.983001709,
+        "name": "Columbia Agricultural ",
+        "state": "Washington"
+    },
+    "55WA": {
+        "lat": 46.5280990601,
+        "long": -120.7610015869,
+        "name": "Wilkinson Ranch ",
+        "state": "Washington"
+    },
+    "57WA": {
+        "lat": 46.873500824,
+        "long": -119.1299972534,
+        "name": "Kent Farms ",
+        "state": "Washington"
+    },
+    "58WA": {
+        "lat": 46.5074005127,
+        "long": -117.4499969482,
+        "name": "Dye Seed Ranch Inc. ",
+        "state": "Washington"
+    },
+    "59AS": {
+        "lat": 45.850669,
+        "long": -122.544514,
+        "name": "Becker Field",
+        "state": "Washington"
+    },
+    "59WA": {
+        "lat": 46.8503990173,
+        "long": -122.9359970093,
+        "name": "Sorrell ",
+        "state": "Washington"
+    },
+    "5WA0": {
+        "lat": 48.5956001282,
+        "long": -119.1009979248,
+        "name": "Sourdough ",
+        "state": "Washington"
+    },
+    "5WA1": {
+        "lat": 46.5214996338,
+        "long": -119.1790008545,
+        "name": "Dorman Field",
+        "state": "Washington"
+    },
+    "5WA2": {
+        "lat": 47.8665008545,
+        "long": -121.9010009766,
+        "name": "B & M Ranch ",
+        "state": "Washington"
+    },
+    "5WA5": {
+        "lat": 47.7631988525,
+        "long": -120.1520004272,
+        "name": "Ross Private Strip",
+        "state": "Washington"
+    },
+    "5WA7": {
+        "lat": 45.7164993286,
+        "long": -120.9850006104,
+        "name": "Warwick ",
+        "state": "Washington"
+    },
+    "5WA8": {
+        "lat": 47.0429000854,
+        "long": -124.146003723,
+        "name": "Hogan's Corner ",
+        "state": "Washington"
+    },
+    "5WA9": {
+        "lat": 45.7238998413,
+        "long": -122.5439987183,
+        "name": "Brush Prairie Aerodrome",
+        "state": "Washington"
+    },
+    "61WA": {
+        "lat": 48.4720001221,
+        "long": -123.0179977417,
+        "name": "Burden Field-(Rabbit Run) ",
+        "state": "Washington"
+    },
+    "63WA": {
+        "lat": 47.8333015442,
+        "long": -117.2740020752,
+        "name": "Boyle R & D ",
+        "state": "Washington"
+    },
+    "65WA": {
+        "lat": 46.8404006958,
+        "long": -122.9160003662,
+        "name": "Wissler's ",
+        "state": "Washington"
+    },
+    "66WA": {
+        "lat": 46.0023002625,
+        "long": -121.5230026245,
+        "name": "Trout Lake ",
+        "state": "Washington"
+    },
+    "67WA": {
+        "lat": 46.0164985657,
+        "long": -118.371002197,
+        "name": "Page ",
+        "state": "Washington"
+    },
+    "68WA": {
+        "lat": 46.393699646,
+        "long": -120.222000122,
+        "name": "Mc Mahon Field",
+        "state": "Washington"
+    },
+    "6WA2": {
+        "lat": 47.1114997864,
+        "long": -122.8209991455,
+        "name": "Gower Field",
+        "state": "Washington"
+    },
+    "6WA3": {
+        "lat": 46.6167984009,
+        "long": -119.2740020752,
+        "name": "Green Acres ",
+        "state": "Washington"
+    },
+    "6WA4": {
+        "lat": 46.8628997803,
+        "long": -119.138999939,
+        "name": "Ochoa Field",
+        "state": "Washington"
+    },
+    "6WA5": {
+        "lat": 48.5665016174,
+        "long": -122.9489974976,
+        "name": "Wilding Farm ",
+        "state": "Washington"
+    },
+    "6WA6": {
+        "lat": 46.2784996033,
+        "long": -118.9560012817,
+        "name": "Carr ",
+        "state": "Washington"
+    },
+    "73WA": {
+        "lat": 47.8510017395,
+        "long": -118.3300018311,
+        "name": "7 Bays ",
+        "state": "Washington"
+    },
+    "73WT": {
+        "lat": 46.723333,
+        "long": -118.099444,
+        "name": "Mc Gregor ",
+        "state": "Washington"
+    },
+    "74WA": {
+        "lat": 46.7326011658,
+        "long": -119.702003479,
+        "name": "Mattawa Air Strip",
+        "state": "Washington"
+    },
+    "74WT": {
+        "lat": 47.111011,
+        "long": -120.710742,
+        "name": "Blowout Bench ",
+        "state": "Washington"
+    },
+    "75DC": {
+        "lat": 47.1416015625,
+        "long": -117.236000061,
+        "name": "Oakesdale ",
+        "state": "Washington"
+    },
+    "75WA": {
+        "lat": 45.8021011353,
+        "long": -121.4800033569,
+        "name": "Port Elsner ",
+        "state": "Washington"
+    },
+    "75WT": {
+        "lat": 48.984167,
+        "long": -119.298333,
+        "name": "Dickson Field",
+        "state": "Washington"
+    },
+    "76WA": {
+        "lat": 48.0051002502,
+        "long": -122.1340026855,
+        "name": "Heineck Farm ",
+        "state": "Washington"
+    },
+    "78WA": {
+        "lat": 48.4901008606,
+        "long": -122.8320007324,
+        "name": "Center Island ",
+        "state": "Washington"
+    },
+    "79WA": {
+        "lat": 47.173500061,
+        "long": -119.7470016479,
+        "name": "Grigg Farm ",
+        "state": "Washington"
+    },
+    "79WT": {
+        "lat": 47.0914260595,
+        "long": -120.589778423,
+        "name": "Ellensburg (Rotor Ranch) ",
+        "state": "Washington"
+    },
+    "7WA0": {
+        "lat": 48.098400116,
+        "long": -123.6429977417,
+        "name": "Big Andy ",
+        "state": "Washington"
+    },
+    "7WA3": {
+        "lat": 48.886100769,
+        "long": -122.3290023804,
+        "name": "West Wind ",
+        "state": "Washington"
+    },
+    "7WA4": {
+        "lat": 47.8574981689,
+        "long": -117.7799987793,
+        "name": "Humbert ",
+        "state": "Washington"
+    },
+    "7WA5": {
+        "lat": 48.6729011536,
+        "long": -123.1760025024,
+        "name": "Stuart Island Airpark",
+        "state": "Washington"
+    },
+    "7WA7": {
+        "lat": 46.3207015991,
+        "long": -119.617996216,
+        "name": "Mc Whorter Ranch ",
+        "state": "Washington"
+    },
+    "80WA": {
+        "lat": 48.0358009338,
+        "long": -122.7740020752,
+        "name": "Sfs Airpark",
+        "state": "Washington"
+    },
+    "83WA": {
+        "lat": 46.0275993347,
+        "long": -118.1679992676,
+        "name": "Darcy's Air Strip",
+        "state": "Washington"
+    },
+    "84WA": {
+        "lat": 46.9729003906,
+        "long": -123.3840026855,
+        "name": "D and B Airpark",
+        "state": "Washington"
+    },
+    "85WA": {
+        "lat": 46.5265007019,
+        "long": -117.7649993896,
+        "name": "Scott Seed Farm ",
+        "state": "Washington"
+    },
+    "86WA": {
+        "lat": 47.0040016174,
+        "long": -122.236000061,
+        "name": "Kapowsin Field",
+        "state": "Washington"
+    },
+    "89WA": {
+        "lat": 48.2706985474,
+        "long": -122.0189971924,
+        "name": "Williams Airpatch ",
+        "state": "Washington"
+    },
+    "8AN6": {
+        "lat": 47.659198761,
+        "long": -117.6819992065,
+        "name": "Isaacson ",
+        "state": "Washington"
+    },
+    "8WA0": {
+        "lat": 46.8776016235,
+        "long": -122.6009979248,
+        "name": "Flying B ",
+        "state": "Washington"
+    },
+    "8WA5": {
+        "lat": 47.1414985657,
+        "long": -118.8010025024,
+        "name": "Tree Heart Ranch ",
+        "state": "Washington"
+    },
+    "8WA6": {
+        "lat": 46.9207000732,
+        "long": -119.5899963379,
+        "name": "Christensen Field",
+        "state": "Washington"
+    },
+    "8WA7": {
+        "lat": 47.1152000427,
+        "long": -117.5739974976,
+        "name": "Gossard Field",
+        "state": "Washington"
+    },
+    "90WA": {
+        "lat": 48.7117996216,
+        "long": -123.0179977417,
+        "name": "Waldronaire ",
+        "state": "Washington"
+    },
+    "91WA": {
+        "lat": 46.7081985474,
+        "long": -119.8010025024,
+        "name": "Christensen Bros Wahluke Strip",
+        "state": "Washington"
+    },
+    "93WA": {
+        "lat": 47.4478988647,
+        "long": -117.8059997559,
+        "name": "Harris ",
+        "state": "Washington"
+    },
+    "94WA": {
+        "lat": 47.0848007202,
+        "long": -123.7740020752,
+        "name": "Wishkah River Ranch ",
+        "state": "Washington"
+    },
+    "95WA": {
+        "lat": 47.315700531,
+        "long": -122.0100021362,
+        "name": "Black Diamond ",
+        "state": "Washington"
+    },
+    "96VE": {
+        "lat": 46.906667,
+        "long": -120.433611,
+        "name": "Beiter ",
+        "state": "Washington"
+    },
+    "96WA": {
+        "lat": 47.8981018066,
+        "long": -122.15599823,
+        "name": "Jim & Julie's ",
+        "state": "Washington"
+    },
+    "97WA": {
+        "lat": 46.5857009888,
+        "long": -119.1539993286,
+        "name": "Basin City Airfield",
+        "state": "Washington"
+    },
+    "9WA3": {
+        "lat": 48.4696006775,
+        "long": -117.2900009155,
+        "name": "River Bend ",
+        "state": "Washington"
+    },
+    "9WA4": {
+        "lat": 45.8027992249,
+        "long": -120.9560012817,
+        "name": "Piper Canyon ",
+        "state": "Washington"
+    },
+    "9WA7": {
+        "lat": 47.2155990601,
+        "long": -122.1330032349,
+        "name": "Albritton ",
+        "state": "Washington"
+    },
+    "FA99": {
+        "lat": 46.587833,
+        "long": -122.865778,
+        "name": "Fantasy Field Airstrip",
+        "state": "Washington"
+    },
+    "K0S0": {
+        "lat": 46.9767990112,
+        "long": -118.5869979858,
+        "name": "Lind ",
+        "state": "Washington"
+    },
+    "K0S7": {
+        "lat": 48.9589996338,
+        "long": -119.4120025635,
+        "name": "Dorothy Scott ",
+        "state": "Washington"
+    },
+    "K0S9": {
+        "lat": 48.0537986755,
+        "long": -122.8109970093,
+        "name": "Jefferson County International ",
+        "state": "Washington"
+    },
+    "K1S5": {
+        "lat": 46.32709885,
+        "long": -119.9700012,
+        "name": "Sunnyside Municipal ",
+        "state": "Washington"
+    },
+    "K1S9": {
+        "lat": 48.3140983582,
+        "long": -117.7429962158,
+        "name": "Sand Canyon ",
+        "state": "Washington"
+    },
+    "K2S4": {
+        "lat": 46.9654006958,
+        "long": -119.066001892,
+        "name": "Warden ",
+        "state": "Washington"
+    },
+    "K2S8": {
+        "lat": 47.7541999817,
+        "long": -118.7429962158,
+        "name": "Wilbur ",
+        "state": "Washington"
+    },
+    "K2S9": {
+        "lat": 46.6976013184,
+        "long": -123.8229980469,
+        "name": "Willapa Harbor ",
+        "state": "Washington"
+    },
+    "K33S": {
+        "lat": 47.1231994629,
+        "long": -118.3899993896,
+        "name": "Pru Field",
+        "state": "Washington"
+    },
+    "K3W7": {
+        "lat": 47.922000885,
+        "long": -119.083000183,
+        "name": "Grand Coulee Dam ",
+        "state": "Washington"
+    },
+    "K43D": {
+        "lat": 47.3475990295,
+        "long": -118.6770019531,
+        "name": "Odessa Municipal ",
+        "state": "Washington"
+    },
+    "K5W1": {
+        "lat": 47.4249000549,
+        "long": -119.1149978638,
+        "name": "Wilson Creek ",
+        "state": "Washington"
+    },
+    "K68S": {
+        "lat": 47.6535987854,
+        "long": -118.1679992676,
+        "name": "Davenport ",
+        "state": "Washington"
+    },
+    "K74S": {
+        "lat": 48.4990005493,
+        "long": -122.6620025635,
+        "name": "Anacortes ",
+        "state": "Washington"
+    },
+    "K80T": {
+        "lat": 47.2116012573,
+        "long": -119.8399963379,
+        "name": "Quincy Municipal ",
+        "state": "Washington"
+    },
+    "KALW": {
+        "lat": 46.09489822,
+        "long": -118.288002,
+        "name": "Walla Walla Regional ",
+        "state": "Washington"
+    },
+    "KAWO": {
+        "lat": 48.16070175,
+        "long": -122.1589966,
+        "name": "Arlington Municipal ",
+        "state": "Washington"
+    },
+    "KBFI": {
+        "lat": 47.5299987793,
+        "long": -122.3020019531,
+        "name": "Boeing Field King County International ",
+        "state": "Washington"
+    },
+    "KBLI": {
+        "lat": 48.7928009033,
+        "long": -122.5380020142,
+        "name": "Bellingham International ",
+        "state": "Washington"
+    },
+    "KBVS": {
+        "lat": 48.4709014893,
+        "long": -122.4209976196,
+        "name": "Skagit Regional ",
+        "state": "Washington"
+    },
+    "KCLM": {
+        "lat": 48.1202011108,
+        "long": -123.5,
+        "name": "William R Fairchild International ",
+        "state": "Washington"
+    },
+    "KCLS": {
+        "lat": 46.6769981384,
+        "long": -122.983001709,
+        "name": "Chehalis Centralia ",
+        "state": "Washington"
+    },
+    "KDEW": {
+        "lat": 47.96659851,
+        "long": -117.427002,
+        "name": "Deer Park ",
+        "state": "Washington"
+    },
+    "KDLS": {
+        "lat": 45.6184997559,
+        "long": -121.1669998169,
+        "name": "Columbia Gorge Regional the Dalles Municipal ",
+        "state": "Washington"
+    },
+    "KEAT": {
+        "lat": 47.3988990784,
+        "long": -120.2070007324,
+        "name": "Pangborn Memorial ",
+        "state": "Washington"
+    },
+    "KELN": {
+        "lat": 47.03300095,
+        "long": -120.5309982,
+        "name": "Bowers Field",
+        "state": "Washington"
+    },
+    "KEPH": {
+        "lat": 47.30759811,
+        "long": -119.5159988,
+        "name": "Ephrata Municipal ",
+        "state": "Washington"
+    },
+    "KESW": {
+        "lat": 47.2541999817,
+        "long": -121.1859970093,
+        "name": "Easton State ",
+        "state": "Washington"
+    },
+    "KFHR": {
+        "lat": 48.5219993591,
+        "long": -123.024002075,
+        "name": "Friday Harbor ",
+        "state": "Washington"
+    },
+    "KGEG": {
+        "lat": 47.6198997498,
+        "long": -117.533996582,
+        "name": "Spokane International ",
+        "state": "Washington"
+    },
+    "KGRF": {
+        "lat": 47.07920074,
+        "long": -122.5810013,
+        "name": "Gray Army Air Field",
+        "state": "Washington"
+    },
+    "KHQM": {
+        "lat": 46.9711990356,
+        "long": -123.93699646,
+        "name": "Bowerman ",
+        "state": "Washington"
+    },
+    "KKLS": {
+        "lat": 46.1180000305,
+        "long": -122.898002625,
+        "name": "Southwest Washington Regional ",
+        "state": "Washington"
+    },
+    "KM94": {
+        "lat": 46.6874008179,
+        "long": -119.9209976196,
+        "name": "Desert Aire ",
+        "state": "Washington"
+    },
+    "KMWH": {
+        "lat": 47.20769882,
+        "long": -119.3199997,
+        "name": "Grant Co International ",
+        "state": "Washington"
+    },
+    "KNOW": {
+        "lat": 48.1414985657,
+        "long": -123.4140014648,
+        "name": "Port Angeles Cgas ",
+        "state": "Washington"
+    },
+    "KNRA": {
+        "lat": 48.1883010864,
+        "long": -122.6320037842,
+        "name": "Coupeville Nolf ",
+        "state": "Washington"
+    },
+    "KNUW": {
+        "lat": 48.35179901,
+        "long": -122.6559982,
+        "name": "Whidbey Island Naval Air Station /Ault Field/ ",
+        "state": "Washington"
+    },
+    "KOKH": {
+        "lat": 48.251499176,
+        "long": -122.674003601,
+        "name": "AJ Eisenberg ",
+        "state": "Washington"
+    },
+    "KOLM": {
+        "lat": 46.9693985,
+        "long": -122.9029999,
+        "name": "Olympia Regional ",
+        "state": "Washington"
+    },
+    "KOMK": {
+        "lat": 48.4644012451,
+        "long": -119.5179977417,
+        "name": "Omak ",
+        "state": "Washington"
+    },
+    "KORS": {
+        "lat": 48.7081985474,
+        "long": -122.910003662,
+        "name": "Orcas Island ",
+        "state": "Washington"
+    },
+    "KPAE": {
+        "lat": 47.90629959,
+        "long": -122.2819977,
+        "name": "Snohomish County (Paine Field) ",
+        "state": "Washington"
+    },
+    "KPLU": {
+        "lat": 47.1039009094,
+        "long": -122.2870025635,
+        "name": "Pierce County-Thun Field",
+        "state": "Washington"
+    },
+    "KPSC": {
+        "lat": 46.2647018433,
+        "long": -119.1190032959,
+        "name": "Tri Cities ",
+        "state": "Washington"
+    },
+    "KPUW": {
+        "lat": 46.7439002991,
+        "long": -117.1100006104,
+        "name": "Pullman Moscow Regional ",
+        "state": "Washington"
+    },
+    "KPWT": {
+        "lat": 47.4902000427,
+        "long": -122.7649993896,
+        "name": "Bremerton National ",
+        "state": "Washington"
+    },
+    "KR49": {
+        "lat": 48.7182006836,
+        "long": -118.65599823,
+        "name": "Ferry County ",
+        "state": "Washington"
+    },
+    "KRLD": {
+        "lat": 46.3055992126,
+        "long": -119.3040008545,
+        "name": "Richland ",
+        "state": "Washington"
+    },
+    "KRNT": {
+        "lat": 47.4930992126,
+        "long": -122.216003418,
+        "name": "Renton Municipal ",
+        "state": "Washington"
+    },
+    "KS10": {
+        "lat": 47.8660011292,
+        "long": -119.9430007935,
+        "name": "Lake Chelan ",
+        "state": "Washington"
+    },
+    "KS20": {
+        "lat": 45.8320999146,
+        "long": -120.8450012207,
+        "name": "Goldendale ",
+        "state": "Washington"
+    },
+    "KS23": {
+        "lat": 48.7080993652,
+        "long": -117.4130020142,
+        "name": "Ione Municipal ",
+        "state": "Washington"
+    },
+    "KS36": {
+        "lat": 47.3371009827,
+        "long": -122.1039962769,
+        "name": "Crest Airpark",
+        "state": "Washington"
+    },
+    "KS40": {
+        "lat": 46.21340179,
+        "long": -119.7910004,
+        "name": "Prosser ",
+        "state": "Washington"
+    },
+    "KS50": {
+        "lat": 47.3277015686,
+        "long": -122.2269973755,
+        "name": "Auburn Municipal ",
+        "state": "Washington"
+    },
+    "KS52": {
+        "lat": 48.4249000549,
+        "long": -120.1460037231,
+        "name": "Methow Valley State ",
+        "state": "Washington"
+    },
+    "KS70": {
+        "lat": 46.79489899,
+        "long": -119.0790024,
+        "name": "Othello Municipal ",
+        "state": "Washington"
+    },
+    "KS94": {
+        "lat": 46.8586997986,
+        "long": -117.4140014648,
+        "name": "Port of Whitman Business Air Center ",
+        "state": "Washington"
+    },
+    "KS95": {
+        "lat": 46.0469017029,
+        "long": -118.4169998169,
+        "name": "Martin Field",
+        "state": "Washington"
+    },
+    "KS97": {
+        "lat": 48.1049003601,
+        "long": -119.7210006714,
+        "name": "Anderson Field",
+        "state": "Washington"
+    },
+    "KS98": {
+        "lat": 46.2186012268,
+        "long": -119.209999084,
+        "name": "Vista Field",
+        "state": "Washington"
+    },
+    "KSEA": {
+        "lat": 47.4490013123,
+        "long": -122.3089981079,
+        "name": "Seattle Tacoma International ",
+        "state": "Washington"
+    },
+    "KSHN": {
+        "lat": 47.2336006165,
+        "long": -123.1480026245,
+        "name": "Sanderson Field",
+        "state": "Washington"
+    },
+    "KSKA": {
+        "lat": 47.6151008606,
+        "long": -117.65599823,
+        "name": "Fairchild Air Force Base",
+        "state": "Washington"
+    },
+    "KTCM": {
+        "lat": 47.1376991272,
+        "long": -122.4759979248,
+        "name": "McChord Air Force Base",
+        "state": "Washington"
+    },
+    "KTDO": {
+        "lat": 46.4771995544,
+        "long": -122.8059997559,
+        "name": "Ed Carlson Memorial Field South Lewis County ",
+        "state": "Washington"
+    },
+    "KTIW": {
+        "lat": 47.26789856,
+        "long": -122.5780029,
+        "name": "Tacoma Narrows ",
+        "state": "Washington"
+    },
+    "KUIL": {
+        "lat": 47.9365997314,
+        "long": -124.56300354,
+        "name": "Quillayute ",
+        "state": "Washington"
+    },
+    "KVUO": {
+        "lat": 45.6204986572,
+        "long": -122.65599823,
+        "name": "Pearson Field",
+        "state": "Washington"
+    },
+    "KW01": {
+        "lat": 48.7248683333,
+        "long": -119.465634722,
+        "name": "Tonasket Municipal ",
+        "state": "Washington"
+    },
+    "KW28": {
+        "lat": 48.0980987549,
+        "long": -123.18699646,
+        "name": "Sequim Valley ",
+        "state": "Washington"
+    },
+    "KYKM": {
+        "lat": 46.56819916,
+        "long": -120.5439987,
+        "name": "Yakima Air Terminal McAllister Field",
+        "state": "Washington"
+    },
+    "KZ10": {
+        "lat": 47.0217018127,
+        "long": -122.4459991455,
+        "name": "Pacemaker Landing Zone ",
+        "state": "Washington"
+    },
+    "WA00": {
+        "lat": 45.9000015259,
+        "long": -119.90599823,
+        "name": "Mercer Ranch ",
+        "state": "Washington"
+    },
+    "WA01": {
+        "lat": 46.3562011719,
+        "long": -123.8150024414,
+        "name": "Wirkkala ",
+        "state": "Washington"
+    },
+    "WA04": {
+        "lat": 47.8133010864,
+        "long": -122.0429992676,
+        "name": "Kyles ",
+        "state": "Washington"
+    },
+    "WA05": {
+        "lat": 47.6567993164,
+        "long": -122.733001709,
+        "name": "Apex Airpark",
+        "state": "Washington"
+    },
+    "WA07": {
+        "lat": 48.3748016357,
+        "long": -122.3389968872,
+        "name": "Barker ",
+        "state": "Washington"
+    },
+    "WA08": {
+        "lat": 47.7206993103,
+        "long": -117.908996582,
+        "name": "Zwainz Farms ",
+        "state": "Washington"
+    },
+    "WA09": {
+        "lat": 48.6123008728,
+        "long": -123.138999939,
+        "name": "Roche Harbor ",
+        "state": "Washington"
+    },
+    "WA12": {
+        "lat": 48.7095985413,
+        "long": -122.1780014038,
+        "name": "Acme Field",
+        "state": "Washington"
+    },
+    "WA14": {
+        "lat": 46.662399292,
+        "long": -118.8330001831,
+        "name": "Connell City ",
+        "state": "Washington"
+    },
+    "WA15": {
+        "lat": 47.6165008545,
+        "long": -119.2429962158,
+        "name": "Coulee City ",
+        "state": "Washington"
+    },
+    "WA16": {
+        "lat": 46.7997016907,
+        "long": -123.5410003662,
+        "name": "Banas Field",
+        "state": "Washington"
+    },
+    "WA17": {
+        "lat": 47.7552986145,
+        "long": -121.9820022583,
+        "name": "Majerle Strip STOLport",
+        "state": "Washington"
+    },
+    "WA18": {
+        "lat": 48.5101013184,
+        "long": -122.8030014038,
+        "name": "Decatur /Jones/ ",
+        "state": "Washington"
+    },
+    "WA20": {
+        "lat": 46.8480987549,
+        "long": -118.1770019531,
+        "name": "Gray Ranch ",
+        "state": "Washington"
+    },
+    "WA21": {
+        "lat": 48.0019989014,
+        "long": -117.2630004883,
+        "name": "Elk Heights ",
+        "state": "Washington"
+    },
+    "WA22": {
+        "lat": 47.9385986328,
+        "long": -122.608001709,
+        "name": "Mirth ",
+        "state": "Washington"
+    },
+    "WA23": {
+        "lat": 48.0209999084,
+        "long": -117.7389984131,
+        "name": "Pine Bluff ",
+        "state": "Washington"
+    },
+    "WA24": {
+        "lat": 46.396900177,
+        "long": -119.021003723,
+        "name": "Pfister's ",
+        "state": "Washington"
+    },
+    "WA25": {
+        "lat": 48.0959014893,
+        "long": -122.0159988403,
+        "name": "Green Valley Airfield",
+        "state": "Washington"
+    },
+    "WA26": {
+        "lat": 46.4081993103,
+        "long": -120.6350021362,
+        "name": "Harrah ",
+        "state": "Washington"
+    },
+    "WA29": {
+        "lat": 45.8956985474,
+        "long": -122.59400177,
+        "name": "La Center View-Air ",
+        "state": "Washington"
+    },
+    "WA30": {
+        "lat": 46.7910003662,
+        "long": -117.9209976196,
+        "name": "Lacrosse Municipal ",
+        "state": "Washington"
+    },
+    "WA35": {
+        "lat": 48.6222991943,
+        "long": -122.9469985962,
+        "name": "Clam Harbor ",
+        "state": "Washington"
+    },
+    "WA37": {
+        "lat": 46.9103012085,
+        "long": -120.43699646,
+        "name": "Chinook Farms ",
+        "state": "Washington"
+    },
+    "WA39": {
+        "lat": 46.1277999878,
+        "long": -119.0179977417,
+        "name": "Woodfield ",
+        "state": "Washington"
+    },
+    "WA41": {
+        "lat": 46.5988998413,
+        "long": -122.4840011597,
+        "name": "Bear Canyon West Field",
+        "state": "Washington"
+    },
+    "WA42": {
+        "lat": 47.9720001221,
+        "long": -122.7720031738,
+        "name": "Stacey's ",
+        "state": "Washington"
+    },
+    "WA45": {
+        "lat": 47.995300293,
+        "long": -122.9000015259,
+        "name": "Olympic Field",
+        "state": "Washington"
+    },
+    "WA46": {
+        "lat": 45.8302993774,
+        "long": -122.6370010376,
+        "name": "Daybreak ",
+        "state": "Washington"
+    },
+    "WA47": {
+        "lat": 47.1537017822,
+        "long": -120.6370010376,
+        "name": "Flying Rock Airpark",
+        "state": "Washington"
+    },
+    "WA49": {
+        "lat": 47.5027999878,
+        "long": -117.6480026245,
+        "name": "Flying R Ranch ",
+        "state": "Washington"
+    },
+    "WA52": {
+        "lat": 47.9569015503,
+        "long": -117.6039962769,
+        "name": "Deer Flat ",
+        "state": "Washington"
+    },
+    "WA56": {
+        "lat": 48.507598877,
+        "long": -122.0920028687,
+        "name": "Israel's Farm ",
+        "state": "Washington"
+    },
+    "WA57": {
+        "lat": 48.3138999939,
+        "long": -117.8399963379,
+        "name": "Bluecreek ",
+        "state": "Washington"
+    },
+    "WA58": {
+        "lat": 48.652606,
+        "long": -122.584617,
+        "name": "Eliza Island ",
+        "state": "Washington"
+    },
+    "WA59": {
+        "lat": 48.1248016357,
+        "long": -123.1760025024,
+        "name": "Rake's Glen ",
+        "state": "Washington"
+    },
+    "WA61": {
+        "lat": 47.7983016968,
+        "long": -122.5299987793,
+        "name": "Thompson ",
+        "state": "Washington"
+    },
+    "WA62": {
+        "lat": 47.4706993103,
+        "long": -117.4189987183,
+        "name": "Paradise Air Ranch ",
+        "state": "Washington"
+    },
+    "WA63": {
+        "lat": 45.562342,
+        "long": -122.256089,
+        "name": "Pleasant Farm ",
+        "state": "Washington"
+    },
+    "WA66": {
+        "lat": 45.8054008484,
+        "long": -121.5009994507,
+        "name": "Spring Creek Ranch ",
+        "state": "Washington"
+    },
+    "WA67": {
+        "lat": 45.6631011963,
+        "long": -122.4729995728,
+        "name": "Green Mountain STOLport",
+        "state": "Washington"
+    },
+    "WA68": {
+        "lat": 48.076944,
+        "long": -122.840661,
+        "name": "Sky Valley Airstrip",
+        "state": "Washington"
+    },
+    "WA69": {
+        "lat": 47.4017982483,
+        "long": -122.4980010986,
+        "name": "Wax Orchards ",
+        "state": "Washington"
+    },
+    "WA70": {
+        "lat": 48.5777015686,
+        "long": -118.9850006104,
+        "name": "Frosty Creek ",
+        "state": "Washington"
+    },
+    "WA72": {
+        "lat": 48.6446990967,
+        "long": -117.93800354,
+        "name": "Zema Private ",
+        "state": "Washington"
+    },
+    "WA73": {
+        "lat": 48.5250015259,
+        "long": -117.8529968262,
+        "name": "Smith ",
+        "state": "Washington"
+    },
+    "WA74": {
+        "lat": 47.2266998291,
+        "long": -119.908996582,
+        "name": "Quincy Flying Service ",
+        "state": "Washington"
+    },
+    "WA76": {
+        "lat": 45.956199646,
+        "long": -119.6200027466,
+        "name": "Columbia Crest Winery ",
+        "state": "Washington"
+    },
+    "WA77": {
+        "lat": 47.1957015991,
+        "long": -122.0220031738,
+        "name": "Enumclaw ",
+        "state": "Washington"
+    },
+    "WA78": {
+        "lat": 45.6278991699,
+        "long": -122.1849975586,
+        "name": "Sky River Ranch ",
+        "state": "Washington"
+    },
+    "WA79": {
+        "lat": 45.9332008362,
+        "long": -122.4179992676,
+        "name": "Walter Sutton's Private Strip",
+        "state": "Washington"
+    },
+    "WA80": {
+        "lat": 45.8942985535,
+        "long": -122.547996521,
+        "name": "Mc Clellan Field",
+        "state": "Washington"
+    },
+    "WA84": {
+        "lat": 47.2807006836,
+        "long": -122.1500015259,
+        "name": "Auburn Academy ",
+        "state": "Washington"
+    },
+    "WA87": {
+        "lat": 45.8158988953,
+        "long": -122.5530014038,
+        "name": "Parkside Airpark",
+        "state": "Washington"
+    },
+    "WA88": {
+        "lat": 48.8928985596,
+        "long": -122.5569992065,
+        "name": "Horse Fly ",
+        "state": "Washington"
+    },
+    "WA90": {
+        "lat": 48.7332000732,
+        "long": -122.3509979248,
+        "name": "Floathaven Airstrip",
+        "state": "Washington"
+    },
+    "WA95": {
+        "lat": 46.7186012268,
+        "long": -122.9110031128,
+        "name": "Skyqueen ",
+        "state": "Washington"
+    },
+    "WA96": {
+        "lat": 47.6074981689,
+        "long": -122.7740020752,
+        "name": "Leisureland Airpark",
+        "state": "Washington"
+    },
+    "WA97": {
+        "lat": 46.4431991577,
+        "long": -120.341003418,
+        "name": "Buena ",
+        "state": "Washington"
+    },
+    "WA99": {
+        "lat": 46.3292999268,
+        "long": -122.8860015869,
+        "name": "Flying K Ranch ",
+        "state": "Washington"
+    },
+    "WN04": {
+        "lat": 48.3923988342,
+        "long": -118.0989990234,
+        "name": "Erickson Ranch ",
+        "state": "Washington"
+    },
+    "WN05": {
+        "lat": 46.5148010254,
+        "long": -122.7919998169,
+        "name": "Harris ",
+        "state": "Washington"
+    },
+    "WN07": {
+        "lat": 48.4998016357,
+        "long": -122.814002991,
+        "name": "Decatur Shores ",
+        "state": "Washington"
+    },
+    "WN10": {
+        "lat": 45.9934005737,
+        "long": -122.3799972534,
+        "name": "Mount St Helen's Aero Ranch ",
+        "state": "Washington"
+    },
+    "WN14": {
+        "lat": 47.8415985107,
+        "long": -117.4469985962,
+        "name": "Pete's ",
+        "state": "Washington"
+    },
+    "WN15": {
+        "lat": 47.129699707,
+        "long": -122.0559997559,
+        "name": "Burnett Landing ",
+        "state": "Washington"
+    },
+    "WN20": {
+        "lat": 47.8722991943,
+        "long": -121.922996521,
+        "name": "Van De Plasch ",
+        "state": "Washington"
+    },
+    "WN21": {
+        "lat": 48.0815010071,
+        "long": -123.3980026245,
+        "name": "Lawson Airpark",
+        "state": "Washington"
+    },
+    "WN23": {
+        "lat": 48.1017990112,
+        "long": -123.1800003052,
+        "name": "Grand View International ",
+        "state": "Washington"
+    },
+    "WN24": {
+        "lat": 46.2925987244,
+        "long": -122.9499969482,
+        "name": "Cougar Flat Airstrip",
+        "state": "Washington"
+    },
+    "WN26": {
+        "lat": 46.8849983215,
+        "long": -117.077003479,
+        "name": "Schoepflin ",
+        "state": "Washington"
+    },
+    "WN29": {
+        "lat": 48.1304016113,
+        "long": -123.2070007324,
+        "name": "Blue Ribbon ",
+        "state": "Washington"
+    },
+    "WN30": {
+        "lat": 46.9198989868,
+        "long": -118.0920028687,
+        "name": "Clinesmith Ranch ",
+        "state": "Washington"
+    },
+    "WN31": {
+        "lat": 46.6031990051,
+        "long": -119.06300354,
+        "name": "Slinkard Airfield",
+        "state": "Washington"
+    },
+    "WN33": {
+        "lat": 46.3804016113,
+        "long": -118.987998962,
+        "name": "Columbia Ag 2 ",
+        "state": "Washington"
+    },
+    "WN34": {
+        "lat": 46.5308990479,
+        "long": -122.6839981079,
+        "name": "Ethel International ",
+        "state": "Washington"
+    },
+    "WN35": {
+        "lat": 48.9086990356,
+        "long": -122.5650024414,
+        "name": "Meadow Mist ",
+        "state": "Washington"
+    },
+    "WN36": {
+        "lat": 46.96900177,
+        "long": -122.8209991455,
+        "name": "Kari Field",
+        "state": "Washington"
+    },
+    "WN40": {
+        "lat": 48.1903991699,
+        "long": -122.6429977417,
+        "name": "Coupeville Airpark",
+        "state": "Washington"
+    },
+    "WN41": {
+        "lat": 47.3044013977,
+        "long": -117.9619979858,
+        "name": "Redfern Aerodrome",
+        "state": "Washington"
+    },
+    "WN42": {
+        "lat": 47.1837997437,
+        "long": -122.1200027466,
+        "name": "Flying H Ranch ",
+        "state": "Washington"
+    },
+    "WN45": {
+        "lat": 46.77930069,
+        "long": -120.4440002,
+        "name": "Take Five ",
+        "state": "Washington"
+    },
+    "WN47": {
+        "lat": 47.0816993713,
+        "long": -123.2699966431,
+        "name": "Bear Valley Skyranch ",
+        "state": "Washington"
+    },
+    "WN48": {
+        "lat": 46.7904014587,
+        "long": -123.3099975586,
+        "name": "Kimbrel Farm ",
+        "state": "Washington"
+    },
+    "WN49": {
+        "lat": 48.121799469,
+        "long": -123.087997437,
+        "name": "Flying S Airfield",
+        "state": "Washington"
+    },
+    "WN51": {
+        "lat": 48.5209007263,
+        "long": -122.4649963379,
+        "name": "Bayview Farms ",
+        "state": "Washington"
+    },
+    "WN53": {
+        "lat": 48.1104011536,
+        "long": -122.06199646,
+        "name": "Frontier Airpark",
+        "state": "Washington"
+    },
+    "WN54": {
+        "lat": 47.7349014282,
+        "long": -117.0709991455,
+        "name": "Ellerport ",
+        "state": "Washington"
+    },
+    "WN55": {
+        "lat": 46.5115013123,
+        "long": -122.0059967041,
+        "name": "Randle-Kiona Airpark",
+        "state": "Washington"
+    },
+    "WN59": {
+        "lat": 46.53760147,
+        "long": -122.7180023,
+        "name": "Nelsons Nitch ",
+        "state": "Washington"
+    },
+    "WN60": {
+        "lat": 48.1405982971,
+        "long": -123.18800354,
+        "name": "Swanton Ultralightport",
+        "state": "Washington"
+    },
+    "WN61": {
+        "lat": 47.7252006531,
+        "long": -117.2799987793,
+        "name": "Tai's Landing ",
+        "state": "Washington"
+    },
+    "WN64": {
+        "lat": 46.9743003845,
+        "long": -120.4619979858,
+        "name": "J K D Farms ",
+        "state": "Washington"
+    },
+    "WN65": {
+        "lat": 46.9725990295,
+        "long": -123.4769973755,
+        "name": "My ",
+        "state": "Washington"
+    },
+    "WN72": {
+        "lat": 46.8648986816,
+        "long": -118.3249969482,
+        "name": "Kinch Farms ",
+        "state": "Washington"
+    },
+    "WN74": {
+        "lat": 46.5853996277,
+        "long": -122.6259994507,
+        "name": "Burnt Ridge Airstrip",
+        "state": "Washington"
+    },
+    "WN76": {
+        "lat": 47.243598938,
+        "long": -121.9250030518,
+        "name": "Bergseth Field",
+        "state": "Washington"
+    },
+    "WN80": {
+        "lat": 46.0979003906,
+        "long": -122.8649978638,
+        "name": "Walters Arv Ultralightport",
+        "state": "Washington"
+    },
+    "WN87": {
+        "lat": 47.2085990906,
+        "long": -122.0930023193,
+        "name": "Bryan ",
+        "state": "Washington"
+    },
+    "WN88": {
+        "lat": 46.5192985535,
+        "long": -124.0319976807,
+        "name": "Martin ",
+        "state": "Washington"
+    },
+    "WN89": {
+        "lat": 47.8876991272,
+        "long": -117.34400177,
+        "name": "Lee's ",
+        "state": "Washington"
+    },
+    "WN92": {
+        "lat": 47.6085014343,
+        "long": -117.1809997559,
+        "name": "Sky Meadows Airpark",
+        "state": "Washington"
+    },
+    "WN95": {
+        "lat": 46.8848991394,
+        "long": -119.8909988403,
+        "name": "Brown Boy ",
+        "state": "Washington"
+    },
+    "WS87": {
+        "lat": 48.331869,
+        "long": -120.058253,
+        "name": "Port Field",
+        "state": "Washington"
+    },
+    "WT01": {
+        "lat": 46.949167,
+        "long": -120.481111,
+        "name": "Hillcrest Farms ",
+        "state": "Washington"
+    },
+    "WT03": {
+        "lat": 47.900278,
+        "long": -119.895833,
+        "name": "River View Airpark",
+        "state": "Washington"
+    },
+    "WT21": {
+        "lat": 47.894536,
+        "long": -117.439807,
+        "name": "Deer Park / Radial Flyer ",
+        "state": "Washington"
+    },
+    "WT44": {
+        "lat": 46.177333,
+        "long": -123.385,
+        "name": "Michair ",
+        "state": "Washington"
+    },
+    "WT77": {
+        "lat": 47.355222,
+        "long": -122.790278,
+        "name": "Rocky Bay ",
+        "state": "Washington"
+    },
+    "WT88": {
+        "lat": 46.841,
+        "long": -117.056281,
+        "name": "Hill ",
+        "state": "Washington"
+    }
+}

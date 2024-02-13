@@ -1,0 +1,72 @@
+{
+  "HUAJ": {
+    "lat": 3.3392300606,
+    "long": 31.7646999359,
+    "name": "Adjumani "
+  },
+  "HUAR": {
+    "lat": 3.0499999523,
+    "long": 30.9169998169,
+    "name": "Arua "
+  },
+  "HUEN": {
+    "lat": 0.0423859991,
+    "long": 32.4435005188,
+    "name": "Entebbe International "
+  },
+  "HUGU": {
+    "lat": 2.805560112,
+    "long": 32.2718009949,
+    "name": "Gulu "
+  },
+  "HUJI": {
+    "lat": 0.4499999881,
+    "long": 33.2000007629,
+    "name": "Jinja "
+  },
+  "HUKB": {
+    "lat": -1.226111,
+    "long": 29.96,
+    "name": "Kabale "
+  },
+  "HUKF": {
+    "lat": 2.326390028,
+    "long": 31.497800827,
+    "name": "Kabalega Falls "
+  },
+  "HUKS": {
+    "lat": 0.1829999983,
+    "long": 30.1000003815,
+    "name": "Kasese "
+  },
+  "HULI": {
+    "lat": 2.25,
+    "long": 32.9169998169,
+    "name": "Lira "
+  },
+  "HUMA": {
+    "lat": -0.5552780032,
+    "long": 30.5993995667,
+    "name": "Mbarara "
+  },
+  "HUMI": {
+    "lat": 1.7580599785,
+    "long": 31.736700058,
+    "name": "Masindi "
+  },
+  "HUPA": {
+    "lat": 2.202222,
+    "long": 31.554444,
+    "name": "Pakuba "
+  },
+  "HUSO": {
+    "lat": 1.7276899815,
+    "long": 33.6227989197,
+    "name": "Soroti "
+  },
+  "HUTO": {
+    "lat": 0.6830000281,
+    "long": 34.1669998169,
+    "name": "Tororo "
+  }
+}

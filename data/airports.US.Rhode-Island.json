@@ -1,0 +1,56 @@
+{
+    "KBID": {
+        "lat": 41.1680984497,
+        "long": -71.577796936,
+        "name": "Block Island State ",
+        "state": "Rhode-Island"
+    },
+    "KOQU": {
+        "lat": 41.5970993042,
+        "long": -71.4121017456,
+        "name": "Quonset State ",
+        "state": "Rhode-Island"
+    },
+    "KPVD": {
+        "lat": 41.7326011658,
+        "long": -71.4204025269,
+        "name": "Theodore Francis Green State ",
+        "state": "Rhode-Island"
+    },
+    "KSFZ": {
+        "lat": 41.9207992554,
+        "long": -71.4914016724,
+        "name": "North Central State ",
+        "state": "Rhode-Island"
+    },
+    "KUUU": {
+        "lat": 41.5323982239,
+        "long": -71.28150177,
+        "name": "Newport State ",
+        "state": "Rhode-Island"
+    },
+    "KWST": {
+        "lat": 41.3496017456,
+        "long": -71.8033981323,
+        "name": "Westerly State ",
+        "state": "Rhode-Island"
+    },
+    "RI07": {
+        "lat": 41.5789985657,
+        "long": -71.1417007446,
+        "name": "Wing-Over Farm ",
+        "state": "Rhode-Island"
+    },
+    "RI11": {
+        "lat": 41.6968002319,
+        "long": -71.7836990356,
+        "name": "Riconn ",
+        "state": "Rhode-Island"
+    },
+    "RI20": {
+        "lat": 41.7394981384,
+        "long": -71.5244979858,
+        "name": "Mystery Farm ",
+        "state": "Rhode-Island"
+    }
+}

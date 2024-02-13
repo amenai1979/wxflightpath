@@ -1,0 +1,122 @@
+{
+  "RCAY": {
+    "lat": 22.7824993134,
+    "long": 120.2630004883,
+    "name": "Gangshan Air Force Base"
+  },
+  "RCBS": {
+    "lat": 24.4279003143,
+    "long": 118.3590011597,
+    "name": "Kinmen "
+  },
+  "RCDC": {
+    "lat": 22.6723995209,
+    "long": 120.4619979858,
+    "name": "Pingtung South "
+  },
+  "RCDI": {
+    "lat": 24.8551006317,
+    "long": 121.2379989624,
+    "name": "Longtan Air Base"
+  },
+  "RCFG": {
+    "lat": 26.1597995758,
+    "long": 119.9580001831,
+    "name": "Matsu Nangan "
+  },
+  "RCFN": {
+    "lat": 22.7549991608,
+    "long": 121.1019973755,
+    "name": "Taitung "
+  },
+  "RCGI": {
+    "lat": 22.6739006042,
+    "long": 121.466003418,
+    "name": "Lyudao "
+  },
+  "RCGM": {
+    "lat": 25.0566005707,
+    "long": 121.2442626953,
+    "name": "Taoyuan Air Base"
+  },
+  "RCKH": {
+    "lat": 22.5771007538,
+    "long": 120.3499984741,
+    "name": "Kaohsiung International "
+  },
+  "RCKU": {
+    "lat": 23.4617996216,
+    "long": 120.3929977417,
+    "name": "Chiayi "
+  },
+  "RCKW": {
+    "lat": 22.0410995483,
+    "long": 120.7300033569,
+    "name": "Hengchun "
+  },
+  "RCLG": {
+    "lat": 24.1863002777,
+    "long": 120.6539993286,
+    "name": "Taichung "
+  },
+  "RCLY": {
+    "lat": 22.0270004272,
+    "long": 121.5350036621,
+    "name": "Lanyu "
+  },
+  "RCMQ": {
+    "lat": 24.2646999359,
+    "long": 120.6210021973,
+    "name": "Taichung Ching Chuang Kang "
+  },
+  "RCMT": {
+    "lat": 26.224199295,
+    "long": 120.0029983521,
+    "name": "Matsu Beigan "
+  },
+  "RCNN": {
+    "lat": 22.9503993988,
+    "long": 120.2060012817,
+    "name": "Tainan "
+  },
+  "RCPO": {
+    "lat": 24.8180007935,
+    "long": 120.9390029907,
+    "name": "Hsinchu Air Base"
+  },
+  "RCQC": {
+    "lat": 23.5687007904,
+    "long": 119.6279983521,
+    "name": "Makung "
+  },
+  "RCQS": {
+    "lat": 22.7931003571,
+    "long": 121.1819992065,
+    "name": "Chihhang Air Base"
+  },
+  "RCSQ": {
+    "lat": 22.7001991272,
+    "long": 120.4820022583,
+    "name": "Pingtung North "
+  },
+  "RCSS": {
+    "lat": 25.0694007874,
+    "long": 121.5520019531,
+    "name": "Taipei Songshan "
+  },
+  "RCTP": {
+    "lat": 25.0776996613,
+    "long": 121.233001709,
+    "name": "Taiwan Taoyuan International "
+  },
+  "RCWA": {
+    "lat": 23.3673725128,
+    "long": 119.5027770996,
+    "name": "Wang-an "
+  },
+  "RCYU": {
+    "lat": 24.0230998993,
+    "long": 121.6179962158,
+    "name": "Hualien "
+  }
+}

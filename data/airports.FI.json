@@ -1,0 +1,452 @@
+{
+  "EFAA": {
+    "lat": 67.6035995483,
+    "long": 23.9717006683,
+    "name": "Aavahelukka "
+  },
+  "EFAH": {
+    "lat": 64.8953018188,
+    "long": 25.752199173,
+    "name": "Ahmosuo "
+  },
+  "EFAL": {
+    "lat": 62.5546989441,
+    "long": 23.573299408,
+    "name": "Alavus "
+  },
+  "EFET": {
+    "lat": 68.3626022339,
+    "long": 23.4242992401,
+    "name": "Enontekio "
+  },
+  "EFEU": {
+    "lat": 61.1161003113,
+    "long": 22.2014007568,
+    "name": "Eura "
+  },
+  "EFFO": {
+    "lat": 60.8018989563,
+    "long": 23.6455993652,
+    "name": "Forssa "
+  },
+  "EFGE": {
+    "lat": 60.0868988037,
+    "long": 22.521900177,
+    "name": "Genbole "
+  },
+  "EFHA": {
+    "lat": 61.8559989929,
+    "long": 24.7866001129,
+    "name": "Halli "
+  },
+  "EFHF": {
+    "lat": 60.2546005249,
+    "long": 25.0428009033,
+    "name": "Helsinki Malmi "
+  },
+  "EFHI": {
+    "lat": 62.2578010559,
+    "long": 24.3341999054,
+    "name": "Haapamaki "
+  },
+  "EFHJ": {
+    "lat": 63.7122001648,
+    "long": 25.3950004578,
+    "name": "Haapajarvi "
+  },
+  "EFHK": {
+    "lat": 60.317199707,
+    "long": 24.963300705,
+    "name": "Helsinki Vantaa "
+  },
+  "EFHL": {
+    "lat": 64.9669036865,
+    "long": 24.7043991089,
+    "name": "Hailuoto "
+  },
+  "EFHM": {
+    "lat": 61.6897010803,
+    "long": 23.0736999512,
+    "name": "Hameenkyro "
+  },
+  "EFHN": {
+    "lat": 59.8488998413,
+    "long": 23.0835990906,
+    "name": "Hanko "
+  },
+  "EFHP": {
+    "lat": 64.1130981445,
+    "long": 25.5041999817,
+    "name": "Haapavesi "
+  },
+  "EFHV": {
+    "lat": 60.6543998718,
+    "long": 24.8810997009,
+    "name": "Hyvinkaa "
+  },
+  "EFII": {
+    "lat": 63.6319007874,
+    "long": 27.1222000122,
+    "name": "Iisalmi "
+  },
+  "EFIK": {
+    "lat": 60.4625015259,
+    "long": 23.6525001526,
+    "name": "Kiikala "
+  },
+  "EFIM": {
+    "lat": 61.2491989136,
+    "long": 28.9036998749,
+    "name": "Immola "
+  },
+  "EFIT": {
+    "lat": 62.1660995483,
+    "long": 30.073600769,
+    "name": "Kitee "
+  },
+  "EFIV": {
+    "lat": 68.6072998047,
+    "long": 27.4053001404,
+    "name": "Ivalo "
+  },
+  "EFJM": {
+    "lat": 61.7785987854,
+    "long": 22.7161006927,
+    "name": "Jamijarvi "
+  },
+  "EFJO": {
+    "lat": 62.6628990173,
+    "long": 29.6075000763,
+    "name": "Joensuu "
+  },
+  "EFJP": {
+    "lat": 68.7114028931,
+    "long": 25.7527999878,
+    "name": "Jakalapaa "
+  },
+  "EFJY": {
+    "lat": 62.3995018005,
+    "long": 25.6783008575,
+    "name": "Jyvaskyla "
+  },
+  "EFKA": {
+    "lat": 63.1271018982,
+    "long": 23.051399231,
+    "name": "Kauhava "
+  },
+  "EFKE": {
+    "lat": 65.7787017822,
+    "long": 24.5820999146,
+    "name": "Kemi-Tornio "
+  },
+  "EFKG": {
+    "lat": 60.2468986511,
+    "long": 20.8047008514,
+    "name": "Kumlinge "
+  },
+  "EFKH": {
+    "lat": 64.1125030518,
+    "long": 29.4386005402,
+    "name": "Kuhmo "
+  },
+  "EFKI": {
+    "lat": 64.2854995728,
+    "long": 27.6923999786,
+    "name": "Kajaani "
+  },
+  "EFKJ": {
+    "lat": 62.4625015259,
+    "long": 22.3931007385,
+    "name": "Kauhajoki "
+  },
+  "EFKK": {
+    "lat": 63.7211990356,
+    "long": 23.1431007385,
+    "name": "Kruunupyy "
+  },
+  "EFKM": {
+    "lat": 66.7128982544,
+    "long": 27.1567993164,
+    "name": "Kemijarvi "
+  },
+  "EFKN": {
+    "lat": 63.9206008911,
+    "long": 24.0867004395,
+    "name": "Kannus "
+  },
+  "EFKO": {
+    "lat": 64.2285995483,
+    "long": 23.8264007568,
+    "name": "Kalajoki "
+  },
+  "EFKR": {
+    "lat": 63.989200592,
+    "long": 25.7436008453,
+    "name": "Karsamaki "
+  },
+  "EFKS": {
+    "lat": 65.9876022339,
+    "long": 29.2394008636,
+    "name": "Kuusamo "
+  },
+  "EFKT": {
+    "lat": 67.7009963989,
+    "long": 24.8467998505,
+    "name": "Kittila "
+  },
+  "EFKU": {
+    "lat": 63.0070991516,
+    "long": 27.7978000641,
+    "name": "Kuopio "
+  },
+  "EFKV": {
+    "lat": 63.1253013611,
+    "long": 25.1242008209,
+    "name": "Kivijarvi "
+  },
+  "EFKY": {
+    "lat": 60.5713996887,
+    "long": 26.8960990906,
+    "name": "Kymi "
+  },
+  "EFLA": {
+    "lat": 61.1441993713,
+    "long": 25.6935005188,
+    "name": "Lahti Vesivehmaa "
+  },
+  "EFLL": {
+    "lat": 63.3993988037,
+    "long": 27.4789009094,
+    "name": "Lapinlahti "
+  },
+  "EFLN": {
+    "lat": 63.5119018555,
+    "long": 29.6291999817,
+    "name": "Lieksa Nurmes "
+  },
+  "EFLP": {
+    "lat": 61.0446014404,
+    "long": 28.1443996429,
+    "name": "Lappeenranta "
+  },
+  "EFMA": {
+    "lat": 60.1222000122,
+    "long": 19.8981990814,
+    "name": "Mariehamn "
+  },
+  "EFME": {
+    "lat": 62.9467010498,
+    "long": 23.5188999176,
+    "name": "Menkijarvi "
+  },
+  "EFMI": {
+    "lat": 61.6865997314,
+    "long": 27.2017993927,
+    "name": "Mikkeli "
+  },
+  "EFMN": {
+    "lat": 60.5724983215,
+    "long": 25.5088996887,
+    "name": "Mantsala "
+  },
+  "EFMP": {
+    "lat": 68.6603012085,
+    "long": 25.7028999329,
+    "name": "Martiniiskonpalo "
+  },
+  "EFNS": {
+    "lat": 60.5200004578,
+    "long": 24.8316993713,
+    "name": "Savikko "
+  },
+  "EFNU": {
+    "lat": 60.3339004517,
+    "long": 24.2964000702,
+    "name": "Nummela "
+  },
+  "EFOP": {
+    "lat": 60.8763999939,
+    "long": 22.7446994781,
+    "name": "Oripaa "
+  },
+  "EFOU": {
+    "lat": 64.9300994873,
+    "long": 25.3546009064,
+    "name": "Oulu "
+  },
+  "EFPA": {
+    "lat": 68.1502227783,
+    "long": 25.829372406,
+    "name": "Pokka "
+  },
+  "EFPH": {
+    "lat": 62.4646987915,
+    "long": 30.0352993011,
+    "name": "Pyhoselka "
+  },
+  "EFPI": {
+    "lat": 61.2456016541,
+    "long": 22.1933994293,
+    "name": "Piikajarvi "
+  },
+  "EFPK": {
+    "lat": 62.2647018433,
+    "long": 27.0027999878,
+    "name": "Pieksamaki "
+  },
+  "EFPN": {
+    "lat": 61.7289009094,
+    "long": 29.3936004639,
+    "name": "Punkaharju "
+  },
+  "EFPO": {
+    "lat": 61.4617004395,
+    "long": 21.7999992371,
+    "name": "Pori "
+  },
+  "EFPU": {
+    "lat": 65.4021987915,
+    "long": 26.9468994141,
+    "name": "Pudasjarvi "
+  },
+  "EFPY": {
+    "lat": 63.7318992615,
+    "long": 25.9263000488,
+    "name": "Pyhasalmi "
+  },
+  "EFRA": {
+    "lat": 63.4241981506,
+    "long": 28.1242008209,
+    "name": "Rautavaara "
+  },
+  "EFRH": {
+    "lat": 64.6881027222,
+    "long": 24.6958007812,
+    "name": "Raahe Pattijoki "
+  },
+  "EFRN": {
+    "lat": 62.0654983521,
+    "long": 28.3565006256,
+    "name": "Rantasalmi "
+  },
+  "EFRO": {
+    "lat": 66.5647964478,
+    "long": 25.8304004669,
+    "name": "Rovaniemi "
+  },
+  "EFRU": {
+    "lat": 65.9730987549,
+    "long": 26.3652992249,
+    "name": "Ranua "
+  },
+  "EFRV": {
+    "lat": 63.7056007385,
+    "long": 26.616399765,
+    "name": "Kiuruvesi "
+  },
+  "EFRY": {
+    "lat": 60.7447013855,
+    "long": 24.10779953,
+    "name": "Rayskala "
+  },
+  "EFSA": {
+    "lat": 61.9430999756,
+    "long": 28.9451007843,
+    "name": "Savonlinna "
+  },
+  "EFSE": {
+    "lat": 61.0624008179,
+    "long": 26.7989006042,
+    "name": "Selanpaa "
+  },
+  "EFSI": {
+    "lat": 62.6921005249,
+    "long": 22.8323001862,
+    "name": "Seinajoki "
+  },
+  "EFSJ": {
+    "lat": 63.8194007874,
+    "long": 27.7693996429,
+    "name": "Sonkajarvi Jyrkk "
+  },
+  "EFSO": {
+    "lat": 67.3949966431,
+    "long": 26.6191005707,
+    "name": "Sodankyla "
+  },
+  "EFSU": {
+    "lat": 64.8218994141,
+    "long": 28.7103004456,
+    "name": "Suomussalmi "
+  },
+  "EFTO": {
+    "lat": 60.0792007446,
+    "long": 24.1721992493,
+    "name": "Torbacka "
+  },
+  "EFTP": {
+    "lat": 61.414100647,
+    "long": 23.6044006348,
+    "name": "Tampere-Pirkkala "
+  },
+  "EFTS": {
+    "lat": 61.7733001709,
+    "long": 24.0270004272,
+    "name": "Teisko "
+  },
+  "EFTU": {
+    "lat": 60.5140991211,
+    "long": 22.2628002167,
+    "name": "Turku "
+  },
+  "EFUT": {
+    "lat": 60.8964004517,
+    "long": 26.9384002686,
+    "name": "Utti Air Base"
+  },
+  "EFVA": {
+    "lat": 63.0507011414,
+    "long": 21.7621994019,
+    "name": "Vaasa "
+  },
+  "EFVI": {
+    "lat": 63.1225013733,
+    "long": 25.8160991669,
+    "name": "Viitasaari "
+  },
+  "EFVL": {
+    "lat": 64.5018997192,
+    "long": 26.7600002289,
+    "name": "Vaala "
+  },
+  "EFVP": {
+    "lat": 61.0396995544,
+    "long": 22.5916996002,
+    "name": "Vampula "
+  },
+  "EFVR": {
+    "lat": 62.1711006165,
+    "long": 27.8686008453,
+    "name": "Varkaus "
+  },
+  "EFVT": {
+    "lat": 63.3978004456,
+    "long": 24.0305995941,
+    "name": "Sulkaharju "
+  },
+  "EFVU": {
+    "lat": 68.0871963501,
+    "long": 27.1238994598,
+    "name": "Vuotso "
+  },
+  "EFWB": {
+    "lat": 60.6636009216,
+    "long": 26.7458000183,
+    "name": "Wredeby "
+  },
+  "EFYL": {
+    "lat": 64.0605010986,
+    "long": 24.7159996033,
+    "name": "Ylivieska "
+  }
+}

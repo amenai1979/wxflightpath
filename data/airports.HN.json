@@ -1,0 +1,692 @@
+{
+  "MHAC": {
+    "lat": 13.2436113358,
+    "long": -87.3413925171,
+    "name": "Acensa "
+  },
+  "MHAG": {
+    "lat": 13.25,
+    "long": -87.3580551147,
+    "name": "Sur Agropecuaria "
+  },
+  "MHAH": {
+    "lat": 15.4722003937,
+    "long": -84.3522033691,
+    "name": "Ahuas "
+  },
+  "MHAL": {
+    "lat": 14.4933328629,
+    "long": -87.1063919067,
+    "name": "El Alto "
+  },
+  "MHAM": {
+    "lat": 13.2683000565,
+    "long": -87.6603012085,
+    "name": "Amapala "
+  },
+  "MHAN": {
+    "lat": 14.7458333969,
+    "long": -87.4052810669,
+    "name": "San Luis "
+  },
+  "MHAP": {
+    "lat": 14.0108327866,
+    "long": -86.3891677856,
+    "name": "Apala "
+  },
+  "MHAR": {
+    "lat": 14.2852783203,
+    "long": -87.2291641235,
+    "name": "Archaga "
+  },
+  "MHAS": {
+    "lat": 14.5930557251,
+    "long": -87.8405532837,
+    "name": "Alas Del Socorro "
+  },
+  "MHAU": {
+    "lat": 14.7177782059,
+    "long": -86.5708312988,
+    "name": "Hacienda Ulua "
+  },
+  "MHAY": {
+    "lat": 15.7352781296,
+    "long": -84.5433349609,
+    "name": "Araslaya "
+  },
+  "MHAZ": {
+    "lat": 14.4333333969,
+    "long": -86.0891647339,
+    "name": "Aserradero Azacualpa "
+  },
+  "MHBA": {
+    "lat": 16.4330558777,
+    "long": -86.1394424438,
+    "name": "Barbareta "
+  },
+  "MHBE": {
+    "lat": 13.1019439697,
+    "long": -87.1419448853,
+    "name": "San Bernardo "
+  },
+  "MHBL": {
+    "lat": 15.7630996704,
+    "long": -84.5436019897,
+    "name": "Brus Laguna "
+  },
+  "MHCA": {
+    "lat": 14.9169998169,
+    "long": -85.9000015259,
+    "name": "Catacamas "
+  },
+  "MHCB": {
+    "lat": 15.8883333206,
+    "long": -84.7555541992,
+    "name": "Cocobila "
+  },
+  "MHCC": {
+    "lat": 14.0266666412,
+    "long": -88.3441696167,
+    "name": "Concepcion "
+  },
+  "MHCG": {
+    "lat": 14.432299614,
+    "long": -87.6246032715,
+    "name": "Shaoguan "
+  },
+  "MHCI": {
+    "lat": 15.8319444656,
+    "long": -85.0269470215,
+    "name": "Chiquerito "
+  },
+  "MHCL": {
+    "lat": 14.1619443893,
+    "long": -88.0344467163,
+    "name": "Colon "
+  },
+  "MHCM": {
+    "lat": 14.8883333206,
+    "long": -88.4044418335,
+    "name": "Choloma "
+  },
+  "MHCO": {
+    "lat": 15.2527780533,
+    "long": -84.2333297729,
+    "name": "Coco "
+  },
+  "MHCP": {
+    "lat": 15.9544439316,
+    "long": -86.4986114502,
+    "name": "Cochino Pequeno "
+  },
+  "MHCR": {
+    "lat": 15.0293998718,
+    "long": -86.6923980713,
+    "name": "Carta "
+  },
+  "MHCS": {
+    "lat": 15.445555687,
+    "long": -86.67527771,
+    "name": "Coyoles "
+  },
+  "MHCU": {
+    "lat": 15.3166666031,
+    "long": -83.5916671753,
+    "name": "Cauquira "
+  },
+  "MHDU": {
+    "lat": 14.9891004562,
+    "long": -84.2208023071,
+    "name": "Durzona "
+  },
+  "MHEA": {
+    "lat": 15.5055561066,
+    "long": -86.57472229,
+    "name": "El Arrayan "
+  },
+  "MHEC": {
+    "lat": 14.457777977,
+    "long": -87.0586090088,
+    "name": "El Cubo "
+  },
+  "MHEI": {
+    "lat": 15.6486110687,
+    "long": -87.7883300781,
+    "name": "La America "
+  },
+  "MHEL": {
+    "lat": 13.8730564117,
+    "long": -86.5605545044,
+    "name": "Barrio El Aterrizaje "
+  },
+  "MHEN": {
+    "lat": 14.6619443893,
+    "long": -86.9150009155,
+    "name": "Aserradero El Encino "
+  },
+  "MHEZ": {
+    "lat": 15.6097221375,
+    "long": -86.1394424438,
+    "name": "La Esperanza "
+  },
+  "MHFA": {
+    "lat": 14.5980558395,
+    "long": -86.4838867188,
+    "name": "Finca San Antonio "
+  },
+  "MHFC": {
+    "lat": 16.403055191,
+    "long": -86.2844467163,
+    "name": "Fort Cay "
+  },
+  "MHFD": {
+    "lat": 15.2697219849,
+    "long": -87.9027786255,
+    "name": "Finca 12 "
+  },
+  "MHFN": {
+    "lat": 14.1133327484,
+    "long": -86.9527816772,
+    "name": "San Fernando "
+  },
+  "MHGA": {
+    "lat": 15.1766672134,
+    "long": -88.4899978638,
+    "name": "Chumbagua "
+  },
+  "MHGB": {
+    "lat": 14.7466669083,
+    "long": -87.3752746582,
+    "name": "Guayabillas "
+  },
+  "MHGC": {
+    "lat": 14.8386106491,
+    "long": -85.8683319092,
+    "name": "Grupo Carnol "
+  },
+  "MHGE": {
+    "lat": 14.875,
+    "long": -85.7761077881,
+    "name": "El Aguacate "
+  },
+  "MHGG": {
+    "lat": 14.3675003052,
+    "long": -87.9113922119,
+    "name": "Santiago De Puringla "
+  },
+  "MHGR": {
+    "lat": 15.9699001312,
+    "long": -85.0892028809,
+    "name": "Sangrelaya "
+  },
+  "MHGS": {
+    "lat": 14.5966672897,
+    "long": -88.5941696167,
+    "name": "Gracias "
+  },
+  "MHGY": {
+    "lat": 14.7847223282,
+    "long": -86.8633346558,
+    "name": "Guayape "
+  },
+  "MHHE": {
+    "lat": 14.7550001144,
+    "long": -86.0041656494,
+    "name": "La Herradura "
+  },
+  "MHHG": {
+    "lat": 14.5988893509,
+    "long": -86.4608306885,
+    "name": "Hacienda Galeras "
+  },
+  "MHHO": {
+    "lat": 15.427778244,
+    "long": -86.8949966431,
+    "name": "Agua Caliente "
+  },
+  "MHIC": {
+    "lat": 17.4073009491,
+    "long": -83.9327011108,
+    "name": "Islas Del Cisne "
+  },
+  "MHIN": {
+    "lat": 14.788611412,
+    "long": -87.3497238159,
+    "name": "Minas De Oro "
+  },
+  "MHIR": {
+    "lat": 15.9391670227,
+    "long": -85.13722229,
+    "name": "Iriona "
+  },
+  "MHIZ": {
+    "lat": 15.9102783203,
+    "long": -85.1711120605,
+    "name": "Izapan "
+  },
+  "MHJC": {
+    "lat": 15.290555954,
+    "long": -86.9122238159,
+    "name": "Jocon "
+  },
+  "MHJE": {
+    "lat": 15.8780555725,
+    "long": -84.7263870239,
+    "name": "Nueva Jerusalen "
+  },
+  "MHJI": {
+    "lat": 15.006111145,
+    "long": -86.0491638184,
+    "name": "Jicalapa "
+  },
+  "MHJO": {
+    "lat": 14.8047218323,
+    "long": -86.9191665649,
+    "name": "La Joya "
+  },
+  "MHJQ": {
+    "lat": 14.838889122,
+    "long": -86.9622192383,
+    "name": "Joya Del Quebracho "
+  },
+  "MHJU": {
+    "lat": 14.6526002884,
+    "long": -86.2202987671,
+    "name": "Jutigalpa "
+  },
+  "MHLA": {
+    "lat": 14.1088886261,
+    "long": -88.5338897705,
+    "name": "La Alondra "
+  },
+  "MHLC": {
+    "lat": 15.7425003052,
+    "long": -86.8529968262,
+    "name": "Goloson International "
+  },
+  "MHLE": {
+    "lat": 14.2911109924,
+    "long": -88.1750030518,
+    "name": "La Esperanza "
+  },
+  "MHLF": {
+    "lat": 14.423333168,
+    "long": -87.119720459,
+    "name": "Flefil "
+  },
+  "MHLG": {
+    "lat": 13.2147216797,
+    "long": -87.363609314,
+    "name": "La Grecia "
+  },
+  "MHLI": {
+    "lat": 14.4875001907,
+    "long": -87.179725647,
+    "name": "Talanguita "
+  },
+  "MHLJ": {
+    "lat": 14.8947219849,
+    "long": -86.57472229,
+    "name": "Las Lajas "
+  },
+  "MHLM": {
+    "lat": 15.4525995255,
+    "long": -87.9235992432,
+    "name": "Ramon Villeda Morales International "
+  },
+  "MHLN": {
+    "lat": 15.8633327484,
+    "long": -85.4986114502,
+    "name": "Limon "
+  },
+  "MHLP": {
+    "lat": 14.0341672897,
+    "long": -88.6283340454,
+    "name": "Mapulaca "
+  },
+  "MHLS": {
+    "lat": 14.6447000504,
+    "long": -86.0698013306,
+    "name": "Laguna Seca "
+  },
+  "MHLT": {
+    "lat": 14.076666832,
+    "long": -86.8416671753,
+    "name": "Llanos Del Tigre "
+  },
+  "MHLU": {
+    "lat": 15.1463890076,
+    "long": -88.444442749,
+    "name": "Luz Y Vida "
+  },
+  "MHLV": {
+    "lat": 14.8736114502,
+    "long": -88.0744476318,
+    "name": "Las Vegas "
+  },
+  "MHLZ": {
+    "lat": 15.016667366,
+    "long": -88.8000030518,
+    "name": "La Estanzuela "
+  },
+  "MHMI": {
+    "lat": 15.0511112213,
+    "long": -87.2466659546,
+    "name": "Las Minitas "
+  },
+  "MHML": {
+    "lat": 13.179444313,
+    "long": -87.1855545044,
+    "name": "Monte Libano "
+  },
+  "MHMM": {
+    "lat": 14.6719436646,
+    "long": -88.2549972534,
+    "name": "San Antonio Malera "
+  },
+  "MHMN": {
+    "lat": 15.6529998779,
+    "long": -87.0876998901,
+    "name": "Monica "
+  },
+  "MHMO": {
+    "lat": 14.4130563736,
+    "long": -88.9519424438,
+    "name": "San Marcos De Ocotepeque "
+  },
+  "MHMP": {
+    "lat": 15.286110878,
+    "long": -87.8852767944,
+    "name": "Marcos Perez "
+  },
+  "MHMS": {
+    "lat": 15.6727781296,
+    "long": -84.8447189331,
+    "name": "Las Marias "
+  },
+  "MHMT": {
+    "lat": 14.915555954,
+    "long": -86.3816680908,
+    "name": "Manto "
+  },
+  "MHNA": {
+    "lat": 13.5294437408,
+    "long": -87.314163208,
+    "name": "Ciudad Nacaome "
+  },
+  "MHNB": {
+    "lat": 14.043299675,
+    "long": -86.4207992554,
+    "name": "Noveno Batallon "
+  },
+  "MHNC": {
+    "lat": 13.3233327866,
+    "long": -87.1425018311,
+    "name": "Nueva Choluteca "
+  },
+  "MHNJ": {
+    "lat": 16.445400238,
+    "long": -85.9066009521,
+    "name": "La Laguna "
+  },
+  "MHNS": {
+    "lat": 14.2105560303,
+    "long": -88.0216674805,
+    "name": "Los Llanos "
+  },
+  "MHNV": {
+    "lat": 14.4288892746,
+    "long": -89.1938858032,
+    "name": "Nueva Ocotepeque "
+  },
+  "MHOT": {
+    "lat": 15.6691665649,
+    "long": -85.194442749,
+    "name": "Ocotales "
+  },
+  "MHPA": {
+    "lat": 15.8013887405,
+    "long": -84.2966690063,
+    "name": "Barra Del Patuca "
+  },
+  "MHPC": {
+    "lat": 15.9549999237,
+    "long": -84.9413909912,
+    "name": "Palacios "
+  },
+  "MHPI": {
+    "lat": 13.2961111069,
+    "long": -87.3455581665,
+    "name": "Agropecuaria Piedra De Agua Azul "
+  },
+  "MHPL": {
+    "lat": 15.2622003555,
+    "long": -83.7811965942,
+    "name": "Puerto Lempira "
+  },
+  "MHPS": {
+    "lat": 14.5958328247,
+    "long": -86.1500015259,
+    "name": "Desvio Potrerillos "
+  },
+  "MHPV": {
+    "lat": 15.5302782059,
+    "long": -86.2736129761,
+    "name": "El Porvenir "
+  },
+  "MHPY": {
+    "lat": 15.8758325577,
+    "long": -85.3969421387,
+    "name": "Payasito "
+  },
+  "MHRA": {
+    "lat": 14.0736112595,
+    "long": -86.9100036621,
+    "name": "Rapaco II "
+  },
+  "MHRD": {
+    "lat": 14.7872219086,
+    "long": -84.369720459,
+    "name": "Rus Rus II "
+  },
+  "MHRH": {
+    "lat": 15.5633325577,
+    "long": -86.1913909912,
+    "name": "Regional Hamer "
+  },
+  "MHRJ": {
+    "lat": 14.0609998703,
+    "long": -86.4075012207,
+    "name": "Rancho Jamastran "
+  },
+  "MHRO": {
+    "lat": 16.3167991638,
+    "long": -86.5230026245,
+    "name": "Juan Manuel Galvez International "
+  },
+  "MHRR": {
+    "lat": 14.7130556107,
+    "long": -84.4524993896,
+    "name": "Rus Rus I "
+  },
+  "MHRS": {
+    "lat": 14.8149003983,
+    "long": -88.7515029907,
+    "name": "Santa Rosa Copan "
+  },
+  "MHRU": {
+    "lat": 14.8402996063,
+    "long": -89.1439971924,
+    "name": "Copan Ruinas "
+  },
+  "MHRY": {
+    "lat": 15.0663890839,
+    "long": -83.2972183228,
+    "name": "Raya "
+  },
+  "MHSC": {
+    "lat": 14.382399559,
+    "long": -87.6212005615,
+    "name": "Coronel Enrique Soto Cano Air Base"
+  },
+  "MHSI": {
+    "lat": 15.818611145,
+    "long": -85.114440918,
+    "name": "Sico "
+  },
+  "MHSJ": {
+    "lat": 13.8277778625,
+    "long": -86.8102798462,
+    "name": "San Jose "
+  },
+  "MHSL": {
+    "lat": 13.4422216415,
+    "long": -87.4597244263,
+    "name": "San Lorenzo "
+  },
+  "MHSN": {
+    "lat": 15.6933326721,
+    "long": -85.9552764893,
+    "name": "Sinaloa "
+  },
+  "MHSX": {
+    "lat": 15.1836109161,
+    "long": -84.369720459,
+    "name": "Sixatigni "
+  },
+  "MHSZ": {
+    "lat": 13.3305559158,
+    "long": -87.1544418335,
+    "name": "Santa Barbara "
+  },
+  "MHTA": {
+    "lat": 14.1800003052,
+    "long": -87.3499984741,
+    "name": "Tamara "
+  },
+  "MHTB": {
+    "lat": 15.1750001907,
+    "long": -83.682220459,
+    "name": "La Katabila "
+  },
+  "MHTE": {
+    "lat": 15.7758998871,
+    "long": -87.4757995605,
+    "name": "Tela "
+  },
+  "MHTG": {
+    "lat": 14.0608997345,
+    "long": -87.2172012329,
+    "name": "Toncontin International "
+  },
+  "MHTI": {
+    "lat": 15.0011110306,
+    "long": -83.7222213745,
+    "name": "Tipimuratara "
+  },
+  "MHTJ": {
+    "lat": 15.9267997742,
+    "long": -85.9382019043,
+    "name": "Trujillo "
+  },
+  "MHTM": {
+    "lat": 14.2772216797,
+    "long": -87.936668396,
+    "name": "Santa Maria "
+  },
+  "MHTO": {
+    "lat": 15.6597223282,
+    "long": -85.9941635132,
+    "name": "Tocoa "
+  },
+  "MHUC": {
+    "lat": 14.9372215271,
+    "long": -83.8441696167,
+    "name": "Auca "
+  },
+  "MHUG": {
+    "lat": 14.915555954,
+    "long": -87.8333358765,
+    "name": "Guanacastal "
+  },
+  "MHUH": {
+    "lat": 15.476099968,
+    "long": -83.9113006592,
+    "name": "Uhi "
+  },
+  "MHUL": {
+    "lat": 14.9071998596,
+    "long": -87.2633972168,
+    "name": "Sulaco "
+  },
+  "MHUO": {
+    "lat": 14.8080558777,
+    "long": -88.4199981689,
+    "name": "La Union "
+  },
+  "MHUT": {
+    "lat": 16.1131000519,
+    "long": -86.8803024292,
+    "name": "Utila "
+  },
+  "MHUY": {
+    "lat": 14.6269435883,
+    "long": -88.8763885498,
+    "name": "Cucuyagua "
+  },
+  "MHVE": {
+    "lat": 14.2302780151,
+    "long": -88.799446106,
+    "name": "Villa Hermosa "
+  },
+  "MHVG": {
+    "lat": 15.0455560684,
+    "long": -88.3088912964,
+    "name": "Villa Guadalupe "
+  },
+  "MHWA": {
+    "lat": 15.1602783203,
+    "long": -84.617225647,
+    "name": "Wampusirpi I "
+  },
+  "MHWD": {
+    "lat": 15.1591672897,
+    "long": -84.5983352661,
+    "name": "Wampusirpi II "
+  },
+  "MHWP": {
+    "lat": 15.2130556107,
+    "long": -84.068611145,
+    "name": "Waplaya "
+  },
+  "MHWR": {
+    "lat": 15.348610878,
+    "long": -84.2344436646,
+    "name": "Warunta "
+  },
+  "MHWS": {
+    "lat": 15.4819002151,
+    "long": -84.4160995483,
+    "name": "Wasma "
+  },
+  "MHWW": {
+    "lat": 15.4161109924,
+    "long": -84.4736099243,
+    "name": "Wawina "
+  },
+  "MHYX": {
+    "lat": 15.2775001526,
+    "long": -83.820274353,
+    "name": "Yaxu "
+  },
+  "MHZA": {
+    "lat": 14.2569437027,
+    "long": -88.3925018311,
+    "name": "Azacualpa "
+  },
+  "MTRH": {
+    "lat": 15.4044437408,
+    "long": -86.6827774048,
+    "name": "Trojes "
+  }
+}

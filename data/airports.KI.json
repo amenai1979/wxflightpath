@@ -1,0 +1,107 @@
+{
+  "NGAB": {
+    "lat": 1.798609972,
+    "long": 173.0410003662,
+    "name": "Abaiang "
+  },
+  "NGBR": {
+    "lat": -1.3547199965,
+    "long": 176.0070037842,
+    "name": "Beru "
+  },
+  "NGKT": {
+    "lat": 0.218611002,
+    "long": 173.4420013428,
+    "name": "Kuria "
+  },
+  "NGMA": {
+    "lat": 1.0036100149,
+    "long": 173.0310058594,
+    "name": "Maiana "
+  },
+  "NGMK": {
+    "lat": 2.0586099625,
+    "long": 173.2709960938,
+    "name": "Marakei "
+  },
+  "NGMN": {
+    "lat": 3.3744399548,
+    "long": 172.9920043945,
+    "name": "Makin Island "
+  },
+  "NGNU": {
+    "lat": -1.314440012,
+    "long": 176.410003662,
+    "name": "Nikunau "
+  },
+  "NGON": {
+    "lat": -1.796110034,
+    "long": 175.5260009766,
+    "name": "Onotoa "
+  },
+  "NGTA": {
+    "lat": 1.3816399574,
+    "long": 173.1470031738,
+    "name": "Bonriki International "
+  },
+  "NGTB": {
+    "lat": 0.4908330142,
+    "long": 173.828994751,
+    "name": "Abemama Atoll "
+  },
+  "NGTE": {
+    "lat": -1.2244700193,
+    "long": 174.7760009766,
+    "name": "Tabiteuea North "
+  },
+  "NGTM": {
+    "lat": -2.4858300686,
+    "long": 175.9700012207,
+    "name": "Tamana Island "
+  },
+  "NGTO": {
+    "lat": -0.6397219896,
+    "long": 174.4279937744,
+    "name": "Nonouti "
+  },
+  "NGTR": {
+    "lat": -2.6161100864,
+    "long": 176.8029937744,
+    "name": "Arorae Island "
+  },
+  "NGTS": {
+    "lat": -1.4744399786,
+    "long": 175.0639953613,
+    "name": "Tabiteuea South "
+  },
+  "NGTU": {
+    "lat": 3.0858299732,
+    "long": 172.8110046387,
+    "name": "Butaritari Atoll "
+  },
+  "NGUK": {
+    "lat": 0.1852779984,
+    "long": 173.6369934082,
+    "name": "Buariki "
+  },
+  "PCIS": {
+    "lat": -2.7681200504,
+    "long": -171.7100067139,
+    "name": "Canton "
+  },
+  "PLCH": {
+    "lat": 1.9861600399,
+    "long": -157.3500061035,
+    "name": "Cassidy International "
+  },
+  "PLFA": {
+    "lat": 3.8994400501,
+    "long": -159.3890075684,
+    "name": "Tabuaeran Island "
+  },
+  "PLWN": {
+    "lat": 4.698359,
+    "long": -160.394376,
+    "name": "Washington Island Airstrip"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "OY75": {
+    "lat": 15.6017999649,
+    "long": 49.0806999207,
+    "name": "Canoxy "
+  },
+  "OYAA": {
+    "lat": 12.8295001984,
+    "long": 45.0288009644,
+    "name": "Aden International "
+  },
+  "OYAB": {
+    "lat": 16.010753477,
+    "long": 43.1781148911,
+    "name": "Ibb "
+  },
+  "OYAT": {
+    "lat": 14.5513000488,
+    "long": 46.8261985779,
+    "name": "Ataq "
+  },
+  "OYBA": {
+    "lat": 18.7192993164,
+    "long": 50.8368988037,
+    "name": "Al Badie "
+  },
+  "OYBI": {
+    "lat": 13.9670000076,
+    "long": 45.5830001831,
+    "name": "Al-Bayda "
+  },
+  "OYBN": {
+    "lat": 14.781999588,
+    "long": 45.7201004028,
+    "name": "Beihan "
+  },
+  "OYBQ": {
+    "lat": 17.3467006683,
+    "long": 44.6217002869,
+    "name": "Al-Bough "
+  },
+  "OYGD": {
+    "lat": 16.1916999817,
+    "long": 52.1749992371,
+    "name": "Al Ghaidah International "
+  },
+  "OYHD": {
+    "lat": 14.7530002594,
+    "long": 42.9762992859,
+    "name": "Hodeidah International "
+  },
+  "OYKM": {
+    "lat": 15.3633003235,
+    "long": 42.6049995422,
+    "name": "Kamaran "
+  },
+  "OYMB": {
+    "lat": 15.4692001343,
+    "long": 45.3269004822,
+    "name": "Mareb "
+  },
+  "OYQN": {
+    "lat": 15.4169998169,
+    "long": 51.6829986572,
+    "name": "Qishn "
+  },
+  "OYRN": {
+    "lat": 14.6625995636,
+    "long": 49.375,
+    "name": "Mukalla International "
+  },
+  "OYRT": {
+    "lat": 16.7329998016,
+    "long": 44.3499984741,
+    "name": "Barat "
+  },
+  "OYSF": {
+    "lat": 15.3000001907,
+    "long": 42.6829986572,
+    "name": "As Salif "
+  },
+  "OYSH": {
+    "lat": 16.966999054,
+    "long": 43.733001709,
+    "name": "Sadah "
+  },
+  "OYSN": {
+    "lat": 15.4763002396,
+    "long": 44.2196998596,
+    "name": "Sana'a International "
+  },
+  "OYSQ": {
+    "lat": 12.6307001114,
+    "long": 53.9057998657,
+    "name": "Socotra International "
+  },
+  "OYSY": {
+    "lat": 15.9660997391,
+    "long": 48.7882995605,
+    "name": "Sayun International "
+  },
+  "OYTZ": {
+    "lat": 13.6859998703,
+    "long": 44.1390991211,
+    "name": "Ta'izz International "
+  },
+  "OYZM": {
+    "lat": 16.2000007629,
+    "long": 44.783000946,
+    "name": "Al-Hazm "
+  }
+}

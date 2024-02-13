@@ -1,0 +1,907 @@
+{
+  "SLAB": {
+    "lat": -18.6319999695,
+    "long": -62.939201355,
+    "name": "Abopo "
+  },
+  "SLAG": {
+    "lat": -19.8269996643,
+    "long": -63.9609985352,
+    "name": "Monteagudo "
+  },
+  "SLAL": {
+    "lat": -19.24627,
+    "long": -65.15104,
+    "name": "Alcantar\u00c3\u00ad International "
+  },
+  "SLAM": {
+    "lat": -17.8833332062,
+    "long": -66.0999984741,
+    "name": "Arampampa "
+  },
+  "SLAN": {
+    "lat": -14.432299614,
+    "long": -65.7687988281,
+    "name": "Angora "
+  },
+  "SLAP": {
+    "lat": -14.7356004715,
+    "long": -68.4119033813,
+    "name": "Apolo "
+  },
+  "SLAQ": {
+    "lat": -18.2154006958,
+    "long": -65.1877975464,
+    "name": "Aiquile "
+  },
+  "SLAS": {
+    "lat": -15.9302997589,
+    "long": -63.1567001343,
+    "name": "Ascencion De Guarayos "
+  },
+  "SLBA": {
+    "lat": -13.5833330154,
+    "long": -63.5833320618,
+    "name": "Baures "
+  },
+  "SLBB": {
+    "lat": -17.2573337555,
+    "long": -64.3666687012,
+    "name": "Bulo Bulo "
+  },
+  "SLBF": {
+    "lat": -11.7833337784,
+    "long": -66.8833312988,
+    "name": "Blanca Flor "
+  },
+  "SLBH": {
+    "lat": -12.1333332062,
+    "long": -66.5333328247,
+    "name": "Buena Hora "
+  },
+  "SLBJ": {
+    "lat": -22.7733001709,
+    "long": -64.3128967285,
+    "name": "Bermejo "
+  },
+  "SLBN": {
+    "lat": -13.6333332062,
+    "long": -65.2833328247,
+    "name": "Bella Union "
+  },
+  "SLBR": {
+    "lat": -13.4166669846,
+    "long": -63.4833335876,
+    "name": "Buen Retiro Itenez "
+  },
+  "SLBS": {
+    "lat": -14.2677001953,
+    "long": -64.2990036011,
+    "name": "Bella Vista Itenez "
+  },
+  "SLBT": {
+    "lat": -13.8999996185,
+    "long": -66.5500030518,
+    "name": "Buen Retiro Ballivian "
+  },
+  "SLBV": {
+    "lat": -13.8500003815,
+    "long": -66.3666687012,
+    "name": "Villa Vista Montano "
+  },
+  "SLCA": {
+    "lat": -20.0063991547,
+    "long": -63.5278015137,
+    "name": "Camiri "
+  },
+  "SLCB": {
+    "lat": -17.4211006165,
+    "long": -66.1771011353,
+    "name": "Jorge Wilsterman International "
+  },
+  "SLCC": {
+    "lat": -16.1910991669,
+    "long": -69.0955963135,
+    "name": "Copacabana "
+  },
+  "SLCD": {
+    "lat": -20.0254001617,
+    "long": -63.089099884,
+    "name": "Canada "
+  },
+  "SLCE": {
+    "lat": -18.7954006195,
+    "long": -63.3003005981,
+    "name": "Cabezas "
+  },
+  "SLCG": {
+    "lat": -19.7856006622,
+    "long": -63.1884002686,
+    "name": "Charagua "
+  },
+  "SLCH": {
+    "lat": -16.9900188446,
+    "long": -65.1415023804,
+    "name": "Chimore "
+  },
+  "SLCI": {
+    "lat": -21.1666660309,
+    "long": -63.6333351135,
+    "name": "Caigua "
+  },
+  "SLCL": {
+    "lat": -18.8916664124,
+    "long": -66.7833328247,
+    "name": "Collpani "
+  },
+  "SLCM": {
+    "lat": -14.0743331909,
+    "long": -65.6503295898,
+    "name": "Camiare "
+  },
+  "SLCN": {
+    "lat": -17.5946998596,
+    "long": -69.4330978394,
+    "name": "Charana "
+  },
+  "SLCO": {
+    "lat": -11.0403995514,
+    "long": -68.7829971313,
+    "name": "Capitan Anibal Arab "
+  },
+  "SLCP": {
+    "lat": -16.138299942,
+    "long": -62.0285987854,
+    "name": "Concepcion "
+  },
+  "SLCR": {
+    "lat": -17.9136009216,
+    "long": -64.5177993774,
+    "name": "Comarapa "
+  },
+  "SLCS": {
+    "lat": -20.8083333333,
+    "long": -66.4011111111,
+    "name": "Cerdas "
+  },
+  "SLCT": {
+    "lat": -13.5144996643,
+    "long": -64.9652023315,
+    "name": "Choreti Bolivia South America "
+  },
+  "SLCU": {
+    "lat": -20.8333339691,
+    "long": -64.9666671753,
+    "name": "Culpina "
+  },
+  "SLCV": {
+    "lat": -12.5497999191,
+    "long": -66.9124984741,
+    "name": "Cavinas "
+  },
+  "SLCX": {
+    "lat": -12.3778333664,
+    "long": -68.5676651001,
+    "name": "Chive "
+  },
+  "SLCY": {
+    "lat": -17.5650005341,
+    "long": -63.1747016907,
+    "name": "Collpa "
+  },
+  "SLDA": {
+    "lat": -17.5166664124,
+    "long": -63.5166664124,
+    "name": "Caranda "
+  },
+  "SLDN": {
+    "lat": -14.2735996246,
+    "long": -65.4400024414,
+    "name": "El Desengano "
+  },
+  "SLEA": {
+    "lat": -13.5593996048,
+    "long": -66.0790023804,
+    "name": "El Cocal "
+  },
+  "SLEC": {
+    "lat": -13.7833337784,
+    "long": -66.4000015259,
+    "name": "El Cairo "
+  },
+  "SLEE": {
+    "lat": -21.466999054,
+    "long": -63.3527984619,
+    "name": "El Escondido "
+  },
+  "SLEF": {
+    "lat": -13.8833332062,
+    "long": -65.7666702271,
+    "name": "El Triunfo "
+  },
+  "SLEH": {
+    "lat": -13.0500001907,
+    "long": -65.0333328247,
+    "name": "El Rancho "
+  },
+  "SLEI": {
+    "lat": -19.2999000549,
+    "long": -63.2089996338,
+    "name": "Espino "
+  },
+  "SLEK": {
+    "lat": -21.7008342743,
+    "long": -63.4568328857,
+    "name": "El Condor "
+  },
+  "SLEO": {
+    "lat": -14.3833332062,
+    "long": -65.8499984741,
+    "name": "El Paraiso "
+  },
+  "SLEP": {
+    "lat": -14.6046667099,
+    "long": -65.6183319092,
+    "name": "El Peru "
+  },
+  "SLER": {
+    "lat": -20.0166664124,
+    "long": -64.0333328247,
+    "name": "Cerrillos "
+  },
+  "SLES": {
+    "lat": -18.4500007629,
+    "long": -66.9166641235,
+    "name": "Estalsa "
+  },
+  "SLET": {
+    "lat": -17.8115997314,
+    "long": -63.1715011597,
+    "name": "El Trompillo "
+  },
+  "SLEV": {
+    "lat": -14.4982995987,
+    "long": -66.7629013062,
+    "name": "El Salvador "
+  },
+  "SLEZ": {
+    "lat": -14.7666664124,
+    "long": -65.5333328247,
+    "name": "La Esperanza "
+  },
+  "SLFA": {
+    "lat": -15.3333330154,
+    "long": -66.8000030518,
+    "name": "Fatima "
+  },
+  "SLFL": {
+    "lat": -14.6141662598,
+    "long": -61.1974983215,
+    "name": "Florida "
+  },
+  "SLFO": {
+    "lat": -13.5548000336,
+    "long": -61.0041007996,
+    "name": "Flor De Oro "
+  },
+  "SLFR": {
+    "lat": -15.6833333969,
+    "long": -65.5666656494,
+    "name": "Florencia "
+  },
+  "SLGP": {
+    "lat": -18.0559997559,
+    "long": -63.1631660461,
+    "name": "Guirapembi "
+  },
+  "SLGY": {
+    "lat": -10.820599556,
+    "long": -65.3455963135,
+    "name": "Capitan de Av. Emilio Beltran "
+  },
+  "SLHA": {
+    "lat": -13.5,
+    "long": -64.1999969482,
+    "name": "Cachascani "
+  },
+  "SLHC": {
+    "lat": -20.3908004761,
+    "long": -64.0154037476,
+    "name": "Huacareta "
+  },
+  "SLHJ": {
+    "lat": -13.5500001907,
+    "long": -63.7478981018,
+    "name": "Huacaraje "
+  },
+  "SLHS": {
+    "lat": -19.5948009491,
+    "long": -62.565700531,
+    "name": "Chacobos "
+  },
+  "SLIG": {
+    "lat": -13.4437999725,
+    "long": -66.5059967041,
+    "name": "Inglaterra "
+  },
+  "SLIN": {
+    "lat": -15.5,
+    "long": -65.9166641235,
+    "name": "Santa Catalina "
+  },
+  "SLIP": {
+    "lat": -18.1833324432,
+    "long": -63.8833351135,
+    "name": "Samaipata "
+  },
+  "SLIR": {
+    "lat": -13.0500001907,
+    "long": -63.6666679382,
+    "name": "Ibori "
+  },
+  "SLIT": {
+    "lat": -19.7775001526,
+    "long": -63.0877990723,
+    "name": "Itaguazurenda "
+  },
+  "SLIX": {
+    "lat": -13.7600002289,
+    "long": -68.1368331909,
+    "name": "Ixiamas "
+  },
+  "SLIY": {
+    "lat": -17.8083324432,
+    "long": -67.4433364868,
+    "name": "Intiraymi "
+  },
+  "SLIZ": {
+    "lat": -18.6638336182,
+    "long": -63.0023345947,
+    "name": "Izozog "
+  },
+  "SLJA": {
+    "lat": -11.7728328705,
+    "long": -67.2559967041,
+    "name": "Jatata "
+  },
+  "SLJE": {
+    "lat": -17.8307991028,
+    "long": -60.7430992126,
+    "name": "San Jose De Chiquitos "
+  },
+  "SLJN": {
+    "lat": -14.1666669846,
+    "long": -64.7666702271,
+    "name": "San Juan Estancias "
+  },
+  "SLJO": {
+    "lat": -13.0528001785,
+    "long": -64.6616973877,
+    "name": "San Joaquin "
+  },
+  "SLJS": {
+    "lat": -13.0833330154,
+    "long": -66.1666641235,
+    "name": "Josuani "
+  },
+  "SLJV": {
+    "lat": -16.2707996368,
+    "long": -62.4702987671,
+    "name": "San Javier "
+  },
+  "SLLB": {
+    "lat": -14.5166664124,
+    "long": -65.7666702271,
+    "name": "Las Brizas "
+  },
+  "SLLH": {
+    "lat": -14.0166664124,
+    "long": -63.5333328247,
+    "name": "Lago Huachi "
+  },
+  "SLLI": {
+    "lat": -13.5738334656,
+    "long": -66.8356704712,
+    "name": "La India "
+  },
+  "SLLJ": {
+    "lat": -16.5338993073,
+    "long": -68.3005981445,
+    "name": "Laja "
+  },
+  "SLLL": {
+    "lat": -14.3000001907,
+    "long": -66.7833328247,
+    "name": "Laguna Loa "
+  },
+  "SLLP": {
+    "lat": -16.513299942,
+    "long": -68.1922988892,
+    "name": "El Alto International "
+  },
+  "SLLQ": {
+    "lat": -19.3333339691,
+    "long": -67.0833358765,
+    "name": "Copaquilla "
+  },
+  "SLLS": {
+    "lat": -19.6000003815,
+    "long": -63.6500015259,
+    "name": "Lagunillas "
+  },
+  "SLLZ": {
+    "lat": -15.3833332062,
+    "long": -65.75,
+    "name": "San Lorenzo "
+  },
+  "SLMB": {
+    "lat": -13.7878332138,
+    "long": -68.3546676636,
+    "name": "Mangabalito "
+  },
+  "SLMD": {
+    "lat": -13.3833332062,
+    "long": -68.6500015259,
+    "name": "Madidi "
+  },
+  "SLME": {
+    "lat": -20.3980007172,
+    "long": -63.140499115,
+    "name": "Mandeyepecua "
+  },
+  "SLMG": {
+    "lat": -13.2607483767,
+    "long": -64.0607643127,
+    "name": "Magdalena "
+  },
+  "SLMM": {
+    "lat": -14.608499527,
+    "long": -61.1918334961,
+    "name": "Mora "
+  },
+  "SLMN": {
+    "lat": -11.7384996414,
+    "long": -68.3546676636,
+    "name": "Manuripi "
+  },
+  "SLMX": {
+    "lat": -17.3333339691,
+    "long": -64.1666641235,
+    "name": "Monos Arana "
+  },
+  "SLMZ": {
+    "lat": -17.9309997559,
+    "long": -65.3802032471,
+    "name": "Mizque "
+  },
+  "SLNL": {
+    "lat": -17.7000007629,
+    "long": -62.4166679382,
+    "name": "Canada Larga "
+  },
+  "SLNO": {
+    "lat": -14.4333333969,
+    "long": -66.0666656494,
+    "name": "Nuevo Mundo "
+  },
+  "SLNV": {
+    "lat": -14.0166664124,
+    "long": -65.8000030518,
+    "name": "Nieve "
+  },
+  "SLOR": {
+    "lat": -17.962600708,
+    "long": -67.0762023926,
+    "name": "Juan Mendoza "
+  },
+  "SLPA": {
+    "lat": -18.9716663361,
+    "long": -62.9753341675,
+    "name": "Palmar "
+  },
+  "SLPF": {
+    "lat": -13.6288337708,
+    "long": -61.7386665344,
+    "name": "Piso Firme "
+  },
+  "SLPG": {
+    "lat": -14.1784000397,
+    "long": -65.3756027222,
+    "name": "Progreso "
+  },
+  "SLPI": {
+    "lat": -15.8000001907,
+    "long": -65.6166687012,
+    "name": "Pitai "
+  },
+  "SLPL": {
+    "lat": -19.2994003296,
+    "long": -64.2940979004,
+    "name": "Padilla "
+  },
+  "SLPM": {
+    "lat": -13.7314996719,
+    "long": -66.4783325195,
+    "name": "Palmira "
+  },
+  "SLPN": {
+    "lat": -13.9873332977,
+    "long": -61.545665741,
+    "name": "Porvenir Norte "
+  },
+  "SLPO": {
+    "lat": -19.5431003571,
+    "long": -65.7237014771,
+    "name": "Capitan Nicolas Rojas "
+  },
+  "SLPR": {
+    "lat": -11.1076631546,
+    "long": -67.5511550903,
+    "name": "Puerto Rico "
+  },
+  "SLPS": {
+    "lat": -18.9752998352,
+    "long": -57.8205986023,
+    "name": "Capitan Av. Salvador Ogaya G. "
+  },
+  "SLPW": {
+    "lat": -20.754699707,
+    "long": -63.209400177,
+    "name": "El Porvenir Sur "
+  },
+  "SLPY": {
+    "lat": -18.3334999084,
+    "long": -63.1925010681,
+    "name": "Piray "
+  },
+  "SLQN": {
+    "lat": -13.1833333969,
+    "long": -67,
+    "name": "Coquinal "
+  },
+  "SLRA": {
+    "lat": -13.2638998032,
+    "long": -64.6038970947,
+    "name": "San Ramon "
+  },
+  "SLRB": {
+    "lat": -18.3292007446,
+    "long": -59.7649993896,
+    "name": "Robore "
+  },
+  "SLRF": {
+    "lat": -14.7627000809,
+    "long": -61.0320014954,
+    "name": "Refugio "
+  },
+  "SLRH": {
+    "lat": -12.1666669846,
+    "long": -65.7833328247,
+    "name": "Rancho Alegre "
+  },
+  "SLRI": {
+    "lat": -11,
+    "long": -66,
+    "name": "Capitan Av. Selin Zeitun Lopez "
+  },
+  "SLRL": {
+    "lat": -13.9750003815,
+    "long": -65.625,
+    "name": "Rosal "
+  },
+  "SLRP": {
+    "lat": -18.6416664124,
+    "long": -67.5583343506,
+    "name": "Rosapata "
+  },
+  "SLRQ": {
+    "lat": -14.4279003143,
+    "long": -67.4968032837,
+    "name": "Rurenabaque "
+  },
+  "SLRR": {
+    "lat": -14.4833335876,
+    "long": -66.3499984741,
+    "name": "Retiro "
+  },
+  "SLRS": {
+    "lat": -18.2008342743,
+    "long": -63.2560005188,
+    "name": "Rio Seco "
+  },
+  "SLRT": {
+    "lat": -13.9333333969,
+    "long": -66.3333358765,
+    "name": "Santa Rita "
+  },
+  "SLRX": {
+    "lat": -18.2008342743,
+    "long": -58.1699981689,
+    "name": "Rincon Del Tigre "
+  },
+  "SLRY": {
+    "lat": -14.304400444,
+    "long": -67.3534011841,
+    "name": "Reyes "
+  },
+  "SLSA": {
+    "lat": -13.7622003555,
+    "long": -65.4352035522,
+    "name": "Santa Ana Del Yacuma "
+  },
+  "SLSB": {
+    "lat": -14.8591995239,
+    "long": -66.7375030518,
+    "name": "Capitan Av. German Quiroga G. "
+  },
+  "SLSD": {
+    "lat": -14.5611000061,
+    "long": -65.5271987915,
+    "name": "San Carlos Gutierrez "
+  },
+  "SLSE": {
+    "lat": -16.2849998474,
+    "long": -59.4951667786,
+    "name": "Santa Teresita "
+  },
+  "SLSF": {
+    "lat": -14.9666662216,
+    "long": -65.6333312988,
+    "name": "San Francisco Moxos "
+  },
+  "SLSG": {
+    "lat": -13.9020996094,
+    "long": -66.1567001343,
+    "name": "San Miguel De Gaser "
+  },
+  "SLSH": {
+    "lat": -15.4833335876,
+    "long": -67.4833297729,
+    "name": "Santa Ana De Huachi "
+  },
+  "SLSI": {
+    "lat": -16.383600235,
+    "long": -60.9627990723,
+    "name": "Capitan Av. Juan Cochamanidis S. "
+  },
+  "SLSJ": {
+    "lat": -19.5,
+    "long": -67.3333358765,
+    "name": "Salinas "
+  },
+  "SLSK": {
+    "lat": -17.1000003815,
+    "long": -63.6333351135,
+    "name": "Santa Rosa Del Sara "
+  },
+  "SLSM": {
+    "lat": -14,
+    "long": -65.6339035034,
+    "name": "San Ignacio de Moxos "
+  },
+  "SLSN": {
+    "lat": -21.6499996185,
+    "long": -63.5999984741,
+    "name": "Sanandita "
+  },
+  "SLSP": {
+    "lat": -21.0734996796,
+    "long": -63.109500885,
+    "name": "Sipuati "
+  },
+  "SLSQ": {
+    "lat": -18.3458003998,
+    "long": -59.604801178,
+    "name": "Santiago De Chiquitos "
+  },
+  "SLSR": {
+    "lat": -14.0662002563,
+    "long": -66.7867965698,
+    "name": "Santa Rosa De Yacuma "
+  },
+  "SLSS": {
+    "lat": -19.3911991119,
+    "long": -63.072101593,
+    "name": "Saipiru "
+  },
+  "SLSU": {
+    "lat": -19.0070991516,
+    "long": -65.2886962891,
+    "name": "Juana Azurduy De Padilla "
+  },
+  "SLTA": {
+    "lat": -20.3432998657,
+    "long": -63.1394004822,
+    "name": "Taquipirenda "
+  },
+  "SLTC": {
+    "lat": -17.4316673279,
+    "long": -62.1051673889,
+    "name": "Tres Cruces "
+  },
+  "SLTE": {
+    "lat": -15.4983329773,
+    "long": -67.8166656494,
+    "name": "Teoponte "
+  },
+  "SLTG": {
+    "lat": -15.2278003693,
+    "long": -65.4501037598,
+    "name": "Santiago "
+  },
+  "SLTI": {
+    "lat": -16.3391990662,
+    "long": -58.4019012451,
+    "name": "San Matias "
+  },
+  "SLTJ": {
+    "lat": -21.5557003021,
+    "long": -64.7013015747,
+    "name": "Capitan Oriel Lea Plaza "
+  },
+  "SLTL": {
+    "lat": -21.1686000824,
+    "long": -67.1789016724,
+    "name": "Toldos "
+  },
+  "SLTO": {
+    "lat": -17.798166275,
+    "long": -68.09349823,
+    "name": "Totora "
+  },
+  "SLTR": {
+    "lat": -14.8186998367,
+    "long": -64.9179992676,
+    "name": "Teniente Av. Jorge Henrich Arauz "
+  },
+  "SLTU": {
+    "lat": -18.1958332062,
+    "long": -68.141998291,
+    "name": "Turco "
+  },
+  "SLTW": {
+    "lat": -18.4664001465,
+    "long": -62.1119995117,
+    "name": "Tita "
+  },
+  "SLTX": {
+    "lat": -14.3166666031,
+    "long": -68.5833358765,
+    "name": "Tuichi "
+  },
+  "SLTY": {
+    "lat": -13.8000001907,
+    "long": -66.2333297729,
+    "name": "Tiguipa "
+  },
+  "SLTZ": {
+    "lat": -21.3446998596,
+    "long": -65.6156005859,
+    "name": "Tupiza "
+  },
+  "SLUC": {
+    "lat": -20.4804992676,
+    "long": -63.5281677246,
+    "name": "Cuevo "
+  },
+  "SLUK": {
+    "lat": -17.9857997894,
+    "long": -68.3943023682,
+    "name": "Curahuara de Carangas "
+  },
+  "SLUS": {
+    "lat": -14.3166666031,
+    "long": -66.1666641235,
+    "name": "Urusi "
+  },
+  "SLUU": {
+    "lat": -15.0333337784,
+    "long": -69.25,
+    "name": "Ulla Ulla "
+  },
+  "SLUY": {
+    "lat": -20.4463005066,
+    "long": -66.8483963013,
+    "name": "Uyuni "
+  },
+  "SLVA": {
+    "lat": -17.3666667938,
+    "long": -67.75,
+    "name": "Villa Aroma "
+  },
+  "SLVD": {
+    "lat": -15.8333330154,
+    "long": -67.0833358765,
+    "name": "Covendo "
+  },
+  "SLVE": {
+    "lat": -14.6359996796,
+    "long": -66.7502975464,
+    "name": "Venecia "
+  },
+  "SLVG": {
+    "lat": -18.4825000763,
+    "long": -64.0994033813,
+    "name": "Capitan Av. Vidal Villagomez Toledo "
+  },
+  "SLVI": {
+    "lat": -15.75,
+    "long": -67.5666656494,
+    "name": "Caranavi "
+  },
+  "SLVM": {
+    "lat": -21.2551994324,
+    "long": -63.4056015015,
+    "name": "Teniente Coronel Rafael Pabon "
+  },
+  "SLVN": {
+    "lat": -13.2658004761,
+    "long": -65.8758010864,
+    "name": "Villa Negrita "
+  },
+  "SLVR": {
+    "lat": -17.6448001862,
+    "long": -63.1353988647,
+    "name": "Viru Viru International "
+  },
+  "SLVT": {
+    "lat": -21.2666664124,
+    "long": -63.3583335876,
+    "name": "Tesoro/La Vertiente "
+  },
+  "SLVU": {
+    "lat": -20.90483284,
+    "long": -63.1921653748,
+    "name": "Vuelta Grande "
+  },
+  "SLVV": {
+    "lat": -13.6443004608,
+    "long": -64.4408035278,
+    "name": "Villa Elvira "
+  },
+  "SLVZ": {
+    "lat": -22.0776996613,
+    "long": -65.5888977051,
+    "name": "Villazon "
+  },
+  "SLYA": {
+    "lat": -21.960899353,
+    "long": -63.6516990662,
+    "name": "Yacuiba "
+  },
+  "SLYG": {
+    "lat": -18.654499054,
+    "long": -63.1328010559,
+    "name": "Yabog "
+  },
+  "SLYI": {
+    "lat": -17.0156669617,
+    "long": -64.0563354492,
+    "name": "Yapacani "
+  },
+  "SLZB": {
+    "lat": -14.8666667938,
+    "long": -65.6500015259,
+    "name": "San Pedro Rb "
+  },
+  "SLZC": {
+    "lat": -17.4333324432,
+    "long": -63.6833343506,
+    "name": "San Carlos "
+  },
+  "SLZF": {
+    "lat": -13.7486000061,
+    "long": -64.4536972046,
+    "name": "San Francisco Naciff "
+  },
+  "SLZJ": {
+    "lat": -14.2166662216,
+    "long": -63.6500015259,
+    "name": "San Pedro Richard "
+  },
+  "SLZV": {
+    "lat": -16.2737007141,
+    "long": -60.0906982422,
+    "name": "San Vicente "
+  }
+}

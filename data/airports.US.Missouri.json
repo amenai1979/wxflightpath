@@ -1,0 +1,2342 @@
+{
+    "00MO": {
+        "lat": 37.2028007507,
+        "long": -94.412399292,
+        "name": "Cooper Flying Service ",
+        "state": "Missouri"
+    },
+    "02MO": {
+        "lat": 39.0499992371,
+        "long": -91.0335006714,
+        "name": "Troy Airpark",
+        "state": "Missouri"
+    },
+    "02MU": {
+        "lat": 36.6542015076,
+        "long": -93.7974014282,
+        "name": "Timber Line Airpark",
+        "state": "Missouri"
+    },
+    "03MO": {
+        "lat": 37.8844985962,
+        "long": -93.1315994263,
+        "name": "Cahoochie ",
+        "state": "Missouri"
+    },
+    "03MU": {
+        "lat": 38.4925003052,
+        "long": -94.4124984741,
+        "name": "Mc Donnell ",
+        "state": "Missouri"
+    },
+    "04MO": {
+        "lat": 39.3012008667,
+        "long": -91.451499939,
+        "name": "Airpark Private ",
+        "state": "Missouri"
+    },
+    "06MO": {
+        "lat": 39.2305984497,
+        "long": -94.804397583,
+        "name": "Noahs Ark ",
+        "state": "Missouri"
+    },
+    "07MO": {
+        "lat": 38.6500015259,
+        "long": -93.616897583,
+        "name": "Lake Sexton ",
+        "state": "Missouri"
+    },
+    "08MO": {
+        "lat": 37.3955993652,
+        "long": -94.2837982178,
+        "name": "Twin Oaks ",
+        "state": "Missouri"
+    },
+    "09MO": {
+        "lat": 37.3783988953,
+        "long": -93.3632965088,
+        "name": "Hogue Farm ",
+        "state": "Missouri"
+    },
+    "0MO0": {
+        "lat": 38.4103012085,
+        "long": -93.8501968384,
+        "name": "Ferros Ranch-Aero ",
+        "state": "Missouri"
+    },
+    "0MO1": {
+        "lat": 38.5444984436,
+        "long": -94.0947036743,
+        "name": "Flying G ",
+        "state": "Missouri"
+    },
+    "0MO2": {
+        "lat": 37.7867012024,
+        "long": -90.7800979614,
+        "name": "Short-N-Ruff ",
+        "state": "Missouri"
+    },
+    "0MO3": {
+        "lat": 38.4402999878,
+        "long": -94.5932998657,
+        "name": "Arvin Ranch ",
+        "state": "Missouri"
+    },
+    "0MO5": {
+        "lat": 40.1333999634,
+        "long": -92.1001968384,
+        "name": "Joe D Lewis ",
+        "state": "Missouri"
+    },
+    "0MO6": {
+        "lat": 40.1166992188,
+        "long": -92.2668991089,
+        "name": "Hall ",
+        "state": "Missouri"
+    },
+    "0MO8": {
+        "lat": 39.1405982971,
+        "long": -90.7368011475,
+        "name": "Sloan's ",
+        "state": "Missouri"
+    },
+    "0MU0": {
+        "lat": 37.2346992493,
+        "long": -91.0935974121,
+        "name": "Eagle Field",
+        "state": "Missouri"
+    },
+    "0MU1": {
+        "lat": 37.2467002869,
+        "long": -94.1738967896,
+        "name": "Sunderland ",
+        "state": "Missouri"
+    },
+    "0MU4": {
+        "lat": 39.6161003113,
+        "long": -92.866897583,
+        "name": "Slaughter ",
+        "state": "Missouri"
+    },
+    "0MU7": {
+        "lat": 38.875,
+        "long": -94.1397018433,
+        "name": "Lambs Field",
+        "state": "Missouri"
+    },
+    "0MU8": {
+        "lat": 37.4387016296,
+        "long": -89.7590026855,
+        "name": "Prince STOLport",
+        "state": "Missouri"
+    },
+    "10MO": {
+        "lat": 38.9145011902,
+        "long": -91.7042999268,
+        "name": "Eckerts Airstrip",
+        "state": "Missouri"
+    },
+    "11MO": {
+        "lat": 38.9016990662,
+        "long": -91.6352005005,
+        "name": "Redgate Ranch ",
+        "state": "Missouri"
+    },
+    "12MO": {
+        "lat": 38.5806007385,
+        "long": -93.5947036743,
+        "name": "Ferguson Farms ",
+        "state": "Missouri"
+    },
+    "13MO": {
+        "lat": 37.676399231,
+        "long": -91.7064971924,
+        "name": "Domeyer ",
+        "state": "Missouri"
+    },
+    "14MO": {
+        "lat": 39.0499992371,
+        "long": -94.3169021606,
+        "name": "Stevinson Farm ",
+        "state": "Missouri"
+    },
+    "15MO": {
+        "lat": 40.391998291,
+        "long": -92.5654983521,
+        "name": "Applegate ",
+        "state": "Missouri"
+    },
+    "16MO": {
+        "lat": 38.4056015015,
+        "long": -91.1574020386,
+        "name": "Findley Field",
+        "state": "Missouri"
+    },
+    "17MO": {
+        "lat": 38.9850006104,
+        "long": -91.5348968506,
+        "name": "Rgl Field",
+        "state": "Missouri"
+    },
+    "18MO": {
+        "lat": 36.962600708,
+        "long": -93.1707000732,
+        "name": "Gimlin ",
+        "state": "Missouri"
+    },
+    "1MO2": {
+        "lat": 38.5494995117,
+        "long": -94.476600647,
+        "name": "Hart ",
+        "state": "Missouri"
+    },
+    "1MO3": {
+        "lat": 39.9333992004,
+        "long": -94.0737991333,
+        "name": "Lake Viking ",
+        "state": "Missouri"
+    },
+    "1MO4": {
+        "lat": 39.8917007446,
+        "long": -93.8640975952,
+        "name": "Longwood Mfg Corp ",
+        "state": "Missouri"
+    },
+    "1MO6": {
+        "lat": 36.8362007141,
+        "long": -90.7222976685,
+        "name": "Double S Ranch ",
+        "state": "Missouri"
+    },
+    "1MO7": {
+        "lat": 40.363899231,
+        "long": -91.9751968384,
+        "name": "Hines ",
+        "state": "Missouri"
+    },
+    "1MO8": {
+        "lat": 38.2527999878,
+        "long": -92.8030014038,
+        "name": "Sherlock Field",
+        "state": "Missouri"
+    },
+    "1MO9": {
+        "lat": 37.4791984558,
+        "long": -93.851600647,
+        "name": "Eagle's Point & Red Barn Village Airpark",
+        "state": "Missouri"
+    },
+    "1MU0": {
+        "lat": 37.1666984558,
+        "long": -93.5626983643,
+        "name": "Medcalf Field",
+        "state": "Missouri"
+    },
+    "1MU2": {
+        "lat": 39.4473991394,
+        "long": -94.6671981812,
+        "name": "Smitty's Landing ",
+        "state": "Missouri"
+    },
+    "1MU4": {
+        "lat": 38.6516990662,
+        "long": -93.7788009644,
+        "name": "Short Air ",
+        "state": "Missouri"
+    },
+    "1MU6": {
+        "lat": 40.1108016968,
+        "long": -94.9689025879,
+        "name": "Simerly ",
+        "state": "Missouri"
+    },
+    "1MU7": {
+        "lat": 37.4653015137,
+        "long": -89.6119995117,
+        "name": "Mooseberry ",
+        "state": "Missouri"
+    },
+    "1MU8": {
+        "lat": 39.5541992188,
+        "long": -94.9985961914,
+        "name": "Church's Landing ",
+        "state": "Missouri"
+    },
+    "20MO": {
+        "lat": 39.3582992554,
+        "long": -94.3169021606,
+        "name": "Royal Wood Aerodrome",
+        "state": "Missouri"
+    },
+    "21MO": {
+        "lat": 39.5013999939,
+        "long": -94.1773986816,
+        "name": "Martins ",
+        "state": "Missouri"
+    },
+    "21MU": {
+        "lat": 36.5648994446,
+        "long": -93.5095977783,
+        "name": "The Peninsula ",
+        "state": "Missouri"
+    },
+    "22MO": {
+        "lat": 37.2611999512,
+        "long": -92.3667984009,
+        "name": "Belly Acres Ranch ",
+        "state": "Missouri"
+    },
+    "23MO": {
+        "lat": 38.2200012207,
+        "long": -94.4961013794,
+        "name": "Oerke Enterprises ",
+        "state": "Missouri"
+    },
+    "24MO": {
+        "lat": 38.1333999634,
+        "long": -92.8335037231,
+        "name": "Mistwood ",
+        "state": "Missouri"
+    },
+    "24MU": {
+        "lat": 40.3628005981,
+        "long": -95.4385986328,
+        "name": "Steele ",
+        "state": "Missouri"
+    },
+    "25MO": {
+        "lat": 37.185798645,
+        "long": -94.5511016846,
+        "name": "Cook ",
+        "state": "Missouri"
+    },
+    "26MO": {
+        "lat": 36.6133995056,
+        "long": -92.7845993042,
+        "name": "Taber Field",
+        "state": "Missouri"
+    },
+    "27MO": {
+        "lat": 37.193901062,
+        "long": -94.2241973877,
+        "name": "Route 66 Airfield",
+        "state": "Missouri"
+    },
+    "28MO": {
+        "lat": 37.9738998413,
+        "long": -93.8188018799,
+        "name": "Pasley ",
+        "state": "Missouri"
+    },
+    "29MO": {
+        "lat": 39.3507995605,
+        "long": -94.5186004639,
+        "name": "Rollert Farm ",
+        "state": "Missouri"
+    },
+    "2MO0": {
+        "lat": 38.7994003296,
+        "long": -93.8641967773,
+        "name": "Fletcher Field",
+        "state": "Missouri"
+    },
+    "2MO1": {
+        "lat": 37.3199996948,
+        "long": -93.4198989868,
+        "name": "Bird Field",
+        "state": "Missouri"
+    },
+    "2MO2": {
+        "lat": 39.4641990662,
+        "long": -94.3079986572,
+        "name": "Northwood ",
+        "state": "Missouri"
+    },
+    "2MO4": {
+        "lat": 38.1143989563,
+        "long": -94.1766967773,
+        "name": "Breckenridge ",
+        "state": "Missouri"
+    },
+    "2MO5": {
+        "lat": 37.3819999695,
+        "long": -92.2107009888,
+        "name": "Pegasus Ranch Aerodrome",
+        "state": "Missouri"
+    },
+    "2MO6": {
+        "lat": 40.1344985962,
+        "long": -92.2976989746,
+        "name": "Hunziker ",
+        "state": "Missouri"
+    },
+    "2MO7": {
+        "lat": 38.8666992188,
+        "long": -91.0860977173,
+        "name": "Fawn Lake ",
+        "state": "Missouri"
+    },
+    "2MO8": {
+        "lat": 37.1351013184,
+        "long": -94.3640975952,
+        "name": "Frerer Strip",
+        "state": "Missouri"
+    },
+    "2MO9": {
+        "lat": 38.9500007629,
+        "long": -94.4502029419,
+        "name": "Runway Ranch ",
+        "state": "Missouri"
+    },
+    "2MU9": {
+        "lat": 38.9655990601,
+        "long": -91.1181030273,
+        "name": "Monroe Field",
+        "state": "Missouri"
+    },
+    "30MO": {
+        "lat": 37.6459007263,
+        "long": -92.4945983887,
+        "name": "Matzie ",
+        "state": "Missouri"
+    },
+    "31MO": {
+        "lat": 40.1054992676,
+        "long": -94.7433013916,
+        "name": "Hannah ",
+        "state": "Missouri"
+    },
+    "32MO": {
+        "lat": 37.5766983032,
+        "long": -90.2259979248,
+        "name": "Phillips ",
+        "state": "Missouri"
+    },
+    "33MO": {
+        "lat": 37.2513999939,
+        "long": -94.0569000244,
+        "name": "Leaming Field",
+        "state": "Missouri"
+    },
+    "36MO": {
+        "lat": 37.8527984619,
+        "long": -91.6467971802,
+        "name": "Harrison Private ",
+        "state": "Missouri"
+    },
+    "37MO": {
+        "lat": 39.5750007629,
+        "long": -94.1836013794,
+        "name": "Mayes Homestead ",
+        "state": "Missouri"
+    },
+    "38MO": {
+        "lat": 39.2555999756,
+        "long": -90.8556976318,
+        "name": "Barber ",
+        "state": "Missouri"
+    },
+    "39MO": {
+        "lat": 37.1186981201,
+        "long": -93.2049026489,
+        "name": "Gardner ",
+        "state": "Missouri"
+    },
+    "3MO2": {
+        "lat": 38.6908988953,
+        "long": -91.341003418,
+        "name": "Ultra Flight Airpark",
+        "state": "Missouri"
+    },
+    "3MO4": {
+        "lat": 36.4505996704,
+        "long": -89.6280975342,
+        "name": "Penman ",
+        "state": "Missouri"
+    },
+    "3MO5": {
+        "lat": 37.1281013489,
+        "long": -94.2161026001,
+        "name": "Nimsick ",
+        "state": "Missouri"
+    },
+    "3MO6": {
+        "lat": 39.3356018066,
+        "long": -94.4835968018,
+        "name": "Kitty Hawk Estates ",
+        "state": "Missouri"
+    },
+    "3MO7": {
+        "lat": 40.0833015442,
+        "long": -94.616897583,
+        "name": "Fairbanks ",
+        "state": "Missouri"
+    },
+    "3MO8": {
+        "lat": 40.0318984985,
+        "long": -94.5376968384,
+        "name": "Fizzle Ridge ",
+        "state": "Missouri"
+    },
+    "40MO": {
+        "lat": 39.4227981567,
+        "long": -94.8376998901,
+        "name": "Louise's Strip",
+        "state": "Missouri"
+    },
+    "41MO": {
+        "lat": 37.3609008789,
+        "long": -93.4957962036,
+        "name": "Textor ",
+        "state": "Missouri"
+    },
+    "42MO": {
+        "lat": 38.1231002808,
+        "long": -90.388999939,
+        "name": "Aire Parque ",
+        "state": "Missouri"
+    },
+    "43MO": {
+        "lat": 38.7832984924,
+        "long": -94.3683013916,
+        "name": "Riordan ",
+        "state": "Missouri"
+    },
+    "44MO": {
+        "lat": 39.7097015381,
+        "long": -94.8022003174,
+        "name": "Butch's Strip STOLport",
+        "state": "Missouri"
+    },
+    "44MU": {
+        "lat": 36.9081001282,
+        "long": -94.3099975586,
+        "name": "Lynch Field",
+        "state": "Missouri"
+    },
+    "45MO": {
+        "lat": 38.8473014832,
+        "long": -90.638999939,
+        "name": "Waldmeister Farm ",
+        "state": "Missouri"
+    },
+    "46MO": {
+        "lat": 38.8083992004,
+        "long": -90.6126022339,
+        "name": "Sontimer ",
+        "state": "Missouri"
+    },
+    "47MO": {
+        "lat": 39.7402992249,
+        "long": -93.9905014038,
+        "name": "Cliff Scott ",
+        "state": "Missouri"
+    },
+    "4MO0": {
+        "lat": 38.6995010376,
+        "long": -94.0579986572,
+        "name": "Fender J H ",
+        "state": "Missouri"
+    },
+    "4MO2": {
+        "lat": 40.5583992004,
+        "long": -92.4419021606,
+        "name": "Newcomb Hereford Ranch ",
+        "state": "Missouri"
+    },
+    "4MO3": {
+        "lat": 39.9916992188,
+        "long": -92.491897583,
+        "name": "Schneider Field",
+        "state": "Missouri"
+    },
+    "4MO4": {
+        "lat": 39.2167015076,
+        "long": -94.3336029053,
+        "name": "Liberty Landing ",
+        "state": "Missouri"
+    },
+    "4MO5": {
+        "lat": 37.3666992188,
+        "long": -93.991897583,
+        "name": "Boehne Field",
+        "state": "Missouri"
+    },
+    "4MO6": {
+        "lat": 39.4388999939,
+        "long": -91.1182022095,
+        "name": "Mark Twain Air Park",
+        "state": "Missouri"
+    },
+    "4MO7": {
+        "lat": 40.1413993835,
+        "long": -95.2407989502,
+        "name": "Crop Care ",
+        "state": "Missouri"
+    },
+    "4MO8": {
+        "lat": 39.2066993713,
+        "long": -94.2696990967,
+        "name": "Martens ",
+        "state": "Missouri"
+    },
+    "4MO9": {
+        "lat": 38.8925018311,
+        "long": -94.1085968018,
+        "name": "Friends Field",
+        "state": "Missouri"
+    },
+    "52MO": {
+        "lat": 37.9622993469,
+        "long": -90.1443023682,
+        "name": "Pleasant View Ultralightport",
+        "state": "Missouri"
+    },
+    "54MO": {
+        "lat": 37.0013999939,
+        "long": -92.9404983521,
+        "name": "Ozark's Flying Patch ",
+        "state": "Missouri"
+    },
+    "55MO": {
+        "lat": 38.8722991943,
+        "long": -91.2602005005,
+        "name": "Tightsqueeze Field",
+        "state": "Missouri"
+    },
+    "56MO": {
+        "lat": 36.9709014893,
+        "long": -93.9241027832,
+        "name": "Mc Clurg ",
+        "state": "Missouri"
+    },
+    "5MO1": {
+        "lat": 39.3842010498,
+        "long": -92.3762969971,
+        "name": "Irons ",
+        "state": "Missouri"
+    },
+    "5MO3": {
+        "lat": 36.9406013489,
+        "long": -93.9573974609,
+        "name": "Bil-Mitch ",
+        "state": "Missouri"
+    },
+    "5MO9": {
+        "lat": 39.9824981689,
+        "long": -92.864402771,
+        "name": "Oak Ridge Farms ",
+        "state": "Missouri"
+    },
+    "61MO": {
+        "lat": 39.5485992432,
+        "long": -92.0988006592,
+        "name": "Carl Ensor ",
+        "state": "Missouri"
+    },
+    "61MU": {
+        "lat": 39.5881996155,
+        "long": -94.7837982178,
+        "name": "Farris Strip",
+        "state": "Missouri"
+    },
+    "62MO": {
+        "lat": 39.0606002808,
+        "long": -94.2033004761,
+        "name": "Washburn Farm ",
+        "state": "Missouri"
+    },
+    "64MO": {
+        "lat": 39.6652984619,
+        "long": -95.0132980347,
+        "name": "Booze Island ",
+        "state": "Missouri"
+    },
+    "66MO": {
+        "lat": 38.8320007324,
+        "long": -90.9512023926,
+        "name": "Ahlers Acres ",
+        "state": "Missouri"
+    },
+    "67MO": {
+        "lat": 37.8109016418,
+        "long": -93.3699035645,
+        "name": "Ski Harbor ",
+        "state": "Missouri"
+    },
+    "69MO": {
+        "lat": 39.3083992004,
+        "long": -92.4541015625,
+        "name": "Hess-Mckeown ",
+        "state": "Missouri"
+    },
+    "6MO0": {
+        "lat": 38.9556007385,
+        "long": -90.8147964478,
+        "name": "Blackhawk ",
+        "state": "Missouri"
+    },
+    "6MO1": {
+        "lat": 39.9667015076,
+        "long": -95.0669021606,
+        "name": "Markt Air Strip",
+        "state": "Missouri"
+    },
+    "6MO2": {
+        "lat": 37.9861984253,
+        "long": -90.0334014893,
+        "name": "Ste Genevieve Flying Club ",
+        "state": "Missouri"
+    },
+    "6MO3": {
+        "lat": 37.3492012024,
+        "long": -92.1283035278,
+        "name": "Flying 'E' ",
+        "state": "Missouri"
+    },
+    "6MO4": {
+        "lat": 38.0416984558,
+        "long": -93.7835006714,
+        "name": "Wixted ",
+        "state": "Missouri"
+    },
+    "6MO6": {
+        "lat": 38.3334007263,
+        "long": -91.5167999268,
+        "name": "Winter Field",
+        "state": "Missouri"
+    },
+    "6MO7": {
+        "lat": 37.0292015076,
+        "long": -93.1668014526,
+        "name": "Riverside Landings ",
+        "state": "Missouri"
+    },
+    "6MO8": {
+        "lat": 39.4833984375,
+        "long": -92.0668029785,
+        "name": "Brazeale Farm ",
+        "state": "Missouri"
+    },
+    "6MO9": {
+        "lat": 38.7005996704,
+        "long": -94.4738006592,
+        "name": "West Aero Ranch ",
+        "state": "Missouri"
+    },
+    "6MU4": {
+        "lat": 39.0377998352,
+        "long": -91.725402832,
+        "name": "Flying Shamrock ",
+        "state": "Missouri"
+    },
+    "6MU9": {
+        "lat": 37.5348014832,
+        "long": -91.9652023315,
+        "name": "Craddock Field",
+        "state": "Missouri"
+    },
+    "70MO": {
+        "lat": 37.2178001404,
+        "long": -94.1463012695,
+        "name": "Andrews ",
+        "state": "Missouri"
+    },
+    "71MO": {
+        "lat": 39.2919998169,
+        "long": -93.3841018677,
+        "name": "Famuliner Farms ",
+        "state": "Missouri"
+    },
+    "73MU": {
+        "lat": 38.8856010437,
+        "long": -91.9691009521,
+        "name": "Sky-Go Farms ",
+        "state": "Missouri"
+    },
+    "74MU": {
+        "lat": 39.0400009155,
+        "long": -91.1304016113,
+        "name": "Koala-T-Field ",
+        "state": "Missouri"
+    },
+    "76MO": {
+        "lat": 39.9693984985,
+        "long": -92.6968994141,
+        "name": "Walnut Creek ",
+        "state": "Missouri"
+    },
+    "77MO": {
+        "lat": 37.0903015137,
+        "long": -93.7694015503,
+        "name": "Springhill ",
+        "state": "Missouri"
+    },
+    "78MO": {
+        "lat": 39.995300293,
+        "long": -91.6890029907,
+        "name": "Staggs ",
+        "state": "Missouri"
+    },
+    "78MU": {
+        "lat": 37.2963981628,
+        "long": -94.1951980591,
+        "name": "Stony Branch ",
+        "state": "Missouri"
+    },
+    "79MO": {
+        "lat": 36.9866981506,
+        "long": -90.543296814,
+        "name": "Faries Field",
+        "state": "Missouri"
+    },
+    "79MU": {
+        "lat": 39.3302993774,
+        "long": -94.556602478,
+        "name": "Dunham Private ",
+        "state": "Missouri"
+    },
+    "7MO1": {
+        "lat": 39.4723014832,
+        "long": -91.7113037109,
+        "name": "Wood Acres ",
+        "state": "Missouri"
+    },
+    "7MO2": {
+        "lat": 39.8499984741,
+        "long": -91.7334976196,
+        "name": "Bevill ",
+        "state": "Missouri"
+    },
+    "7MO3": {
+        "lat": 36.6001014709,
+        "long": -94.3501968384,
+        "name": "B S Ranch ",
+        "state": "Missouri"
+    },
+    "7MO4": {
+        "lat": 39.4319000244,
+        "long": -94.8030014038,
+        "name": "Flintlock Field",
+        "state": "Missouri"
+    },
+    "7MO5": {
+        "lat": 39.3347015381,
+        "long": -94.8126983643,
+        "name": "Elton Field",
+        "state": "Missouri"
+    },
+    "7MO6": {
+        "lat": 39.4832992554,
+        "long": -94.4669036865,
+        "name": "Mac's Field",
+        "state": "Missouri"
+    },
+    "7MO7": {
+        "lat": 39.5666999817,
+        "long": -94.4147033691,
+        "name": "Kimray ",
+        "state": "Missouri"
+    },
+    "7MO8": {
+        "lat": 39.5292015076,
+        "long": -94.4502029419,
+        "name": "Clark ",
+        "state": "Missouri"
+    },
+    "80MO": {
+        "lat": 37.276536,
+        "long": -94.351897,
+        "name": "Seiferd Field",
+        "state": "Missouri"
+    },
+    "83MU": {
+        "lat": 36.7690010071,
+        "long": -94.2124023438,
+        "name": "Dalbom Ultralightport",
+        "state": "Missouri"
+    },
+    "85MO": {
+        "lat": 37.875,
+        "long": -92.3224029541,
+        "name": "Willhite ",
+        "state": "Missouri"
+    },
+    "87MO": {
+        "lat": 38.6960983276,
+        "long": -94.2580032349,
+        "name": "Richters ",
+        "state": "Missouri"
+    },
+    "88MO": {
+        "lat": 36.7016983032,
+        "long": -91.802696228,
+        "name": "Howell Valley ",
+        "state": "Missouri"
+    },
+    "89MO": {
+        "lat": 38.5833015442,
+        "long": -94.5796966553,
+        "name": "Bishop's Landing ",
+        "state": "Missouri"
+    },
+    "8MO3": {
+        "lat": 39.3246994019,
+        "long": -93.9415969849,
+        "name": "Curtis Field",
+        "state": "Missouri"
+    },
+    "8MO4": {
+        "lat": 38.2084007263,
+        "long": -90.8667984009,
+        "name": "Joan Lake ",
+        "state": "Missouri"
+    },
+    "8MO5": {
+        "lat": 39.8227996826,
+        "long": -94.3841018677,
+        "name": "Cayton Pony Express ",
+        "state": "Missouri"
+    },
+    "8MO7": {
+        "lat": 39.4916992188,
+        "long": -95.0065994263,
+        "name": "Bean Lake ",
+        "state": "Missouri"
+    },
+    "8MO8": {
+        "lat": 36.9112014771,
+        "long": -93.866897583,
+        "name": "Frazier ",
+        "state": "Missouri"
+    },
+    "93MO": {
+        "lat": 37.1088981628,
+        "long": -94.4055023193,
+        "name": "Kathy's Patch ",
+        "state": "Missouri"
+    },
+    "94MO": {
+        "lat": 36.8053016663,
+        "long": -91.8813018799,
+        "name": "Ray's Roost ",
+        "state": "Missouri"
+    },
+    "95MO": {
+        "lat": 39.2594985962,
+        "long": -91.6501998901,
+        "name": "Schlemmer ",
+        "state": "Missouri"
+    },
+    "96MU": {
+        "lat": 37.9434013367,
+        "long": -91.6020965576,
+        "name": "Green Airfield",
+        "state": "Missouri"
+    },
+    "97MO": {
+        "lat": 37.7566986084,
+        "long": -93.0162963867,
+        "name": "Gary's ",
+        "state": "Missouri"
+    },
+    "98MO": {
+        "lat": 38.7862014771,
+        "long": -90.9423980713,
+        "name": "Woodliff Airpark",
+        "state": "Missouri"
+    },
+    "9MO3": {
+        "lat": 39.6417007446,
+        "long": -94.8135986328,
+        "name": "Lawlor-Justus ",
+        "state": "Missouri"
+    },
+    "9MO4": {
+        "lat": 39.9791984558,
+        "long": -94.8739013672,
+        "name": "Worth ",
+        "state": "Missouri"
+    },
+    "9MO5": {
+        "lat": 37.06119919,
+        "long": -93.09929657,
+        "name": "Hindman ",
+        "state": "Missouri"
+    },
+    "9MO6": {
+        "lat": 38.1930999756,
+        "long": -92.992401123,
+        "name": "Ivy Bend ",
+        "state": "Missouri"
+    },
+    "9MO9": {
+        "lat": 39.5499992371,
+        "long": -93.2501983643,
+        "name": "Eagle Lodge ",
+        "state": "Missouri"
+    },
+    "K03B": {
+        "lat": 37.1277999878,
+        "long": -92.6210021973,
+        "name": "Mansfield Municipal ",
+        "state": "Missouri"
+    },
+    "K03D": {
+        "lat": 40.4472999573,
+        "long": -92.2269973755,
+        "name": "Memphis Memorial ",
+        "state": "Missouri"
+    },
+    "K15": {
+        "lat": 38.1104444,
+        "long": -92.6805556,
+        "name": "Grand Glaize-Osage Beach ",
+        "state": "Missouri"
+    },
+    "K1H0": {
+        "lat": 38.7273333,
+        "long": -90.5084167,
+        "name": "Creve Coeur ",
+        "state": "Missouri"
+    },
+    "K1H3": {
+        "lat": 38.4715003967,
+        "long": -91.8152999878,
+        "name": "Linn State Technical College ",
+        "state": "Missouri"
+    },
+    "K1H5": {
+        "lat": 36.9896011353,
+        "long": -91.9541015625,
+        "name": "Willow Springs Memorial ",
+        "state": "Missouri"
+    },
+    "K1MO": {
+        "lat": 37.1207008362,
+        "long": -92.3112030029,
+        "name": "Mountain Grove Memorial ",
+        "state": "Missouri"
+    },
+    "K2H2": {
+        "lat": 36.9622993469,
+        "long": -93.6952972412,
+        "name": "Jerry Sumners Sr Aurora Municipal ",
+        "state": "Missouri"
+    },
+    "K2MO": {
+        "lat": 37.0684013367,
+        "long": -93.8849029541,
+        "name": "Mount Vernon Municipal ",
+        "state": "Missouri"
+    },
+    "K34M": {
+        "lat": 36.4861984253,
+        "long": -90.0083999634,
+        "name": "Campbell Municipal ",
+        "state": "Missouri"
+    },
+    "K3DW": {
+        "lat": 37.221698761,
+        "long": -93.2477035522,
+        "name": "Downtown ",
+        "state": "Missouri"
+    },
+    "K3GV": {
+        "lat": 39.0155982971,
+        "long": -94.2133026123,
+        "name": "East Kansas City ",
+        "state": "Missouri"
+    },
+    "K3SQ": {
+        "lat": 38.8487014771,
+        "long": -90.5000991821,
+        "name": "St Charles ",
+        "state": "Missouri"
+    },
+    "K42M": {
+        "lat": 36.5223007202,
+        "long": -91.5719985962,
+        "name": "Thayer Memorial ",
+        "state": "Missouri"
+    },
+    "K4K3": {
+        "lat": 39.2098007202,
+        "long": -93.9280014038,
+        "name": "Lexington Municipal ",
+        "state": "Missouri"
+    },
+    "K63M": {
+        "lat": 38.7052001953,
+        "long": -91.4906005859,
+        "name": "Hermann Municipal ",
+        "state": "Missouri"
+    },
+    "K6M6": {
+        "lat": 40.12919998,
+        "long": -91.67829895,
+        "name": "Lewis County Regional ",
+        "state": "Missouri"
+    },
+    "K78Y": {
+        "lat": 40.3333015442,
+        "long": -94.8336029053,
+        "name": "Rankin ",
+        "state": "Missouri"
+    },
+    "K87K": {
+        "lat": 37.8567008972,
+        "long": -93.9990997314,
+        "name": "El Dorado Springs Memorial ",
+        "state": "Missouri"
+    },
+    "K8WC": {
+        "lat": 37.9291992188,
+        "long": -90.7314987183,
+        "name": "Washington County ",
+        "state": "Missouri"
+    },
+    "K94K": {
+        "lat": 36.6973991394,
+        "long": -93.9004974365,
+        "name": "Cassville Municipal ",
+        "state": "Missouri"
+    },
+    "KAIZ": {
+        "lat": 38.0960006714,
+        "long": -92.5494995117,
+        "name": "Lee C Fine Memorial ",
+        "state": "Missouri"
+    },
+    "KAOV": {
+        "lat": 36.9719009399,
+        "long": -92.6819000244,
+        "name": "Ava Bill Martin Memorial ",
+        "state": "Missouri"
+    },
+    "KBBG": {
+        "lat": 36.532082,
+        "long": -93.200544,
+        "name": "Branson ",
+        "state": "Missouri"
+    },
+    "KBUM": {
+        "lat": 38.2897987366,
+        "long": -94.3401031494,
+        "name": "Butler Memorial ",
+        "state": "Missouri"
+    },
+    "KCGI": {
+        "lat": 37.2252998352,
+        "long": -89.5708007813,
+        "name": "Cape Girardeau Regional ",
+        "state": "Missouri"
+    },
+    "KCHQ": {
+        "lat": 36.8420982361,
+        "long": -89.359703064,
+        "name": "Mississippi County ",
+        "state": "Missouri"
+    },
+    "KCHT": {
+        "lat": 39.7821998596,
+        "long": -93.4956970215,
+        "name": "Chillicothe Municipal ",
+        "state": "Missouri"
+    },
+    "KCOU": {
+        "lat": 38.8180999756,
+        "long": -92.2195968628,
+        "name": "Columbia Regional ",
+        "state": "Missouri"
+    },
+    "KDAW": {
+        "lat": 43.2840995789,
+        "long": -70.9292984009,
+        "name": "Skyhaven ",
+        "state": "Missouri"
+    },
+    "KDMO": {
+        "lat": 38.7074012756,
+        "long": -93.1759033203,
+        "name": "Sedalia Memorial ",
+        "state": "Missouri"
+    },
+    "KDXE": {
+        "lat": 36.77750015,
+        "long": -89.94120026,
+        "name": "Dexter Municipal ",
+        "state": "Missouri"
+    },
+    "KEIW": {
+        "lat": 36.53530121,
+        "long": -89.59970093,
+        "name": "County Memorial ",
+        "state": "Missouri"
+    },
+    "KEOS": {
+        "lat": 36.810798645,
+        "long": -94.3917007446,
+        "name": "Neosho Hugh Robinson ",
+        "state": "Missouri"
+    },
+    "KEVU": {
+        "lat": 40.35250092,
+        "long": -94.91500092,
+        "name": "Northwest Missouri Regional ",
+        "state": "Missouri"
+    },
+    "KEZZ": {
+        "lat": 39.7276001,
+        "long": -94.27639771,
+        "name": "Cameron Memorial ",
+        "state": "Missouri"
+    },
+    "KFAM": {
+        "lat": 37.76110077,
+        "long": -90.4285965,
+        "name": "Farmington Regional ",
+        "state": "Missouri"
+    },
+    "KFES": {
+        "lat": 38.1949005127,
+        "long": -90.3853988647,
+        "name": "Festus Memorial ",
+        "state": "Missouri"
+    },
+    "KFTT": {
+        "lat": 38.8381004333,
+        "long": -92.0026016235,
+        "name": "Elton Hensley Memorial ",
+        "state": "Missouri"
+    },
+    "KFWB": {
+        "lat": 36.698497,
+        "long": -93.402249,
+        "name": "Branson West ",
+        "state": "Missouri"
+    },
+    "KGLY": {
+        "lat": 38.3566017151,
+        "long": -93.6841964722,
+        "name": "Clinton Memorial ",
+        "state": "Missouri"
+    },
+    "KGPH": {
+        "lat": 39.33250046,
+        "long": -94.30960083,
+        "name": "Midwest National Air Center ",
+        "state": "Missouri"
+    },
+    "KH17": {
+        "lat": 37.6542015076,
+        "long": -93.0876998901,
+        "name": "Buffalo Municipal ",
+        "state": "Missouri"
+    },
+    "KH19": {
+        "lat": 39.3698997498,
+        "long": -91.2192993164,
+        "name": "Bowling Green Municipal ",
+        "state": "Missouri"
+    },
+    "KH21": {
+        "lat": 37.9739990234,
+        "long": -92.6912002563,
+        "name": "Camdenton Memorial ",
+        "state": "Missouri"
+    },
+    "KH58": {
+        "lat": 37.1847000122,
+        "long": -92.7376022339,
+        "name": "Owen Field",
+        "state": "Missouri"
+    },
+    "KH79": {
+        "lat": 38.3605995178,
+        "long": -92.5716018677,
+        "name": "Eldon Model Airpark",
+        "state": "Missouri"
+    },
+    "KH88": {
+        "lat": 37.6058006287,
+        "long": -90.2873001099,
+        "name": "Fredericktown Regional ",
+        "state": "Missouri"
+    },
+    "KHAE": {
+        "lat": 39.72449875,
+        "long": -91.4437027,
+        "name": "Hannibal Regional ",
+        "state": "Missouri"
+    },
+    "KHFJ": {
+        "lat": 36.90620041,
+        "long": -94.01280212,
+        "name": "Monett Municipal ",
+        "state": "Missouri"
+    },
+    "KHIG": {
+        "lat": 39.07289886,
+        "long": -93.67749786,
+        "name": "Higginsville Industrial Municipal ",
+        "state": "Missouri"
+    },
+    "KIRK": {
+        "lat": 40.09349823,
+        "long": -92.5448989868,
+        "name": "Kirksville Regional ",
+        "state": "Missouri"
+    },
+    "KJEF": {
+        "lat": 38.5912017822,
+        "long": -92.1560974121,
+        "name": "Jefferson City Memorial ",
+        "state": "Missouri"
+    },
+    "KJLN": {
+        "lat": 37.1517982483,
+        "long": -94.498298645,
+        "name": "Joplin Regional ",
+        "state": "Missouri"
+    },
+    "KK02": {
+        "lat": 37.86869812,
+        "long": -89.86209869,
+        "name": "Perryville Municipal ",
+        "state": "Missouri"
+    },
+    "KK19": {
+        "lat": 40.2621994019,
+        "long": -94.3389968872,
+        "name": "Albany Municipal ",
+        "state": "Missouri"
+    },
+    "KK33": {
+        "lat": 37.6152000427,
+        "long": -91.6044006348,
+        "name": "Salem Memorial ",
+        "state": "Missouri"
+    },
+    "KK39": {
+        "lat": 38.3759002686,
+        "long": -90.970703125,
+        "name": "St Clair Regional ",
+        "state": "Missouri"
+    },
+    "KK52": {
+        "lat": 39.63439941,
+        "long": -91.72699738,
+        "name": "Capt. Ben Smith Airfield - Monroe City ",
+        "state": "Missouri"
+    },
+    "KK57": {
+        "lat": 40.44580078,
+        "long": -95.3628006,
+        "name": "Gould Peterson Municipal ",
+        "state": "Missouri"
+    },
+    "KK89": {
+        "lat": 39.7286987305,
+        "long": -92.4645004272,
+        "name": "Macon Fower Memorial ",
+        "state": "Missouri"
+    },
+    "KLBO": {
+        "lat": 37.64830017,
+        "long": -92.65239716,
+        "name": "Floyd W. Jones Lebanon ",
+        "state": "Missouri"
+    },
+    "KLLU": {
+        "lat": 37.4894981384,
+        "long": -94.3115005493,
+        "name": "Lamar Municipal ",
+        "state": "Missouri"
+    },
+    "KLRY": {
+        "lat": 38.611000061,
+        "long": -94.3421020508,
+        "name": "Lawrence Smith Memorial ",
+        "state": "Missouri"
+    },
+    "KLXT": {
+        "lat": 38.95970154,
+        "long": -94.37139893,
+        "name": "Lee's Summit Municipal ",
+        "state": "Missouri"
+    },
+    "KM05": {
+        "lat": 36.1691017151,
+        "long": -89.6764984131,
+        "name": "Caruthersville Memorial ",
+        "state": "Missouri"
+    },
+    "KM12": {
+        "lat": 36.09590149,
+        "long": -89.86340332,
+        "name": "Steele Municipal ",
+        "state": "Missouri"
+    },
+    "KM17": {
+        "lat": 37.5960998535,
+        "long": -93.3477020264,
+        "name": "Bolivar Municipal ",
+        "state": "Missouri"
+    },
+    "KM48": {
+        "lat": 37.3301010132,
+        "long": -91.973197937,
+        "name": "Houston Memorial ",
+        "state": "Missouri"
+    },
+    "KM71": {
+        "lat": 38.9017982483,
+        "long": -90.9602966309,
+        "name": "Greensfield ",
+        "state": "Missouri"
+    },
+    "KM85": {
+        "lat": 36.4438018799,
+        "long": -89.9038009644,
+        "name": "Gideon Memorial ",
+        "state": "Missouri"
+    },
+    "KMAW": {
+        "lat": 36.6006012,
+        "long": -89.99220276,
+        "name": "Malden Regional ",
+        "state": "Missouri"
+    },
+    "KMBY": {
+        "lat": 39.4639015198,
+        "long": -92.4270019531,
+        "name": "Omar N Bradley ",
+        "state": "Missouri"
+    },
+    "KMCI": {
+        "lat": 39.2975997925,
+        "long": -94.7138977051,
+        "name": "Kansas City International ",
+        "state": "Missouri"
+    },
+    "KMHL": {
+        "lat": 39.0957984924,
+        "long": -93.2029037476,
+        "name": "Marshall Memorial Municipal ",
+        "state": "Missouri"
+    },
+    "KMKC": {
+        "lat": 39.1231994629,
+        "long": -94.5927963257,
+        "name": "Charles B. Wheeler Downtown ",
+        "state": "Missouri"
+    },
+    "KMNF": {
+        "lat": 36.9928016663,
+        "long": -91.7145004272,
+        "name": "Mountain View ",
+        "state": "Missouri"
+    },
+    "KMO1": {
+        "lat": 37.875,
+        "long": -92.4085006714,
+        "name": "Richland Municipal ",
+        "state": "Missouri"
+    },
+    "KMO3": {
+        "lat": 37.6603012085,
+        "long": -93.8168029785,
+        "name": "Stockton Municipal ",
+        "state": "Missouri"
+    },
+    "KMO6": {
+        "lat": 38.58760071,
+        "long": -90.9937973,
+        "name": "Washington Regional ",
+        "state": "Missouri"
+    },
+    "KMO8": {
+        "lat": 39.7700004578,
+        "long": -93.0127029419,
+        "name": "North Central Missouri Regional ",
+        "state": "Missouri"
+    },
+    "KMYJ": {
+        "lat": 39.1575012207,
+        "long": -91.8182983398,
+        "name": "Mexico Memorial ",
+        "state": "Missouri"
+    },
+    "KNVD": {
+        "lat": 37.8521003723,
+        "long": -94.304901123,
+        "name": "Nevada Municipal ",
+        "state": "Missouri"
+    },
+    "KPCD": {
+        "lat": 37.8686667,
+        "long": -89.8621389,
+        "name": "Perryville Regional ",
+        "state": "Missouri"
+    },
+    "KPLK": {
+        "lat": 36.62590027,
+        "long": -93.22889709,
+        "name": "M. Graham Clark-Taney County ",
+        "state": "Missouri"
+    },
+    "KPOF": {
+        "lat": 36.7738990784,
+        "long": -90.3248977661,
+        "name": "Poplar Bluff Municipal ",
+        "state": "Missouri"
+    },
+    "KPYN": {
+        "lat": 37.126701355,
+        "long": -90.7128982544,
+        "name": "Piedmont Municipal ",
+        "state": "Missouri"
+    },
+    "KRAW": {
+        "lat": 38.3469009399,
+        "long": -93.3453979492,
+        "name": "Warsaw Municipal ",
+        "state": "Missouri"
+    },
+    "KRCM": {
+        "lat": 38.784198761,
+        "long": -93.8029022217,
+        "name": "Skyhaven ",
+        "state": "Missouri"
+    },
+    "KSET": {
+        "lat": 38.92969894,
+        "long": -90.43000031,
+        "name": "St Charles County Smartt ",
+        "state": "Missouri"
+    },
+    "KSGF": {
+        "lat": 37.24570084,
+        "long": -93.38860321,
+        "name": "Springfield Branson National ",
+        "state": "Missouri"
+    },
+    "KSIK": {
+        "lat": 36.8988990784,
+        "long": -89.5617980957,
+        "name": "Sikeston Memorial Municipal ",
+        "state": "Missouri"
+    },
+    "KSTJ": {
+        "lat": 39.771900177,
+        "long": -94.9096984863,
+        "name": "Rosecrans Memorial ",
+        "state": "Missouri"
+    },
+    "KSTL": {
+        "lat": 38.7486991882,
+        "long": -90.3700027466,
+        "name": "Lambert St Louis International ",
+        "state": "Missouri"
+    },
+    "KSUS": {
+        "lat": 38.6621017456,
+        "long": -90.6520004272,
+        "name": "Spirit of St Louis ",
+        "state": "Missouri"
+    },
+    "KSZL": {
+        "lat": 38.7303009033,
+        "long": -93.5478973389,
+        "name": "Whiteman Air Force Base",
+        "state": "Missouri"
+    },
+    "KTBN": {
+        "lat": 37.74160004,
+        "long": -92.14070129,
+        "name": "Waynesville-St. Robert Regional Forney field",
+        "state": "Missouri"
+    },
+    "KTKX": {
+        "lat": 36.2258987427,
+        "long": -90.0365982056,
+        "name": "Kennett Memorial ",
+        "state": "Missouri"
+    },
+    "KTRX": {
+        "lat": 40.08349991,
+        "long": -93.59059906,
+        "name": "Trenton Municipal ",
+        "state": "Missouri"
+    },
+    "KTVB": {
+        "lat": 37.1324005127,
+        "long": -92.0839996338,
+        "name": "Cabool Memorial ",
+        "state": "Missouri"
+    },
+    "KUBX": {
+        "lat": 38.0688018799,
+        "long": -91.4289016724,
+        "name": "Cuba Municipal ",
+        "state": "Missouri"
+    },
+    "KUNO": {
+        "lat": 36.8783988953,
+        "long": -91.9027023315,
+        "name": "West Plains Municipal ",
+        "state": "Missouri"
+    },
+    "KUUV": {
+        "lat": 38.2335014343,
+        "long": -91.1642990112,
+        "name": "Sullivan Regional ",
+        "state": "Missouri"
+    },
+    "KVER": {
+        "lat": 38.9467010498,
+        "long": -92.6827011108,
+        "name": "Jesse Viertel Memorial ",
+        "state": "Missouri"
+    },
+    "KVIH": {
+        "lat": 38.1273994446,
+        "long": -91.7695007324,
+        "name": "Rolla National ",
+        "state": "Missouri"
+    },
+    "MO00": {
+        "lat": 36.5917015076,
+        "long": -93.6669006348,
+        "name": "Turkey Mountain Estates ",
+        "state": "Missouri"
+    },
+    "MO01": {
+        "lat": 37.25,
+        "long": -93.1060028076,
+        "name": "Cuinche ",
+        "state": "Missouri"
+    },
+    "MO02": {
+        "lat": 37.9166984558,
+        "long": -91.6835021973,
+        "name": "Morgan ",
+        "state": "Missouri"
+    },
+    "MO03": {
+        "lat": 38.4241981506,
+        "long": -90.582901001,
+        "name": "Moders ",
+        "state": "Missouri"
+    },
+    "MO04": {
+        "lat": 39.7167015076,
+        "long": -91.8501968384,
+        "name": "Lyell ",
+        "state": "Missouri"
+    },
+    "MO07": {
+        "lat": 38.8725013733,
+        "long": -91.300201416,
+        "name": "Adventures Aloft ",
+        "state": "Missouri"
+    },
+    "MO08": {
+        "lat": 38.6627998352,
+        "long": -93.3327026367,
+        "name": "Homan Field",
+        "state": "Missouri"
+    },
+    "MO09": {
+        "lat": 40.0237007141,
+        "long": -91.8738021851,
+        "name": "Sharpe Farms ",
+        "state": "Missouri"
+    },
+    "MO10": {
+        "lat": 39.2042999268,
+        "long": -92.2623977661,
+        "name": "Hawk Air ",
+        "state": "Missouri"
+    },
+    "MO11": {
+        "lat": 39.4005012512,
+        "long": -91.582901001,
+        "name": "Barron Aviation ",
+        "state": "Missouri"
+    },
+    "MO13": {
+        "lat": 37.7975997925,
+        "long": -92.8292007446,
+        "name": "Blue Hollow Airpark",
+        "state": "Missouri"
+    },
+    "MO14": {
+        "lat": 37.422778,
+        "long": -93.208611,
+        "name": "Marshall Field",
+        "state": "Missouri"
+    },
+    "MO15": {
+        "lat": 37.3875007629,
+        "long": -92.9573974609,
+        "name": "Beckner Field",
+        "state": "Missouri"
+    },
+    "MO16": {
+        "lat": 37.163898468,
+        "long": -94.168296814,
+        "name": "Baugh Flight Park Ultralightport",
+        "state": "Missouri"
+    },
+    "MO17": {
+        "lat": 40.4791984558,
+        "long": -95.6461029053,
+        "name": "Garst ",
+        "state": "Missouri"
+    },
+    "MO18": {
+        "lat": 38.9472007751,
+        "long": -94.2490997314,
+        "name": "Clevenger ",
+        "state": "Missouri"
+    },
+    "MO22": {
+        "lat": 37.1916999817,
+        "long": -94.549697876,
+        "name": "Jta Asbell Field",
+        "state": "Missouri"
+    },
+    "MO23": {
+        "lat": 38.6333999634,
+        "long": -92.5335006714,
+        "name": "Phillips Field",
+        "state": "Missouri"
+    },
+    "MO24": {
+        "lat": 40.1427993774,
+        "long": -95.3882980347,
+        "name": "Lonesome Sky ",
+        "state": "Missouri"
+    },
+    "MO25": {
+        "lat": 40.1375007629,
+        "long": -94.9255981445,
+        "name": "Show Me The Sky ",
+        "state": "Missouri"
+    },
+    "MO26": {
+        "lat": 39.393901825,
+        "long": -94.3529968262,
+        "name": "Peterson Farm ",
+        "state": "Missouri"
+    },
+    "MO27": {
+        "lat": 39.7352981567,
+        "long": -94.1927032471,
+        "name": "Ccc ",
+        "state": "Missouri"
+    },
+    "MO29": {
+        "lat": 38.7722015381,
+        "long": -94.3348999023,
+        "name": "Inter-State ",
+        "state": "Missouri"
+    },
+    "MO30": {
+        "lat": 38.2699012756,
+        "long": -92.8115005493,
+        "name": "Harbour ",
+        "state": "Missouri"
+    },
+    "MO31": {
+        "lat": 37.0494995117,
+        "long": -93.0724029541,
+        "name": "Malina ",
+        "state": "Missouri"
+    },
+    "MO32": {
+        "lat": 36.5287017822,
+        "long": -93.676902771,
+        "name": "Table Rock ",
+        "state": "Missouri"
+    },
+    "MO33": {
+        "lat": 37.1291999817,
+        "long": -94.2537994385,
+        "name": "Barlet's Base ",
+        "state": "Missouri"
+    },
+    "MO34": {
+        "lat": 37.3596992493,
+        "long": -93.6624984741,
+        "name": "Ellingsen Field",
+        "state": "Missouri"
+    },
+    "MO35": {
+        "lat": 39.2127990723,
+        "long": -90.9173965454,
+        "name": "Harvey ",
+        "state": "Missouri"
+    },
+    "MO36": {
+        "lat": 38.8320007324,
+        "long": -90.9251022339,
+        "name": "Riddle's Roost ",
+        "state": "Missouri"
+    },
+    "MO37": {
+        "lat": 38.7230987549,
+        "long": -94.3818969727,
+        "name": "Ridgeview Ranch ",
+        "state": "Missouri"
+    },
+    "MO39": {
+        "lat": 39.1133995056,
+        "long": -91.0418014526,
+        "name": "Baldwin ",
+        "state": "Missouri"
+    },
+    "MO42": {
+        "lat": 40.3763999939,
+        "long": -92.0724029541,
+        "name": "Wileys Air Strip",
+        "state": "Missouri"
+    },
+    "MO43": {
+        "lat": 38.96849823,
+        "long": -91.4434967041,
+        "name": "Wilkins ",
+        "state": "Missouri"
+    },
+    "MO45": {
+        "lat": 38.89220047,
+        "long": -91.5660018921,
+        "name": "Sky-Vu ",
+        "state": "Missouri"
+    },
+    "MO46": {
+        "lat": 39.5203018188,
+        "long": -91.1717987061,
+        "name": "Walker ",
+        "state": "Missouri"
+    },
+    "MO49": {
+        "lat": 36.9702987671,
+        "long": -94.5766983032,
+        "name": "Five Mile ",
+        "state": "Missouri"
+    },
+    "MO51": {
+        "lat": 39.4235992432,
+        "long": -94.8477020264,
+        "name": "Schaback Strip",
+        "state": "Missouri"
+    },
+    "MO52": {
+        "lat": 37.8666992188,
+        "long": -93.3834991455,
+        "name": "Skyriders ",
+        "state": "Missouri"
+    },
+    "MO53": {
+        "lat": 40.2332992554,
+        "long": -93.9336013794,
+        "name": "Meadows ",
+        "state": "Missouri"
+    },
+    "MO54": {
+        "lat": 36.7820014954,
+        "long": -90.0889968872,
+        "name": "Dudley ",
+        "state": "Missouri"
+    },
+    "MO56": {
+        "lat": 36.5141983032,
+        "long": -92.6401977539,
+        "name": "Lost Mine ",
+        "state": "Missouri"
+    },
+    "MO57": {
+        "lat": 36.7070007324,
+        "long": -89.4666976929,
+        "name": "Henderson Mounds E B G ",
+        "state": "Missouri"
+    },
+    "MO58": {
+        "lat": 36.6584014893,
+        "long": -90.6404037476,
+        "name": "Waldemer Flying W Ranch ",
+        "state": "Missouri"
+    },
+    "MO59": {
+        "lat": 38.9145011902,
+        "long": -90.900100708,
+        "name": "K & N Field",
+        "state": "Missouri"
+    },
+    "MO61": {
+        "lat": 36.5583992004,
+        "long": -93.6418991089,
+        "name": "Bel-Voir Acres ",
+        "state": "Missouri"
+    },
+    "MO62": {
+        "lat": 40.5102996826,
+        "long": -94.5815963745,
+        "name": "Hibbs Farm ",
+        "state": "Missouri"
+    },
+    "MO64": {
+        "lat": 36.6097984314,
+        "long": -93.4446029663,
+        "name": "Kimberling ",
+        "state": "Missouri"
+    },
+    "MO65": {
+        "lat": 36.5834007263,
+        "long": -93.1029968262,
+        "name": "Misty Meadows ",
+        "state": "Missouri"
+    },
+    "MO66": {
+        "lat": 37.059167,
+        "long": -93.145556,
+        "name": "Linden Air ",
+        "state": "Missouri"
+    },
+    "MO67": {
+        "lat": 36.7112007141,
+        "long": -90.3140029907,
+        "name": "Hayes Field",
+        "state": "Missouri"
+    },
+    "MO68": {
+        "lat": 37.4053001404,
+        "long": -93.0996017456,
+        "name": "Eads Ridge ",
+        "state": "Missouri"
+    },
+    "MO71": {
+        "lat": 39.4631004333,
+        "long": -94.418296814,
+        "name": "Block Air Village ",
+        "state": "Missouri"
+    },
+    "MO72": {
+        "lat": 37.0402984619,
+        "long": -90.8667984009,
+        "name": "Flying 'J' Ranch ",
+        "state": "Missouri"
+    },
+    "MO73": {
+        "lat": 36.9875984192,
+        "long": -90.5584030151,
+        "name": "Rolling Shoals Farm ",
+        "state": "Missouri"
+    },
+    "MO74": {
+        "lat": 38.9222984314,
+        "long": -92.1696014404,
+        "name": "Cedar Creek ",
+        "state": "Missouri"
+    },
+    "MO75": {
+        "lat": 38.3050003052,
+        "long": -94.0532989502,
+        "name": "Brownsberger ",
+        "state": "Missouri"
+    },
+    "MO77": {
+        "lat": 36.9751014709,
+        "long": -92.5427017212,
+        "name": "Arnika Ranch ",
+        "state": "Missouri"
+    },
+    "MO78": {
+        "lat": 38.3166999817,
+        "long": -91.7835006714,
+        "name": "Stickle Cattle Farms ",
+        "state": "Missouri"
+    },
+    "MO79": {
+        "lat": 37.6791992188,
+        "long": -90.7154006958,
+        "name": "Sky Ranch Ii ",
+        "state": "Missouri"
+    },
+    "MO80": {
+        "lat": 37.1605987549,
+        "long": -92.3235015869,
+        "name": "Johnston's Nest Aerodrome",
+        "state": "Missouri"
+    },
+    "MO81": {
+        "lat": 37.6708984375,
+        "long": -90.6147994995,
+        "name": "Dove Airstrip",
+        "state": "Missouri"
+    },
+    "MO82": {
+        "lat": 40.4089012146,
+        "long": -92.0568008423,
+        "name": "Howard ",
+        "state": "Missouri"
+    },
+    "MO83": {
+        "lat": 40.2531013489,
+        "long": -92.9549026489,
+        "name": "Widmark ",
+        "state": "Missouri"
+    },
+    "MO84": {
+        "lat": 37.7167015076,
+        "long": -91.1334991455,
+        "name": "Viburnum ",
+        "state": "Missouri"
+    },
+    "MO85": {
+        "lat": 37.251701355,
+        "long": -92.8338012695,
+        "name": "Wells ",
+        "state": "Missouri"
+    },
+    "MO86": {
+        "lat": 38.9597015381,
+        "long": -91.3039016724,
+        "name": "Sanctuary ",
+        "state": "Missouri"
+    },
+    "MO87": {
+        "lat": 38.9458007813,
+        "long": -94.1619033813,
+        "name": "Powis ",
+        "state": "Missouri"
+    },
+    "MO88": {
+        "lat": 39.0999984741,
+        "long": -92.0093002319,
+        "name": "Feutz ",
+        "state": "Missouri"
+    },
+    "MO89": {
+        "lat": 38.1741981506,
+        "long": -92.8584976196,
+        "name": "Bar-Vik ",
+        "state": "Missouri"
+    },
+    "MO93": {
+        "lat": 39.044819,
+        "long": -91.148094,
+        "name": "Keeven Air Ranch ",
+        "state": "Missouri"
+    },
+    "MO94": {
+        "lat": 39.5,
+        "long": -94.5802001953,
+        "name": "Starr ",
+        "state": "Missouri"
+    },
+    "MO95": {
+        "lat": 39.4416999817,
+        "long": -93.6622009277,
+        "name": "Hawkins ",
+        "state": "Missouri"
+    },
+    "MO96": {
+        "lat": 37.4161987305,
+        "long": -90.9635009766,
+        "name": "Ray Johnson Inc ",
+        "state": "Missouri"
+    },
+    "MO98": {
+        "lat": 38.7131004333,
+        "long": -94.5849990845,
+        "name": "Williams ",
+        "state": "Missouri"
+    },
+    "MO99": {
+        "lat": 38.1164016724,
+        "long": -93.0771026611,
+        "name": "Miller ",
+        "state": "Missouri"
+    },
+    "MU00": {
+        "lat": 39.4444999695,
+        "long": -91.9517974854,
+        "name": "Samuel L. Clemens Memorial ",
+        "state": "Missouri"
+    },
+    "MU02": {
+        "lat": 38.8097991943,
+        "long": -91.1035003662,
+        "name": "C.E.F. ",
+        "state": "Missouri"
+    },
+    "MU03": {
+        "lat": 38.4799995422,
+        "long": -94.1974029541,
+        "name": "Leo's Angus Ranch ",
+        "state": "Missouri"
+    },
+    "MU04": {
+        "lat": 36.5898017883,
+        "long": -89.9200973511,
+        "name": "Broadwater ",
+        "state": "Missouri"
+    },
+    "MU07": {
+        "lat": 38.3946990967,
+        "long": -94.3102035522,
+        "name": "Angle Bar M ",
+        "state": "Missouri"
+    },
+    "MU09": {
+        "lat": 40.4667015076,
+        "long": -95.0211029053,
+        "name": "Hester ",
+        "state": "Missouri"
+    },
+    "MU11": {
+        "lat": 38.2209014893,
+        "long": -93.0155029297,
+        "name": "Eagle's Landing ",
+        "state": "Missouri"
+    },
+    "MU12": {
+        "lat": 37.1403007507,
+        "long": -93.2154998779,
+        "name": "Childress Airstrip",
+        "state": "Missouri"
+    },
+    "MU13": {
+        "lat": 37.0597991943,
+        "long": -93.6009979248,
+        "name": "Bakers Landing ",
+        "state": "Missouri"
+    },
+    "MU16": {
+        "lat": 40.0003013611,
+        "long": -93.7899017334,
+        "name": "Spillman Field",
+        "state": "Missouri"
+    },
+    "MU18": {
+        "lat": 38.7806015015,
+        "long": -91.1473999023,
+        "name": "Stark ",
+        "state": "Missouri"
+    },
+    "MU19": {
+        "lat": 37.551700592,
+        "long": -93.4001998901,
+        "name": "Cherokee Airpark",
+        "state": "Missouri"
+    },
+    "MU20": {
+        "lat": 38.9455986023,
+        "long": -93.9646987915,
+        "name": "Robbins ",
+        "state": "Missouri"
+    },
+    "MU21": {
+        "lat": 38.5237007141,
+        "long": -91.5177001953,
+        "name": "Miller Farm ",
+        "state": "Missouri"
+    },
+    "MU23": {
+        "lat": 39.0306015015,
+        "long": -92.3917999268,
+        "name": "White Cloud Flying Field",
+        "state": "Missouri"
+    },
+    "MU24": {
+        "lat": 36.5717010498,
+        "long": -93.0367965698,
+        "name": "Someday Ranch ",
+        "state": "Missouri"
+    },
+    "MU25": {
+        "lat": 37.4378013611,
+        "long": -91.9493026733,
+        "name": "Piney Bend ",
+        "state": "Missouri"
+    },
+    "MU26": {
+        "lat": 38.7731018066,
+        "long": -94.5652999878,
+        "name": "Robinson ",
+        "state": "Missouri"
+    },
+    "MU27": {
+        "lat": 37.4681015015,
+        "long": -93.929397583,
+        "name": "Woodfield Airpark Inc ",
+        "state": "Missouri"
+    },
+    "MU32": {
+        "lat": 38.9510993958,
+        "long": -92.4474029541,
+        "name": "Sugar Branch ",
+        "state": "Missouri"
+    },
+    "MU33": {
+        "lat": 40.0769996643,
+        "long": -92.3199005127,
+        "name": "Harrison ",
+        "state": "Missouri"
+    },
+    "MU34": {
+        "lat": 37.3362007141,
+        "long": -91.3945999146,
+        "name": "Haven Wood ",
+        "state": "Missouri"
+    },
+    "MU35": {
+        "lat": 40.2675018311,
+        "long": -94.7865982056,
+        "name": "Tallen ",
+        "state": "Missouri"
+    },
+    "MU38": {
+        "lat": 40.1783981323,
+        "long": -93.1313018799,
+        "name": "Cowgill-Roemer ",
+        "state": "Missouri"
+    },
+    "MU40": {
+        "lat": 39.4606018066,
+        "long": -92.0103988647,
+        "name": "Lake Village ",
+        "state": "Missouri"
+    },
+    "MU41": {
+        "lat": 36.7867012024,
+        "long": -93.887802124,
+        "name": "Ingram Private ",
+        "state": "Missouri"
+    },
+    "MU42": {
+        "lat": 38.7527999878,
+        "long": -90.7871017456,
+        "name": "Strutman Field",
+        "state": "Missouri"
+    },
+    "MU48": {
+        "lat": 36.648399353,
+        "long": -92.2203979492,
+        "name": "Sunburst Ranch ",
+        "state": "Missouri"
+    },
+    "MU55": {
+        "lat": 38.1366996765,
+        "long": -94.1737976074,
+        "name": "Bauer Pgi ",
+        "state": "Missouri"
+    },
+    "MU56": {
+        "lat": 36.7088012695,
+        "long": -90.2682037354,
+        "name": "Brown Field",
+        "state": "Missouri"
+    },
+    "MU62": {
+        "lat": 38.5633010864,
+        "long": -94.5911026001,
+        "name": "Hilltop ",
+        "state": "Missouri"
+    },
+    "MU63": {
+        "lat": 37.4350013733,
+        "long": -93.0668029785,
+        "name": "Blumenstetter ",
+        "state": "Missouri"
+    },
+    "MU65": {
+        "lat": 37.7695007324,
+        "long": -90.4656982422,
+        "name": "Lakeside ",
+        "state": "Missouri"
+    },
+    "MU68": {
+        "lat": 38.6688995361,
+        "long": -91.5360031128,
+        "name": "Eu-Wish ",
+        "state": "Missouri"
+    },
+    "MU69": {
+        "lat": 37.8694992065,
+        "long": -93.6259994507,
+        "name": "Peterman ",
+        "state": "Missouri"
+    },
+    "MU70": {
+        "lat": 36.995098114,
+        "long": -93.1388015747,
+        "name": "Skyview ",
+        "state": "Missouri"
+    },
+    "MU71": {
+        "lat": 39.3474998474,
+        "long": -94.858001709,
+        "name": "Vandahl ",
+        "state": "Missouri"
+    },
+    "MU77": {
+        "lat": 39.1291999817,
+        "long": -92.7306976318,
+        "name": "Aero Britton ",
+        "state": "Missouri"
+    },
+    "MU78": {
+        "lat": 37.847964,
+        "long": -92.188933,
+        "name": "Taylor Field",
+        "state": "Missouri"
+    },
+    "MU84": {
+        "lat": 38.8995018005,
+        "long": -94.2294006348,
+        "name": "Michael Farm ",
+        "state": "Missouri"
+    },
+    "MU85": {
+        "lat": 38.9550018311,
+        "long": -94.1274032593,
+        "name": "Thomas ",
+        "state": "Missouri"
+    },
+    "MU86": {
+        "lat": 37.4199981689,
+        "long": -91.9577026367,
+        "name": "Taus River Ranch ",
+        "state": "Missouri"
+    },
+    "MU89": {
+        "lat": 38.9119987488,
+        "long": -91.035697937,
+        "name": "Woodland Airstrip",
+        "state": "Missouri"
+    },
+    "MU97": {
+        "lat": 39.3675003052,
+        "long": -94.7617034912,
+        "name": "Platte Valley ",
+        "state": "Missouri"
+    },
+    "MU98": {
+        "lat": 36.5181007385,
+        "long": -93.6836013794,
+        "name": "Eagles Nest ",
+        "state": "Missouri"
+    },
+    "OMU9": {
+        "lat": 38.8842010498,
+        "long": -92.985496521,
+        "name": "Kollmeyer ",
+        "state": "Missouri"
+    }
+}

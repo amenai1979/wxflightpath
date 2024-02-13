@@ -1,0 +1,592 @@
+{
+  "MECT": {
+    "lat": 10.5169439316,
+    "long": -85.5655593872,
+    "name": "Catsa "
+  },
+  "MLLJ": {
+    "lat": 9.8111200333,
+    "long": -85.295501709,
+    "name": "La Javilla "
+  },
+  "MRAD": {
+    "lat": 9.4577770233,
+    "long": -84.2089996338,
+    "name": "Aerodamas "
+  },
+  "MRAJ": {
+    "lat": 10.0500001907,
+    "long": -84.8000030518,
+    "name": "Aranjuez "
+  },
+  "MRAM": {
+    "lat": 9.5216302872,
+    "long": -82.9546966553,
+    "name": "Amubri "
+  },
+  "MRAN": {
+    "lat": 10.4779996872,
+    "long": -84.6344985962,
+    "name": "Arenal "
+  },
+  "MRAO": {
+    "lat": 10.5690002441,
+    "long": -83.5148010254,
+    "name": "Aerotortuguero "
+  },
+  "MRAR": {
+    "lat": 9.8500003815,
+    "long": -83.6500015259,
+    "name": "Atirro "
+  },
+  "MRAT": {
+    "lat": 10.516699791,
+    "long": -84.3666992188,
+    "name": "Altamira de San Carlos "
+  },
+  "MRBA": {
+    "lat": 9.1636104584,
+    "long": -83.3299026489,
+    "name": "Buenos Aires "
+  },
+  "MRBB": {
+    "lat": 10.1333332062,
+    "long": -83.5833358765,
+    "name": "Babilonia "
+  },
+  "MRBC": {
+    "lat": 10.768699646,
+    "long": -83.5856018066,
+    "name": "Barra del Colorado "
+  },
+  "MRBM": {
+    "lat": 10.219499588,
+    "long": -83.5845031738,
+    "name": "Bremen "
+  },
+  "MRBN": {
+    "lat": 10.0833330154,
+    "long": -83.3166656494,
+    "name": "Bataan (Monte Libano) "
+  },
+  "MRBO": {
+    "lat": 9.391960144,
+    "long": -84.1259002686,
+    "name": "Boca Naranjo "
+  },
+  "MRBP": {
+    "lat": 10.3000001907,
+    "long": -83.3499984741,
+    "name": "Barra de Parismina "
+  },
+  "MRCA": {
+    "lat": 10.4139995575,
+    "long": -85.0916976929,
+    "name": "Codela "
+  },
+  "MRCC": {
+    "lat": 8.601559639,
+    "long": -82.9685974121,
+    "name": "Coto 47 "
+  },
+  "MRCE": {
+    "lat": 8.445110321,
+    "long": -83.4649963379,
+    "name": "Carate "
+  },
+  "MRCH": {
+    "lat": 9.9814100266,
+    "long": -84.7726974487,
+    "name": "Chacarita "
+  },
+  "MRCI": {
+    "lat": 10.516667366,
+    "long": -85.3499984741,
+    "name": "Ciruelas "
+  },
+  "MRCL": {
+    "lat": 10.667222023,
+    "long": -85.511390686,
+    "name": "Coyolar "
+  },
+  "MRCO": {
+    "lat": 10.4535999298,
+    "long": -85.5581970215,
+    "name": "El Cerrito "
+  },
+  "MRCR": {
+    "lat": 9.8705101013,
+    "long": -85.4813995361,
+    "name": "Carrillo "
+  },
+  "MRCV": {
+    "lat": 10.3556995392,
+    "long": -85.852897644,
+    "name": "Cabo Velas "
+  },
+  "MRCZ": {
+    "lat": 10.0875997543,
+    "long": -84.1695022583,
+    "name": "Carrizal "
+  },
+  "MRDC": {
+    "lat": 10.3514995575,
+    "long": -83.6305007935,
+    "name": "Duacari 2 "
+  },
+  "MRDD": {
+    "lat": 9.5500001907,
+    "long": -82.8833312988,
+    "name": "Don Diego "
+  },
+  "MRDK": {
+    "lat": 8.7188901901,
+    "long": -83.6417007446,
+    "name": "Drake Bay "
+  },
+  "MRDM": {
+    "lat": 9.9279098511,
+    "long": -84.9899978638,
+    "name": "Dos Marias "
+  },
+  "MRDO": {
+    "lat": 8.9036998749,
+    "long": -83.4298019409,
+    "name": "Dieciocho "
+  },
+  "MREC": {
+    "lat": 10.2019996643,
+    "long": -83.4721984863,
+    "name": "El Carmen de Siquirres "
+  },
+  "MRED": {
+    "lat": 10.8667001724,
+    "long": -84.5333023071,
+    "name": "El Descanso de Poco Sol "
+  },
+  "MREO": {
+    "lat": 10.5333328247,
+    "long": -83.8499984741,
+    "name": "El Ceibo "
+  },
+  "MRER": {
+    "lat": 10.3002996445,
+    "long": -84.4501037598,
+    "name": "El Ron Ron "
+  },
+  "MRET": {
+    "lat": 9.5333328247,
+    "long": -84.4666671753,
+    "name": "Esterillos / Finca "
+  },
+  "MRFD": {
+    "lat": 8.9448299408,
+    "long": -83.5589981079,
+    "name": "Finca Delicias "
+  },
+  "MRFI": {
+    "lat": 8.9163503647,
+    "long": -83.5073013306,
+    "name": "Finca 10 / Nuevo Palmar Sur "
+  },
+  "MRFL": {
+    "lat": 10.4186000824,
+    "long": -85.782699585,
+    "name": "Flamingo "
+  },
+  "MRFP": {
+    "lat": 10.4474000931,
+    "long": -84.3690032959,
+    "name": "Frutez - Pital "
+  },
+  "MRFS": {
+    "lat": 8.6525001526,
+    "long": -83.0652999878,
+    "name": "Finca 63 (Coto 63) "
+  },
+  "MRGA": {
+    "lat": 9.9167003632,
+    "long": -85.6333007813,
+    "name": "Garza "
+  },
+  "MRGF": {
+    "lat": 8.654009819,
+    "long": -83.1821975708,
+    "name": "Golfito "
+  },
+  "MRGP": {
+    "lat": 10.2172002792,
+    "long": -83.7969970703,
+    "name": "Guapiles "
+  },
+  "MRGT": {
+    "lat": 10.6833333969,
+    "long": -84.8333358765,
+    "name": "Guatuso "
+  },
+  "MRHG": {
+    "lat": 10.4499998093,
+    "long": -84.0833358765,
+    "name": "Hacienda Rancho Grande "
+  },
+  "MRHH": {
+    "lat": 10.8000001907,
+    "long": -84.3666687012,
+    "name": "Hacienda Homuha "
+  },
+  "MRHO": {
+    "lat": 10.5666666031,
+    "long": -84.1500015259,
+    "name": "Hacienda Rio Cuarto "
+  },
+  "MRHP": {
+    "lat": 10.4499998093,
+    "long": -85.1500015259,
+    "name": "Hacienda La Pacifica "
+  },
+  "MRHS": {
+    "lat": 10.4499998093,
+    "long": -83.6666641235,
+    "name": "Hacienda La Suerte "
+  },
+  "MRIA": {
+    "lat": 9.8561096191,
+    "long": -85.3707962036,
+    "name": "Islita "
+  },
+  "MRIS": {
+    "lat": 10.5583000183,
+    "long": -83.9740982056,
+    "name": "Las Islas "
+  },
+  "MRJO": {
+    "lat": 9.555270195,
+    "long": -84.5563964844,
+    "name": "Jaco "
+  },
+  "MRLA": {
+    "lat": 10.266667366,
+    "long": -85.4333343506,
+    "name": "La Zampona "
+  },
+  "MRLB": {
+    "lat": 10.5932998657,
+    "long": -85.5444030762,
+    "name": "Daniel Oduber Quiros International "
+  },
+  "MRLC": {
+    "lat": 11.0353002548,
+    "long": -84.7061004639,
+    "name": "Los Chiles "
+  },
+  "MRLE": {
+    "lat": 8.4404096603,
+    "long": -82.90650177,
+    "name": "Laurel "
+  },
+  "MRLF": {
+    "lat": 10.6499996185,
+    "long": -85.5329971313,
+    "name": "La Flor "
+  },
+  "MRLG": {
+    "lat": 10.8000001907,
+    "long": -84.9166641235,
+    "name": "La Garroba "
+  },
+  "MRLI": {
+    "lat": 9.5152702332,
+    "long": -84.3014984131,
+    "name": "La Ligia "
+  },
+  "MRLL": {
+    "lat": 10.0666666031,
+    "long": -83.5833358765,
+    "name": "Las Lomas "
+  },
+  "MRLM": {
+    "lat": 9.9579601288,
+    "long": -83.0220031738,
+    "name": "Limon International "
+  },
+  "MRLN": {
+    "lat": 10.4207000732,
+    "long": -85.4720001221,
+    "name": "La Guinea "
+  },
+  "MRLP": {
+    "lat": 10.3666667938,
+    "long": -85.1999969482,
+    "name": "Las Piedras "
+  },
+  "MRLT": {
+    "lat": 10.5670003891,
+    "long": -85.5999984741,
+    "name": "Las Trancas "
+  },
+  "MRLV": {
+    "lat": 10.6812000275,
+    "long": -85.5280990601,
+    "name": "La Cueva "
+  },
+  "MRLY": {
+    "lat": 9.5500001907,
+    "long": -84.5666656494,
+    "name": "La Yolanda "
+  },
+  "MRLZ": {
+    "lat": 10.4835996628,
+    "long": -85.4619979858,
+    "name": "La Zopilota "
+  },
+  "MRMA": {
+    "lat": 10.0833330154,
+    "long": -85.2666702271,
+    "name": "Monte Alto "
+  },
+  "MRMC": {
+    "lat": 10.9166669846,
+    "long": -85.7166671753,
+    "name": "Murcielago "
+  },
+  "MRMJ": {
+    "lat": 10.4307003021,
+    "long": -85.1745986938,
+    "name": "Mojica "
+  },
+  "MRNC": {
+    "lat": 10.1393995285,
+    "long": -85.4458007813,
+    "name": "Guanacaste "
+  },
+  "MRNS": {
+    "lat": 9.9764900208,
+    "long": -85.6529998779,
+    "name": "Nosara "
+  },
+  "MROC": {
+    "lat": 9.9938602448,
+    "long": -84.2088012695,
+    "name": "Juan Santamaria International "
+  },
+  "MRPA": {
+    "lat": 9.8514099121,
+    "long": -85.2378997803,
+    "name": "Palo Arco "
+  },
+  "MRPB": {
+    "lat": 8.6499996185,
+    "long": -83.4329986572,
+    "name": "Playa Blanca (J. W. Berteus) "
+  },
+  "MRPC": {
+    "lat": 8.9577798843,
+    "long": -83.5503005981,
+    "name": "Paso Canoas "
+  },
+  "MRPD": {
+    "lat": 9.732170105,
+    "long": -82.9832000732,
+    "name": "Pandora "
+  },
+  "MRPJ": {
+    "lat": 8.5333299637,
+    "long": -83.3000030518,
+    "name": "Puerto Jimenez "
+  },
+  "MRPL": {
+    "lat": 9.3579797745,
+    "long": -83.9794998169,
+    "name": "Portalon "
+  },
+  "MRPM": {
+    "lat": 8.9510297775,
+    "long": -83.4685974121,
+    "name": "Palmar Sur "
+  },
+  "MRPN": {
+    "lat": 10.486700058,
+    "long": -85.4141998291,
+    "name": "Pelon Nuevo "
+  },
+  "MRPO": {
+    "lat": 8.3573102951,
+    "long": -83.1369018555,
+    "name": "Punta Banco "
+  },
+  "MRPP": {
+    "lat": 9.8583097458,
+    "long": -84.6943969727,
+    "name": "Playa Pajaros "
+  },
+  "MRPS": {
+    "lat": 10.3156003952,
+    "long": -85.6780014038,
+    "name": "Penas Blancas "
+  },
+  "MRPT": {
+    "lat": 9.733332634,
+    "long": -85.2333297729,
+    "name": "Agropecuaria Playa Caletas "
+  },
+  "MRPV": {
+    "lat": 9.9570503235,
+    "long": -84.1398010254,
+    "name": "Tobias Bolanos International "
+  },
+  "MRPY": {
+    "lat": 9.122420311,
+    "long": -83.7063980103,
+    "name": "Playa Ballena "
+  },
+  "MRQA": {
+    "lat": 10.3999996185,
+    "long": -84.4833297729,
+    "name": "Quebrada Azul "
+  },
+  "MRQP": {
+    "lat": 9.4431600571,
+    "long": -84.1297988892,
+    "name": "Quepos Managua "
+  },
+  "MRRF": {
+    "lat": 10.3274002075,
+    "long": -83.8876037598,
+    "name": "Rio Frio / Progreso "
+  },
+  "MRRH": {
+    "lat": 10.3166666031,
+    "long": -85.3333358765,
+    "name": "Rancho Humo "
+  },
+  "MRRN": {
+    "lat": 9.5666666031,
+    "long": -84.5166702271,
+    "name": "Rancho Nuevo "
+  },
+  "MRRX": {
+    "lat": 10.3081998825,
+    "long": -83.7543029785,
+    "name": "Roxana Farms "
+  },
+  "MRSA": {
+    "lat": 10.1465997696,
+    "long": -83.4881973267,
+    "name": "San Alberto "
+  },
+  "MRSB": {
+    "lat": 10.5,
+    "long": -84.5666656494,
+    "name": "San Cristobal "
+  },
+  "MRSC": {
+    "lat": 10.2737998962,
+    "long": -85.5914993286,
+    "name": "Santa Cruz "
+  },
+  "MRSF": {
+    "lat": 9.3000001907,
+    "long": -83.6166687012,
+    "name": "Santa Fe "
+  },
+  "MRSG": {
+    "lat": 10.2882995605,
+    "long": -83.7135009766,
+    "name": "Santa Clara De Guapiles "
+  },
+  "MRSH": {
+    "lat": 9.5807695389,
+    "long": -82.9598999023,
+    "name": "Shiroles "
+  },
+  "MRSI": {
+    "lat": 9.3526201248,
+    "long": -83.7130966187,
+    "name": "San Isidro del General "
+  },
+  "MRSL": {
+    "lat": 8.8330001831,
+    "long": -83.25,
+    "name": "Salama "
+  },
+  "MRSM": {
+    "lat": 9.9166669846,
+    "long": -84.6166687012,
+    "name": "Santa Marta "
+  },
+  "MRSO": {
+    "lat": 10.2670001984,
+    "long": -83.6169967651,
+    "name": "Santa Maria De Guacimo "
+  },
+  "MRSP": {
+    "lat": 10.4179000854,
+    "long": -83.7529983521,
+    "name": "San Pedro "
+  },
+  "MRSQ": {
+    "lat": 10.4718999863,
+    "long": -83.9069976807,
+    "name": "Sarapigui "
+  },
+  "MRSR": {
+    "lat": 10.25,
+    "long": -85.4169998169,
+    "name": "Playa Samara "
+  },
+  "MRST": {
+    "lat": 10.0666666031,
+    "long": -84.8833312988,
+    "name": "San Agustin "
+  },
+  "MRSV": {
+    "lat": 8.8261098862,
+    "long": -82.9589004517,
+    "name": "San Vito De Java "
+  },
+  "MRSX": {
+    "lat": 9.5032196045,
+    "long": -82.6327972412,
+    "name": "Sixaola "
+  },
+  "MRTB": {
+    "lat": 10.3666667938,
+    "long": -83.8499984741,
+    "name": "Ticaban "
+  },
+  "MRTG": {
+    "lat": 10.3500003815,
+    "long": -85.1999969482,
+    "name": "Taboga "
+  },
+  "MRTL": {
+    "lat": 10.3084001541,
+    "long": -85.4683990479,
+    "name": "Talolinga "
+  },
+  "MRTM": {
+    "lat": 10.3135004044,
+    "long": -85.8154983521,
+    "name": "Tamarindo De Santa Cruz "
+  },
+  "MRTR": {
+    "lat": 9.7385196686,
+    "long": -85.0138015747,
+    "name": "Tambor "
+  },
+  "MRUP": {
+    "lat": 10.89220047,
+    "long": -85.0161972046,
+    "name": "Upala "
+  },
+  "MRYT": {
+    "lat": 10.3333330154,
+    "long": -83.6666641235,
+    "name": "Yucatica "
+  },
+  "MRZP": {
+    "lat": 9.9940099716,
+    "long": -85.3102035522,
+    "name": "Zapotal De Guanacaste "
+  }
+}

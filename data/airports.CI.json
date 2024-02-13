@@ -1,0 +1,117 @@
+{
+  "DIAP": {
+    "lat": 5.2613902092,
+    "long": -3.9262900352,
+    "name": "Port Bouet "
+  },
+  "DIAU": {
+    "lat": 6.7155599594,
+    "long": -3.470279932,
+    "name": "Abengourou "
+  },
+  "DIBC": {
+    "lat": 7.0329999924,
+    "long": -4.5329999924,
+    "name": "Bocanda "
+  },
+  "DIBI": {
+    "lat": 9.5329999924,
+    "long": -6.4670000076,
+    "name": "Boundiali "
+  },
+  "DIBK": {
+    "lat": 7.7388000488,
+    "long": -5.0736699104,
+    "name": "Bouake "
+  },
+  "DIBN": {
+    "lat": 9.2775001526,
+    "long": -3.0252799988,
+    "name": "Bouna "
+  },
+  "DIBU": {
+    "lat": 8.0172195435,
+    "long": -2.7619400024,
+    "name": "Soko "
+  },
+  "DIDB": {
+    "lat": 5.3513851166,
+    "long": -4.4034576416,
+    "name": "Dabou "
+  },
+  "DIDK": {
+    "lat": 6.6516699791,
+    "long": -4.6405601501,
+    "name": "Dimbokro "
+  },
+  "DIDL": {
+    "lat": 6.7928099632,
+    "long": -6.4731898308,
+    "name": "Daloa "
+  },
+  "DIFK": {
+    "lat": 9.6000003815,
+    "long": -5.1999998093,
+    "name": "Ferkessedougou "
+  },
+  "DIGA": {
+    "lat": 6.132999897,
+    "long": -5.9499998093,
+    "name": "Gagnoa "
+  },
+  "DIGL": {
+    "lat": 6.5249900818,
+    "long": -7.4786100388,
+    "name": "Guiglo "
+  },
+  "DIGN": {
+    "lat": 4.6434130669,
+    "long": -6.9239616394,
+    "name": "Nero-Mer "
+  },
+  "DIKO": {
+    "lat": 9.3871803284,
+    "long": -5.5566601753,
+    "name": "Korhogo "
+  },
+  "DIMN": {
+    "lat": 7.272069931,
+    "long": -7.5873599052,
+    "name": "Man "
+  },
+  "DIOD": {
+    "lat": 9.5,
+    "long": -7.5669999123,
+    "name": "Odienne "
+  },
+  "DIOF": {
+    "lat": 9.6000003815,
+    "long": -4.0500001907,
+    "name": "Ouango Fitini "
+  },
+  "DISG": {
+    "lat": 7.9683299065,
+    "long": -6.7108302116,
+    "name": "Seguela "
+  },
+  "DISP": {
+    "lat": 4.7467198372,
+    "long": -6.6608200073,
+    "name": "San Pedro "
+  },
+  "DISS": {
+    "lat": 4.9283299446,
+    "long": -6.1327800751,
+    "name": "Sassandra "
+  },
+  "DITB": {
+    "lat": 4.4378094673,
+    "long": -7.3627281189,
+    "name": "Tabou "
+  },
+  "DIYO": {
+    "lat": 6.9031701088,
+    "long": -5.3655800819,
+    "name": "Yamoussoukro "
+  }
+}

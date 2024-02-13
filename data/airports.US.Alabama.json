@@ -1,0 +1,1112 @@
+{
+    "00AL": {
+        "lat": 34.8647994995,
+        "long": -86.7703018188,
+        "name": "Epps Airpark",
+        "state": "Alabama"
+    },
+    "01AL": {
+        "lat": 32.9459991455,
+        "long": -86.5139007568,
+        "name": "Ware Island ",
+        "state": "Alabama"
+    },
+    "02AL": {
+        "lat": 30.3715000153,
+        "long": -87.7643966675,
+        "name": "Bass Field",
+        "state": "Alabama"
+    },
+    "0AL1": {
+        "lat": 30.4438991547,
+        "long": -87.6568984985,
+        "name": "Resort ",
+        "state": "Alabama"
+    },
+    "0AL5": {
+        "lat": 31.0321998596,
+        "long": -87.2527999878,
+        "name": "Flomaton ",
+        "state": "Alabama"
+    },
+    "0AL9": {
+        "lat": 34.8499984741,
+        "long": -87.6324996948,
+        "name": "Wilson Creek ",
+        "state": "Alabama"
+    },
+    "1AL2": {
+        "lat": 33.2486000061,
+        "long": -86.5975036621,
+        "name": "Tri-L Acres ",
+        "state": "Alabama"
+    },
+    "1AL4": {
+        "lat": 30.5447006226,
+        "long": -87.5594024658,
+        "name": "Elsanor ",
+        "state": "Alabama"
+    },
+    "1AL5": {
+        "lat": 30.6364002228,
+        "long": -87.7478027344,
+        "name": "Berry Field",
+        "state": "Alabama"
+    },
+    "1AL8": {
+        "lat": 33.6110992432,
+        "long": -86.4744033813,
+        "name": "Moore Field",
+        "state": "Alabama"
+    },
+    "26AL": {
+        "lat": 30.6242008209,
+        "long": -88.2786026001,
+        "name": "Richardson Field",
+        "state": "Alabama"
+    },
+    "27AL": {
+        "lat": 32.4534988403,
+        "long": -85.5581970215,
+        "name": "Little Texas ",
+        "state": "Alabama"
+    },
+    "28AL": {
+        "lat": 33.8625984192,
+        "long": -86.1206970215,
+        "name": "Golden Pond ",
+        "state": "Alabama"
+    },
+    "2AL0": {
+        "lat": 32.3517990112,
+        "long": -87.5456008911,
+        "name": "Paulling Place Airstrip",
+        "state": "Alabama"
+    },
+    "2AL1": {
+        "lat": 30.4241008759,
+        "long": -87.7778015137,
+        "name": "Collier Airpark",
+        "state": "Alabama"
+    },
+    "2AL3": {
+        "lat": 32.4553985596,
+        "long": -86.1192016602,
+        "name": "Emerald Mountain ",
+        "state": "Alabama"
+    },
+    "2AL5": {
+        "lat": 34.3927993774,
+        "long": -85.6650009155,
+        "name": "Flying J Ranch ",
+        "state": "Alabama"
+    },
+    "2AL6": {
+        "lat": 30.4993000031,
+        "long": -88.1981964111,
+        "name": "Dale O. Galer Aerodrome",
+        "state": "Alabama"
+    },
+    "2AL7": {
+        "lat": 34.0628013611,
+        "long": -86.7230987549,
+        "name": "Mount Aero Lake Farm ",
+        "state": "Alabama"
+    },
+    "2AL8": {
+        "lat": 32.4211006165,
+        "long": -85.2481002808,
+        "name": "Finkley Farm ",
+        "state": "Alabama"
+    },
+    "3AL1": {
+        "lat": 31.0503997803,
+        "long": -85.6853027344,
+        "name": "Flying H Ranch ",
+        "state": "Alabama"
+    },
+    "3AL5": {
+        "lat": 33.8353004456,
+        "long": -85.7639007568,
+        "name": "Edwards Farm ",
+        "state": "Alabama"
+    },
+    "3AL6": {
+        "lat": 33.4901008606,
+        "long": -86.4124984741,
+        "name": "Town & Country Airpark",
+        "state": "Alabama"
+    },
+    "3AL7": {
+        "lat": 32.2849998474,
+        "long": -87.5199966431,
+        "name": "Flowers Field",
+        "state": "Alabama"
+    },
+    "3AL8": {
+        "lat": 34.6192016602,
+        "long": -86.4669036865,
+        "name": "Flint River Ranch ",
+        "state": "Alabama"
+    },
+    "3GE4": {
+        "lat": 34.7299995422,
+        "long": -85.5419006348,
+        "name": "Fox Mountain ",
+        "state": "Alabama"
+    },
+    "4AL2": {
+        "lat": 30.3731994629,
+        "long": -87.7256011963,
+        "name": "Irwin Farms ",
+        "state": "Alabama"
+    },
+    "4AL6": {
+        "lat": 30.4668998718,
+        "long": -87.6832962036,
+        "name": "Bonner Field",
+        "state": "Alabama"
+    },
+    "4AL7": {
+        "lat": 34.7447013855,
+        "long": -85.6897964478,
+        "name": "Leon's Landing ",
+        "state": "Alabama"
+    },
+    "4AL8": {
+        "lat": 34.4906005859,
+        "long": -86.6733016968,
+        "name": "Milton ",
+        "state": "Alabama"
+    },
+    "4AL9": {
+        "lat": 31.9747009277,
+        "long": -86.2938995361,
+        "name": "T W Spear Memorial ",
+        "state": "Alabama"
+    },
+    "57AL": {
+        "lat": 30.65320015,
+        "long": -87.72370148,
+        "name": "Baswell ",
+        "state": "Alabama"
+    },
+    "5AL1": {
+        "lat": 31.6807003021,
+        "long": -86.6819000244,
+        "name": "Mc Gowin Field",
+        "state": "Alabama"
+    },
+    "5AL3": {
+        "lat": 33.1529006958,
+        "long": -86.8514022827,
+        "name": "Flying X Ranch ",
+        "state": "Alabama"
+    },
+    "5AL4": {
+        "lat": 31.1215991974,
+        "long": -85.3654022217,
+        "name": "Blueberry Hill ",
+        "state": "Alabama"
+    },
+    "5AL5": {
+        "lat": 34.6911010742,
+        "long": -87.6528015137,
+        "name": "Big River Airpark",
+        "state": "Alabama"
+    },
+    "5AL7": {
+        "lat": 31.25,
+        "long": -86.1667022705,
+        "name": "Hataway Field",
+        "state": "Alabama"
+    },
+    "5AL8": {
+        "lat": 31.1049995422,
+        "long": -85.9931030273,
+        "name": "Fairlane ",
+        "state": "Alabama"
+    },
+    "62AL": {
+        "lat": 30.6835002899,
+        "long": -88.3720016479,
+        "name": "Skywest Airpark",
+        "state": "Alabama"
+    },
+    "6AL3": {
+        "lat": 34.582047,
+        "long": -85.755572,
+        "name": "Sweet Home ",
+        "state": "Alabama"
+    },
+    "6AL6": {
+        "lat": 31.3885993958,
+        "long": -88.0925979614,
+        "name": "Hawthorn Pines ",
+        "state": "Alabama"
+    },
+    "71AL": {
+        "lat": 31.808786,
+        "long": -86.523525,
+        "name": "Sells ",
+        "state": "Alabama"
+    },
+    "7AL9": {
+        "lat": 30.4668998718,
+        "long": -87.5416030884,
+        "name": "Horak ",
+        "state": "Alabama"
+    },
+    "84AL": {
+        "lat": 31.3031,
+        "long": -85.52705,
+        "name": "Blessings Landing Air Ranch",
+        "state": "Alabama"
+    },
+    "ADDE": {
+        "lat": 32.9146995544,
+        "long": -85.9629974365,
+        "name": "Thomas C Russell Field",
+        "state": "Alabama"
+    },
+    "AL00": {
+        "lat": 33.7444000244,
+        "long": -87.7863998413,
+        "name": "Charlie Wilkes ",
+        "state": "Alabama"
+    },
+    "AL01": {
+        "lat": 31.5585002899,
+        "long": -87.5333023071,
+        "name": "Bedsole Farm ",
+        "state": "Alabama"
+    },
+    "AL02": {
+        "lat": 33.150100708,
+        "long": -87.4417037964,
+        "name": "Rainey Field",
+        "state": "Alabama"
+    },
+    "AL04": {
+        "lat": 30.4626998901,
+        "long": -87.5250015259,
+        "name": "Pleasant View Farm ",
+        "state": "Alabama"
+    },
+    "AL05": {
+        "lat": 32.2201004028,
+        "long": -85.4680023193,
+        "name": "Sehoy ",
+        "state": "Alabama"
+    },
+    "AL08": {
+        "lat": 30.4244003296,
+        "long": -87.5353012085,
+        "name": "Perdido Winds Airpark",
+        "state": "Alabama"
+    },
+    "AL09": {
+        "lat": 34.5334014893,
+        "long": -85.5902023315,
+        "name": "Cloudmont Airpark",
+        "state": "Alabama"
+    },
+    "AL10": {
+        "lat": 34.6511993408,
+        "long": -86.4169006348,
+        "name": "Frerichs ",
+        "state": "Alabama"
+    },
+    "AL12": {
+        "lat": 32.3585014343,
+        "long": -86.125,
+        "name": "Kershaw ",
+        "state": "Alabama"
+    },
+    "AL15": {
+        "lat": 30.4029998779,
+        "long": -87.7241973877,
+        "name": "Styron ",
+        "state": "Alabama"
+    },
+    "AL16": {
+        "lat": 33.7267990112,
+        "long": -86.7236022949,
+        "name": "Turkey Creek ",
+        "state": "Alabama"
+    },
+    "AL17": {
+        "lat": 33.2340011597,
+        "long": -86.5130004883,
+        "name": "Lazy Eight Airpark Llc ",
+        "state": "Alabama"
+    },
+    "AL18": {
+        "lat": 33.6762008667,
+        "long": -86.8675003052,
+        "name": "Parker Field",
+        "state": "Alabama"
+    },
+    "AL25": {
+        "lat": 32.242401123,
+        "long": -85.6010971069,
+        "name": "Spratling Field",
+        "state": "Alabama"
+    },
+    "AL27": {
+        "lat": 34.1057014465,
+        "long": -85.5658035278,
+        "name": "Headquarters ",
+        "state": "Alabama"
+    },
+    "AL29": {
+        "lat": 34.1292991638,
+        "long": -86.6333007813,
+        "name": "New Horizon ",
+        "state": "Alabama"
+    },
+    "AL32": {
+        "lat": 34.3226013184,
+        "long": -85.643699646,
+        "name": "Flying M Ranch ",
+        "state": "Alabama"
+    },
+    "AL33": {
+        "lat": 31.0251998901,
+        "long": -87.5858001709,
+        "name": "Sturdy Oak Farm ",
+        "state": "Alabama"
+    },
+    "AL34": {
+        "lat": 34.4469985962,
+        "long": -87.386100769,
+        "name": "Henson Field",
+        "state": "Alabama"
+    },
+    "AL35": {
+        "lat": 30.619600296,
+        "long": -87.7043991089,
+        "name": "Mc Ginnis ",
+        "state": "Alabama"
+    },
+    "AL37": {
+        "lat": 31.555028,
+        "long": -85.977278,
+        "name": "Benedick ",
+        "state": "Alabama"
+    },
+    "AL40": {
+        "lat": 33.5432014465,
+        "long": -86.9858016968,
+        "name": "Bonham ",
+        "state": "Alabama"
+    },
+    "AL41": {
+        "lat": 31.1159992218,
+        "long": -85.62550354,
+        "name": "Freedom Field",
+        "state": "Alabama"
+    },
+    "AL43": {
+        "lat": 32.9085006714,
+        "long": -88.3333969116,
+        "name": "Henley Ranch ",
+        "state": "Alabama"
+    },
+    "AL51": {
+        "lat": 32.4160995483,
+        "long": -85.2992019653,
+        "name": "Flying C's Plantation ",
+        "state": "Alabama"
+    },
+    "AL54": {
+        "lat": 33.8633003235,
+        "long": -87.8452987671,
+        "name": "Bird Nest ",
+        "state": "Alabama"
+    },
+    "AL55": {
+        "lat": 30.4419002533,
+        "long": -87.4638977051,
+        "name": "Shields ",
+        "state": "Alabama"
+    },
+    "AL56": {
+        "lat": 32.5000991821,
+        "long": -85.0832977295,
+        "name": "Jones Light Aviation ",
+        "state": "Alabama"
+    },
+    "AL60": {
+        "lat": 33.8386993408,
+        "long": -86.2114028931,
+        "name": "Dugger's Field",
+        "state": "Alabama"
+    },
+    "AL61": {
+        "lat": 30.6168994904,
+        "long": -87.8582992554,
+        "name": "Belforest ",
+        "state": "Alabama"
+    },
+    "AL62": {
+        "lat": 31.0830001831,
+        "long": -85.6835021973,
+        "name": "Striplin Airfield",
+        "state": "Alabama"
+    },
+    "AL68": {
+        "lat": 33.8512001038,
+        "long": -85.6630020142,
+        "name": "Willis ",
+        "state": "Alabama"
+    },
+    "AL69": {
+        "lat": 30.5084991455,
+        "long": -87.4916000366,
+        "name": "Vaughn Private ",
+        "state": "Alabama"
+    },
+    "AL71": {
+        "lat": 32.8036994934,
+        "long": -85.9804992676,
+        "name": "Willow Point ",
+        "state": "Alabama"
+    },
+    "AL72": {
+        "lat": 34.695400238,
+        "long": -86.7861022949,
+        "name": "Palmer Field",
+        "state": "Alabama"
+    },
+    "AL73": {
+        "lat": 32.4919013977,
+        "long": -85.7755966187,
+        "name": "Sharpe Field",
+        "state": "Alabama"
+    },
+    "AL74": {
+        "lat": 30.7644004822,
+        "long": -88.3058013916,
+        "name": "Grimes Field",
+        "state": "Alabama"
+    },
+    "AL76": {
+        "lat": 32.8487014771,
+        "long": -86.8700027466,
+        "name": "Mayfield (Private) ",
+        "state": "Alabama"
+    },
+    "AL77": {
+        "lat": 31.7406005859,
+        "long": -86.0070037842,
+        "name": "Smart Road ",
+        "state": "Alabama"
+    },
+    "AL78": {
+        "lat": 30.5268993378,
+        "long": -87.8542022705,
+        "name": "Klumpp ",
+        "state": "Alabama"
+    },
+    "AL79": {
+        "lat": 32.2695999146,
+        "long": -86.0988006592,
+        "name": "Bartlett Ranch ",
+        "state": "Alabama"
+    },
+    "AL81": {
+        "lat": 30.5501995087,
+        "long": -87.5832977295,
+        "name": "Wallace Field",
+        "state": "Alabama"
+    },
+    "AL84": {
+        "lat": 30.5585002899,
+        "long": -87.6041030884,
+        "name": "Pecan Ponds Farm ",
+        "state": "Alabama"
+    },
+    "AL88": {
+        "lat": 30.4265995026,
+        "long": -87.4708023071,
+        "name": "Ban Farm ",
+        "state": "Alabama"
+    },
+    "AL89": {
+        "lat": 32.7187004089,
+        "long": -85.366897583,
+        "name": "Sommerset Strip",
+        "state": "Alabama"
+    },
+    "AL92": {
+        "lat": 33.3073005676,
+        "long": -86.4036026001,
+        "name": "Hawk Field",
+        "state": "Alabama"
+    },
+    "AL93": {
+        "lat": 34.8856010437,
+        "long": -86.7099990845,
+        "name": "Big Sky ",
+        "state": "Alabama"
+    },
+    "AL94": {
+        "lat": 30.8127002716,
+        "long": -88.3771972656,
+        "name": "Evans Field",
+        "state": "Alabama"
+    },
+    "AL97": {
+        "lat": 30.6446990967,
+        "long": -87.6694030762,
+        "name": "Williamson Farm ",
+        "state": "Alabama"
+    },
+    "K02A": {
+        "lat": 32.8504981995,
+        "long": -86.6113967896,
+        "name": "Gragg-Wade Field",
+        "state": "Alabama"
+    },
+    "K04A": {
+        "lat": 31.7362995148,
+        "long": -86.2624969482,
+        "name": "Frank Sikes ",
+        "state": "Alabama"
+    },
+    "K06A": {
+        "lat": 32.4604988098,
+        "long": -85.6800003052,
+        "name": "Moton Field Municipal ",
+        "state": "Alabama"
+    },
+    "K07A": {
+        "lat": 32.1668014526,
+        "long": -85.8097000122,
+        "name": "Franklin Field",
+        "state": "Alabama"
+    },
+    "K09A": {
+        "lat": 32.1193008423,
+        "long": -88.1275024414,
+        "name": "Butler-Choctaw County ",
+        "state": "Alabama"
+    },
+    "K0A8": {
+        "lat": 32.9367980957,
+        "long": -87.0888977051,
+        "name": "Bibb County ",
+        "state": "Alabama"
+    },
+    "K0J4": {
+        "lat": 31.0424995422,
+        "long": -86.3115997314,
+        "name": "Florala Municipal ",
+        "state": "Alabama"
+    },
+    "K0J6": {
+        "lat": 31.36429977,
+        "long": -85.3117981,
+        "name": "Headland Municipal ",
+        "state": "Alabama"
+    },
+    "K0R1": {
+        "lat": 31.0161991119,
+        "long": -87.4468002319,
+        "name": "Atmore Municipal ",
+        "state": "Alabama"
+    },
+    "K11A": {
+        "lat": 31.8833007813,
+        "long": -85.4849014282,
+        "name": "Clayton Municipal ",
+        "state": "Alabama"
+    },
+    "K12J": {
+        "lat": 31.0506000519,
+        "long": -87.0655975342,
+        "name": "Brewton Municipal ",
+        "state": "Alabama"
+    },
+    "K14J": {
+        "lat": 31.4099998474,
+        "long": -86.0903015137,
+        "name": "Carl Folsom ",
+        "state": "Alabama"
+    },
+    "K1A4": {
+        "lat": 31.1028003693,
+        "long": -86.0622024536,
+        "name": "Logan Field",
+        "state": "Alabama"
+    },
+    "K1A9": {
+        "lat": 32.4387016296,
+        "long": -86.5127029419,
+        "name": "Prattville - Grouby Field",
+        "state": "Alabama"
+    },
+    "K1M4": {
+        "lat": 34.2803001404,
+        "long": -87.600402832,
+        "name": "Posey Field",
+        "state": "Alabama"
+    },
+    "K1R8": {
+        "lat": 30.8703994751,
+        "long": -87.8192977905,
+        "name": "Bay Minette Municipal ",
+        "state": "Alabama"
+    },
+    "K20A": {
+        "lat": 33.9723014832,
+        "long": -86.3794021606,
+        "name": "Robbins Field",
+        "state": "Alabama"
+    },
+    "K26A": {
+        "lat": 33.2876014709,
+        "long": -85.8041000366,
+        "name": "Ashland/Lineville ",
+        "state": "Alabama"
+    },
+    "K2H0": {
+        "lat": 39.4104003906,
+        "long": -88.8453979492,
+        "name": "Shelby County ",
+        "state": "Alabama"
+    },
+    "K2R5": {
+        "lat": 30.50189972,
+        "long": -88.27510071,
+        "name": "St Elmo ",
+        "state": "Alabama"
+    },
+    "K33J": {
+        "lat": 31.0552997589,
+        "long": -85.8803024292,
+        "name": "Geneva Municipal ",
+        "state": "Alabama"
+    },
+    "K3A1": {
+        "lat": 34.268699646,
+        "long": -86.858001709,
+        "name": "Folsom Field",
+        "state": "Alabama"
+    },
+    "K3A7": {
+        "lat": 32.8209991455,
+        "long": -87.8625030518,
+        "name": "Eutaw Municipal ",
+        "state": "Alabama"
+    },
+    "K3M2": {
+        "lat": 34.1445007324,
+        "long": -87.327796936,
+        "name": "Double Springs Winston County ",
+        "state": "Alabama"
+    },
+    "K3M8": {
+        "lat": 33.3867988586,
+        "long": -88.0065994263,
+        "name": "North Pickens ",
+        "state": "Alabama"
+    },
+    "K41A": {
+        "lat": 32.5147018433,
+        "long": -85.8759994507,
+        "name": "Reeves ",
+        "state": "Alabama"
+    },
+    "K4A6": {
+        "lat": 34.68870163,
+        "long": -86.00589752,
+        "name": "Scottsboro Municipal Word Field",
+        "state": "Alabama"
+    },
+    "K4A9": {
+        "lat": 34.4737014771,
+        "long": -85.7213973999,
+        "name": "Isbell Field",
+        "state": "Alabama"
+    },
+    "K4R3": {
+        "lat": 31.4720993,
+        "long": -87.8946991,
+        "name": "Jackson Municipal ",
+        "state": "Alabama"
+    },
+    "K4R4": {
+        "lat": 30.46050072,
+        "long": -87.8769989,
+        "name": "H L Sonny Callahan ",
+        "state": "Alabama"
+    },
+    "K4R9": {
+        "lat": 30.2604999542,
+        "long": -88.1275024414,
+        "name": "Dauphin Island ",
+        "state": "Alabama"
+    },
+    "K5R1": {
+        "lat": 31.4517993927,
+        "long": -88.1945037842,
+        "name": "Roy Wilcox ",
+        "state": "Alabama"
+    },
+    "K5R4": {
+        "lat": 30.4277000427,
+        "long": -87.7007980347,
+        "name": "Foley Municipal ",
+        "state": "Alabama"
+    },
+    "K61A": {
+        "lat": 31.9797000885,
+        "long": -87.3391036987,
+        "name": "Camden Municipal ",
+        "state": "Alabama"
+    },
+    "K67A": {
+        "lat": 31.9724006653,
+        "long": -86.5915985107,
+        "name": "Fort Deposit Lowndes County ",
+        "state": "Alabama"
+    },
+    "K70A": {
+        "lat": 32.2667999268,
+        "long": -87.7181015015,
+        "name": "Freddie Jones Field",
+        "state": "Alabama"
+    },
+    "K71A": {
+        "lat": 31.9668006897,
+        "long": -87.5832977295,
+        "name": "Pine Hill Municipal ",
+        "state": "Alabama"
+    },
+    "K71J": {
+        "lat": 31.4311008453,
+        "long": -85.6192016602,
+        "name": "Blackwell Field",
+        "state": "Alabama"
+    },
+    "K79J": {
+        "lat": 31.3087997437,
+        "long": -86.3937988281,
+        "name": "South Alabama Regional At Bill Benton Field ",
+        "state": "Alabama"
+    },
+    "K7A0": {
+        "lat": 32.6814994812,
+        "long": -87.6621017456,
+        "name": "Greensboro Municipal ",
+        "state": "Alabama"
+    },
+    "K7A3": {
+        "lat": 32.8120002747,
+        "long": -85.229598999,
+        "name": "Lanett Municipal ",
+        "state": "Alabama"
+    },
+    "K7A5": {
+        "lat": 33.1292991638,
+        "long": -85.3666000366,
+        "name": "Roanoke Municipal ",
+        "state": "Alabama"
+    },
+    "K7A6": {
+        "lat": 34.8862991333,
+        "long": -85.8032989502,
+        "name": "Stevenson ",
+        "state": "Alabama"
+    },
+    "K8A0": {
+        "lat": 34.22909927,
+        "long": -86.25579834,
+        "name": "Albertville Regional Thomas J Brumlik Field",
+        "state": "Alabama"
+    },
+    "K8A1": {
+        "lat": 34.3993988037,
+        "long": -86.2702026367,
+        "name": "Guntersville Municipal Joe Starnes Field",
+        "state": "Alabama"
+    },
+    "K9A4": {
+        "lat": 34.6594009399,
+        "long": -87.3488006592,
+        "name": "Lawrence County ",
+        "state": "Alabama"
+    },
+    "KA08": {
+        "lat": 32.5124015808,
+        "long": -87.385597229,
+        "name": "Vaiden Field",
+        "state": "Alabama"
+    },
+    "KAIV": {
+        "lat": 33.1064987183,
+        "long": -88.1977996826,
+        "name": "George Downer ",
+        "state": "Alabama"
+    },
+    "KANB": {
+        "lat": 33.58819962,
+        "long": -85.85810089,
+        "name": "Anniston Metropolitan ",
+        "state": "Alabama"
+    },
+    "KASN": {
+        "lat": 33.5699005127,
+        "long": -86.0509033203,
+        "name": "Talladega Municipal ",
+        "state": "Alabama"
+    },
+    "KAUO": {
+        "lat": 32.61510086,
+        "long": -85.43399811,
+        "name": "Auburn Opelika Robert G. Pitts ",
+        "state": "Alabama"
+    },
+    "KBFM": {
+        "lat": 30.6268005371,
+        "long": -88.0680999756,
+        "name": "Mobile Downtown ",
+        "state": "Alabama"
+    },
+    "KBHM": {
+        "lat": 33.56290054,
+        "long": -86.75350189,
+        "name": "Birmingham-Shuttlesworth International ",
+        "state": "Alabama"
+    },
+    "KBMG": {
+        "lat": 39.1459999084,
+        "long": -86.6166992188,
+        "name": "Monroe County ",
+        "state": "Alabama"
+    },
+    "KC22": {
+        "lat": 34.1599006653,
+        "long": -85.6351013184,
+        "name": "Centre Municipal ",
+        "state": "Alabama"
+    },
+    "KCZG": {
+        "lat": 42.0784988403,
+        "long": -76.0962982178,
+        "name": "Tri Cities ",
+        "state": "Alabama"
+    },
+    "KDCU": {
+        "lat": 34.6526985168,
+        "long": -86.9453964233,
+        "name": "Pryor Field Regional ",
+        "state": "Alabama"
+    },
+    "KDHN": {
+        "lat": 31.3213005066,
+        "long": -85.4496002197,
+        "name": "Dothan Regional ",
+        "state": "Alabama"
+    },
+    "KDYA": {
+        "lat": 32.4637985229,
+        "long": -87.9541015625,
+        "name": "Demopolis Municipal ",
+        "state": "Alabama"
+    },
+    "KEDN": {
+        "lat": 31.29969978,
+        "long": -85.89990234,
+        "name": "Enterprise Municipal ",
+        "state": "Alabama"
+    },
+    "KEET": {
+        "lat": 33.17699814,
+        "long": -86.78279877,
+        "name": "Shelby County ",
+        "state": "Alabama"
+    },
+    "KEKY": {
+        "lat": 33.31290054,
+        "long": -86.92590332,
+        "name": "Bessemer ",
+        "state": "Alabama"
+    },
+    "KEUF": {
+        "lat": 31.9512996674,
+        "long": -85.1288986206,
+        "name": "Weedon Field",
+        "state": "Alabama"
+    },
+    "KFFZ": {
+        "lat": 33.4608001709,
+        "long": -111.7279968262,
+        "name": "Falcon Field",
+        "state": "Alabama"
+    },
+    "KGAD": {
+        "lat": 33.9725990295,
+        "long": -86.0889968872,
+        "name": "Northeast Alabama Regional ",
+        "state": "Alabama"
+    },
+    "KGZH": {
+        "lat": 31.4158000946,
+        "long": -87.0439987183,
+        "name": "Middleton Field",
+        "state": "Alabama"
+    },
+    "KHAB": {
+        "lat": 34.11759949,
+        "long": -87.99819946,
+        "name": "Marion County Rankin Fite ",
+        "state": "Alabama"
+    },
+    "KHSV": {
+        "lat": 34.6371994019,
+        "long": -86.775100708,
+        "name": "Huntsville International Carl T Jones Field",
+        "state": "Alabama"
+    },
+    "KHUA": {
+        "lat": 34.67869949,
+        "long": -86.68479919,
+        "name": "Redstone Army Air Field",
+        "state": "Alabama"
+    },
+    "KJFX": {
+        "lat": 33.90200043,
+        "long": -87.31420135,
+        "name": "Walker County Bevill Field",
+        "state": "Alabama"
+    },
+    "KJKA": {
+        "lat": 30.29050064,
+        "long": -87.67179871,
+        "name": "Jack Edwards ",
+        "state": "Alabama"
+    },
+    "KM22": {
+        "lat": 34.4453010559,
+        "long": -87.7113037109,
+        "name": "Russellville Municipal ",
+        "state": "Alabama"
+    },
+    "KM55": {
+        "lat": 33.846698761,
+        "long": -88.1155014038,
+        "name": "Lamar County ",
+        "state": "Alabama"
+    },
+    "KMDQ": {
+        "lat": 34.8614006,
+        "long": -86.55750275,
+        "name": "Madison County Executive -Tom Sharp Jr ",
+        "state": "Alabama"
+    },
+    "KMGM": {
+        "lat": 32.30059814,
+        "long": -86.39399719,
+        "name": "Montgomery Regional (Dannelly Field) ",
+        "state": "Alabama"
+    },
+    "KMOB": {
+        "lat": 30.6912002563,
+        "long": -88.2427978516,
+        "name": "Mobile Regional ",
+        "state": "Alabama"
+    },
+    "KMSL": {
+        "lat": 34.74530029,
+        "long": -87.61019897,
+        "name": "Northwest Alabama Regional ",
+        "state": "Alabama"
+    },
+    "KMVC": {
+        "lat": 31.4580001831,
+        "long": -87.3509979248,
+        "name": "Monroe County ",
+        "state": "Alabama"
+    },
+    "KMXF": {
+        "lat": 32.382900238,
+        "long": -86.3657989502,
+        "name": "Maxwell Air Force Base",
+        "state": "Alabama"
+    },
+    "KNBJ": {
+        "lat": 30.3890991211,
+        "long": -87.6352996826,
+        "name": "Barin Nolf ",
+        "state": "Alabama"
+    },
+    "KNFD": {
+        "lat": 30.5076999664,
+        "long": -87.6455001831,
+        "name": "Summerdale Nolf ",
+        "state": "Alabama"
+    },
+    "KNHL": {
+        "lat": 30.3460998535,
+        "long": -87.5417022705,
+        "name": "Wolf Nolf ",
+        "state": "Alabama"
+    },
+    "KNQB": {
+        "lat": 30.5636005402,
+        "long": -87.8097000122,
+        "name": "Silverhill Nolf ",
+        "state": "Alabama"
+    },
+    "KOZR": {
+        "lat": 31.27569962,
+        "long": -85.71340179,
+        "name": "Cairns AAF (Fort Rucker) Air Field",
+        "state": "Alabama"
+    },
+    "KPLR": {
+        "lat": 33.5587997437,
+        "long": -86.2490997314,
+        "name": "St Clair County ",
+        "state": "Alabama"
+    },
+    "KPRN": {
+        "lat": 31.84569931,
+        "long": -86.61070251,
+        "name": "Mac Crenshaw Memorial ",
+        "state": "Alabama"
+    },
+    "KPYP": {
+        "lat": 34.08997726,
+        "long": -85.61006927,
+        "name": "Centre-Piedmont-Cherokee County Regional ",
+        "state": "Alabama"
+    },
+    "KSCD": {
+        "lat": 33.1717987061,
+        "long": -86.3054962158,
+        "name": "Merkel Field Sylacauga Municipal ",
+        "state": "Alabama"
+    },
+    "KSEM": {
+        "lat": 32.3438987732,
+        "long": -86.9878005981,
+        "name": "Craig Field",
+        "state": "Alabama"
+    },
+    "KTCL": {
+        "lat": 33.2206001282,
+        "long": -87.6113967896,
+        "name": "Tuscaloosa Regional ",
+        "state": "Alabama"
+    },
+    "KTOI": {
+        "lat": 31.8603992462,
+        "long": -86.0121002197,
+        "name": "Troy Municipal ",
+        "state": "Alabama"
+    }
+}

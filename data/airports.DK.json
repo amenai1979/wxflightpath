@@ -1,0 +1,252 @@
+{
+  "EKAE": {
+    "lat": 54.8527984619,
+    "long": 10.4563999176,
+    "name": "AEro "
+  },
+  "EKAH": {
+    "lat": 56.2999992371,
+    "long": 10.6190004349,
+    "name": "Aarhus "
+  },
+  "EKAT": {
+    "lat": 56.6988983154,
+    "long": 11.5558996201,
+    "name": "Anholt "
+  },
+  "EKAV": {
+    "lat": 55.0830001831,
+    "long": 11.7829999924,
+    "name": "Avno Air Base"
+  },
+  "EKBI": {
+    "lat": 55.7402992249,
+    "long": 9.1517801285,
+    "name": "Billund "
+  },
+  "EKCH": {
+    "lat": 55.6179008484,
+    "long": 12.6560001373,
+    "name": "Copenhagen Kastrup "
+  },
+  "EKEB": {
+    "lat": 55.5259017944,
+    "long": 8.5534000397,
+    "name": "Esbjerg "
+  },
+  "EKEL": {
+    "lat": 55.7565002441,
+    "long": 10.2484998703,
+    "name": "Endelave West "
+  },
+  "EKFU": {
+    "lat": 56.8244018555,
+    "long": 8.9861097336,
+    "name": "Fur "
+  },
+  "EKGH": {
+    "lat": 55.9413986206,
+    "long": 12.3822002411,
+    "name": "Gronholt Hillerod "
+  },
+  "EKGR": {
+    "lat": 56.4425010681,
+    "long": 10.9306001663,
+    "name": "Grenaa "
+  },
+  "EKHG": {
+    "lat": 56.1847000122,
+    "long": 9.0444498062,
+    "name": "Herning "
+  },
+  "EKHK": {
+    "lat": 55.73279953,
+    "long": 11.6028003693,
+    "name": "Holbaek (Ny Hagested) "
+  },
+  "EKHO": {
+    "lat": 56.3967018127,
+    "long": 8.4419403076,
+    "name": "Lindtorp "
+  },
+  "EKHS": {
+    "lat": 56.7559242249,
+    "long": 10.2288293839,
+    "name": "Hadsund "
+  },
+  "EKHV": {
+    "lat": 55.3022003174,
+    "long": 9.5225000381,
+    "name": "Haderslev "
+  },
+  "EKKA": {
+    "lat": 56.2975006104,
+    "long": 9.1246299744,
+    "name": "Karup "
+  },
+  "EKKL": {
+    "lat": 55.7002983093,
+    "long": 11.25,
+    "name": "Kalundborg "
+  },
+  "EKKO": {
+    "lat": 55.3368988037,
+    "long": 11.2417001724,
+    "name": "Korsor "
+  },
+  "EKLS": {
+    "lat": 57.2771987915,
+    "long": 11.0001001358,
+    "name": "Laeso "
+  },
+  "EKLV": {
+    "lat": 56.5029983521,
+    "long": 8.3113298416,
+    "name": "Lemvig "
+  },
+  "EKMB": {
+    "lat": 54.6992988586,
+    "long": 11.4400997162,
+    "name": "Lolland Falster Maribo "
+  },
+  "EKMN": {
+    "lat": 54.9646987915,
+    "long": 12.1943998337,
+    "name": "Kostervig Mon "
+  },
+  "EKNM": {
+    "lat": 56.8244018555,
+    "long": 8.7866697311,
+    "name": "Morso  Todso"
+  },
+  "EKNS": {
+    "lat": 54.817199707,
+    "long": 11.1308002472,
+    "name": "Nakskov "
+  },
+  "EKOD": {
+    "lat": 55.4766998291,
+    "long": 10.3309001923,
+    "name": "Odense "
+  },
+  "EKPB": {
+    "lat": 54.870300293,
+    "long": 9.279009819,
+    "name": "Krusa-Padborg "
+  },
+  "EKRA": {
+    "lat": 55.7785987854,
+    "long": 9.9388904572,
+    "name": "Rarup "
+  },
+  "EKRD": {
+    "lat": 56.5065994263,
+    "long": 10.0363998413,
+    "name": "Randers "
+  },
+  "EKRK": {
+    "lat": 55.5856018066,
+    "long": 12.1314001083,
+    "name": "Copenhagen Roskilde "
+  },
+  "EKRN": {
+    "lat": 55.0633010864,
+    "long": 14.7595996857,
+    "name": "Bornholm "
+  },
+  "EKRS": {
+    "lat": 55.4258003235,
+    "long": 11.8066997528,
+    "name": "Ringsted "
+  },
+  "EKSA": {
+    "lat": 57.346698761,
+    "long": 10.406999588,
+    "name": "Saeby (Ottestrup) "
+  },
+  "EKSB": {
+    "lat": 54.9644012451,
+    "long": 9.7917299271,
+    "name": "Sonderborg "
+  },
+  "EKSD": {
+    "lat": 56.1026992798,
+    "long": 8.5142297745,
+    "name": "Spjald "
+  },
+  "EKSN": {
+    "lat": 57.5035018921,
+    "long": 10.2293996811,
+    "name": "Sindal "
+  },
+  "EKSP": {
+    "lat": 55.2256011963,
+    "long": 9.2639303207,
+    "name": "Vojens Skrydstrup "
+  },
+  "EKSS": {
+    "lat": 55.8894996643,
+    "long": 10.613699913,
+    "name": "Samso "
+  },
+  "EKST": {
+    "lat": 55.0166015625,
+    "long": 10.5633001328,
+    "name": "Sydfy (Tasinge) "
+  },
+  "EKSV": {
+    "lat": 56.550201416,
+    "long": 9.1729803085,
+    "name": "Skive "
+  },
+  "EKTD": {
+    "lat": 54.9296989441,
+    "long": 8.8405704498,
+    "name": "Tonder "
+  },
+  "EKTS": {
+    "lat": 57.0688018799,
+    "long": 8.7052202225,
+    "name": "Thisted "
+  },
+  "EKVA": {
+    "lat": 55.7010002136,
+    "long": 9.2135801315,
+    "name": "Vandel Air Base"
+  },
+  "EKVB": {
+    "lat": 56.4099998474,
+    "long": 9.4090995789,
+    "name": "Viborg "
+  },
+  "EKVD": {
+    "lat": 55.4362983704,
+    "long": 9.3309202194,
+    "name": "Kolding Vamdrup "
+  },
+  "EKVH": {
+    "lat": 56.8469009399,
+    "long": 9.458609581,
+    "name": "Aars "
+  },
+  "EKVJ": {
+    "lat": 55.9901008606,
+    "long": 8.3539104462,
+    "name": "Stauning "
+  },
+  "EKYT": {
+    "lat": 57.0927589138,
+    "long": 9.8492431641,
+    "name": "Aalborg "
+  },
+  "EK_2": {
+    "lat": 54.9841151907,
+    "long": 11.5376615524,
+    "name": "Femo Airfield"
+  },
+  "EK_4": {
+    "lat": 55.035,
+    "long": 11.375,
+    "name": "Vejro"
+  }
+}

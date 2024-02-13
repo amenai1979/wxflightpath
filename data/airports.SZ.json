@@ -1,0 +1,77 @@
+{
+  "FDBM": {
+    "lat": -26.8670005798,
+    "long": 31.9330005646,
+    "name": "Matata "
+  },
+  "FDBS": {
+    "lat": -26.7999992371,
+    "long": 31.8999996185,
+    "name": "Big Bend Sugar E "
+  },
+  "FDBT": {
+    "lat": -26.735200882,
+    "long": 31.7758998871,
+    "name": "Tambuti "
+  },
+  "FDGL": {
+    "lat": -27.3201007843,
+    "long": 31.889799118,
+    "name": "Lavumisa "
+  },
+  "FDKB": {
+    "lat": -26.8666667938,
+    "long": 31.4833335876,
+    "name": "Kubuta "
+  },
+  "FDMH": {
+    "lat": -26.0242004395,
+    "long": 31.8099994659,
+    "name": "Mhlume "
+  },
+  "FDMS": {
+    "lat": -26.5289993286,
+    "long": 31.3075008392,
+    "name": "Matsapha "
+  },
+  "FDNG": {
+    "lat": -25.7666664124,
+    "long": 31.3666667938,
+    "name": "Piggs Peak "
+  },
+  "FDNH": {
+    "lat": -27.1166667938,
+    "long": 31.2166671753,
+    "name": "Nhlangano "
+  },
+  "FDNS": {
+    "lat": -27.0333003998,
+    "long": 31.9333324432,
+    "name": "Nsoko "
+  },
+  "FDSM": {
+    "lat": -26.2000007629,
+    "long": 31.9333324432,
+    "name": "Simunye "
+  },
+  "FDST": {
+    "lat": -26.4500007629,
+    "long": 31.9500007629,
+    "name": "Siteki "
+  },
+  "FDTM": {
+    "lat": -26.1000003815,
+    "long": 31.9666805267,
+    "name": "Tambankulu "
+  },
+  "FDTS": {
+    "lat": -25.9833335876,
+    "long": 31.2000007629,
+    "name": "Tshaneni "
+  },
+  "FDUB": {
+    "lat": -26.7707996368,
+    "long": 31.9363994598,
+    "name": "Ubombo Ranches "
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "LTAB": {
+    "lat": 39.9350013733,
+    "long": 32.7407989502,
+    "name": "Guvercinlik "
+  },
+  "LTAC": {
+    "lat": 40.1281013489,
+    "long": 32.995098114,
+    "name": "Esenboga International "
+  },
+  "LTAD": {
+    "lat": 39.949798584,
+    "long": 32.6885986328,
+    "name": "Etimesgut Air Base"
+  },
+  "LTAE": {
+    "lat": 40.0788993835,
+    "long": 32.5656013489,
+    "name": "Akinci Air Base"
+  },
+  "LTAF": {
+    "lat": 36.9822006226,
+    "long": 35.2803993225,
+    "name": "Adana "
+  },
+  "LTAG": {
+    "lat": 37.0021018982,
+    "long": 35.4258995056,
+    "name": "Incirlik Air Base"
+  },
+  "LTAH": {
+    "lat": 38.726398468,
+    "long": 30.6011009216,
+    "name": "Afyon "
+  },
+  "LTAI": {
+    "lat": 36.8987007141,
+    "long": 30.8005008698,
+    "name": "Antalya International "
+  },
+  "LTAJ": {
+    "lat": 36.9472007751,
+    "long": 37.4786987305,
+    "name": "Gaziantep International "
+  },
+  "LTAK": {
+    "lat": 36.5744552612,
+    "long": 36.1534194946,
+    "name": "Iskenderun "
+  },
+  "LTAL": {
+    "lat": 41.314201355,
+    "long": 33.7957992554,
+    "name": "Kastamonu "
+  },
+  "LTAN": {
+    "lat": 37.9790000916,
+    "long": 32.5619010925,
+    "name": "Konya "
+  },
+  "LTAO": {
+    "lat": 38.3536987305,
+    "long": 38.2538986206,
+    "name": "Malatya Tulga "
+  },
+  "LTAP": {
+    "lat": 40.8293991089,
+    "long": 35.5219993591,
+    "name": "Amasya Merzifon "
+  },
+  "LTAQ": {
+    "lat": 41.2786445618,
+    "long": 36.3051795959,
+    "name": "Samsun Samair "
+  },
+  "LTAR": {
+    "lat": 39.8138008118,
+    "long": 36.9034996033,
+    "name": "Sivas "
+  },
+  "LTAS": {
+    "lat": 41.506401062,
+    "long": 32.0886001587,
+    "name": "Zonguldak "
+  },
+  "LTAT": {
+    "lat": 38.4352989197,
+    "long": 38.0909996033,
+    "name": "Malatya Erhac "
+  },
+  "LTAU": {
+    "lat": 38.770401001,
+    "long": 35.4953994751,
+    "name": "Kayseri Erkilet "
+  },
+  "LTAV": {
+    "lat": 39.451499939,
+    "long": 31.3652992249,
+    "name": "Sivrihisar "
+  },
+  "LTAW": {
+    "lat": 40.3074302673,
+    "long": 36.3674087524,
+    "name": "Tokat "
+  },
+  "LTAY": {
+    "lat": 37.7855987549,
+    "long": 29.7012996674,
+    "name": "Cardak "
+  },
+  "LTAZ": {
+    "lat": 38.771900177,
+    "long": 34.5345001221,
+    "name": "Nevsehir Kapadokya International "
+  },
+  "LTBA": {
+    "lat": 40.9768981934,
+    "long": 28.8145999908,
+    "name": "Ataturk International "
+  },
+  "LTBC": {
+    "lat": 38.3699989319,
+    "long": 28.557100296,
+    "name": "Alasehir "
+  },
+  "LTBD": {
+    "lat": 37.8149986267,
+    "long": 27.8952999115,
+    "name": "Cildir "
+  },
+  "LTBE": {
+    "lat": 40.2332992554,
+    "long": 29.0091991425,
+    "name": "Bursa "
+  },
+  "LTBF": {
+    "lat": 39.6193008423,
+    "long": 27.9260005951,
+    "name": "Balikesir Merkez "
+  },
+  "LTBG": {
+    "lat": 40.3180007935,
+    "long": 27.9776992798,
+    "name": "Bandirma "
+  },
+  "LTBH": {
+    "lat": 40.1376991272,
+    "long": 26.4267997742,
+    "name": "Canakkale "
+  },
+  "LTBI": {
+    "lat": 39.7840995789,
+    "long": 30.5820999146,
+    "name": "Eskisehir Air Base"
+  },
+  "LTBJ": {
+    "lat": 38.2924003601,
+    "long": 27.156999588,
+    "name": "Adnan Menderes International "
+  },
+  "LTBK": {
+    "lat": 38.3190994263,
+    "long": 27.1594009399,
+    "name": "Gaziemir "
+  },
+  "LTBL": {
+    "lat": 38.5130004883,
+    "long": 27.010099411,
+    "name": "Cigli "
+  },
+  "LTBM": {
+    "lat": 37.7851219177,
+    "long": 30.5900192261,
+    "name": "Isparta "
+  },
+  "LTBN": {
+    "lat": 39.426700592,
+    "long": 30.0168991089,
+    "name": "Kutahya "
+  },
+  "LTBO": {
+    "lat": 38.6814994812,
+    "long": 29.4717006683,
+    "name": "Usak "
+  },
+  "LTBP": {
+    "lat": 40.6843986511,
+    "long": 29.3756999969,
+    "name": "Yalova "
+  },
+  "LTBQ": {
+    "lat": 40.7350006104,
+    "long": 30.0832996368,
+    "name": "Cengiz Topel "
+  },
+  "LTBR": {
+    "lat": 40.2551994324,
+    "long": 29.5625991821,
+    "name": "Bursa Yenisehir "
+  },
+  "LTBS": {
+    "lat": 36.7131004333,
+    "long": 28.7924995422,
+    "name": "Dalaman International "
+  },
+  "LTBT": {
+    "lat": 38.8088989258,
+    "long": 27.8339004517,
+    "name": "Akhisar "
+  },
+  "LTBU": {
+    "lat": 41.1381988525,
+    "long": 27.9190998077,
+    "name": "Tekirdag Corlu "
+  },
+  "LTBV": {
+    "lat": 37.1400985718,
+    "long": 27.6697006226,
+    "name": "Imsik "
+  },
+  "LTBW": {
+    "lat": 41.1035995483,
+    "long": 28.547700882,
+    "name": "Istanbul Hezarfen Airfield"
+  },
+  "LTBX": {
+    "lat": 40.9930000305,
+    "long": 29.2164993286,
+    "name": "Samandira Air Base"
+  },
+  "LTBY": {
+    "lat": 39.8098983765,
+    "long": 30.5193996429,
+    "name": "Anadolu University "
+  },
+  "LTBZ": {
+    "lat": 39.1090247,
+    "long": 30.1371297052,
+    "name": "Zafer "
+  },
+  "LTCA": {
+    "lat": 38.6068992615,
+    "long": 39.2914009094,
+    "name": "Elazig "
+  },
+  "LTCB": {
+    "lat": 40.966667,
+    "long": 38.08,
+    "name": "Ordu\u2013Giresun "
+  },
+  "LTCC": {
+    "lat": 37.893901825,
+    "long": 40.2010002136,
+    "name": "Diyarbakir "
+  },
+  "LTCD": {
+    "lat": 39.7102012634,
+    "long": 39.5270004272,
+    "name": "Erzincan "
+  },
+  "LTCE": {
+    "lat": 39.9565010071,
+    "long": 41.1702003479,
+    "name": "Erzurum International "
+  },
+  "LTCF": {
+    "lat": 40.5621986389,
+    "long": 43.1150016785,
+    "name": "Kars "
+  },
+  "LTCG": {
+    "lat": 40.995098114,
+    "long": 39.7896995544,
+    "name": "Trabzon International "
+  },
+  "LTCH": {
+    "lat": 37.0942993164,
+    "long": 38.8470993042,
+    "name": "Sanliurfa "
+  },
+  "LTCI": {
+    "lat": 38.4682006836,
+    "long": 43.3322982788,
+    "name": "Van Ferit Melen "
+  },
+  "LTCJ": {
+    "lat": 37.9290008545,
+    "long": 41.1166000366,
+    "name": "Batman "
+  },
+  "LTCK": {
+    "lat": 38.7477989197,
+    "long": 41.6612014771,
+    "name": "Mus "
+  },
+  "LTCL": {
+    "lat": 37.9789009094,
+    "long": 41.8404006958,
+    "name": "Siirt "
+  },
+  "LTCM": {
+    "lat": 42.0158004761,
+    "long": 35.0663986206,
+    "name": "Sinop "
+  },
+  "LTCN": {
+    "lat": 37.5388259888,
+    "long": 36.9535217285,
+    "name": "Kahramanmaras "
+  },
+  "LTCO": {
+    "lat": 39.6545410156,
+    "long": 43.0259780884,
+    "name": "Agri "
+  },
+  "LTCP": {
+    "lat": 37.7313995361,
+    "long": 38.4688987732,
+    "name": "Adiyaman "
+  },
+  "LTCR": {
+    "lat": 37.2233009338,
+    "long": 40.6316986084,
+    "name": "Mardin "
+  },
+  "LTCS": {
+    "lat": 37.4456634521,
+    "long": 38.8955917358,
+    "name": "Sanliurfa GAP "
+  },
+  "LTCT": {
+    "lat": 39.9766273499,
+    "long": 43.8766479492,
+    "name": "Igdir "
+  },
+  "LTCW": {
+    "lat": 37.551667,
+    "long": 44.233611,
+    "name": "Hakkari Yuksekova "
+  },
+  "LTDA": {
+    "lat": 36.36277771,
+    "long": 36.2822227478,
+    "name": "Hatay "
+  },
+  "LTFA": {
+    "lat": 38.5176010132,
+    "long": 26.977399826,
+    "name": "Kaklic "
+  },
+  "LTFB": {
+    "lat": 37.9506988525,
+    "long": 27.329000473,
+    "name": "Selcuk Efes "
+  },
+  "LTFC": {
+    "lat": 37.8554000854,
+    "long": 30.3684005737,
+    "name": "Suleyman Demirel International "
+  },
+  "LTFD": {
+    "lat": 39.554599762,
+    "long": 27.0137996674,
+    "name": "Balikesir Korfez "
+  },
+  "LTFE": {
+    "lat": 37.2505989075,
+    "long": 27.6643009186,
+    "name": "Milas Bodrum International "
+  },
+  "LTFG": {
+    "lat": 36.2992172241,
+    "long": 32.3005981445,
+    "name": "Gazipasa "
+  },
+  "LTFH": {
+    "lat": 41.2545013428,
+    "long": 36.5671005249,
+    "name": "Samsun Carsamba "
+  },
+  "LTFJ": {
+    "lat": 40.898601532,
+    "long": 29.3092002869,
+    "name": "Sabiha Gokcen International "
+  },
+  "LTFK": {
+    "lat": 40.204498291,
+    "long": 25.8833007812,
+    "name": "Imroz "
+  },
+  "LTFM": {
+    "lat": 41.262222,
+    "long": 28.727778,
+    "name": "Istanbul "
+  },
+  "LTXE": {
+    "lat": 37.0964431763,
+    "long": 30.6477355957,
+    "name": "Karain "
+  }
+}

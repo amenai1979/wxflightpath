@@ -1,0 +1,37 @@
+{
+  "DXAK": {
+    "lat": 7.5830001831,
+    "long": 1.1169999838,
+    "name": "Akpaka "
+  },
+  "DXDP": {
+    "lat": 10.8000001907,
+    "long": 0.25,
+    "name": "Djangou "
+  },
+  "DXKP": {
+    "lat": 7.8000001907,
+    "long": 1.2829999924,
+    "name": "Kolokope "
+  },
+  "DXMG": {
+    "lat": 10.3730106354,
+    "long": 0.4713821411,
+    "name": "Sansanne-Mango "
+  },
+  "DXNG": {
+    "lat": 9.7673301697,
+    "long": 1.0912499428,
+    "name": "Niamtougou International "
+  },
+  "DXSK": {
+    "lat": 8.9829998016,
+    "long": 1.1499999762,
+    "name": "Sokode "
+  },
+  "DXXX": {
+    "lat": 6.1656098366,
+    "long": 1.2545100451,
+    "name": "Lome-Tokoin "
+  }
+}

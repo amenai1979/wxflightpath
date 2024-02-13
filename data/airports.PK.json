@@ -1,0 +1,507 @@
+{
+  "OP10": {
+    "lat": 27.2005004883,
+    "long": 69.1538009644,
+    "name": "Thar "
+  },
+  "OP11": {
+    "lat": 31.1877994537,
+    "long": 70.1845016479,
+    "name": "Mir Baz "
+  },
+  "OP13": {
+    "lat": 28.3561992645,
+    "long": 70.6001968384,
+    "name": "Mad Jamu "
+  },
+  "OP14": {
+    "lat": 30.3400001526,
+    "long": 70.5567016602,
+    "name": "Belab "
+  },
+  "OP15": {
+    "lat": 30.2528991699,
+    "long": 70.2128982544,
+    "name": "Ouzkani "
+  },
+  "OP16": {
+    "lat": 24.7872009277,
+    "long": 68.5571975708,
+    "name": "Khorewah "
+  },
+  "OP17": {
+    "lat": 26.7408008575,
+    "long": 67.6666030884,
+    "name": "Dadu West "
+  },
+  "OP18": {
+    "lat": 30.4948997498,
+    "long": 70.9710998535,
+    "name": "Kot Addu "
+  },
+  "OP19": {
+    "lat": 32.4244995117,
+    "long": 71.4585037231,
+    "name": "Chashma "
+  },
+  "OP1A": {
+    "lat": 26.1980991364,
+    "long": 67.5037002563,
+    "name": "Jam Nida Northwest "
+  },
+  "OP1Y": {
+    "lat": 32.0778007507,
+    "long": 73.7901992798,
+    "name": "Chandhar "
+  },
+  "OP21": {
+    "lat": 30.0914001465,
+    "long": 72.1538009644,
+    "name": "Velhari "
+  },
+  "OP22": {
+    "lat": 29.263999939,
+    "long": 70.1864013672,
+    "name": "Rajanpur "
+  },
+  "OP23": {
+    "lat": 33.3875999451,
+    "long": 70.5887985229,
+    "name": "Thal "
+  },
+  "OP25": {
+    "lat": 32.8785018921,
+    "long": 73.6053009033,
+    "name": "Gurha Salim "
+  },
+  "OP26": {
+    "lat": 32.6291007996,
+    "long": 73.0225982666,
+    "name": "Khewra "
+  },
+  "OP27": {
+    "lat": 32.2389984131,
+    "long": 74.1309967041,
+    "name": "Rahwali "
+  },
+  "OP28": {
+    "lat": 29.9232997894,
+    "long": 66.7461013794,
+    "name": "Dhingar "
+  },
+  "OP31": {
+    "lat": 28.4706001282,
+    "long": 69.5990982056,
+    "name": "Kashmor "
+  },
+  "OP32": {
+    "lat": 28.0361003876,
+    "long": 69.6748962402,
+    "name": "Khairpur "
+  },
+  "OP33": {
+    "lat": 28.2740001678,
+    "long": 69.2760009766,
+    "name": "Kandhkot "
+  },
+  "OP34": {
+    "lat": 28.8194007874,
+    "long": 62.7307014465,
+    "name": "Nok Kundi "
+  },
+  "OP35": {
+    "lat": 29.0405006409,
+    "long": 61.6473999023,
+    "name": "Juzzak "
+  },
+  "OP36": {
+    "lat": 26.2518997192,
+    "long": 63.1302986145,
+    "name": "Robray "
+  },
+  "OP37": {
+    "lat": 27.8131008148,
+    "long": 69.167098999,
+    "name": "Pano Aqil Southeast "
+  },
+  "OPAB": {
+    "lat": 34.2000007629,
+    "long": 73.25,
+    "name": "Abbottabad "
+  },
+  "OPBG": {
+    "lat": 32.056098938,
+    "long": 72.9484024048,
+    "name": "Bhagatanwala "
+  },
+  "OPBL": {
+    "lat": 29.4922008514,
+    "long": 71.1184005737,
+    "name": "Bela "
+  },
+  "OPBN": {
+    "lat": 32.9729003906,
+    "long": 70.5279006958,
+    "name": "Bannu "
+  },
+  "OPBR": {
+    "lat": 29.9463005066,
+    "long": 73.2490997314,
+    "name": "Bahawalnagar "
+  },
+  "OPBW": {
+    "lat": 29.3481006622,
+    "long": 71.7180023193,
+    "name": "Bahawalpur "
+  },
+  "OPCH": {
+    "lat": 35.8866004944,
+    "long": 71.8005981445,
+    "name": "Chitral "
+  },
+  "OPCL": {
+    "lat": 35.426700592,
+    "long": 74.081703186,
+    "name": "Chilas "
+  },
+  "OPCT": {
+    "lat": 33.9681015015,
+    "long": 71.9674987793,
+    "name": "Chirat "
+  },
+  "OPDB": {
+    "lat": 28.8782997131,
+    "long": 64.3998031616,
+    "name": "Dalbandin "
+  },
+  "OPDD": {
+    "lat": 26.5545005798,
+    "long": 67.6745986938,
+    "name": "Dadu "
+  },
+  "OPDG": {
+    "lat": 29.9610004425,
+    "long": 70.4859008789,
+    "name": "Dera Ghazi Khan "
+  },
+  "OPDI": {
+    "lat": 31.9094009399,
+    "long": 70.8965988159,
+    "name": "Dera Ismael Khan "
+  },
+  "OPDK": {
+    "lat": 28.5,
+    "long": 69.6999969482,
+    "name": "Daharki "
+  },
+  "OPFA": {
+    "lat": 31.3649997711,
+    "long": 72.9947967529,
+    "name": "Faisalabad International "
+  },
+  "OPGD": {
+    "lat": 25.2332992554,
+    "long": 62.329498291,
+    "name": "Gwadar International "
+  },
+  "OPGT": {
+    "lat": 35.918800354,
+    "long": 74.3336029053,
+    "name": "Gilgit "
+  },
+  "OPIS": {
+    "lat": 33.5490833333333,
+    "long": 72.82565,
+    "name": "Islamabad International "
+  },
+  "OPJA": {
+    "lat": 28.2842006683,
+    "long": 68.4496994019,
+    "name": "Shahbaz Air Base"
+  },
+  "OPJI": {
+    "lat": 25.0678005219,
+    "long": 61.8054008484,
+    "name": "Jiwani "
+  },
+  "OPKA": {
+    "lat": 24.8279323578,
+    "long": 66.6644287109,
+    "name": "Cape Monz "
+  },
+  "OPKC": {
+    "lat": 24.9064998627,
+    "long": 67.1607971191,
+    "name": "Jinnah International "
+  },
+  "OPKD": {
+    "lat": 25.3180999756,
+    "long": 68.3660964966,
+    "name": "Hyderabad "
+  },
+  "OPKE": {
+    "lat": 25.5259990692,
+    "long": 69.7717971802,
+    "name": "Chore "
+  },
+  "OPKF": {
+    "lat": 24.7290000916,
+    "long": 67.587600708,
+    "name": "Gharo "
+  },
+  "OPKH": {
+    "lat": 27.790599823,
+    "long": 66.6473007202,
+    "name": "Khuzdar "
+  },
+  "OPKK": {
+    "lat": 24.7842998505,
+    "long": 67.138999939,
+    "name": "Korangi Creek "
+  },
+  "OPKL": {
+    "lat": 29.1333332062,
+    "long": 66.5166702271,
+    "name": "Kalat "
+  },
+  "OPKN": {
+    "lat": 28.5972003937,
+    "long": 65.4225006104,
+    "name": "Kharan "
+  },
+  "OPKT": {
+    "lat": 33.5699996948,
+    "long": 71.4400024414,
+    "name": "Kohat "
+  },
+  "OPLA": {
+    "lat": 31.5216007233,
+    "long": 74.4036026001,
+    "name": "Alama Iqbal International "
+  },
+  "OPLH": {
+    "lat": 31.4948005676,
+    "long": 74.3461990356,
+    "name": "Walton "
+  },
+  "OPLL": {
+    "lat": 30.3554992676,
+    "long": 68.6135025024,
+    "name": "Loralai "
+  },
+  "OPMA": {
+    "lat": 33.0500984192,
+    "long": 73.6383972168,
+    "name": "Mangla "
+  },
+  "OPMF": {
+    "lat": 34.3390007019,
+    "long": 73.5085983276,
+    "name": "Muzaffarabad "
+  },
+  "OPMI": {
+    "lat": 32.5630989075,
+    "long": 71.5707015991,
+    "name": "Mianwali Air Base"
+  },
+  "OPMJ": {
+    "lat": 27.3351993561,
+    "long": 68.1430969238,
+    "name": "Moenjodaro "
+  },
+  "OPMK": {
+    "lat": 25.6825008392,
+    "long": 69.0727996826,
+    "name": "Mirpur Khas Air Base"
+  },
+  "OPMN": {
+    "lat": 33.0147018433,
+    "long": 70.0643997192,
+    "name": "Miram Shah "
+  },
+  "OPMP": {
+    "lat": 25.682800293,
+    "long": 69.0727996826,
+    "name": "Sindhri Tharparkar "
+  },
+  "OPMR": {
+    "lat": 24.8936004639,
+    "long": 66.9387969971,
+    "name": "Masroor Air Base"
+  },
+  "OPMS": {
+    "lat": 33.8690986633,
+    "long": 72.4009017944,
+    "name": "Minhas Air Base"
+  },
+  "OPMT": {
+    "lat": 30.2031993866,
+    "long": 71.4190979004,
+    "name": "Multan International "
+  },
+  "OPNH": {
+    "lat": 26.2194004059,
+    "long": 68.3900985718,
+    "name": "Nawabshah "
+  },
+  "OPNK": {
+    "lat": 29.5389995575,
+    "long": 66.0233001709,
+    "name": "Nushki "
+  },
+  "OPOK": {
+    "lat": 30.7409992218,
+    "long": 73.3576965332,
+    "name": "Okara Cantonment Airstrip"
+  },
+  "OPOR": {
+    "lat": 25.2747001648,
+    "long": 64.5859985352,
+    "name": "Ormara "
+  },
+  "OPPC": {
+    "lat": 33.9020996094,
+    "long": 70.0716018677,
+    "name": "Parachinar "
+  },
+  "OPPG": {
+    "lat": 26.9545001984,
+    "long": 64.1324996948,
+    "name": "Panjgur "
+  },
+  "OPPI": {
+    "lat": 25.2905006409,
+    "long": 63.3451004028,
+    "name": "Pasni "
+  },
+  "OPPN": {
+    "lat": 30.5562000275,
+    "long": 66.985496521,
+    "name": "Pishin "
+  },
+  "OPPS": {
+    "lat": 33.9939002991,
+    "long": 71.5146026611,
+    "name": "Peshawar International "
+  },
+  "OPQS": {
+    "lat": 33.5601997375,
+    "long": 73.033203125,
+    "name": "Qasim "
+  },
+  "OPQT": {
+    "lat": 30.2513999939,
+    "long": 66.9377975464,
+    "name": "Quetta International "
+  },
+  "OPRK": {
+    "lat": 28.3838996887,
+    "long": 70.2796020508,
+    "name": "Shaikh Zaid "
+  },
+  "OPRN": {
+    "lat": 33.6166992188,
+    "long": 73.0991973877,
+    "name": "Benazir Bhutto International "
+  },
+  "OPRQ": {
+    "lat": 30.7581005096,
+    "long": 72.2825012207,
+    "name": "Rafiqui Air Base"
+  },
+  "OPRS": {
+    "lat": 34.0811004639,
+    "long": 71.9726028442,
+    "name": "Risalpur Air Base"
+  },
+  "OPRT": {
+    "lat": 33.8497009277,
+    "long": 73.7981033325,
+    "name": "Rawalakot "
+  },
+  "OPSB": {
+    "lat": 29.5711994171,
+    "long": 67.8479003906,
+    "name": "Sibi "
+  },
+  "OPSD": {
+    "lat": 35.3354988098,
+    "long": 75.5360031128,
+    "name": "Skardu "
+  },
+  "OPSF": {
+    "lat": 24.8742008209,
+    "long": 67.1184997559,
+    "name": "Faisal Air Base"
+  },
+  "OPSK": {
+    "lat": 27.7220001221,
+    "long": 68.7917022705,
+    "name": "Sukkur "
+  },
+  "OPSN": {
+    "lat": 26.4731006622,
+    "long": 67.7172012329,
+    "name": "Sehwan Sharif "
+  },
+  "OPSP": {
+    "lat": 31.7084999084,
+    "long": 74.0102005005,
+    "name": "Shekhupura "
+  },
+  "OPSR": {
+    "lat": 32.0485992432,
+    "long": 72.6650009155,
+    "name": "Mushaf Air Base"
+  },
+  "OPSS": {
+    "lat": 34.8135986328,
+    "long": 72.3527984619,
+    "name": "Saidu Sharif "
+  },
+  "OPST": {
+    "lat": 32.5355567932,
+    "long": 74.3638916016,
+    "name": "Sialkot "
+  },
+  "OPSU": {
+    "lat": 28.6450996399,
+    "long": 69.176902771,
+    "name": "Sui "
+  },
+  "OPSW": {
+    "lat": 31.8894443512,
+    "long": 72.3916702271,
+    "name": "Sahiwal "
+  },
+  "OPTA": {
+    "lat": 33.9860992432,
+    "long": 72.6113967896,
+    "name": "Tarbela Dam "
+  },
+  "OPTH": {
+    "lat": 24.8414993286,
+    "long": 68.8384017944,
+    "name": "Talhar "
+  },
+  "OPTT": {
+    "lat": 28.9641990662,
+    "long": 61.5954017639,
+    "name": "Taftan "
+  },
+  "OPTU": {
+    "lat": 25.9864006042,
+    "long": 63.0302009583,
+    "name": "Turbat International "
+  },
+  "OPWN": {
+    "lat": 32.3046989441,
+    "long": 69.5703964233,
+    "name": "Wana "
+  },
+  "OPZB": {
+    "lat": 31.3584003448,
+    "long": 69.4636001587,
+    "name": "Zhob "
+  }
+}

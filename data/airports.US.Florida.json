@@ -1,0 +1,3122 @@
+{
+    "00FA": {
+        "lat": 28.6455001831,
+        "long": -82.21900177,
+        "name": "Grass Patch ",
+        "state": "Florida"
+    },
+    "00FL": {
+        "lat": 27.2308998108,
+        "long": -80.9692001343,
+        "name": "River Oak ",
+        "state": "Florida"
+    },
+    "01FA": {
+        "lat": 28.5893993378,
+        "long": -81.144203186,
+        "name": "Rybolt Ranch ",
+        "state": "Florida"
+    },
+    "01FL": {
+        "lat": 28.7819004059,
+        "long": -81.1592025757,
+        "name": "Cedar Knoll Flying Ranch ",
+        "state": "Florida"
+    },
+    "02FA": {
+        "lat": 28.5266990662,
+        "long": -81.8748016357,
+        "name": "Osborn Airfield",
+        "state": "Florida"
+    },
+    "02FL": {
+        "lat": 30.642778,
+        "long": -86.123889,
+        "name": "Cuchens ",
+        "state": "Florida"
+    },
+    "03FA": {
+        "lat": 27.353099823,
+        "long": -81.4080963135,
+        "name": "Lake Persimmon Airstrip",
+        "state": "Florida"
+    },
+    "03FD": {
+        "lat": 30.8288002014,
+        "long": -85.7310028076,
+        "name": "Tharpe ",
+        "state": "Florida"
+    },
+    "04FA": {
+        "lat": 25.5587005615,
+        "long": -80.5150985718,
+        "name": "Richards Field",
+        "state": "Florida"
+    },
+    "04FL": {
+        "lat": 29.2394008636,
+        "long": -81.2220001221,
+        "name": "Cross Creek Farms ",
+        "state": "Florida"
+    },
+    "05FA": {
+        "lat": 30.9188995361,
+        "long": -86.2182998657,
+        "name": "Melanie's ",
+        "state": "Florida"
+    },
+    "05FL": {
+        "lat": 26.5230998993,
+        "long": -81.4083023071,
+        "name": "Charlton Strip",
+        "state": "Florida"
+    },
+    "06FA": {
+        "lat": 26.9083995819,
+        "long": -80.3289031982,
+        "name": "William P Gwinn ",
+        "state": "Florida"
+    },
+    "06FD": {
+        "lat": 28.6417007446,
+        "long": -81.8850021362,
+        "name": "Grass Roots Airpark",
+        "state": "Florida"
+    },
+    "07FA": {
+        "lat": 25.3253993988,
+        "long": -80.2748031616,
+        "name": "Ocean Reef Club ",
+        "state": "Florida"
+    },
+    "07FD": {
+        "lat": 30.4179992676,
+        "long": -83.2837982178,
+        "name": "Flying G Ranch STOLport",
+        "state": "Florida"
+    },
+    "08FA": {
+        "lat": 26.5797996521,
+        "long": -81.4837036133,
+        "name": "Duda Airstrip",
+        "state": "Florida"
+    },
+    "08FD": {
+        "lat": 27.3631000519,
+        "long": -80.7727966309,
+        "name": "Sunniland Ranch ",
+        "state": "Florida"
+    },
+    "08FL": {
+        "lat": 27.0844993591,
+        "long": -81.3286972046,
+        "name": "J. H. Hendrie Farms ",
+        "state": "Florida"
+    },
+    "09FA": {
+        "lat": 27.2455997467,
+        "long": -81.4131011963,
+        "name": "Placid Lakes ",
+        "state": "Florida"
+    },
+    "09FD": {
+        "lat": 28.6711006165,
+        "long": -82.0873031616,
+        "name": "Cheryl-Lane Landings ",
+        "state": "Florida"
+    },
+    "09FL": {
+        "lat": 27.0555992126,
+        "long": -81.9705963135,
+        "name": "Sunnybreeze ",
+        "state": "Florida"
+    },
+    "0FA1": {
+        "lat": 27.303899765,
+        "long": -81.8804016113,
+        "name": "Frierson Grove ",
+        "state": "Florida"
+    },
+    "0FD0": {
+        "lat": 29.2674999237,
+        "long": -81.2301025391,
+        "name": "Big 'G' ",
+        "state": "Florida"
+    },
+    "0FD3": {
+        "lat": 30.4964008331,
+        "long": -86.0938034058,
+        "name": "Dugger Field",
+        "state": "Florida"
+    },
+    "0FD5": {
+        "lat": 30.8201999664,
+        "long": -86.3443984985,
+        "name": "Breezy Knoll ",
+        "state": "Florida"
+    },
+    "0FD9": {
+        "lat": 30.6520996094,
+        "long": -86.1093978882,
+        "name": "Joy Farms ",
+        "state": "Florida"
+    },
+    "0FL0": {
+        "lat": 26.7306003571,
+        "long": -81.1639022827,
+        "name": "Harper's Fly-In Ranch ",
+        "state": "Florida"
+    },
+    "0FL1": {
+        "lat": 29.9832992554,
+        "long": -82.8356018066,
+        "name": "Thompson Airfield",
+        "state": "Florida"
+    },
+    "0FL6": {
+        "lat": 27.8059005737,
+        "long": -82.1400985718,
+        "name": "Stanchester ",
+        "state": "Florida"
+    },
+    "0FL9": {
+        "lat": 26.3938999176,
+        "long": -81.0231018066,
+        "name": "Mc Daniel Ranch Inc. ",
+        "state": "Florida"
+    },
+    "10FA": {
+        "lat": 28.7975006104,
+        "long": -81.9358978271,
+        "name": "Flying Baron Estates ",
+        "state": "Florida"
+    },
+    "10FD": {
+        "lat": 29.0065994263,
+        "long": -82.4046020508,
+        "name": "Seven Feathers ",
+        "state": "Florida"
+    },
+    "11FA": {
+        "lat": 25.5837001801,
+        "long": -80.4998016357,
+        "name": "B & L Farms ",
+        "state": "Florida"
+    },
+    "11FL": {
+        "lat": 30.0429992676,
+        "long": -81.880897522,
+        "name": "Williams Field",
+        "state": "Florida"
+    },
+    "12FA": {
+        "lat": 28.4785995483,
+        "long": -81.7145004272,
+        "name": "Hi-Acres ",
+        "state": "Florida"
+    },
+    "13FA": {
+        "lat": 29.6944007874,
+        "long": -81.5137023926,
+        "name": "Earle Airpark",
+        "state": "Florida"
+    },
+    "14FA": {
+        "lat": 25.5701007843,
+        "long": -80.3998031616,
+        "name": "Burrs Strip",
+        "state": "Florida"
+    },
+    "14FD": {
+        "lat": 29.9491004944,
+        "long": -81.4904022217,
+        "name": "Sunshine Farms ",
+        "state": "Florida"
+    },
+    "14FL": {
+        "lat": 30.8654994965,
+        "long": -87.177696228,
+        "name": "Wells Flying Service ",
+        "state": "Florida"
+    },
+    "15FD": {
+        "lat": 30.6585006714,
+        "long": -85.5298995972,
+        "name": "Orange Hill ",
+        "state": "Florida"
+    },
+    "15FL": {
+        "lat": 30.1536998749,
+        "long": -82.6663970947,
+        "name": "Cannon Creek Airpark",
+        "state": "Florida"
+    },
+    "16FA": {
+        "lat": 26.0308990479,
+        "long": -81.0386962891,
+        "name": "Little Deer ",
+        "state": "Florida"
+    },
+    "16FD": {
+        "lat": 29.4050006866,
+        "long": -81.4959030151,
+        "name": "Skinners Wholesale Nursery ",
+        "state": "Florida"
+    },
+    "16FL": {
+        "lat": 30.7252006531,
+        "long": -87.2014007568,
+        "name": "J-22 Ranch ",
+        "state": "Florida"
+    },
+    "17FA": {
+        "lat": 26.7133998871,
+        "long": -81.5354003906,
+        "name": "Cotton Strip",
+        "state": "Florida"
+    },
+    "17FL": {
+        "lat": 29.2803001404,
+        "long": -82.1248016357,
+        "name": "Jumbolair-Greystone ",
+        "state": "Florida"
+    },
+    "18FA": {
+        "lat": 27.1028003693,
+        "long": -80.2934036255,
+        "name": "Tropical Plantation ",
+        "state": "Florida"
+    },
+    "18FD": {
+        "lat": 30.8540992737,
+        "long": -86.6671981812,
+        "name": "Sky Ranch ",
+        "state": "Florida"
+    },
+    "1FA1": {
+        "lat": 28.8558006287,
+        "long": -82.5525970459,
+        "name": "Post Oak Ranch ",
+        "state": "Florida"
+    },
+    "1FA3": {
+        "lat": 26.6562004089,
+        "long": -82.1212005615,
+        "name": "Pine Island ",
+        "state": "Florida"
+    },
+    "1FD0": {
+        "lat": 30.7154998779,
+        "long": -85.0243988037,
+        "name": "Lawrence ",
+        "state": "Florida"
+    },
+    "1FD2": {
+        "lat": 30.6194000244,
+        "long": -83.3040008545,
+        "name": "Bass Limited ",
+        "state": "Florida"
+    },
+    "1FD4": {
+        "lat": 26.445400238,
+        "long": -81.6072998047,
+        "name": "Corkscrew Trace Airpark",
+        "state": "Florida"
+    },
+    "1FL3": {
+        "lat": 30.0344009399,
+        "long": -82.7820968628,
+        "name": "Z Ranch ",
+        "state": "Florida"
+    },
+    "20FA": {
+        "lat": 27.3962001801,
+        "long": -80.9206008911,
+        "name": "Golden Land Ranch ",
+        "state": "Florida"
+    },
+    "20FD": {
+        "lat": 30.4255008698,
+        "long": -83.5759963989,
+        "name": "Pratt ",
+        "state": "Florida"
+    },
+    "20FL": {
+        "lat": 27.0426006317,
+        "long": -82.0437011719,
+        "name": "Lake Suzy Estates ",
+        "state": "Florida"
+    },
+    "21FA": {
+        "lat": 28.2982997894,
+        "long": -80.7186965942,
+        "name": "Rockledge ",
+        "state": "Florida"
+    },
+    "21FD": {
+        "lat": 30.6945991516,
+        "long": -85.310798645,
+        "name": "Land's Field",
+        "state": "Florida"
+    },
+    "21FL": {
+        "lat": 28.508600235,
+        "long": -81.8003005981,
+        "name": "Kings Field",
+        "state": "Florida"
+    },
+    "22FA": {
+        "lat": 27.3031005859,
+        "long": -82.2725982666,
+        "name": "Hidden River ",
+        "state": "Florida"
+    },
+    "22FL": {
+        "lat": 30.6019001007,
+        "long": -85.1399002075,
+        "name": "Farm Air Service ",
+        "state": "Florida"
+    },
+    "23FD": {
+        "lat": 27.5473003387,
+        "long": -80.6620025635,
+        "name": "Scott 2000 ",
+        "state": "Florida"
+    },
+    "23FL": {
+        "lat": 27.6844005585,
+        "long": -82.2442016602,
+        "name": "Gyro Town Usa STOLport",
+        "state": "Florida"
+    },
+    "24FL": {
+        "lat": 30.4899997711,
+        "long": -87.0858001709,
+        "name": "Garcon Field",
+        "state": "Florida"
+    },
+    "25FL": {
+        "lat": 28.6319007874,
+        "long": -82.1577987671,
+        "name": "Connell's Wahoo ",
+        "state": "Florida"
+    },
+    "26FD": {
+        "lat": 27.0512008667,
+        "long": -81.8480987549,
+        "name": "Hennessy ",
+        "state": "Florida"
+    },
+    "27FL": {
+        "lat": 30.9526996613,
+        "long": -85.4173965454,
+        "name": "Watson ",
+        "state": "Florida"
+    },
+    "28FL": {
+        "lat": 29.4419002533,
+        "long": -81.5830993652,
+        "name": "Jim Finlay Farm ",
+        "state": "Florida"
+    },
+    "2FA2": {
+        "lat": 29.0188999176,
+        "long": -82.1137008667,
+        "name": "Monroe Airpark",
+        "state": "Florida"
+    },
+    "2FA4": {
+        "lat": 26.3794994354,
+        "long": -80.945602417,
+        "name": "Southern Ranch ",
+        "state": "Florida"
+    },
+    "2FA5": {
+        "lat": 29.4722003937,
+        "long": -81.5719985962,
+        "name": "Thunderbird Air Park",
+        "state": "Florida"
+    },
+    "2FA6": {
+        "lat": 28.8111000061,
+        "long": -82.0653991699,
+        "name": "Freeflight International ",
+        "state": "Florida"
+    },
+    "2FA9": {
+        "lat": 30.336389,
+        "long": -83.783611,
+        "name": "Mount Olive Farm ",
+        "state": "Florida"
+    },
+    "2FD0": {
+        "lat": 29.9757995605,
+        "long": -82.9073028564,
+        "name": "Flints Flying Ranch ",
+        "state": "Florida"
+    },
+    "2FD1": {
+        "lat": 28.9755001068,
+        "long": -81.9187011719,
+        "name": "Hobby Hill STOLport",
+        "state": "Florida"
+    },
+    "2FD2": {
+        "lat": 29.47929955,
+        "long": -82.05329895,
+        "name": "Marjorie Kennan Rawlings ",
+        "state": "Florida"
+    },
+    "2FD6": {
+        "lat": 28.8880004883,
+        "long": -80.8664016724,
+        "name": "Highlander ",
+        "state": "Florida"
+    },
+    "2FD8": {
+        "lat": 29.5210990906,
+        "long": -81.6323013306,
+        "name": "Lib Field",
+        "state": "Florida"
+    },
+    "2FL0": {
+        "lat": 30.4568996429,
+        "long": -85.6859970093,
+        "name": "Crystal Village ",
+        "state": "Florida"
+    },
+    "2FL3": {
+        "lat": 30.6725997925,
+        "long": -85.0835037231,
+        "name": "Folsom ",
+        "state": "Florida"
+    },
+    "2FL8": {
+        "lat": 27.883600235,
+        "long": -81.3630981445,
+        "name": "Tiger Lake ",
+        "state": "Florida"
+    },
+    "31FA": {
+        "lat": 28.9591999054,
+        "long": -82.1342010498,
+        "name": "S & S Avion Ranch ",
+        "state": "Florida"
+    },
+    "31FL": {
+        "lat": 28.0433998108,
+        "long": -81.019203186,
+        "name": "Tedford Ranch ",
+        "state": "Florida"
+    },
+    "32FA": {
+        "lat": 27.2341995239,
+        "long": -80.9037017822,
+        "name": "Sunset Strip Airpark",
+        "state": "Florida"
+    },
+    "33FA": {
+        "lat": 27.5981006622,
+        "long": -80.8459014893,
+        "name": "Recreation Corporation ",
+        "state": "Florida"
+    },
+    "33FD": {
+        "lat": 29.9144001007,
+        "long": -83.2665023804,
+        "name": "R O Ranch STOLport",
+        "state": "Florida"
+    },
+    "33FL": {
+        "lat": 27.8608608246,
+        "long": -80.9998626709,
+        "name": "Flying S Ranch ",
+        "state": "Florida"
+    },
+    "34FD": {
+        "lat": 28.8572006226,
+        "long": -80.9069976807,
+        "name": "Blue Ridge Flightpark ",
+        "state": "Florida"
+    },
+    "34FL": {
+        "lat": 30.9654998779,
+        "long": -86.302696228,
+        "name": "Ellis Agricultural Field",
+        "state": "Florida"
+    },
+    "35FA": {
+        "lat": 29.4678993225,
+        "long": -82.1587982178,
+        "name": "Rimes Lakecrest ",
+        "state": "Florida"
+    },
+    "35FD": {
+        "lat": 29.6923007965,
+        "long": -82.7292022705,
+        "name": "Rush ",
+        "state": "Florida"
+    },
+    "37FL": {
+        "lat": 29.7185993195,
+        "long": -82.8445968628,
+        "name": "Flying Harness Farms ",
+        "state": "Florida"
+    },
+    "38FA": {
+        "lat": 30.483499527,
+        "long": -83.2499008179,
+        "name": "Blue Springs ",
+        "state": "Florida"
+    },
+    "39FA": {
+        "lat": 29.6625003815,
+        "long": -82.0093002319,
+        "name": "Sanders Ranch ",
+        "state": "Florida"
+    },
+    "39FD": {
+        "lat": 29.7294006348,
+        "long": -83.3535003662,
+        "name": "Ancient Oaks ",
+        "state": "Florida"
+    },
+    "3FD0": {
+        "lat": 27.0216999054,
+        "long": -81.4512023926,
+        "name": "Last Chance Ranch ",
+        "state": "Florida"
+    },
+    "3FD4": {
+        "lat": 28.6277999878,
+        "long": -81.8029022217,
+        "name": "Florida Flying Gators Ultralightport",
+        "state": "Florida"
+    },
+    "3FD6": {
+        "lat": 28.7642002106,
+        "long": -80.8538970947,
+        "name": "Tradewinds Aerodrome",
+        "state": "Florida"
+    },
+    "3FL0": {
+        "lat": 29.4361000061,
+        "long": -81.6567001343,
+        "name": "Mount Royal ",
+        "state": "Florida"
+    },
+    "3FL1": {
+        "lat": 28.4524993896,
+        "long": -82.2078018188,
+        "name": "Two J's Flying Ranch ",
+        "state": "Florida"
+    },
+    "3FL5": {
+        "lat": 27.7782993317,
+        "long": -80.9218978882,
+        "name": "Mills Ranch South ",
+        "state": "Florida"
+    },
+    "3FL8": {
+        "lat": 30.9463005066,
+        "long": -85.2738037109,
+        "name": "Hart ",
+        "state": "Florida"
+    },
+    "40FL": {
+        "lat": 26.885099411,
+        "long": -81.7511978149,
+        "name": "Fred Babcock ",
+        "state": "Florida"
+    },
+    "43FL": {
+        "lat": 28.9841995239,
+        "long": -81.8170013428,
+        "name": "Fly'N R Ranch ",
+        "state": "Florida"
+    },
+    "45FL": {
+        "lat": 30.2374000549,
+        "long": -82.90650177,
+        "name": "Moss Meadows ",
+        "state": "Florida"
+    },
+    "46FD": {
+        "lat": 29.6679992676,
+        "long": -81.4972991943,
+        "name": "Tater Farms Strip",
+        "state": "Florida"
+    },
+    "47FD": {
+        "lat": 26.6627998352,
+        "long": -81.7705993652,
+        "name": "Strayhorn Ranch ",
+        "state": "Florida"
+    },
+    "47FL": {
+        "lat": 28.9641990662,
+        "long": -81.7789993286,
+        "name": "Flying Exotics ",
+        "state": "Florida"
+    },
+    "48FL": {
+        "lat": 30.8141002655,
+        "long": -87.4749984741,
+        "name": "Mc Kinnon Airpark",
+        "state": "Florida"
+    },
+    "49FD": {
+        "lat": 30.611944,
+        "long": -84.641667,
+        "name": "Watson Farm ",
+        "state": "Florida"
+    },
+    "49FL": {
+        "lat": 30.9771003723,
+        "long": -87.4950027466,
+        "name": "Mike's Ag Air ",
+        "state": "Florida"
+    },
+    "4FA3": {
+        "lat": 26.6434001923,
+        "long": -82.1178970337,
+        "name": "Tranquility Bay Strip",
+        "state": "Florida"
+    },
+    "4FD2": {
+        "lat": 30.0538005829,
+        "long": -83.018699646,
+        "name": "Flying 'F' Farms ",
+        "state": "Florida"
+    },
+    "4FD3": {
+        "lat": 25.5153007507,
+        "long": -80.5134963989,
+        "name": "The Wright Place STOLport",
+        "state": "Florida"
+    },
+    "4FD7": {
+        "lat": 28.2063999176,
+        "long": -81.8279037476,
+        "name": "Flanders Field",
+        "state": "Florida"
+    },
+    "4FL0": {
+        "lat": 30.4036006927,
+        "long": -83.8099975586,
+        "name": "Turkey Scratch Plantation ",
+        "state": "Florida"
+    },
+    "4FL1": {
+        "lat": 27.8628005981,
+        "long": -80.9580993652,
+        "name": "Escape Ranch ",
+        "state": "Florida"
+    },
+    "4FL2": {
+        "lat": 28.5949993134,
+        "long": -82.1498031616,
+        "name": "Ko-Kee ",
+        "state": "Florida"
+    },
+    "4FL3": {
+        "lat": 27.7416992188,
+        "long": -80.6661987305,
+        "name": "Fellsmere ",
+        "state": "Florida"
+    },
+    "4FL4": {
+        "lat": 29.7782993317,
+        "long": -82.8904037476,
+        "name": "Darrah Air Park",
+        "state": "Florida"
+    },
+    "4FL5": {
+        "lat": 27.7572002411,
+        "long": -81.6006011963,
+        "name": "Ridge Landing ",
+        "state": "Florida"
+    },
+    "4FL6": {
+        "lat": 28.9377994537,
+        "long": -81.4737014771,
+        "name": "Royal Trails ",
+        "state": "Florida"
+    },
+    "4FL8": {
+        "lat": 27.3437004089,
+        "long": -82.3172988892,
+        "name": "Schwartz Farms Inc ",
+        "state": "Florida"
+    },
+    "4FL9": {
+        "lat": 28.1434001923,
+        "long": -81.6470031738,
+        "name": "Gore ",
+        "state": "Florida"
+    },
+    "50FD": {
+        "lat": 30.5181999207,
+        "long": -85.1987991333,
+        "name": "Cattle Creek Ranch ",
+        "state": "Florida"
+    },
+    "50FL": {
+        "lat": 30.8533000946,
+        "long": -87.239402771,
+        "name": "Odom's Flying Service ",
+        "state": "Florida"
+    },
+    "51FD": {
+        "lat": 28.6678009033,
+        "long": -81.9180984497,
+        "name": "Tex Merritt Private Airstrip",
+        "state": "Florida"
+    },
+    "51FL": {
+        "lat": 29.39489937,
+        "long": -82.86979675,
+        "name": "Chiefland Sky Ranch ",
+        "state": "Florida"
+    },
+    "52FA": {
+        "lat": 27.939611,
+        "long": -81.432028,
+        "name": "Bent Willies ",
+        "state": "Florida"
+    },
+    "52FL": {
+        "lat": 27.7502994537,
+        "long": -81.5595016479,
+        "name": "Lake Clinch Airpark",
+        "state": "Florida"
+    },
+    "53FD": {
+        "lat": 30.4775009155,
+        "long": -84.0346984863,
+        "name": "Charlotte's Field",
+        "state": "Florida"
+    },
+    "55FD": {
+        "lat": 30.8185005188,
+        "long": -86.68800354,
+        "name": "Dotson ",
+        "state": "Florida"
+    },
+    "56FD": {
+        "lat": 30.9645996094,
+        "long": -85.0693969727,
+        "name": "North American Farms ",
+        "state": "Florida"
+    },
+    "56FL": {
+        "lat": 30.8759994507,
+        "long": -87.2074966431,
+        "name": "Buchanan ",
+        "state": "Florida"
+    },
+    "57FA": {
+        "lat": 28.2085990906,
+        "long": -81.1192016602,
+        "name": "Lake X ",
+        "state": "Florida"
+    },
+    "57FD": {
+        "lat": 28.5396995544,
+        "long": -82.2288970947,
+        "name": "Sunset Strip Airpark",
+        "state": "Florida"
+    },
+    "58FD": {
+        "lat": 28.0142002106,
+        "long": -81.5406036377,
+        "name": "Southerly ",
+        "state": "Florida"
+    },
+    "59FD": {
+        "lat": 26.3202991486,
+        "long": -80.9878005981,
+        "name": "Big Cypress Airfield",
+        "state": "Florida"
+    },
+    "5FA1": {
+        "lat": 28.8780002594,
+        "long": -81.94090271,
+        "name": "Flying Palomino Ranch ",
+        "state": "Florida"
+    },
+    "5FD0": {
+        "lat": 29.4927005768,
+        "long": -82.9912033081,
+        "name": "Manatee Springs ",
+        "state": "Florida"
+    },
+    "5FD1": {
+        "lat": 30.432100296,
+        "long": -85.2888031006,
+        "name": "Ron Wood ",
+        "state": "Florida"
+    },
+    "5FD3": {
+        "lat": 30.608499527,
+        "long": -85.0913009644,
+        "name": "County Line Airstrip",
+        "state": "Florida"
+    },
+    "5FD5": {
+        "lat": 30.595500946,
+        "long": -84.981300354,
+        "name": "Able Airpark",
+        "state": "Florida"
+    },
+    "5FD7": {
+        "lat": 28.611700058,
+        "long": -82.3678970337,
+        "name": "Chinsegut ",
+        "state": "Florida"
+    },
+    "5FL0": {
+        "lat": 28.4130992889,
+        "long": -82.2233963013,
+        "name": "Dusty Airpatch ",
+        "state": "Florida"
+    },
+    "5FL1": {
+        "lat": 29.9032993317,
+        "long": -83.6079025269,
+        "name": "Ezell ",
+        "state": "Florida"
+    },
+    "5FL4": {
+        "lat": 29.8008003235,
+        "long": -81.5009002686,
+        "name": "Byrd Air Field",
+        "state": "Florida"
+    },
+    "5FL6": {
+        "lat": 30.6044006348,
+        "long": -84.7907028198,
+        "name": "Flat Creek ",
+        "state": "Florida"
+    },
+    "5FL7": {
+        "lat": 28.9780006409,
+        "long": -82.3637008667,
+        "name": "Twelve Oaks ",
+        "state": "Florida"
+    },
+    "5FL8": {
+        "lat": 30.8882007599,
+        "long": -85.1677017212,
+        "name": "Chipola Airpark",
+        "state": "Florida"
+    },
+    "5FL9": {
+        "lat": 30.7362995148,
+        "long": -86.2129974365,
+        "name": "Cedar Lane ",
+        "state": "Florida"
+    },
+    "62FL": {
+        "lat": 27.8444004059,
+        "long": -81.4396972656,
+        "name": "David Wine's Airstrip",
+        "state": "Florida"
+    },
+    "63FD": {
+        "lat": 29.6980991364,
+        "long": -82.4914016724,
+        "name": "Link Field",
+        "state": "Florida"
+    },
+    "64FA": {
+        "lat": 27.1427993774,
+        "long": -80.3377990723,
+        "name": "Naked Lady Ranch ",
+        "state": "Florida"
+    },
+    "66FD": {
+        "lat": 29.0035991669,
+        "long": -82.5552978516,
+        "name": "J.R.'s STOLport",
+        "state": "Florida"
+    },
+    "67FL": {
+        "lat": 27.4556007385,
+        "long": -82.1050033569,
+        "name": "Myakka Head ",
+        "state": "Florida"
+    },
+    "68FD": {
+        "lat": 30.5221996307,
+        "long": -85.376701355,
+        "name": "Maran ",
+        "state": "Florida"
+    },
+    "69FD": {
+        "lat": 30.8446998596,
+        "long": -86.2814025879,
+        "name": "Unicorn Place ",
+        "state": "Florida"
+    },
+    "69FL": {
+        "lat": 26.6772994995,
+        "long": -82.1364974976,
+        "name": "Eagle's Landing ",
+        "state": "Florida"
+    },
+    "6FD0": {
+        "lat": 29.5657997131,
+        "long": -82.8686981201,
+        "name": "Windy Acres ",
+        "state": "Florida"
+    },
+    "6FD2": {
+        "lat": 28.6669006348,
+        "long": -81.0845031738,
+        "name": "Big Oaks Ranch ",
+        "state": "Florida"
+    },
+    "6FD5": {
+        "lat": 27.7786006927,
+        "long": -81.0998001099,
+        "name": "Blanket Bay ",
+        "state": "Florida"
+    },
+    "6FD6": {
+        "lat": 28.9050006866,
+        "long": -81.4330978394,
+        "name": "Britt Brown & Porter Ranch ",
+        "state": "Florida"
+    },
+    "6FD7": {
+        "lat": 27.5442008972,
+        "long": -82.5300979614,
+        "name": "Thomson Airfield",
+        "state": "Florida"
+    },
+    "6FL0": {
+        "lat": 28.4057998657,
+        "long": -81.8378982544,
+        "name": "Seminole Lake Gliderport",
+        "state": "Florida"
+    },
+    "6FL2": {
+        "lat": 30.727399826,
+        "long": -84.9177017212,
+        "name": "Kilpatrick Farm ",
+        "state": "Florida"
+    },
+    "6FL3": {
+        "lat": 26.9372997284,
+        "long": -81.5670013428,
+        "name": "Payson Ranch ",
+        "state": "Florida"
+    },
+    "6FL4": {
+        "lat": 29.821100235,
+        "long": -83.5731964111,
+        "name": "Sylvanmir Farms ",
+        "state": "Florida"
+    },
+    "6FL8": {
+        "lat": 29.5874996185,
+        "long": -82.8712005615,
+        "name": "Ames Field",
+        "state": "Florida"
+    },
+    "6FL9": {
+        "lat": 29.6900005341,
+        "long": -82.8712005615,
+        "name": "Saw Whet Farms ",
+        "state": "Florida"
+    },
+    "72FL": {
+        "lat": 28.1575164795,
+        "long": -81.2347946167,
+        "name": "Gator Airpark",
+        "state": "Florida"
+    },
+    "73FD": {
+        "lat": 29.510799408,
+        "long": -82.8600997925,
+        "name": "Brookins Air Strip",
+        "state": "Florida"
+    },
+    "74FD": {
+        "lat": 30.464099884,
+        "long": -85.1771011353,
+        "name": "Clarksville ",
+        "state": "Florida"
+    },
+    "74FL": {
+        "lat": 30.5846004486,
+        "long": -83.707901001,
+        "name": "Jefferson Landings ",
+        "state": "Florida"
+    },
+    "75FL": {
+        "lat": 30.102399826,
+        "long": -85.4624023438,
+        "name": "Sandy Creek Airpark",
+        "state": "Florida"
+    },
+    "76FD": {
+        "lat": 30.6704998016,
+        "long": -84.414100647,
+        "name": "Peavy Farms ",
+        "state": "Florida"
+    },
+    "78FD": {
+        "lat": 25.5464992523,
+        "long": -80.4655990601,
+        "name": "Mac's Field",
+        "state": "Florida"
+    },
+    "78FL": {
+        "lat": 29.502199173,
+        "long": -81.5783996582,
+        "name": "Pomona Landing ",
+        "state": "Florida"
+    },
+    "79FD": {
+        "lat": 28.0419998169,
+        "long": -82.092300415,
+        "name": "Midway Lake ",
+        "state": "Florida"
+    },
+    "79FL": {
+        "lat": 29.5527000427,
+        "long": -82.8686981201,
+        "name": "Neal Field",
+        "state": "Florida"
+    },
+    "7FA1": {
+        "lat": 24.6487998962,
+        "long": -81.5798034668,
+        "name": "Sugar Loaf Shores ",
+        "state": "Florida"
+    },
+    "7FA8": {
+        "lat": 26.6956005096,
+        "long": -81.4906005859,
+        "name": "Berry Grove ",
+        "state": "Florida"
+    },
+    "7FD2": {
+        "lat": 28.9902992249,
+        "long": -82.3303985596,
+        "name": "Drake Ranch ",
+        "state": "Florida"
+    },
+    "7FD6": {
+        "lat": 26.6226005554,
+        "long": -80.3052978516,
+        "name": "Loxahatchee ",
+        "state": "Florida"
+    },
+    "7FD9": {
+        "lat": 30.6243991852,
+        "long": -83.2867965698,
+        "name": "Estherbrook Aerodrome",
+        "state": "Florida"
+    },
+    "7FL2": {
+        "lat": 30.2455005646,
+        "long": -82.778503418,
+        "name": "Wellborn STOLport",
+        "state": "Florida"
+    },
+    "7FL3": {
+        "lat": 27.4419994354,
+        "long": -80.584197998,
+        "name": "Adams Ranch ",
+        "state": "Florida"
+    },
+    "7FL4": {
+        "lat": 29.9029998779,
+        "long": -81.6858978271,
+        "name": "Haller Airpark",
+        "state": "Florida"
+    },
+    "7FL6": {
+        "lat": 29.0802001953,
+        "long": -81.0466995239,
+        "name": "Spruce Creek ",
+        "state": "Florida"
+    },
+    "7FL7": {
+        "lat": 29.8686008453,
+        "long": -82.6345977783,
+        "name": "Lazy S Farm ",
+        "state": "Florida"
+    },
+    "7FL8": {
+        "lat": 27.4438991547,
+        "long": -80.5651016235,
+        "name": "Dragonfly ",
+        "state": "Florida"
+    },
+    "80FD": {
+        "lat": 27.1133995056,
+        "long": -80.6333999634,
+        "name": "Brady Ranch ",
+        "state": "Florida"
+    },
+    "81FL": {
+        "lat": 27.0716991425,
+        "long": -80.5201034546,
+        "name": "Cox's Hammock ",
+        "state": "Florida"
+    },
+    "82FL": {
+        "lat": 26.9141998291,
+        "long": -80.2052993774,
+        "name": "Br Ranch ",
+        "state": "Florida"
+    },
+    "83FD": {
+        "lat": 27.5802993774,
+        "long": -80.8152999878,
+        "name": "Lake Montaza ",
+        "state": "Florida"
+    },
+    "83FL": {
+        "lat": 30.6187992096,
+        "long": -81.5336990356,
+        "name": "Nassau ",
+        "state": "Florida"
+    },
+    "85FA": {
+        "lat": 29.0949001312,
+        "long": -81.2776031494,
+        "name": "North Exuma ",
+        "state": "Florida"
+    },
+    "85FL": {
+        "lat": 30.9692993164,
+        "long": -87.0515975952,
+        "name": "Thomas Farms ",
+        "state": "Florida"
+    },
+    "86FD": {
+        "lat": 29.7646999359,
+        "long": -82.8964004517,
+        "name": "Country Landings ",
+        "state": "Florida"
+    },
+    "8FA4": {
+        "lat": 29.0102045831,
+        "long": -81.1328315735,
+        "name": "Samsula / Coe Field",
+        "state": "Florida"
+    },
+    "8FD1": {
+        "lat": 30.0988006592,
+        "long": -82.9275970459,
+        "name": "Buckner ",
+        "state": "Florida"
+    },
+    "8FD2": {
+        "lat": 29.7152004242,
+        "long": -82.0942993164,
+        "name": "The Flying Horseman ",
+        "state": "Florida"
+    },
+    "8FD3": {
+        "lat": 30.8777008057,
+        "long": -86.8544006348,
+        "name": "Blackwater Airfield",
+        "state": "Florida"
+    },
+    "8FD5": {
+        "lat": 27.1888999939,
+        "long": -81.0869979858,
+        "name": "Lykes Brighton ",
+        "state": "Florida"
+    },
+    "8FL0": {
+        "lat": 29.7280006409,
+        "long": -81.4397964478,
+        "name": "Hutson Airfield",
+        "state": "Florida"
+    },
+    "8FL1": {
+        "lat": 27.1970005035,
+        "long": -81.9156036377,
+        "name": "Mc Donald's Field",
+        "state": "Florida"
+    },
+    "8FL2": {
+        "lat": 29.0011005402,
+        "long": -82.1006011963,
+        "name": "Norton ",
+        "state": "Florida"
+    },
+    "8FL3": {
+        "lat": 29.0729999542,
+        "long": -81.99949646,
+        "name": "Back Achers ",
+        "state": "Florida"
+    },
+    "8FL6": {
+        "lat": 30.673500061,
+        "long": -86.8518981934,
+        "name": "George T Mc Cutchan ",
+        "state": "Florida"
+    },
+    "90FD": {
+        "lat": 27.1625003815,
+        "long": -81.5429000854,
+        "name": "Blue Head Ranch ",
+        "state": "Florida"
+    },
+    "90FL": {
+        "lat": 27.3612003326,
+        "long": -80.7609024048,
+        "name": "Paxton ",
+        "state": "Florida"
+    },
+    "92FL": {
+        "lat": 27.1205997467,
+        "long": -81.8498001099,
+        "name": "Carlstrom Field",
+        "state": "Florida"
+    },
+    "93FD": {
+        "lat": 30.7546005249,
+        "long": -87.1774978638,
+        "name": "Chumuckla 20-20 ",
+        "state": "Florida"
+    },
+    "93FL": {
+        "lat": 28.9447002411,
+        "long": -81.4080963135,
+        "name": "Pine Lakes Farm ",
+        "state": "Florida"
+    },
+    "94FL": {
+        "lat": 26.73279953,
+        "long": -81.8973007202,
+        "name": "Pine Shadows Airpark",
+        "state": "Florida"
+    },
+    "95FD": {
+        "lat": 26.7682991028,
+        "long": -81.5389022827,
+        "name": "South Point ",
+        "state": "Florida"
+    },
+    "96FD": {
+        "lat": 27.3334007263,
+        "long": -80.7361984253,
+        "name": "Citrus Hedging Ranch ",
+        "state": "Florida"
+    },
+    "96FL": {
+        "lat": 29.2425003052,
+        "long": -82.5454025269,
+        "name": "Wings Field",
+        "state": "Florida"
+    },
+    "97FL": {
+        "lat": 28.9619007111,
+        "long": -81.8915023804,
+        "name": "Love Field",
+        "state": "Florida"
+    },
+    "99FL": {
+        "lat": 30.4473991394,
+        "long": -83.3109970093,
+        "name": "Madison County ",
+        "state": "Florida"
+    },
+    "9FD2": {
+        "lat": 28.1369991302,
+        "long": -82.1464996338,
+        "name": "Blackwater Creek Ultralightport",
+        "state": "Florida"
+    },
+    "9FD5": {
+        "lat": 29.3866004944,
+        "long": -82.1428985596,
+        "name": "Thompson's Goinbroke Aero Ranch ",
+        "state": "Florida"
+    },
+    "9FD7": {
+        "lat": 30.196225,
+        "long": -83.309044,
+        "name": "Fort Atkinson Plantation Airpark",
+        "state": "Florida"
+    },
+    "9FD9": {
+        "lat": 30.1224002838,
+        "long": -82.9679031372,
+        "name": "Buddys Ag Service ",
+        "state": "Florida"
+    },
+    "9FL0": {
+        "lat": 30.0923995972,
+        "long": -83.0854034424,
+        "name": "Suwannee Belle ",
+        "state": "Florida"
+    },
+    "9FL1": {
+        "lat": 28.683599472,
+        "long": -82.1576004028,
+        "name": "Flying W Airranch ",
+        "state": "Florida"
+    },
+    "9FL2": {
+        "lat": 30.6525001526,
+        "long": -84.4747009277,
+        "name": "Saranac Farm ",
+        "state": "Florida"
+    },
+    "9FL5": {
+        "lat": 29.8141002655,
+        "long": -82.9256973267,
+        "name": "Shady Bend ",
+        "state": "Florida"
+    },
+    "9FL7": {
+        "lat": 25.8572998047,
+        "long": -81.0345001221,
+        "name": "Oasis Ranger Station-U.S. Government ",
+        "state": "Florida"
+    },
+    "9FL8": {
+        "lat": 30.6166000366,
+        "long": -83.6523971558,
+        "name": "Finlayson Farm ",
+        "state": "Florida"
+    },
+    "FA03": {
+        "lat": 27.6039009094,
+        "long": -82.1929016113,
+        "name": "Southfork ",
+        "state": "Florida"
+    },
+    "FA08": {
+        "lat": 28.1669998169,
+        "long": -81.8080978394,
+        "name": "Orlampa Inc ",
+        "state": "Florida"
+    },
+    "FA09": {
+        "lat": 29.3407993317,
+        "long": -82.2637023926,
+        "name": "Arliss M ",
+        "state": "Florida"
+    },
+    "FA11": {
+        "lat": 30.6224002838,
+        "long": -83.2593002319,
+        "name": "Bird Field",
+        "state": "Florida"
+    },
+    "FA18": {
+        "lat": 28.4510993958,
+        "long": -81.0002975464,
+        "name": "Devils Garden Strip",
+        "state": "Florida"
+    },
+    "FA24": {
+        "lat": 27.0932998657,
+        "long": -80.612197876,
+        "name": "Horseshoe Acres Airpark",
+        "state": "Florida"
+    },
+    "FA25": {
+        "lat": 30.50095,
+        "long": -84.0781,
+        "name": "Black Creek Pass ",
+        "state": "Florida"
+    },
+    "FA26": {
+        "lat": 30.5372009277,
+        "long": -84.4518966675,
+        "name": "Dogwood Farm ",
+        "state": "Florida"
+    },
+    "FA27": {
+        "lat": 27.2056007385,
+        "long": -81.7771987915,
+        "name": "Ellsworth Field",
+        "state": "Florida"
+    },
+    "FA29": {
+        "lat": 30.1308002472,
+        "long": -83.5494003296,
+        "name": "Lumar Field",
+        "state": "Florida"
+    },
+    "FA30": {
+        "lat": 29.2791996002,
+        "long": -82.5,
+        "name": "Redtail Airstrip",
+        "state": "Florida"
+    },
+    "FA32": {
+        "lat": 30.1033000946,
+        "long": -83.450302124,
+        "name": "Circle P ",
+        "state": "Florida"
+    },
+    "FA35": {
+        "lat": 25.6194992065,
+        "long": -80.4887008667,
+        "name": "Lindbergh's Landing ",
+        "state": "Florida"
+    },
+    "FA36": {
+        "lat": 29.5126991272,
+        "long": -82.8748016357,
+        "name": "White Farms ",
+        "state": "Florida"
+    },
+    "FA37": {
+        "lat": 26.1168003082,
+        "long": -81.7031021118,
+        "name": "Wing South Airpark",
+        "state": "Florida"
+    },
+    "FA38": {
+        "lat": 29.1236000061,
+        "long": -81.8870010376,
+        "name": "Woods and Lakes Airpark",
+        "state": "Florida"
+    },
+    "FA40": {
+        "lat": 28.2824993134,
+        "long": -82.6456985474,
+        "name": "Hidden Lake ",
+        "state": "Florida"
+    },
+    "FA42": {
+        "lat": 28.5328998566,
+        "long": -81.8467025757,
+        "name": "Sheets ",
+        "state": "Florida"
+    },
+    "FA43": {
+        "lat": 29.8085002899,
+        "long": -84.595703125,
+        "name": "Dog Island ",
+        "state": "Florida"
+    },
+    "FA44": {
+        "lat": 26.5480995178,
+        "long": -80.2147979736,
+        "name": "Willis Gliderport",
+        "state": "Florida"
+    },
+    "FA46": {
+        "lat": 28.633600235,
+        "long": -81.7080993652,
+        "name": "Henderson Field",
+        "state": "Florida"
+    },
+    "FA49": {
+        "lat": 29.0960998535,
+        "long": -82.1790008545,
+        "name": "Shady International ",
+        "state": "Florida"
+    },
+    "FA50": {
+        "lat": 29.3614006042,
+        "long": -82.1498031616,
+        "name": "Wings-N-Wheels ",
+        "state": "Florida"
+    },
+    "FA51": {
+        "lat": 26.7390003204,
+        "long": -81.5062026978,
+        "name": "William's Sky Manor ",
+        "state": "Florida"
+    },
+    "FA54": {
+        "lat": 26.8544998169,
+        "long": -82.2511978149,
+        "name": "Coral Creek ",
+        "state": "Florida"
+    },
+    "FA55": {
+        "lat": 30.7796993256,
+        "long": -85.7683029175,
+        "name": "Garnair ",
+        "state": "Florida"
+    },
+    "FA60": {
+        "lat": 27.238899231,
+        "long": -81.3859024048,
+        "name": "Vince's Condominium Association ",
+        "state": "Florida"
+    },
+    "FA62": {
+        "lat": 29.9169006348,
+        "long": -82.4832000732,
+        "name": "Santa Fe River Ranch ",
+        "state": "Florida"
+    },
+    "FA63": {
+        "lat": 28.9636001587,
+        "long": -81.1213989258,
+        "name": "Leffler ",
+        "state": "Florida"
+    },
+    "FA64": {
+        "lat": 27.0744991302,
+        "long": -81.5865020752,
+        "name": "Montgomery Ranch ",
+        "state": "Florida"
+    },
+    "FA69": {
+        "lat": 26.5877990723,
+        "long": -80.637298584,
+        "name": "Duda Airstrip",
+        "state": "Florida"
+    },
+    "FA71": {
+        "lat": 29.2280006409,
+        "long": -82.9437026978,
+        "name": "The Cedars Airfield",
+        "state": "Florida"
+    },
+    "FA72": {
+        "lat": 30.8862991333,
+        "long": -85.1638031006,
+        "name": "Acres of Diamonds Airpark",
+        "state": "Florida"
+    },
+    "FA74": {
+        "lat": 25.9808998108,
+        "long": -81.0567016602,
+        "name": "Romor Ranch ",
+        "state": "Florida"
+    },
+    "FA77": {
+        "lat": 27.3309001923,
+        "long": -82.2906036377,
+        "name": "Lowe's ",
+        "state": "Florida"
+    },
+    "FA80": {
+        "lat": 25.9680995941,
+        "long": -81.0814971924,
+        "name": "Lost Horn Ranch ",
+        "state": "Florida"
+    },
+    "FA81": {
+        "lat": 25.0086994171,
+        "long": -80.5330963135,
+        "name": "Tavernaero Park ",
+        "state": "Florida"
+    },
+    "FA83": {
+        "lat": 28.7264003754,
+        "long": -81.6509017944,
+        "name": "Orlando North Airpark",
+        "state": "Florida"
+    },
+    "FA88": {
+        "lat": 30.425042,
+        "long": -83.048469,
+        "name": "Pittman Oaks ",
+        "state": "Florida"
+    },
+    "FD01": {
+        "lat": 30.2796001434,
+        "long": -84.0487976074,
+        "name": "Hidden Acres Airpark",
+        "state": "Florida"
+    },
+    "FD02": {
+        "lat": 29.4850006104,
+        "long": -82.0220031738,
+        "name": "85th Avenue Airstrip",
+        "state": "Florida"
+    },
+    "FD03": {
+        "lat": 30.8001995087,
+        "long": -86.4355010986,
+        "name": "The Funny Farm ",
+        "state": "Florida"
+    },
+    "FD04": {
+        "lat": 29.0841007233,
+        "long": -82.0323028564,
+        "name": "Leeward Air Ranch ",
+        "state": "Florida"
+    },
+    "FD08": {
+        "lat": 26.4654006958,
+        "long": -80.1498031616,
+        "name": "Antiquers Aerodrome",
+        "state": "Florida"
+    },
+    "FD09": {
+        "lat": 27.8099994659,
+        "long": -80.8589019775,
+        "name": "Rlm Farms ",
+        "state": "Florida"
+    },
+    "FD14": {
+        "lat": 29.3752994537,
+        "long": -82.0580978394,
+        "name": "Paniola Air Ranch ",
+        "state": "Florida"
+    },
+    "FD15": {
+        "lat": 26.9794998169,
+        "long": -80.2186965942,
+        "name": "Tailwinds ",
+        "state": "Florida"
+    },
+    "FD16": {
+        "lat": 29.9657993317,
+        "long": -82.8728027344,
+        "name": "Flying C Farm ",
+        "state": "Florida"
+    },
+    "FD20": {
+        "lat": 26.8003005981,
+        "long": -81.4850997925,
+        "name": "Sundance Farms ",
+        "state": "Florida"
+    },
+    "FD22": {
+        "lat": 29.6669006348,
+        "long": -81.9551010132,
+        "name": "Melrose Landing ",
+        "state": "Florida"
+    },
+    "FD24": {
+        "lat": 27.221200943,
+        "long": -80.5205993652,
+        "name": "Southern Fruit Groves ",
+        "state": "Florida"
+    },
+    "FD25": {
+        "lat": 27.5625,
+        "long": -80.4998016357,
+        "name": "Fly In Ranches ",
+        "state": "Florida"
+    },
+    "FD26": {
+        "lat": 30.9818000793,
+        "long": -85.492401123,
+        "name": "Kirkland ",
+        "state": "Florida"
+    },
+    "FD27": {
+        "lat": 30.3626995087,
+        "long": -82.2261962891,
+        "name": "Cuyler Field",
+        "state": "Florida"
+    },
+    "FD29": {
+        "lat": 29.1308002472,
+        "long": -82.1193008423,
+        "name": "Flying Dutchman Ranch ",
+        "state": "Florida"
+    },
+    "FD30": {
+        "lat": 27.4113998413,
+        "long": -80.5261993408,
+        "name": "Southeastern ",
+        "state": "Florida"
+    },
+    "FD31": {
+        "lat": 29.9279994965,
+        "long": -82.7012023926,
+        "name": "Bradley ",
+        "state": "Florida"
+    },
+    "FD33": {
+        "lat": 28.2117004395,
+        "long": -81.9987030029,
+        "name": "Green Swamp Aerodrome",
+        "state": "Florida"
+    },
+    "FD35": {
+        "lat": 30.4904994965,
+        "long": -85.8394012451,
+        "name": "Redhead ",
+        "state": "Florida"
+    },
+    "FD37": {
+        "lat": 28.1371994019,
+        "long": -81.2633972168,
+        "name": "Gentry ",
+        "state": "Florida"
+    },
+    "FD38": {
+        "lat": 26.6464996338,
+        "long": -80.2941970825,
+        "name": "Wellington Aero Club ",
+        "state": "Florida"
+    },
+    "FD39": {
+        "lat": 27.1555995941,
+        "long": -80.6917037964,
+        "name": "Baggett Airpark",
+        "state": "Florida"
+    },
+    "FD40": {
+        "lat": 27.344499588,
+        "long": -81.7922973633,
+        "name": "Gardner ",
+        "state": "Florida"
+    },
+    "FD42": {
+        "lat": 30.21159935,
+        "long": -83.0546035767,
+        "name": "Cooksey Brothers ",
+        "state": "Florida"
+    },
+    "FD44": {
+        "lat": 29.4269444,
+        "long": -81.6041667,
+        "name": "Eagles Nest Aerodrome",
+        "state": "Florida"
+    },
+    "FD48": {
+        "lat": 30.2418994904,
+        "long": -81.449798584,
+        "name": "Deep Forest ",
+        "state": "Florida"
+    },
+    "FD49": {
+        "lat": 28.7735996246,
+        "long": -82.1304016113,
+        "name": "Montgomery's Flying M Ranch ",
+        "state": "Florida"
+    },
+    "FD50": {
+        "lat": 30.1091003418,
+        "long": -83.1886978149,
+        "name": "The Trails ",
+        "state": "Florida"
+    },
+    "FD51": {
+        "lat": 24.6588001251,
+        "long": -81.4414978027,
+        "name": "Summerland Key Cove ",
+        "state": "Florida"
+    },
+    "FD53": {
+        "lat": 28.4533004761,
+        "long": -82.2149963379,
+        "name": "Cub Haven STOLport",
+        "state": "Florida"
+    },
+    "FD55": {
+        "lat": 30.6793994904,
+        "long": -84.369102478,
+        "name": "Rutten Dusting Strip",
+        "state": "Florida"
+    },
+    "FD57": {
+        "lat": 27.4698009491,
+        "long": -80.4163970947,
+        "name": "Baggett STOLport",
+        "state": "Florida"
+    },
+    "FD59": {
+        "lat": 26.8694992065,
+        "long": -81.7175979614,
+        "name": "Babcock H.Q. ",
+        "state": "Florida"
+    },
+    "FD61": {
+        "lat": 30.1765995026,
+        "long": -82.9979019165,
+        "name": "Wright Farms ",
+        "state": "Florida"
+    },
+    "FD63": {
+        "lat": 30.5128002167,
+        "long": -83.1983032227,
+        "name": "Squires Aviation Ranch ",
+        "state": "Florida"
+    },
+    "FD68": {
+        "lat": 30.1979999542,
+        "long": -84.2535018921,
+        "name": "Wakulla Club ",
+        "state": "Florida"
+    },
+    "FD70": {
+        "lat": 27.3253002167,
+        "long": -81.0287017822,
+        "name": "River Acres ",
+        "state": "Florida"
+    },
+    "FD71": {
+        "lat": 30.04829979,
+        "long": -82.98390198,
+        "name": "O'Brien Airpark East/West ",
+        "state": "Florida"
+    },
+    "FD72": {
+        "lat": 27.182800293,
+        "long": -81.3906021118,
+        "name": "Kings Port ",
+        "state": "Florida"
+    },
+    "FD74": {
+        "lat": 28.0659008026,
+        "long": -80.9022979736,
+        "name": "Gamebird Groves Airstrip",
+        "state": "Florida"
+    },
+    "FD77": {
+        "lat": 27.7119998932,
+        "long": -82.2828979492,
+        "name": "Wimauma Air Park",
+        "state": "Florida"
+    },
+    "FD81": {
+        "lat": 29.7026996613,
+        "long": -82.4256973267,
+        "name": "Gleim Field",
+        "state": "Florida"
+    },
+    "FD82": {
+        "lat": 30.8404998779,
+        "long": -87.105796814,
+        "name": "Porter STOLport",
+        "state": "Florida"
+    },
+    "FD83": {
+        "lat": 28.258600235,
+        "long": -81.3840026855,
+        "name": "Stout ",
+        "state": "Florida"
+    },
+    "FD84": {
+        "lat": 30.1252002716,
+        "long": -82.6636962891,
+        "name": "Delta ",
+        "state": "Florida"
+    },
+    "FD86": {
+        "lat": 29.0303001404,
+        "long": -81.4469985962,
+        "name": "Deep Woods Ranch ",
+        "state": "Florida"
+    },
+    "FD88": {
+        "lat": 27.341999054,
+        "long": -80.5220031738,
+        "name": "Aero Acres ",
+        "state": "Florida"
+    },
+    "FD89": {
+        "lat": 30.8271007538,
+        "long": -87.3582992554,
+        "name": "Collier/Pine Barren Airpark",
+        "state": "Florida"
+    },
+    "FD90": {
+        "lat": 29.1686000824,
+        "long": -81.2648010254,
+        "name": "Lafayette Landings ",
+        "state": "Florida"
+    },
+    "FD92": {
+        "lat": 28.73279953,
+        "long": -81.0786972046,
+        "name": "Southerland Strip",
+        "state": "Florida"
+    },
+    "FD93": {
+        "lat": 30.6854991913,
+        "long": -86.7472000122,
+        "name": "Yellow River Airstrip",
+        "state": "Florida"
+    },
+    "FD94": {
+        "lat": 30.7189006805,
+        "long": -85.6066970825,
+        "name": "Hartzog Field",
+        "state": "Florida"
+    },
+    "FD96": {
+        "lat": 26.8325996399,
+        "long": -81.0801010132,
+        "name": "Hilliard's Private ",
+        "state": "Florida"
+    },
+    "FL00": {
+        "lat": 27.4188995361,
+        "long": -81.8326034546,
+        "name": "Griffins Peace River Ranch ",
+        "state": "Florida"
+    },
+    "FL01": {
+        "lat": 27.621099472,
+        "long": -81.6106033325,
+        "name": "Crews Homestead Ranch ",
+        "state": "Florida"
+    },
+    "FL02": {
+        "lat": 29.8894004822,
+        "long": -82.7986984253,
+        "name": "Fox Field",
+        "state": "Florida"
+    },
+    "FL03": {
+        "lat": 29.9918994904,
+        "long": -82.3665008545,
+        "name": "Department of Corrections Field",
+        "state": "Florida"
+    },
+    "FL05": {
+        "lat": 30.1755008698,
+        "long": -82.6064987183,
+        "name": "Hill Landing Strip",
+        "state": "Florida"
+    },
+    "FL06": {
+        "lat": 30.9029998779,
+        "long": -87.0438995361,
+        "name": "Golden Harvest Flying Svc Inc ",
+        "state": "Florida"
+    },
+    "FL07": {
+        "lat": 30.2502002716,
+        "long": -82.9240036011,
+        "name": "Wings N Sunsets LLC ",
+        "state": "Florida"
+    },
+    "FL08": {
+        "lat": 30.4155006409,
+        "long": -83.0165023804,
+        "name": "Florida Sheriffs Boys Ranch ",
+        "state": "Florida"
+    },
+    "FL09": {
+        "lat": 30.3388004303,
+        "long": -83.1443023682,
+        "name": "Kittyhawk Estates ",
+        "state": "Florida"
+    },
+    "FL10": {
+        "lat": 30.1149997711,
+        "long": -82.908996582,
+        "name": "Little River ",
+        "state": "Florida"
+    },
+    "FL11": {
+        "lat": 30.3493995667,
+        "long": -82.1209030151,
+        "name": "Thrifts ",
+        "state": "Florida"
+    },
+    "FL12": {
+        "lat": 30.5904998779,
+        "long": -84.0304031372,
+        "name": "Ingalls Field",
+        "state": "Florida"
+    },
+    "FL13": {
+        "lat": 30.0685997009,
+        "long": -81.9607009888,
+        "name": "Spencer's Airpark",
+        "state": "Florida"
+    },
+    "FL14": {
+        "lat": 30.7798995972,
+        "long": -85.5979995728,
+        "name": "Vosika's ",
+        "state": "Florida"
+    },
+    "FL15": {
+        "lat": 30.4202003479,
+        "long": -85.3004989624,
+        "name": "Steep Head Farm ",
+        "state": "Florida"
+    },
+    "FL16": {
+        "lat": 28.058599472,
+        "long": -81.8164978027,
+        "name": "Market World ",
+        "state": "Florida"
+    },
+    "FL17": {
+        "lat": 30.5195999146,
+        "long": -86.4383010864,
+        "name": "Ruckel ",
+        "state": "Florida"
+    },
+    "FL18": {
+        "lat": 30.0904998779,
+        "long": -83.0546035767,
+        "name": "Suwannee Farms ",
+        "state": "Florida"
+    },
+    "FL19": {
+        "lat": 29.245300293,
+        "long": -82.3536987305,
+        "name": "Crosswind Farm ",
+        "state": "Florida"
+    },
+    "FL23": {
+        "lat": 27.4974994659,
+        "long": -80.529800415,
+        "name": "Strazzulla Groves ",
+        "state": "Florida"
+    },
+    "FL27": {
+        "lat": 30.043800354,
+        "long": -82.6039962769,
+        "name": "Lake City Airpark",
+        "state": "Florida"
+    },
+    "FL28": {
+        "lat": 30.0557994843,
+        "long": -82.1723022461,
+        "name": "State Prison Field",
+        "state": "Florida"
+    },
+    "FL29": {
+        "lat": 27.3612003326,
+        "long": -80.5708999634,
+        "name": "Hales 700 ",
+        "state": "Florida"
+    },
+    "FL31": {
+        "lat": 25.554599762,
+        "long": -80.5539016724,
+        "name": "Mjd STOLport",
+        "state": "Florida"
+    },
+    "FL33": {
+        "lat": 29.6683006287,
+        "long": -82.8262023926,
+        "name": "Watson Flight Strip",
+        "state": "Florida"
+    },
+    "FL34": {
+        "lat": 30.6319007874,
+        "long": -86.7472000122,
+        "name": "Eglin Test Site B6 ",
+        "state": "Florida"
+    },
+    "FL35": {
+        "lat": 28.1749992371,
+        "long": -82.48777771,
+        "name": "Geraci Airpark",
+        "state": "Florida"
+    },
+    "FL36": {
+        "lat": 29.867472,
+        "long": -81.367361,
+        "name": "Tocoi ",
+        "state": "Florida"
+    },
+    "FL37": {
+        "lat": 27.2383995056,
+        "long": -80.4914016724,
+        "name": "Treasure Coast Airpark",
+        "state": "Florida"
+    },
+    "FL40": {
+        "lat": 26.8409004211,
+        "long": -81.1517028809,
+        "name": "Graham Landing Strip - Moore Haven ",
+        "state": "Florida"
+    },
+    "FL41": {
+        "lat": 26.581199646,
+        "long": -80.755897522,
+        "name": "Okeelanta ",
+        "state": "Florida"
+    },
+    "FL43": {
+        "lat": 28.2581005096,
+        "long": -81.9306030273,
+        "name": "Burntwood Ranch ",
+        "state": "Florida"
+    },
+    "FL46": {
+        "lat": 29.821178,
+        "long": -81.497058,
+        "name": "Bartram Farms Air Park",
+        "state": "Florida"
+    },
+    "FL47": {
+        "lat": 28.8924999237,
+        "long": -81.5569000244,
+        "name": "Ashley Field",
+        "state": "Florida"
+    },
+    "FL48": {
+        "lat": 28.8822002411,
+        "long": -82.4297027588,
+        "name": "Sierra Airpark",
+        "state": "Florida"
+    },
+    "FL50": {
+        "lat": 30.1466007233,
+        "long": -82.572303772,
+        "name": "Rossi Field",
+        "state": "Florida"
+    },
+    "FL52": {
+        "lat": 30.4810009,
+        "long": -84.08679962,
+        "name": "Angel's Field",
+        "state": "Florida"
+    },
+    "FL54": {
+        "lat": 29.9354991913,
+        "long": -82.410697937,
+        "name": "Flying Tiger Field",
+        "state": "Florida"
+    },
+    "FL56": {
+        "lat": 27.4088993073,
+        "long": -80.4278030396,
+        "name": "Williams Hawgwild ",
+        "state": "Florida"
+    },
+    "FL57": {
+        "lat": 28.6189002991,
+        "long": -81.5086975098,
+        "name": "Carter ",
+        "state": "Florida"
+    },
+    "FL58": {
+        "lat": 29.0263996124,
+        "long": -81.9878997803,
+        "name": "Johary ",
+        "state": "Florida"
+    },
+    "FL59": {
+        "lat": 26.6434001923,
+        "long": -81.7104034424,
+        "name": "Buckingham Field",
+        "state": "Florida"
+    },
+    "FL60": {
+        "lat": 29.9724998474,
+        "long": -81.6608963013,
+        "name": "Reynolds Airpark",
+        "state": "Florida"
+    },
+    "FL61": {
+        "lat": 29.0261001587,
+        "long": -82.2123031616,
+        "name": "Mc Ginley ",
+        "state": "Florida"
+    },
+    "FL62": {
+        "lat": 28.948600769,
+        "long": -81.4131011963,
+        "name": "Bradshaw Farm ",
+        "state": "Florida"
+    },
+    "FL63": {
+        "lat": 29.289100647,
+        "long": -82.322303772,
+        "name": "Idle Wild ",
+        "state": "Florida"
+    },
+    "FL65": {
+        "lat": 26.0447998047,
+        "long": -80.3733978271,
+        "name": "Mac-Ivor & Friends Airstrip",
+        "state": "Florida"
+    },
+    "FL66": {
+        "lat": 29.5597000122,
+        "long": -82.49949646,
+        "name": "Peach Orchard ",
+        "state": "Florida"
+    },
+    "FL67": {
+        "lat": 27.2777996063,
+        "long": -80.585899353,
+        "name": "Evans Properties Inc ",
+        "state": "Florida"
+    },
+    "FL73": {
+        "lat": 26.9477996826,
+        "long": -81.3187026978,
+        "name": "Lykes Palmdale ",
+        "state": "Florida"
+    },
+    "FL74": {
+        "lat": 27.5986003876,
+        "long": -80.5019989014,
+        "name": "Indian River Aerodrome",
+        "state": "Florida"
+    },
+    "FL75": {
+        "lat": 27.5419998169,
+        "long": -80.8330993652,
+        "name": "Indian Hammock ",
+        "state": "Florida"
+    },
+    "FL76": {
+        "lat": 28.9638996124,
+        "long": -82.2194976807,
+        "name": "Seven Springs Ranch ",
+        "state": "Florida"
+    },
+    "FL77": {
+        "lat": 26.0545005798,
+        "long": -81.0678024292,
+        "name": "Calusa Ranch ",
+        "state": "Florida"
+    },
+    "FL78": {
+        "lat": 27.8985996246,
+        "long": -82.1826019287,
+        "name": "Lewis ",
+        "state": "Florida"
+    },
+    "FL80": {
+        "lat": 29.3346996307,
+        "long": -82.1668014526,
+        "name": "Lee Farms ",
+        "state": "Florida"
+    },
+    "FL81": {
+        "lat": 30.7819004059,
+        "long": -86.4672012329,
+        "name": "Triple B Airpark",
+        "state": "Florida"
+    },
+    "FL82": {
+        "lat": 29.580536,
+        "long": -81.861181,
+        "name": "Oak Ridge ",
+        "state": "Florida"
+    },
+    "FL84": {
+        "lat": 30.6011009216,
+        "long": -81.5703964233,
+        "name": "Flying-A-Ranch ",
+        "state": "Florida"
+    },
+    "FL86": {
+        "lat": 26.5825996399,
+        "long": -82.0983963013,
+        "name": "Woodstock ",
+        "state": "Florida"
+    },
+    "FL88": {
+        "lat": 26.6837005615,
+        "long": -81.449798584,
+        "name": "Bob Paul ",
+        "state": "Florida"
+    },
+    "FL89": {
+        "lat": 27.5541992188,
+        "long": -80.4397964478,
+        "name": "Triple M ",
+        "state": "Florida"
+    },
+    "FL90": {
+        "lat": 26.6033992767,
+        "long": -82.2201004028,
+        "name": "Salty Approach ",
+        "state": "Florida"
+    },
+    "FL91": {
+        "lat": 26.3097991943,
+        "long": -81.2273025513,
+        "name": "Hendry Correctional Institution ",
+        "state": "Florida"
+    },
+    "FL95": {
+        "lat": 27.7085990906,
+        "long": -80.452796936,
+        "name": "Broocke Air Patch ",
+        "state": "Florida"
+    },
+    "FL96": {
+        "lat": 30.9556999207,
+        "long": -87.1305007935,
+        "name": "Jay ",
+        "state": "Florida"
+    },
+    "FL97": {
+        "lat": 28.7602996826,
+        "long": -81.6059036255,
+        "name": "Tangerine ",
+        "state": "Florida"
+    },
+    "FL99": {
+        "lat": 28.8761005402,
+        "long": -81.888999939,
+        "name": "Flying-H ",
+        "state": "Florida"
+    },
+    "K1J0": {
+        "lat": 30.8458003998,
+        "long": -85.6014022827,
+        "name": "Tri-County ",
+        "state": "Florida"
+    },
+    "K1J6": {
+        "lat": 29.1044006348,
+        "long": -81.3136978149,
+        "name": "Bob Lee Flight Strip",
+        "state": "Florida"
+    },
+    "K24J": {
+        "lat": 30.3001003265,
+        "long": -83.0246963501,
+        "name": "Suwannee County ",
+        "state": "Florida"
+    },
+    "K28J": {
+        "lat": 29.65859985,
+        "long": -81.68890381,
+        "name": "Palatka Municipal - Lt. Kay Larkin Field",
+        "state": "Florida"
+    },
+    "K2CB": {
+        "lat": 29.9524993896,
+        "long": -81.9796981812,
+        "name": "Camp Blanding Army Air Field/NG Airfield",
+        "state": "Florida"
+    },
+    "K2IS": {
+        "lat": 26.7420005798,
+        "long": -81.0497970581,
+        "name": "Airglades ",
+        "state": "Florida"
+    },
+    "K2R4": {
+        "lat": 30.6375999451,
+        "long": -86.9936981201,
+        "name": "Peter Prince Field",
+        "state": "Florida"
+    },
+    "K2RR": {
+        "lat": 27.7821998596,
+        "long": -81.2052993774,
+        "name": "River Ranch Resort ",
+        "state": "Florida"
+    },
+    "K40J": {
+        "lat": 30.0692997,
+        "long": -83.58059692,
+        "name": "Perry Foley ",
+        "state": "Florida"
+    },
+    "K54J": {
+        "lat": 30.731300354,
+        "long": -86.1516036987,
+        "name": "Defuniak Springs ",
+        "state": "Florida"
+    },
+    "K68J": {
+        "lat": 30.5473003387,
+        "long": -84.3738021851,
+        "name": "Tallahassee Commercial ",
+        "state": "Florida"
+    },
+    "K82J": {
+        "lat": 30.3987998962,
+        "long": -87.3486022949,
+        "name": "Ferguson ",
+        "state": "Florida"
+    },
+    "KAAF": {
+        "lat": 29.72750092,
+        "long": -85.02749634,
+        "name": "Apalachicola Regional ",
+        "state": "Florida"
+    },
+    "KAGR": {
+        "lat": 27.6506004333,
+        "long": -81.3494033813,
+        "name": "MacDill Air Force Base Auxiliary Field",
+        "state": "Florida"
+    },
+    "KAPF": {
+        "lat": 26.1525993347,
+        "long": -81.7752990723,
+        "name": "Naples Municipal ",
+        "state": "Florida"
+    },
+    "KAVO": {
+        "lat": 27.59119987,
+        "long": -81.52780151,
+        "name": "Avon Park Executive ",
+        "state": "Florida"
+    },
+    "KBCT": {
+        "lat": 26.3784999847,
+        "long": -80.1076965332,
+        "name": "Boca Raton ",
+        "state": "Florida"
+    },
+    "KBKV": {
+        "lat": 28.47360039,
+        "long": -82.45539856,
+        "name": "Hernando County ",
+        "state": "Florida"
+    },
+    "KBOW": {
+        "lat": 27.9433994293,
+        "long": -81.7834014893,
+        "name": "Bartow Municipal ",
+        "state": "Florida"
+    },
+    "KCDK": {
+        "lat": 29.1352567648,
+        "long": -83.0483901501,
+        "name": "George T Lewis ",
+        "state": "Florida"
+    },
+    "KCEW": {
+        "lat": 30.778799057,
+        "long": -86.522102356,
+        "name": "Bob Sikes ",
+        "state": "Florida"
+    },
+    "KCGC": {
+        "lat": 28.8673000336,
+        "long": -82.5712966919,
+        "name": "Crystal River ",
+        "state": "Florida"
+    },
+    "KCHN": {
+        "lat": 27.5149002075,
+        "long": -81.8805007935,
+        "name": "Wauchula Municipal ",
+        "state": "Florida"
+    },
+    "KCLW": {
+        "lat": 27.9766998291,
+        "long": -82.7586975098,
+        "name": "Clearwater Air Park",
+        "state": "Florida"
+    },
+    "KCOF": {
+        "lat": 28.2348995209,
+        "long": -80.6100997925,
+        "name": "Patrick Air Force Base",
+        "state": "Florida"
+    },
+    "KCOI": {
+        "lat": 28.3416004181,
+        "long": -80.6855010986,
+        "name": "Merritt Island ",
+        "state": "Florida"
+    },
+    "KCRG": {
+        "lat": 30.3362998962,
+        "long": -81.5143966675,
+        "name": "Craig Municipal ",
+        "state": "Florida"
+    },
+    "KCTY": {
+        "lat": 29.6354999542,
+        "long": -83.1047973633,
+        "name": "Cross City ",
+        "state": "Florida"
+    },
+    "KDAB": {
+        "lat": 29.1798992157,
+        "long": -81.0580978394,
+        "name": "Daytona Beach International ",
+        "state": "Florida"
+    },
+    "KDED": {
+        "lat": 29.06699944,
+        "long": -81.28379822,
+        "name": "Deland Municipal Sidney H Taylor Field",
+        "state": "Florida"
+    },
+    "KDTS": {
+        "lat": 30.40010071,
+        "long": -86.47149658,
+        "name": "Destin Fort Walton Beach ",
+        "state": "Florida"
+    },
+    "KECP": {
+        "lat": 30.3417,
+        "long": -85.7973,
+        "name": "Northwest Florida Beaches International ",
+        "state": "Florida"
+    },
+    "KEGI": {
+        "lat": 30.65040016,
+        "long": -86.52290344,
+        "name": "Duke Field(Eglin Af Aux Nr 3) ",
+        "state": "Florida"
+    },
+    "KEVB": {
+        "lat": 29.0557003021,
+        "long": -80.9488983154,
+        "name": "New Smyrna Beach Municipal ",
+        "state": "Florida"
+    },
+    "KEYW": {
+        "lat": 24.5561008453,
+        "long": -81.7595977783,
+        "name": "Key West International ",
+        "state": "Florida"
+    },
+    "KF45": {
+        "lat": 26.84440041,
+        "long": -80.22129822,
+        "name": "North Palm Beach County General Aviation ",
+        "state": "Florida"
+    },
+    "KF47": {
+        "lat": 29.6459999084,
+        "long": -84.9166030884,
+        "name": "St George Island ",
+        "state": "Florida"
+    },
+    "KFHB": {
+        "lat": 30.6117992401,
+        "long": -81.4611968994,
+        "name": "Fernandina Beach Municipal ",
+        "state": "Florida"
+    },
+    "KFLL": {
+        "lat": 26.072599411,
+        "long": -80.1527023315,
+        "name": "Fort Lauderdale Hollywood International ",
+        "state": "Florida"
+    },
+    "KFMY": {
+        "lat": 26.58659935,
+        "long": -81.8632965088,
+        "name": "Page Field",
+        "state": "Florida"
+    },
+    "KFPR": {
+        "lat": 27.49510002,
+        "long": -80.36830139,
+        "name": "St Lucie County International ",
+        "state": "Florida"
+    },
+    "KFXE": {
+        "lat": 26.1972999573,
+        "long": -80.1707000732,
+        "name": "Fort Lauderdale Executive ",
+        "state": "Florida"
+    },
+    "KGIF": {
+        "lat": 28.06290054,
+        "long": -81.75330353,
+        "name": "Winter Haven's Gilbert ",
+        "state": "Florida"
+    },
+    "KGNV": {
+        "lat": 29.6900997162,
+        "long": -82.2717971802,
+        "name": "Gainesville Regional ",
+        "state": "Florida"
+    },
+    "KHEG": {
+        "lat": 30.2777996063,
+        "long": -81.8059005737,
+        "name": "Herlong ",
+        "state": "Florida"
+    },
+    "KHRT": {
+        "lat": 30.4277992249,
+        "long": -86.6893005371,
+        "name": "Hurlburt Field",
+        "state": "Florida"
+    },
+    "KHST": {
+        "lat": 25.48859978,
+        "long": -80.38359833,
+        "name": "Homestead ARB ",
+        "state": "Florida"
+    },
+    "KHWO": {
+        "lat": 26.0011997223,
+        "long": -80.2406997681,
+        "name": "North Perry ",
+        "state": "Florida"
+    },
+    "KIMM": {
+        "lat": 26.43320084,
+        "long": -81.40100098,
+        "name": "Immokalee Regional ",
+        "state": "Florida"
+    },
+    "KISM": {
+        "lat": 28.2898006439,
+        "long": -81.4371032715,
+        "name": "Kissimmee Gateway ",
+        "state": "Florida"
+    },
+    "KJAX": {
+        "lat": 30.4941005707,
+        "long": -81.6878967285,
+        "name": "Jacksonville International ",
+        "state": "Florida"
+    },
+    "KLAL": {
+        "lat": 27.988899231,
+        "long": -82.0186004639,
+        "name": "Lakeland Linder Regional ",
+        "state": "Florida"
+    },
+    "KLCQ": {
+        "lat": 30.1819992065,
+        "long": -82.5768966675,
+        "name": "Lake City Municipal ",
+        "state": "Florida"
+    },
+    "KLEE": {
+        "lat": 28.82309914,
+        "long": -81.80870056,
+        "name": "Leesburg International ",
+        "state": "Florida"
+    },
+    "KLNA": {
+        "lat": 26.59300041,
+        "long": -80.08509827,
+        "name": "Palm Beach County Park ",
+        "state": "Florida"
+    },
+    "KLOM": {
+        "lat": 40.1375007629,
+        "long": -75.2650985718,
+        "name": "Wings Field",
+        "state": "Florida"
+    },
+    "KMAI": {
+        "lat": 30.8377990723,
+        "long": -85.1819000244,
+        "name": "Marianna Municipal ",
+        "state": "Florida"
+    },
+    "KMCF": {
+        "lat": 27.84930038,
+        "long": -82.52120209,
+        "name": "MacDill Air Force Base",
+        "state": "Florida"
+    },
+    "KMCO": {
+        "lat": 28.4293994904,
+        "long": -81.3089981079,
+        "name": "Orlando International ",
+        "state": "Florida"
+    },
+    "KMIA": {
+        "lat": 25.7931995392,
+        "long": -80.2906036377,
+        "name": "Miami International ",
+        "state": "Florida"
+    },
+    "KMKO": {
+        "lat": 35.65650177,
+        "long": -95.36669922,
+        "name": "Davis Field",
+        "state": "Florida"
+    },
+    "KMKY": {
+        "lat": 25.9950008392,
+        "long": -81.6725006104,
+        "name": "Marco Island ",
+        "state": "Florida"
+    },
+    "KMLB": {
+        "lat": 28.1028003693,
+        "long": -80.6453018188,
+        "name": "Melbourne International ",
+        "state": "Florida"
+    },
+    "KMTH": {
+        "lat": 24.72610092,
+        "long": -81.05139923,
+        "name": "The Florida Keys Marathon ",
+        "state": "Florida"
+    },
+    "KNDZ": {
+        "lat": 30.7043991089,
+        "long": -87.0230026245,
+        "name": "Whiting Field Naval Air Station South ",
+        "state": "Florida"
+    },
+    "KNEN": {
+        "lat": 30.3539009094,
+        "long": -81.8719024658,
+        "name": "Whitehouse Nolf ",
+        "state": "Florida"
+    },
+    "KNFJ": {
+        "lat": 30.5069007874,
+        "long": -86.9597015381,
+        "name": "Choctaw Nolf ",
+        "state": "Florida"
+    },
+    "KNGS": {
+        "lat": 30.6107997894,
+        "long": -86.9400024414,
+        "name": "Santa Rosa Nolf ",
+        "state": "Florida"
+    },
+    "KNIP": {
+        "lat": 30.23579979,
+        "long": -81.68060303,
+        "name": "Jacksonville Naval Air Station",
+        "state": "Florida"
+    },
+    "KNKL": {
+        "lat": 30.4253005981,
+        "long": -86.8938980103,
+        "name": "Holley Nolf ",
+        "state": "Florida"
+    },
+    "KNPA": {
+        "lat": 30.35269928,
+        "long": -87.31860352,
+        "name": "Pensacola Naval Air Station/Forrest Sherman field",
+        "state": "Florida"
+    },
+    "KNQX": {
+        "lat": 24.57579994,
+        "long": -81.68890381,
+        "name": "Key West Nas /Boca Chica Field/ ",
+        "state": "Florida"
+    },
+    "KNRB": {
+        "lat": 30.39109993,
+        "long": -81.42469788,
+        "name": "Mayport Ns (Adm David L. Mcdonald Field) ",
+        "state": "Florida"
+    },
+    "KNRQ": {
+        "lat": 30.6252994537,
+        "long": -87.1399993896,
+        "name": "Spencer Nolf ",
+        "state": "Florida"
+    },
+    "KNSE": {
+        "lat": 30.7241993,
+        "long": -87.02189636,
+        "name": "Whiting Field Naval Air Station North ",
+        "state": "Florida"
+    },
+    "KNUN": {
+        "lat": 30.4696998596,
+        "long": -87.3380966187,
+        "name": "Saufley Field Nolf ",
+        "state": "Florida"
+    },
+    "KOBE": {
+        "lat": 27.2628002167,
+        "long": -80.8498001099,
+        "name": "Okeechobee County ",
+        "state": "Florida"
+    },
+    "KOCF": {
+        "lat": 29.17259979,
+        "long": -82.22419739,
+        "name": "Ocala International Jim Taylor Field",
+        "state": "Florida"
+    },
+    "KOMN": {
+        "lat": 29.3006000519,
+        "long": -81.1136016846,
+        "name": "Ormond Beach Municipal ",
+        "state": "Florida"
+    },
+    "KOPF": {
+        "lat": 25.90699959,
+        "long": -80.27839661,
+        "name": "Opa-locka Executive ",
+        "state": "Florida"
+    },
+    "KORL": {
+        "lat": 28.5454998016,
+        "long": -81.332901001,
+        "name": "Orlando Executive ",
+        "state": "Florida"
+    },
+    "KPAM": {
+        "lat": 30.0695991516,
+        "long": -85.5754013062,
+        "name": "Tyndall Air Force Base",
+        "state": "Florida"
+    },
+    "KPBI": {
+        "lat": 26.6832008362,
+        "long": -80.0955963135,
+        "name": "Palm Beach International ",
+        "state": "Florida"
+    },
+    "KPCM": {
+        "lat": 28.00020027,
+        "long": -82.16419983,
+        "name": "Plant City Municipal ",
+        "state": "Florida"
+    },
+    "KPFN": {
+        "lat": 30.2120990753,
+        "long": -85.682800293,
+        "name": "Panama City-Bay Co International ",
+        "state": "Florida"
+    },
+    "KPGD": {
+        "lat": 26.92020035,
+        "long": -81.9905014,
+        "name": "Charlotte County ",
+        "state": "Florida"
+    },
+    "KPHK": {
+        "lat": 26.78499985,
+        "long": -80.69339752,
+        "name": "Palm Beach Co Glades ",
+        "state": "Florida"
+    },
+    "KPIE": {
+        "lat": 27.91020012,
+        "long": -82.68740082,
+        "name": "St Petersburg Clearwater International ",
+        "state": "Florida"
+    },
+    "KPMP": {
+        "lat": 26.2471008301,
+        "long": -80.1110992432,
+        "name": "Pompano Beach Airpark",
+        "state": "Florida"
+    },
+    "KPNS": {
+        "lat": 30.473400116,
+        "long": -87.1865997314,
+        "name": "Pensacola Regional ",
+        "state": "Florida"
+    },
+    "KRSW": {
+        "lat": 26.5361995697,
+        "long": -81.7552032471,
+        "name": "Southwest Florida International ",
+        "state": "Florida"
+    },
+    "KSEF": {
+        "lat": 27.45639992,
+        "long": -81.3423996,
+        "name": "Sebring Regional ",
+        "state": "Florida"
+    },
+    "KSFB": {
+        "lat": 28.7775993347,
+        "long": -81.2375030518,
+        "name": "Orlando Sanford International ",
+        "state": "Florida"
+    },
+    "KSGJ": {
+        "lat": 29.9591999054,
+        "long": -81.3397979736,
+        "name": "St Augustine ",
+        "state": "Florida"
+    },
+    "KSPG": {
+        "lat": 27.7651004791,
+        "long": -82.6269989014,
+        "name": "Albert Whitted ",
+        "state": "Florida"
+    },
+    "KSRQ": {
+        "lat": 27.3953990936,
+        "long": -82.554397583,
+        "name": "Sarasota Bradenton International ",
+        "state": "Florida"
+    },
+    "KSUA": {
+        "lat": 27.18169975,
+        "long": -80.22109985,
+        "name": "Witham Field",
+        "state": "Florida"
+    },
+    "KTIX": {
+        "lat": 28.514799118,
+        "long": -80.7992019653,
+        "name": "Space Coast Regional ",
+        "state": "Florida"
+    },
+    "KTLH": {
+        "lat": 30.3964996338,
+        "long": -84.3503036499,
+        "name": "Tallahassee Regional ",
+        "state": "Florida"
+    },
+    "KTNT": {
+        "lat": 25.8617992401,
+        "long": -80.8970031738,
+        "name": "Dade Collier Training and Transition ",
+        "state": "Florida"
+    },
+    "KTPA": {
+        "lat": 27.9755001068,
+        "long": -82.533203125,
+        "name": "Tampa International ",
+        "state": "Florida"
+    },
+    "KTPF": {
+        "lat": 27.915599823,
+        "long": -82.4493026733,
+        "name": "Peter O Knight ",
+        "state": "Florida"
+    },
+    "KTTS": {
+        "lat": 28.6149997711,
+        "long": -80.6945037842,
+        "name": "Nasa Shuttle Landing Facility ",
+        "state": "Florida"
+    },
+    "KUVA": {
+        "lat": 29.2112998962,
+        "long": -99.743598938,
+        "name": "Garner Field",
+        "state": "Florida"
+    },
+    "KVDF": {
+        "lat": 28.013999939,
+        "long": -82.3452987671,
+        "name": "Tampa Executive ",
+        "state": "Florida"
+    },
+    "KVNC": {
+        "lat": 27.0715999603,
+        "long": -82.4402999878,
+        "name": "Venice Municipal ",
+        "state": "Florida"
+    },
+    "KVPS": {
+        "lat": 30.4832000732,
+        "long": -86.5253982544,
+        "name": "Eglin Air Force Base",
+        "state": "Florida"
+    },
+    "KVQQ": {
+        "lat": 30.2187004089,
+        "long": -81.876701355,
+        "name": "Cecil Field",
+        "state": "Florida"
+    },
+    "KVRB": {
+        "lat": 27.6555995941,
+        "long": -80.4179000854,
+        "name": "Vero Beach Municipal ",
+        "state": "Florida"
+    },
+    "KX04": {
+        "lat": 28.7071990967,
+        "long": -81.581703186,
+        "name": "Orlando Apopka ",
+        "state": "Florida"
+    },
+    "KX05": {
+        "lat": 28.3302993774,
+        "long": -82.4964981079,
+        "name": "Pilot Country ",
+        "state": "Florida"
+    },
+    "KX06": {
+        "lat": 27.1919994354,
+        "long": -81.8373031616,
+        "name": "Arcadia Municipal ",
+        "state": "Florida"
+    },
+    "KX07": {
+        "lat": 27.8938007355,
+        "long": -81.6203994751,
+        "name": "Lake Wales Municipal ",
+        "state": "Florida"
+    },
+    "KX10": {
+        "lat": 26.7008991241,
+        "long": -80.6623001099,
+        "name": "Belle Glade State Municipal ",
+        "state": "Florida"
+    },
+    "KX13": {
+        "lat": 29.8421993256,
+        "long": -84.7009963989,
+        "name": "Carrabelle Thompson ",
+        "state": "Florida"
+    },
+    "KX21": {
+        "lat": 28.6222991943,
+        "long": -80.8357009888,
+        "name": "Arthur Dunn Air Park",
+        "state": "Florida"
+    },
+    "KX26": {
+        "lat": 27.8125991821,
+        "long": -80.4959030151,
+        "name": "Sebastian Municipal ",
+        "state": "Florida"
+    },
+    "KX39": {
+        "lat": 28.2213001251,
+        "long": -82.37449646,
+        "name": "Tampa North Aero Park ",
+        "state": "Florida"
+    },
+    "KX49": {
+        "lat": 27.9333992004,
+        "long": -82.0439987183,
+        "name": "South Lakeland ",
+        "state": "Florida"
+    },
+    "KX50": {
+        "lat": 28.9789009094,
+        "long": -80.9251022339,
+        "name": "Massey Ranch Airpark",
+        "state": "Florida"
+    },
+    "KX58": {
+        "lat": 27.0363998413,
+        "long": -80.4401016235,
+        "name": "Indiantown ",
+        "state": "Florida"
+    },
+    "KX59": {
+        "lat": 27.96199989,
+        "long": -80.55979919,
+        "name": "Valkaria ",
+        "state": "Florida"
+    },
+    "KX60": {
+        "lat": 29.3542003632,
+        "long": -82.4729003906,
+        "name": "Williston Municipal ",
+        "state": "Florida"
+    },
+    "KXFL": {
+        "lat": 29.4673996,
+        "long": -81.20629883,
+        "name": "Flagler County ",
+        "state": "Florida"
+    },
+    "KXMR": {
+        "lat": 28.4675998688,
+        "long": -80.5665969849,
+        "name": "Cape Canaveral AFS Skid Strip",
+        "state": "Florida"
+    },
+    "KZ01": {
+        "lat": 30.6336994171,
+        "long": -86.7426986694,
+        "name": "Eglin Auxiliary Field 6 ",
+        "state": "Florida"
+    },
+    "KZPH": {
+        "lat": 28.2282009125,
+        "long": -82.1558990479,
+        "name": "Zephyrhills Municipal ",
+        "state": "Florida"
+    }
+}

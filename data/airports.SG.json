@@ -1,0 +1,32 @@
+{
+  "WSAC": {
+    "lat": 1.3441400528,
+    "long": 104.009002686,
+    "name": "Changi Air Base"
+  },
+  "WSAG": {
+    "lat": 1.4252599478,
+    "long": 103.81300354,
+    "name": "Sembawang Air Base"
+  },
+  "WSAP": {
+    "lat": 1.3604199886,
+    "long": 103.9100036621,
+    "name": "Paya Lebar Air Base"
+  },
+  "WSAT": {
+    "lat": 1.3872599602,
+    "long": 103.7089996338,
+    "name": "Tengah Air Base"
+  },
+  "WSSL": {
+    "lat": 1.4169499874,
+    "long": 103.8679962158,
+    "name": "Seletar "
+  },
+  "WSSS": {
+    "lat": 1.3501900434,
+    "long": 103.9940032959,
+    "name": "Singapore Changi International "
+  }
+}

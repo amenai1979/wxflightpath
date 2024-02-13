@@ -1,0 +1,47 @@
+{
+  "VRBK": {
+    "lat": 6.631111,
+    "long": 73.066667,
+    "name": "Kulhudhuffushi "
+  },
+  "VREI": {
+    "lat": 5.7083,
+    "long": 73.025,
+    "name": "Ifuru "
+  },
+  "VRMF": {
+    "lat": -0.3097222222,
+    "long": 73.435,
+    "name": "Fuvahmulah "
+  },
+  "VRMG": {
+    "lat": -0.6933419704,
+    "long": 73.1556015015,
+    "name": "Gan International "
+  },
+  "VRMH": {
+    "lat": 6.7442297935,
+    "long": 73.170501709,
+    "name": "Hanimaadhoo "
+  },
+  "VRMK": {
+    "lat": 1.85916996,
+    "long": 73.5218963623,
+    "name": "Kadhdhoo "
+  },
+  "VRMM": {
+    "lat": 4.1918301582,
+    "long": 73.5290985107,
+    "name": "Male International "
+  },
+  "VRMT": {
+    "lat": 0.4881309867,
+    "long": 72.9969024658,
+    "name": "Kaadedhdhoo "
+  },
+  "VRMV": {
+    "lat": 3.4705555556,
+    "long": 72.8358333333,
+    "name": "Villa "
+  }
+}

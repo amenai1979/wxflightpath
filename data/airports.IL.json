@@ -1,0 +1,127 @@
+{
+  "LL1B": {
+    "lat": 31.2291698456,
+    "long": 35.189037323,
+    "name": "Arad "
+  },
+  "LL59": {
+    "lat": 31.8978996277,
+    "long": 34.6907997131,
+    "name": "Palmahim Air Base"
+  },
+  "LLBG": {
+    "lat": 32.0113983154,
+    "long": 34.8866996765,
+    "name": "Ben Gurion International "
+  },
+  "LLBS": {
+    "lat": 31.2870006561,
+    "long": 34.7229995728,
+    "name": "Be'er Sheva (Teyman) "
+  },
+  "LLEK": {
+    "lat": 31.8395004272,
+    "long": 34.8218002319,
+    "name": "Tel Nov Air Base"
+  },
+  "LLER": {
+    "lat": 29.723694,
+    "long": 35.011417,
+    "name": "Ramon "
+  },
+  "LLES": {
+    "lat": 32.4407997131,
+    "long": 35.0077018738,
+    "name": "Ein Shemer Airfield"
+  },
+  "LLET": {
+    "lat": 29.5613002777,
+    "long": 34.9600982666,
+    "name": "Eilat "
+  },
+  "LLEY": {
+    "lat": 30.6217002869,
+    "long": 35.2033004761,
+    "name": "Ein Yahav Airfield"
+  },
+  "LLFK": {
+    "lat": 32.786388888,
+    "long": 35.7174987793,
+    "name": "Fiq Airfield"
+  },
+  "LLHA": {
+    "lat": 32.8093986511,
+    "long": 35.0430984497,
+    "name": "Haifa International "
+  },
+  "LLHB": {
+    "lat": 31.2334003448,
+    "long": 34.6626014709,
+    "name": "Hatzerim Air Base"
+  },
+  "LLHS": {
+    "lat": 31.7625007629,
+    "long": 34.7271995544,
+    "name": "Hatzor Air Base"
+  },
+  "LLHZ": {
+    "lat": 32.1805992126,
+    "long": 34.8347015381,
+    "name": "Herzliya "
+  },
+  "LLIB": {
+    "lat": 32.9809989929,
+    "long": 35.5718994141,
+    "name": "Ben Ya'akov "
+  },
+  "LLKS": {
+    "lat": 33.2167015076,
+    "long": 35.5999984741,
+    "name": "Kiryat Shmona "
+  },
+  "LLMG": {
+    "lat": 32.5973014832,
+    "long": 35.2288017273,
+    "name": "Megiddo "
+  },
+  "LLMR": {
+    "lat": 30.6506004333,
+    "long": 34.8069000244,
+    "name": "Mitzpe Ramon Airfield"
+  },
+  "LLMZ": {
+    "lat": 31.3281993866,
+    "long": 35.3885993958,
+    "name": "Bar Yehuda Airfield"
+  },
+  "LLNV": {
+    "lat": 31.2082996368,
+    "long": 35.012298584,
+    "name": "Nevatim Air Base"
+  },
+  "LLOV": {
+    "lat": 29.9402999878,
+    "long": 34.935798645,
+    "name": "Ovda International "
+  },
+  "LLRD": {
+    "lat": 32.6651000977,
+    "long": 35.1795005798,
+    "name": "Ramat David Air Base"
+  },
+  "LLRM": {
+    "lat": 30.7761001587,
+    "long": 34.6666984558,
+    "name": "Ramon Air Base"
+  },
+  "LLSD": {
+    "lat": 32.1147003174,
+    "long": 34.7821998596,
+    "name": "Sde Dov "
+  },
+  "LLYT": {
+    "lat": 29.9062004089,
+    "long": 35.0666999817,
+    "name": "Yotvata Airfield"
+  }
+}

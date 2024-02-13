@@ -1,0 +1,2648 @@
+{
+    "00AK": {
+        "lat": 59.94919968,
+        "long": -151.695999146,
+        "name": "Lowell Field",
+        "state": "Alaska"
+    },
+    "02AK": {
+        "lat": 61.8768997192,
+        "long": -150.0980072021,
+        "name": "Rustic Wilderness ",
+        "state": "Alaska"
+    },
+    "05AK": {
+        "lat": 61.66830063,
+        "long": -149.1880035,
+        "name": "Wasilla Creek Airpark",
+        "state": "Alaska"
+    },
+    "06AK": {
+        "lat": 61.627619,
+        "long": -149.575331,
+        "name": "June Lake Airpark",
+        "state": "Alaska"
+    },
+    "08AK": {
+        "lat": 61.569639,
+        "long": -149.724439,
+        "name": "Fisher ",
+        "state": "Alaska"
+    },
+    "09AK": {
+        "lat": 61.589361,
+        "long": -149.847333,
+        "name": "West Beaver ",
+        "state": "Alaska"
+    },
+    "0AK0": {
+        "lat": 64.3925018311,
+        "long": -146.8619995117,
+        "name": "Scotts ",
+        "state": "Alaska"
+    },
+    "0AK1": {
+        "lat": 61.6169013977,
+        "long": -149.3220062256,
+        "name": "Anderson Lake ",
+        "state": "Alaska"
+    },
+    "0AK2": {
+        "lat": 61.725556,
+        "long": -150.678611,
+        "name": "Yentna Bend Strip",
+        "state": "Alaska"
+    },
+    "0AK3": {
+        "lat": 62.035900116,
+        "long": -150.4940032959,
+        "name": "Parker Lake ",
+        "state": "Alaska"
+    },
+    "0AK5": {
+        "lat": 61.3564987183,
+        "long": -142.733001709,
+        "name": "Young Creek ",
+        "state": "Alaska"
+    },
+    "0AK6": {
+        "lat": 61.8033981323,
+        "long": -147.9440002441,
+        "name": "Victory ",
+        "state": "Alaska"
+    },
+    "0AK7": {
+        "lat": 59.7761001587,
+        "long": -150.9589996338,
+        "name": "Bradley Lake Hydroelectri Project Airstrip",
+        "state": "Alaska"
+    },
+    "0AK9": {
+        "lat": 61.3325996399,
+        "long": -150.0590057373,
+        "name": "Falcon Lake Strip",
+        "state": "Alaska"
+    },
+    "10AK": {
+        "lat": 61.5918998718,
+        "long": -149.6779937744,
+        "name": "Hunt Strip",
+        "state": "Alaska"
+    },
+    "11AK": {
+        "lat": 63.9995994568,
+        "long": -145.501998901,
+        "name": "Rocking T. Ranch ",
+        "state": "Alaska"
+    },
+    "13AK": {
+        "lat": 61.6547012329,
+        "long": -149.8999938965,
+        "name": "Satterbergs ",
+        "state": "Alaska"
+    },
+    "14AK": {
+        "lat": 61.6015014648,
+        "long": -149.2480010986,
+        "name": "Four Corners ",
+        "state": "Alaska"
+    },
+    "15AK": {
+        "lat": 63.3707008362,
+        "long": -148.8500061035,
+        "name": "Golden North Airfield",
+        "state": "Alaska"
+    },
+    "16AK": {
+        "lat": 61.5992012024,
+        "long": -149.3470001221,
+        "name": "Gattis Strip",
+        "state": "Alaska"
+    },
+    "19AK": {
+        "lat": 59.96900177,
+        "long": -141.662002563,
+        "name": "Icy Bay ",
+        "state": "Alaska"
+    },
+    "1AK1": {
+        "lat": 67.3729019165,
+        "long": -152.0160064697,
+        "name": "Crevice Creek ",
+        "state": "Alaska"
+    },
+    "1AK2": {
+        "lat": 62.4009017944,
+        "long": -146.0130004883,
+        "name": "Crosswind Lake ",
+        "state": "Alaska"
+    },
+    "1AK4": {
+        "lat": 60.5242004395,
+        "long": -150.7519989014,
+        "name": "Kenai River Airpark",
+        "state": "Alaska"
+    },
+    "1AK6": {
+        "lat": 61.8527984619,
+        "long": -151.4080047607,
+        "name": "Talachulitna River ",
+        "state": "Alaska"
+    },
+    "1AK8": {
+        "lat": 61.6768989563,
+        "long": -151.3869934082,
+        "name": "Talaheim ",
+        "state": "Alaska"
+    },
+    "20AK": {
+        "lat": 61.503789,
+        "long": -149.896044,
+        "name": "Owen Field",
+        "state": "Alaska"
+    },
+    "21AK": {
+        "lat": 62.0717010498,
+        "long": -150.0690002441,
+        "name": "Montana Creek ",
+        "state": "Alaska"
+    },
+    "22AK": {
+        "lat": 70.428338,
+        "long": -150.402899,
+        "name": "Helmericks ",
+        "state": "Alaska"
+    },
+    "23AK": {
+        "lat": 61.5941009521,
+        "long": -149.3110046387,
+        "name": "Yuknis ",
+        "state": "Alaska"
+    },
+    "24AK": {
+        "lat": 61.6156997681,
+        "long": -149.7070007324,
+        "name": "Toad Lake Strip",
+        "state": "Alaska"
+    },
+    "25AK": {
+        "lat": 61.7122001648,
+        "long": -150.06300354,
+        "name": "Honeybee Lake Aero Park ",
+        "state": "Alaska"
+    },
+    "28AK": {
+        "lat": 61.8088989258,
+        "long": -147.8589935303,
+        "name": "Farrars ",
+        "state": "Alaska"
+    },
+    "29AK": {
+        "lat": 64.0495986938,
+        "long": -145.4190063477,
+        "name": "Remington Field",
+        "state": "Alaska"
+    },
+    "2AK0": {
+        "lat": 61.2559013367,
+        "long": -149.975006104,
+        "name": "Mac Kenzie Country Airpark",
+        "state": "Alaska"
+    },
+    "2AK1": {
+        "lat": 64.3637008667,
+        "long": -147.3639984131,
+        "name": "Blair Lake ",
+        "state": "Alaska"
+    },
+    "2AK2": {
+        "lat": 64.4534988403,
+        "long": -147.56300354,
+        "name": "Clear Creek ",
+        "state": "Alaska"
+    },
+    "2AK4": {
+        "lat": 59.4700012207,
+        "long": -151.5119934082,
+        "name": "Oyster Cove ",
+        "state": "Alaska"
+    },
+    "2AK6": {
+        "lat": 66.2161026,
+        "long": -155.6690063,
+        "name": "Hog River ",
+        "state": "Alaska"
+    },
+    "2AK7": {
+        "lat": 62.3073997498,
+        "long": -149.7519989014,
+        "name": "Bald Mountain ",
+        "state": "Alaska"
+    },
+    "2AK8": {
+        "lat": 70.2925033569,
+        "long": -161.9029998779,
+        "name": "Icy Cape Afs ",
+        "state": "Alaska"
+    },
+    "2AK9": {
+        "lat": 65.673500061,
+        "long": -162.4640045166,
+        "name": "Independence Creek ",
+        "state": "Alaska"
+    },
+    "30AK": {
+        "lat": 60.5027999878,
+        "long": -151.2599945068,
+        "name": "Doyle Estates ",
+        "state": "Alaska"
+    },
+    "31AK": {
+        "lat": 64.832901001,
+        "long": -147.4250030518,
+        "name": "Dalrymple's ",
+        "state": "Alaska"
+    },
+    "32AK": {
+        "lat": 64.90930176,
+        "long": -147.9140015,
+        "name": "Hardrock Field",
+        "state": "Alaska"
+    },
+    "33AK": {
+        "lat": 62.5172996521,
+        "long": -150.9450073242,
+        "name": "Nugget Bench ",
+        "state": "Alaska"
+    },
+    "34AK": {
+        "lat": 61.625,
+        "long": -149.2890014648,
+        "name": "Cardwell Strip",
+        "state": "Alaska"
+    },
+    "36AK": {
+        "lat": 61.3432998657,
+        "long": -150.0670013428,
+        "name": "Flyway Farm Airstrip",
+        "state": "Alaska"
+    },
+    "38AK": {
+        "lat": 61.5625,
+        "long": -149.6679992676,
+        "name": "Mels ",
+        "state": "Alaska"
+    },
+    "39AK": {
+        "lat": 61.5859985352,
+        "long": -149.2359924316,
+        "name": "Gilmore Strip",
+        "state": "Alaska"
+    },
+    "3AK1": {
+        "lat": 61.7187995911,
+        "long": -150.1959991455,
+        "name": "Deshka Landing ",
+        "state": "Alaska"
+    },
+    "3AK2": {
+        "lat": 61.6274986267,
+        "long": -149.2870025635,
+        "name": "Niklason Lake Estates ",
+        "state": "Alaska"
+    },
+    "3AK3": {
+        "lat": 62.5638008118,
+        "long": -150.220993042,
+        "name": "Songlo Vista ",
+        "state": "Alaska"
+    },
+    "3AK4": {
+        "lat": 60.6324996948,
+        "long": -151.3399963379,
+        "name": "Johnson ",
+        "state": "Alaska"
+    },
+    "3AK5": {
+        "lat": 60.5889015198,
+        "long": -152.1620025635,
+        "name": "Drift River ",
+        "state": "Alaska"
+    },
+    "3AK6": {
+        "lat": 61.5928993225,
+        "long": -149.3020019531,
+        "name": "B & B Boys Ranch ",
+        "state": "Alaska"
+    },
+    "3AK7": {
+        "lat": 61.7655982971,
+        "long": -150.3390045166,
+        "name": "Laub ",
+        "state": "Alaska"
+    },
+    "3AK8": {
+        "lat": 61.6624984741,
+        "long": -149.391998291,
+        "name": "Boisselle's Strip",
+        "state": "Alaska"
+    },
+    "3AK9": {
+        "lat": 61.941944,
+        "long": -151.036111,
+        "name": "River John ",
+        "state": "Alaska"
+    },
+    "40AK": {
+        "lat": 60.5553016663,
+        "long": -150.8419952393,
+        "name": "Sterling Air Park",
+        "state": "Alaska"
+    },
+    "41AK": {
+        "lat": 61.5009002686,
+        "long": -149.639694214,
+        "name": "Settlers Bay Airstrip",
+        "state": "Alaska"
+    },
+    "42AK": {
+        "lat": 61.568901062,
+        "long": -149.4850006104,
+        "name": "Wicker ",
+        "state": "Alaska"
+    },
+    "43AK": {
+        "lat": 61.6007995605,
+        "long": -149.578994751,
+        "name": "Kalmbach ",
+        "state": "Alaska"
+    },
+    "44AK": {
+        "lat": 61.5334014893,
+        "long": -150.1020050049,
+        "name": "West Papoose Lake Airpark",
+        "state": "Alaska"
+    },
+    "45AK": {
+        "lat": 63.9617996216,
+        "long": -145.4700012207,
+        "name": "Cherokee ",
+        "state": "Alaska"
+    },
+    "46AK": {
+        "lat": 59.7383003235,
+        "long": -151.0299987793,
+        "name": "Bear Cove Farm ",
+        "state": "Alaska"
+    },
+    "47AK": {
+        "lat": 61.2924995422,
+        "long": -149.5330047607,
+        "name": "Highland ",
+        "state": "Alaska"
+    },
+    "48AK": {
+        "lat": 61.7960412696,
+        "long": -148.494161367,
+        "name": "Castle Mountain Airstrip",
+        "state": "Alaska"
+    },
+    "49AK": {
+        "lat": 62.0245018005,
+        "long": -149.9770050049,
+        "name": "Secluded Lake ",
+        "state": "Alaska"
+    },
+    "4AK1": {
+        "lat": 70.0037994385,
+        "long": -153.0780029297,
+        "name": "Inigok ",
+        "state": "Alaska"
+    },
+    "4AK2": {
+        "lat": 61.5579986572,
+        "long": -149.4239959717,
+        "name": "St John Homestead ",
+        "state": "Alaska"
+    },
+    "4AK3": {
+        "lat": 61.3778991699,
+        "long": -143.3260040283,
+        "name": "Long Lake ",
+        "state": "Alaska"
+    },
+    "4AK5": {
+        "lat": 62.9898986816,
+        "long": -144.4799957275,
+        "name": "Mankomen Lake ",
+        "state": "Alaska"
+    },
+    "4AK6": {
+        "lat": 61.6409988403,
+        "long": -149.2890014648,
+        "name": "Wolf Lake ",
+        "state": "Alaska"
+    },
+    "4AK7": {
+        "lat": 59.2808990479,
+        "long": -158.597000122,
+        "name": "Aleknagik Mission Lodge ",
+        "state": "Alaska"
+    },
+    "4AK8": {
+        "lat": 61.5363006592,
+        "long": -158.7389984131,
+        "name": "Napaimute Pioneer Airfield",
+        "state": "Alaska"
+    },
+    "4AK9": {
+        "lat": 58.7342987061,
+        "long": -157.0070037842,
+        "name": "Tibbetts ",
+        "state": "Alaska"
+    },
+    "50AK": {
+        "lat": 61.380461,
+        "long": -150.11625,
+        "name": "Robin'S Landing",
+        "state": "Alaska"
+    },
+    "51AK": {
+        "lat": 62.242289,
+        "long": -150.065814,
+        "name": "Birch Creek Landing",
+        "state": "Alaska"
+    },
+    "52AK": {
+        "lat": 60.5057983398,
+        "long": -151.2460021973,
+        "name": "Basquo ",
+        "state": "Alaska"
+    },
+    "53AK": {
+        "lat": 60.5345001221,
+        "long": -150.9389953613,
+        "name": "Lakewood Airstrip",
+        "state": "Alaska"
+    },
+    "55AK": {
+        "lat": 61.4958000183,
+        "long": -149.699005127,
+        "name": "Lawrence Airstrip",
+        "state": "Alaska"
+    },
+    "56AK": {
+        "lat": 61.5750007629,
+        "long": -149.6060028076,
+        "name": "Bechtol Field",
+        "state": "Alaska"
+    },
+    "58AK": {
+        "lat": 61.5526008606,
+        "long": -149.3399963379,
+        "name": "Fairview East ",
+        "state": "Alaska"
+    },
+    "59AK": {
+        "lat": 61.63180161,
+        "long": -149.3410034,
+        "name": "Penderosa ",
+        "state": "Alaska"
+    },
+    "5AK0": {
+        "lat": 60.8154983521,
+        "long": -151.7989959717,
+        "name": "Trading Bay Production ",
+        "state": "Alaska"
+    },
+    "5AK2": {
+        "lat": 64.7306976318,
+        "long": -147.3480072021,
+        "name": "Howards ",
+        "state": "Alaska"
+    },
+    "5AK3": {
+        "lat": 64.7732009888,
+        "long": -147.333999634,
+        "name": "Airway ",
+        "state": "Alaska"
+    },
+    "5AK5": {
+        "lat": 61.6571006775,
+        "long": -149.4620056152,
+        "name": "Todds Strip",
+        "state": "Alaska"
+    },
+    "5AK6": {
+        "lat": 61.5569992065,
+        "long": -149.2680053711,
+        "name": "Colberg ",
+        "state": "Alaska"
+    },
+    "5AK8": {
+        "lat": 61.631401062,
+        "long": -149.4320068359,
+        "name": "Memory Lake ",
+        "state": "Alaska"
+    },
+    "5AK9": {
+        "lat": 61.548500061,
+        "long": -149.1900024414,
+        "name": "Grandview Subdivision ",
+        "state": "Alaska"
+    },
+    "63AK": {
+        "lat": 61.5843009949,
+        "long": -149.93800354,
+        "name": "Kucera Residence ",
+        "state": "Alaska"
+    },
+    "64AK": {
+        "lat": 61.4398994446,
+        "long": -150.0260009766,
+        "name": "Carpentiers Strip",
+        "state": "Alaska"
+    },
+    "65AK": {
+        "lat": 61.5605010986,
+        "long": -149.369003296,
+        "name": "Mcdonald Ridge ",
+        "state": "Alaska"
+    },
+    "67AK": {
+        "lat": 61.5345993042,
+        "long": -149.6699981689,
+        "name": "South Hollywood ",
+        "state": "Alaska"
+    },
+    "6AK1": {
+        "lat": 58.9117012024,
+        "long": -161.7140045166,
+        "name": "Platinum Mine ",
+        "state": "Alaska"
+    },
+    "6AK2": {
+        "lat": 61.251499176,
+        "long": -149.9819946289,
+        "name": "Sleepers Strip",
+        "state": "Alaska"
+    },
+    "6AK3": {
+        "lat": 60.7294006348,
+        "long": -151.2779998779,
+        "name": "Butler Aviation ",
+        "state": "Alaska"
+    },
+    "6AK5": {
+        "lat": 61.1683006287,
+        "long": -150.1609954834,
+        "name": "Fire Island ",
+        "state": "Alaska"
+    },
+    "6AK7": {
+        "lat": 61.5746994019,
+        "long": -149.6349945068,
+        "name": "Rainbow Heights Estates Airstrip",
+        "state": "Alaska"
+    },
+    "6AK8": {
+        "lat": 61.6180992126,
+        "long": -149.6690063477,
+        "name": "Tulakes ",
+        "state": "Alaska"
+    },
+    "6AK9": {
+        "lat": 61.6334991455,
+        "long": -149.6820068359,
+        "name": "Cizek North ",
+        "state": "Alaska"
+    },
+    "70AK": {
+        "lat": 60.517778,
+        "long": -150.959722,
+        "name": "Bangerter Field",
+        "state": "Alaska"
+    },
+    "71AK": {
+        "lat": 61.5275993347,
+        "long": -149.4960021973,
+        "name": "Bluff Park Farm ",
+        "state": "Alaska"
+    },
+    "74AK": {
+        "lat": 70.7155990601,
+        "long": -154.4069976807,
+        "name": "Puviaq ",
+        "state": "Alaska"
+    },
+    "75AK": {
+        "lat": 60.593067,
+        "long": -151.327956,
+        "name": "Henley ",
+        "state": "Alaska"
+    },
+    "76AK": {
+        "lat": 64.4674987793,
+        "long": -144.921005249,
+        "name": "Pogo Mine Airstrip",
+        "state": "Alaska"
+    },
+    "77AK": {
+        "lat": 61.5027008057,
+        "long": -149.595993042,
+        "name": "Tidewater Bluffs ",
+        "state": "Alaska"
+    },
+    "78AK": {
+        "lat": 61.7331008911,
+        "long": -150.5260009766,
+        "name": "C.T.S. ",
+        "state": "Alaska"
+    },
+    "79AK": {
+        "lat": 61.481839,
+        "long": -149.744019,
+        "name": "Huttunen Strip",
+        "state": "Alaska"
+    },
+    "7AK0": {
+        "lat": 64.6473999023,
+        "long": -151.8099975586,
+        "name": "Art Z ",
+        "state": "Alaska"
+    },
+    "7AK2": {
+        "lat": 58.1343994141,
+        "long": -133.7299957275,
+        "name": "Snettisham ",
+        "state": "Alaska"
+    },
+    "7AK3": {
+        "lat": 60.476398468,
+        "long": -151.1660003662,
+        "name": "Gaede ",
+        "state": "Alaska"
+    },
+    "7AK4": {
+        "lat": 61.5415000916,
+        "long": -149.4609985352,
+        "name": "Jack Fish Landing ",
+        "state": "Alaska"
+    },
+    "7AK5": {
+        "lat": 60.5036010742,
+        "long": -150.9360046387,
+        "name": "Dahler Homestead ",
+        "state": "Alaska"
+    },
+    "7AK6": {
+        "lat": 60.4777984619,
+        "long": -150.9290008545,
+        "name": "Dan France ",
+        "state": "Alaska"
+    },
+    "7AK8": {
+        "lat": 61.6212997437,
+        "long": -149.6150054932,
+        "name": "Hess ",
+        "state": "Alaska"
+    },
+    "7AK9": {
+        "lat": 61.6468009949,
+        "long": -149.0489959717,
+        "name": "Vinduska ",
+        "state": "Alaska"
+    },
+    "81AK": {
+        "lat": 62.5676994324,
+        "long": -150.235992432,
+        "name": "Mc Kinley Country ",
+        "state": "Alaska"
+    },
+    "82AK": {
+        "lat": 61.6166000366,
+        "long": -149.1909942627,
+        "name": "Jim's Landing ",
+        "state": "Alaska"
+    },
+    "83AK": {
+        "lat": 65.2565002441,
+        "long": -148.8300018311,
+        "name": "Tolovana Hot Springs ",
+        "state": "Alaska"
+    },
+    "87AK": {
+        "lat": 61.6515007019,
+        "long": -149.2879943848,
+        "name": "Soloy Strip",
+        "state": "Alaska"
+    },
+    "88AK": {
+        "lat": 60.5402984619,
+        "long": -150.8679962158,
+        "name": "Dutch Landing Strip",
+        "state": "Alaska"
+    },
+    "89AK": {
+        "lat": 61.5593986511,
+        "long": -149.7050018311,
+        "name": "Lincoln Village Airpark",
+        "state": "Alaska"
+    },
+    "8AK0": {
+        "lat": 58.710899353,
+        "long": -156.9949951172,
+        "name": "Diamond Nn Cannery ",
+        "state": "Alaska"
+    },
+    "8AK1": {
+        "lat": 62.2803001404,
+        "long": -145.3630065918,
+        "name": "Jacobus Field",
+        "state": "Alaska"
+    },
+    "8AK2": {
+        "lat": 60.7024993896,
+        "long": -151.2940063477,
+        "name": "Carty's Airstrip",
+        "state": "Alaska"
+    },
+    "8AK3": {
+        "lat": 66.7659988403,
+        "long": -160.1529998779,
+        "name": "Roland Norton Memorial Airstrip",
+        "state": "Alaska"
+    },
+    "8AK6": {
+        "lat": 61.3718986511,
+        "long": -150.2619934082,
+        "name": "Little Susitna ",
+        "state": "Alaska"
+    },
+    "8AK8": {
+        "lat": 61.6300010681,
+        "long": -149.682998657,
+        "name": "North Cubs Strip ",
+        "state": "Alaska"
+    },
+    "8AK9": {
+        "lat": 63.308904791,
+        "long": -143.016929626,
+        "name": "Tok 2 ",
+        "state": "Alaska"
+    },
+    "93AK": {
+        "lat": 58.8720016479,
+        "long": -158.4720001221,
+        "name": "The Queens ",
+        "state": "Alaska"
+    },
+    "97AK": {
+        "lat": 61.6640014648,
+        "long": -149.2539978027,
+        "name": "High Ridge Association ",
+        "state": "Alaska"
+    },
+    "98AK": {
+        "lat": 59.7757987976,
+        "long": -151.1820068359,
+        "name": "Eastland ",
+        "state": "Alaska"
+    },
+    "99AK": {
+        "lat": 62.5989990234,
+        "long": -157.1519927979,
+        "name": "Moore Creek ",
+        "state": "Alaska"
+    },
+    "9AK0": {
+        "lat": 62.5121002197,
+        "long": -143.2350006104,
+        "name": "Sports Mans Paradise ",
+        "state": "Alaska"
+    },
+    "9AK2": {
+        "lat": 61.89889908,
+        "long": -161.4380035,
+        "name": "Kako ",
+        "state": "Alaska"
+    },
+    "9AK3": {
+        "lat": 61.0139007568,
+        "long": -151.449005127,
+        "name": "Nikolai Creek ",
+        "state": "Alaska"
+    },
+    "9AK4": {
+        "lat": 64.1373977661,
+        "long": -145.8300018311,
+        "name": "Arctic Angel ",
+        "state": "Alaska"
+    },
+    "9AK5": {
+        "lat": 61.1165008545,
+        "long": -149.8190002441,
+        "name": "Sky Harbor ",
+        "state": "Alaska"
+    },
+    "9AK6": {
+        "lat": 61.6240997314,
+        "long": -149.6479949951,
+        "name": "Leisurewood Airstrip Owners Assoc ",
+        "state": "Alaska"
+    },
+    "9AK7": {
+        "lat": 61.5898017883,
+        "long": -149.8170013428,
+        "name": "Cubdivision ",
+        "state": "Alaska"
+    },
+    "9AK8": {
+        "lat": 61.6246986389,
+        "long": -149.6820068359,
+        "name": "Wolf Track ",
+        "state": "Alaska"
+    },
+    "AA00": {
+        "lat": 62.51015,
+        "long": -149.926717,
+        "name": "Shump ",
+        "state": "Alaska"
+    },
+    "AA05": {
+        "lat": 61.507811,
+        "long": -149.078481,
+        "name": "Shelby Strip",
+        "state": "Alaska"
+    },
+    "AA06": {
+        "lat": 61.289722,
+        "long": -149.806111,
+        "name": "Sixmile Lake ",
+        "state": "Alaska"
+    },
+    "AA22": {
+        "lat": 64.132858,
+        "long": -145.804494,
+        "name": "Delta Daves ",
+        "state": "Alaska"
+    },
+    "AA30": {
+        "lat": 61.648189,
+        "long": -149.870831,
+        "name": "Trio Estates ",
+        "state": "Alaska"
+    },
+    "AA33": {
+        "lat": 61.60415,
+        "long": -149.770119,
+        "name": "Gus Landing",
+        "state": "Alaska"
+    },
+    "AA50": {
+        "lat": 70.181144,
+        "long": -146.35035,
+        "name": "Point Thomson Sea Ice Airstrip",
+        "state": "Alaska"
+    },
+    "AA76": {
+        "lat": 64.769444,
+        "long": -147.329444,
+        "name": "Timber Trails ",
+        "state": "Alaska"
+    },
+    "AK00": {
+        "lat": 59.7966995239,
+        "long": -151.8630065918,
+        "name": "Anchor River Airpark",
+        "state": "Alaska"
+    },
+    "AK01": {
+        "lat": 60.528983,
+        "long": -150.625133,
+        "name": "Alaska Airpark",
+        "state": "Alaska"
+    },
+    "AK02": {
+        "lat": 65.5399017334,
+        "long": -161.06199646,
+        "name": "Bear Creek 1 ",
+        "state": "Alaska"
+    },
+    "AK05": {
+        "lat": 60.54105,
+        "long": -150.599217,
+        "name": "Breeden ",
+        "state": "Alaska"
+    },
+    "AK06": {
+        "lat": 63.6450996399,
+        "long": -148.7980041504,
+        "name": "Denali ",
+        "state": "Alaska"
+    },
+    "AK07": {
+        "lat": 59.2410011292,
+        "long": -151.8769989014,
+        "name": "Dog Fish Bay ",
+        "state": "Alaska"
+    },
+    "AK08": {
+        "lat": 61.7899017334,
+        "long": -150.1060028076,
+        "name": "Thomas Strip",
+        "state": "Alaska"
+    },
+    "AK09": {
+        "lat": 64.0495986938,
+        "long": -145.5019989014,
+        "name": "Wingsong Estates ",
+        "state": "Alaska"
+    },
+    "AK10": {
+        "lat": 61.7172012329,
+        "long": -150.10899353,
+        "name": "Ernies Airstrip",
+        "state": "Alaska"
+    },
+    "AK11": {
+        "lat": 70.4017028809,
+        "long": -148.6820068359,
+        "name": "Point Mcintyre ",
+        "state": "Alaska"
+    },
+    "AK12": {
+        "lat": 61.1066017151,
+        "long": -149.8639984131,
+        "name": "Flying Crown ",
+        "state": "Alaska"
+    },
+    "AK13": {
+        "lat": 65.0518035889,
+        "long": -146.04699707,
+        "name": "Chena Hot Springs ",
+        "state": "Alaska"
+    },
+    "AK14": {
+        "lat": 61.3512992859,
+        "long": -150.0890045166,
+        "name": "Turinsky Airstrip",
+        "state": "Alaska"
+    },
+    "AK16": {
+        "lat": 61.52339935,
+        "long": -149.7149963,
+        "name": "Sunset Strip",
+        "state": "Alaska"
+    },
+    "AK17": {
+        "lat": 59.7635993958,
+        "long": -151.2230072021,
+        "name": "Glacierview Strip",
+        "state": "Alaska"
+    },
+    "AK18": {
+        "lat": 59.8284988403,
+        "long": -153.0809936523,
+        "name": "Camp Point ",
+        "state": "Alaska"
+    },
+    "AK19": {
+        "lat": 62.1739006042,
+        "long": -150.0639953613,
+        "name": "Carl's Landing ",
+        "state": "Alaska"
+    },
+    "AK20": {
+        "lat": 70.420622,
+        "long": -150.886667,
+        "name": "Cd-3 Airstrip",
+        "state": "Alaska"
+    },
+    "AK21": {
+        "lat": 59.132598877,
+        "long": -157.7769927979,
+        "name": "Nushagak ",
+        "state": "Alaska"
+    },
+    "AK22": {
+        "lat": 64.8217010498,
+        "long": -147.5220031738,
+        "name": "Lakloey Air Park",
+        "state": "Alaska"
+    },
+    "AK24": {
+        "lat": 61.41820145,
+        "long": -149.4389954,
+        "name": "Hilltop ",
+        "state": "Alaska"
+    },
+    "AK25": {
+        "lat": 61.6175003052,
+        "long": -149.6150054932,
+        "name": "Piper Landing ",
+        "state": "Alaska"
+    },
+    "AK26": {
+        "lat": 64.5606002808,
+        "long": -164.4420013428,
+        "name": "Solomon State Field",
+        "state": "Alaska"
+    },
+    "AK27": {
+        "lat": 61.6426010132,
+        "long": -149.6239929199,
+        "name": "Valley Flying Crown ",
+        "state": "Alaska"
+    },
+    "AK28": {
+        "lat": 64.8140029907,
+        "long": -147.9190063477,
+        "name": "Chena Marina ",
+        "state": "Alaska"
+    },
+    "AK29": {
+        "lat": 61.6125984192,
+        "long": -149.8520050049,
+        "name": "Reids Landing ",
+        "state": "Alaska"
+    },
+    "AK30": {
+        "lat": 60.391153,
+        "long": -146.097464,
+        "name": "Strawberry Point ",
+        "state": "Alaska"
+    },
+    "AK31": {
+        "lat": 61.4112014771,
+        "long": -143.0010070801,
+        "name": "Swift Creek ",
+        "state": "Alaska"
+    },
+    "AK33": {
+        "lat": 55.801399231,
+        "long": -160.899002075,
+        "name": "Herendeen Bay ",
+        "state": "Alaska"
+    },
+    "AK36": {
+        "lat": 61.436000824,
+        "long": -150.1219940186,
+        "name": "Point Mac ",
+        "state": "Alaska"
+    },
+    "AK39": {
+        "lat": 60.6972007751,
+        "long": -150.1799926758,
+        "name": "South Gasline ",
+        "state": "Alaska"
+    },
+    "AK40": {
+        "lat": 63.2291984558,
+        "long": -154.759994507,
+        "name": "Nixon Fork Mine ",
+        "state": "Alaska"
+    },
+    "AK41": {
+        "lat": 64.5438995361,
+        "long": -146.8439941406,
+        "name": "Greg'n Sage ",
+        "state": "Alaska"
+    },
+    "AK44": {
+        "lat": 62.318901062,
+        "long": -150.1159973145,
+        "name": "Talkeetna Village Strip",
+        "state": "Alaska"
+    },
+    "AK45": {
+        "lat": 65.456199646,
+        "long": -167.1750030518,
+        "name": "Lost River 2 ",
+        "state": "Alaska"
+    },
+    "AK46": {
+        "lat": 61.6287994385,
+        "long": -149.0429992676,
+        "name": "Abi ",
+        "state": "Alaska"
+    },
+    "AK47": {
+        "lat": 61.5857009888,
+        "long": -149.56300354,
+        "name": "Shawn Field",
+        "state": "Alaska"
+    },
+    "AK49": {
+        "lat": 65.6792984009,
+        "long": -164.798995972,
+        "name": "Taylor ",
+        "state": "Alaska"
+    },
+    "AK50": {
+        "lat": 61.554599762,
+        "long": -149.1439971924,
+        "name": "Sky Ranch At Pioneer Peak ",
+        "state": "Alaska"
+    },
+    "AK51": {
+        "lat": 60.198600769,
+        "long": -154.3249969482,
+        "name": "Wilder/Natwick Llc ",
+        "state": "Alaska"
+    },
+    "AK52": {
+        "lat": 64.8889007568,
+        "long": -147.5359954834,
+        "name": "Moen's Ranch ",
+        "state": "Alaska"
+    },
+    "AK53": {
+        "lat": 61.5822982788,
+        "long": -148.9969940186,
+        "name": "Downwind Landing ",
+        "state": "Alaska"
+    },
+    "AK54": {
+        "lat": 61.6571006775,
+        "long": -149.3260040283,
+        "name": "Stro's ",
+        "state": "Alaska"
+    },
+    "AK55": {
+        "lat": 60.489200592,
+        "long": -150.8020019531,
+        "name": "Moose Run Airstrip",
+        "state": "Alaska"
+    },
+    "AK58": {
+        "lat": 61.5400009155,
+        "long": -149.5489959717,
+        "name": "Fairview West ",
+        "state": "Alaska"
+    },
+    "AK59": {
+        "lat": 61.7956008911,
+        "long": -148.3549957275,
+        "name": "King Ranch ",
+        "state": "Alaska"
+    },
+    "AK60": {
+        "lat": 57.8851013184,
+        "long": -157.0970001221,
+        "name": "Fort Jensen ",
+        "state": "Alaska"
+    },
+    "AK61": {
+        "lat": 62.6996002197,
+        "long": -148.9069976807,
+        "name": "Stephan Lake Lodge ",
+        "state": "Alaska"
+    },
+    "AK63": {
+        "lat": 61.5886001587,
+        "long": -149.1430053711,
+        "name": "Pat-Mar Strip",
+        "state": "Alaska"
+    },
+    "AK64": {
+        "lat": 60.8678016663,
+        "long": -157.391998291,
+        "name": "Taylor Mountain ",
+        "state": "Alaska"
+    },
+    "AK65": {
+        "lat": 61.5979003906,
+        "long": -149.3509979248,
+        "name": "Green's Strip",
+        "state": "Alaska"
+    },
+    "AK66": {
+        "lat": 61.4631004333,
+        "long": -148.8040008545,
+        "name": "Hunter Creek ",
+        "state": "Alaska"
+    },
+    "AK67": {
+        "lat": 61.7386016846,
+        "long": -150.0729980469,
+        "name": "Skid Marks ",
+        "state": "Alaska"
+    },
+    "AK68": {
+        "lat": 61.7202987671,
+        "long": -150.0540008545,
+        "name": "Minuteman Strip",
+        "state": "Alaska"
+    },
+    "AK69": {
+        "lat": 61.7293014526,
+        "long": -150.0980072021,
+        "name": "Long Lake ",
+        "state": "Alaska"
+    },
+    "AK72": {
+        "lat": 61.70470047,
+        "long": -150.6009979248,
+        "name": "Jewell ",
+        "state": "Alaska"
+    },
+    "AK73": {
+        "lat": 60.7252998352,
+        "long": -151.3020019531,
+        "name": "Mcgahan Industrial Airpark",
+        "state": "Alaska"
+    },
+    "AK75": {
+        "lat": 65.907699585,
+        "long": -161.925994873,
+        "name": "Candle 2 ",
+        "state": "Alaska"
+    },
+    "AK76": {
+        "lat": 59.1260986328,
+        "long": -138.4069976807,
+        "name": "East Alsek River ",
+        "state": "Alaska"
+    },
+    "AK77": {
+        "lat": 63.9413986206,
+        "long": -145.4219970703,
+        "name": "All West ",
+        "state": "Alaska"
+    },
+    "AK79": {
+        "lat": 61.59355,
+        "long": -149.5665,
+        "name": "Jolly Field",
+        "state": "Alaska"
+    },
+    "AK80": {
+        "lat": 65.1016998291,
+        "long": -151.1770019531,
+        "name": "American Creek ",
+        "state": "Alaska"
+    },
+    "AK83": {
+        "lat": 61.6273002625,
+        "long": -149.6089935303,
+        "name": "Gannon's Landing ",
+        "state": "Alaska"
+    },
+    "AK84": {
+        "lat": 60.5293998718,
+        "long": -150.8309936523,
+        "name": "Scooter's Landing Strip",
+        "state": "Alaska"
+    },
+    "AK85": {
+        "lat": 61.482333,
+        "long": -149.763986,
+        "name": "Birchwater ",
+        "state": "Alaska"
+    },
+    "AK86": {
+        "lat": 61.573539,
+        "long": -149.91135,
+        "name": "Kramer ",
+        "state": "Alaska"
+    },
+    "AK88": {
+        "lat": 61.6046981812,
+        "long": -149.0399932861,
+        "name": "Eagle Nest ",
+        "state": "Alaska"
+    },
+    "AK89": {
+        "lat": 61.6570014954,
+        "long": -149.8370056152,
+        "name": "Black Spruce ",
+        "state": "Alaska"
+    },
+    "AK90": {
+        "lat": 61.7447013855,
+        "long": -150.1150054932,
+        "name": "Shirley Lake ",
+        "state": "Alaska"
+    },
+    "AK92": {
+        "lat": 61.63800049,
+        "long": -149.029007,
+        "name": "Martin ",
+        "state": "Alaska"
+    },
+    "AK93": {
+        "lat": 61.6552009583,
+        "long": -149.2729949951,
+        "name": "Grouse Ridge ",
+        "state": "Alaska"
+    },
+    "AK95": {
+        "lat": 61.5698013306,
+        "long": -149.779006958,
+        "name": "Twin Lake ",
+        "state": "Alaska"
+    },
+    "AK96": {
+        "lat": 58.2162017822,
+        "long": -157.352005005,
+        "name": "Bartletts ",
+        "state": "Alaska"
+    },
+    "AK97": {
+        "lat": 60.4230995178,
+        "long": -146.145996094,
+        "name": "Boswell Bay ",
+        "state": "Alaska"
+    },
+    "AK98": {
+        "lat": 65.6387023926,
+        "long": -167.4859924316,
+        "name": "Buck Creek ",
+        "state": "Alaska"
+    },
+    "AK99": {
+        "lat": 61.446667,
+        "long": -149.761111,
+        "name": "Grand Home ",
+        "state": "Alaska"
+    },
+    "PAAK": {
+        "lat": 52.22029877,
+        "long": -174.2059937,
+        "name": "Atka ",
+        "state": "Alaska"
+    },
+    "PAAL": {
+        "lat": 56.0060005188,
+        "long": -160.561004639,
+        "name": "Port Moller ",
+        "state": "Alaska"
+    },
+    "PAAM": {
+        "lat": 53.9729499817,
+        "long": -166.858459473,
+        "name": "Driftwood Bay Air Force Station ",
+        "state": "Alaska"
+    },
+    "PAAN": {
+        "lat": 64.1989974976,
+        "long": -147.9279937744,
+        "name": "Gold King Creek ",
+        "state": "Alaska"
+    },
+    "PAAQ": {
+        "lat": 61.5948982239,
+        "long": -149.0890045166,
+        "name": "Palmer Municipal ",
+        "state": "Alaska"
+    },
+    "PABA": {
+        "lat": 70.1340026855,
+        "long": -143.582000732,
+        "name": "Barter Island LRRS ",
+        "state": "Alaska"
+    },
+    "PABE": {
+        "lat": 60.77980042,
+        "long": -161.8379974,
+        "name": "Bethel ",
+        "state": "Alaska"
+    },
+    "PABG": {
+        "lat": 61.1721992493,
+        "long": -151.044006348,
+        "name": "Beluga ",
+        "state": "Alaska"
+    },
+    "PABI": {
+        "lat": 63.9944992065,
+        "long": -145.722000122,
+        "name": "Allen Army Airfield",
+        "state": "Alaska"
+    },
+    "PABL": {
+        "lat": 65.9815979004,
+        "long": -161.149002075,
+        "name": "Buckland ",
+        "state": "Alaska"
+    },
+    "PABM": {
+        "lat": 59.3611984253,
+        "long": -155.259002686,
+        "name": "Big Mountain ",
+        "state": "Alaska"
+    },
+    "PABN": {
+        "lat": 62.4017982483,
+        "long": -142.994995117,
+        "name": "Devils Mountain Lodge ",
+        "state": "Alaska"
+    },
+    "PABP": {
+        "lat": 70.1374969482,
+        "long": -147.0299987793,
+        "name": "Badami ",
+        "state": "Alaska"
+    },
+    "PABR": {
+        "lat": 71.2854003906,
+        "long": -156.7660064697,
+        "name": "Wiley Post Will Rogers Memorial ",
+        "state": "Alaska"
+    },
+    "PABT": {
+        "lat": 66.91390228,
+        "long": -151.529007,
+        "name": "Bettles ",
+        "state": "Alaska"
+    },
+    "PABU": {
+        "lat": 70.1727981567,
+        "long": -146.8359985352,
+        "name": "Bullen Point Air Force Station ",
+        "state": "Alaska"
+    },
+    "PABV": {
+        "lat": 61.41650009,
+        "long": -149.5070038,
+        "name": "Birchwood ",
+        "state": "Alaska"
+    },
+    "PACD": {
+        "lat": 55.2061004639,
+        "long": -162.7250061035,
+        "name": "Cold Bay ",
+        "state": "Alaska"
+    },
+    "PACE": {
+        "lat": 65.57379913,
+        "long": -144.7830048,
+        "name": "Central ",
+        "state": "Alaska"
+    },
+    "PACH": {
+        "lat": 61.57910156,
+        "long": -159.2160034,
+        "name": "Chuathbaluk ",
+        "state": "Alaska"
+    },
+    "PACI": {
+        "lat": 66.6449966431,
+        "long": -143.740005493,
+        "name": "Chalkyitsik ",
+        "state": "Alaska"
+    },
+    "PACK": {
+        "lat": 60.1492004395,
+        "long": -164.2859954834,
+        "name": "Chefornak ",
+        "state": "Alaska"
+    },
+    "PACL": {
+        "lat": 64.3012008667,
+        "long": -149.119995117,
+        "name": "Clear ",
+        "state": "Alaska"
+    },
+    "PACM": {
+        "lat": 61.8452987671,
+        "long": -165.570999146,
+        "name": "Scammon Bay ",
+        "state": "Alaska"
+    },
+    "PACR": {
+        "lat": 65.83049774,
+        "long": -144.076004,
+        "name": "Circle City /New/ ",
+        "state": "Alaska"
+    },
+    "PACS": {
+        "lat": 54.5824012756,
+        "long": -164.9140014648,
+        "name": "Cape Sarichef ",
+        "state": "Alaska"
+    },
+    "PACV": {
+        "lat": 60.4917984,
+        "long": -145.4779968,
+        "name": "Merle K (Mudhole) Smith ",
+        "state": "Alaska"
+    },
+    "PACX": {
+        "lat": 67.2521972656,
+        "long": -150.203994751,
+        "name": "Coldfoot ",
+        "state": "Alaska"
+    },
+    "PACY": {
+        "lat": 60.0820007324,
+        "long": -142.4929962158,
+        "name": "Yakataga ",
+        "state": "Alaska"
+    },
+    "PACZ": {
+        "lat": 61.78030014,
+        "long": -166.0390015,
+        "name": "Cape Romanzof LRRS ",
+        "state": "Alaska"
+    },
+    "PADE": {
+        "lat": 66.0696029663,
+        "long": -162.76600647,
+        "name": "Deering ",
+        "state": "Alaska"
+    },
+    "PADG": {
+        "lat": 68.0320968628,
+        "long": -162.899002075,
+        "name": "Red Dog ",
+        "state": "Alaska"
+    },
+    "PADK": {
+        "lat": 51.8779983521,
+        "long": -176.6459960938,
+        "name": "Adak ",
+        "state": "Alaska"
+    },
+    "PADL": {
+        "lat": 59.04470062,
+        "long": -158.5050049,
+        "name": "Dillingham ",
+        "state": "Alaska"
+    },
+    "PADM": {
+        "lat": 61.8642997742,
+        "long": -162.0260009766,
+        "name": "Marshall Don Hunter Sr ",
+        "state": "Alaska"
+    },
+    "PADQ": {
+        "lat": 57.75,
+        "long": -152.4940033,
+        "name": "Kodiak ",
+        "state": "Alaska"
+    },
+    "PADU": {
+        "lat": 53.900100708,
+        "long": -166.5440063477,
+        "name": "Unalaska ",
+        "state": "Alaska"
+    },
+    "PADY": {
+        "lat": 59.9608001709,
+        "long": -162.8809967041,
+        "name": "Kongiganak ",
+        "state": "Alaska"
+    },
+    "PAED": {
+        "lat": 61.2509994507,
+        "long": -149.8070068359,
+        "name": "Elmendorf Air Force Base",
+        "state": "Alaska"
+    },
+    "PAEE": {
+        "lat": 60.21367264,
+        "long": -162.0438843,
+        "name": "Eek ",
+        "state": "Alaska"
+    },
+    "PAEG": {
+        "lat": 64.77639771,
+        "long": -141.151001,
+        "name": "Eagle ",
+        "state": "Alaska"
+    },
+    "PAEH": {
+        "lat": 58.6464004517,
+        "long": -162.06300354,
+        "name": "Cape Newenham LRRS ",
+        "state": "Alaska"
+    },
+    "PAEI": {
+        "lat": 64.66570282,
+        "long": -147.102005,
+        "name": "Eielson Air Force Base",
+        "state": "Alaska"
+    },
+    "PAEM": {
+        "lat": 62.78609848,
+        "long": -164.4909973,
+        "name": "Emmonak ",
+        "state": "Alaska"
+    },
+    "PAEN": {
+        "lat": 60.5731010437,
+        "long": -151.2449951172,
+        "name": "Kenai Municipal ",
+        "state": "Alaska"
+    },
+    "PAEW": {
+        "lat": 60.9390983582,
+        "long": -164.6410064697,
+        "name": "Newtok ",
+        "state": "Alaska"
+    },
+    "PAFA": {
+        "lat": 64.81510162,
+        "long": -147.8560028,
+        "name": "Fairbanks International ",
+        "state": "Alaska"
+    },
+    "PAFB": {
+        "lat": 64.83750153,
+        "long": -147.6139984,
+        "name": "Ladd AAF Airfield",
+        "state": "Alaska"
+    },
+    "PAFE": {
+        "lat": 56.9613990784,
+        "long": -133.9100036621,
+        "name": "Kake ",
+        "state": "Alaska"
+    },
+    "PAFL": {
+        "lat": 62.5316009521,
+        "long": -153.6109924316,
+        "name": "Tin Creek ",
+        "state": "Alaska"
+    },
+    "PAFM": {
+        "lat": 67.106300354,
+        "long": -157.856994629,
+        "name": "Ambler ",
+        "state": "Alaska"
+    },
+    "PAFS": {
+        "lat": 63.0186004639,
+        "long": -154.358001709,
+        "name": "Nikolai ",
+        "state": "Alaska"
+    },
+    "PAFV": {
+        "lat": 65.9270019531,
+        "long": -149.839996338,
+        "name": "Five Mile ",
+        "state": "Alaska"
+    },
+    "PAFW": {
+        "lat": 62.5065994263,
+        "long": -153.8939971924,
+        "name": "Farewell ",
+        "state": "Alaska"
+    },
+    "PAGA": {
+        "lat": 64.73619843,
+        "long": -156.9369965,
+        "name": "Edward G. Pitka Sr ",
+        "state": "Alaska"
+    },
+    "PAGB": {
+        "lat": 68.4796981812,
+        "long": -149.4900054932,
+        "name": "Galbraith Lake ",
+        "state": "Alaska"
+    },
+    "PAGG": {
+        "lat": 59.876499176,
+        "long": -163.1690063477,
+        "name": "Kwigillingok ",
+        "state": "Alaska"
+    },
+    "PAGH": {
+        "lat": 66.8880996704,
+        "long": -157.1620025635,
+        "name": "Shungnak ",
+        "state": "Alaska"
+    },
+    "PAGK": {
+        "lat": 62.1548996,
+        "long": -145.4570007,
+        "name": "Gulkana ",
+        "state": "Alaska"
+    },
+    "PAGL": {
+        "lat": 64.5504989624,
+        "long": -163.007003784,
+        "name": "Golovin ",
+        "state": "Alaska"
+    },
+    "PAGM": {
+        "lat": 63.7667999268,
+        "long": -171.733001709,
+        "name": "Gambell ",
+        "state": "Alaska"
+    },
+    "PAGQ": {
+        "lat": 61.5360984802,
+        "long": -149.8139953613,
+        "name": "Big Lake ",
+        "state": "Alaska"
+    },
+    "PAGS": {
+        "lat": 58.4253006,
+        "long": -135.7070007,
+        "name": "Gustavus ",
+        "state": "Alaska"
+    },
+    "PAGT": {
+        "lat": 60.4710006714,
+        "long": -164.7010040283,
+        "name": "Nightmute ",
+        "state": "Alaska"
+    },
+    "PAGY": {
+        "lat": 59.4600982666,
+        "long": -135.3159942627,
+        "name": "Skagway ",
+        "state": "Alaska"
+    },
+    "PAGZ": {
+        "lat": 65.40209961,
+        "long": -161.2810059,
+        "name": "Granite Mountain Air Station",
+        "state": "Alaska"
+    },
+    "PAHC": {
+        "lat": 62.1883010864,
+        "long": -159.7749938965,
+        "name": "Holy Cross ",
+        "state": "Alaska"
+    },
+    "PAHE": {
+        "lat": 61.9014015198,
+        "long": -147.304000854,
+        "name": "Tahneta Pass ",
+        "state": "Alaska"
+    },
+    "PAHL": {
+        "lat": 65.69789886,
+        "long": -156.3509979,
+        "name": "Huslia ",
+        "state": "Alaska"
+    },
+    "PAHN": {
+        "lat": 59.2438011169,
+        "long": -135.5240020752,
+        "name": "Haines ",
+        "state": "Alaska"
+    },
+    "PAHO": {
+        "lat": 59.6455993652,
+        "long": -151.4770050049,
+        "name": "Homer ",
+        "state": "Alaska"
+    },
+    "PAHP": {
+        "lat": 61.52389908,
+        "long": -166.1470032,
+        "name": "Hooper Bay ",
+        "state": "Alaska"
+    },
+    "PAHU": {
+        "lat": 66.04109955,
+        "long": -154.2630005,
+        "name": "Hughes ",
+        "state": "Alaska"
+    },
+    "PAHV": {
+        "lat": 63.8661994934,
+        "long": -148.9689941406,
+        "name": "Healy River ",
+        "state": "Alaska"
+    },
+    "PAHX": {
+        "lat": 62.6922988892,
+        "long": -159.569000244,
+        "name": "Shageluk ",
+        "state": "Alaska"
+    },
+    "PAIG": {
+        "lat": 59.3240013123,
+        "long": -155.9019927979,
+        "name": "Igiugig ",
+        "state": "Alaska"
+    },
+    "PAII": {
+        "lat": 58.1855010986,
+        "long": -157.375,
+        "name": "Egegik ",
+        "state": "Alaska"
+    },
+    "PAIK": {
+        "lat": 66.9759979248,
+        "long": -160.43699646,
+        "name": "Bob Baker Memorial ",
+        "state": "Alaska"
+    },
+    "PAIL": {
+        "lat": 59.75439835,
+        "long": -154.9109955,
+        "name": "Iliamna ",
+        "state": "Alaska"
+    },
+    "PAIM": {
+        "lat": 65.99279785,
+        "long": -153.7039948,
+        "name": "Indian Mountain LRRS ",
+        "state": "Alaska"
+    },
+    "PAIN": {
+        "lat": 63.7326011658,
+        "long": -148.910995483,
+        "name": "Mc Kinley National Park ",
+        "state": "Alaska"
+    },
+    "PAIW": {
+        "lat": 65.6225967407,
+        "long": -168.095001221,
+        "name": "Wales ",
+        "state": "Alaska"
+    },
+    "PAJC": {
+        "lat": 56.3115005493,
+        "long": -158.3730010986,
+        "name": "Chignik ",
+        "state": "Alaska"
+    },
+    "PAJN": {
+        "lat": 58.3549995422,
+        "long": -134.5760040283,
+        "name": "Juneau International ",
+        "state": "Alaska"
+    },
+    "PAJO": {
+        "lat": 60.4817008972,
+        "long": -146.583999634,
+        "name": "Johnstone Point ",
+        "state": "Alaska"
+    },
+    "PAJV": {
+        "lat": 61.7313995361,
+        "long": -148.9279937744,
+        "name": "Jonesville Mine ",
+        "state": "Alaska"
+    },
+    "PAJZ": {
+        "lat": 59.726600647,
+        "long": -157.2590026855,
+        "name": "Koliganek ",
+        "state": "Alaska"
+    },
+    "PAKD": {
+        "lat": 57.8059005737,
+        "long": -152.3739929199,
+        "name": "Kodiak Municipal ",
+        "state": "Alaska"
+    },
+    "PAKF": {
+        "lat": 54.8474006653,
+        "long": -163.4100036621,
+        "name": "False Pass ",
+        "state": "Alaska"
+    },
+    "PAKH": {
+        "lat": 56.9387016296,
+        "long": -154.182998657,
+        "name": "Akhiok ",
+        "state": "Alaska"
+    },
+    "PAKI": {
+        "lat": 59.9329986572,
+        "long": -164.0310058594,
+        "name": "Kipnuk ",
+        "state": "Alaska"
+    },
+    "PAKK": {
+        "lat": 64.9394989014,
+        "long": -161.154006958,
+        "name": "Koyuk Alfred Adams ",
+        "state": "Alaska"
+    },
+    "PAKL": {
+        "lat": 58.9821014404,
+        "long": -155.1210021973,
+        "name": "Kulik Lake ",
+        "state": "Alaska"
+    },
+    "PAKN": {
+        "lat": 58.67679977,
+        "long": -156.6490021,
+        "name": "King Salmon ",
+        "state": "Alaska"
+    },
+    "PAKO": {
+        "lat": 52.9416007996,
+        "long": -168.8489990234,
+        "name": "Nikolski Air Station",
+        "state": "Alaska"
+    },
+    "PAKP": {
+        "lat": 68.13359833,
+        "long": -151.7429962,
+        "name": "Anaktuvuk Pass ",
+        "state": "Alaska"
+    },
+    "PAKT": {
+        "lat": 55.35559845,
+        "long": -131.7140045,
+        "name": "Ketchikan International ",
+        "state": "Alaska"
+    },
+    "PAKU": {
+        "lat": 70.3308029175,
+        "long": -149.598007202,
+        "name": "Ugnu-Kuparuk ",
+        "state": "Alaska"
+    },
+    "PAKV": {
+        "lat": 64.31909943,
+        "long": -158.7409973,
+        "name": "Kaltag ",
+        "state": "Alaska"
+    },
+    "PAKW": {
+        "lat": 55.5792007446,
+        "long": -133.0760040283,
+        "name": "Klawock ",
+        "state": "Alaska"
+    },
+    "PAKY": {
+        "lat": 57.5671005249,
+        "long": -154.449996948,
+        "name": "Karluk ",
+        "state": "Alaska"
+    },
+    "PALB": {
+        "lat": 57.5350990295,
+        "long": -153.9779968262,
+        "name": "Larsen Bay ",
+        "state": "Alaska"
+    },
+    "PALG": {
+        "lat": 61.5363006592,
+        "long": -160.341003418,
+        "name": "Kalskag ",
+        "state": "Alaska"
+    },
+    "PALJ": {
+        "lat": 60.2042999268,
+        "long": -154.319000244,
+        "name": "Port Alsworth ",
+        "state": "Alaska"
+    },
+    "PALN": {
+        "lat": 70.91069794,
+        "long": -153.2420044,
+        "name": "Lonely Air Station",
+        "state": "Alaska"
+    },
+    "PALP": {
+        "lat": 70.3442993164,
+        "long": -150.945007324,
+        "name": "Alpine Airstrip",
+        "state": "Alaska"
+    },
+    "PALR": {
+        "lat": 67.5045013428,
+        "long": -148.483001709,
+        "name": "Chandalar Lake ",
+        "state": "Alaska"
+    },
+    "PALU": {
+        "lat": 68.87509918,
+        "long": -166.1100006,
+        "name": "Cape Lisburne LRRS ",
+        "state": "Alaska"
+    },
+    "PAMB": {
+        "lat": 58.9902000427,
+        "long": -159.050003052,
+        "name": "Manokotak ",
+        "state": "Alaska"
+    },
+    "PAMC": {
+        "lat": 62.95289993,
+        "long": -155.6060028,
+        "name": "McGrath ",
+        "state": "Alaska"
+    },
+    "PAMD": {
+        "lat": 59.4499015808,
+        "long": -146.307006836,
+        "name": "Middleton Island ",
+        "state": "Alaska"
+    },
+    "PAMH": {
+        "lat": 63.8860015869,
+        "long": -152.3020019531,
+        "name": "Minchumina ",
+        "state": "Alaska"
+    },
+    "PAMK": {
+        "lat": 63.49010086,
+        "long": -162.1100006,
+        "name": "St Michael ",
+        "state": "Alaska"
+    },
+    "PAML": {
+        "lat": 64.9975967407,
+        "long": -150.643997192,
+        "name": "Manley Hot Springs ",
+        "state": "Alaska"
+    },
+    "PAMO": {
+        "lat": 62.0954017639,
+        "long": -163.6820068359,
+        "name": "Mountain Village ",
+        "state": "Alaska"
+    },
+    "PAMX": {
+        "lat": 61.4370994568,
+        "long": -142.904006958,
+        "name": "Mc Carthy ",
+        "state": "Alaska"
+    },
+    "PAMY": {
+        "lat": 60.3713989258,
+        "long": -166.2709960938,
+        "name": "Mekoryuk ",
+        "state": "Alaska"
+    },
+    "PANA": {
+        "lat": 60.6902999878,
+        "long": -161.9790039063,
+        "name": "Napakiak ",
+        "state": "Alaska"
+    },
+    "PANC": {
+        "lat": 61.1744003296,
+        "long": -149.9960021973,
+        "name": "Ted Stevens Anchorage International ",
+        "state": "Alaska"
+    },
+    "PANI": {
+        "lat": 61.5816001892,
+        "long": -159.5429992676,
+        "name": "Aniak ",
+        "state": "Alaska"
+    },
+    "PANN": {
+        "lat": 64.5473022461,
+        "long": -149.074005127,
+        "name": "Nenana Municipal ",
+        "state": "Alaska"
+    },
+    "PANO": {
+        "lat": 59.9802017212,
+        "long": -154.8390045166,
+        "name": "Nondalton ",
+        "state": "Alaska"
+    },
+    "PANT": {
+        "lat": 55.0424003601,
+        "long": -131.5720062256,
+        "name": "Annette Island ",
+        "state": "Alaska"
+    },
+    "PANU": {
+        "lat": 64.7293014526,
+        "long": -158.074005127,
+        "name": "Nulato ",
+        "state": "Alaska"
+    },
+    "PANV": {
+        "lat": 62.64670181,
+        "long": -160.1909943,
+        "name": "Anvik ",
+        "state": "Alaska"
+    },
+    "PANW": {
+        "lat": 59.4499015808,
+        "long": -157.32800293,
+        "name": "New Stuyahok ",
+        "state": "Alaska"
+    },
+    "PAOB": {
+        "lat": 66.9123001099,
+        "long": -156.897003174,
+        "name": "Kobuk ",
+        "state": "Alaska"
+    },
+    "PAOC": {
+        "lat": 58.90650177,
+        "long": -157.714004517,
+        "name": "Portage Creek ",
+        "state": "Alaska"
+    },
+    "PAOH": {
+        "lat": 58.0960998535,
+        "long": -135.4100036621,
+        "name": "Hoonah ",
+        "state": "Alaska"
+    },
+    "PAOM": {
+        "lat": 64.5121994019,
+        "long": -165.4450073242,
+        "name": "Nome ",
+        "state": "Alaska"
+    },
+    "PAOO": {
+        "lat": 60.54140091,
+        "long": -165.0870056,
+        "name": "Toksook Bay ",
+        "state": "Alaska"
+    },
+    "PAOR": {
+        "lat": 62.9612999,
+        "long": -141.9290009,
+        "name": "Northway ",
+        "state": "Alaska"
+    },
+    "PAOT": {
+        "lat": 66.88469696,
+        "long": -162.598999,
+        "name": "Ralph Wien Memorial ",
+        "state": "Alaska"
+    },
+    "PAOU": {
+        "lat": 56.0074996948,
+        "long": -161.1600036621,
+        "name": "Nelson Lagoon ",
+        "state": "Alaska"
+    },
+    "PAPC": {
+        "lat": 65.2537002563,
+        "long": -166.85899353,
+        "name": "Port Clarence Coast Guard Station",
+        "state": "Alaska"
+    },
+    "PAPE": {
+        "lat": 55.90599823,
+        "long": -159.1629944,
+        "name": "Perryville ",
+        "state": "Alaska"
+    },
+    "PAPG": {
+        "lat": 56.80170059,
+        "long": -132.9450073,
+        "name": "Petersburg James A Johnson ",
+        "state": "Alaska"
+    },
+    "PAPH": {
+        "lat": 56.9590988159,
+        "long": -158.6329956055,
+        "name": "Port Heiden ",
+        "state": "Alaska"
+    },
+    "PAPK": {
+        "lat": 60.70289993,
+        "long": -161.7779999,
+        "name": "Napaskiak ",
+        "state": "Alaska"
+    },
+    "PAPM": {
+        "lat": 59.0113983154,
+        "long": -161.8200073242,
+        "name": "Platinum ",
+        "state": "Alaska"
+    },
+    "PAPN": {
+        "lat": 57.5803985596,
+        "long": -157.572006226,
+        "name": "Pilot Point ",
+        "state": "Alaska"
+    },
+    "PAPO": {
+        "lat": 68.3488006592,
+        "long": -166.7989959717,
+        "name": "Point Hope ",
+        "state": "Alaska"
+    },
+    "PAPR": {
+        "lat": 66.8141021729,
+        "long": -150.6439971924,
+        "name": "Prospect Creek ",
+        "state": "Alaska"
+    },
+    "PAQH": {
+        "lat": 59.75510025,
+        "long": -161.8450012,
+        "name": "Quinhagak ",
+        "state": "Alaska"
+    },
+    "PAQT": {
+        "lat": 70.2099990845,
+        "long": -151.005996704,
+        "name": "Nuiqsut ",
+        "state": "Alaska"
+    },
+    "PARC": {
+        "lat": 68.1147003174,
+        "long": -145.578994751,
+        "name": "Arctic Village ",
+        "state": "Alaska"
+    },
+    "PARS": {
+        "lat": 61.7788848877,
+        "long": -161.3194580078,
+        "name": "Russian Mission ",
+        "state": "Alaska"
+    },
+    "PARY": {
+        "lat": 64.72720337,
+        "long": -155.4700012,
+        "name": "Ruby ",
+        "state": "Alaska"
+    },
+    "PASA": {
+        "lat": 63.6864013672,
+        "long": -170.4929962158,
+        "name": "Savoonga ",
+        "state": "Alaska"
+    },
+    "PASC": {
+        "lat": 70.19470215,
+        "long": -148.4649963,
+        "name": "Deadhorse ",
+        "state": "Alaska"
+    },
+    "PASD": {
+        "lat": 55.3149986267,
+        "long": -160.5229949951,
+        "name": "Sand Point ",
+        "state": "Alaska"
+    },
+    "PASH": {
+        "lat": 66.2496032715,
+        "long": -166.0890045166,
+        "name": "Shishmaref ",
+        "state": "Alaska"
+    },
+    "PASI": {
+        "lat": 57.0471000671,
+        "long": -135.3619995117,
+        "name": "Sitka Rocky Gutierrez ",
+        "state": "Alaska"
+    },
+    "PASK": {
+        "lat": 66.60009766,
+        "long": -159.9859924,
+        "name": "Selawik ",
+        "state": "Alaska"
+    },
+    "PASL": {
+        "lat": 61.7005004883,
+        "long": -157.166000366,
+        "name": "Sleetmute ",
+        "state": "Alaska"
+    },
+    "PASM": {
+        "lat": 62.0605011,
+        "long": -163.302002,
+        "name": "St Mary's ",
+        "state": "Alaska"
+    },
+    "PASN": {
+        "lat": 57.167301178,
+        "long": -170.2200012207,
+        "name": "St Paul Island ",
+        "state": "Alaska"
+    },
+    "PASO": {
+        "lat": 59.442401886,
+        "long": -151.703994751,
+        "name": "Seldovia ",
+        "state": "Alaska"
+    },
+    "PASP": {
+        "lat": 61.8120002747,
+        "long": -147.507003784,
+        "name": "Sheep Mountain ",
+        "state": "Alaska"
+    },
+    "PAST": {
+        "lat": 63.3315010071,
+        "long": -149.126998901,
+        "name": "Summit ",
+        "state": "Alaska"
+    },
+    "PASV": {
+        "lat": 61.09740067,
+        "long": -155.5740051,
+        "name": "Sparrevohn LRRS ",
+        "state": "Alaska"
+    },
+    "PASW": {
+        "lat": 61.9653015137,
+        "long": -151.1909942627,
+        "name": "Skwentna ",
+        "state": "Alaska"
+    },
+    "PASX": {
+        "lat": 60.4757003784,
+        "long": -151.033996582,
+        "name": "Soldotna ",
+        "state": "Alaska"
+    },
+    "PASY": {
+        "lat": 52.71229935,
+        "long": 174.1139984,
+        "name": "Eareckson Air Station",
+        "state": "Alaska"
+    },
+    "PATA": {
+        "lat": 65.1744003296,
+        "long": -152.10899353,
+        "name": "Ralph M Calhoun Memorial ",
+        "state": "Alaska"
+    },
+    "PATC": {
+        "lat": 65.56310272,
+        "long": -167.9219971,
+        "name": "Tin City Long Range Radar Station ",
+        "state": "Alaska"
+    },
+    "PATE": {
+        "lat": 65.2404022217,
+        "long": -166.3390045166,
+        "name": "Teller ",
+        "state": "Alaska"
+    },
+    "PATG": {
+        "lat": 59.0527992249,
+        "long": -160.3970031738,
+        "name": "Togiak ",
+        "state": "Alaska"
+    },
+    "PATJ": {
+        "lat": 63.303333,
+        "long": -143.001111,
+        "name": "Tok ",
+        "state": "Alaska"
+    },
+    "PATK": {
+        "lat": 62.3204994202,
+        "long": -150.0939941406,
+        "name": "Talkeetna ",
+        "state": "Alaska"
+    },
+    "PATL": {
+        "lat": 62.8944015503,
+        "long": -155.977005005,
+        "name": "Tatalina LRRS ",
+        "state": "Alaska"
+    },
+    "PATQ": {
+        "lat": 70.467300415,
+        "long": -157.4360046387,
+        "name": "Atqasuk Edward Burnell Sr Memorial ",
+        "state": "Alaska"
+    },
+    "PATW": {
+        "lat": 63.3912010193,
+        "long": -148.9559936523,
+        "name": "Cantwell ",
+        "state": "Alaska"
+    },
+    "PAUK": {
+        "lat": 62.6800422668,
+        "long": -164.659927368,
+        "name": "Alakanuk ",
+        "state": "Alaska"
+    },
+    "PAUM": {
+        "lat": 69.37110138,
+        "long": -152.1360016,
+        "name": "Umiat ",
+        "state": "Alaska"
+    },
+    "PAUN": {
+        "lat": 63.88840103,
+        "long": -160.798996,
+        "name": "Unalakleet ",
+        "state": "Alaska"
+    },
+    "PAUO": {
+        "lat": 61.7541999817,
+        "long": -150.0520019531,
+        "name": "Willow ",
+        "state": "Alaska"
+    },
+    "PAUT": {
+        "lat": 54.1449925194,
+        "long": -165.607566833,
+        "name": "Akun ",
+        "state": "Alaska"
+    },
+    "PAVA": {
+        "lat": 61.5409,
+        "long": -165.6005,
+        "name": "Chevak ",
+        "state": "Alaska"
+    },
+    "PAVC": {
+        "lat": 55.1162986755,
+        "long": -162.2660064697,
+        "name": "King Cove ",
+        "state": "Alaska"
+    },
+    "PAVD": {
+        "lat": 61.13389969,
+        "long": -146.2480011,
+        "name": "Valdez Pioneer Field",
+        "state": "Alaska"
+    },
+    "PAVE": {
+        "lat": 67.0086975098,
+        "long": -146.365997314,
+        "name": "Venetie ",
+        "state": "Alaska"
+    },
+    "PAVL": {
+        "lat": 67.7361984253,
+        "long": -164.56300354,
+        "name": "Kivalina ",
+        "state": "Alaska"
+    },
+    "PAWB": {
+        "lat": 66.362197876,
+        "long": -147.406997681,
+        "name": "Beaver ",
+        "state": "Alaska"
+    },
+    "PAWD": {
+        "lat": 60.1268997192,
+        "long": -149.4190063477,
+        "name": "Seward ",
+        "state": "Alaska"
+    },
+    "PAWG": {
+        "lat": 56.48429871,
+        "long": -132.3699951,
+        "name": "Wrangell ",
+        "state": "Alaska"
+    },
+    "PAWI": {
+        "lat": 70.6380004883,
+        "long": -159.994995117,
+        "name": "Wainwright ",
+        "state": "Alaska"
+    },
+    "PAWM": {
+        "lat": 64.689201355,
+        "long": -163.4129943848,
+        "name": "White Mountain ",
+        "state": "Alaska"
+    },
+    "PAWN": {
+        "lat": 67.5661010742,
+        "long": -162.9750061035,
+        "name": "Noatak ",
+        "state": "Alaska"
+    },
+    "PAWR": {
+        "lat": 60.7771987915,
+        "long": -148.7220001221,
+        "name": "Whittier ",
+        "state": "Alaska"
+    },
+    "PAWS": {
+        "lat": 61.5717010498,
+        "long": -149.5399932861,
+        "name": "Wasilla ",
+        "state": "Alaska"
+    },
+    "PAWT": {
+        "lat": 70.61340332,
+        "long": -159.8600006,
+        "name": "Wainwright Air Station",
+        "state": "Alaska"
+    },
+    "PAXK": {
+        "lat": 63.0246009827,
+        "long": -145.50100708,
+        "name": "Paxson ",
+        "state": "Alaska"
+    },
+    "PAYA": {
+        "lat": 59.5032997131,
+        "long": -139.660003662,
+        "name": "Yakutat ",
+        "state": "Alaska"
+    },
+    "PAZK": {
+        "lat": 61.9370002747,
+        "long": -147.169006348,
+        "name": "Skelton ",
+        "state": "Alaska"
+    },
+    "PFAK": {
+        "lat": 60.9029006958,
+        "long": -161.231002808,
+        "name": "Akiak ",
+        "state": "Alaska"
+    },
+    "PFAL": {
+        "lat": 66.5518035889,
+        "long": -152.621994019,
+        "name": "Allakaket ",
+        "state": "Alaska"
+    },
+    "PFCB": {
+        "lat": 60.0773010254,
+        "long": -147.992004395,
+        "name": "Chenega Bay ",
+        "state": "Alaska"
+    },
+    "PFCL": {
+        "lat": 58.83369827,
+        "long": -158.529007,
+        "name": "Clarks Point ",
+        "state": "Alaska"
+    },
+    "PFEL": {
+        "lat": 64.61470032,
+        "long": -162.2720032,
+        "name": "Elim ",
+        "state": "Alaska"
+    },
+    "PFKA": {
+        "lat": 60.87440109,
+        "long": -162.5240021,
+        "name": "Kasigluk ",
+        "state": "Alaska"
+    },
+    "PFKK": {
+        "lat": 59.4332008362,
+        "long": -154.804000854,
+        "name": "Kokhanok ",
+        "state": "Alaska"
+    },
+    "PFKO": {
+        "lat": 63.0306015015,
+        "long": -163.533004761,
+        "name": "Kotlik ",
+        "state": "Alaska"
+    },
+    "PFKT": {
+        "lat": 65.3312988281,
+        "long": -166.466003418,
+        "name": "Brevig Mission ",
+        "state": "Alaska"
+    },
+    "PFKU": {
+        "lat": 64.8760986328,
+        "long": -157.727005005,
+        "name": "Koyukuk ",
+        "state": "Alaska"
+    },
+    "PFKW": {
+        "lat": 60.7902984619,
+        "long": -161.444000244,
+        "name": "Kwethluk ",
+        "state": "Alaska"
+    },
+    "PFNO": {
+        "lat": 66.81790161,
+        "long": -161.0189972,
+        "name": "Robert (Bob) Curtis Memorial ",
+        "state": "Alaska"
+    },
+    "PFSH": {
+        "lat": 64.37110138,
+        "long": -161.223999,
+        "name": "Shaktoolik ",
+        "state": "Alaska"
+    },
+    "PFTO": {
+        "lat": 63.32949829,
+        "long": -142.9539948,
+        "name": "Tok Junction ",
+        "state": "Alaska"
+    },
+    "PFWS": {
+        "lat": 58.7033996582,
+        "long": -157.007995605,
+        "name": "South Naknek Nr 2 ",
+        "state": "Alaska"
+    },
+    "PFYU": {
+        "lat": 66.5715026855,
+        "long": -145.25,
+        "name": "Fort Yukon ",
+        "state": "Alaska"
+    },
+    "POLI": {
+        "lat": 70.49971,
+        "long": -149.879535,
+        "name": "Oliktok LRRS ",
+        "state": "Alaska"
+    },
+    "PPIZ": {
+        "lat": 69.73290253,
+        "long": -163.0050049,
+        "name": "Point Lay Lrrs ",
+        "state": "Alaska"
+    }
+}

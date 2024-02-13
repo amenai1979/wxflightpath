@@ -1,0 +1,577 @@
+{
+  "OI03": {
+    "lat": 35.1741981506,
+    "long": 52.323299408,
+    "name": "Garmcar Sw "
+  },
+  "OI13": {
+    "lat": 30,
+    "long": 53.7114982605,
+    "name": "Mahmudabad "
+  },
+  "OI19": {
+    "lat": 35.5298995972,
+    "long": 51.5057983398,
+    "name": "Firuzabad "
+  },
+  "OI1C": {
+    "lat": 36.8568992615,
+    "long": 54.2022018433,
+    "name": "Mehtar Kalateh "
+  },
+  "OI20": {
+    "lat": 29.8400993347,
+    "long": 50.2727012634,
+    "name": "Bahregan "
+  },
+  "OI21": {
+    "lat": 35.3894004822,
+    "long": 53.6713981628,
+    "name": "Semnan New "
+  },
+  "OI24": {
+    "lat": 37.2461013794,
+    "long": 55.0959014893,
+    "name": "Gonbad Ghabus "
+  },
+  "OIAA": {
+    "lat": 30.371099472,
+    "long": 48.2282981873,
+    "name": "Abadan "
+  },
+  "OIAD": {
+    "lat": 32.4343986511,
+    "long": 48.3975982666,
+    "name": "Dezful "
+  },
+  "OIAG": {
+    "lat": 30.7444000244,
+    "long": 49.6772003174,
+    "name": "Aghajari "
+  },
+  "OIAH": {
+    "lat": 30.337600708,
+    "long": 50.827999115,
+    "name": "Gachsaran "
+  },
+  "OIAI": {
+    "lat": 32.0023994446,
+    "long": 49.270401001,
+    "name": "Shahid Asyaee "
+  },
+  "OIAJ": {
+    "lat": 30.8351993561,
+    "long": 49.5349006653,
+    "name": "Omidiyeh "
+  },
+  "OIAM": {
+    "lat": 30.5562000275,
+    "long": 49.1519012451,
+    "name": "Mahshahr "
+  },
+  "OIAW": {
+    "lat": 31.3374004364,
+    "long": 48.7620010376,
+    "name": "Ahwaz "
+  },
+  "OIBA": {
+    "lat": 25.8756999969,
+    "long": 55.033000946,
+    "name": "Abumusa Island "
+  },
+  "OIBB": {
+    "lat": 28.9447994232,
+    "long": 50.8345985413,
+    "name": "Bushehr "
+  },
+  "OIBH": {
+    "lat": 27.2126998901,
+    "long": 54.3185997009,
+    "name": "Bastak "
+  },
+  "OIBI": {
+    "lat": 27.4813995361,
+    "long": 52.6155014038,
+    "name": "Asaloyeh "
+  },
+  "OIBJ": {
+    "lat": 27.8204994202,
+    "long": 52.3521995544,
+    "name": "Jam "
+  },
+  "OIBK": {
+    "lat": 26.5261993408,
+    "long": 53.9802017212,
+    "name": "Kish International "
+  },
+  "OIBL": {
+    "lat": 26.531999588,
+    "long": 54.824798584,
+    "name": "Bandar Lengeh "
+  },
+  "OIBN": {
+    "lat": 29.2666664124,
+    "long": 51.2000007629,
+    "name": "Borazjan "
+  },
+  "OIBP": {
+    "lat": 27.3796005249,
+    "long": 52.737701416,
+    "name": "Persian Gulf International "
+  },
+  "OIBQ": {
+    "lat": 29.2602996826,
+    "long": 50.3238983154,
+    "name": "Khark Island "
+  },
+  "OIBS": {
+    "lat": 25.9088993073,
+    "long": 54.5393981934,
+    "name": "Sirri Island "
+  },
+  "OIBV": {
+    "lat": 26.810300827,
+    "long": 53.356300354,
+    "name": "Lavan Island "
+  },
+  "OICB": {
+    "lat": 35.987701416,
+    "long": 45.8470993042,
+    "name": "Baneh "
+  },
+  "OICC": {
+    "lat": 34.3459014893,
+    "long": 47.1581001282,
+    "name": "Shahid Ashrafi Esfahani "
+  },
+  "OICD": {
+    "lat": 32.9345016479,
+    "long": 47.4833984375,
+    "name": "Abdanan "
+  },
+  "OICG": {
+    "lat": 34.5166664124,
+    "long": 45.5666656494,
+    "name": "Ghasre-Shirin "
+  },
+  "OICI": {
+    "lat": 33.5866012573,
+    "long": 46.404800415,
+    "name": "Ilam "
+  },
+  "OICK": {
+    "lat": 33.4353981018,
+    "long": 48.2829017639,
+    "name": "Khoram Abad "
+  },
+  "OICS": {
+    "lat": 35.2458992004,
+    "long": 47.0092010498,
+    "name": "Sanandaj "
+  },
+  "OICZ": {
+    "lat": 33.3835983276,
+    "long": 49.6963996887,
+    "name": "Aligoodarz "
+  },
+  "OIFE": {
+    "lat": 32.9289016724,
+    "long": 51.5611000061,
+    "name": "Hesa "
+  },
+  "OIFH": {
+    "lat": 32.5670013428,
+    "long": 51.6916007996,
+    "name": "Shahid Vatan Pour Air Base"
+  },
+  "OIFK": {
+    "lat": 33.8953018188,
+    "long": 51.5769996643,
+    "name": "Kashan "
+  },
+  "OIFM": {
+    "lat": 32.7508010864,
+    "long": 51.8613014221,
+    "name": "Esfahan Shahid Beheshti International "
+  },
+  "OIFP": {
+    "lat": 32.6211013794,
+    "long": 51.6969985962,
+    "name": "Badr Air Base"
+  },
+  "OIFS": {
+    "lat": 32.2971992493,
+    "long": 50.8422012329,
+    "name": "Shahrekord "
+  },
+  "OIFV": {
+    "lat": 32.3274002075,
+    "long": 51.3773002625,
+    "name": "Zarrinshahr "
+  },
+  "OIGG": {
+    "lat": 37.323333,
+    "long": 49.617778,
+    "name": "Sardar-e-Jangal "
+  },
+  "OIHH": {
+    "lat": 34.8692016602,
+    "long": 48.5525016785,
+    "name": "Hamadan "
+  },
+  "OIHM": {
+    "lat": 34.2833328247,
+    "long": 48.8166656494,
+    "name": "Malayer "
+  },
+  "OIHR": {
+    "lat": 34.1380996704,
+    "long": 49.8473014832,
+    "name": "Arak "
+  },
+  "OIHS": {
+    "lat": 35.2116012573,
+    "long": 48.6534004211,
+    "name": "Hamadan Air Base"
+  },
+  "OIIA": {
+    "lat": 35.9520988464,
+    "long": 50.4508018494,
+    "name": "Ghazvin Azadi "
+  },
+  "OIIC": {
+    "lat": 34.9840011597,
+    "long": 50.8061981201,
+    "name": "Kushke Nosrat "
+  },
+  "OIID": {
+    "lat": 35.702999115,
+    "long": 51.4751014709,
+    "name": "Doshan Tappeh Air Base"
+  },
+  "OIIE": {
+    "lat": 35.4160995483,
+    "long": 51.1521987915,
+    "name": "Imam Khomeini International "
+  },
+  "OIIG": {
+    "lat": 35.6447982788,
+    "long": 51.3806991577,
+    "name": "Ghale Morghi "
+  },
+  "OIII": {
+    "lat": 35.689201355,
+    "long": 51.3134002686,
+    "name": "Mehrabad International "
+  },
+  "OIIK": {
+    "lat": 36.2401008606,
+    "long": 50.0471000671,
+    "name": "Qazvin "
+  },
+  "OIIM": {
+    "lat": 35.7762985229,
+    "long": 50.8810005188,
+    "name": "Naja "
+  },
+  "OIIP": {
+    "lat": 35.7761001587,
+    "long": 50.8266983032,
+    "name": "Payam "
+  },
+  "OIIQ": {
+    "lat": 34.6333312988,
+    "long": 50.8833312988,
+    "name": "Ghom "
+  },
+  "OIIS": {
+    "lat": 35.5910987854,
+    "long": 53.495098114,
+    "name": "Semnan "
+  },
+  "OIIU": {
+    "lat": 36.1666984558,
+    "long": 54.3438987732,
+    "name": "Damghan "
+  },
+  "OIKB": {
+    "lat": 27.2182998657,
+    "long": 56.3777999878,
+    "name": "Bandar Abbas International "
+  },
+  "OIKF": {
+    "lat": 29.2341995239,
+    "long": 56.6068992615,
+    "name": "Baft "
+  },
+  "OIKJ": {
+    "lat": 28.7269001007,
+    "long": 57.67029953,
+    "name": "Jiroft "
+  },
+  "OIKK": {
+    "lat": 30.2744007111,
+    "long": 56.9510993958,
+    "name": "Kerman "
+  },
+  "OIKM": {
+    "lat": 29.0841999054,
+    "long": 58.4500007629,
+    "name": "Bam "
+  },
+  "OIKP": {
+    "lat": 27.1583003998,
+    "long": 56.1725006104,
+    "name": "Havadarya "
+  },
+  "OIKQ": {
+    "lat": 26.7546005249,
+    "long": 55.9024009705,
+    "name": "Dayrestan "
+  },
+  "OIKR": {
+    "lat": 30.297700882,
+    "long": 56.0511016846,
+    "name": "Rafsanjan "
+  },
+  "OIKY": {
+    "lat": 29.5508995056,
+    "long": 55.6726989746,
+    "name": "Sirjan "
+  },
+  "OIMB": {
+    "lat": 32.8981018066,
+    "long": 59.2661018372,
+    "name": "Birjand "
+  },
+  "OIMC": {
+    "lat": 36.5012016296,
+    "long": 61.0648994446,
+    "name": "Sarakhs "
+  },
+  "OIMD": {
+    "lat": 34.3499984741,
+    "long": 58.6800003052,
+    "name": "Gonabad "
+  },
+  "OIMH": {
+    "lat": 35.2667007446,
+    "long": 59.2167015076,
+    "name": "Torbat-e Heydarieh "
+  },
+  "OIMJ": {
+    "lat": 36.4253005981,
+    "long": 55.1041984558,
+    "name": "Shahroud "
+  },
+  "OIMM": {
+    "lat": 36.2351989746,
+    "long": 59.6409988403,
+    "name": "Mashhad International "
+  },
+  "OIMN": {
+    "lat": 37.4930000305,
+    "long": 57.3082008362,
+    "name": "Bojnord "
+  },
+  "OIMS": {
+    "lat": 36.1680984497,
+    "long": 57.595199585,
+    "name": "Sabzevar National "
+  },
+  "OIMT": {
+    "lat": 33.6678009033,
+    "long": 56.8927001953,
+    "name": "Tabas "
+  },
+  "OIMX": {
+    "lat": 37.6278991699,
+    "long": 56.1730995178,
+    "name": "Soga "
+  },
+  "OINA": {
+    "lat": 36.4707984924,
+    "long": 52.3633003235,
+    "name": "Amol "
+  },
+  "OINB": {
+    "lat": 36.7200012207,
+    "long": 52.6500015259,
+    "name": "Babolsar "
+  },
+  "OINE": {
+    "lat": 37.3833007813,
+    "long": 55.4519996643,
+    "name": "Kalaleh "
+  },
+  "OING": {
+    "lat": 36.9094009399,
+    "long": 54.4012985229,
+    "name": "Gorgan "
+  },
+  "OINH": {
+    "lat": 36.6944007874,
+    "long": 53.5424995422,
+    "name": "Behshahr "
+  },
+  "OINI": {
+    "lat": 36.4666671753,
+    "long": 52.8666687012,
+    "name": "Ghaem Shahr "
+  },
+  "OINJ": {
+    "lat": 36.6551017761,
+    "long": 52.3496017456,
+    "name": "Bishe Kola Air Base"
+  },
+  "OINM": {
+    "lat": 34.1691665649,
+    "long": 51.3175010681,
+    "name": "Mahmood Abad "
+  },
+  "OINN": {
+    "lat": 36.6632995605,
+    "long": 51.4646987915,
+    "name": "Noshahr "
+  },
+  "OINR": {
+    "lat": 36.9099006653,
+    "long": 50.679599762,
+    "name": "Ramsar "
+  },
+  "OINZ": {
+    "lat": 36.635799408,
+    "long": 53.1935997009,
+    "name": "Dasht-e Naz "
+  },
+  "OISA": {
+    "lat": 31.1666679382,
+    "long": 52.6666679382,
+    "name": "Abadeh "
+  },
+  "OISD": {
+    "lat": 28.7215995789,
+    "long": 54.4412994385,
+    "name": "Darab "
+  },
+  "OISF": {
+    "lat": 28.8917999268,
+    "long": 53.7233009338,
+    "name": "Fasa "
+  },
+  "OISJ": {
+    "lat": 28.5867004395,
+    "long": 53.5791015625,
+    "name": "Jahrom "
+  },
+  "OISL": {
+    "lat": 27.6746997833,
+    "long": 54.3833007812,
+    "name": "Lar "
+  },
+  "OISO": {
+    "lat": 29.7541999817,
+    "long": 52.6943016052,
+    "name": "Zargan "
+  },
+  "OISR": {
+    "lat": 27.3726997375,
+    "long": 53.1888008118,
+    "name": "Lamerd "
+  },
+  "OISS": {
+    "lat": 29.5391998291,
+    "long": 52.5898017883,
+    "name": "Shiraz Shahid Dastghaib International "
+  },
+  "OISY": {
+    "lat": 30.7005004883,
+    "long": 51.5451011658,
+    "name": "Yasouj "
+  },
+  "OITK": {
+    "lat": 38.4275016785,
+    "long": 44.9735984802,
+    "name": "Khoy "
+  },
+  "OITL": {
+    "lat": 38.3256988525,
+    "long": 48.4244003296,
+    "name": "Ardabil "
+  },
+  "OITM": {
+    "lat": 37.3479995728,
+    "long": 46.1278991699,
+    "name": "Sahand "
+  },
+  "OITP": {
+    "lat": 39.6035995483,
+    "long": 47.8815002441,
+    "name": "Parsabade Moghan "
+  },
+  "OITR": {
+    "lat": 37.6680984497,
+    "long": 45.0686988831,
+    "name": "Urmia "
+  },
+  "OITS": {
+    "lat": 36.25,
+    "long": 46.2666664124,
+    "name": "Saghez "
+  },
+  "OITT": {
+    "lat": 38.1338996887,
+    "long": 46.2350006104,
+    "name": "Tabriz International "
+  },
+  "OITU": {
+    "lat": 39.3300018311,
+    "long": 44.4300003052,
+    "name": "Makou "
+  },
+  "OITZ": {
+    "lat": 36.7737007141,
+    "long": 48.3594017029,
+    "name": "Zanjan "
+  },
+  "OIYB": {
+    "lat": 31.5833320618,
+    "long": 55.5666656494,
+    "name": "Bafgh "
+  },
+  "OIYY": {
+    "lat": 31.9048995972,
+    "long": 54.2765007019,
+    "name": "Shahid Sadooghi "
+  },
+  "OIZB": {
+    "lat": 31.0983009338,
+    "long": 61.5438995361,
+    "name": "Zabol "
+  },
+  "OIZC": {
+    "lat": 25.4433002472,
+    "long": 60.3820991516,
+    "name": "Konarak "
+  },
+  "OIZH": {
+    "lat": 29.4757003784,
+    "long": 60.9062004089,
+    "name": "Zahedan International "
+  },
+  "OIZI": {
+    "lat": 27.2360992432,
+    "long": 60.7200012207,
+    "name": "Iran Shahr "
+  },
+  "OIZJ": {
+    "lat": 25.6536006927,
+    "long": 57.7993011475,
+    "name": "Jask "
+  },
+  "OIZS": {
+    "lat": 27.4193000793,
+    "long": 62.3157997131,
+    "name": "Saravan "
+  }
+}

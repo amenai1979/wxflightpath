@@ -1,0 +1,152 @@
+{
+    "SN98": {
+        "lat": 37.4207992554,
+        "long": -100.9420013428,
+        "name": "Anton Flying Uv ",
+        "state": "other"
+    },
+    "TA01": {
+        "lat": 32.3418006897,
+        "long": -97.2502975464,
+        "name": "Phillips Farm ",
+        "state": "other"
+    },
+    "TA89": {
+        "lat": 31.5237998962,
+        "long": -98.8003005981,
+        "name": "Vaughan Ranch ",
+        "state": "other"
+    },
+    "TN65": {
+        "lat": 35.6664009094,
+        "long": -86.4852981567,
+        "name": "Long Meadow Airstrip",
+        "state": "other"
+    },
+    "TX37": {
+        "lat": 33.1318016052,
+        "long": -97.7686004639,
+        "name": "Flying S Ranch ",
+        "state": "other"
+    },
+    "VA62": {
+        "lat": 39.2593002319,
+        "long": -77.6572036743,
+        "name": "The Grass Patch ",
+        "state": "other"
+    },
+    "WI10": {
+        "lat": 46.4499015808,
+        "long": -91.616897583,
+        "name": "Cedar Island ",
+        "state": "other"
+    },
+    "WI49": {
+        "lat": 44.2860984802,
+        "long": -91.2265014648,
+        "name": "Blair ",
+        "state": "other"
+    },
+    "WI54": {
+        "lat": 44.9994010925,
+        "long": -90.149597168,
+        "name": "Corinth ",
+        "state": "other"
+    },
+    "WI55": {
+        "lat": 43.9860992432,
+        "long": -88.9834976196,
+        "name": "Broken Prop ",
+        "state": "other"
+    },
+    "WI56": {
+        "lat": 42.8816986084,
+        "long": -90.8607025146,
+        "name": "C Jeidy Farms ",
+        "state": "other"
+    },
+    "WI62": {
+        "lat": 43.2695007324,
+        "long": -87.9981002808,
+        "name": "Sss Aerodrome",
+        "state": "other"
+    },
+    "WI65": {
+        "lat": 43.2221984863,
+        "long": -89.4682006836,
+        "name": "Dane ",
+        "state": "other"
+    },
+    "WI66": {
+        "lat": 42.5872001648,
+        "long": -88.658203125,
+        "name": "Smilin' Sam's ",
+        "state": "other"
+    },
+    "WI70": {
+        "lat": 42.7070007324,
+        "long": -88.6376037598,
+        "name": "Swan ",
+        "state": "other"
+    },
+    "WI74": {
+        "lat": 43.9249992371,
+        "long": -88.6676025391,
+        "name": "Pfaffenroth Private ",
+        "state": "other"
+    },
+    "WI84": {
+        "lat": 42.6888999939,
+        "long": -88.8404006958,
+        "name": "Johnstown Center ",
+        "state": "other"
+    },
+    "WI92": {
+        "lat": 42.6610984802,
+        "long": -88.3611984253,
+        "name": "Wag-Aero ",
+        "state": "other"
+    },
+    "WN00": {
+        "lat": 47.8400993347,
+        "long": -122.8600006104,
+        "name": "Kimshan Ranch ",
+        "state": "other"
+    },
+    "WN08": {
+        "lat": 48.9147987366,
+        "long": -122.1129989624,
+        "name": "Kendall Airstrip",
+        "state": "other"
+    },
+    "WN09": {
+        "lat": 44.1643981934,
+        "long": -89.508102417,
+        "name": "Bucky's Airpark",
+        "state": "other"
+    },
+    "WN11": {
+        "lat": 45.5858001709,
+        "long": -88.0037002563,
+        "name": "Red Roof ",
+        "state": "other"
+    },
+    "WN13": {
+        "lat": 47.4636993408,
+        "long": -122.5690002441,
+        "name": "Vaughan Ranch Airfield",
+        "state": "other"
+    },
+    "WN17": {
+        "lat": 47.3398017883,
+        "long": -120.3160018921,
+        "name": "Hoverhawk Ranch ",
+        "state": "other"
+    },
+    "WN18": {
+        "lat": 48.4567985535,
+        "long": -122.5390014648,
+        "name": "Becker's Landing ",
+        "state": "other"
+    }
+}

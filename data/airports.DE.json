@@ -1,0 +1,2407 @@
+{
+  "EDAB": {
+    "lat": 51.193611145,
+    "long": 14.5197219849,
+    "name": "Bautzen "
+  },
+  "EDAC": {
+    "lat": 50.9819450378,
+    "long": 12.5063886642,
+    "name": "Altenburg-Nobitz "
+  },
+  "EDAD": {
+    "lat": 51.831693541,
+    "long": 12.1909618378,
+    "name": "Dessau "
+  },
+  "EDAE": {
+    "lat": 52.1972236633,
+    "long": 14.5855560303,
+    "name": "Eisenhuttenstadt "
+  },
+  "EDAG": {
+    "lat": 50.6441688538,
+    "long": 13.1263885498,
+    "name": "Grosruckerswalde "
+  },
+  "EDAH": {
+    "lat": 53.8787002563,
+    "long": 14.152299881,
+    "name": "Heringsdorf "
+  },
+  "EDAI": {
+    "lat": 52.8266677856,
+    "long": 12.5419435501,
+    "name": "Segeletz "
+  },
+  "EDAJ": {
+    "lat": 50.8816680908,
+    "long": 12.1358327866,
+    "name": "Gera-Leumnitz "
+  },
+  "EDAK": {
+    "lat": 51.3080558777,
+    "long": 13.5555562973,
+    "name": "Grosenhain "
+  },
+  "EDAM": {
+    "lat": 51.363609314,
+    "long": 11.9483327866,
+    "name": "Merseburg "
+  },
+  "EDAN": {
+    "lat": 53.3597221375,
+    "long": 11.615278244,
+    "name": "Neustadt-Glewe "
+  },
+  "EDAO": {
+    "lat": 51.493057251,
+    "long": 10.8333330154,
+    "name": "Nordhausen "
+  },
+  "EDAP": {
+    "lat": 51.6847229004,
+    "long": 14.4230556488,
+    "name": "Neuhausen "
+  },
+  "EDAQ": {
+    "lat": 51.5522232056,
+    "long": 12.0538892746,
+    "name": "Halle-Oppin "
+  },
+  "EDAR": {
+    "lat": 50.9791679382,
+    "long": 13.9097223282,
+    "name": "Pirna-Pratzschwitz "
+  },
+  "EDAS": {
+    "lat": 51.6344451904,
+    "long": 13.6755561829,
+    "name": "Finsterwalde/Heinrichsruh "
+  },
+  "EDAT": {
+    "lat": 51.4511108398,
+    "long": 14.1994438171,
+    "name": "Nardt "
+  },
+  "EDAU": {
+    "lat": 51.2936096191,
+    "long": 13.3561105728,
+    "name": "Riesa-Gohlis "
+  },
+  "EDAV": {
+    "lat": 52.8272209167,
+    "long": 13.693611145,
+    "name": "Eberswalde-Finow "
+  },
+  "EDAW": {
+    "lat": 51.5777778625,
+    "long": 12.4944438934,
+    "name": "Roitzschjora "
+  },
+  "EDAX": {
+    "lat": 53.306388855,
+    "long": 12.7522220612,
+    "name": "Rechlin-Larz "
+  },
+  "EDAY": {
+    "lat": 52.5805549622,
+    "long": 13.9166669846,
+    "name": "Strausberg "
+  },
+  "EDAZ": {
+    "lat": 52.2036094666,
+    "long": 13.1563892365,
+    "name": "Schonhagen "
+  },
+  "EDBA": {
+    "lat": 50.8416671753,
+    "long": 11.0694437027,
+    "name": "Arnstadt-Alkersleben "
+  },
+  "EDBC": {
+    "lat": 51.8563995361,
+    "long": 11.42029953,
+    "name": "Cochstedt "
+  },
+  "EDBD": {
+    "lat": 53.356388092,
+    "long": 13.7836112976,
+    "name": "Emmel Airfield Dedelow "
+  },
+  "EDBE": {
+    "lat": 52.4375,
+    "long": 12.5900001526,
+    "name": "Brandenburg-Muhlenfeld "
+  },
+  "EDBF": {
+    "lat": 52.7933311462,
+    "long": 12.7602777481,
+    "name": "Ruppiner Land "
+  },
+  "EDBG": {
+    "lat": 52.2416687012,
+    "long": 11.8561105728,
+    "name": "Burg "
+  },
+  "EDBH": {
+    "lat": 54.3375015259,
+    "long": 12.6997003555,
+    "name": "Barth "
+  },
+  "EDBI": {
+    "lat": 50.7016677856,
+    "long": 12.4538888931,
+    "name": "Zwickau "
+  },
+  "EDBJ": {
+    "lat": 50.9152793884,
+    "long": 11.7144441605,
+    "name": "Jena-Schongleina "
+  },
+  "EDBK": {
+    "lat": 52.918888092,
+    "long": 12.42527771,
+    "name": "Kyritz "
+  },
+  "EDBL": {
+    "lat": 51.2458343506,
+    "long": 11.6933326721,
+    "name": "Laucha "
+  },
+  "EDBM": {
+    "lat": 52.0736122131,
+    "long": 11.6263885498,
+    "name": "Magdeburg "
+  },
+  "EDBO": {
+    "lat": 51.899723053,
+    "long": 13.0522222519,
+    "name": "Oehna "
+  },
+  "EDBP": {
+    "lat": 53.6152763367,
+    "long": 11.5611114502,
+    "name": "Pinnow "
+  },
+  "EDBQ": {
+    "lat": 51.6705551147,
+    "long": 13.9602775574,
+    "name": "Bronkow "
+  },
+  "EDBR": {
+    "lat": 51.3633346558,
+    "long": 14.9499998093,
+    "name": "Rothenburg/Gorlitz "
+  },
+  "EDBS": {
+    "lat": 51.1991653442,
+    "long": 11.1925001144,
+    "name": "Sommerda-Dermsdorf "
+  },
+  "EDBT": {
+    "lat": 51.3805541992,
+    "long": 11.4466667175,
+    "name": "Allstedt "
+  },
+  "EDBU": {
+    "lat": 53.1802787781,
+    "long": 12.1855564117,
+    "name": "Pritzwalk-Sommersberg "
+  },
+  "EDBV": {
+    "lat": 54.3358345032,
+    "long": 13.0433330536,
+    "name": "Stralsund "
+  },
+  "EDBW": {
+    "lat": 52.6316680908,
+    "long": 13.7669439316,
+    "name": "Werneuchen "
+  },
+  "EDBX": {
+    "lat": 51.1588897705,
+    "long": 14.9502782822,
+    "name": "Gorlitz "
+  },
+  "EDBY": {
+    "lat": 53.9722213745,
+    "long": 13.3436107635,
+    "name": "Schmoldow "
+  },
+  "EDBZ": {
+    "lat": 51.4897232056,
+    "long": 13.8794441223,
+    "name": "Schwarzheide/Schipkau "
+  },
+  "EDCA": {
+    "lat": 53.8327789307,
+    "long": 13.6686105728,
+    "name": "Anklam "
+  },
+  "EDCB": {
+    "lat": 51.7458343506,
+    "long": 11.229722023,
+    "name": "Ballenstedt "
+  },
+  "EDCD": {
+    "lat": 51.8894424438,
+    "long": 14.5319442749,
+    "name": "Cottbus-Drewitz "
+  },
+  "EDCE": {
+    "lat": 52.4816665649,
+    "long": 14.0874996185,
+    "name": "Eggersdorf "
+  },
+  "EDCF": {
+    "lat": 52.2832984924,
+    "long": 13.8069000244,
+    "name": "Friedersdorf "
+  },
+  "EDCG": {
+    "lat": 54.3833312988,
+    "long": 13.3255558014,
+    "name": "Rugen "
+  },
+  "EDCH": {
+    "lat": 51.043056488,
+    "long": 12.233332634,
+    "name": "Sprossen "
+  },
+  "EDCI": {
+    "lat": 51.2738876343,
+    "long": 14.5063886642,
+    "name": "Klix "
+  },
+  "EDCJ": {
+    "lat": 50.7475013733,
+    "long": 12.8374996185,
+    "name": "Chemnitz/Jahnsdorf "
+  },
+  "EDCK": {
+    "lat": 51.7211112976,
+    "long": 11.9527778625,
+    "name": "Kothen "
+  },
+  "EDCL": {
+    "lat": 52.7094421387,
+    "long": 12.0733327866,
+    "name": "Klietz/Scharlibbe "
+  },
+  "EDCM": {
+    "lat": 51.2969436646,
+    "long": 14.1274995804,
+    "name": "Kamenz "
+  },
+  "EDCN": {
+    "lat": 52.6277999878,
+    "long": 12.9139003754,
+    "name": "Nauen "
+  },
+  "EDCO": {
+    "lat": 51.2677764893,
+    "long": 10.634721756,
+    "name": "Obermehler-Schlotheim "
+  },
+  "EDCP": {
+    "lat": 54.1577796936,
+    "long": 13.7744436264,
+    "name": "Peenemunde "
+  },
+  "EDCQ": {
+    "lat": 51.7669448853,
+    "long": 11.4983329773,
+    "name": "Aschersleben "
+  },
+  "EDCR": {
+    "lat": 54.081943512,
+    "long": 11.6491670609,
+    "name": "Rerik-Zweedorf "
+  },
+  "EDCS": {
+    "lat": 52.3083343506,
+    "long": 13.1005563736,
+    "name": "Saarmund "
+  },
+  "EDCT": {
+    "lat": 51.3950004578,
+    "long": 12.5369443893,
+    "name": "Taucha "
+  },
+  "EDCU": {
+    "lat": 53.8052787781,
+    "long": 12.2305555344,
+    "name": "Gustrow "
+  },
+  "EDCV": {
+    "lat": 53.505279541,
+    "long": 13.9483327866,
+    "name": "Pasewalk "
+  },
+  "EDCW": {
+    "lat": 53.9144439697,
+    "long": 11.4994440079,
+    "name": "Wismar "
+  },
+  "EDCX": {
+    "lat": 54.1616668701,
+    "long": 12.2486114502,
+    "name": "Purkshof "
+  },
+  "EDCY": {
+    "lat": 51.5755577087,
+    "long": 14.1369438171,
+    "name": "Spremberg-Welzow "
+  },
+  "EDDB": {
+    "lat": 52.366667,
+    "long": 13.503333,
+    "name": "Berlin Brandenburg "
+  },
+  "EDDC": {
+    "lat": 51.1328010559,
+    "long": 13.76720047,
+    "name": "Dresden "
+  },
+  "EDDE": {
+    "lat": 50.979801178,
+    "long": 10.9581003189,
+    "name": "Erfurt "
+  },
+  "EDDF": {
+    "lat": 50.0264015198,
+    "long": 8.543129921,
+    "name": "Frankfurt am Main International "
+  },
+  "EDDG": {
+    "lat": 52.134601593,
+    "long": 7.6848301888,
+    "name": "Munster Osnabruck "
+  },
+  "EDDH": {
+    "lat": 53.6304016113,
+    "long": 9.9882297516,
+    "name": "Hamburg "
+  },
+  "EDDI": {
+    "lat": 52.473611,
+    "long": 13.401667,
+    "name": "Berlin Tempelhof "
+  },
+  "EDDK": {
+    "lat": 50.8658981323,
+    "long": 7.1427397728,
+    "name": "Cologne Bonn "
+  },
+  "EDDL": {
+    "lat": 51.2895011902,
+    "long": 6.7667798996,
+    "name": "Dusseldorf International "
+  },
+  "EDDM": {
+    "lat": 48.3538017273,
+    "long": 11.7861003876,
+    "name": "Munich International "
+  },
+  "EDDN": {
+    "lat": 49.4986991882,
+    "long": 11.0669002533,
+    "name": "Nuremberg "
+  },
+  "EDDP": {
+    "lat": 51.4323997498,
+    "long": 12.2416000366,
+    "name": "Leipzig Halle "
+  },
+  "EDDR": {
+    "lat": 49.2145996094,
+    "long": 7.1095099449,
+    "name": "Saarbrucken "
+  },
+  "EDDS": {
+    "lat": 48.6898994446,
+    "long": 9.2219600677,
+    "name": "Stuttgart "
+  },
+  "EDDT": {
+    "lat": 52.5597000122,
+    "long": 13.2876996994,
+    "name": "Berlin-Tegel International "
+  },
+  "EDDV": {
+    "lat": 52.461101532,
+    "long": 9.6850795746,
+    "name": "Hannover "
+  },
+  "EDDW": {
+    "lat": 53.0475006104,
+    "long": 8.7866697311,
+    "name": "Bremen "
+  },
+  "EDEB": {
+    "lat": 51.1291656494,
+    "long": 10.6222219467,
+    "name": "Bad Langensalza "
+  },
+  "EDEF": {
+    "lat": 49.9524993896,
+    "long": 8.9680557251,
+    "name": "Babenhausen "
+  },
+  "EDEG": {
+    "lat": 50.9700012207,
+    "long": 10.7277784348,
+    "name": "Gotha-Ost "
+  },
+  "EDEH": {
+    "lat": 49.3450012207,
+    "long": 8.48777771,
+    "name": "Herrenteich "
+  },
+  "EDEL": {
+    "lat": 49.9083328247,
+    "long": 7.9077777863,
+    "name": "Langenlonsheim "
+  },
+  "EDEM": {
+    "lat": 51.0627784729,
+    "long": 9.4222221375,
+    "name": "Mosenberg "
+  },
+  "EDEP": {
+    "lat": 49.6219444275,
+    "long": 8.6244440079,
+    "name": "Heppenheim "
+  },
+  "EDEQ": {
+    "lat": 51.213054657,
+    "long": 10.5486106873,
+    "name": "Muhlhausen "
+  },
+  "EDER": {
+    "lat": 50.4988899231,
+    "long": 9.9538888931,
+    "name": "Wasserkuppe "
+  },
+  "EDEW": {
+    "lat": 49.5816688538,
+    "long": 9.4022216797,
+    "name": "Walldurn "
+  },
+  "EDFA": {
+    "lat": 50.2883338928,
+    "long": 8.5338888168,
+    "name": "Anspach/Taunus "
+  },
+  "EDFB": {
+    "lat": 50.3358345032,
+    "long": 8.8780555725,
+    "name": "Reichelsheim "
+  },
+  "EDFC": {
+    "lat": 49.9388885498,
+    "long": 9.0638885498,
+    "name": "Aschaffenburg "
+  },
+  "EDFD": {
+    "lat": 50.3061103821,
+    "long": 10.2266674042,
+    "name": "Bad Neustadt/Saale-Grasberg "
+  },
+  "EDFE": {
+    "lat": 49.9599990845,
+    "long": 8.6458330154,
+    "name": "Frankfurt-Egelsbach "
+  },
+  "EDFG": {
+    "lat": 50.1972236633,
+    "long": 9.1700000763,
+    "name": "Gelnhausen "
+  },
+  "EDFH": {
+    "lat": 49.9486999512,
+    "long": 7.2638897896,
+    "name": "Frankfurt-Hahn "
+  },
+  "EDFI": {
+    "lat": 50.787776947,
+    "long": 8.3927783966,
+    "name": "Hirzenhain "
+  },
+  "EDFJ": {
+    "lat": 50.0986099243,
+    "long": 9.8836107254,
+    "name": "Lager Hammelburg "
+  },
+  "EDFK": {
+    "lat": 50.2105560303,
+    "long": 10.0688886642,
+    "name": "Bad Kissingen "
+  },
+  "EDFL": {
+    "lat": 50.543888092,
+    "long": 8.5902776718,
+    "name": "Giesen-Lutzellinden "
+  },
+  "EDFM": {
+    "lat": 49.4730567932,
+    "long": 8.514166832,
+    "name": "Mannheim-City "
+  },
+  "EDFN": {
+    "lat": 50.8744430542,
+    "long": 8.8149995804,
+    "name": "Marburg-Schonstadt "
+  },
+  "EDFO": {
+    "lat": 49.6786117554,
+    "long": 8.9719438553,
+    "name": "Michelstadt/Odenwald "
+  },
+  "EDFP": {
+    "lat": 50.3619422913,
+    "long": 8.7111110687,
+    "name": "Ober-Morlen "
+  },
+  "EDFQ": {
+    "lat": 51.0349998474,
+    "long": 8.6808328629,
+    "name": "Allendorf/Eder "
+  },
+  "EDFR": {
+    "lat": 49.3883323669,
+    "long": 10.2180557251,
+    "name": "Rothenburg o. d. T. "
+  },
+  "EDFS": {
+    "lat": 50.0108337402,
+    "long": 10.2511110306,
+    "name": "Schweinfurt-Sud "
+  },
+  "EDFT": {
+    "lat": 50.6833343506,
+    "long": 9.4108333588,
+    "name": "Lauterbach "
+  },
+  "EDFU": {
+    "lat": 49.6949996948,
+    "long": 9.1824998856,
+    "name": "Mainbullau "
+  },
+  "EDFV": {
+    "lat": 49.6069450378,
+    "long": 8.3683328629,
+    "name": "Worms "
+  },
+  "EDFW": {
+    "lat": 49.817779541,
+    "long": 9.8975000381,
+    "name": "Wurzburg-Schenkenturm "
+  },
+  "EDFX": {
+    "lat": 49.3252792358,
+    "long": 8.5286111832,
+    "name": "Hockenheim "
+  },
+  "EDFY": {
+    "lat": 50.4269447327,
+    "long": 8.0111112595,
+    "name": "Elz "
+  },
+  "EDFZ": {
+    "lat": 49.9674987793,
+    "long": 8.1472215652,
+    "name": "Mainz-Finthen "
+  },
+  "EDGA": {
+    "lat": 50.5930557251,
+    "long": 7.9450001717,
+    "name": "Ailertchen "
+  },
+  "EDGB": {
+    "lat": 50.6763877869,
+    "long": 8.1694440842,
+    "name": "Breitscheid "
+  },
+  "EDGE": {
+    "lat": 50.9927787781,
+    "long": 10.4727783203,
+    "name": "Eisenach-Kindel "
+  },
+  "EDGF": {
+    "lat": 50.4755554199,
+    "long": 9.4425001144,
+    "name": "Fulda-Jossa "
+  },
+  "EDGH": {
+    "lat": 49.7986106873,
+    "long": 9.8366670609,
+    "name": "Hettstadt "
+  },
+  "EDGI": {
+    "lat": 49.3216667175,
+    "long": 9.6630563736,
+    "name": "Ingelfingen-Buhlhof "
+  },
+  "EDGJ": {
+    "lat": 49.6736106873,
+    "long": 10.0713891983,
+    "name": "Ochsenfurt "
+  },
+  "EDGK": {
+    "lat": 51.2522201538,
+    "long": 8.8736114502,
+    "name": "Korbach "
+  },
+  "EDGL": {
+    "lat": 49.4131,
+    "long": 8.3518,
+    "name": "Ludwigshafen Airfield"
+  },
+  "EDGM": {
+    "lat": 49.3988876343,
+    "long": 9.1238889694,
+    "name": "Mosbach-Lohrbach "
+  },
+  "EDGP": {
+    "lat": 49.8416671753,
+    "long": 8.3766670227,
+    "name": "Oppenheim "
+  },
+  "EDGQ": {
+    "lat": 51.0002784729,
+    "long": 8.3077783585,
+    "name": "Schameder "
+  },
+  "EDGR": {
+    "lat": 50.5669441223,
+    "long": 8.8697223663,
+    "name": "Giesen-Reiskirchen "
+  },
+  "EDGS": {
+    "lat": 50.707698822,
+    "long": 8.0829696655,
+    "name": "Siegerland "
+  },
+  "EDGT": {
+    "lat": 50.7952766418,
+    "long": 8.4583330154,
+    "name": "Bottenhorn "
+  },
+  "EDGU": {
+    "lat": 49.5158348083,
+    "long": 9.6694440842,
+    "name": "Unterschupf "
+  },
+  "EDGW": {
+    "lat": 51.307220459,
+    "long": 9.17527771,
+    "name": "Wolfhagen \u201eGraner Berg\u201c "
+  },
+  "EDGX": {
+    "lat": 49.3030548096,
+    "long": 8.6588888168,
+    "name": "Walldorf "
+  },
+  "EDGZ": {
+    "lat": 49.5675010681,
+    "long": 8.6105556488,
+    "name": "Weinheim/Bergstrase "
+  },
+  "EDHB": {
+    "lat": 54.2444458008,
+    "long": 11.0247220993,
+    "name": "Grube "
+  },
+  "EDHC": {
+    "lat": 53.0161094666,
+    "long": 11.1444444656,
+    "name": "Luchow-Rehbeck "
+  },
+  "EDHE": {
+    "lat": 53.6463890076,
+    "long": 9.704167366,
+    "name": "Uetersen/Heist "
+  },
+  "EDHF": {
+    "lat": 53.9944458008,
+    "long": 9.5786113739,
+    "name": "Itzehoe/Hungriger Wolf "
+  },
+  "EDHG": {
+    "lat": 53.2488899231,
+    "long": 10.4616670609,
+    "name": "Luneburg "
+  },
+  "EDHI": {
+    "lat": 53.5352783203,
+    "long": 9.8355560303,
+    "name": "Hamburg-Finkenwerder "
+  },
+  "EDHK": {
+    "lat": 54.3794441223,
+    "long": 10.145277977,
+    "name": "Kiel-Holtenau "
+  },
+  "EDHL": {
+    "lat": 53.8054008484,
+    "long": 10.7192001343,
+    "name": "Lubeck Blankensee "
+  },
+  "EDHM": {
+    "lat": 53.9150009155,
+    "long": 10.0355558395,
+    "name": "Hartenholm "
+  },
+  "EDHN": {
+    "lat": 54.0794448853,
+    "long": 9.9413890839,
+    "name": "Neumunster "
+  },
+  "EDHO": {
+    "lat": 53.69972229,
+    "long": 9.7405557632,
+    "name": "Ahrenlohe "
+  },
+  "EDHP": {
+    "lat": 54.5363883972,
+    "long": 8.6800003052,
+    "name": "Pellworm "
+  },
+  "EDHS": {
+    "lat": 53.5611114502,
+    "long": 9.4991674423,
+    "name": "Stade "
+  },
+  "EDHU": {
+    "lat": 53.2075004578,
+    "long": 9.5733327866,
+    "name": "Lauenbruck "
+  },
+  "EDHW": {
+    "lat": 53.9694442749,
+    "long": 10.2216672897,
+    "name": "Wahlstedt "
+  },
+  "EDJA": {
+    "lat": 47.9888000488,
+    "long": 10.2395000458,
+    "name": "Memmingen Allgau "
+  },
+  "EDKA": {
+    "lat": 50.8230552673,
+    "long": 6.1863889694,
+    "name": "Aachen-Merzbruck "
+  },
+  "EDKB": {
+    "lat": 50.7688903809,
+    "long": 7.1633329391,
+    "name": "Bonn-Hangelar "
+  },
+  "EDKD": {
+    "lat": 51.3130569458,
+    "long": 7.7041668892,
+    "name": "Altena-Hegenscheid "
+  },
+  "EDKF": {
+    "lat": 51.0522232056,
+    "long": 7.7072219849,
+    "name": "Bergneustadt/Auf dem Dumpel "
+  },
+  "EDKH": {
+    "lat": 50.9286117554,
+    "long": 7.8991670609,
+    "name": "Hunsborn "
+  },
+  "EDKI": {
+    "lat": 50.8172225952,
+    "long": 7.8305559158,
+    "name": "Betzdorf-Kirchen "
+  },
+  "EDKL": {
+    "lat": 51.0152778625,
+    "long": 7.0055561066,
+    "name": "Leverkusen "
+  },
+  "EDKM": {
+    "lat": 51.3027763367,
+    "long": 8.2391672134,
+    "name": "Meschede-Schuren "
+  },
+  "EDKN": {
+    "lat": 51.124168396,
+    "long": 7.3736109734,
+    "name": "Wipperfurth-Neye "
+  },
+  "EDKO": {
+    "lat": 51.4025001526,
+    "long": 8.641667366,
+    "name": "Brilon/Hochsauerlandkreis "
+  },
+  "EDKP": {
+    "lat": 51.1919441223,
+    "long": 7.7911109924,
+    "name": "Plettenberg-Huinghausen "
+  },
+  "EDKR": {
+    "lat": 51.1616668701,
+    "long": 8.26222229,
+    "name": "Schmallenberg-Rennefeld "
+  },
+  "EDKU": {
+    "lat": 51.1458320618,
+    "long": 7.9366669655,
+    "name": "Attendorn-Finnentrop "
+  },
+  "EDKV": {
+    "lat": 50.4055557251,
+    "long": 6.5288891792,
+    "name": "Dahlemer Binz "
+  },
+  "EDKW": {
+    "lat": 51.2972221375,
+    "long": 7.818333149,
+    "name": "Werdohl-Kuntrop "
+  },
+  "EDKZ": {
+    "lat": 51.0999984741,
+    "long": 7.5999999046,
+    "name": "Meinerzhagen "
+  },
+  "EDLA": {
+    "lat": 51.4838905334,
+    "long": 7.8983330727,
+    "name": "Arnsberg-Menden "
+  },
+  "EDLB": {
+    "lat": 51.7799987793,
+    "long": 7.2880558968,
+    "name": "Borkenberge "
+  },
+  "EDLC": {
+    "lat": 51.5291671753,
+    "long": 6.536110878,
+    "name": "Kamp-Lintfort "
+  },
+  "EDLD": {
+    "lat": 51.6161117554,
+    "long": 6.8652777672,
+    "name": "Dinslaken/Schwarze Heide "
+  },
+  "EDLE": {
+    "lat": 51.4023017883,
+    "long": 6.9373297691,
+    "name": "Essen Mulheim "
+  },
+  "EDLF": {
+    "lat": 51.3338890076,
+    "long": 6.3594441414,
+    "name": "Grefrath-Niershorst "
+  },
+  "EDLG": {
+    "lat": 51.6908340454,
+    "long": 6.1041669846,
+    "name": "Goch-Asperden "
+  },
+  "EDLH": {
+    "lat": 51.6897201538,
+    "long": 7.8161110878,
+    "name": "Hamm-Lippewiesen "
+  },
+  "EDLI": {
+    "lat": 51.9647216797,
+    "long": 8.5444440842,
+    "name": "Bielefeld "
+  },
+  "EDLJ": {
+    "lat": 51.9408340454,
+    "long": 8.9047222137,
+    "name": "Detmold "
+  },
+  "EDLK": {
+    "lat": 51.3849983215,
+    "long": 6.5877780914,
+    "name": "Krefeld-Egelsberg "
+  },
+  "EDLM": {
+    "lat": 51.6472015381,
+    "long": 7.1633300781,
+    "name": "Marl-Loemuhle "
+  },
+  "EDLN": {
+    "lat": 51.2302780151,
+    "long": 6.5044441223,
+    "name": "Monchengladbach "
+  },
+  "EDLO": {
+    "lat": 51.932220459,
+    "long": 8.6616668701,
+    "name": "Oerlinghausen "
+  },
+  "EDLP": {
+    "lat": 51.6141014099,
+    "long": 8.6163196564,
+    "name": "Paderborn Lippstadt "
+  },
+  "EDLR": {
+    "lat": 51.688331604,
+    "long": 8.7752780914,
+    "name": "Paderborn-Haxterberg "
+  },
+  "EDLS": {
+    "lat": 51.9958343506,
+    "long": 6.8405561447,
+    "name": "Stadtlohn-Vreden "
+  },
+  "EDLT": {
+    "lat": 51.944442749,
+    "long": 7.7738890648,
+    "name": "Munster-Telgte "
+  },
+  "EDLU": {
+    "lat": 51.8306007385,
+    "long": 8.1747198105,
+    "name": "Oelde Bergeler "
+  },
+  "EDLV": {
+    "lat": 51.6024017334,
+    "long": 6.1421699524,
+    "name": "Niederrhein "
+  },
+  "EDLW": {
+    "lat": 51.5182991028,
+    "long": 7.6122398377,
+    "name": "Dortmund "
+  },
+  "EDLX": {
+    "lat": 51.662776947,
+    "long": 6.5958328247,
+    "name": "Wesel-Romerwardt "
+  },
+  "EDLY": {
+    "lat": 51.8533325195,
+    "long": 6.8147220612,
+    "name": "Borken-Hoxfeld "
+  },
+  "EDLZ": {
+    "lat": 51.5780563354,
+    "long": 8.2147216797,
+    "name": "Soest/Bad Sassendorf "
+  },
+  "EDMA": {
+    "lat": 48.42527771,
+    "long": 10.9316673279,
+    "name": "Augsburg "
+  },
+  "EDMB": {
+    "lat": 48.1111106873,
+    "long": 9.7627782822,
+    "name": "Biberach a.d. Ris "
+  },
+  "EDMC": {
+    "lat": 48.4197235107,
+    "long": 9.798333168,
+    "name": "Blaubeuren "
+  },
+  "EDMD": {
+    "lat": 48.2283325195,
+    "long": 11.4230556488,
+    "name": "Dachau-Grobenried "
+  },
+  "EDME": {
+    "lat": 48.3961105347,
+    "long": 12.723610878,
+    "name": "Eggenfelden "
+  },
+  "EDMF": {
+    "lat": 48.5180549622,
+    "long": 13.3458328247,
+    "name": "Furstenzell "
+  },
+  "EDMG": {
+    "lat": 48.4866676331,
+    "long": 10.2833328247,
+    "name": "Gunzburg-Donauried "
+  },
+  "EDMH": {
+    "lat": 49.1119422913,
+    "long": 10.7808332443,
+    "name": "Gunzenhausen-Reutberg "
+  },
+  "EDMI": {
+    "lat": 48.2350006104,
+    "long": 10.1374998093,
+    "name": "Illertissen "
+  },
+  "EDMJ": {
+    "lat": 48.1741676331,
+    "long": 11.125,
+    "name": "Jesenwang "
+  },
+  "EDMK": {
+    "lat": 47.6919441223,
+    "long": 10.3380556107,
+    "name": "Kempten-Durach "
+  },
+  "EDML": {
+    "lat": 48.5116653442,
+    "long": 12.0333328247,
+    "name": "Landshut "
+  },
+  "EDMN": {
+    "lat": 48.1069450378,
+    "long": 10.5249996185,
+    "name": "Mindelheim-Mattsies "
+  },
+  "EDMO": {
+    "lat": 48.081401825,
+    "long": 11.2831001282,
+    "name": "Oberpfaffenhofen "
+  },
+  "EDMP": {
+    "lat": 48.426109314,
+    "long": 12.3452777863,
+    "name": "Vilsbiburg "
+  },
+  "EDMQ": {
+    "lat": 48.7027778625,
+    "long": 10.851111412,
+    "name": "Donauworth-Genderkingen "
+  },
+  "EDMS": {
+    "lat": 48.9008331299,
+    "long": 12.516667366,
+    "name": "Straubing "
+  },
+  "EDMT": {
+    "lat": 48.0099983215,
+    "long": 10.098610878,
+    "name": "Tannheim "
+  },
+  "EDMU": {
+    "lat": 48.569442749,
+    "long": 10.3588886261,
+    "name": "Gundelfingen "
+  },
+  "EDMV": {
+    "lat": 48.6349983215,
+    "long": 13.195555687,
+    "name": "Vilshofen "
+  },
+  "EDMW": {
+    "lat": 48.8302764893,
+    "long": 12.8797216415,
+    "name": "Deggendorf "
+  },
+  "EDMY": {
+    "lat": 48.2794456482,
+    "long": 12.5005559921,
+    "name": "Muhldorf "
+  },
+  "EDNA": {
+    "lat": 48.2636108398,
+    "long": 12.4116668701,
+    "name": "Ampfing-Waldkraiburg "
+  },
+  "EDNB": {
+    "lat": 49.1247215271,
+    "long": 12.9855556488,
+    "name": "Arnbruck "
+  },
+  "EDNC": {
+    "lat": 49.0213890076,
+    "long": 11.4847221375,
+    "name": "Beilngries "
+  },
+  "EDND": {
+    "lat": 49.0649986267,
+    "long": 10.4011106491,
+    "name": "Dinkelsbuhl-Sinbronn "
+  },
+  "EDNE": {
+    "lat": 48.3422203064,
+    "long": 9.9161109924,
+    "name": "Erbach "
+  },
+  "EDNF": {
+    "lat": 48.8224983215,
+    "long": 13.3675003052,
+    "name": "Elsenthal Grafe "
+  },
+  "EDNG": {
+    "lat": 48.6341667175,
+    "long": 10.2163887024,
+    "name": "Giengen/Brenz "
+  },
+  "EDNH": {
+    "lat": 48.0163879395,
+    "long": 10.6161108017,
+    "name": "Bad Worishofen-Nord "
+  },
+  "EDNI": {
+    "lat": 49.1305541992,
+    "long": 11.4430561066,
+    "name": "Berching "
+  },
+  "EDNJ": {
+    "lat": 48.7819442749,
+    "long": 11.2152776718,
+    "name": "Neuburg-Egweil "
+  },
+  "EDNK": {
+    "lat": 48.2383346558,
+    "long": 12.9766674042,
+    "name": "Kirchdorf/Inn "
+  },
+  "EDNL": {
+    "lat": 47.8588905334,
+    "long": 10.014166832,
+    "name": "Leutkirch-Unterzeil "
+  },
+  "EDNM": {
+    "lat": 49.2224998474,
+    "long": 12.296667099,
+    "name": "Nittenau-Bruck "
+  },
+  "EDNO": {
+    "lat": 48.8705558777,
+    "long": 10.5050001144,
+    "name": "Nordlingen "
+  },
+  "EDNP": {
+    "lat": 48.4202766418,
+    "long": 12.8647222519,
+    "name": "Pfarrkirchen "
+  },
+  "EDNQ": {
+    "lat": 48.8480567932,
+    "long": 10.3338890076,
+    "name": "Bopfingen "
+  },
+  "EDNR": {
+    "lat": 49.1419448853,
+    "long": 12.0819444656,
+    "name": "Regensburg-Oberhub "
+  },
+  "EDNS": {
+    "lat": 48.1791687012,
+    "long": 10.7027778625,
+    "name": "Schwabmunchen "
+  },
+  "EDNT": {
+    "lat": 48.9961128235,
+    "long": 10.8841667175,
+    "name": "Treuchtlingen-Bubenheim "
+  },
+  "EDNU": {
+    "lat": 48.2900009155,
+    "long": 10.4419441223,
+    "name": "Thannhausen "
+  },
+  "EDNV": {
+    "lat": 47.9461097717,
+    "long": 12.2047224045,
+    "name": "Vogtareuth "
+  },
+  "EDNW": {
+    "lat": 48.2894439697,
+    "long": 10.1402778625,
+    "name": "Weisenhorn "
+  },
+  "EDNX": {
+    "lat": 48.2394447327,
+    "long": 11.5613889694,
+    "name": "Oberschleisheim Airfield"
+  },
+  "EDNY": {
+    "lat": 47.6712989807,
+    "long": 9.5114898682,
+    "name": "Friedrichshafen "
+  },
+  "EDNZ": {
+    "lat": 50.1369438171,
+    "long": 11.7944440842,
+    "name": "Zell-Haidberg "
+  },
+  "EDOA": {
+    "lat": 50.4988899231,
+    "long": 12.3777780533,
+    "name": "Auerbach "
+  },
+  "EDOB": {
+    "lat": 50.9044456482,
+    "long": 11.2602777481,
+    "name": "Bad Berka "
+  },
+  "EDOC": {
+    "lat": 52.5272216797,
+    "long": 11.3513889313,
+    "name": "Gardelegen "
+  },
+  "EDOD": {
+    "lat": 51.9008331299,
+    "long": 13.1944437027,
+    "name": "Reinsdorf "
+  },
+  "EDOE": {
+    "lat": 51.2138900757,
+    "long": 12.3636112213,
+    "name": "Bohlen "
+  },
+  "EDOF": {
+    "lat": 51.3725013733,
+    "long": 11.1413888931,
+    "name": "Bad Frankenhausen "
+  },
+  "EDOG": {
+    "lat": 51.5711669922,
+    "long": 13.0521669388,
+    "name": "Torgau-Beilrode "
+  },
+  "EDOH": {
+    "lat": 50.9483337402,
+    "long": 13.2616672516,
+    "name": "Langhennersdorf "
+  },
+  "EDOI": {
+    "lat": 52.6616668701,
+    "long": 12.7458333969,
+    "name": "Bienenfarm "
+  },
+  "EDOJ": {
+    "lat": 52.1411094666,
+    "long": 12.6647224426,
+    "name": "Lusse "
+  },
+  "EDOK": {
+    "lat": 50.7327766418,
+    "long": 11.2361106873,
+    "name": "Rudolstadt-Groschwitz "
+  },
+  "EDOL": {
+    "lat": 52.0380554199,
+    "long": 11.2055559158,
+    "name": "Oschersleben "
+  },
+  "EDOM": {
+    "lat": 51.9474983215,
+    "long": 11.7697219849,
+    "name": "Klein Muhlingen "
+  },
+  "EDON": {
+    "lat": 52.6130561829,
+    "long": 14.2427778244,
+    "name": "Neuhardenberg "
+  },
+  "EDOP": {
+    "lat": 53.4269981384,
+    "long": 11.7833995819,
+    "name": "Schwerin Parchim "
+  },
+  "EDOQ": {
+    "lat": 51.2966651917,
+    "long": 13.078332901,
+    "name": "Oschatz "
+  },
+  "EDOR": {
+    "lat": 52.7408332825,
+    "long": 12.3900003433,
+    "name": "Stolln-Rhinow "
+  },
+  "EDOS": {
+    "lat": 50.6694450378,
+    "long": 11.0505561829,
+    "name": "Pennewitz "
+  },
+  "EDOT": {
+    "lat": 50.644443512,
+    "long": 12.1763887405,
+    "name": "Greiz-Obergrochlitz "
+  },
+  "EDOU": {
+    "lat": 50.9647216797,
+    "long": 11.4002780914,
+    "name": "Weimar-Umpferstedt "
+  },
+  "EDOV": {
+    "lat": 52.6288871765,
+    "long": 11.818611145,
+    "name": "Stendal-Borstel "
+  },
+  "EDOW": {
+    "lat": 53.5683326721,
+    "long": 12.6527776718,
+    "name": "Waren-Vielist "
+  },
+  "EDOX": {
+    "lat": 51.594165802,
+    "long": 12.2372217178,
+    "name": "Renneritz "
+  },
+  "EDOZ": {
+    "lat": 51.9966659546,
+    "long": 11.7908334732,
+    "name": "Schonebeck-Zackmunde "
+  },
+  "EDPA": {
+    "lat": 48.7777786255,
+    "long": 10.2647218704,
+    "name": "Aalen-Heidenheim/Elchingen "
+  },
+  "EDPB": {
+    "lat": 48.5627784729,
+    "long": 9.7288894653,
+    "name": "Bad Ditzenbach "
+  },
+  "EDPC": {
+    "lat": 47.9268989563,
+    "long": 12.2871999741,
+    "name": "Bad Endorf Joll "
+  },
+  "EDPD": {
+    "lat": 48.6569442749,
+    "long": 12.5005559921,
+    "name": "Dingolfing "
+  },
+  "EDPE": {
+    "lat": 48.8769454956,
+    "long": 11.1822223663,
+    "name": "Eichstatt "
+  },
+  "EDPF": {
+    "lat": 49.3397216797,
+    "long": 12.1880559921,
+    "name": "Schwandorf "
+  },
+  "EDPG": {
+    "lat": 48.9538879395,
+    "long": 12.4213886261,
+    "name": "Griesau "
+  },
+  "EDPH": {
+    "lat": 49.268611908,
+    "long": 11.009721756,
+    "name": "Schwabach-Heidenberg "
+  },
+  "EDPJ": {
+    "lat": 48.4969444275,
+    "long": 9.6402778625,
+    "name": "Laichingen "
+  },
+  "EDPK": {
+    "lat": 48.0477790833,
+    "long": 12.5005559921,
+    "name": "Schonberg "
+  },
+  "EDPM": {
+    "lat": 48.6780548096,
+    "long": 9.8436107635,
+    "name": "Donzdorf "
+  },
+  "EDPO": {
+    "lat": 49.2855567932,
+    "long": 11.4430561066,
+    "name": "Neumarkt/Obf. "
+  },
+  "EDPQ": {
+    "lat": 49.4294433594,
+    "long": 12.0980558395,
+    "name": "Schmidgaden "
+  },
+  "EDPS": {
+    "lat": 48.6827774048,
+    "long": 13.6947221756,
+    "name": "Sonnen "
+  },
+  "EDPT": {
+    "lat": 48.6202774048,
+    "long": 10.0583333969,
+    "name": "Gerstetten "
+  },
+  "EDPU": {
+    "lat": 48.7466659546,
+    "long": 10.0050001144,
+    "name": "Bartholoma-Amalienhof "
+  },
+  "EDPW": {
+    "lat": 49.0641670227,
+    "long": 11.2091665268,
+    "name": "Thalmassing-Waizenhofen "
+  },
+  "EDPY": {
+    "lat": 48.9611091614,
+    "long": 10.2363891602,
+    "name": "Ellwangen "
+  },
+  "EDQB": {
+    "lat": 49.5099983215,
+    "long": 10.3663892746,
+    "name": "Bad Windsheim "
+  },
+  "EDQC": {
+    "lat": 50.2625007629,
+    "long": 10.9955558777,
+    "name": "Coburg-Brandensteinsebene "
+  },
+  "EDQD": {
+    "lat": 49.9850006104,
+    "long": 11.6400003433,
+    "name": "Bayreuth "
+  },
+  "EDQE": {
+    "lat": 49.7941665649,
+    "long": 11.1336107254,
+    "name": "Burg Feuerstein "
+  },
+  "EDQF": {
+    "lat": 49.3611106873,
+    "long": 10.6694440842,
+    "name": "Ansbach-Petersdorf "
+  },
+  "EDQG": {
+    "lat": 49.6480560303,
+    "long": 9.9663887024,
+    "name": "Giebelstadt "
+  },
+  "EDQH": {
+    "lat": 49.5825004578,
+    "long": 10.8780555725,
+    "name": "Herzogenaurach "
+  },
+  "EDQI": {
+    "lat": 49.6052780151,
+    "long": 11.2838888168,
+    "name": "Lauf-Lillinghof "
+  },
+  "EDQK": {
+    "lat": 50.1349983215,
+    "long": 11.4597215652,
+    "name": "Kulmbach "
+  },
+  "EDQL": {
+    "lat": 50.1486091614,
+    "long": 11.0480556488,
+    "name": "Lichtenfels "
+  },
+  "EDQM": {
+    "lat": 50.2886123657,
+    "long": 11.8563890457,
+    "name": "Hof-Plauen "
+  },
+  "EDQN": {
+    "lat": 49.5875015259,
+    "long": 10.5775003433,
+    "name": "Neustadt/Aisch "
+  },
+  "EDQO": {
+    "lat": 50.2258338928,
+    "long": 11.7316665649,
+    "name": "Ottengruner Heide "
+  },
+  "EDQP": {
+    "lat": 49.8633346558,
+    "long": 11.7877779007,
+    "name": "Rosenthal-Field Plossen "
+  },
+  "EDQR": {
+    "lat": 50.0394439697,
+    "long": 10.8227777481,
+    "name": "Ebern-Sendelbach "
+  },
+  "EDQS": {
+    "lat": 50.631942749,
+    "long": 10.7274999619,
+    "name": "Suhl-Goldlauter "
+  },
+  "EDQT": {
+    "lat": 50.0180549622,
+    "long": 10.5294437408,
+    "name": "Hasfurt-Schweinfurt "
+  },
+  "EDQW": {
+    "lat": 49.6789016724,
+    "long": 12.116399765,
+    "name": "Weiden in der Oberpfalz "
+  },
+  "EDQX": {
+    "lat": 49.6422233582,
+    "long": 11.1622219086,
+    "name": "Hetzleser Berg "
+  },
+  "EDQY": {
+    "lat": 50.230556488,
+    "long": 10.9958333969,
+    "name": "Coburg-Steinrucken "
+  },
+  "EDQZ": {
+    "lat": 49.76222229,
+    "long": 11.57472229,
+    "name": "Pegnitz-Zipser Berg "
+  },
+  "EDRA": {
+    "lat": 50.5577774048,
+    "long": 7.1363887787,
+    "name": "Bad Neuenahr-Ahrweiler "
+  },
+  "EDRB": {
+    "lat": 49.9452781677,
+    "long": 6.5650000572,
+    "name": "Bitburg "
+  },
+  "EDRD": {
+    "lat": 49.8430557251,
+    "long": 6.9161109924,
+    "name": "Neumagen-Dhron "
+  },
+  "EDRF": {
+    "lat": 49.4730567932,
+    "long": 8.1963891983,
+    "name": "Bad Durkheim "
+  },
+  "EDRG": {
+    "lat": 49.7322235107,
+    "long": 7.3361110687,
+    "name": "Idar-Oberstein/Gottschied "
+  },
+  "EDRH": {
+    "lat": 49.6105575562,
+    "long": 7.1866669655,
+    "name": "Hoppstadten-Weiersbach "
+  },
+  "EDRI": {
+    "lat": 49.1416664124,
+    "long": 8.3947219849,
+    "name": "Linkenheim "
+  },
+  "EDRJ": {
+    "lat": 49.3125,
+    "long": 6.6744441986,
+    "name": "Saarlouis-Duren "
+  },
+  "EDRK": {
+    "lat": 50.3255577087,
+    "long": 7.5286111832,
+    "name": "Koblenz-Winningen "
+  },
+  "EDRL": {
+    "lat": 49.3308334351,
+    "long": 8.2097215652,
+    "name": "Lachen-Speyerdorf "
+  },
+  "EDRM": {
+    "lat": 49.9677772522,
+    "long": 7.1119441986,
+    "name": "Traben-Trarbach/Mont Royal "
+  },
+  "EDRN": {
+    "lat": 49.9702796936,
+    "long": 7.4791669846,
+    "name": "Nannhausen "
+  },
+  "EDRO": {
+    "lat": 49.031665802,
+    "long": 7.9899997711,
+    "name": "Schweighofen "
+  },
+  "EDRP": {
+    "lat": 49.2644424438,
+    "long": 7.4883332253,
+    "name": "Pirmasens "
+  },
+  "EDRS": {
+    "lat": 49.7908325195,
+    "long": 7.6661109924,
+    "name": "Bad Sobernheim-Domberg "
+  },
+  "EDRT": {
+    "lat": 49.8638877869,
+    "long": 6.7874999046,
+    "name": "Trier-Fohren "
+  },
+  "EDRV": {
+    "lat": 50.4513893127,
+    "long": 6.7833328247,
+    "name": "Wershofen/Eifel "
+  },
+  "EDRW": {
+    "lat": 50.5661125183,
+    "long": 7.6533331871,
+    "name": "Dierdorf-Wienau "
+  },
+  "EDRY": {
+    "lat": 49.3047218323,
+    "long": 8.4513893127,
+    "name": "Speyer "
+  },
+  "EDRZ": {
+    "lat": 49.209400177,
+    "long": 7.4005599022,
+    "name": "Zweibrucken "
+  },
+  "EDSA": {
+    "lat": 48.2497215271,
+    "long": 9.0625,
+    "name": "Albstadt-Degerfeld "
+  },
+  "EDSB": {
+    "lat": 48.7793998718,
+    "long": 8.0804996491,
+    "name": "Karlsruhe Baden-Baden "
+  },
+  "EDSD": {
+    "lat": 48.4399986267,
+    "long": 10.2356004715,
+    "name": "Leipheim Air Base"
+  },
+  "EDSG": {
+    "lat": 48.5361099243,
+    "long": 9.4369440079,
+    "name": "Grabenstetten "
+  },
+  "EDSH": {
+    "lat": 48.9197235107,
+    "long": 9.4552783966,
+    "name": "Backnang-Heiningen "
+  },
+  "EDSI": {
+    "lat": 47.7991676331,
+    "long": 8.720000267,
+    "name": "Binningen "
+  },
+  "EDSK": {
+    "lat": 48.5611114502,
+    "long": 7.8433327675,
+    "name": "Kehl-Sundheim "
+  },
+  "EDSL": {
+    "lat": 47.844165802,
+    "long": 8.5649995804,
+    "name": "Blumberg "
+  },
+  "EDSN": {
+    "lat": 47.9766654968,
+    "long": 8.9038887024,
+    "name": "Neuhausen ob Eck "
+  },
+  "EDSW": {
+    "lat": 48.2700004578,
+    "long": 7.8419442177,
+    "name": "Altdorf-Wallburg "
+  },
+  "EDSZ": {
+    "lat": 48.1863899231,
+    "long": 8.7211112976,
+    "name": "Rottweil-Zepfenhahn "
+  },
+  "EDTB": {
+    "lat": 48.7919425964,
+    "long": 8.1858329773,
+    "name": "Baden-Oos "
+  },
+  "EDTC": {
+    "lat": 49.1349983215,
+    "long": 8.5636110306,
+    "name": "Bruchsal "
+  },
+  "EDTD": {
+    "lat": 47.9733314514,
+    "long": 8.5222215653,
+    "name": "Donaueschingen-Villingen "
+  },
+  "EDTF": {
+    "lat": 48.0227775574,
+    "long": 7.8324999809,
+    "name": "Freiburg i. Br. "
+  },
+  "EDTG": {
+    "lat": 47.9027786255,
+    "long": 7.6177778244,
+    "name": "Bremgarten "
+  },
+  "EDTH": {
+    "lat": 48.8027763367,
+    "long": 9.9274997711,
+    "name": "Heubach "
+  },
+  "EDTK": {
+    "lat": 48.9759368896,
+    "long": 8.3423995972,
+    "name": "Karlsruhe-Forchheim "
+  },
+  "EDTL": {
+    "lat": 48.3693008423,
+    "long": 7.8277201653,
+    "name": "Lahr "
+  },
+  "EDTM": {
+    "lat": 48.0538902283,
+    "long": 9.3727779388,
+    "name": "Mengen-Hohentengen "
+  },
+  "EDTN": {
+    "lat": 48.61277771,
+    "long": 9.4772224426,
+    "name": "Nabern/Teck "
+  },
+  "EDTO": {
+    "lat": 48.4500007629,
+    "long": 7.9247221947,
+    "name": "Offenburg "
+  },
+  "EDTP": {
+    "lat": 47.9088897705,
+    "long": 9.2505559921,
+    "name": "Pfullendorf "
+  },
+  "EDTQ": {
+    "lat": 48.8641662598,
+    "long": 9.2247219086,
+    "name": "Pattonville "
+  },
+  "EDTR": {
+    "lat": 47.5602798462,
+    "long": 7.7483329773,
+    "name": "Herten-Rheinfelden "
+  },
+  "EDTS": {
+    "lat": 48.0658340454,
+    "long": 8.5713891983,
+    "name": "Schwenningen am Neckar "
+  },
+  "EDTU": {
+    "lat": 48.0294456482,
+    "long": 9.5072221756,
+    "name": "Saulgau "
+  },
+  "EDTW": {
+    "lat": 48.2791671753,
+    "long": 8.4283332825,
+    "name": "Winzeln-Schramberg "
+  },
+  "EDTX": {
+    "lat": 49.1244430542,
+    "long": 9.7811107635,
+    "name": "Schwabisch Hall-Weckrieden "
+  },
+  "EDTY": {
+    "lat": 49.1183319092,
+    "long": 9.7838888168,
+    "name": "Adolf Wurth "
+  },
+  "EDTZ": {
+    "lat": 47.6819458008,
+    "long": 9.13722229,
+    "name": "Konstanz "
+  },
+  "EDUA": {
+    "lat": 52.650554657,
+    "long": 12.48777771,
+    "name": "Stechow-Ferchesar "
+  },
+  "EDUB": {
+    "lat": 52.4386100769,
+    "long": 12.4583330154,
+    "name": "Brandenburg-Briest "
+  },
+  "EDUC": {
+    "lat": 52.0327987671,
+    "long": 13.7491998672,
+    "name": "Briesen Brand "
+  },
+  "EDUF": {
+    "lat": 51.5477790833,
+    "long": 13.228055954,
+    "name": "Falkenberg-Lonnewitz "
+  },
+  "EDUO": {
+    "lat": 51.5424995422,
+    "long": 11.5958328247,
+    "name": "Oberrissdorf "
+  },
+  "EDUS": {
+    "lat": 51.6074981689,
+    "long": 13.7436113358,
+    "name": "Finsterwalde/Schacksdorf "
+  },
+  "EDUW": {
+    "lat": 53.9219436646,
+    "long": 13.2188892365,
+    "name": "Tutow "
+  },
+  "EDUY": {
+    "lat": 51.5577774048,
+    "long": 14.1049995422,
+    "name": "Welzow-Sedlitzer See "
+  },
+  "EDUZ": {
+    "lat": 52.000831604,
+    "long": 12.1486110687,
+    "name": "Zerbst "
+  },
+  "EDVA": {
+    "lat": 51.8541679382,
+    "long": 10.0255556107,
+    "name": "Bad Gandersheim "
+  },
+  "EDVC": {
+    "lat": 52.6872215271,
+    "long": 10.1113891602,
+    "name": "Celle-Arloh "
+  },
+  "EDVE": {
+    "lat": 52.3191986084,
+    "long": 10.5560998917,
+    "name": "Braunschweig Wolfsburg "
+  },
+  "EDVF": {
+    "lat": 51.9172210693,
+    "long": 9.1116666794,
+    "name": "Blomberg-Borkhausen "
+  },
+  "EDVG": {
+    "lat": 51.3763885498,
+    "long": 8.9811105728,
+    "name": "Mengeringhausen "
+  },
+  "EDVH": {
+    "lat": 52.7611122131,
+    "long": 9.6055555344,
+    "name": "Hodenhagen "
+  },
+  "EDVI": {
+    "lat": 51.8066673279,
+    "long": 9.3783330917,
+    "name": "Hoxter-Holzminden "
+  },
+  "EDVJ": {
+    "lat": 52.0302772522,
+    "long": 10.364443779,
+    "name": "Salzgitter-Schaferstuhl "
+  },
+  "EDVK": {
+    "lat": 51.4083328247,
+    "long": 9.3774995804,
+    "name": "Kassel-Calden "
+  },
+  "EDVL": {
+    "lat": 51.6108322144,
+    "long": 9.3975000381,
+    "name": "Holleberg "
+  },
+  "EDVM": {
+    "lat": 52.181388855,
+    "long": 9.9463891983,
+    "name": "Hildesheim "
+  },
+  "EDVN": {
+    "lat": 51.7063903809,
+    "long": 10.0397224426,
+    "name": "Northeim "
+  },
+  "EDVR": {
+    "lat": 52.17527771,
+    "long": 9.0533332825,
+    "name": "Rinteln "
+  },
+  "EDVS": {
+    "lat": 52.1544456482,
+    "long": 10.4266672134,
+    "name": "Salzgitter-Drutte "
+  },
+  "EDVU": {
+    "lat": 52.9838905334,
+    "long": 10.4650001526,
+    "name": "Uelzen "
+  },
+  "EDVW": {
+    "lat": 51.9666671753,
+    "long": 9.2916669846,
+    "name": "Hameln-Pyrmont "
+  },
+  "EDVY": {
+    "lat": 52.2208328247,
+    "long": 8.859167099,
+    "name": "Porta Westfalica "
+  },
+  "EDWA": {
+    "lat": 54.6274986267,
+    "long": 8.9302778244,
+    "name": "Bordelum "
+  },
+  "EDWB": {
+    "lat": 53.506942749,
+    "long": 8.5727777481,
+    "name": "Bremerhaven "
+  },
+  "EDWC": {
+    "lat": 52.4874992371,
+    "long": 8.1855564117,
+    "name": "Damme "
+  },
+  "EDWD": {
+    "lat": 53.1446990967,
+    "long": 8.6244401932,
+    "name": "Lemwerder "
+  },
+  "EDWE": {
+    "lat": 53.3911094666,
+    "long": 7.2274999619,
+    "name": "Emden "
+  },
+  "EDWF": {
+    "lat": 53.2719421387,
+    "long": 7.4416670799,
+    "name": "Leer-Papenburg "
+  },
+  "EDWG": {
+    "lat": 53.7827796936,
+    "long": 7.9138889313,
+    "name": "Wangerooge "
+  },
+  "EDWH": {
+    "lat": 53.0688896179,
+    "long": 8.3136110306,
+    "name": "Oldenburg-Hatten "
+  },
+  "EDWI": {
+    "lat": 53.5022201538,
+    "long": 8.0522222519,
+    "name": "Wilhelmshaven-Mariensiel "
+  },
+  "EDWJ": {
+    "lat": 53.6811103821,
+    "long": 7.0558328629,
+    "name": "Juist "
+  },
+  "EDWK": {
+    "lat": 53.3327789307,
+    "long": 9.0283327103,
+    "name": "Karlshofen "
+  },
+  "EDWL": {
+    "lat": 53.7425003052,
+    "long": 7.4977779388,
+    "name": "Langeoog "
+  },
+  "EDWM": {
+    "lat": 53.0538902283,
+    "long": 9.2086105347,
+    "name": "Weser-Wumme "
+  },
+  "EDWN": {
+    "lat": 52.4575004578,
+    "long": 7.1822218895,
+    "name": "Nordhorn-Lingen "
+  },
+  "EDWO": {
+    "lat": 52.2863883972,
+    "long": 7.9697217941,
+    "name": "Osnabruck-Atterheide "
+  },
+  "EDWP": {
+    "lat": 53.3213882446,
+    "long": 8.0733327866,
+    "name": "Wiefelstede/Conneforde "
+  },
+  "EDWQ": {
+    "lat": 53.0361099243,
+    "long": 8.5055561066,
+    "name": "Ganderkesee Atlas Airfield "
+  },
+  "EDWR": {
+    "lat": 53.5963897705,
+    "long": 6.7091670036,
+    "name": "Borkum "
+  },
+  "EDWS": {
+    "lat": 53.6330566406,
+    "long": 7.1902780533,
+    "name": "Norden-Norddeich "
+  },
+  "EDWU": {
+    "lat": 52.9083328247,
+    "long": 8.040555954,
+    "name": "Varrelbusch "
+  },
+  "EDWV": {
+    "lat": 52.9652786255,
+    "long": 9.2827777863,
+    "name": "Verden-Scharnhorst "
+  },
+  "EDWX": {
+    "lat": 53.2886123657,
+    "long": 7.9305558205,
+    "name": "Westerstede-Felde "
+  },
+  "EDWY": {
+    "lat": 53.706943512,
+    "long": 7.2300000191,
+    "name": "Norderney "
+  },
+  "EDWZ": {
+    "lat": 53.7247238159,
+    "long": 7.3733329773,
+    "name": "Baltrum "
+  },
+  "EDXA": {
+    "lat": 52.3772201538,
+    "long": 7.9133329391,
+    "name": "Achmer "
+  },
+  "EDXB": {
+    "lat": 54.1533317566,
+    "long": 8.9016666412,
+    "name": "Heide-Busum "
+  },
+  "EDXC": {
+    "lat": 54.42527771,
+    "long": 9.5416669846,
+    "name": "Schleswig-Kropp "
+  },
+  "EDXD": {
+    "lat": 52.3513908386,
+    "long": 8.328332901,
+    "name": "Bohmte-Bad Essen "
+  },
+  "EDXE": {
+    "lat": 52.276389,
+    "long": 7.492778,
+    "name": "Rheine-Eschendorf "
+  },
+  "EDXF": {
+    "lat": 54.7733345032,
+    "long": 9.3788890839,
+    "name": "Flensburg-Schaeferhaus "
+  },
+  "EDXG": {
+    "lat": 52.2008323669,
+    "long": 8.3805561066,
+    "name": "Melle-Gronegau "
+  },
+  "EDXH": {
+    "lat": 54.1852798462,
+    "long": 7.9158329964,
+    "name": "Helgoland-Dune "
+  },
+  "EDXI": {
+    "lat": 52.7097206116,
+    "long": 9.1625003815,
+    "name": "Nienburg-Holzbalge "
+  },
+  "EDXJ": {
+    "lat": 54.5099983215,
+    "long": 9.1383333206,
+    "name": "Husum-Schwesing "
+  },
+  "EDXK": {
+    "lat": 54.7900009155,
+    "long": 8.961388588,
+    "name": "Leck "
+  },
+  "EDXL": {
+    "lat": 53.1644439697,
+    "long": 7.7938890457,
+    "name": "Barsel "
+  },
+  "EDXM": {
+    "lat": 53.9780578613,
+    "long": 9.1447219849,
+    "name": "St. Michaelisdonn "
+  },
+  "EDXN": {
+    "lat": 53.7672233582,
+    "long": 8.6436109543,
+    "name": "Nordholz-Spieka "
+  },
+  "EDXO": {
+    "lat": 54.3088874817,
+    "long": 8.6869440079,
+    "name": "St. Peter-Ording "
+  },
+  "EDXP": {
+    "lat": 53.7066688538,
+    "long": 7.8202781677,
+    "name": "Harle "
+  },
+  "EDXQ": {
+    "lat": 53.1283340454,
+    "long": 9.348610878,
+    "name": "Rotenburg (Wumme) "
+  },
+  "EDXR": {
+    "lat": 54.2200012207,
+    "long": 9.5994443893,
+    "name": "Rendsburg-Schachtholm "
+  },
+  "EDXS": {
+    "lat": 53.3355560303,
+    "long": 9.2594442368,
+    "name": "Seedorf "
+  },
+  "EDXT": {
+    "lat": 54.067779541,
+    "long": 10.7430562973,
+    "name": "Sierksdorf/Hof Altona "
+  },
+  "EDXU": {
+    "lat": 53.2866668701,
+    "long": 8.947221756,
+    "name": "Huttenbusch "
+  },
+  "EDXW": {
+    "lat": 54.9132003784,
+    "long": 8.340470314,
+    "name": "Westerland Sylt "
+  },
+  "EDXY": {
+    "lat": 54.6844444275,
+    "long": 8.5283327103,
+    "name": "Wyk auf Fohr "
+  },
+  "EDXZ": {
+    "lat": 53.5680541992,
+    "long": 8.7894439697,
+    "name": "Kuhrstedt-Bederkesa "
+  },
+  "ETAD": {
+    "lat": 49.9726982117,
+    "long": 6.6925001144,
+    "name": "Spangdahlem Air Base"
+  },
+  "ETAR": {
+    "lat": 49.4369010925,
+    "long": 7.600279808,
+    "name": "Ramstein Air Base"
+  },
+  "ETEJ": {
+    "lat": 49.9205551147,
+    "long": 10.9141674042,
+    "name": "Bamberg-Breitenau "
+  },
+  "ETEK": {
+    "lat": 49.6502990723,
+    "long": 7.300069809,
+    "name": "Baumholder Army Air Field"
+  },
+  "ETEU": {
+    "lat": 49.6481018066,
+    "long": 9.9664897919,
+    "name": "Giebelstadt Army Air Field"
+  },
+  "ETHA": {
+    "lat": 47.8354988098,
+    "long": 10.8711996078,
+    "name": "Altenstadt Army Airfield"
+  },
+  "ETHB": {
+    "lat": 52.2784996033,
+    "long": 9.0821695328,
+    "name": "Buckeburg "
+  },
+  "ETHC": {
+    "lat": 52.5912017822,
+    "long": 10.0221004486,
+    "name": "Celle "
+  },
+  "ETHE": {
+    "lat": 52.2911987305,
+    "long": 7.3870000839,
+    "name": "Rheine Bentlage "
+  },
+  "ETHF": {
+    "lat": 51.1146,
+    "long": 9.286,
+    "name": "Fritzlar "
+  },
+  "ETHL": {
+    "lat": 48.2202987671,
+    "long": 9.9100198746,
+    "name": "Laupheim "
+  },
+  "ETHM": {
+    "lat": 50.3660011292,
+    "long": 7.3153300285,
+    "name": "Mendig "
+  },
+  "ETHN": {
+    "lat": 49.3919448853,
+    "long": 9.9588890076,
+    "name": "Niederstetten "
+  },
+  "ETHR": {
+    "lat": 49.2174987793,
+    "long": 11.1001996994,
+    "name": "Roth "
+  },
+  "ETHS": {
+    "lat": 52.9193992615,
+    "long": 10.1975002289,
+    "name": "Fassberg "
+  },
+  "ETHT": {
+    "lat": 51.7678985596,
+    "long": 14.2919998169,
+    "name": "Cottbus (Cottbus Army) "
+  },
+  "ETIC": {
+    "lat": 49.6986999512,
+    "long": 11.940199852,
+    "name": "Grafenwohr Army Air Field"
+  },
+  "ETID": {
+    "lat": 50.1692008972,
+    "long": 8.9615898132,
+    "name": "Hanau Army Air Field"
+  },
+  "ETIH": {
+    "lat": 49.2181015015,
+    "long": 11.8360996246,
+    "name": "Hohenfels Army Air Field"
+  },
+  "ETIK": {
+    "lat": 49.4738998413,
+    "long": 10.3880996704,
+    "name": "Illesheim Air Base"
+  },
+  "ETIN": {
+    "lat": 49.7430992126,
+    "long": 10.2005996704,
+    "name": "Kitzingen Army Air Field"
+  },
+  "ETME": {
+    "lat": 54.6248016357,
+    "long": 9.3459997177,
+    "name": "Eggebeck Air Base"
+  },
+  "ETMN": {
+    "lat": 53.7677001953,
+    "long": 8.6584997177,
+    "name": "Nordholz "
+  },
+  "ETNA": {
+    "lat": 52.8829994202,
+    "long": 8.2329998016,
+    "name": "Ahlhorn Air Force Base"
+  },
+  "ETND": {
+    "lat": 52.5855560303,
+    "long": 8.3422222137,
+    "name": "Diepholz "
+  },
+  "ETNG": {
+    "lat": 50.9608001709,
+    "long": 6.0424199104,
+    "name": "Geilenkirchen "
+  },
+  "ETNH": {
+    "lat": 54.3121986389,
+    "long": 9.5381698608,
+    "name": "Hohn "
+  },
+  "ETNJ": {
+    "lat": 53.5335006714,
+    "long": 7.8886699677,
+    "name": "Jever "
+  },
+  "ETNL": {
+    "lat": 53.9182014465,
+    "long": 12.2783002853,
+    "name": "Rostock-Laage "
+  },
+  "ETNN": {
+    "lat": 50.831199646,
+    "long": 6.6581702232,
+    "name": "Norvenich "
+  },
+  "ETNS": {
+    "lat": 54.4593009949,
+    "long": 9.5163297653,
+    "name": "Schleswig "
+  },
+  "ETNT": {
+    "lat": 53.5477981567,
+    "long": 7.6673297882,
+    "name": "Wittmundhafen "
+  },
+  "ETNU": {
+    "lat": 53.6021995544,
+    "long": 13.3059997559,
+    "name": "Neubrandenburg "
+  },
+  "ETNW": {
+    "lat": 52.4572982788,
+    "long": 9.4271697998,
+    "name": "Wunstorf "
+  },
+  "ETOI": {
+    "lat": 49.6335983276,
+    "long": 11.76720047,
+    "name": "Vilseck Army Air Field"
+  },
+  "ETOR": {
+    "lat": 49.5635986328,
+    "long": 8.4633903503,
+    "name": "Coleman Army Air Field"
+  },
+  "ETOU": {
+    "lat": 50.0498008728,
+    "long": 8.3254003525,
+    "name": "Wiesbaden Army Airfield"
+  },
+  "ETSA": {
+    "lat": 48.0705986023,
+    "long": 10.9060001373,
+    "name": "Landsberg Lech "
+  },
+  "ETSB": {
+    "lat": 50.1738014221,
+    "long": 7.0633301735,
+    "name": "Buchel "
+  },
+  "ETSE": {
+    "lat": 48.3222999573,
+    "long": 11.9486999512,
+    "name": "Erding "
+  },
+  "ETSF": {
+    "lat": 48.2055549622,
+    "long": 11.2669439316,
+    "name": "Furstenfeldbruck "
+  },
+  "ETSH": {
+    "lat": 51.7677993774,
+    "long": 13.1676998138,
+    "name": "Holzdorf "
+  },
+  "ETSI": {
+    "lat": 48.7156982422,
+    "long": 11.5340003967,
+    "name": "Ingolstadt Manching "
+  },
+  "ETSL": {
+    "lat": 48.1855010986,
+    "long": 10.8612003326,
+    "name": "Lechfeld "
+  },
+  "ETSN": {
+    "lat": 48.7109985352,
+    "long": 11.2115001678,
+    "name": "Neuburg "
+  },
+  "ETUO": {
+    "lat": 51.9227981567,
+    "long": 8.3063297272,
+    "name": "Gutersloh "
+  },
+  "ETWM": {
+    "lat": 52.7232017517,
+    "long": 7.3263301849,
+    "name": "Meppe "
+  },
+  "RHST": {
+    "lat": 48.9777777778,
+    "long": 8.3425,
+    "name": "Rheinstetten "
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "MTCA": {
+    "lat": 18.2710990906,
+    "long": -73.7882995605,
+    "name": "Les Cayes "
+  },
+  "MTCH": {
+    "lat": 19.7329998016,
+    "long": -72.1947021484,
+    "name": "Cap Haitien International "
+  },
+  "MTJA": {
+    "lat": 18.2411003113,
+    "long": -72.5185012817,
+    "name": "Jacmel "
+  },
+  "MTJE": {
+    "lat": 18.6630992889,
+    "long": -74.1703033447,
+    "name": "Jeremie "
+  },
+  "MTPP": {
+    "lat": 18.5799999237,
+    "long": -72.2925033569,
+    "name": "Toussaint Louverture International "
+  },
+  "MTPX": {
+    "lat": 19.933599472,
+    "long": -72.8486022949,
+    "name": "Port-de-Paix "
+  }
+}

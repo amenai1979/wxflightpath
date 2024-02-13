@@ -1,0 +1,8037 @@
+{
+  "DALH": {
+    "lat": -26.4290008545,
+    "long": 135.5059967041,
+    "name": "Dalhousie "
+  },
+  "LGRS": {
+    "lat": -27.7082996368,
+    "long": 153.1049957275,
+    "name": "Logan Reserve "
+  },
+  "SWRK": {
+    "lat": -30.9333000183,
+    "long": 153.0330047607,
+    "name": "South West Rocks "
+  },
+  "TCYT": {
+    "lat": -17.4500007629,
+    "long": 144.4499969482,
+    "name": "Crystal Brook "
+  },
+  "YAAL": {
+    "lat": -16.4447002411,
+    "long": 130.8809967041,
+    "name": "Yarralin "
+  },
+  "YABA": {
+    "lat": -34.9432983398,
+    "long": 117.8089981079,
+    "name": "Albany "
+  },
+  "YABI": {
+    "lat": -17.6166992188,
+    "long": 143.167007446,
+    "name": "Abingdon Downs "
+  },
+  "YABS": {
+    "lat": -27.2833003998,
+    "long": 120.3830032349,
+    "name": "Albion Downs "
+  },
+  "YABU": {
+    "lat": -23.3332996368,
+    "long": 133.1829986572,
+    "name": "Amburla "
+  },
+  "YACI": {
+    "lat": -25.2000007629,
+    "long": 148.6829986572,
+    "name": "Arcadia "
+  },
+  "YACS": {
+    "lat": -31.4167003632,
+    "long": 141.8999938965,
+    "name": "Acacia Downs "
+  },
+  "YADD": {
+    "lat": -31.7999992371,
+    "long": 125.9329986572,
+    "name": "Arubiddy "
+  },
+  "YADG": {
+    "lat": -35.2900009155,
+    "long": 138.490005493,
+    "name": "Aldinga "
+  },
+  "YADI": {
+    "lat": -35.9977989197,
+    "long": 148.796005249,
+    "name": "Adaminaby "
+  },
+  "YADM": {
+    "lat": -21.27333333,
+    "long": 146.99,
+    "name": "Yandan Mine "
+  },
+  "YADO": {
+    "lat": -25.411699295,
+    "long": 135.2899932861,
+    "name": "Andado "
+  },
+  "YADS": {
+    "lat": -26.5333003998,
+    "long": 139.266998291,
+    "name": "Alton Downs "
+  },
+  "YADY": {
+    "lat": -35.9832992554,
+    "long": 148.8000030518,
+    "name": "Adaminaby "
+  },
+  "YAGD": {
+    "lat": -18.5149993896,
+    "long": 139.8780059814,
+    "name": "Augustus Downs "
+  },
+  "YAHD": {
+    "lat": -23.3833007813,
+    "long": 117.0329971313,
+    "name": "Ashburton Downs "
+  },
+  "YAKG": {
+    "lat": -27.9466991425,
+    "long": 134.7449951172,
+    "name": "Arckaringa "
+  },
+  "YALA": {
+    "lat": -27.3332996368,
+    "long": 133.6269989014,
+    "name": "Marla "
+  },
+  "YALC": {
+    "lat": -22.8332996368,
+    "long": 134.4499969482,
+    "name": "Alcoota Station "
+  },
+  "YALG": {
+    "lat": -18.7000007629,
+    "long": 138.5330047607,
+    "name": "Adels Grove "
+  },
+  "YALH": {
+    "lat": -24.7000007629,
+    "long": 144.2830047607,
+    "name": "Albilbah "
+  },
+  "YALM": {
+    "lat": -24.2667007446,
+    "long": 134.3999938965,
+    "name": "Allambie "
+  },
+  "YALN": {
+    "lat": -30.3833007813,
+    "long": 142.6000061035,
+    "name": "Allandy "
+  },
+  "YALX": {
+    "lat": -19.0601997375,
+    "long": 136.7100067139,
+    "name": "Alexandria Homestead "
+  },
+  "YALY": {
+    "lat": -22.4832992554,
+    "long": 139.6329956055,
+    "name": "Alderley "
+  },
+  "YAMB": {
+    "lat": -27.6406002045,
+    "long": 152.7120056152,
+    "name": "RAAF Base Amberley"
+  },
+  "YAMC": {
+    "lat": -22.9666996002,
+    "long": 145.2420043945,
+    "name": "Aramac "
+  },
+  "YAMJ": {
+    "lat": -21.6550006866,
+    "long": 135.2299957275,
+    "name": "Ampilatwatja "
+  },
+  "YAMK": {
+    "lat": -30.4382991791,
+    "long": 137.1369934082,
+    "name": "Andamooka "
+  },
+  "YAML": {
+    "lat": -17.9666996002,
+    "long": 139.766998291,
+    "name": "Armraynald "
+  },
+  "YAMM": {
+    "lat": -21.7383003235,
+    "long": 135.2420043945,
+    "name": "Ammaroo "
+  },
+  "YAMT": {
+    "lat": -26.1082992554,
+    "long": 131.2070007324,
+    "name": "Amata "
+  },
+  "YAND": {
+    "lat": -21.6667003632,
+    "long": 140.983001709,
+    "name": "Answer Downs "
+  },
+  "YANG": {
+    "lat": -23.1355555556,
+    "long": 118.706975,
+    "name": "West Angelas "
+  },
+  "YANJ": {
+    "lat": -26.1000003815,
+    "long": 130.3999938965,
+    "name": "Angatja "
+  },
+  "YANK": {
+    "lat": -28.8966999054,
+    "long": 136.1699981689,
+    "name": "Anna Creek "
+  },
+  "YANL": {
+    "lat": -18.018079031,
+    "long": 135.535068512,
+    "name": "Anthony Lagoon "
+  },
+  "YANN": {
+    "lat": -21.8316993713,
+    "long": 133.125,
+    "name": "Anningie "
+  },
+  "YANW": {
+    "lat": -21.2000007629,
+    "long": 136.4479980469,
+    "name": "Annitowa "
+  },
+  "YAOR": {
+    "lat": -21.6499996185,
+    "long": 139.1829986572,
+    "name": "Ardmore "
+  },
+  "YAPA": {
+    "lat": -19.2667007446,
+    "long": 121.516998291,
+    "name": "Anna Plains "
+  },
+  "YAPH": {
+    "lat": -23.6460990906,
+    "long": 146.5839996338,
+    "name": "Alpha "
+  },
+  "YAPO": {
+    "lat": -38.7832984924,
+    "long": 143.6329956055,
+    "name": "Apollo Bay "
+  },
+  "YARA": {
+    "lat": -37.3093986511,
+    "long": 142.9889984131,
+    "name": "Ararat "
+  },
+  "YARD": {
+    "lat": -21.676700592,
+    "long": 136.6779937744,
+    "name": "Argadargada "
+  },
+  "YARG": {
+    "lat": -16.6368999481,
+    "long": 128.4510040283,
+    "name": "Argyle "
+  },
+  "YARI": {
+    "lat": -21.6667003632,
+    "long": 141.5670013428,
+    "name": "Arizona 1 "
+  },
+  "YARK": {
+    "lat": -30.4067001343,
+    "long": 139.345993042,
+    "name": "Arkaroola "
+  },
+  "YARL": {
+    "lat": -34.3666992188,
+    "long": 146.8829956055,
+    "name": "Ardlethan "
+  },
+  "YARM": {
+    "lat": -30.5280990601,
+    "long": 151.617004395,
+    "name": "Armidale "
+  },
+  "YARN": {
+    "lat": -24.0666999817,
+    "long": 132.266998291,
+    "name": "Areyonga "
+  },
+  "YARP": {
+    "lat": -22.3166999817,
+    "long": 135.6999969482,
+    "name": "Arapunya "
+  },
+  "YARS": {
+    "lat": -34.4416999817,
+    "long": 137.8829956055,
+    "name": "Ardrossan "
+  },
+  "YARY": {
+    "lat": -26.7000007629,
+    "long": 141.0500030518,
+    "name": "Arrabury "
+  },
+  "YASF": {
+    "lat": -29.3166999817,
+    "long": 151.0500030518,
+    "name": "Ashford "
+  },
+  "YASS": {
+    "lat": -34.8866996765,
+    "long": 149.0149993896,
+    "name": "Bakblok "
+  },
+  "YATL": {
+    "lat": -23.2833003998,
+    "long": 136.3670043945,
+    "name": "Atula "
+  },
+  "YATN": {
+    "lat": -17.2616996765,
+    "long": 145.51499939,
+    "name": "Atherton "
+  },
+  "YATR": {
+    "lat": -37.1833000183,
+    "long": 143.3999938965,
+    "name": "Amphitheatre "
+  },
+  "YATY": {
+    "lat": -28.2166996002,
+    "long": 119.25,
+    "name": "Atley "
+  },
+  "YAUA": {
+    "lat": -25.7549991608,
+    "long": 146.5870056152,
+    "name": "Augathella "
+  },
+  "YAUG": {
+    "lat": -34.3666992188,
+    "long": 115.1500015259,
+    "name": "Augusta "
+  },
+  "YAUR": {
+    "lat": -13.3538999557,
+    "long": 141.720993042,
+    "name": "Aurukun "
+  },
+  "YAUS": {
+    "lat": -20.5,
+    "long": 137.75,
+    "name": "Austral Downs "
+  },
+  "YAUV": {
+    "lat": -15.6999998093,
+    "long": 130,
+    "name": "Auvergne "
+  },
+  "YAVD": {
+    "lat": -20.0333003998,
+    "long": 137.516998291,
+    "name": "Avon Downs "
+  },
+  "YAVM": {
+    "lat": -36.5666999817,
+    "long": 144.5500030518,
+    "name": "Avonmore "
+  },
+  "YAWT": {
+    "lat": -24.2000007629,
+    "long": 151.8970031738,
+    "name": "Agnes Water "
+  },
+  "YAYE": {
+    "lat": -25.1861000061,
+    "long": 130.9759979248,
+    "name": "Ayers Rock Connellan "
+  },
+  "YAYR": {
+    "lat": -19.584400177,
+    "long": 147.328994751,
+    "name": "Ayr "
+  },
+  "YBAB": {
+    "lat": -24.1866666667,
+    "long": 149.845,
+    "name": "Baralaba"
+  },
+  "YBAD": {
+    "lat": -30.9549999237,
+    "long": 149.0919952393,
+    "name": "Baradine "
+  },
+  "YBAF": {
+    "lat": -27.5702991486,
+    "long": 153.007995605,
+    "name": "Brisbane Archerfield "
+  },
+  "YBAH": {
+    "lat": -16.1333007813,
+    "long": 135.4669952393,
+    "name": "Bauhinia Downs "
+  },
+  "YBAL": {
+    "lat": -32.3499984741,
+    "long": 123.6179962158,
+    "name": "Balladonia "
+  },
+  "YBAM": {
+    "lat": -10.950799942,
+    "long": 142.4589996338,
+    "name": "Bamaga Injinoo "
+  },
+  "YBAN": {
+    "lat": -16.7371997833,
+    "long": 125.908996582,
+    "name": "Mount Barnet "
+  },
+  "YBAO": {
+    "lat": -35.4500007629,
+    "long": 149.8500061035,
+    "name": "Braidwood "
+  },
+  "YBAR": {
+    "lat": -23.5652999878,
+    "long": 145.307006836,
+    "name": "Barcaldine "
+  },
+  "YBAS": {
+    "lat": -23.8066997528,
+    "long": 133.9019927979,
+    "name": "Alice Springs "
+  },
+  "YBAU": {
+    "lat": -10.1499996185,
+    "long": 142.1734,
+    "name": "Badu Island "
+  },
+  "YBAW": {
+    "lat": -20.4958333333,
+    "long": 138.474722222,
+    "name": "Barkly Downs "
+  },
+  "YBBA": {
+    "lat": -30.3833007813,
+    "long": 150.6000061035,
+    "name": "Barraba "
+  },
+  "YBBC": {
+    "lat": -20.9445991516,
+    "long": 120.1650009155,
+    "name": "Bamboo Creek "
+  },
+  "YBBE": {
+    "lat": -27.3285999298,
+    "long": 117.672996521,
+    "name": "Big Bell "
+  },
+  "YBBL": {
+    "lat": -27.4167003632,
+    "long": 115.8330001831,
+    "name": "Billabalong "
+  },
+  "YBBN": {
+    "lat": -27.3841991425,
+    "long": 153.1170043945,
+    "name": "Brisbane International "
+  },
+  "YBBO": {
+    "lat": -30.4067001343,
+    "long": 135.4799957275,
+    "name": "Bon Bon "
+  },
+  "YBBT": {
+    "lat": -36.1366996765,
+    "long": 143.7270050049,
+    "name": "Boort "
+  },
+  "YBCB": {
+    "lat": -30.8332996368,
+    "long": 117.8669967651,
+    "name": "Bencubbin "
+  },
+  "YBCG": {
+    "lat": -28.1644001007,
+    "long": 153.505004883,
+    "name": "Gold Coast "
+  },
+  "YBCH": {
+    "lat": -36.3933333333,
+    "long": 146.696388889,
+    "name": "Beechworth "
+  },
+  "YBCK": {
+    "lat": -24.4277992249,
+    "long": 145.429000854,
+    "name": "Blackall "
+  },
+  "YBCL": {
+    "lat": -30.0499992371,
+    "long": 149.4170074463,
+    "name": "Boolcarrol Station "
+  },
+  "YBCM": {
+    "lat": -27.3907447666,
+    "long": 152.466545105,
+    "name": "Coominya"
+  },
+  "YBCR": {
+    "lat": -13.0666999817,
+    "long": 131.0330047607,
+    "name": "Batchelor "
+  },
+  "YBCS": {
+    "lat": -16.885799408,
+    "long": 145.755004883,
+    "name": "Cairns International "
+  },
+  "YBCV": {
+    "lat": -26.4132995605,
+    "long": 146.261993408,
+    "name": "Charleville "
+  },
+  "YBDF": {
+    "lat": -17.286699295,
+    "long": 127.462997437,
+    "name": "Bedford Downs "
+  },
+  "YBDG": {
+    "lat": -36.7393989563,
+    "long": 144.330001831,
+    "name": "Bendigo "
+  },
+  "YBDP": {
+    "lat": -41.0167007446,
+    "long": 147.4170074463,
+    "name": "Bridport "
+  },
+  "YBDS": {
+    "lat": -30.2833003998,
+    "long": 134.516998291,
+    "name": "Birthday Siding "
+  },
+  "YBDU": {
+    "lat": -18.3833007813,
+    "long": 129.483001709,
+    "name": "Birrindudu "
+  },
+  "YBDV": {
+    "lat": -25.8974990845,
+    "long": 139.3480072021,
+    "name": "Birdsville "
+  },
+  "YBDX": {
+    "lat": -22.8633003235,
+    "long": 114.9629974365,
+    "name": "Barradale "
+  },
+  "YBEB": {
+    "lat": -17.545,
+    "long": 128.305,
+    "name": "Pumululu National Park"
+  },
+  "YBEC": {
+    "lat": -30.4832992554,
+    "long": 117.8830032349,
+    "name": "Beacon "
+  },
+  "YBEE": {
+    "lat": -30.1867008209,
+    "long": 139.5579986572,
+    "name": "Beverley "
+  },
+  "YBEF": {
+    "lat": -37.4500007629,
+    "long": 143.25,
+    "name": "Beaufort "
+  },
+  "YBEL": {
+    "lat": -42.3666992188,
+    "long": 147.0330047607,
+    "name": "Bothwell "
+  },
+  "YBEO": {
+    "lat": -25.6417007446,
+    "long": 140.7830047607,
+    "name": "Betoota "
+  },
+  "YBEU": {
+    "lat": -35.9500007629,
+    "long": 142.4170074463,
+    "name": "Beulah 1 "
+  },
+  "YBEV": {
+    "lat": -32.1333007813,
+    "long": 116.9499969482,
+    "name": "Beverley "
+  },
+  "YBEW": {
+    "lat": -31.9167003632,
+    "long": 144.6329956055,
+    "name": "Beechworth "
+  },
+  "YBFR": {
+    "lat": -41.2590332628,
+    "long": 144.886064529,
+    "name": "Balfour "
+  },
+  "YBFT": {
+    "lat": -37.495,
+    "long": 143.43,
+    "name": "Beaufort"
+  },
+  "YBGB": {
+    "lat": -16.9832992554,
+    "long": 122.6500015259,
+    "name": "Beagle Bay "
+  },
+  "YBGD": {
+    "lat": -22.54,
+    "long": 117.275,
+    "name": "Boolgeeda "
+  },
+  "YBGI": {
+    "lat": -31.0666999817,
+    "long": 125.6669998169,
+    "name": "Balgair "
+  },
+  "YBGO": {
+    "lat": -20.1483001709,
+    "long": 127.9729995728,
+    "name": "Balgo Hill "
+  },
+  "YBGR": {
+    "lat": -36.6166992188,
+    "long": 143.9499969482,
+    "name": "Bridgewater "
+  },
+  "YBGT": {
+    "lat": -25.3700008392,
+    "long": 143.7729949951,
+    "name": "Budgerygar "
+  },
+  "YBGY": {
+    "lat": -29.5049991608,
+    "long": 150.1920013428,
+    "name": "Biniguy "
+  },
+  "YBHB": {
+    "lat": -43.4207000732,
+    "long": 146.1560058594,
+    "name": "Bathurst Harbour "
+  },
+  "YBHI": {
+    "lat": -32.0013999939,
+    "long": 141.472000122,
+    "name": "Broken Hill "
+  },
+  "YBHK": {
+    "lat": -21.2667007446,
+    "long": 139.7169952393,
+    "name": "Bushy Park "
+  },
+  "YBHM": {
+    "lat": -20.3581008911,
+    "long": 148.95199585,
+    "name": "Hamilton Island "
+  },
+  "YBIA": {
+    "lat": -29.7999992371,
+    "long": 150.5330047607,
+    "name": "Bingara "
+  },
+  "YBID": {
+    "lat": -34.3033333333,
+    "long": 149.36,
+    "name": "Binda"
+  },
+  "YBIE": {
+    "lat": -24.3460998535,
+    "long": 139.4600067139,
+    "name": "Bedourie "
+  },
+  "YBIK": {
+    "lat": -34.1666984558,
+    "long": 150.1000061035,
+    "name": "Bindook "
+  },
+  "YBIL": {
+    "lat": -19.5666999817,
+    "long": 127.666999817,
+    "name": "Billiluna "
+  },
+  "YBIN": {
+    "lat": -25.5249996185,
+    "long": 152.0500030518,
+    "name": "Biggenden "
+  },
+  "YBIR": {
+    "lat": -35.9996986389,
+    "long": 142.9170074463,
+    "name": "Birchip "
+  },
+  "YBIU": {
+    "lat": -30.5932998657,
+    "long": 116.7799987793,
+    "name": "Ballidu "
+  },
+  "YBIZ": {
+    "lat": -14.7402777778,
+    "long": 144.119444444,
+    "name": "Bizant "
+  },
+  "YBJW": {
+    "lat": -27.6667003632,
+    "long": 121.5999984741,
+    "name": "Banjawarn "
+  },
+  "YBKE": {
+    "lat": -30.0391998291,
+    "long": 145.9519958496,
+    "name": "Bourke "
+  },
+  "YBKS": {
+    "lat": -19.7091999054,
+    "long": 135.8190002441,
+    "name": "Barkly Wayside Inn "
+  },
+  "YBKT": {
+    "lat": -17.7486000061,
+    "long": 139.533996582,
+    "name": "Burketown "
+  },
+  "YBLA": {
+    "lat": -36.5518989563,
+    "long": 146.0070037842,
+    "name": "Benalla "
+  },
+  "YBLB": {
+    "lat": -26.8166999817,
+    "long": 114.6169967651,
+    "name": "Billabong Road House "
+  },
+  "YBLC": {
+    "lat": -30.5349998474,
+    "long": 139.3370056152,
+    "name": "Balcanoona "
+  },
+  "YBLD": {
+    "lat": -31.8250007629,
+    "long": 116.7959976196,
+    "name": "Brooklands "
+  },
+  "YBLG": {
+    "lat": -28.9832992554,
+    "long": 140.8500061035,
+    "name": "Bollards Lagoon "
+  },
+  "YBLH": {
+    "lat": -27.0333003998,
+    "long": 142.9499969482,
+    "name": "Bellalie "
+  },
+  "YBLL": {
+    "lat": -28.0583000183,
+    "long": 147.483001709,
+    "name": "Bollon "
+  },
+  "YBLM": {
+    "lat": -31.1186008453,
+    "long": 138.7259979248,
+    "name": "Blinman "
+  },
+  "YBLN": {
+    "lat": -33.6884231567,
+    "long": 115.401596069,
+    "name": "Busselton Regional "
+  },
+  "YBLT": {
+    "lat": -37.5116996765,
+    "long": 143.7910003662,
+    "name": "Ballarat "
+  },
+  "YBLU": {
+    "lat": -27.6149997711,
+    "long": 120.6119995117,
+    "name": "Bellevue "
+  },
+  "YBMA": {
+    "lat": -20.6639003754,
+    "long": 139.488998413,
+    "name": "Mount Isa "
+  },
+  "YBMC": {
+    "lat": -26.6033000946,
+    "long": 153.091003418,
+    "name": "Sunshine Coast "
+  },
+  "YBMD": {
+    "lat": -15.8999996185,
+    "long": 145.3329925537,
+    "name": "Bloomfield River "
+  },
+  "YBMI": {
+    "lat": -28.7332992554,
+    "long": 149.5829925537,
+    "name": "Boomi "
+  },
+  "YBMK": {
+    "lat": -21.1716995239,
+    "long": 149.179992676,
+    "name": "Mackay "
+  },
+  "YBMM": {
+    "lat": -36.25,
+    "long": 144.6329956055,
+    "name": "Bamawm "
+  },
+  "YBMO": {
+    "lat": -36.9049987793,
+    "long": 149.1820068359,
+    "name": "Bombala "
+  },
+  "YBMR": {
+    "lat": -34.2566986084,
+    "long": 140.4579925537,
+    "name": "Barmera "
+  },
+  "YBMY": {
+    "lat": -14.5200004578,
+    "long": 132.8829956055,
+    "name": "Bamyili "
+  },
+  "YBNA": {
+    "lat": -28.8339004517,
+    "long": 153.56199646,
+    "name": "Ballina Byron Gateway "
+  },
+  "YBNC": {
+    "lat": -21.7999992371,
+    "long": 145.0829925537,
+    "name": "Bannockburn "
+  },
+  "YBNM": {
+    "lat": -17.9367008209,
+    "long": 136.8999938965,
+    "name": "Benmara "
+  },
+  "YBNS": {
+    "lat": -37.8875007629,
+    "long": 147.5679931641,
+    "name": "Bairnsdale "
+  },
+  "YBNY": {
+    "lat": -18.8700008392,
+    "long": 134.4620056152,
+    "name": "Brunchilly "
+  },
+  "YBOA": {
+    "lat": -28.0167007446,
+    "long": 152.6820068359,
+    "name": "Boonah "
+  },
+  "YBOC": {
+    "lat": -32.9049987793,
+    "long": 138.3600006104,
+    "name": "Booleroo Centre "
+  },
+  "YBOD": {
+    "lat": -26.2999992371,
+    "long": 143.3829956055,
+    "name": "Bodalla "
+  },
+  "YBOG": {
+    "lat": -30.7166996002,
+    "long": 150.0500030518,
+    "name": "Boggabri "
+  },
+  "YBOI": {
+    "lat": -9.2327804565,
+    "long": 142.218002319,
+    "name": "Boigu "
+  },
+  "YBOK": {
+    "lat": -27.4113998413,
+    "long": 151.7350006104,
+    "name": "Oakey "
+  },
+  "YBOM": {
+    "lat": -36.9166984558,
+    "long": 149.1670074463,
+    "name": "Bombala "
+  },
+  "YBOO": {
+    "lat": -31.3402996063,
+    "long": 116.18800354,
+    "name": "Catholic Agricultural College Bindoon Airstrip"
+  },
+  "YBOP": {
+    "lat": -33.9000015259,
+    "long": 116.4670028687,
+    "name": "Boyup Brook "
+  },
+  "YBOR": {
+    "lat": -36.2649993896,
+    "long": 140.712005615,
+    "name": "Bordertown "
+  },
+  "YBOT": {
+    "lat": -27.25,
+    "long": 146.9170074463,
+    "name": "Boatman "
+  },
+  "YBOU": {
+    "lat": -22.9132995605,
+    "long": 139.8999938965,
+    "name": "Boulia "
+  },
+  "YBOV": {
+    "lat": -31.6394004822,
+    "long": 129.0119934082,
+    "name": "Border Village "
+  },
+  "YBOY": {
+    "lat": -27.75,
+    "long": 119.9000015259,
+    "name": "Booylgoo Springs "
+  },
+  "YBPI": {
+    "lat": -20.8033008575,
+    "long": 149.2700042725,
+    "name": "Brampton Island "
+  },
+  "YBPN": {
+    "lat": -20.4950008392,
+    "long": 148.552001953,
+    "name": "Proserpine Whitsunday Coast "
+  },
+  "YBRA": {
+    "lat": -36.9668665594,
+    "long": 147.699143887,
+    "name": "Benambra "
+  },
+  "YBRC": {
+    "lat": -21.5333003998,
+    "long": 133.8829956055,
+    "name": "Barrow Creek "
+  },
+  "YBRJ": {
+    "lat": -30.1583003998,
+    "long": 148.9750061035,
+    "name": "Burren Junction "
+  },
+  "YBRK": {
+    "lat": -23.3819007874,
+    "long": 150.475006104,
+    "name": "Rockhampton "
+  },
+  "YBRL": {
+    "lat": -16.0753002167,
+    "long": 136.3020019531,
+    "name": "Borroloola "
+  },
+  "YBRM": {
+    "lat": -17.9447002411,
+    "long": 122.2320022583,
+    "name": "Broome International "
+  },
+  "YBRN": {
+    "lat": -34.6236000061,
+    "long": 143.5780029297,
+    "name": "Balranald "
+  },
+  "YBRO": {
+    "lat": -31.8833007813,
+    "long": 118.1169967651,
+    "name": "Bruce Rock "
+  },
+  "YBRS": {
+    "lat": -38.258056,
+    "long": 144.4275,
+    "name": "Barwon Heads "
+  },
+  "YBRU": {
+    "lat": -18.6399993896,
+    "long": 135.93800354,
+    "name": "Brunette Downs "
+  },
+  "YBRW": {
+    "lat": -29.9738998413,
+    "long": 146.8170013428,
+    "name": "Brewarrina "
+  },
+  "YBRY": {
+    "lat": -22.6739006042,
+    "long": 119.1660003662,
+    "name": "Barimunya "
+  },
+  "YBSG": {
+    "lat": -12.6239004135,
+    "long": 142.0870056152,
+    "name": "RAAF Scherger"
+  },
+  "YBSP": {
+    "lat": -23.5149993896,
+    "long": 133.8430023193,
+    "name": "Bond Springs "
+  },
+  "YBSR": {
+    "lat": -25.986700058,
+    "long": 128.2879943848,
+    "name": "Blackstone "
+  },
+  "YBSS": {
+    "lat": -37.7333333333,
+    "long": 144.421666667,
+    "name": "Bacchus Marsh "
+  },
+  "YBTD": {
+    "lat": -23.3500003815,
+    "long": 143.5330047607,
+    "name": "Brighton Downs "
+  },
+  "YBTH": {
+    "lat": -33.4094009399,
+    "long": 149.651992798,
+    "name": "Bathurst "
+  },
+  "YBTI": {
+    "lat": -11.769200325,
+    "long": 130.6199951172,
+    "name": "Bathurst Island "
+  },
+  "YBTK": {
+    "lat": -17.0867023468,
+    "long": 139.5657806396,
+    "name": "Bentinck Island "
+  },
+  "YBTL": {
+    "lat": -19.2525005341,
+    "long": 146.7649993896,
+    "name": "Townsville "
+  },
+  "YBTN": {
+    "lat": -30.5249996185,
+    "long": 132.6600036621,
+    "name": "Barton Siding "
+  },
+  "YBTR": {
+    "lat": -23.603099823,
+    "long": 148.8070068359,
+    "name": "Blackwater "
+  },
+  "YBTS": {
+    "lat": -19.4333000183,
+    "long": 145.8500061035,
+    "name": "Battery Downs "
+  },
+  "YBTT": {
+    "lat": -31.3582992554,
+    "long": 147.6329956055,
+    "name": "Buttabone "
+  },
+  "YBTV": {
+    "lat": -12.6667003632,
+    "long": 142.6670074463,
+    "name": "Batavia Downs "
+  },
+  "YBUA": {
+    "lat": -21.9666996002,
+    "long": 148.5330047607,
+    "name": "Bundarra "
+  },
+  "YBUC": {
+    "lat": -33.8333015442,
+    "long": 115.0999984741,
+    "name": "Butch "
+  },
+  "YBUD": {
+    "lat": -24.9039001465,
+    "long": 152.319000244,
+    "name": "Bundaberg "
+  },
+  "YBUG": {
+    "lat": -28.5,
+    "long": 119.733001709,
+    "name": "Bulga Downs Station "
+  },
+  "YBUI": {
+    "lat": -41.0491981506,
+    "long": 145.8800048828,
+    "name": "Burnie "
+  },
+  "YBUL": {
+    "lat": -30.1867008209,
+    "long": 134.9029998779,
+    "name": "Bulgunnia "
+  },
+  "YBUN": {
+    "lat": -33.3782997131,
+    "long": 115.6770019531,
+    "name": "Bunbury "
+  },
+  "YBUO": {
+    "lat": -24.0167007446,
+    "long": 119.5670013428,
+    "name": "Bulloo Downs Station "
+  },
+  "YBUP": {
+    "lat": -38.0167007446,
+    "long": 145.75,
+    "name": "Bunyip "
+  },
+  "YBUU": {
+    "lat": -17.54529953,
+    "long": 128.3070068359,
+    "name": "Bungle Bungle "
+  },
+  "YBUX": {
+    "lat": -17.6499996185,
+    "long": 143.8000030518,
+    "name": "Bulleringa "
+  },
+  "YBUY": {
+    "lat": -36.1342008376,
+    "long": 149.131979942,
+    "name": "Bunyan Airfield"
+  },
+  "YBVA": {
+    "lat": -34.0843009949,
+    "long": 138.3339996338,
+    "name": "Balaklava "
+  },
+  "YBVL": {
+    "lat": -31.5832996368,
+    "long": 150.1829986572,
+    "name": "Blackville "
+  },
+  "YBVY": {
+    "lat": -15.4666996002,
+    "long": 129.766998291,
+    "name": "Bullo River Valley "
+  },
+  "YBWG": {
+    "lat": -27.3656005859,
+    "long": 121.0360031128,
+    "name": "Bronzewing "
+  },
+  "YBWI": {
+    "lat": -20.6000003815,
+    "long": 147.0829925537,
+    "name": "Burdekin Falls Dam "
+  },
+  "YBWM": {
+    "lat": -16.8808002472,
+    "long": 143.479003906,
+    "name": "Bulimba "
+  },
+  "YBWN": {
+    "lat": -20.0182991028,
+    "long": 148.2149963379,
+    "name": "Bowen "
+  },
+  "YBWP": {
+    "lat": -12.6786003113,
+    "long": 141.925003052,
+    "name": "Weipa "
+  },
+  "YBWR": {
+    "lat": -17.3999996185,
+    "long": 144.1829986572,
+    "name": "Bolwarra "
+  },
+  "YBWS": {
+    "lat": -14.111700058,
+    "long": 123.5469970703,
+    "name": "Browse Is "
+  },
+  "YBWT": {
+    "lat": -18.0832996368,
+    "long": 138.2749938965,
+    "name": "Bowthorn "
+  },
+  "YBWW": {
+    "lat": -27.558333,
+    "long": 151.793333,
+    "name": "Toowoomba Wellcamp "
+  },
+  "YBWX": {
+    "lat": -20.8644008636,
+    "long": 115.40599823,
+    "name": "Barrow Island "
+  },
+  "YBXH": {
+    "lat": -37.8672981262,
+    "long": 141.7019958496,
+    "name": "Branxholme "
+  },
+  "YBYA": {
+    "lat": -25.5333003998,
+    "long": 118.733001709,
+    "name": "Bryah "
+  },
+  "YBYD": {
+    "lat": -22.2667007446,
+    "long": 119.8830032349,
+    "name": "Bonney Downs Station "
+  },
+  "YBYI": {
+    "lat": -43.2341995239,
+    "long": 147.3800048828,
+    "name": "Bruny Island "
+  },
+  "YBYR": {
+    "lat": -30.6667003632,
+    "long": 146.3999938965,
+    "name": "Byrock "
+  },
+  "YBYS": {
+    "lat": -16.7332992554,
+    "long": 125.4329986572,
+    "name": "Beverley Springs "
+  },
+  "YBYW": {
+    "lat": -25.4500007629,
+    "long": 145.5829925537,
+    "name": "Bayswater "
+  },
+  "YBZA": {
+    "lat": -31.3166999817,
+    "long": 150.516998291,
+    "name": "Breeza "
+  },
+  "YCAB": {
+    "lat": -27.0832996368,
+    "long": 152.983001709,
+    "name": "Caboolture "
+  },
+  "YCAC": {
+    "lat": -17.6166992188,
+    "long": 131.5500030518,
+    "name": "Cattle Creek "
+  },
+  "YCAE": {
+    "lat": -41.9672241211,
+    "long": 147.5305480957,
+    "name": "Campbell Town "
+  },
+  "YCAG": {
+    "lat": -32.2649993896,
+    "long": 125.4929962158,
+    "name": "Caiguna "
+  },
+  "YCAH": {
+    "lat": -31.7733001709,
+    "long": 149.6100006104,
+    "name": "Coolah "
+  },
+  "YCAI": {
+    "lat": -30.1166992188,
+    "long": 120.5830001831,
+    "name": "Callion "
+  },
+  "YCAJ": {
+    "lat": -18.7000007629,
+    "long": 125.9000015259,
+    "name": "Cadjebut "
+  },
+  "YCAL": {
+    "lat": -37.1333007813,
+    "long": 144.1670074463,
+    "name": "Castlemaine "
+  },
+  "YCAM": {
+    "lat": -21.875,
+    "long": 140.8999938965,
+    "name": "Cannington Station "
+  },
+  "YCAN": {
+    "lat": -12.3667001724,
+    "long": 132.9499969482,
+    "name": "Cannon Hill Community "
+  },
+  "YCAR": {
+    "lat": -24.8805999756,
+    "long": 113.6719970703,
+    "name": "Carnarvon "
+  },
+  "YCAS": {
+    "lat": -28.8827991486,
+    "long": 153.0670013428,
+    "name": "Casino "
+  },
+  "YCBA": {
+    "lat": -31.5382995605,
+    "long": 145.7940063477,
+    "name": "Cobar "
+  },
+  "YCBB": {
+    "lat": -31.3325004578,
+    "long": 149.266998291,
+    "name": "Coonabarabran "
+  },
+  "YCBE": {
+    "lat": -19.4794006348,
+    "long": 140.927001953,
+    "name": "Canobie "
+  },
+  "YCBG": {
+    "lat": -42.8266983032,
+    "long": 147.4750061035,
+    "name": "Hobart Cambridge "
+  },
+  "YCBN": {
+    "lat": -40.3917007446,
+    "long": 148.016998291,
+    "name": "Cape Barren Island "
+  },
+  "YCBO": {
+    "lat": -35.7566986084,
+    "long": 136.5980072021,
+    "name": "Cape Borda "
+  },
+  "YCBP": {
+    "lat": -29.0400009155,
+    "long": 134.720993042,
+    "name": "Coober Pedy "
+  },
+  "YCBR": {
+    "lat": -29.5216999054,
+    "long": 148.5820007324,
+    "name": "Collarenebri "
+  },
+  "YCBY": {
+    "lat": -16.2193412781,
+    "long": 145.4247283936,
+    "name": "Daintree "
+  },
+  "YCCA": {
+    "lat": -26.7749996185,
+    "long": 150.6170043945,
+    "name": "Chinchilla "
+  },
+  "YCCF": {
+    "lat": -16.6833000183,
+    "long": 135.733001709,
+    "name": "Cape Crawford "
+  },
+  "YCCK": {
+    "lat": -20.650800705,
+    "long": 135.5850067139,
+    "name": "Canteen Creek "
+  },
+  "YCCT": {
+    "lat": -10.0500001907,
+    "long": 143.0700073242,
+    "name": "Coconut Island "
+  },
+  "YCCY": {
+    "lat": -20.6686000824,
+    "long": 140.503997803,
+    "name": "Cloncurry "
+  },
+  "YCDB": {
+    "lat": -31.0666999817,
+    "long": 135.8829956055,
+    "name": "Coondambo "
+  },
+  "YCDE": {
+    "lat": -38.326666,
+    "long": 143.056666,
+    "name": "Cobden "
+  },
+  "YCDH": {
+    "lat": -27.9083003998,
+    "long": 134.0529937744,
+    "name": "Cadney Homestead "
+  },
+  "YCDL": {
+    "lat": -41.581231359,
+    "long": 145.93834877,
+    "name": "Cradle Mountain "
+  },
+  "YCDO": {
+    "lat": -33.0643997192,
+    "long": 147.2089996338,
+    "name": "Condobolin "
+  },
+  "YCDR": {
+    "lat": -26.7999992371,
+    "long": 153.1000061035,
+    "name": "Caloundra "
+  },
+  "YCDS": {
+    "lat": -25.2530800689,
+    "long": 152.335395813,
+    "name": "Childers "
+  },
+  "YCDT": {
+    "lat": -21.9666996002,
+    "long": 138.6170043945,
+    "name": "Carandotta "
+  },
+  "YCDU": {
+    "lat": -32.1305999756,
+    "long": 133.7100067139,
+    "name": "Ceduna "
+  },
+  "YCDV": {
+    "lat": -25.1082992554,
+    "long": 146.8329925537,
+    "name": "Caldervale Station "
+  },
+  "YCEE": {
+    "lat": -33.7097015381,
+    "long": 136.5050048828,
+    "name": "Cleve "
+  },
+  "YCEL": {
+    "lat": -23.1000003815,
+    "long": 148.0330047607,
+    "name": "Capella "
+  },
+  "YCEM": {
+    "lat": -37.7276687622,
+    "long": 145.4083709717,
+    "name": "Coldstream "
+  },
+  "YCES": {
+    "lat": -38.1483001709,
+    "long": 144.2579956055,
+    "name": "Ceres "
+  },
+  "YCFD": {
+    "lat": -17.0216999054,
+    "long": 131.3269958496,
+    "name": "Camfield "
+  },
+  "YCFF": {
+    "lat": -36.9682998657,
+    "long": 142.5480041504,
+    "name": "Dadswells Bridge "
+  },
+  "YCFH": {
+    "lat": -27.0182991028,
+    "long": 138.891998291,
+    "name": "Clifton Hills "
+  },
+  "YCFL": {
+    "lat": -14.9666996002,
+    "long": 145.3000030518,
+    "name": "Cape Flattery "
+  },
+  "YCFN": {
+    "lat": -27.9283008575,
+    "long": 151.8470001221,
+    "name": "Clifton "
+  },
+  "YCGH": {
+    "lat": -20.1333007813,
+    "long": 140.6829986572,
+    "name": "Clonagh "
+  },
+  "YCGI": {
+    "lat": -25.7999992371,
+    "long": 122.9670028687,
+    "name": "Carnegie Station "
+  },
+  "YCGO": {
+    "lat": -17.1427993774,
+    "long": 144.529006958,
+    "name": "Chillagoe "
+  },
+  "YCHB": {
+    "lat": -28.4167003632,
+    "long": 152.1670074463,
+    "name": "Cherrabah "
+  },
+  "YCHK": {
+    "lat": -22.355556,
+    "long": 119.652222,
+    "name": "Graeme Rowley Aerodrome"
+  },
+  "YCHL": {
+    "lat": -36.25,
+    "long": 143.3000030518,
+    "name": "Charlton "
+  },
+  "YCHR": {
+    "lat": -31.7000007629,
+    "long": 134.8329925537,
+    "name": "Childra "
+  },
+  "YCHT": {
+    "lat": -20.0431003571,
+    "long": 146.2729949951,
+    "name": "Charters Towers "
+  },
+  "YCIG": {
+    "lat": -32.3333015442,
+    "long": 117.8170013428,
+    "name": "Corrigin "
+  },
+  "YCIN": {
+    "lat": -17.5813999176,
+    "long": 123.82800293,
+    "name": "RAAF Base Curtin"
+  },
+  "YCJU": {
+    "lat": -18.6833000183,
+    "long": 144.75,
+    "name": "Conjuboy "
+  },
+  "YCKA": {
+    "lat": -29.4766998291,
+    "long": 137.0879974365,
+    "name": "Curdimurka "
+  },
+  "YCKD": {
+    "lat": -40.5167007446,
+    "long": 148.1329956055,
+    "name": "Clarke Island "
+  },
+  "YCKI": {
+    "lat": -11.1649999619,
+    "long": 132.483001709,
+    "name": "Croker Island "
+  },
+  "YCKN": {
+    "lat": -15.4447002411,
+    "long": 145.1840057373,
+    "name": "Cooktown "
+  },
+  "YCKY": {
+    "lat": -32.0499992371,
+    "long": 126.0920028687,
+    "name": "Cocklebiddy "
+  },
+  "YCLA": {
+    "lat": -33.4068984985,
+    "long": 143.9400024414,
+    "name": "Clare Station "
+  },
+  "YCLE": {
+    "lat": -37.2433013916,
+    "long": 140.4450073242,
+    "name": "Callendale "
+  },
+  "YCLG": {
+    "lat": -30.9500007629,
+    "long": 121.1500015259,
+    "name": "Coolgardie "
+  },
+  "YCLM": {
+    "lat": -29.4533004761,
+    "long": 148.7429962158,
+    "name": "Collymongle "
+  },
+  "YCLQ": {
+    "lat": -16.3983001709,
+    "long": 122.9319992065,
+    "name": "Cape Leveque "
+  },
+  "YCLT": {
+    "lat": -34.8833007813,
+    "long": 149.4170074463,
+    "name": "Collector "
+  },
+  "YCLY": {
+    "lat": -34.7999992371,
+    "long": 145.8500061035,
+    "name": "Coleambally "
+  },
+  "YCMH": {
+    "lat": -31.6650009155,
+    "long": 152.7420043945,
+    "name": "Camden Haven "
+  },
+  "YCMK": {
+    "lat": -18.8500003815,
+    "long": 145.4669952393,
+    "name": "Camel Creek "
+  },
+  "YCMM": {
+    "lat": -34.2583007813,
+    "long": 135.7079925537,
+    "name": "Cummins Town "
+  },
+  "YCMT": {
+    "lat": -22.7730998993,
+    "long": 147.6210021973,
+    "name": "Clermont "
+  },
+  "YCMU": {
+    "lat": -28.0300006866,
+    "long": 145.6219940186,
+    "name": "Cunnamulla "
+  },
+  "YCMW": {
+    "lat": -19.911699295,
+    "long": 138.125,
+    "name": "Camooweal "
+  },
+  "YCNA": {
+    "lat": -31.2908000946,
+    "long": 141.4519958496,
+    "name": "Corona Station "
+  },
+  "YCNF": {
+    "lat": -21.6716995239,
+    "long": 121.5869979858,
+    "name": "Camp Nifty "
+  },
+  "YCNG": {
+    "lat": -36.8199996948,
+    "long": 140.2729949951,
+    "name": "Cooranga "
+  },
+  "YCNH": {
+    "lat": -29.6833000183,
+    "long": 115.8830032349,
+    "name": "Carnarmah "
+  },
+  "YCNK": {
+    "lat": -32.7874984741,
+    "long": 151.3419952393,
+    "name": "Cessnock "
+  },
+  "YCNM": {
+    "lat": -30.9832992554,
+    "long": 148.3760070801,
+    "name": "Coonamble "
+  },
+  "YCNN": {
+    "lat": -31.0167007446,
+    "long": 123.1669998169,
+    "name": "Coonana "
+  },
+  "YCNO": {
+    "lat": -35.3166999817,
+    "long": 145.1170043945,
+    "name": "Conargo "
+  },
+  "YCNQ": {
+    "lat": -37.2832984924,
+    "long": 140.8000030518,
+    "name": "Coonawarra "
+  },
+  "YCNR": {
+    "lat": -37.5167007446,
+    "long": 149.1670074463,
+    "name": "Cann River "
+  },
+  "YCNS": {
+    "lat": -22.1333007813,
+    "long": 132.5330047607,
+    "name": "Coniston "
+  },
+  "YCNX": {
+    "lat": -29.0666999817,
+    "long": 150.766998291,
+    "name": "Cooranga "
+  },
+  "YCNY": {
+    "lat": -18.7532997131,
+    "long": 138.7070007324,
+    "name": "Century Mine "
+  },
+  "YCOD": {
+    "lat": -26.745300293,
+    "long": 140.6380004883,
+    "name": "Cordillo Downs "
+  },
+  "YCOE": {
+    "lat": -13.7608003616,
+    "long": 143.1139984131,
+    "name": "Coen "
+  },
+  "YCOF": {
+    "lat": -34.6333007813,
+    "long": 135.516998291,
+    "name": "Coffin Bay "
+  },
+  "YCOG": {
+    "lat": -20.6833000183,
+    "long": 119.6669998169,
+    "name": "Coongan "
+  },
+  "YCOH": {
+    "lat": -35.8166999817,
+    "long": 144.1999969482,
+    "name": "Cohuna "
+  },
+  "YCOI": {
+    "lat": -33.3666992188,
+    "long": 116.2170028687,
+    "name": "Collie "
+  },
+  "YCOL": {
+    "lat": -37.5999984741,
+    "long": 141.6999969482,
+    "name": "Coleraine "
+  },
+  "YCOM": {
+    "lat": -36.3005981445,
+    "long": 148.973999023,
+    "name": "Cooma Snowy Mountains "
+  },
+  "YCOO": {
+    "lat": -12.9033002853,
+    "long": 132.5319976807,
+    "name": "Cooinda "
+  },
+  "YCOR": {
+    "lat": -35.9947013855,
+    "long": 146.3569946289,
+    "name": "Corowa "
+  },
+  "YCOS": {
+    "lat": -27.9850006104,
+    "long": 122.9029998779,
+    "name": "Cosmo Newberry "
+  },
+  "YCOY": {
+    "lat": -23.1299991608,
+    "long": 113.7770004272,
+    "name": "Coral Bay "
+  },
+  "YCPD": {
+    "lat": -11.2982997894,
+    "long": 131.8269958496,
+    "name": "Cape Don "
+  },
+  "YCPG": {
+    "lat": -20.9500007629,
+    "long": 120.0329971313,
+    "name": "Coppins Gap "
+  },
+  "YCPH": {
+    "lat": -27.9783000946,
+    "long": 134.3170013428,
+    "name": "Copper Hills "
+  },
+  "YCPN": {
+    "lat": -18.7166996002,
+    "long": 144.3170013428,
+    "name": "Carpentaria Downs "
+  },
+  "YCPP": {
+    "lat": -33.9817008972,
+    "long": 137.6620025635,
+    "name": "Copper Triangle "
+  },
+  "YCRA": {
+    "lat": -30.4582996368,
+    "long": 147.7079925537,
+    "name": "Carinda "
+  },
+  "YCRG": {
+    "lat": -36.182800293,
+    "long": 147.8880004883,
+    "name": "Corryong "
+  },
+  "YCRK": {
+    "lat": -18.8833007813,
+    "long": 125.9169998169,
+    "name": "Christmas Creek Station "
+  },
+  "YCRL": {
+    "lat": -34.5,
+    "long": 149.4499969482,
+    "name": "Crookwell "
+  },
+  "YCRN": {
+    "lat": -34.2832984924,
+    "long": 117.5500030518,
+    "name": "Cranbrook "
+  },
+  "YCRT": {
+    "lat": -32.4166984558,
+    "long": 138.516998291,
+    "name": "Carrieton "
+  },
+  "YCRY": {
+    "lat": -18.2250003815,
+    "long": 142.2579956055,
+    "name": "Croydon "
+  },
+  "YCSI": {
+    "lat": -32.0022010803,
+    "long": 149.9609985352,
+    "name": "Cassilis Rotherw "
+  },
+  "YCSL": {
+    "lat": -24.6333007813,
+    "long": 148.4669952393,
+    "name": "Consuelo "
+  },
+  "YCSP": {
+    "lat": -25.3166999817,
+    "long": 131.75,
+    "name": "Curtin Springs "
+  },
+  "YCSV": {
+    "lat": -20.5967006683,
+    "long": 147.8600006104,
+    "name": "Collinsville "
+  },
+  "YCTC": {
+    "lat": -22.7999992371,
+    "long": 122.5830001831,
+    "name": "Cotten Creek "
+  },
+  "YCTH": {
+    "lat": -21.9666996002,
+    "long": 140.3000030518,
+    "name": "Chatsworth "
+  },
+  "YCTI": {
+    "lat": -16.0832996368,
+    "long": 123.6169967651,
+    "name": "Cockatoo Island "
+  },
+  "YCTM": {
+    "lat": -34.6239013672,
+    "long": 148.0279998779,
+    "name": "Cootamundra "
+  },
+  "YCTN": {
+    "lat": -37.5999984741,
+    "long": 141.3999938965,
+    "name": "Casterton "
+  },
+  "YCTS": {
+    "lat": -20.1333007813,
+    "long": 139.4170074463,
+    "name": "Calton Hills "
+  },
+  "YCTY": {
+    "lat": -38.8600006104,
+    "long": 143.5149993896,
+    "name": "Cape Otway "
+  },
+  "YCUA": {
+    "lat": -33.278301239,
+    "long": 148.7630004883,
+    "name": "Cudal "
+  },
+  "YCUD": {
+    "lat": -25.5900001526,
+    "long": 141.5079956055,
+    "name": "Cuddapan "
+  },
+  "YCUE": {
+    "lat": -27.4466991425,
+    "long": 117.9179992676,
+    "name": "Cue "
+  },
+  "YCUN": {
+    "lat": -31.6222000122,
+    "long": 117.2170028687,
+    "name": "Cunderdin "
+  },
+  "YCUR": {
+    "lat": -35.9268875122,
+    "long": 148.3925476074,
+    "name": "Cabramurra "
+  },
+  "YCUS": {
+    "lat": -34.2083015442,
+    "long": 135.641998291,
+    "name": "Cummins "
+  },
+  "YCUT": {
+    "lat": -33.0332984924,
+    "long": 142.016998291,
+    "name": "Cuthero "
+  },
+  "YCVG": {
+    "lat": -34.6967010498,
+    "long": 138.5780029297,
+    "name": "Calvin Grove "
+  },
+  "YCVS": {
+    "lat": -30.4832992554,
+    "long": 115.0830001831,
+    "name": "Cervantes "
+  },
+  "YCWA": {
+    "lat": -22.966667,
+    "long": 118.802222,
+    "name": "Coondewanna Wa "
+  },
+  "YCWE": {
+    "lat": -11,
+    "long": 136.75,
+    "name": "Cape Wessels "
+  },
+  "YCWH": {
+    "lat": -29.9617004395,
+    "long": 134.1430053711,
+    "name": "Commonwealth Hill "
+  },
+  "YCWI": {
+    "lat": -27.7117004395,
+    "long": 138.3280029297,
+    "name": "Cowarie "
+  },
+  "YCWL": {
+    "lat": -33.6666984558,
+    "long": 136.891998291,
+    "name": "Cowell "
+  },
+  "YCWN": {
+    "lat": -26.4666996002,
+    "long": 143.3500061035,
+    "name": "Corowa Downs "
+  },
+  "YCWO": {
+    "lat": -37.8333015442,
+    "long": 142.7169952393,
+    "name": "Chatsworth "
+  },
+  "YCWR": {
+    "lat": -33.8446998596,
+    "long": 148.6490020752,
+    "name": "Cowra "
+  },
+  "YCWS": {
+    "lat": -38.5083007813,
+    "long": 145.2129974365,
+    "name": "Cowes "
+  },
+  "YCWW": {
+    "lat": -33.5428009033,
+    "long": 148.6629943848,
+    "name": "Canowindra "
+  },
+  "YCWY": {
+    "lat": -21.7833003998,
+    "long": 117.8000030518,
+    "name": "Coolawanyah "
+  },
+  "YCXA": {
+    "lat": -25.9750003815,
+    "long": 153,
+    "name": "Cooloola Village Airpark"
+  },
+  "YCYT": {
+    "lat": -17.3833007813,
+    "long": 144.4499969482,
+    "name": "Crystal Brook "
+  },
+  "YDAG": {
+    "lat": -17.9416999817,
+    "long": 143.5879974365,
+    "name": "Dagworth "
+  },
+  "YDAJ": {
+    "lat": -21.7082996368,
+    "long": 139.5330047607,
+    "name": "Dajarra "
+  },
+  "YDAL": {
+    "lat": -34.5666999817,
+    "long": 146.1829986572,
+    "name": "Dallas "
+  },
+  "YDAR": {
+    "lat": -42.5727408735,
+    "long": 148.069181442,
+    "name": "Darlington "
+  },
+  "YDAY": {
+    "lat": -27.1553001404,
+    "long": 151.266998291,
+    "name": "Dalby "
+  },
+  "YDBI": {
+    "lat": -28.5916996002,
+    "long": 148.2169952393,
+    "name": "Dirranbandi "
+  },
+  "YDBR": {
+    "lat": -16.0499992371,
+    "long": 142.3999938965,
+    "name": "Dunbar "
+  },
+  "YDBY": {
+    "lat": -17.3700008392,
+    "long": 123.6610031128,
+    "name": "Derby "
+  },
+  "YDDF": {
+    "lat": -16.0529994965,
+    "long": 143.011993408,
+    "name": "Drumduff "
+  },
+  "YDEG": {
+    "lat": -37.0614013672,
+    "long": 148.9420013428,
+    "name": "Delegate "
+  },
+  "YDEK": {
+    "lat": -34.9449996948,
+    "long": 117.3970031738,
+    "name": "Denmark "
+  },
+  "YDER": {
+    "lat": -37.9341666667,
+    "long": 143.227777778,
+    "name": "Derrinallum "
+  },
+  "YDEV": {
+    "lat": -21.2166996002,
+    "long": 140.233001709,
+    "name": "Devoncourt "
+  },
+  "YDGA": {
+    "lat": -27.8302777778,
+    "long": 117.316388889,
+    "name": "Dalgaranga Gold Mine "
+  },
+  "YDGI": {
+    "lat": -28.1333007813,
+    "long": 140.8820037842,
+    "name": "Dullingari "
+  },
+  "YDGN": {
+    "lat": -15.3999996185,
+    "long": 126.3000030518,
+    "name": "Doongan "
+  },
+  "YDGR": {
+    "lat": -27.7914403561,
+    "long": 116.993322372,
+    "name": "Dalgaranga "
+  },
+  "YDGT": {
+    "lat": -25.2833003998,
+    "long": 116.1999969482,
+    "name": "Dalgety Downs Station "
+  },
+  "YDGY": {
+    "lat": -20.1749992371,
+    "long": 119.1689987183,
+    "name": "De Grey Homestead "
+  },
+  "YDHL": {
+    "lat": -12.4132995605,
+    "long": 136.5370025635,
+    "name": "Dhalinbuy "
+  },
+  "YDIM": {
+    "lat": -17.1333007813,
+    "long": 145.0829925537,
+    "name": "Dimbulah "
+  },
+  "YDIX": {
+    "lat": -15.1174944348,
+    "long": 143.316049576,
+    "name": "Dixie "
+  },
+  "YDKI": {
+    "lat": -17.9416999817,
+    "long": 146.1399993896,
+    "name": "Dunk Island "
+  },
+  "YDLC": {
+    "lat": -26.6333007813,
+    "long": 149.7169952393,
+    "name": "Dulacca "
+  },
+  "YDLD": {
+    "lat": -22.4585990906,
+    "long": 134.8840026855,
+    "name": "Delmore Downs "
+  },
+  "YDLH": {
+    "lat": -26.4349994659,
+    "long": 135.516998291,
+    "name": "Dalhousie "
+  },
+  "YDLK": {
+    "lat": -29.013299942,
+    "long": 138.4810028076,
+    "name": "Dulkaninna "
+  },
+  "YDLL": {
+    "lat": -36.8499984741,
+    "long": 143.6999969482,
+    "name": "Dunolly "
+  },
+  "YDLO": {
+    "lat": -27.8833007813,
+    "long": 121.266998291,
+    "name": "Darlot "
+  },
+  "YDLQ": {
+    "lat": -35.5593986511,
+    "long": 144.945999146,
+    "name": "Deniliquin "
+  },
+  "YDLT": {
+    "lat": -16.9916992188,
+    "long": 141.3170013428,
+    "name": "Delta Downs "
+  },
+  "YDLV": {
+    "lat": -12.5500001907,
+    "long": 130.6849975586,
+    "name": "Delissaville "
+  },
+  "YDLW": {
+    "lat": -16.2646950664,
+    "long": 133.383378983,
+    "name": "Daly Waters "
+  },
+  "YDME": {
+    "lat": -30.4016990662,
+    "long": 119.8300018311,
+    "name": "Mount Dimer "
+  },
+  "YDMF": {
+    "lat": -29.6667003632,
+    "long": 119.2829971313,
+    "name": "Diemal Find "
+  },
+  "YDMG": {
+    "lat": -17.9402999878,
+    "long": 138.8220062256,
+    "name": "Doomadgee "
+  },
+  "YDMN": {
+    "lat": -13.7498064041,
+    "long": 130.6938781738,
+    "name": "Daly River "
+  },
+  "YDMR": {
+    "lat": -15.6199998856,
+    "long": 131.6369934082,
+    "name": "Delamere Station "
+  },
+  "YDNB": {
+    "lat": -22.0666999817,
+    "long": 146.233001709,
+    "name": "Doongmabulla "
+  },
+  "YDNI": {
+    "lat": -9.5833301544,
+    "long": 143.766998291,
+    "name": "Darnley Island "
+  },
+  "YDNK": {
+    "lat": -32.8833007813,
+    "long": 143.5829925537,
+    "name": "Darnick "
+  },
+  "YDNR": {
+    "lat": -30.6581001282,
+    "long": 150.875,
+    "name": "Dunmore Manila "
+  },
+  "YDNV": {
+    "lat": -28.1000003815,
+    "long": 144.3500061035,
+    "name": "Dynevor Downs "
+  },
+  "YDOC": {
+    "lat": -32.6500015259,
+    "long": 151.207992554,
+    "name": "Dochra Airfield"
+  },
+  "YDOD": {
+    "lat": -36.3602981567,
+    "long": 143.0079956055,
+    "name": "Donald "
+  },
+  "YDON": {
+    "lat": -31.1833000183,
+    "long": 117.0500030518,
+    "name": "Dowerin "
+  },
+  "YDOO": {
+    "lat": -18.7166996002,
+    "long": 140.5500030518,
+    "name": "Donors Hill "
+  },
+  "YDOP": {
+    "lat": -19.611700058,
+    "long": 146.8399963379,
+    "name": "Donnington Airpark"
+  },
+  "YDOR": {
+    "lat": -16.5583000183,
+    "long": 141.8079986572,
+    "name": "Dorunda "
+  },
+  "YDPD": {
+    "lat": -24.1499996185,
+    "long": 141.108001709,
+    "name": "Davenport Downs "
+  },
+  "YDPO": {
+    "lat": -41.1697006226,
+    "long": 146.429992676,
+    "name": "Devonport "
+  },
+  "YDPR": {
+    "lat": -22.6166992188,
+    "long": 135.1999969482,
+    "name": "Dneiper "
+  },
+  "YDPS": {
+    "lat": -27.8833007813,
+    "long": 120.0830001831,
+    "name": "Depot Springs "
+  },
+  "YDPT": {
+    "lat": -31.5722007751,
+    "long": 125.18699646,
+    "name": "Depot Outcamp "
+  },
+  "YDPW": {
+    "lat": -24.2999992371,
+    "long": 134.1329956055,
+    "name": "Deep Well "
+  },
+  "YDRA": {
+    "lat": -29.2999992371,
+    "long": 114.932998657,
+    "name": "Dongara "
+  },
+  "YDRC": {
+    "lat": -25.2833003998,
+    "long": 115.8669967651,
+    "name": "Dairy Creek Homestead "
+  },
+  "YDRD": {
+    "lat": -15.7135703992,
+    "long": 126.38109684,
+    "name": "Drysdale River "
+  },
+  "YDRH": {
+    "lat": -27.0750007629,
+    "long": 141.8999938965,
+    "name": "Durham Downs "
+  },
+  "YDRI": {
+    "lat": -25.6849994659,
+    "long": 140.2279968262,
+    "name": "Durrie "
+  },
+  "YDRL": {
+    "lat": -26.4333000183,
+    "long": 133.2579956055,
+    "name": "De Rose Hill "
+  },
+  "YDUK": {
+    "lat": -27.9582996368,
+    "long": 122.3079986572,
+    "name": "Duketon "
+  },
+  "YDUM": {
+    "lat": -33.3333015442,
+    "long": 117.75,
+    "name": "Dumbleyung "
+  },
+  "YDUN": {
+    "lat": -27.5167007446,
+    "long": 153.4279937744,
+    "name": "Dunwich "
+  },
+  "YDVE": {
+    "lat": -32.2832984924,
+    "long": 116.5500030518,
+    "name": "Dale River "
+  },
+  "YDVR": {
+    "lat": -24.8600006104,
+    "long": 129.0700073242,
+    "name": "Docker River "
+  },
+  "YDWF": {
+    "lat": -15.7467002869,
+    "long": 131.9199981689,
+    "name": "Delamere Range Facility "
+  },
+  "YDWU": {
+    "lat": -30.2000007629,
+    "long": 116.6500015259,
+    "name": "Dalwallinu "
+  },
+  "YDYD": {
+    "lat": -22.0832996368,
+    "long": 135.3329925537,
+    "name": "Derry Downs "
+  },
+  "YDYS": {
+    "lat": -22.6222000122,
+    "long": 148.3639984131,
+    "name": "Dysart "
+  },
+  "YEAB": {
+    "lat": -33.1166992188,
+    "long": 146.4499969482,
+    "name": "Euabalong "
+  },
+  "YEAT": {
+    "lat": -37.215801239,
+    "long": 146.4299926758,
+    "name": "Yea "
+  },
+  "YECH": {
+    "lat": -36.1571998596,
+    "long": 144.7619934082,
+    "name": "Echuca "
+  },
+  "YECL": {
+    "lat": -31.7000007629,
+    "long": 128.8829956055,
+    "name": "Eucla "
+  },
+  "YEDA": {
+    "lat": -28.7408008575,
+    "long": 138.5890045166,
+    "name": "Etadunna "
+  },
+  "YEDE": {
+    "lat": -37.0167007446,
+    "long": 141.266998291,
+    "name": "Edenhope "
+  },
+  "YEDM": {
+    "lat": -23.75,
+    "long": 116.0999984741,
+    "name": "Edmund Station "
+  },
+  "YEEB": {
+    "lat": -29.8325004578,
+    "long": 115.2460021973,
+    "name": "Eneabba "
+  },
+  "YEES": {
+    "lat": -32.5997009277,
+    "long": 151.3399963379,
+    "name": "Elderslie "
+  },
+  "YEGA": {
+    "lat": -29.3166999817,
+    "long": 145.8329925537,
+    "name": "Engonnia "
+  },
+  "YEIN": {
+    "lat": -18.5032997131,
+    "long": 144.093994141,
+    "name": "Einasleigh "
+  },
+  "YELD": {
+    "lat": -12.0193996429,
+    "long": 135.570999146,
+    "name": "Elcho Island "
+  },
+  "YELE": {
+    "lat": -26.3666992188,
+    "long": 118.016998291,
+    "name": "Belele "
+  },
+  "YELG": {
+    "lat": -31.8500003815,
+    "long": 147.983001709,
+    "name": "Elengerah "
+  },
+  "YELK": {
+    "lat": -21.1667003632,
+    "long": 135.4329986572,
+    "name": "Elkedra "
+  },
+  "YELL": {
+    "lat": -17.5274295807,
+    "long": 133.5298919678,
+    "name": "Elliott "
+  },
+  "YELM": {
+    "lat": -36.4901793786,
+    "long": 144.647197723,
+    "name": "Elmore "
+  },
+  "YELN": {
+    "lat": -33.6383018494,
+    "long": 134.8999938965,
+    "name": "Elliston "
+  },
+  "YELR": {
+    "lat": -32.6166992188,
+    "long": 151.3329925537,
+    "name": "Elderslie "
+  },
+  "YELS": {
+    "lat": -36.5962867737,
+    "long": 145.721862793,
+    "name": "Earlston "
+  },
+  "YELW": {
+    "lat": -37.2083015442,
+    "long": 145.8329925537,
+    "name": "Eildon Weir "
+  },
+  "YEMG": {
+    "lat": -26.7000007629,
+    "long": 143.266998291,
+    "name": "Eromanga "
+  },
+  "YEMJ": {
+    "lat": -28.6333007813,
+    "long": 132.1829986572,
+    "name": "Emu Junction "
+  },
+  "YEML": {
+    "lat": -23.5674991608,
+    "long": 148.179000854,
+    "name": "Emerald "
+  },
+  "YEMP": {
+    "lat": -23.2567005157,
+    "long": 150.81300354,
+    "name": "Emu Park "
+  },
+  "YEPL": {
+    "lat": -28.2833003998,
+    "long": 141.1999969482,
+    "name": "Epsilon "
+  },
+  "YEPR": {
+    "lat": -20.4333000183,
+    "long": 135.266998291,
+    "name": "Epenarra "
+  },
+  "YEQO": {
+    "lat": -16.0083007813,
+    "long": 127.9749984741,
+    "name": "El Questro "
+  },
+  "YERA": {
+    "lat": -25.5,
+    "long": 117.1669998169,
+    "name": "Errabiddy Homestead "
+  },
+  "YERH": {
+    "lat": -25.6000003815,
+    "long": 121.5830001831,
+    "name": "Earaheedy "
+  },
+  "YERL": {
+    "lat": -25.2166996002,
+    "long": 133.25,
+    "name": "Erldunda "
+  },
+  "YERN": {
+    "lat": -26.263299942,
+    "long": 132.1820068359,
+    "name": "Ernabella "
+  },
+  "YERO": {
+    "lat": -25.5666999817,
+    "long": 116.6669998169,
+    "name": "Erong Station "
+  },
+  "YERU": {
+    "lat": -31.4344997406,
+    "long": 139.4250030518,
+    "name": "Erudina "
+  },
+  "YESC": {
+    "lat": -17.7250003815,
+    "long": 139.4170074463,
+    "name": "Escott "
+  },
+  "YESP": {
+    "lat": -33.6843986511,
+    "long": 121.8229980469,
+    "name": "Esperance "
+  },
+  "YEUA": {
+    "lat": -36.7447013855,
+    "long": 145.513000488,
+    "name": "Euroa Aerodrome"
+  },
+  "YEUD": {
+    "lat": -24.4500007629,
+    "long": 115.5999984741,
+    "name": "Eudamulla Station "
+  },
+  "YEUL": {
+    "lat": -31.0333003998,
+    "long": 148.1750030518,
+    "name": "Eulalia "
+  },
+  "YEUO": {
+    "lat": -28.1667003632,
+    "long": 145.0420074463,
+    "name": "Eulo "
+  },
+  "YEVA": {
+    "lat": -18.0009994507,
+    "long": 134.863006592,
+    "name": "Eva Downs "
+  },
+  "YEVD": {
+    "lat": -29.0932998657,
+    "long": 153.4199981689,
+    "name": "Evans Head Aerodrome"
+  },
+  "YEVP": {
+    "lat": -27.0167007446,
+    "long": 132.7169952393,
+    "name": "Everard Park "
+  },
+  "YEXM": {
+    "lat": -22.0333003998,
+    "long": 114.0999984741,
+    "name": "Exmouth "
+  },
+  "YEYD": {
+    "lat": -28.20470047,
+    "long": 134.4880065918,
+    "name": "Evelyn Downs "
+  },
+  "YFBS": {
+    "lat": -33.3636016846,
+    "long": 147.934997559,
+    "name": "Forbes "
+  },
+  "YFCK": {
+    "lat": -38.7150001526,
+    "long": 146.0529937744,
+    "name": "Fish Creek "
+  },
+  "YFCU": {
+    "lat": -21.2999992371,
+    "long": 116.1330032349,
+    "name": "Fortescue River "
+  },
+  "YFDF": {
+    "lat": 0,
+    "long": 119.429161111,
+    "name": "Fortescue - Dave Forrest Aerodrome"
+  },
+  "YFDN": {
+    "lat": -35.0116996765,
+    "long": 147.3739929199,
+    "name": "Federation Hsd "
+  },
+  "YFFT": {
+    "lat": -33.8333015442,
+    "long": 138.766998291,
+    "name": "Farrell Flat "
+  },
+  "YFIL": {
+    "lat": -35.6666984558,
+    "long": 145.550003052,
+    "name": "Finley "
+  },
+  "YFLI": {
+    "lat": -40.0917015076,
+    "long": 147.9929962158,
+    "name": "Flinders Island "
+  },
+  "YFLO": {
+    "lat": -18.2833003998,
+    "long": 128.417007446,
+    "name": "Flora Valley "
+  },
+  "YFLS": {
+    "lat": -33.7000007629,
+    "long": 134.516998291,
+    "name": "Flinders Island "
+  },
+  "YFNE": {
+    "lat": -25.5946998596,
+    "long": 134.582992554,
+    "name": "Finke "
+  },
+  "YFOR": {
+    "lat": -25.3332996368,
+    "long": 118.3669967651,
+    "name": "Fortnum "
+  },
+  "YFRD": {
+    "lat": -31.2166996002,
+    "long": 139.75,
+    "name": "Frome Downs "
+  },
+  "YFRG": {
+    "lat": -26.7749996185,
+    "long": 132.016998291,
+    "name": "Fregon "
+  },
+  "YFRI": {
+    "lat": -42,
+    "long": 148.2590026855,
+    "name": "Friendly Beaches "
+  },
+  "YFRK": {
+    "lat": -34.4230003357,
+    "long": 117.0260009766,
+    "name": "Frankland "
+  },
+  "YFRT": {
+    "lat": -30.8381004333,
+    "long": 128.1150054932,
+    "name": "Forrest "
+  },
+  "YFSA": {
+    "lat": -18.5848007202,
+    "long": 143.5690002441,
+    "name": "Forsayth "
+  },
+  "YFSK": {
+    "lat": -37.6781143165,
+    "long": 144.220790863,
+    "name": "Fiskville "
+  },
+  "YFST": {
+    "lat": -32.2042007446,
+    "long": 152.4790039063,
+    "name": "Forster (Wallis Is) "
+  },
+  "YFTA": {
+    "lat": -32.5800018311,
+    "long": 119.7030029297,
+    "name": "Forrestania "
+  },
+  "YFTN": {
+    "lat": -29.9092006683,
+    "long": 139.4739990234,
+    "name": "Mount Fitton Talc "
+  },
+  "YFTZ": {
+    "lat": -18.1819000244,
+    "long": 125.5589981079,
+    "name": "Fitzroy Crossing "
+  },
+  "YFVW": {
+    "lat": -32.7890014648,
+    "long": 148.7200012207,
+    "name": "Fairview "
+  },
+  "YFWY": {
+    "lat": -13.980799675,
+    "long": 127.1809997559,
+    "name": "Faraway Bay "
+  },
+  "YGAD": {
+    "lat": -32.2416992188,
+    "long": 115.6829986572,
+    "name": "Garden Island (Military) "
+  },
+  "YGAH": {
+    "lat": -30.1258277893,
+    "long": 149.4345703125,
+    "name": "Greenbah "
+  },
+  "YGAM": {
+    "lat": -16.5499992371,
+    "long": 143.6670074463,
+    "name": "Gamboola "
+  },
+  "YGAN": {
+    "lat": -13.0666999817,
+    "long": 135.9499969482,
+    "name": "Gan Gan "
+  },
+  "YGAR": {
+    "lat": -23.7915496826,
+    "long": 113.5289382935,
+    "name": "Gnaraloo Station "
+  },
+  "YGAW": {
+    "lat": -34.6016998291,
+    "long": 138.7169952393,
+    "name": "Gawler "
+  },
+  "YGAY": {
+    "lat": -25.6144008636,
+    "long": 151.6190032959,
+    "name": "Gayndah "
+  },
+  "YGBI": {
+    "lat": -11.6499996185,
+    "long": 133.3820037842,
+    "name": "South Goulburn Is "
+  },
+  "YGBO": {
+    "lat": -37.5666999817,
+    "long": 149.8999938965,
+    "name": "Gabo Island "
+  },
+  "YGBW": {
+    "lat": -35.9667015076,
+    "long": 144.3829956055,
+    "name": "Gunbower "
+  },
+  "YGCR": {
+    "lat": -32.0499992371,
+    "long": 151.983001709,
+    "name": "Gloucester "
+  },
+  "YGDA": {
+    "lat": -29.073299408,
+    "long": 147.3760070801,
+    "name": "Goodooga "
+  },
+  "YGDH": {
+    "lat": -30.9610996246,
+    "long": 150.2510070801,
+    "name": "Gunnedah "
+  },
+  "YGDI": {
+    "lat": -28.5214004517,
+    "long": 150.3200073242,
+    "name": "Goondiwindi "
+  },
+  "YGDN": {
+    "lat": -18.6781005859,
+    "long": 128.5919952393,
+    "name": "Gordon Downs "
+  },
+  "YGDR": {
+    "lat": -23.286699295,
+    "long": 134.4400024414,
+    "name": "The Garden "
+  },
+  "YGDS": {
+    "lat": -18.625,
+    "long": 139.233001709,
+    "name": "Gregory Downs "
+  },
+  "YGDV": {
+    "lat": -20.25,
+    "long": 142.4499969482,
+    "name": "Galdeville "
+  },
+  "YGDW": {
+    "lat": -26.948299408,
+    "long": 133.6069946289,
+    "name": "Granite Downs "
+  },
+  "YGEL": {
+    "lat": -28.7961006165,
+    "long": 114.7070007324,
+    "name": "Geraldton "
+  },
+  "YGFN": {
+    "lat": -29.7593994141,
+    "long": 153.0299987793,
+    "name": "Grafton "
+  },
+  "YGGE": {
+    "lat": -28.75,
+    "long": 116.9499969482,
+    "name": "Golden Grove "
+  },
+  "YGGI": {
+    "lat": -34,
+    "long": 145.7169952393,
+    "name": "Goolgowi "
+  },
+  "YGGL": {
+    "lat": -14.8667001724,
+    "long": 143.2830047607,
+    "name": "Glen Garland "
+  },
+  "YGGO": {
+    "lat": -31.3166999817,
+    "long": 150.9170074463,
+    "name": "Goonoo Goonoo "
+  },
+  "YGGS": {
+    "lat": -19.7166996002,
+    "long": 144.3829956055,
+    "name": "Gregory Springs "
+  },
+  "YGHG": {
+    "lat": -18.2667007446,
+    "long": 145.1329956055,
+    "name": "Glen Harding "
+  },
+  "YGIA": {
+    "lat": -22.578666,
+    "long": 120.039409,
+    "name": "Ginbata"
+  },
+  "YGIB": {
+    "lat": -16.4232997894,
+    "long": 126.4449996948,
+    "name": "Gibb River "
+  },
+  "YGID": {
+    "lat": -27.2700004578,
+    "long": 119.4049987793,
+    "name": "Gidgee "
+  },
+  "YGIF": {
+    "lat": -24.0499992371,
+    "long": 116.2170028687,
+    "name": "Gifford Creek Station "
+  },
+  "YGIG": {
+    "lat": -31.4652996063,
+    "long": 115.8629989624,
+    "name": "RAAF Gingin"
+  },
+  "YGIL": {
+    "lat": -31.7033004761,
+    "long": 148.6380004883,
+    "name": "Gilgandra "
+  },
+  "YGIR": {
+    "lat": -22.6833000183,
+    "long": 114.3669967651,
+    "name": "Giralia "
+  },
+  "YGKL": {
+    "lat": -23.1833000183,
+    "long": 150.9420013428,
+    "name": "Great Keppel Is "
+  },
+  "YGLA": {
+    "lat": -23.8696994781,
+    "long": 151.223007202,
+    "name": "Gladstone "
+  },
+  "YGLB": {
+    "lat": -34.8102989197,
+    "long": 149.7259979248,
+    "name": "Goulburn "
+  },
+  "YGLD": {
+    "lat": -30.9666996002,
+    "long": 135.7749938965,
+    "name": "Glendambo "
+  },
+  "YGLE": {
+    "lat": -24.8083000183,
+    "long": 139.6000061035,
+    "name": "Glengyle "
+  },
+  "YGLG": {
+    "lat": -38.2249984741,
+    "long": 144.3329925537,
+    "name": "Geelong "
+  },
+  "YGLI": {
+    "lat": -29.6749992371,
+    "long": 151.6889953613,
+    "name": "Glen Innes "
+  },
+  "YGLN": {
+    "lat": -31.6166992188,
+    "long": 148.1999969482,
+    "name": "Glencoe "
+  },
+  "YGLO": {
+    "lat": -22.888299942,
+    "long": 138.8249969482,
+    "name": "Glenormiston "
+  },
+  "YGLP": {
+    "lat": -19.14181,
+    "long": 137.87412,
+    "name": "Gallipolli "
+  },
+  "YGLS": {
+    "lat": -25.0436992645,
+    "long": 128.296005249,
+    "name": "Giles "
+  },
+  "YGLY": {
+    "lat": -25.2833003998,
+    "long": 122.0500030518,
+    "name": "Glenayle Homestead "
+  },
+  "YGMD": {
+    "lat": -12.1000003815,
+    "long": 133.6670074463,
+    "name": "Goomadeer "
+  },
+  "YGMP": {
+    "lat": -37.0499992371,
+    "long": 142.2830047607,
+    "name": "Grampians "
+  },
+  "YGNA": {
+    "lat": -20.1000003815,
+    "long": 140.3670043945,
+    "name": "Granada "
+  },
+  "YGNF": {
+    "lat": -34,
+    "long": 148.1329956055,
+    "name": "Grenfell "
+  },
+  "YGNV": {
+    "lat": -18.9832992554,
+    "long": 145.1170043945,
+    "name": "Greenvale "
+  },
+  "YGNW": {
+    "lat": -33.9832992554,
+    "long": 118.0329971313,
+    "name": "Gnowangerup "
+  },
+  "YGOM": {
+    "lat": -31.3666992188,
+    "long": 116.8830032349,
+    "name": "Goomalling "
+  },
+  "YGOV": {
+    "lat": -37.5699996948,
+    "long": 149.9179992676,
+    "name": "Gabo Is aAd sSte "
+  },
+  "YGPI": {
+    "lat": -23.2667007446,
+    "long": 119.1669998169,
+    "name": "Giles Point "
+  },
+  "YGPR": {
+    "lat": -19.7000007629,
+    "long": 139.3670043945,
+    "name": "Gunpowder "
+  },
+  "YGPT": {
+    "lat": -11.4025001526,
+    "long": 130.4219970703,
+    "name": "Garden Point "
+  },
+  "YGRD": {
+    "lat": -38.2167015076,
+    "long": 144.3329925537,
+    "name": "Grovedale "
+  },
+  "YGRL": {
+    "lat": -37.8422012329,
+    "long": 148,
+    "name": "Great Lakes Vi "
+  },
+  "YGRU": {
+    "lat": -18.0832996368,
+    "long": 145.3999938965,
+    "name": "Glen Ruth "
+  },
+  "YGSC": {
+    "lat": -25.0499992371,
+    "long": 115.1999969482,
+    "name": "Gascoyne Junction "
+  },
+  "YGTE": {
+    "lat": -13.9750003815,
+    "long": 136.460006714,
+    "name": "Groote Eylandt "
+  },
+  "YGTH": {
+    "lat": -34.2508010864,
+    "long": 146.067001343,
+    "name": "Griffith "
+  },
+  "YGTN": {
+    "lat": -18.3050003052,
+    "long": 143.5299987793,
+    "name": "Georgetown "
+  },
+  "YGTO": {
+    "lat": -41.0800018311,
+    "long": 146.8399963379,
+    "name": "Georgetown (Tas) "
+  },
+  "YGTP": {
+    "lat": -33.9832992554,
+    "long": 148.4170074463,
+    "name": "Greenthorpe "
+  },
+  "YGUL": {
+    "lat": -28.6333007813,
+    "long": 116.2829971313,
+    "name": "Gullewa "
+  },
+  "YGUW": {
+    "lat": -17.9500007629,
+    "long": 145.1670074463,
+    "name": "Gunnawarra "
+  },
+  "YGVE": {
+    "lat": -43.2299995422,
+    "long": 147.0119934082,
+    "name": "Glendevie "
+  },
+  "YGWA": {
+    "lat": -35.4817008972,
+    "long": 138.7519989014,
+    "name": "Goolwa "
+  },
+  "YGWD": {
+    "lat": -25.1833000183,
+    "long": 142.6670074463,
+    "name": "Galway Downs "
+  },
+  "YGYM": {
+    "lat": -26.2828006744,
+    "long": 152.7019958496,
+    "name": "Gympie "
+  },
+  "YHAA": {
+    "lat": -23.4549999237,
+    "long": 131.8529968262,
+    "name": "Haasts Bluff "
+  },
+  "YHAB": {
+    "lat": -20.1166992188,
+    "long": 148.4329986572,
+    "name": "Hideaway Bay "
+  },
+  "YHAE": {
+    "lat": -34.5574989319,
+    "long": 148.3880004883,
+    "name": "Harden "
+  },
+  "YHAG": {
+    "lat": -31,
+    "long": 126.0830001831,
+    "name": "Haig "
+  },
+  "YHAW": {
+    "lat": -31.8559074402,
+    "long": 138.4680786133,
+    "name": "Wilpena Pound "
+  },
+  "YHAY": {
+    "lat": -34.5313987732,
+    "long": 144.8300018311,
+    "name": "Hay "
+  },
+  "YHBA": {
+    "lat": -25.3188991547,
+    "long": 152.880004883,
+    "name": "Hervey Bay "
+  },
+  "YHBK": {
+    "lat": -35.6833000183,
+    "long": 147.3170013428,
+    "name": "Holbrook "
+  },
+  "YHBR": {
+    "lat": -16.4896697998,
+    "long": 130.630279541,
+    "name": "Humbert River "
+  },
+  "YHBY": {
+    "lat": -24.5499992371,
+    "long": 133.2169952393,
+    "name": "Henbury "
+  },
+  "YHCT": {
+    "lat": -31.2402992249,
+    "long": 151.4320068359,
+    "name": "Heathcote Emergency "
+  },
+  "YHDD": {
+    "lat": -15.2216997147,
+    "long": 134.0760040283,
+    "name": "Hodgson Downs "
+  },
+  "YHDY": {
+    "lat": -21.3332996368,
+    "long": 138.2830047607,
+    "name": "Headingly "
+  },
+  "YHEC": {
+    "lat": -27.7675,
+    "long": 153.339444,
+    "name": "Heck Field "
+  },
+  "YHEG": {
+    "lat": -17.4666996002,
+    "long": 138.3670043945,
+    "name": "Hells Gate "
+  },
+  "YHEW": {
+    "lat": -23.2231006622,
+    "long": 150.604995728,
+    "name": "Hedlow "
+  },
+  "YHGR": {
+    "lat": -24.4167003632,
+    "long": 133.6999969482,
+    "name": "Hugh River "
+  },
+  "YHGS": {
+    "lat": -30.7166996002,
+    "long": 129.5149993896,
+    "name": "Hughes Siding "
+  },
+  "YHHY": {
+    "lat": -16.4333000183,
+    "long": 143.1499938965,
+    "name": "Highbury "
+  },
+  "YHID": {
+    "lat": -10.586400032,
+    "long": 142.289993286,
+    "name": "Horn Island "
+  },
+  "YHIL": {
+    "lat": -21.75,
+    "long": 119.4169998169,
+    "name": "Hillside "
+  },
+  "YHKT": {
+    "lat": -22.9433002472,
+    "long": 135.4470062256,
+    "name": "Huckitta "
+  },
+  "YHLC": {
+    "lat": -18.2339000702,
+    "long": 127.6699981689,
+    "name": "Halls Creek "
+  },
+  "YHLG": {
+    "lat": -19.6424999237,
+    "long": 145.7969970703,
+    "name": "Hillgrove "
+  },
+  "YHLM": {
+    "lat": -33.2639007568,
+    "long": 116.8150024414,
+    "name": "Hillman Farm "
+  },
+  "YHLS": {
+    "lat": -33.4933013916,
+    "long": 145.5229949951,
+    "name": "Hillston "
+  },
+  "YHMB": {
+    "lat": -23.9300003052,
+    "long": 132.8049926758,
+    "name": "Hermannsburg "
+  },
+  "YHML": {
+    "lat": -37.6488990784,
+    "long": 142.0650024414,
+    "name": "Hamilton "
+  },
+  "YHMT": {
+    "lat": -26.7199993134,
+    "long": 135.0729980469,
+    "name": "Hamilton "
+  },
+  "YHOA": {
+    "lat": -12.095000267,
+    "long": 135.3619995117,
+    "name": "Howard Island "
+  },
+  "YHOO": {
+    "lat": -18.3367004395,
+    "long": 130.6380004883,
+    "name": "Hooker Creek "
+  },
+  "YHOT": {
+    "lat": -37.0475006104,
+    "long": 147.333999634,
+    "name": "Mount Hotham "
+  },
+  "YHOV": {
+    "lat": -15.516699791,
+    "long": 134.0670013428,
+    "name": "Hodgson River "
+  },
+  "YHOY": {
+    "lat": -22.2667007446,
+    "long": 150.0330047607,
+    "name": "Hollins Bay "
+  },
+  "YHPE": {
+    "lat": -33.9000015259,
+    "long": 120.1579971313,
+    "name": "Hopetoun "
+  },
+  "YHPN": {
+    "lat": -35.7153015137,
+    "long": 142.3600006104,
+    "name": "Hopetoun "
+  },
+  "YHRD": {
+    "lat": -28.9832992554,
+    "long": 144.4499969482,
+    "name": "Hungerford "
+  },
+  "YHRG": {
+    "lat": -31.4687995911,
+    "long": 147.8950042725,
+    "name": "Haddon Rig "
+  },
+  "YHSB": {
+    "lat": -25.2166996002,
+    "long": 134.266998291,
+    "name": "Horseshoe Bend "
+  },
+  "YHSL": {
+    "lat": -25.3500003815,
+    "long": 118.6169967651,
+    "name": "Horseshoe Lights "
+  },
+  "YHSM": {
+    "lat": -36.6697006226,
+    "long": 142.1730041504,
+    "name": "Horsham "
+  },
+  "YHTA": {
+    "lat": -32.1425018311,
+    "long": 135.0989990234,
+    "name": "Hiltaba "
+  },
+  "YHTL": {
+    "lat": -11.75,
+    "long": 142.5829925537,
+    "name": "Heathlands "
+  },
+  "YHTN": {
+    "lat": -17.4333000183,
+    "long": 145.3999938965,
+    "name": "Herberton "
+  },
+  "YHTR": {
+    "lat": -40.5167007446,
+    "long": 144.733001709,
+    "name": "Hunter Island "
+  },
+  "YHTS": {
+    "lat": -22.9850006104,
+    "long": 134.9179992676,
+    "name": "Harts Range "
+  },
+  "YHUG": {
+    "lat": -20.8150005341,
+    "long": 144.2250061035,
+    "name": "Hughenden "
+  },
+  "YHVH": {
+    "lat": -20.6833000183,
+    "long": 146.6499938965,
+    "name": "Harvest Home "
+  },
+  "YHYD": {
+    "lat": -32.4333000183,
+    "long": 118.8669967651,
+    "name": "Hyden "
+  },
+  "YIDK": {
+    "lat": -26.9666996002,
+    "long": 133.3249969482,
+    "name": "Indulkana "
+  },
+  "YIDR": {
+    "lat": -25.0632991791,
+    "long": 133.733001709,
+    "name": "Idracowra "
+  },
+  "YIFL": {
+    "lat": -17.5594005585,
+    "long": 146.0119934082,
+    "name": "Innisfail "
+  },
+  "YIFY": {
+    "lat": -18.8999996185,
+    "long": 141.2169952393,
+    "name": "Iffley "
+  },
+  "YIGM": {
+    "lat": -18.6606006622,
+    "long": 146.1519927979,
+    "name": "Ingham "
+  },
+  "YIGR": {
+    "lat": -29.6333007813,
+    "long": 134.7929992676,
+    "name": "Ingomar "
+  },
+  "YIKL": {
+    "lat": -22.763299942,
+    "long": 136.1629943848,
+    "name": "Baikal "
+  },
+  "YIKM": {
+    "lat": -16.2749996185,
+    "long": 141.4420013428,
+    "name": "Inkerman "
+  },
+  "YILA": {
+    "lat": -36.4500007629,
+    "long": 146.4329986572,
+    "name": "Milawa Vineyard "
+  },
+  "YILT": {
+    "lat": -35.3208007813,
+    "long": 150.4389953613,
+    "name": "Milton "
+  },
+  "YILW": {
+    "lat": -28.4167003632,
+    "long": 151.0829925537,
+    "name": "Inglewood "
+  },
+  "YIMA": {
+    "lat": -25.1333007813,
+    "long": 132.5700073242,
+    "name": "Imanpa "
+  },
+  "YIMB": {
+    "lat": -33.0999984741,
+    "long": 136.4600067139,
+    "name": "Kimba "
+  },
+  "YIMP": {
+    "lat": -25.1499996185,
+    "long": 133.5829925537,
+    "name": "Impadna "
+  },
+  "YIMT": {
+    "lat": -27.7416992188,
+    "long": 140.7449951172,
+    "name": "Innamincka Township "
+  },
+  "YING": {
+    "lat": -24.997027028,
+    "long": 148.333282471,
+    "name": "Ingelara "
+  },
+  "YINJ": {
+    "lat": -25.8500003815,
+    "long": 148.5330047607,
+    "name": "Injune "
+  },
+  "YINN": {
+    "lat": -27.7000007629,
+    "long": 140.733001709,
+    "name": "Innamincka "
+  },
+  "YINO": {
+    "lat": -29.7667007446,
+    "long": 151.1670074463,
+    "name": "Inverell North "
+  },
+  "YINV": {
+    "lat": -18.0167007446,
+    "long": 140.5670013428,
+    "name": "Inverleigh "
+  },
+  "YINW": {
+    "lat": -17.8411006927,
+    "long": 129.643005371,
+    "name": "Inverway "
+  },
+  "YISD": {
+    "lat": -24.2166996002,
+    "long": 144.6170043945,
+    "name": "Isis Downs "
+  },
+  "YISF": {
+    "lat": -24.2583007813,
+    "long": 144.4250030518,
+    "name": "Isisford "
+  },
+  "YISV": {
+    "lat": -15.3832998276,
+    "long": 131.266998291,
+    "name": "Innesvale "
+  },
+  "YITT": {
+    "lat": -36.5138787416,
+    "long": 147.359018326,
+    "name": "Mitta Mitta "
+  },
+  "YIVL": {
+    "lat": -29.888299942,
+    "long": 151.1439971924,
+    "name": "Inverell "
+  },
+  "YIVO": {
+    "lat": -32.8833007813,
+    "long": 144.3099975586,
+    "name": "Ivanhoe "
+  },
+  "YJAB": {
+    "lat": -12.6583003998,
+    "long": 132.8930053711,
+    "name": "Jabiru "
+  },
+  "YJAK": {
+    "lat": -27.638299942,
+    "long": 142.4080047607,
+    "name": "Jackson "
+  },
+  "YJAM": {
+    "lat": -25.8500003815,
+    "long": 127.6829986572,
+    "name": "Jameson "
+  },
+  "YJBY": {
+    "lat": -35.1472015381,
+    "long": 150.6970062256,
+    "name": "Jervis Bay "
+  },
+  "YJCO": {
+    "lat": -42.3666992188,
+    "long": 147.3170013428,
+    "name": "Jericho "
+  },
+  "YJCW": {
+    "lat": -27.7616996765,
+    "long": 153.3350067139,
+    "name": "Jacobs Well "
+  },
+  "YJDA": {
+    "lat": -24.8416996002,
+    "long": 143.0579986572,
+    "name": "Jundah "
+  },
+  "YJEM": {
+    "lat": -32.4099998474,
+    "long": 147.6699981689,
+    "name": "Jemalong "
+  },
+  "YJER": {
+    "lat": -35.3699989319,
+    "long": 145.7250061035,
+    "name": "Jerilderie "
+  },
+  "YJEY": {
+    "lat": -29.3999996185,
+    "long": 121.266998291,
+    "name": "Jeedamya "
+  },
+  "YJGP": {
+    "lat": -33.9000015259,
+    "long": 118.9000015259,
+    "name": "Jerramungup "
+  },
+  "YJIG": {
+    "lat": -23.3666992188,
+    "long": 120.7829971313,
+    "name": "Jiggalong Mission "
+  },
+  "YJIN": {
+    "lat": -36.426700592,
+    "long": 148.6020050049,
+    "name": "Jindabyne "
+  },
+  "YJLC": {
+    "lat": -20.6683006287,
+    "long": 141.7230072021,
+    "name": "Julia Creek "
+  },
+  "YJNB": {
+    "lat": -30.2999992371,
+    "long": 115.0329971313,
+    "name": "Jurien Bay "
+  },
+  "YJNK": {
+    "lat": -22.9500007629,
+    "long": 135.733001709,
+    "name": "Jinka "
+  },
+  "YJNY": {
+    "lat": -16.5,
+    "long": 144.3999938965,
+    "name": "Jonroy "
+  },
+  "YJRO": {
+    "lat": -23.5832996368,
+    "long": 146.1670074463,
+    "name": "Jericho "
+  },
+  "YJST": {
+    "lat": -33.1920845053,
+    "long": 138.615531921,
+    "name": "Hubert Wilkins Airstrip"
+  },
+  "YJUK": {
+    "lat": -24.3707103729,
+    "long": 128.7393341064,
+    "name": "Tjukurla "
+  },
+  "YJUN": {
+    "lat": -26.4216995239,
+    "long": 120.577003479,
+    "name": "Jundee "
+  },
+  "YJVM": {
+    "lat": -22.6333007813,
+    "long": 136.266998291,
+    "name": "Jervois Mine "
+  },
+  "YJVS": {
+    "lat": -22.9132995605,
+    "long": 136.1199951172,
+    "name": "Jervois "
+  },
+  "YJWB": {
+    "lat": -15.733300209,
+    "long": 144.266998291,
+    "name": "Jowalbinna "
+  },
+  "YKAE": {
+    "lat": -30.3666992188,
+    "long": 117.1330032349,
+    "name": "Kalannie "
+  },
+  "YKAJ": {
+    "lat": -20.0333003998,
+    "long": 140.0330047607,
+    "name": "Kajabbi "
+  },
+  "YKAL": {
+    "lat": -14.2882995605,
+    "long": 126.6320037842,
+    "name": "Kalumburu "
+  },
+  "YKAN": {
+    "lat": -30.8950004578,
+    "long": 124.8619995117,
+    "name": "Kanandah "
+  },
+  "YKAP": {
+    "lat": -34.25,
+    "long": 138.9170074463,
+    "name": "Kapunda "
+  },
+  "YKAT": {
+    "lat": -33.6683006287,
+    "long": 150.3229980469,
+    "name": "Katoomba "
+  },
+  "YKAY": {
+    "lat": -30.6833000183,
+    "long": 142.5330047607,
+    "name": "Kayrunnera "
+  },
+  "YKBG": {
+    "lat": -30.8405990601,
+    "long": 119.5289993286,
+    "name": "Koolyanobbing Range "
+  },
+  "YKBL": {
+    "lat": -31.1833000183,
+    "long": 121.5999984741,
+    "name": "Kambalda "
+  },
+  "YKBN": {
+    "lat": -28.0900001526,
+    "long": 152.8450012207,
+    "name": "Kooralbyn "
+  },
+  "YKBR": {
+    "lat": -27.6900005341,
+    "long": 114.2620010376,
+    "name": "Kalbarri "
+  },
+  "YKBY": {
+    "lat": -32.8358001709,
+    "long": 134.2929992676,
+    "name": "Streaky Bay "
+  },
+  "YKCA": {
+    "lat": -24.2600002289,
+    "long": 131.4900054932,
+    "name": "Kings Canyon "
+  },
+  "YKCK": {
+    "lat": -39.8488006592,
+    "long": 147.858001709,
+    "name": "Killiecrankie "
+  },
+  "YKCS": {
+    "lat": -24.4232997894,
+    "long": 131.8350067139,
+    "name": "Kings Creek "
+  },
+  "YKDI": {
+    "lat": -33.9766998291,
+    "long": 137.6600036621,
+    "name": "Kadina "
+  },
+  "YKDL": {
+    "lat": -32.0238990784,
+    "long": 134.8609924316,
+    "name": "Kondoolka "
+  },
+  "YKDM": {
+    "lat": -16.1166992188,
+    "long": 130.9530029297,
+    "name": "Kidman Springs "
+  },
+  "YKDN": {
+    "lat": -32.4667015076,
+    "long": 118.2829971313,
+    "name": "Kondinin "
+  },
+  "YKEB": {
+    "lat": -31.6667003632,
+    "long": 117.733001709,
+    "name": "Kellerberrin "
+  },
+  "YKEL": {
+    "lat": -30.6550006866,
+    "long": 151.6380004883,
+    "name": "Kelvin Station "
+  },
+  "YKEN": {
+    "lat": -26.3332996368,
+    "long": 132.4669952393,
+    "name": "Kenmore Park "
+  },
+  "YKEP": {
+    "lat": -30.8911034242,
+    "long": 150.526149273,
+    "name": "Lake Keepit "
+  },
+  "YKER": {
+    "lat": -35.7513999939,
+    "long": 143.9389953613,
+    "name": "Kerang "
+  },
+  "YKFC": {
+    "lat": -17.8687992096,
+    "long": 138.2949981689,
+    "name": "Kingfisher Camp "
+  },
+  "YKGA": {
+    "lat": -30.9016990662,
+    "long": 135.3049926758,
+    "name": "Kingoonya "
+  },
+  "YKHA": {
+    "lat": -36.2332992554,
+    "long": 148.1170043945,
+    "name": "Khancoban "
+  },
+  "YKHG": {
+    "lat": -14.3886003494,
+    "long": 132.3930053711,
+    "name": "Katherine Gorge "
+  },
+  "YKIA": {
+    "lat": -17.2416992188,
+    "long": 136.1750030518,
+    "name": "Kiana Station "
+  },
+  "YKID": {
+    "lat": -18.8700008392,
+    "long": 144.1730041504,
+    "name": "Kidston "
+  },
+  "YKIG": {
+    "lat": -36.823299408,
+    "long": 139.875,
+    "name": "Kingston "
+  },
+  "YKII": {
+    "lat": -39.8774986267,
+    "long": 143.8780059814,
+    "name": "King Island "
+  },
+  "YKIL": {
+    "lat": -16.4316997528,
+    "long": 129.6150054932,
+    "name": "Kildurk "
+  },
+  "YKIR": {
+    "lat": -17.7791996002,
+    "long": 129.210006714,
+    "name": "Kirkimbie Station "
+  },
+  "YKIU": {
+    "lat": -23.1166992188,
+    "long": 149.3670043945,
+    "name": "Kaiuroo "
+  },
+  "YKKG": {
+    "lat": -17.4319000244,
+    "long": 130.8079986572,
+    "name": "Kalkgurung "
+  },
+  "YKKH": {
+    "lat": -31.2917003632,
+    "long": 135.2420043945,
+    "name": "Kokatha "
+  },
+  "YKLA": {
+    "lat": -15.9167003632,
+    "long": 142.4499969482,
+    "name": "Koolatah "
+  },
+  "YKLB": {
+    "lat": -15.3189001083,
+    "long": 143.9550018311,
+    "name": "Koolburra "
+  },
+  "YKLE": {
+    "lat": -16.25,
+    "long": 131.7469940186,
+    "name": "Killarney "
+  },
+  "YKLG": {
+    "lat": -15.1999998093,
+    "long": 143.8500061035,
+    "name": "Kalinga "
+  },
+  "YKLL": {
+    "lat": -21.75,
+    "long": 138.8829956055,
+    "name": "Kallala "
+  },
+  "YKLN": {
+    "lat": -15.3999996185,
+    "long": 143.5,
+    "name": "Killarney "
+  },
+  "YKLR": {
+    "lat": -27.7166996002,
+    "long": 138.2619934082,
+    "name": "Kalamurina "
+  },
+  "YKMB": {
+    "lat": -17.4566993713,
+    "long": 140.8300018311,
+    "name": "Karumba "
+  },
+  "YKML": {
+    "lat": -19.375,
+    "long": 140.0570068359,
+    "name": "Kamileroi "
+  },
+  "YKMP": {
+    "lat": -31.0743999481,
+    "long": 152.7700042725,
+    "name": "Kempsey "
+  },
+  "YKNC": {
+    "lat": -13.845000267,
+    "long": 141.5919952393,
+    "name": "Kencherang "
+  },
+  "YKNG": {
+    "lat": -33.7167015076,
+    "long": 117.6330032349,
+    "name": "Katanning "
+  },
+  "YKNM": {
+    "lat": -26.2833003998,
+    "long": 117.7829971313,
+    "name": "Koonmarra "
+  },
+  "YKNP": {
+    "lat": -31.1333007813,
+    "long": 117.9000015259,
+    "name": "Kununoppin "
+  },
+  "YKNT": {
+    "lat": -23.2649993896,
+    "long": 129.3869934082,
+    "name": "Kintore "
+  },
+  "YKNV": {
+    "lat": -36.3833007813,
+    "long": 141.25,
+    "name": "Kaniva "
+  },
+  "YKOG": {
+    "lat": -36,
+    "long": 142.2169952393,
+    "name": "Koongarra "
+  },
+  "YKOJ": {
+    "lat": -33.7667007446,
+    "long": 117.1330032349,
+    "name": "Kojonup "
+  },
+  "YKOK": {
+    "lat": -29.3500003815,
+    "long": 121.483001709,
+    "name": "Kookynie "
+  },
+  "YKOL": {
+    "lat": -32.4157981873,
+    "long": 136.2980041504,
+    "name": "Kolendo "
+  },
+  "YKOW": {
+    "lat": -15.4856004715,
+    "long": 141.7510070801,
+    "name": "Kowanyama "
+  },
+  "YKPR": {
+    "lat": -14.8999996185,
+    "long": 144.1999969482,
+    "name": "Kalpowar "
+  },
+  "YKRV": {
+    "lat": -13.75,
+    "long": 142.1829986572,
+    "name": "Kendall River "
+  },
+  "YKRY": {
+    "lat": -26.5807991028,
+    "long": 151.841003418,
+    "name": "Kingaroy "
+  },
+  "YKSC": {
+    "lat": -35.7139015198,
+    "long": 137.5209960938,
+    "name": "Kingscote "
+  },
+  "YKTA": {
+    "lat": -36.1797981262,
+    "long": 144.5249938965,
+    "name": "Kotta "
+  },
+  "YKTH": {
+    "lat": -36.1082992554,
+    "long": 140.2420043945,
+    "name": "Keith "
+  },
+  "YKTN": {
+    "lat": -37.2262620936,
+    "long": 144.44729805,
+    "name": "Kyneton "
+  },
+  "YKUB": {
+    "lat": -10.2250003815,
+    "long": 142.2180023193,
+    "name": "Kubin "
+  },
+  "YKUW": {
+    "lat": -38.0499992371,
+    "long": 143.1499938965,
+    "name": "Kurweeton "
+  },
+  "YKUY": {
+    "lat": -28.2199993134,
+    "long": 148.5780029297,
+    "name": "Kurray "
+  },
+  "YKWG": {
+    "lat": -31.7849998474,
+    "long": 135.6380004883,
+    "name": "Kangaroo Well "
+  },
+  "YKYB": {
+    "lat": -36.3324823653,
+    "long": 144.972066879,
+    "name": "Kyabram "
+  },
+  "YKYN": {
+    "lat": -21.6000003815,
+    "long": 141.9170074463,
+    "name": "Kynuna "
+  },
+  "YLAG": {
+    "lat": -42.8849983215,
+    "long": 147.9530029297,
+    "name": "Lagoon Bay "
+  },
+  "YLAH": {
+    "lat": -18.5683002472,
+    "long": 138.6349945068,
+    "name": "Lawn Hill "
+  },
+  "YLAK": {
+    "lat": -20.6816997528,
+    "long": 148.6280059814,
+    "name": "Lakeside Airpark"
+  },
+  "YLAM": {
+    "lat": -26.9132995605,
+    "long": 134.0579986572,
+    "name": "Lambina "
+  },
+  "YLAN": {
+    "lat": -31.4500007629,
+    "long": 142.1329956055,
+    "name": "Langawirra "
+  },
+  "YLAO": {
+    "lat": -35.3666992188,
+    "long": 140.5500030518,
+    "name": "Lameroo "
+  },
+  "YLAW": {
+    "lat": -28.0832996368,
+    "long": 120.5,
+    "name": "Lawlers "
+  },
+  "YLBD": {
+    "lat": -16.5167007446,
+    "long": 122.9169998169,
+    "name": "Lombadina "
+  },
+  "YLBG": {
+    "lat": -23.2432994843,
+    "long": 131.2599945068,
+    "name": "Mount Liebig "
+  },
+  "YLBO": {
+    "lat": -37.6833000183,
+    "long": 142.8829956055,
+    "name": "Lake Bolac "
+  },
+  "YLCG": {
+    "lat": -33.278301239,
+    "long": 146.3699951172,
+    "name": "Lake Cargelligo "
+  },
+  "YLCS": {
+    "lat": -36.8149986267,
+    "long": 145.3480072021,
+    "name": "Locksley Field"
+  },
+  "YLDB": {
+    "lat": -40.2000007629,
+    "long": 148.25,
+    "name": "Lady Barron (Flinders Is) "
+  },
+  "YLDO": {
+    "lat": -25.1000003815,
+    "long": 116.9000015259,
+    "name": "Landor Station "
+  },
+  "YLEA": {
+    "lat": -29.9832992554,
+    "long": 114.983001709,
+    "name": "Leeman "
+  },
+  "YLEC": {
+    "lat": -30.5983009338,
+    "long": 138.425994873,
+    "name": "Leigh Creek "
+  },
+  "YLED": {
+    "lat": -37.9189987183,
+    "long": 144.1009979248,
+    "name": "Lethbridge Park "
+  },
+  "YLEE": {
+    "lat": -34.5,
+    "long": 146.4329986572,
+    "name": "Leeton "
+  },
+  "YLEG": {
+    "lat": -38.4930992126,
+    "long": 145.8600006104,
+    "name": "Leongatha "
+  },
+  "YLEO": {
+    "lat": -28.8780994415,
+    "long": 121.3150024414,
+    "name": "Leonora "
+  },
+  "YLET": {
+    "lat": -37.8791999817,
+    "long": 147.9869995117,
+    "name": "Lakes Entrance "
+  },
+  "YLEV": {
+    "lat": -12.4989004135,
+    "long": 135.8059997559,
+    "name": "Lake Evella "
+  },
+  "YLFD": {
+    "lat": -14.9333000183,
+    "long": 144.1999969482,
+    "name": "Lakefield "
+  },
+  "YLGA": {
+    "lat": -22.1072006226,
+    "long": 118.4710006714,
+    "name": "Mulga Downs "
+  },
+  "YLGB": {
+    "lat": -18.6833000183,
+    "long": 121.8079986572,
+    "name": "La Grange Bay "
+  },
+  "YLGC": {
+    "lat": -33.1333007813,
+    "long": 118.4000015259,
+    "name": "Lake Grace "
+  },
+  "YLGD": {
+    "lat": -41.6953010559,
+    "long": 147.1430053711,
+    "name": "Longdown "
+  },
+  "YLGL": {
+    "lat": -22.5,
+    "long": 146.6670074463,
+    "name": "Laglan "
+  },
+  "YLGN": {
+    "lat": -30.9500007629,
+    "long": 127.0329971313,
+    "name": "Loongana "
+  },
+  "YLGU": {
+    "lat": -15.2166996002,
+    "long": 129.4479980469,
+    "name": "Legune "
+  },
+  "YLHI": {
+    "lat": -31.5382995605,
+    "long": 159.07699585,
+    "name": "Lord Howe Island "
+  },
+  "YLHL": {
+    "lat": -41.3333015442,
+    "long": 146.5,
+    "name": "Long Hill "
+  },
+  "YLHR": {
+    "lat": -12.7868995667,
+    "long": 143.3049926758,
+    "name": "Lockhart River "
+  },
+  "YLHS": {
+    "lat": -19.1958007812,
+    "long": 144.371002197,
+    "name": "Lyndhurst "
+  },
+  "YLIL": {
+    "lat": -37.6916999817,
+    "long": 145.3670043945,
+    "name": "Lilydale "
+  },
+  "YLIM": {
+    "lat": -17.25,
+    "long": 129.8829956055,
+    "name": "Limbunya Station "
+  },
+  "YLIN": {
+    "lat": -20.4535999298,
+    "long": 149.039993286,
+    "name": "Lindeman Island "
+  },
+  "YLIS": {
+    "lat": -28.8302993774,
+    "long": 153.259994507,
+    "name": "Lismore "
+  },
+  "YLKD": {
+    "lat": -18.9167003632,
+    "long": 145,
+    "name": "Lucky Downs "
+  },
+  "YLKE": {
+    "lat": -37.8526992798,
+    "long": 147.9579925537,
+    "name": "Lakes Entrance "
+  },
+  "YLKG": {
+    "lat": -33.0792007446,
+    "long": 119.7659988403,
+    "name": "Lake King "
+  },
+  "YLKN": {
+    "lat": -20.9666996002,
+    "long": 137.9170074463,
+    "name": "Lake Nash "
+  },
+  "YLLA": {
+    "lat": -29.7982997894,
+    "long": 133.3450012207,
+    "name": "Mobella "
+  },
+  "YLLC": {
+    "lat": -25.5666999817,
+    "long": 134,
+    "name": "Lilla Creek "
+  },
+  "YLLD": {
+    "lat": -25.5333003998,
+    "long": 145.766998291,
+    "name": "Langlo Downs "
+  },
+  "YLLE": {
+    "lat": -27.4083003998,
+    "long": 141.8079986572,
+    "name": "Ballera "
+  },
+  "YLLR": {
+    "lat": -35.9832992554,
+    "long": 143.8000030518,
+    "name": "Lake Leagur "
+  },
+  "YLLV": {
+    "lat": -14.483300209,
+    "long": 143.6670074463,
+    "name": "Lily Vale "
+  },
+  "YLMB": {
+    "lat": -31.1000003815,
+    "long": 149.9329986572,
+    "name": "Lambrook "
+  },
+  "YLMU": {
+    "lat": -33.7458244463,
+    "long": 143.001308441,
+    "name": "Mungo Lodge "
+  },
+  "YLND": {
+    "lat": -15.8332996368,
+    "long": 144.8500061035,
+    "name": "Lakeland "
+  },
+  "YLNR": {
+    "lat": -24.9500007629,
+    "long": 116.9670028687,
+    "name": "Landor Races "
+  },
+  "YLOC": {
+    "lat": -20.7583007813,
+    "long": 121.016998291,
+    "name": "Lochinvar "
+  },
+  "YLOD": {
+    "lat": -36.807800293,
+    "long": 145.4570007324,
+    "name": "Longwood "
+  },
+  "YLOH": {
+    "lat": -30.5417003632,
+    "long": 145.1000061035,
+    "name": "Louth "
+  },
+  "YLOK": {
+    "lat": -33.5442008972,
+    "long": 135.6929931641,
+    "name": "Lock "
+  },
+  "YLOR": {
+    "lat": -18.9932994843,
+    "long": 139.9069976807,
+    "name": "Lorraine "
+  },
+  "YLOU": {
+    "lat": -18.7166996002,
+    "long": 126.7170028687,
+    "name": "Louisa Downs "
+  },
+  "YLOV": {
+    "lat": -17.0482997894,
+    "long": 141.37600708,
+    "name": "Lotus Vale "
+  },
+  "YLOX": {
+    "lat": -34.4749984741,
+    "long": 140.6629943848,
+    "name": "Loxton "
+  },
+  "YLOY": {
+    "lat": -38.1082992554,
+    "long": 145.7779998779,
+    "name": "Longwarry "
+  },
+  "YLPR": {
+    "lat": -43.0499992371,
+    "long": 146.3329925537,
+    "name": "Lake Pedder "
+  },
+  "YLRA": {
+    "lat": -15.5500001907,
+    "long": 144.4499969482,
+    "name": "Laura "
+  },
+  "YLRD": {
+    "lat": -29.4566993713,
+    "long": 147.9839935303,
+    "name": "Lightning Ridge "
+  },
+  "YLRE": {
+    "lat": -23.4342002869,
+    "long": 144.279998779,
+    "name": "Longreach "
+  },
+  "YLRG": {
+    "lat": -26.2166996002,
+    "long": 121.5500030518,
+    "name": "Lorna Glen Homestead "
+  },
+  "YLRN": {
+    "lat": -22.5333003998,
+    "long": 143.516998291,
+    "name": "Lorraine Station "
+  },
+  "YLRS": {
+    "lat": -15.1833000183,
+    "long": 144.3670043945,
+    "name": "New Laura "
+  },
+  "YLSM": {
+    "lat": -37.9333000183,
+    "long": 143.3500061035,
+    "name": "Lismore "
+  },
+  "YLSS": {
+    "lat": -25.0499992371,
+    "long": 146.266998291,
+    "name": "Lansdowne "
+  },
+  "YLST": {
+    "lat": -27.8432998657,
+    "long": 120.7030029297,
+    "name": "Leinster "
+  },
+  "YLSY": {
+    "lat": -27.0182991028,
+    "long": 129.8849945068,
+    "name": "Mount Lindsay "
+  },
+  "YLTN": {
+    "lat": -28.6135997772,
+    "long": 122.4240036011,
+    "name": "Laverton "
+  },
+  "YLTV": {
+    "lat": -38.2071990967,
+    "long": 146.470001221,
+    "name": "Latrobe Valley "
+  },
+  "YLUC": {
+    "lat": -22.4666996002,
+    "long": 136.266998291,
+    "name": "Lucy Creek "
+  },
+  "YLUI": {
+    "lat": -36.971698761,
+    "long": 140.3520050049,
+    "name": "Lucindale "
+  },
+  "YLUL": {
+    "lat": -31.6333007813,
+    "long": 140.5330047607,
+    "name": "Mooleulooloo "
+  },
+  "YLUW": {
+    "lat": -34.0167007446,
+    "long": 115.0500030518,
+    "name": "Leeuwin Estate "
+  },
+  "YLVB": {
+    "lat": -38.0332984924,
+    "long": 144.3329925537,
+    "name": "Lovely Banks "
+  },
+  "YLVD": {
+    "lat": -31.7332992554,
+    "long": 135.0269927979,
+    "name": "Lake Everard "
+  },
+  "YLVK": {
+    "lat": -19.3216991425,
+    "long": 146.8020019531,
+    "name": "Laverak (Military) "
+  },
+  "YLVY": {
+    "lat": -32.7083015442,
+    "long": 119.5130004883,
+    "name": "Lake Varley "
+  },
+  "YLWY": {
+    "lat": -26.9449996948,
+    "long": 120.4700012207,
+    "name": "Lake Way "
+  },
+  "YLYD": {
+    "lat": -26.8332996368,
+    "long": 151.233001709,
+    "name": "Lyndley "
+  },
+  "YLYK": {
+    "lat": -34.6217002869,
+    "long": 138.9140014648,
+    "name": "Lyndoch "
+  },
+  "YLYN": {
+    "lat": -23.6333007813,
+    "long": 115.233001709,
+    "name": "Lyndon "
+  },
+  "YLZI": {
+    "lat": -14.6667003632,
+    "long": 145.4499969482,
+    "name": "Lizard Island "
+  },
+  "YLZR": {
+    "lat": -14.6833000183,
+    "long": 145.4499969482,
+    "name": "Lizard Island "
+  },
+  "YMAA": {
+    "lat": -9.9499998093,
+    "long": 142.1829986572,
+    "name": "Mabuiag Island "
+  },
+  "YMAC": {
+    "lat": -27.2616996765,
+    "long": 135.6380004883,
+    "name": "Macumba "
+  },
+  "YMAD": {
+    "lat": -31.8833007813,
+    "long": 127.0329971313,
+    "name": "Madura "
+  },
+  "YMAG": {
+    "lat": -35.0499992371,
+    "long": 142.8670043945,
+    "name": "Manangatang "
+  },
+  "YMAI": {
+    "lat": -28.9799995422,
+    "long": 134.3719940186,
+    "name": "Manguri "
+  },
+  "YMAK": {
+    "lat": -28.9416999817,
+    "long": 134.3329925537,
+    "name": "Mabel Creek Station "
+  },
+  "YMAU": {
+    "lat": -24.2999992371,
+    "long": 116.9169998169,
+    "name": "Mount Augusta "
+  },
+  "YMAV": {
+    "lat": -38.0393981934,
+    "long": 144.468994141,
+    "name": "Avalon "
+  },
+  "YMAY": {
+    "lat": -36.0677986145,
+    "long": 146.9579925537,
+    "name": "Albury "
+  },
+  "YMBA": {
+    "lat": -17.0692005157,
+    "long": 145.4190063477,
+    "name": "Mareeba "
+  },
+  "YMBD": {
+    "lat": -35.0666999817,
+    "long": 139.2270050049,
+    "name": "Murray Bridge "
+  },
+  "YMBL": {
+    "lat": -21.1632995605,
+    "long": 119.8330001831,
+    "name": "Marble Bar "
+  },
+  "YMBT": {
+    "lat": -36.7315756754,
+    "long": 147.168903351,
+    "name": "Mount Beauty "
+  },
+  "YMBU": {
+    "lat": -37.0331001282,
+    "long": 143.7089996338,
+    "name": "Maryborough "
+  },
+  "YMBX": {
+    "lat": -31.8672008514,
+    "long": 127.8539962769,
+    "name": "Mundrabilla "
+  },
+  "YMBZ": {
+    "lat": -25.1667003632,
+    "long": 132.6329956055,
+    "name": "Mount Ebenezer "
+  },
+  "YMCE": {
+    "lat": -25.1000003815,
+    "long": 117.5830001831,
+    "name": "Mount Clere Homestead "
+  },
+  "YMCK": {
+    "lat": -21.2833003998,
+    "long": 141.2879943848,
+    "name": "Mckinley "
+  },
+  "YMCL": {
+    "lat": -21.3917007446,
+    "long": 147.3249969482,
+    "name": "Mount Coolon "
+  },
+  "YMCO": {
+    "lat": -37.5983009338,
+    "long": 149.7200012207,
+    "name": "Mallacoota "
+  },
+  "YMCR": {
+    "lat": -22.1000003815,
+    "long": 137.983001709,
+    "name": "Manners Creek "
+  },
+  "YMCS": {
+    "lat": -20.0167007446,
+    "long": 146.483001709,
+    "name": "Macrossan "
+  },
+  "YMCT": {
+    "lat": -37.5835990906,
+    "long": 140.3659973145,
+    "name": "Millicent "
+  },
+  "YMCU": {
+    "lat": -27.4699993134,
+    "long": 120.9169998169,
+    "name": "Mount Mcclure "
+  },
+  "YMDA": {
+    "lat": -25.5916996002,
+    "long": 151.3170013428,
+    "name": "Mundubbera "
+  },
+  "YMDB": {
+    "lat": -20.5167007446,
+    "long": 118.0670013428,
+    "name": "Mundabullangana "
+  },
+  "YMDG": {
+    "lat": -32.5625,
+    "long": 149.610992432,
+    "name": "Mudgee "
+  },
+  "YMDI": {
+    "lat": -19.7383003235,
+    "long": 120.837997437,
+    "name": "Mandora "
+  },
+  "YMDK": {
+    "lat": -23.0333003998,
+    "long": 134.6829986572,
+    "name": "Mount Riddock "
+  },
+  "YMDN": {
+    "lat": -31.5049991608,
+    "long": 118.3229980469,
+    "name": "Merredin "
+  },
+  "YMDR": {
+    "lat": -22,
+    "long": 115.0500030518,
+    "name": "Minderoo Station "
+  },
+  "YMDS": {
+    "lat": -22.4666996002,
+    "long": 135.233001709,
+    "name": "Macdonald Downs "
+  },
+  "YMDT": {
+    "lat": -31.8267002106,
+    "long": 128.2299957275,
+    "name": "Mundrabilla Motel "
+  },
+  "YMDV": {
+    "lat": -26.1667003632,
+    "long": 129.1329956055,
+    "name": "Mount Davies "
+  },
+  "YMDW": {
+    "lat": -16.2233009338,
+    "long": 144.7030029297,
+    "name": "Maitland Downs "
+  },
+  "YMDY": {
+    "lat": -12.8900003433,
+    "long": 131.9080047607,
+    "name": "Mount Bundey "
+  },
+  "YMDZ": {
+    "lat": -21.2000007629,
+    "long": 115.983001709,
+    "name": "Mardi Station "
+  },
+  "YMEB": {
+    "lat": -30.1760997772,
+    "long": 135.671005249,
+    "name": "Mount Eba "
+  },
+  "YMED": {
+    "lat": -32.3666992188,
+    "long": 142.4049987793,
+    "name": "Menindee "
+  },
+  "YMEI": {
+    "lat": -23.9766998291,
+    "long": 131.56199646,
+    "name": "Mereenie "
+  },
+  "YMEK": {
+    "lat": -26.611700058,
+    "long": 118.547996521,
+    "name": "Meekatharra "
+  },
+  "YMEL": {
+    "lat": -37.6166992188,
+    "long": 144.5670013428,
+    "name": "Melton "
+  },
+  "YMEN": {
+    "lat": -37.728099823,
+    "long": 144.9019927979,
+    "name": "Melbourne Essendon "
+  },
+  "YMEO": {
+    "lat": -36.967704,
+    "long": 145.707616,
+    "name": "Merton "
+  },
+  "YMEP": {
+    "lat": -13.7166996002,
+    "long": 142.4170074463,
+    "name": "Merapah "
+  },
+  "YMER": {
+    "lat": -36.9085998535,
+    "long": 149.901000977,
+    "name": "Merimbula "
+  },
+  "YMES": {
+    "lat": -38.0988998413,
+    "long": 147.1490020752,
+    "name": "RAAF Base East Sale"
+  },
+  "YMEU": {
+    "lat": -13.0500001907,
+    "long": 142.483001709,
+    "name": "Merluna "
+  },
+  "YMEW": {
+    "lat": -29.2667007446,
+    "long": 115.4499969482,
+    "name": "Mingenew "
+  },
+  "YMEY": {
+    "lat": -31.1000003815,
+    "long": 149.9170074463,
+    "name": "Mullaley "
+  },
+  "YMFD": {
+    "lat": -37.0666999817,
+    "long": 146.117004395,
+    "name": "Mansfield "
+  },
+  "YMGB": {
+    "lat": -12.0944004059,
+    "long": 134.893997192,
+    "name": "Milingimbi "
+  },
+  "YMGD": {
+    "lat": -12.0560998917,
+    "long": 134.23399353,
+    "name": "Maningrida "
+  },
+  "YMGG": {
+    "lat": -30.2292003632,
+    "long": 133.9859924316,
+    "name": "Mulgathing "
+  },
+  "YMGI": {
+    "lat": -28.9666996002,
+    "long": 149.0579986572,
+    "name": "Mungindi "
+  },
+  "YMGN": {
+    "lat": -31.4596996307,
+    "long": 137.1739959717,
+    "name": "Mount Gunson "
+  },
+  "YMGO": {
+    "lat": -27.3666992188,
+    "long": 116.4169998169,
+    "name": "Murgoo "
+  },
+  "YMGR": {
+    "lat": -18.6217002869,
+    "long": 126.883003235,
+    "name": "Margaret River (Station) "
+  },
+  "YMGS": {
+    "lat": -28.7872009277,
+    "long": 122.033996582,
+    "name": "Mount Morgans "
+  },
+  "YMGT": {
+    "lat": -33.9305992126,
+    "long": 115.099998474,
+    "name": "Margaret River "
+  },
+  "YMGV": {
+    "lat": -14.7833003998,
+    "long": 143.5,
+    "name": "Musgrave "
+  },
+  "YMHB": {
+    "lat": -42.836101532,
+    "long": 147.509994507,
+    "name": "Hobart International "
+  },
+  "YMHL": {
+    "lat": -32.1183013916,
+    "long": 119.7679977417,
+    "name": "Mount Holland "
+  },
+  "YMHO": {
+    "lat": -17.0550003052,
+    "long": 125.7099990845,
+    "name": "Mount House "
+  },
+  "YMHT": {
+    "lat": -16.8199996948,
+    "long": 124.9079971313,
+    "name": "Mount Hart Station "
+  },
+  "YMHU": {
+    "lat": -16.4424991608,
+    "long": 136.083999634,
+    "name": "McArthur River Mine "
+  },
+  "YMHW": {
+    "lat": -26.5116996765,
+    "long": 142.2830047607,
+    "name": "Mount Howitt "
+  },
+  "YMIA": {
+    "lat": -34.2291984558,
+    "long": 142.085998535,
+    "name": "Mildura "
+  },
+  "YMIB": {
+    "lat": -27.3283004761,
+    "long": 133.3049926758,
+    "name": "Mintabie "
+  },
+  "YMIG": {
+    "lat": -34.4667015076,
+    "long": 150.5,
+    "name": "Mittagong "
+  },
+  "YMIJ": {
+    "lat": -11.1583003998,
+    "long": 132.5469970703,
+    "name": "Minjilang "
+  },
+  "YMIL": {
+    "lat": -25.0832996368,
+    "long": 118.3330001831,
+    "name": "Milgun "
+  },
+  "YMIN": {
+    "lat": -34.75,
+    "long": 137.5330047607,
+    "name": "Minlaton "
+  },
+  "YMIP": {
+    "lat": -14.7913999557,
+    "long": 125.8239974976,
+    "name": "Mitchell Plateau "
+  },
+  "YMIR": {
+    "lat": -30.1499996185,
+    "long": 147.3350067139,
+    "name": "Miralwyn "
+  },
+  "YMIS": {
+    "lat": -26.3999996185,
+    "long": 120.9499969482,
+    "name": "Millrose Homestead "
+  },
+  "YMIT": {
+    "lat": -26.4832992554,
+    "long": 147.93699646,
+    "name": "Mitchell "
+  },
+  "YMIV": {
+    "lat": -32.4441986084,
+    "long": 136.0690002441,
+    "name": "Mount Ive "
+  },
+  "YMIX": {
+    "lat": -23.8999996185,
+    "long": 114.766998291,
+    "name": "Middalya Homestead "
+  },
+  "YMJE": {
+    "lat": -24.6166992188,
+    "long": 116.9329986572,
+    "name": "Mount James "
+  },
+  "YMJM": {
+    "lat": -34.2653007507,
+    "long": 116.1399993896,
+    "name": "Manjimup "
+  },
+  "YMKA": {
+    "lat": -14.9316997528,
+    "long": 133.125,
+    "name": "Mararanka Homestead "
+  },
+  "YMKB": {
+    "lat": -30.9333000183,
+    "long": 118.25,
+    "name": "Mukinbudin "
+  },
+  "YMKT": {
+    "lat": -12.6167001724,
+    "long": 131.0500030518,
+    "name": "Emkaytee (Unlic) "
+  },
+  "YMLA": {
+    "lat": -20.8833007813,
+    "long": 118.0329971313,
+    "name": "Malina "
+  },
+  "YMLC": {
+    "lat": -41.5332984924,
+    "long": 146.3329925537,
+    "name": "Mole Creek "
+  },
+  "YMLD": {
+    "lat": -34.3927993774,
+    "long": 137.7169952393,
+    "name": "Maitland "
+  },
+  "YMLK": {
+    "lat": -18.1833000183,
+    "long": 145.1670074463,
+    "name": "Minnamoolka "
+  },
+  "YMLL": {
+    "lat": -19.8582992554,
+    "long": 141.56199646,
+    "name": "Millungera "
+  },
+  "YMLN": {
+    "lat": -30.2000007629,
+    "long": 143.233001709,
+    "name": "Monolon "
+  },
+  "YMLR": {
+    "lat": -29.2467002869,
+    "long": 137.9100036621,
+    "name": "Muloorina "
+  },
+  "YMLS": {
+    "lat": -26.8083000183,
+    "long": 150.1750030518,
+    "name": "Miles "
+  },
+  "YMLT": {
+    "lat": -41.54529953,
+    "long": 147.214004517,
+    "name": "Launceston "
+  },
+  "YMLX": {
+    "lat": -27.5832996368,
+    "long": 121.7829971313,
+    "name": "Milurie Homestead "
+  },
+  "YMMB": {
+    "lat": -37.9757995605,
+    "long": 145.1020050049,
+    "name": "Melbourne Moorabbin "
+  },
+  "YMMI": {
+    "lat": -28.7052993774,
+    "long": 121.8909988403,
+    "name": "Murrin Murrin "
+  },
+  "YMML": {
+    "lat": -37.6733016968,
+    "long": 144.8430023193,
+    "name": "Melbourne International "
+  },
+  "YMMN": {
+    "lat": -27.8633003235,
+    "long": 151.2749938965,
+    "name": "Millmerran "
+  },
+  "YMMT": {
+    "lat": -26.9333000183,
+    "long": 143.3170013428,
+    "name": "Mount Margaret "
+  },
+  "YMMU": {
+    "lat": -22.8024997711,
+    "long": 148.7050018311,
+    "name": "Middlemount "
+  },
+  "YMNA": {
+    "lat": -22.2749996185,
+    "long": 132.2169952393,
+    "name": "Mount Allan "
+  },
+  "YMNB": {
+    "lat": -28.2332992554,
+    "long": 135,
+    "name": "Mount Barry "
+  },
+  "YMND": {
+    "lat": -32.7033004761,
+    "long": 151.488006592,
+    "name": "Maitland "
+  },
+  "YMNE": {
+    "lat": -27.2863998413,
+    "long": 120.5550003052,
+    "name": "Mount Keith "
+  },
+  "YMNF": {
+    "lat": -26.4500007629,
+    "long": 116.5500030518,
+    "name": "Manfred "
+  },
+  "YMNG": {
+    "lat": -36.8883018494,
+    "long": 145.1840057373,
+    "name": "Mangalore "
+  },
+  "YMNK": {
+    "lat": -24.8166999817,
+    "long": 140.5330047607,
+    "name": "Monkira "
+  },
+  "YMNN": {
+    "lat": -22.1417007446,
+    "long": 132.0700073242,
+    "name": "Mount Denison "
+  },
+  "YMNO": {
+    "lat": -23.3666992188,
+    "long": 143.8829956055,
+    "name": "Maneroo "
+  },
+  "YMNP": {
+    "lat": -29.5916996002,
+    "long": 139.0520019531,
+    "name": "Murnpeowie "
+  },
+  "YMNS": {
+    "lat": -22.6000003815,
+    "long": 135.016998291,
+    "name": "Mount Swan "
+  },
+  "YMNT": {
+    "lat": -17.3936004639,
+    "long": 126.2289962769,
+    "name": "Mornington Station "
+  },
+  "YMNW": {
+    "lat": -28.7716999054,
+    "long": 122.4400024414,
+    "name": "Mount Weld "
+  },
+  "YMNX": {
+    "lat": -28.8833007813,
+    "long": 121.8000030518,
+    "name": "Minura "
+  },
+  "YMNY": {
+    "lat": -25.3582992554,
+    "long": 141.4329986572,
+    "name": "Morney "
+  },
+  "YMOE": {
+    "lat": -31.9661006927,
+    "long": 135.875,
+    "name": "Moonaree "
+  },
+  "YMOG": {
+    "lat": -28.1161003113,
+    "long": 117.8420028687,
+    "name": "Mount Magnet "
+  },
+  "YMOM": {
+    "lat": -35.0583856071,
+    "long": 144.021320343,
+    "name": "Moulamein "
+  },
+  "YMOO": {
+    "lat": -25.25,
+    "long": 140.983001709,
+    "name": "Mooraberree "
+  },
+  "YMOR": {
+    "lat": -29.4988994598,
+    "long": 149.845001221,
+    "name": "Moree "
+  },
+  "YMOT": {
+    "lat": -12.4441995621,
+    "long": 142.638000488,
+    "name": "Moreton "
+  },
+  "YMOU": {
+    "lat": -24.611700058,
+    "long": 149.9949951172,
+    "name": "Moura "
+  },
+  "YMPA": {
+    "lat": -32.8432998657,
+    "long": 135.1450042725,
+    "name": "Minnipa "
+  },
+  "YMPC": {
+    "lat": -37.9322013855,
+    "long": 144.7530059814,
+    "name": "RAAF Williams Point Cook Base"
+  },
+  "YMPE": {
+    "lat": -20.5167007446,
+    "long": 146.766998291,
+    "name": "Mount Cooper "
+  },
+  "YMPH": {
+    "lat": -37.9000015259,
+    "long": 143.1670074463,
+    "name": "Mount Elephant "
+  },
+  "YMPK": {
+    "lat": -23.3666992188,
+    "long": 133,
+    "name": "Milton Park "
+  },
+  "YMQA": {
+    "lat": -22.8057994843,
+    "long": 137.2510070801,
+    "name": "Marqua "
+  },
+  "YMQD": {
+    "lat": -33.1100006104,
+    "long": 151.1380004883,
+    "name": "Mount Mcquoid "
+  },
+  "YMRA": {
+    "lat": -30.1632995605,
+    "long": 131.625,
+    "name": "Maralinga "
+  },
+  "YMRB": {
+    "lat": -22.057800293,
+    "long": 148.07699585,
+    "name": "Moranbah "
+  },
+  "YMRE": {
+    "lat": -29.6632995605,
+    "long": 138.0650024414,
+    "name": "Marree "
+  },
+  "YMRS": {
+    "lat": -27.9333000183,
+    "long": 121.3000030518,
+    "name": "Melrose "
+  },
+  "YMRT": {
+    "lat": -17.7000007629,
+    "long": 145.1499938965,
+    "name": "Mount Garnet "
+  },
+  "YMRW": {
+    "lat": -29.2017002106,
+    "long": 116.0220031738,
+    "name": "Morawa "
+  },
+  "YMRY": {
+    "lat": -35.8978004456,
+    "long": 150.143997192,
+    "name": "Moruya "
+  },
+  "YMSF": {
+    "lat": -16.9783000946,
+    "long": 130.5549926758,
+    "name": "Mount Sanford Station "
+  },
+  "YMSK": {
+    "lat": -22.1833000183,
+    "long": 134.1170043945,
+    "name": "Mount Skinner "
+  },
+  "YMSO": {
+    "lat": -31.3899993896,
+    "long": 151.4100036621,
+    "name": "Mount Sandon "
+  },
+  "YMSP": {
+    "lat": -18.1263008118,
+    "long": 144.2850036621,
+    "name": "Mount Surprise "
+  },
+  "YMSS": {
+    "lat": -26.9167003632,
+    "long": 115.983001709,
+    "name": "Murchison Shire "
+  },
+  "YMTA": {
+    "lat": -18.7999992371,
+    "long": 137,
+    "name": "Mittebah "
+  },
+  "YMTB": {
+    "lat": -22.5832996368,
+    "long": 144.5330047607,
+    "name": "Muttaburra "
+  },
+  "YMTC": {
+    "lat": -28.8332996368,
+    "long": 134.358001709,
+    "name": "Mount Clarence "
+  },
+  "YMTG": {
+    "lat": -37.7456016541,
+    "long": 140.7850036621,
+    "name": "Mount Gambier "
+  },
+  "YMTI": {
+    "lat": -16.6625003815,
+    "long": 139.1779937744,
+    "name": "Mornington Island "
+  },
+  "YMTO": {
+    "lat": -24.885799408,
+    "long": 151.1000061035,
+    "name": "Monto "
+  },
+  "YMTP": {
+    "lat": -34.1366996765,
+    "long": 135.3379974365,
+    "name": "Mount Hope "
+  },
+  "YMTW": {
+    "lat": -31.4736003876,
+    "long": 139.1109924316,
+    "name": "Martins Well "
+  },
+  "YMTX": {
+    "lat": -26.0617008209,
+    "long": 135.2469940186,
+    "name": "Mount Dare "
+  },
+  "YMTZ": {
+    "lat": -16.4333000183,
+    "long": 126.0999984741,
+    "name": "Mount Elizabeth "
+  },
+  "YMUA": {
+    "lat": -24.875,
+    "long": 151.9170074463,
+    "name": "Monduran "
+  },
+  "YMUC": {
+    "lat": -20.6588993073,
+    "long": 120.0670013428,
+    "name": "Muccan Station "
+  },
+  "YMUE": {
+    "lat": -12.0982999802,
+    "long": 132.9069976807,
+    "name": "Mount Borradale "
+  },
+  "YMUG": {
+    "lat": -28.0091991425,
+    "long": 138.6569976807,
+    "name": "Mungeranie "
+  },
+  "YMUI": {
+    "lat": -9.9166698456,
+    "long": 144.0549926758,
+    "name": "Murray Island "
+  },
+  "YMUJ": {
+    "lat": -22.3661003113,
+    "long": 118.6809997559,
+    "name": "Munjina "
+  },
+  "YMUK": {
+    "lat": -28.3477993011,
+    "long": 138.6499938965,
+    "name": "Mulka "
+  },
+  "YMUL": {
+    "lat": -32.5083007813,
+    "long": 115.8420028687,
+    "name": "Murray Field"
+  },
+  "YMUP": {
+    "lat": -25.8999996185,
+    "long": 131.6670074463,
+    "name": "Mulga Park "
+  },
+  "YMUR": {
+    "lat": -28.3316993713,
+    "long": 153.4129943848,
+    "name": "Murwillumbah "
+  },
+  "YMUX": {
+    "lat": -26.3666992188,
+    "long": 117.3330001831,
+    "name": "Mileura "
+  },
+  "YMVG": {
+    "lat": -25.9666996002,
+    "long": 133.1999969482,
+    "name": "Mount Cavenagh "
+  },
+  "YMVH": {
+    "lat": -31.4666996002,
+    "long": 119.5329971313,
+    "name": "Marvel Loch "
+  },
+  "YMVM": {
+    "lat": -33.2851219177,
+    "long": 151.2127380371,
+    "name": "Mangrove Mountain "
+  },
+  "YMVN": {
+    "lat": -26.3999996185,
+    "long": 147.1000061035,
+    "name": "Morven "
+  },
+  "YMVR": {
+    "lat": -24.2332992554,
+    "long": 118.233001709,
+    "name": "Mount Vernon Station "
+  },
+  "YMVY": {
+    "lat": -14.0832996368,
+    "long": 133.8170013428,
+    "name": "Mount Valley "
+  },
+  "YMWA": {
+    "lat": -28.4750003815,
+    "long": 115.516998291,
+    "name": "Mullewa "
+  },
+  "YMWE": {
+    "lat": -22.7371997833,
+    "long": 132.1510009766,
+    "name": "Mount Wedge "
+  },
+  "YMWM": {
+    "lat": -37.2954958244,
+    "long": 142.603397369,
+    "name": "Mount William "
+  },
+  "YMWO": {
+    "lat": -31.7182998657,
+    "long": 136.4329986572,
+    "name": "Mahanewo "
+  },
+  "YMWT": {
+    "lat": -29.9167003632,
+    "long": 139.75,
+    "name": "Moolawatana "
+  },
+  "YMWX": {
+    "lat": -23.3666992188,
+    "long": 139.6670074463,
+    "name": "Marion Downs "
+  },
+  "YMYB": {
+    "lat": -25.513299942,
+    "long": 152.7149963379,
+    "name": "Maryborough "
+  },
+  "YMYH": {
+    "lat": -16.9666996002,
+    "long": 135.7830047607,
+    "name": "Mallapunyah Springs "
+  },
+  "YMYI": {
+    "lat": -25.0932998657,
+    "long": 119.7549972534,
+    "name": "Marymia "
+  },
+  "YMYR": {
+    "lat": -18.1166992188,
+    "long": 124.266998291,
+    "name": "Myroodan Station "
+  },
+  "YMYT": {
+    "lat": -28.5832996368,
+    "long": 140.3170013428,
+    "name": "Merty Merty "
+  },
+  "YMYV": {
+    "lat": -24.6599998474,
+    "long": 134.0319976807,
+    "name": "Maryvale "
+  },
+  "YMYW": {
+    "lat": -21.0482997894,
+    "long": 134.6829986572,
+    "name": "Murray Downs "
+  },
+  "YMYY": {
+    "lat": -15.0500001907,
+    "long": 143.75,
+    "name": "Mary Valley "
+  },
+  "YMZI": {
+    "lat": -29.6667003632,
+    "long": 121.016998291,
+    "name": "Menzies "
+  },
+  "YNAB": {
+    "lat": -12.3083000183,
+    "long": 133.31300354,
+    "name": "Nabarlek "
+  },
+  "YNAN": {
+    "lat": -26.6900005341,
+    "long": 151.983001709,
+    "name": "Nanango "
+  },
+  "YNAP": {
+    "lat": -27.5583000183,
+    "long": 141.1329956055,
+    "name": "Nappa Merrie "
+  },
+  "YNAR": {
+    "lat": -34.7022018433,
+    "long": 146.511993408,
+    "name": "Narrandera "
+  },
+  "YNAU": {
+    "lat": -34.0332984924,
+    "long": 115.733001709,
+    "name": "Nannup "
+  },
+  "YNBR": {
+    "lat": -30.3192005157,
+    "long": 149.82699585,
+    "name": "Narrabri "
+  },
+  "YNCD": {
+    "lat": -27.7999992371,
+    "long": 142.5829925537,
+    "name": "Noccundra "
+  },
+  "YNCS": {
+    "lat": -25.6667003632,
+    "long": 134.8329925537,
+    "name": "New Crown "
+  },
+  "YNDG": {
+    "lat": -33.1166992188,
+    "long": 119,
+    "name": "Newdegate "
+  },
+  "YNDR": {
+    "lat": -31.7800006866,
+    "long": 132.2230072021,
+    "name": "Nundroo "
+  },
+  "YNDS": {
+    "lat": -21.0832996368,
+    "long": 146.1499938965,
+    "name": "Natal Downs "
+  },
+  "YNES": {
+    "lat": -17.2999992371,
+    "long": 129.2830047607,
+    "name": "Nelson Springs "
+  },
+  "YNGB": {
+    "lat": -36.7383003235,
+    "long": 145.125,
+    "name": "Nagambie "
+  },
+  "YNGU": {
+    "lat": -14.7228002548,
+    "long": 134.7469940186,
+    "name": "Ngukurr "
+  },
+  "YNHE": {
+    "lat": -38.5332984924,
+    "long": 145.3170013428,
+    "name": "Newhaven "
+  },
+  "YNHL": {
+    "lat": -36.3097000122,
+    "long": 141.6410064697,
+    "name": "Nhill "
+  },
+  "YNHP": {
+    "lat": -28.3500003815,
+    "long": 114.6829986572,
+    "name": "Northampton "
+  },
+  "YNHS": {
+    "lat": -30.6499996185,
+    "long": 153,
+    "name": "Nambucca Heads "
+  },
+  "YNHV": {
+    "lat": -22.7283000946,
+    "long": 131.1450042725,
+    "name": "New Haven "
+  },
+  "YNIC": {
+    "lat": -18.0499992371,
+    "long": 128.8999938965,
+    "name": "Nicholson "
+  },
+  "YNIG": {
+    "lat": -32.521900177,
+    "long": 136.4940032959,
+    "name": "Nonning "
+  },
+  "YNIN": {
+    "lat": -35.7000007629,
+    "long": 139.3329925537,
+    "name": "Meningie "
+  },
+  "YNKA": {
+    "lat": -18.5,
+    "long": 124.8330001831,
+    "name": "Noonkanbah "
+  },
+  "YNMN": {
+    "lat": -19.2000007629,
+    "long": 145.766998291,
+    "name": "New Moon "
+  },
+  "YNNT": {
+    "lat": -22.5333003998,
+    "long": 115.5,
+    "name": "Nantarra "
+  },
+  "YNOC": {
+    "lat": -27.7166996002,
+    "long": 142.7120056152,
+    "name": "Nockatunga "
+  },
+  "YNOF": {
+    "lat": -19.3332996368,
+    "long": 138.3329925537,
+    "name": "Norfolk "
+  },
+  "YNON": {
+    "lat": -32.2832984924,
+    "long": 123.6669998169,
+    "name": "Noondoonia Homestead "
+  },
+  "YNOO": {
+    "lat": -28.0499992371,
+    "long": 143.5829925537,
+    "name": "Nooyeah Downs "
+  },
+  "YNOR": {
+    "lat": -34.25,
+    "long": 144.3329925537,
+    "name": "Norwood "
+  },
+  "YNPA": {
+    "lat": -28.4832992554,
+    "long": 135.8999938965,
+    "name": "Nilpinna "
+  },
+  "YNPB": {
+    "lat": -22.5333003998,
+    "long": 133.7630004883,
+    "name": "Napperby "
+  },
+  "YNPD": {
+    "lat": -17.3166999817,
+    "long": 124.8499984741,
+    "name": "Napier Downs "
+  },
+  "YNPU": {
+    "lat": -30.6033000946,
+    "long": 138.9479980469,
+    "name": "Nepabunna "
+  },
+  "YNRB": {
+    "lat": -32.1166992188,
+    "long": 118.4169998169,
+    "name": "Narembeen "
+  },
+  "YNRC": {
+    "lat": -36.9852981567,
+    "long": 140.7250061035,
+    "name": "Naracoorte "
+  },
+  "YNRG": {
+    "lat": -32.9300003052,
+    "long": 117.0800018311,
+    "name": "Narrogin "
+  },
+  "YNRL": {
+    "lat": -28.5499992371,
+    "long": 141.9170074463,
+    "name": "Naryilco "
+  },
+  "YNRM": {
+    "lat": -32.2146987915,
+    "long": 148.2250061035,
+    "name": "Narromine "
+  },
+  "YNRR": {
+    "lat": -22.6452999115,
+    "long": 130.5650024414,
+    "name": "Nyrripi "
+  },
+  "YNRV": {
+    "lat": -33.7971992493,
+    "long": 120.208000183,
+    "name": "Ravensthorpe "
+  },
+  "YNSH": {
+    "lat": -26.4232997894,
+    "long": 153.06300354,
+    "name": "Noosa "
+  },
+  "YNSM": {
+    "lat": -32.2099990845,
+    "long": 121.7549972534,
+    "name": "Norseman "
+  },
+  "YNTI": {
+    "lat": -28.2998166667,
+    "long": 113.5958,
+    "name": "Abrolhos North Island"
+  },
+  "YNTM": {
+    "lat": -31.6299991608,
+    "long": 116.6829986572,
+    "name": "Northam "
+  },
+  "YNTN": {
+    "lat": -17.683599472,
+    "long": 141.0700073242,
+    "name": "Normanton "
+  },
+  "YNUB": {
+    "lat": -31.4416999817,
+    "long": 130.9019927979,
+    "name": "Nullabor Motel "
+  },
+  "YNUD": {
+    "lat": -22.39186,
+    "long": 117.37623,
+    "name": "Nammuldi Mine Airstrip"
+  },
+  "YNUE": {
+    "lat": -23.9832992554,
+    "long": 135.3999938965,
+    "name": "Numery "
+  },
+  "YNUJ": {
+    "lat": -17.9666996002,
+    "long": 137.9329986572,
+    "name": "Nudjaburra "
+  },
+  "YNUL": {
+    "lat": -21.9132995605,
+    "long": 120.1979980469,
+    "name": "Nullagine "
+  },
+  "YNUM": {
+    "lat": -14.2716999054,
+    "long": 135.7169952393,
+    "name": "Numbulwar "
+  },
+  "YNUT": {
+    "lat": -15.8166999817,
+    "long": 134.1499938965,
+    "name": "Nutwood Downs "
+  },
+  "YNVE": {
+    "lat": -36.9166984558,
+    "long": 143.1000061035,
+    "name": "Navarre "
+  },
+  "YNVL": {
+    "lat": -35.7832984924,
+    "long": 143.6999969482,
+    "name": "Normanville "
+  },
+  "YNVR": {
+    "lat": -24.8500003815,
+    "long": 143.6999969482,
+    "name": "Navarra "
+  },
+  "YNWL": {
+    "lat": -30.8460998535,
+    "long": 135.3090057373,
+    "name": "North Well "
+  },
+  "YNWN": {
+    "lat": -23.4178009033,
+    "long": 119.803001404,
+    "name": "Newman "
+  },
+  "YNWT": {
+    "lat": -23.2332992554,
+    "long": 132.6329956055,
+    "name": "Narwietooma "
+  },
+  "YNYG": {
+    "lat": -23.0333003998,
+    "long": 115.0329971313,
+    "name": "Nyang "
+  },
+  "YNYM": {
+    "lat": -32.0499992371,
+    "long": 146.3170013428,
+    "name": "Nymagee "
+  },
+  "YNYN": {
+    "lat": -31.5510997772,
+    "long": 147.2030029297,
+    "name": "Nyngan "
+  },
+  "YNYP": {
+    "lat": -26.2000007629,
+    "long": 130.233001709,
+    "name": "Nypari "
+  },
+  "YOAD": {
+    "lat": -25.3833007813,
+    "long": 135.4170074463,
+    "name": "Old Andado "
+  },
+  "YOAP": {
+    "lat": -16.4333000183,
+    "long": 123.0500030518,
+    "name": "One Arm Point "
+  },
+  "YOAS": {
+    "lat": -34.0839004517,
+    "long": 150.5590057373,
+    "name": "The Oaks "
+  },
+  "YOAY": {
+    "lat": -23.0599994659,
+    "long": 148.4949951172,
+    "name": "Oaky Creek "
+  },
+  "YOBR": {
+    "lat": -31.9652996063,
+    "long": 152.591003418,
+    "name": "Old Bar Heritage "
+  },
+  "YODA": {
+    "lat": -30.4566993713,
+    "long": 131.8229980469,
+    "name": "Ooldea "
+  },
+  "YODL": {
+    "lat": -25.3500003815,
+    "long": 142.6329956055,
+    "name": "Ourdel "
+  },
+  "YOEN": {
+    "lat": -12.3249998093,
+    "long": 133.0059967041,
+    "name": "Oenpelli "
+  },
+  "YOIT": {
+    "lat": -22.0666999817,
+    "long": 144.1499938965,
+    "name": "Orielton "
+  },
+  "YOKE": {
+    "lat": -22.2667007446,
+    "long": 145.983001709,
+    "name": "Oakvale "
+  },
+  "YOKV": {
+    "lat": -29.5167007446,
+    "long": 130.8670043945,
+    "name": "Oak Valley "
+  },
+  "YOLA": {
+    "lat": -38.2867012024,
+    "long": 143.6799926758,
+    "name": "Colac "
+  },
+  "YOLD": {
+    "lat": -30.4850006104,
+    "long": 136.876998901,
+    "name": "Olympic Dam "
+  },
+  "YOLW": {
+    "lat": -21.6683006287,
+    "long": 115.1129989624,
+    "name": "Onslow "
+  },
+  "YOLY": {
+    "lat": -31.013299942,
+    "long": 147.7109985352,
+    "name": "Oxley Station "
+  },
+  "YOMI": {
+    "lat": -28.7667007446,
+    "long": 141.1999969482,
+    "name": "Omicron Station "
+  },
+  "YOMO": {
+    "lat": -37.096698761,
+    "long": 147.5930023193,
+    "name": "Omeo "
+  },
+  "YOOD": {
+    "lat": -27.5617008209,
+    "long": 135.4470062256,
+    "name": "Oodnadatta "
+  },
+  "YOOK": {
+    "lat": -30.6182994843,
+    "long": 130.4060058594,
+    "name": "Cook "
+  },
+  "YOOM": {
+    "lat": -28.0993995667,
+    "long": 140.1970062256,
+    "name": "Moomba "
+  },
+  "YOOO": {
+    "lat": -16.3332996368,
+    "long": 131.5,
+    "name": "Mooloola Homestead "
+  },
+  "YORA": {
+    "lat": -31.6893997192,
+    "long": 126.5859985352,
+    "name": "Moonerah "
+  },
+  "YORB": {
+    "lat": -37.7900009155,
+    "long": 148.6100006104,
+    "name": "Orbost "
+  },
+  "YORG": {
+    "lat": -33.3816986084,
+    "long": 149.132995605,
+    "name": "Orange "
+  },
+  "YORL": {
+    "lat": -33.7832984924,
+    "long": 122.9499969482,
+    "name": "Orleans Farm "
+  },
+  "YORR": {
+    "lat": -32.7733001709,
+    "long": 138.6649932861,
+    "name": "Orroroo "
+  },
+  "YORT": {
+    "lat": -21.9057998657,
+    "long": 136.0690002441,
+    "name": "Ooratippra "
+  },
+  "YORV": {
+    "lat": -17.3407993317,
+    "long": 128.9120025635,
+    "name": "Ord River "
+  },
+  "YORW": {
+    "lat": -29.1991996765,
+    "long": 121.43800354,
+    "name": "Orient Well "
+  },
+  "YOSB": {
+    "lat": -22.0816993713,
+    "long": 140.554992676,
+    "name": "Osborne Mine "
+  },
+  "YOTN": {
+    "lat": -17.4333000183,
+    "long": 144.6329956055,
+    "name": "Ootann "
+  },
+  "YOUN": {
+    "lat": -28.6149997711,
+    "long": 118.8420028687,
+    "name": "Youanmi "
+  },
+  "YOUY": {
+    "lat": -35.0890124268,
+    "long": 142.354488373,
+    "name": "Ouyen "
+  },
+  "YPAC": {
+    "lat": -25.236700058,
+    "long": 152.5429992676,
+    "name": "Pacific Haven "
+  },
+  "YPAD": {
+    "lat": -34.9449996948,
+    "long": 138.5310058594,
+    "name": "Adelaide International "
+  },
+  "YPAG": {
+    "lat": -32.5069007874,
+    "long": 137.7169952393,
+    "name": "Port Augusta "
+  },
+  "YPAM": {
+    "lat": -18.7553005219,
+    "long": 146.5809936523,
+    "name": "Palm Island "
+  },
+  "YPAY": {
+    "lat": -23.2467002869,
+    "long": 131.9029998779,
+    "name": "Papunya "
+  },
+  "YPBH": {
+    "lat": -38.5999984741,
+    "long": 142.9170074463,
+    "name": "Peterborough "
+  },
+  "YPBO": {
+    "lat": -23.1711006165,
+    "long": 117.745002747,
+    "name": "Paraburdoo "
+  },
+  "YPCE": {
+    "lat": -33.3666992188,
+    "long": 142.5879974365,
+    "name": "Pooncarie "
+  },
+  "YPCH": {
+    "lat": -35.3666992188,
+    "long": 142.1499938965,
+    "name": "Patchewollock "
+  },
+  "YPCS": {
+    "lat": -28.2000007629,
+    "long": 120.4329986572,
+    "name": "Pinnacles Homestead "
+  },
+  "YPDI": {
+    "lat": -26.1166992188,
+    "long": 139.3999938965,
+    "name": "Pandie Pandie "
+  },
+  "YPDN": {
+    "lat": -12.4146995544,
+    "long": 130.8769989014,
+    "name": "Darwin International "
+  },
+  "YPDO": {
+    "lat": -20.1175003052,
+    "long": 119.5899963379,
+    "name": "Pardoo "
+  },
+  "YPDY": {
+    "lat": -36.6166992188,
+    "long": 140.483001709,
+    "name": "Padthaway Station "
+  },
+  "YPEA": {
+    "lat": -31.6678009033,
+    "long": 116.0149993896,
+    "name": "RAAF Base Pearce"
+  },
+  "YPEC": {
+    "lat": -33.0666999817,
+    "long": 151.6479949951,
+    "name": "Aeropelican "
+  },
+  "YPED": {
+    "lat": -34.7024993896,
+    "long": 138.6210021973,
+    "name": "RAAF Base Edinburgh"
+  },
+  "YPEF": {
+    "lat": -37.5133018494,
+    "long": 144.697998047,
+    "name": "Penfield Airfield"
+  },
+  "YPFT": {
+    "lat": -36.2299995422,
+    "long": 149.1499938965,
+    "name": "Cooma/Polo Flat (Unlic) "
+  },
+  "YPGH": {
+    "lat": -16.8166999817,
+    "long": 131.2169952393,
+    "name": "Pigeon Hole "
+  },
+  "YPGV": {
+    "lat": -12.2693996429,
+    "long": 136.817993164,
+    "name": "Gove "
+  },
+  "YPID": {
+    "lat": -38.5233001709,
+    "long": 145.3269958496,
+    "name": "Phillip Island "
+  },
+  "YPIN": {
+    "lat": -15.6667003632,
+    "long": 143.5500030518,
+    "name": "Pinnacle "
+  },
+  "YPIR": {
+    "lat": -33.238899231,
+    "long": 137.9949951172,
+    "name": "Port Pirie "
+  },
+  "YPIX": {
+    "lat": -27.1916999817,
+    "long": 116.2919998169,
+    "name": "Pia "
+  },
+  "YPIY": {
+    "lat": -32.5400009155,
+    "long": 117.0729980469,
+    "name": "Pingelly "
+  },
+  "YPJI": {
+    "lat": -29.4333000183,
+    "long": 116.2829971313,
+    "name": "Perenjori "
+  },
+  "YPJT": {
+    "lat": -32.0974998474,
+    "long": 115.8809967041,
+    "name": "Perth Jandakot "
+  },
+  "YPKA": {
+    "lat": -20.7122001648,
+    "long": 116.773002625,
+    "name": "Karratha "
+  },
+  "YPKE": {
+    "lat": -28.25,
+    "long": 135.8999938965,
+    "name": "Peake "
+  },
+  "YPKG": {
+    "lat": -30.7894001007,
+    "long": 121.461997986,
+    "name": "Kalgoorlie Boulder "
+  },
+  "YPKH": {
+    "lat": -32.75,
+    "long": 148.1999969482,
+    "name": "Peak Hill "
+  },
+  "YPKI": {
+    "lat": -30.3999996185,
+    "long": 136.391998291,
+    "name": "Parakylia "
+  },
+  "YPKL": {
+    "lat": -37,
+    "long": 145.06300354,
+    "name": "Puckapunyal (Military) "
+  },
+  "YPKS": {
+    "lat": -33.131401062,
+    "long": 148.238998413,
+    "name": "Parkes "
+  },
+  "YPKT": {
+    "lat": -14.25,
+    "long": 129.529006958,
+    "name": "Port Keats "
+  },
+  "YPKU": {
+    "lat": -15.7781000137,
+    "long": 128.707992554,
+    "name": "Kununurra "
+  },
+  "YPLC": {
+    "lat": -34.6053009033,
+    "long": 135.880004883,
+    "name": "Port Lincoln "
+  },
+  "YPLG": {
+    "lat": -30.3666992188,
+    "long": 148.8829956055,
+    "name": "Pilliga "
+  },
+  "YPLI": {
+    "lat": -29.4458007813,
+    "long": 153.266998291,
+    "name": "Palmers Island/Yamba "
+  },
+  "YPLL": {
+    "lat": -25.6000003815,
+    "long": 118.6829986572,
+    "name": "Peak Hill "
+  },
+  "YPLM": {
+    "lat": -22.2355995178,
+    "long": 114.088996887,
+    "name": "Learmonth "
+  },
+  "YPLU": {
+    "lat": -25.3332996368,
+    "long": 119.4250030518,
+    "name": "Plutonic "
+  },
+  "YPMB": {
+    "lat": -32.0532989502,
+    "long": 139.8719940186,
+    "name": "Plumbago "
+  },
+  "YPME": {
+    "lat": -12.8332996368,
+    "long": 130.9329986572,
+    "name": "Palmer "
+  },
+  "YPMP": {
+    "lat": -14.8966999054,
+    "long": 141.6089935303,
+    "name": "Pormpuraaw "
+  },
+  "YPMQ": {
+    "lat": -31.4358005524,
+    "long": 152.863006592,
+    "name": "Port Macquarie "
+  },
+  "YPNC": {
+    "lat": -13.8332996368,
+    "long": 131.8329925537,
+    "name": "Pine Creek "
+  },
+  "YPNG": {
+    "lat": -31.9167003632,
+    "long": 133,
+    "name": "Penong "
+  },
+  "YPNI": {
+    "lat": -26.5167007446,
+    "long": 122.8000030518,
+    "name": "Prenti Downs "
+  },
+  "YPNN": {
+    "lat": -35.2532997131,
+    "long": 140.9429931641,
+    "name": "Pinnaroo "
+  },
+  "YPNW": {
+    "lat": -21.6166992188,
+    "long": 116.3170013428,
+    "name": "Pannawonica "
+  },
+  "YPOD": {
+    "lat": -38.3180999756,
+    "long": 141.470993042,
+    "name": "Portland "
+  },
+  "YPOK": {
+    "lat": -36.7177307062,
+    "long": 146.890039444,
+    "name": "Porepunkah "
+  },
+  "YPOP": {
+    "lat": -29.7782993317,
+    "long": 122.2679977417,
+    "name": "Porphyry "
+  },
+  "YPPD": {
+    "lat": -20.3777999878,
+    "long": 118.625999451,
+    "name": "Port Hedland International "
+  },
+  "YPPF": {
+    "lat": -34.7933006287,
+    "long": 138.632995605,
+    "name": "Adelaide Parafield "
+  },
+  "YPPH": {
+    "lat": -31.9402999878,
+    "long": 115.9670028687,
+    "name": "Perth International "
+  },
+  "YPRA": {
+    "lat": -36.3072013855,
+    "long": 144.1390075684,
+    "name": "Prairie "
+  },
+  "YPRE": {
+    "lat": -31.4769001007,
+    "long": 149.9029998779,
+    "name": "Premer Betoota "
+  },
+  "YPSH": {
+    "lat": -35.7558462874,
+    "long": 137.962875366,
+    "name": "Penneshaw "
+  },
+  "YPTB": {
+    "lat": -33.0050010681,
+    "long": 138.858001709,
+    "name": "Peterborough "
+  },
+  "YPTJ": {
+    "lat": -24.6189002991,
+    "long": 126.327003479,
+    "name": "Patjarr "
+  },
+  "YPTN": {
+    "lat": -14.5211000443,
+    "long": 132.3780059814,
+    "name": "Tindal "
+  },
+  "YPUA": {
+    "lat": -14.3332996368,
+    "long": 129.8670043945,
+    "name": "Palumpa "
+  },
+  "YPUN": {
+    "lat": -22.0666999817,
+    "long": 123.1669998169,
+    "name": "Punmu "
+  },
+  "YPVD": {
+    "lat": -26.6667003632,
+    "long": 142.5829925537,
+    "name": "Plevna Downs "
+  },
+  "YPWH": {
+    "lat": -27.7208003998,
+    "long": 151.6329956055,
+    "name": "Pittsworth "
+  },
+  "YPWR": {
+    "lat": -31.1441993713,
+    "long": 136.8170013428,
+    "name": "Woomera Airfield"
+  },
+  "YPYD": {
+    "lat": -36.0666999817,
+    "long": 144.1329956055,
+    "name": "Pyramid Hill "
+  },
+  "YPYF": {
+    "lat": -29.25,
+    "long": 117.6669998169,
+    "name": "Paynes Find "
+  },
+  "YQBE": {
+    "lat": -30.8791999817,
+    "long": 147.8419952393,
+    "name": "Quambone Royona "
+  },
+  "YQBK": {
+    "lat": -35.8622016907,
+    "long": 143.5099945068,
+    "name": "Quambatook "
+  },
+  "YQDG": {
+    "lat": -32,
+    "long": 117.4000015259,
+    "name": "Quairading "
+  },
+  "YQDI": {
+    "lat": -31.4906005859,
+    "long": 150.5140075684,
+    "name": "Quirindi "
+  },
+  "YQLP": {
+    "lat": -26.6121997833,
+    "long": 144.2530059814,
+    "name": "Quilpie "
+  },
+  "YQNS": {
+    "lat": -42.0750007629,
+    "long": 145.5319976807,
+    "name": "Queenstown "
+  },
+  "YQON": {
+    "lat": -33.1632995605,
+    "long": 140.4519958496,
+    "name": "Quondong "
+  },
+  "YQRN": {
+    "lat": -32.3199996948,
+    "long": 138.1020050049,
+    "name": "Quorn "
+  },
+  "YQUA": {
+    "lat": -30.2922000885,
+    "long": 134.5269927979,
+    "name": "Quarry2 "
+  },
+  "YQUE": {
+    "lat": -30.3917007446,
+    "long": 143.141998291,
+    "name": "Questa Park "
+  },
+  "YRAG": {
+    "lat": -37.3773873391,
+    "long": 143.305664062,
+    "name": "Raglan "
+  },
+  "YRAM": {
+    "lat": -26.1499996185,
+    "long": 143.016998291,
+    "name": "Raymore Homestead "
+  },
+  "YRAT": {
+    "lat": -28.7197,
+    "long": 113.7845,
+    "name": "Abrolhos Rat Island"
+  },
+  "YRAV": {
+    "lat": -33.528301239,
+    "long": 119.9530029297,
+    "name": "Ravensthorpe "
+  },
+  "YRAW": {
+    "lat": -31,
+    "long": 125.3170013428,
+    "name": "Rawlinna "
+  },
+  "YRBB": {
+    "lat": -25.8332996368,
+    "long": 153.0670013428,
+    "name": "Rainbow Beach "
+  },
+  "YRBE": {
+    "lat": -37.1753636288,
+    "long": 139.805231094,
+    "name": "Robe "
+  },
+  "YRBM": {
+    "lat": -17.1833000183,
+    "long": 137.766998291,
+    "name": "Redbank Mine "
+  },
+  "YRBR": {
+    "lat": -16.7182998657,
+    "long": 136.9450073242,
+    "name": "Robinson River "
+  },
+  "YRBT": {
+    "lat": -20.1833000183,
+    "long": 130.016998291,
+    "name": "Rabbit Flat "
+  },
+  "YRBW": {
+    "lat": -35.9166984558,
+    "long": 141.983001709,
+    "name": "Rainbow "
+  },
+  "YRDA": {
+    "lat": -32.4099998474,
+    "long": 135.4850006104,
+    "name": "Yardea "
+  },
+  "YRDM": {
+    "lat": -21.9666996002,
+    "long": 119.016998291,
+    "name": "Redmont "
+  },
+  "YRDY": {
+    "lat": -27.1317005157,
+    "long": 118.2799987793,
+    "name": "Reedys "
+  },
+  "YRED": {
+    "lat": -27.2066993713,
+    "long": 153.0679931641,
+    "name": "Redcliffe "
+  },
+  "YREN": {
+    "lat": -34.1963996887,
+    "long": 140.6739959717,
+    "name": "Renmark "
+  },
+  "YRHL": {
+    "lat": -21.9666996002,
+    "long": 116.0670013428,
+    "name": "Red Hill Station "
+  },
+  "YRID": {
+    "lat": -37.4799995422,
+    "long": 144.7180023193,
+    "name": "Riddell "
+  },
+  "YRKE": {
+    "lat": -37.9000015259,
+    "long": 143.7169952393,
+    "name": "Kuruc-A-Ruc South "
+  },
+  "YRKS": {
+    "lat": -19.8666992188,
+    "long": 138.1000061035,
+    "name": "Rocklands "
+  },
+  "YRLE": {
+    "lat": -22.8833007813,
+    "long": 117.4499969482,
+    "name": "Rocklea "
+  },
+  "YRLL": {
+    "lat": -24.4617004395,
+    "long": 148.6320037842,
+    "name": "Rolleston "
+  },
+  "YRMD": {
+    "lat": -20.7019004822,
+    "long": 143.1150054932,
+    "name": "Richmond "
+  },
+  "YRNG": {
+    "lat": -12.3563995361,
+    "long": 134.8979949951,
+    "name": "Ramingining "
+  },
+  "YRNW": {
+    "lat": -23.8283004761,
+    "long": 134.9620056152,
+    "name": "Ringwood "
+  },
+  "YROB": {
+    "lat": -18.8449993134,
+    "long": 143.7100067139,
+    "name": "Robinhood "
+  },
+  "YROE": {
+    "lat": -20.7616996765,
+    "long": 117.156997681,
+    "name": "Roebourne "
+  },
+  "YROI": {
+    "lat": -34.6500015259,
+    "long": 142.7830047607,
+    "name": "Robinvale "
+  },
+  "YROK": {
+    "lat": -35.9300003052,
+    "long": 136.7200012207,
+    "name": "Rocky River "
+  },
+  "YROM": {
+    "lat": -26.5450000763,
+    "long": 148.774993896,
+    "name": "Roma "
+  },
+  "YROT": {
+    "lat": -29.2917003632,
+    "long": 116.8669967651,
+    "name": "Rothsay Mine "
+  },
+  "YROV": {
+    "lat": -23.599199295,
+    "long": 134.516998291,
+    "name": "Ross River "
+  },
+  "YRRB": {
+    "lat": -14.7383003235,
+    "long": 134.5180053711,
+    "name": "Roper Bar "
+  },
+  "YRRG": {
+    "lat": -23.1082992554,
+    "long": 119.3330001831,
+    "name": "Rhodes Ridge "
+  },
+  "YRRR": {
+    "lat": -12.3332996368,
+    "long": 135.6499938965,
+    "name": "Raymangirr "
+  },
+  "YRSB": {
+    "lat": -25.8332996368,
+    "long": 139.6499938965,
+    "name": "Roseberth "
+  },
+  "YRSH": {
+    "lat": -33.8300966368,
+    "long": 151.024138927,
+    "name": "Rosehill Heliport "
+  },
+  "YRSK": {
+    "lat": -18.7886009216,
+    "long": 128.6239929199,
+    "name": "Ringer Soak "
+  },
+  "YRSV": {
+    "lat": -27.1333007813,
+    "long": 145.8999938965,
+    "name": "Rosevale Resort "
+  },
+  "YRSY": {
+    "lat": -37.391667,
+    "long": 144.738333,
+    "name": "Romsey (Riddell/Penfield) "
+  },
+  "YRTI": {
+    "lat": -32.0066986084,
+    "long": 115.5400009155,
+    "name": "Rottnest Island "
+  },
+  "YRTP": {
+    "lat": -15.6433000565,
+    "long": 141.8430023193,
+    "name": "Rutland Plains "
+  },
+  "YRUD": {
+    "lat": -22.5499992371,
+    "long": 122.1500015259,
+    "name": "Rudal River "
+  },
+  "YRUG": {
+    "lat": -34.3917007446,
+    "long": 148.9750061035,
+    "name": "Rugby "
+  },
+  "YRVE": {
+    "lat": -17.8999996185,
+    "long": 130.2169952393,
+    "name": "Riveren "
+  },
+  "YRWA": {
+    "lat": -31.0251998901,
+    "long": 125.1910018921,
+    "name": "Rawlinna Station "
+  },
+  "YRWH": {
+    "lat": -34.6333007813,
+    "long": 144.2830047607,
+    "name": "Ravensworth "
+  },
+  "YRXB": {
+    "lat": -30.7166996002,
+    "long": 136.7369995117,
+    "name": "Roxby Downs Station "
+  },
+  "YRYH": {
+    "lat": -22.625815891,
+    "long": 119.959030151,
+    "name": "Roy Hill Station "
+  },
+  "YRYK": {
+    "lat": -31.6535282135,
+    "long": 138.6095275879,
+    "name": "Rawnsley Park "
+  },
+  "YSAH": {
+    "lat": -22.7999992371,
+    "long": 119.6169967651,
+    "name": "Sandhill "
+  },
+  "YSAI": {
+    "lat": -23.7000007629,
+    "long": 131.8670043945,
+    "name": "Saipem "
+  },
+  "YSAN": {
+    "lat": -27.9799995422,
+    "long": 119.2969970703,
+    "name": "Sandstone "
+  },
+  "YSAR": {
+    "lat": -27.0431003571,
+    "long": 135.2420043945,
+    "name": "Mount Sarah "
+  },
+  "YSBG": {
+    "lat": -36.8549995422,
+    "long": 145.7380065918,
+    "name": "Strathbogie "
+  },
+  "YSBK": {
+    "lat": -33.9244003296,
+    "long": 150.9880065918,
+    "name": "Sydney Bankstown "
+  },
+  "YSBO": {
+    "lat": -21.5666999817,
+    "long": 139.7169952393,
+    "name": "Stanbroke "
+  },
+  "YSCA": {
+    "lat": -33.2071990967,
+    "long": 141.17300415,
+    "name": "Scotia Sanctuary "
+  },
+  "YSCB": {
+    "lat": -35.3069000244,
+    "long": 149.1950073242,
+    "name": "Canberra International "
+  },
+  "YSCH": {
+    "lat": -30.3206005096,
+    "long": 153.115997314,
+    "name": "Coffs Harbour "
+  },
+  "YSCN": {
+    "lat": -34.0402984619,
+    "long": 150.68699646,
+    "name": "Camden "
+  },
+  "YSCO": {
+    "lat": -32.0372009277,
+    "long": 150.8320007324,
+    "name": "Scone "
+  },
+  "YSCR": {
+    "lat": -31.2399997711,
+    "long": 119.3600006104,
+    "name": "Southern Cross "
+  },
+  "YSDL": {
+    "lat": -12.75,
+    "long": 142.3670043945,
+    "name": "Sudley "
+  },
+  "YSDN": {
+    "lat": -20.0499992371,
+    "long": 137.016998291,
+    "name": "Soudan Station "
+  },
+  "YSDU": {
+    "lat": -32.2167015076,
+    "long": 148.574996948,
+    "name": "Dubbo City Regional "
+  },
+  "YSDW": {
+    "lat": -37.7317008972,
+    "long": 141.125,
+    "name": "Strathdownie "
+  },
+  "YSEN": {
+    "lat": -32.3949661255,
+    "long": 115.8709869385,
+    "name": "Serpentine "
+  },
+  "YSFI": {
+    "lat": -19.7667007446,
+    "long": 121.1669998169,
+    "name": "Sandfire "
+  },
+  "YSFL": {
+    "lat": -34.3418769603,
+    "long": 139.308185577,
+    "name": "Stonefield "
+  },
+  "YSFY": {
+    "lat": -42.9916992188,
+    "long": 147.2079925537,
+    "name": "Sandfly "
+  },
+  "YSGD": {
+    "lat": -14.7950000763,
+    "long": 142.4329986572,
+    "name": "Strathgordon "
+  },
+  "YSGE": {
+    "lat": -28.0496997833,
+    "long": 148.5950012207,
+    "name": "St George "
+  },
+  "YSGR": {
+    "lat": -29.7082996368,
+    "long": 152.9279937744,
+    "name": "South Grafton "
+  },
+  "YSGT": {
+    "lat": -32.600832,
+    "long": 151.193056,
+    "name": "Singleton "
+  },
+  "YSGW": {
+    "lat": -25.6833000183,
+    "long": 142.108001709,
+    "name": "South Galway "
+  },
+  "YSHG": {
+    "lat": -20.4246997833,
+    "long": 120.1409988403,
+    "name": "Shay Gap "
+  },
+  "YSHK": {
+    "lat": -25.8938999176,
+    "long": 113.577003479,
+    "name": "Shark Bay "
+  },
+  "YSHN": {
+    "lat": -34.75,
+    "long": 116.483001709,
+    "name": "Shannon River "
+  },
+  "YSHR": {
+    "lat": -20.2782993317,
+    "long": 148.7570037842,
+    "name": "Shute Harbour "
+  },
+  "YSHT": {
+    "lat": -36.4289016724,
+    "long": 145.3930053711,
+    "name": "Shepparton "
+  },
+  "YSHW": {
+    "lat": -33.9949989319,
+    "long": 150.9519958496,
+    "name": "Holsworthy (Military) "
+  },
+  "YSIA": {
+    "lat": -32.5574989319,
+    "long": 136.7089996338,
+    "name": "Siam "
+  },
+  "YSII": {
+    "lat": -9.3783302307,
+    "long": 142.625,
+    "name": "Saibai Island "
+  },
+  "YSLE": {
+    "lat": -38.1701011658,
+    "long": 144.6889953613,
+    "name": "St Leonards Airfield"
+  },
+  "YSLG": {
+    "lat": -17.0666999817,
+    "long": 125.25,
+    "name": "Silent Grove "
+  },
+  "YSLK": {
+    "lat": -35.5266990662,
+    "long": 142.8880004883,
+    "name": "Sea Lake "
+  },
+  "YSLN": {
+    "lat": -15.8983001709,
+    "long": 143.3829956055,
+    "name": "Strathleven "
+  },
+  "YSLT": {
+    "lat": -38.1166992188,
+    "long": 147.0749969482,
+    "name": "Sale "
+  },
+  "YSLV": {
+    "lat": -23.5583000183,
+    "long": 120.0469970703,
+    "name": "Sylvania Homestead "
+  },
+  "YSMI": {
+    "lat": -40.8349990845,
+    "long": 145.0839996338,
+    "name": "Smithton "
+  },
+  "YSMP": {
+    "lat": -11.1499996185,
+    "long": 132.149993896,
+    "name": "Smith Point "
+  },
+  "YSMR": {
+    "lat": -17.8500003815,
+    "long": 142.5670013428,
+    "name": "Strathmore "
+  },
+  "YSMY": {
+    "lat": -14.8832998276,
+    "long": 142.8020019531,
+    "name": "Strathmay "
+  },
+  "YSNB": {
+    "lat": -11.4228000641,
+    "long": 130.654006958,
+    "name": "Snake Bay "
+  },
+  "YSNT": {
+    "lat": -33.7999992371,
+    "long": 138.3670043945,
+    "name": "Snowtown "
+  },
+  "YSNW": {
+    "lat": -34.9488983154,
+    "long": 150.5370025635,
+    "name": "Nowra "
+  },
+  "YSOL": {
+    "lat": -22.255278,
+    "long": 117.761944,
+    "name": "Solomon "
+  },
+  "YSOW": {
+    "lat": -14.516699791,
+    "long": 142.0330047607,
+    "name": "Southwell "
+  },
+  "YSPE": {
+    "lat": -28.620300293,
+    "long": 151.9909973145,
+    "name": "Stanthorpe "
+  },
+  "YSPF": {
+    "lat": -24.2999992371,
+    "long": 144.8829956055,
+    "name": "Springfield "
+  },
+  "YSPI": {
+    "lat": -24.1282997131,
+    "long": 148.0749969482,
+    "name": "Springsure "
+  },
+  "YSPK": {
+    "lat": -18.6333007813,
+    "long": 144.5670013428,
+    "name": "Spring Creek "
+  },
+  "YSPT": {
+    "lat": -27.9150009155,
+    "long": 153.3730010986,
+    "name": "Southport "
+  },
+  "YSPV": {
+    "lat": -23.5499992371,
+    "long": 140.6999969482,
+    "name": "Springvale "
+  },
+  "YSRD": {
+    "lat": -29.1016998291,
+    "long": 122.4499969482,
+    "name": "Sunrise Dam "
+  },
+  "YSRI": {
+    "lat": -33.6006011963,
+    "long": 150.7810058594,
+    "name": "RAAF Base Richmond"
+  },
+  "YSRN": {
+    "lat": -42.1549987793,
+    "long": 145.2920074463,
+    "name": "Strahan "
+  },
+  "YSRT": {
+    "lat": -27.1499996185,
+    "long": 149.0829925537,
+    "name": "Surat "
+  },
+  "YSSY": {
+    "lat": -33.9460983276,
+    "long": 151.1770019531,
+    "name": "Sydney Kingsford Smith International "
+  },
+  "YSTA": {
+    "lat": -36.6366996765,
+    "long": 143.1860046387,
+    "name": "Saint Arnaud "
+  },
+  "YSTB": {
+    "lat": -14.4816999435,
+    "long": 142.8170013428,
+    "name": "Strathburn "
+  },
+  "YSTC": {
+    "lat": -29.7166996002,
+    "long": 137.06300354,
+    "name": "Stuart Creek "
+  },
+  "YSTH": {
+    "lat": -41.3367004395,
+    "long": 148.2819976807,
+    "name": "St Helens "
+  },
+  "YSTO": {
+    "lat": -24.3582992554,
+    "long": 143.3000030518,
+    "name": "Stonehenge "
+  },
+  "YSTR": {
+    "lat": -31.7667007446,
+    "long": 140.3329925537,
+    "name": "Strathearn "
+  },
+  "YSTT": {
+    "lat": -24.1182994843,
+    "long": 134.3899993896,
+    "name": "Santa Teresa "
+  },
+  "YSTW": {
+    "lat": -31.0839004517,
+    "long": 150.847000122,
+    "name": "Tamworth "
+  },
+  "YSUJ": {
+    "lat": -19.2667007446,
+    "long": 129.9499969482,
+    "name": "Supplejack Downs "
+  },
+  "YSVH": {
+    "lat": -20.6166992188,
+    "long": 143.0829925537,
+    "name": "Silver Hills "
+  },
+  "YSVN": {
+    "lat": -14.8999996185,
+    "long": 142.9669952393,
+    "name": "Strathaven "
+  },
+  "YSWA": {
+    "lat": -42.1016998291,
+    "long": 148.0679931641,
+    "name": "Swansea "
+  },
+  "YSWE": {
+    "lat": -17.1217002869,
+    "long": 139.5980072021,
+    "name": "Sweers Island Resort "
+  },
+  "YSWG": {
+    "lat": -35.1652984619,
+    "long": 147.466003418,
+    "name": "Wagga Wagga City "
+  },
+  "YSWH": {
+    "lat": -35.3758010864,
+    "long": 143.5330047607,
+    "name": "Swan Hill "
+  },
+  "YSWL": {
+    "lat": -37.0717010498,
+    "long": 142.7409973145,
+    "name": "Stawell "
+  },
+  "YSYN": {
+    "lat": -35.3116989136,
+    "long": 138.9900054932,
+    "name": "Strathalbyn "
+  },
+  "YTAA": {
+    "lat": -27.1567001343,
+    "long": 150.4770050049,
+    "name": "Tara "
+  },
+  "YTAB": {
+    "lat": -17.2833003998,
+    "long": 126.900001526,
+    "name": "Tableland Homestead "
+  },
+  "YTAD": {
+    "lat": -32.6333007813,
+    "long": 142.0829925537,
+    "name": "Tandou Lake "
+  },
+  "YTAM": {
+    "lat": -25.801700592,
+    "long": 149.8999938965,
+    "name": "Taroom "
+  },
+  "YTAN": {
+    "lat": -20.5736541748,
+    "long": 129.7401275635,
+    "name": "Tanami Downs "
+  },
+  "YTAR": {
+    "lat": -30.7033004761,
+    "long": 134.583999634,
+    "name": "Tarcoola "
+  },
+  "YTBB": {
+    "lat": -34.3616981506,
+    "long": 136.0950012207,
+    "name": "Tumby Bay "
+  },
+  "YTBG": {
+    "lat": -35.5833015442,
+    "long": 148.2830047607,
+    "name": "Talbingo "
+  },
+  "YTBR": {
+    "lat": -15.6199998856,
+    "long": 130.4450073242,
+    "name": "Timber Creek "
+  },
+  "YTCF": {
+    "lat": -22.3166999817,
+    "long": 122.0670013428,
+    "name": "Tracies Field"
+  },
+  "YTCK": {
+    "lat": -20.7833003998,
+    "long": 145,
+    "name": "Torrens Creek "
+  },
+  "YTCY": {
+    "lat": -26.75,
+    "long": 133.3500061035,
+    "name": "Tarcoonyinna "
+  },
+  "YTDL": {
+    "lat": -39.034198761,
+    "long": 146.3269958496,
+    "name": "Tidal River "
+  },
+  "YTDM": {
+    "lat": -27.1242008209,
+    "long": 134.7700042725,
+    "name": "Todmorden "
+  },
+  "YTDN": {
+    "lat": -38.2167015076,
+    "long": 145.4270019531,
+    "name": "Tooradin "
+  },
+  "YTDR": {
+    "lat": -24.9932994843,
+    "long": 150.0930023193,
+    "name": "Theodore "
+  },
+  "YTEC": {
+    "lat": -30.3367004395,
+    "long": 139.6649932861,
+    "name": "Tenneco Station Three "
+  },
+  "YTEE": {
+    "lat": -21.8349990845,
+    "long": 140.8880004883,
+    "name": "Trepell "
+  },
+  "YTEF": {
+    "lat": -21.7150001526,
+    "long": 122.2289962769,
+    "name": "Telfer "
+  },
+  "YTEM": {
+    "lat": -34.4213981628,
+    "long": 147.5119934082,
+    "name": "Temora "
+  },
+  "YTEN": {
+    "lat": -31.9750003815,
+    "long": 139.2070007324,
+    "name": "Tenneco Station Five "
+  },
+  "YTFA": {
+    "lat": -34.3983001709,
+    "long": 139.3849945068,
+    "name": "Truro Flat Airpark"
+  },
+  "YTFD": {
+    "lat": -28.9915500425,
+    "long": 151.930103302,
+    "name": "Tenterfield "
+  },
+  "YTGA": {
+    "lat": -27.1299991608,
+    "long": 153.363006592,
+    "name": "Tangalooma "
+  },
+  "YTGG": {
+    "lat": -37.3504981995,
+    "long": 145.6999969482,
+    "name": "Taggerty "
+  },
+  "YTGI": {
+    "lat": -31.9666996002,
+    "long": 148,
+    "name": "Trangie "
+  },
+  "YTGM": {
+    "lat": -27.9864006042,
+    "long": 143.8110046387,
+    "name": "Thargomindah "
+  },
+  "YTGT": {
+    "lat": -20.5482997894,
+    "long": 130.3470001221,
+    "name": "The Granites "
+  },
+  "YTGV": {
+    "lat": -34.686000824,
+    "long": 148.1040039063,
+    "name": "The Grove "
+  },
+  "YTHD": {
+    "lat": -14.7881002426,
+    "long": 126.4960021973,
+    "name": "Theda Station "
+  },
+  "YTHI": {
+    "lat": -35.0247001648,
+    "long": 136.1799926758,
+    "name": "Thistle Island "
+  },
+  "YTHR": {
+    "lat": -25.1333007813,
+    "long": 119.1169967651,
+    "name": "Three Rivers Homestead "
+  },
+  "YTHS": {
+    "lat": -29.5279109299,
+    "long": 115.858039856,
+    "name": "Three Springs "
+  },
+  "YTHV": {
+    "lat": -21.4666996002,
+    "long": 115,
+    "name": "Thevenard Island "
+  },
+  "YTHY": {
+    "lat": -26.0832996368,
+    "long": 143.4669952393,
+    "name": "Thylungra "
+  },
+  "YTIB": {
+    "lat": -29.4510993958,
+    "long": 142.0579986572,
+    "name": "Tibooburra "
+  },
+  "YTII": {
+    "lat": -25.6000003815,
+    "long": 143.9170074463,
+    "name": "Trinidad "
+  },
+  "YTIN": {
+    "lat": -35.8666992188,
+    "long": 140.0670013428,
+    "name": "Tintinara "
+  },
+  "YTIT": {
+    "lat": -22.1317005157,
+    "long": 133.4199981689,
+    "name": "Ti Tree "
+  },
+  "YTJI": {
+    "lat": -26.0349998474,
+    "long": 125.4720001221,
+    "name": "Tjirrkarli "
+  },
+  "YTJU": {
+    "lat": -29.3582992554,
+    "long": 127.1279983521,
+    "name": "Tjuntjuntjarra "
+  },
+  "YTKS": {
+    "lat": -21.0417003632,
+    "long": 141.7870025635,
+    "name": "Toorak Research Station "
+  },
+  "YTKY": {
+    "lat": -17.0408000946,
+    "long": 128.205993652,
+    "name": "Turkey Creek "
+  },
+  "YTLG": {
+    "lat": -34.2891998291,
+    "long": 149.7819976807,
+    "name": "Taralga Grathawa "
+  },
+  "YTLL": {
+    "lat": -32.6166992188,
+    "long": 147.6000061035,
+    "name": "Tullamore "
+  },
+  "YTLP": {
+    "lat": -30.9333000183,
+    "long": 144.4170074463,
+    "name": "Tilpa "
+  },
+  "YTLT": {
+    "lat": -22.6333007813,
+    "long": 136.8000030518,
+    "name": "Tarlton Downs "
+  },
+  "YTMB": {
+    "lat": -24.8500003815,
+    "long": 146.2830047607,
+    "name": "Tambo "
+  },
+  "YTML": {
+    "lat": -26.6667003632,
+    "long": 113.733001709,
+    "name": "Tamala "
+  },
+  "YTMN": {
+    "lat": -19.9167003632,
+    "long": 129.7250061035,
+    "name": "Tanami "
+  },
+  "YTMO": {
+    "lat": -21.8111000061,
+    "long": 139.9239959717,
+    "name": "The Monument "
+  },
+  "YTMP": {
+    "lat": -22.7460002899,
+    "long": 117.869003296,
+    "name": "Tom Price "
+  },
+  "YTMS": {
+    "lat": -31.3150005341,
+    "long": 149.8470001221,
+    "name": "Tambar Springs "
+  },
+  "YTMU": {
+    "lat": -35.2627983093,
+    "long": 148.2409973145,
+    "name": "Tumut "
+  },
+  "YTMY": {
+    "lat": -22.2558002472,
+    "long": 137.9530029297,
+    "name": "Tobermorey "
+  },
+  "YTNB": {
+    "lat": -25.8477993011,
+    "long": 141.9279937744,
+    "name": "Tanbar "
+  },
+  "YTNC": {
+    "lat": -32.1500015259,
+    "long": 152.483001709,
+    "name": "Tuncurry "
+  },
+  "YTNE": {
+    "lat": -28.7332992554,
+    "long": 140.0500030518,
+    "name": "Tenneco Station One "
+  },
+  "YTNG": {
+    "lat": -24.4939002991,
+    "long": 150.5760040283,
+    "name": "Thangool "
+  },
+  "YTNK": {
+    "lat": -19.6343994141,
+    "long": 134.1829986572,
+    "name": "Tennant Creek "
+  },
+  "YTNN": {
+    "lat": -31.1833000183,
+    "long": 139.3829956055,
+    "name": "Tenneco Station Four "
+  },
+  "YTNR": {
+    "lat": -16.4500007629,
+    "long": 134.6499938965,
+    "name": "Tanumbirini "
+  },
+  "YTNS": {
+    "lat": -25.3214511871,
+    "long": 146.0688171387,
+    "name": "Toliness "
+  },
+  "YTOA": {
+    "lat": -28.4083003998,
+    "long": 140.8099975586,
+    "name": "Toolachie "
+  },
+  "YTOB": {
+    "lat": -19.9333000183,
+    "long": 145.5829925537,
+    "name": "Toomba "
+  },
+  "YTOC": {
+    "lat": -35.8116989136,
+    "long": 145.608001709,
+    "name": "Tocumwal "
+  },
+  "YTOG": {
+    "lat": -30.0821990967,
+    "long": 149.5319976807,
+    "name": "Togo Station "
+  },
+  "YTOK": {
+    "lat": -25.1166992188,
+    "long": 147.1670074463,
+    "name": "Torres Park Homestead "
+  },
+  "YTOS": {
+    "lat": -29.5499992371,
+    "long": 139.9499969482,
+    "name": "Tenneco Station Two "
+  },
+  "YTOT": {
+    "lat": -32.248298645,
+    "long": 147.3679962158,
+    "name": "Tottenham "
+  },
+  "YTPE": {
+    "lat": -24.3824996948,
+    "long": 132.4230041504,
+    "name": "Tempe Downs "
+  },
+  "YTQY": {
+    "lat": -38.2999992371,
+    "long": 144.3650054932,
+    "name": "Torquay "
+  },
+  "YTRB": {
+    "lat": -36.0666999817,
+    "long": 144.5330047607,
+    "name": "Torrumbarry "
+  },
+  "YTRC": {
+    "lat": -24.0832996368,
+    "long": 143.3999938965,
+    "name": "Tarcombe "
+  },
+  "YTRE": {
+    "lat": -31.8885993958,
+    "long": 152.514007568,
+    "name": "Taree "
+  },
+  "YTRK": {
+    "lat": -23.6166992188,
+    "long": 118.6169967651,
+    "name": "Turee Creek "
+  },
+  "YTST": {
+    "lat": -14.0896997452,
+    "long": 126.3809967041,
+    "name": "Truscott Mungalalu "
+  },
+  "YTTE": {
+    "lat": -13.9849996567,
+    "long": 141.6569976807,
+    "name": "Ti Tree "
+  },
+  "YTTI": {
+    "lat": -13.7517004013,
+    "long": 126.1480026245,
+    "name": "Troughton Is "
+  },
+  "YTUA": {
+    "lat": -42.5136985779,
+    "long": 147.8979949951,
+    "name": "Triabunna "
+  },
+  "YTUC": {
+    "lat": -27.4750003815,
+    "long": 118.125,
+    "name": "Tuckabiana "
+  },
+  "YTUG": {
+    "lat": -24.4666996002,
+    "long": 149.266998291,
+    "name": "Trugananni "
+  },
+  "YTUN": {
+    "lat": -42.0999984741,
+    "long": 147.3670043945,
+    "name": "Tunbridge "
+  },
+  "YTUY": {
+    "lat": -17.9333000183,
+    "long": 145.9170074463,
+    "name": "Tully "
+  },
+  "YTVA": {
+    "lat": -19.2166996002,
+    "long": 143.6670074463,
+    "name": "Talavera "
+  },
+  "YTWB": {
+    "lat": -27.5428009033,
+    "long": 151.9160003662,
+    "name": "Toowoomba "
+  },
+  "YTWE": {
+    "lat": -22.8500003815,
+    "long": 146.7169952393,
+    "name": "Trelawney "
+  },
+  "YTWN": {
+    "lat": -31.4416999817,
+    "long": 148.8999938965,
+    "name": "Tooraweenah "
+  },
+  "YTYA": {
+    "lat": -38.2667007446,
+    "long": 145.175003052,
+    "name": "Tyabb "
+  },
+  "YTYH": {
+    "lat": -28.5946960394,
+    "long": 153.551101685,
+    "name": "Tyagarah "
+  },
+  "YTYN": {
+    "lat": -26.2166996002,
+    "long": 133.9170074463,
+    "name": "Tieyon "
+  },
+  "YUCH": {
+    "lat": -17.6724014282,
+    "long": 134.2409057617,
+    "name": "Ucharonidge "
+  },
+  "YUDA": {
+    "lat": -18.2000007629,
+    "long": 144.6000061035,
+    "name": "Undara "
+  },
+  "YUDG": {
+    "lat": -21.5900001526,
+    "long": 138.358001709,
+    "name": "Urandangi "
+  },
+  "YUDL": {
+    "lat": -19.625,
+    "long": 138.6329956055,
+    "name": "Undilla "
+  },
+  "YUMB": {
+    "lat": -25.7467002869,
+    "long": 133.7019958496,
+    "name": "Umbeara "
+  },
+  "YUMU": {
+    "lat": -26.486700058,
+    "long": 132.0399932861,
+    "name": "Umuwa "
+  },
+  "YUNY": {
+    "lat": -24.5167007446,
+    "long": 139.6170043945,
+    "name": "Cluny "
+  },
+  "YUPG": {
+    "lat": -14.7166996002,
+    "long": 134.5670013428,
+    "name": "Urapunga "
+  },
+  "YUPH": {
+    "lat": -30.1047000885,
+    "long": 150.404006958,
+    "name": "Upper Horton Wyl "
+  },
+  "YUSL": {
+    "lat": -26.1667003632,
+    "long": 113.4000015259,
+    "name": "Useless Loop "
+  },
+  "YUTP": {
+    "lat": -22.0550003052,
+    "long": 134.7899932861,
+    "name": "Utopia "
+  },
+  "YUTS": {
+    "lat": -22.2332992554,
+    "long": 134.5800018311,
+    "name": "Utopia Station "
+  },
+  "YVAF": {
+    "lat": -41.8100013733,
+    "long": 147.2920074463,
+    "name": "Valley Field "
+  },
+  "YVIV": {
+    "lat": -30.5832996368,
+    "long": 135.7169952393,
+    "name": "Mount Vivian "
+  },
+  "YVLG": {
+    "lat": -18.6667003632,
+    "long": 145.1000061035,
+    "name": "Valley of Lagoons "
+  },
+  "YVNS": {
+    "lat": -22.3332996368,
+    "long": 130.8670043945,
+    "name": "Vaughan Springs "
+  },
+  "YVRD": {
+    "lat": -16.4021244049,
+    "long": 131.0049743652,
+    "name": "Victoria River Downs "
+  },
+  "YVRS": {
+    "lat": -16.963300705,
+    "long": 141.9499969482,
+    "name": "Vanrook Station "
+  },
+  "YVSH": {
+    "lat": -11.1499996185,
+    "long": 131.983001709,
+    "name": "Vashon Head "
+  },
+  "YVVA": {
+    "lat": -37.5,
+    "long": 142.2700042725,
+    "name": "Victoria Valley "
+  },
+  "YVVL": {
+    "lat": -14.733300209,
+    "long": 143.5829925537,
+    "name": "Violet Vale "
+  },
+  "YWAB": {
+    "lat": -24.75,
+    "long": 117.3669967651,
+    "name": "Waldburg Homestead "
+  },
+  "YWAC": {
+    "lat": -20.6499996185,
+    "long": 134.2169952393,
+    "name": "Wauchope "
+  },
+  "YWAG": {
+    "lat": -29.7166996002,
+    "long": 144.1670074463,
+    "name": "Wanaaring "
+  },
+  "YWAL": {
+    "lat": -19.7735996246,
+    "long": 120.649002075,
+    "name": "Wallal "
+  },
+  "YWAT": {
+    "lat": -12.6332998276,
+    "long": 143.0500030518,
+    "name": "Wattle Hills "
+  },
+  "YWAV": {
+    "lat": -17.3932991028,
+    "long": 131.1179962158,
+    "name": "Wave Hill "
+  },
+  "YWAX": {
+    "lat": -25.2975521088,
+    "long": 127.5564193726,
+    "name": "Wanarn "
+  },
+  "YWBH": {
+    "lat": -31.5333003998,
+    "long": 150.8670043945,
+    "name": "Wallabadah "
+  },
+  "YWBI": {
+    "lat": -21,
+    "long": 134.3970031738,
+    "name": "Warrabri "
+  },
+  "YWBL": {
+    "lat": -38.29529953,
+    "long": 142.4470062256,
+    "name": "Warrnambool "
+  },
+  "YWBN": {
+    "lat": -34.1866989136,
+    "long": 150.8049926758,
+    "name": "Wedderburn "
+  },
+  "YWBR": {
+    "lat": -26.1282997131,
+    "long": 126.5830001831,
+    "name": "Warburton "
+  },
+  "YWBS": {
+    "lat": -10.2082996368,
+    "long": 142.8249969482,
+    "name": "Warraber Island "
+  },
+  "YWCA": {
+    "lat": -31.5263996124,
+    "long": 143.375,
+    "name": "Wilcannia "
+  },
+  "YWCH": {
+    "lat": -31,
+    "long": 151.5670013428,
+    "name": "Walcha "
+  },
+  "YWCK": {
+    "lat": -28.1494007111,
+    "long": 151.9429931641,
+    "name": "Warwick "
+  },
+  "YWCM": {
+    "lat": -20.1014003754,
+    "long": 129.1260070801,
+    "name": "Wilson's Camp "
+  },
+  "YWDA": {
+    "lat": -28.4750003815,
+    "long": 122.241996765,
+    "name": "Windarra "
+  },
+  "YWDC": {
+    "lat": -21.1417007446,
+    "long": 118.6920013428,
+    "name": "Wodgina "
+  },
+  "YWDH": {
+    "lat": -25.4130992889,
+    "long": 142.6670074463,
+    "name": "Windorah "
+  },
+  "YWDJ": {
+    "lat": -17.421387587,
+    "long": 124.925107956,
+    "name": "Windjana Grove "
+  },
+  "YWDL": {
+    "lat": -18.5750007629,
+    "long": 140.891998291,
+    "name": "Wondoola "
+  },
+  "YWDR": {
+    "lat": -34.9388999939,
+    "long": 149.4100036621,
+    "name": "Collector2 "
+  },
+  "YWDS": {
+    "lat": -35.1333007813,
+    "long": 145.6670074463,
+    "name": "Woodside Au "
+  },
+  "YWDT": {
+    "lat": -18.75,
+    "long": 144.8329925537,
+    "name": "Wyandotte "
+  },
+  "YWDV": {
+    "lat": -19.6667003632,
+    "long": 144.8999938965,
+    "name": "Wandovale "
+  },
+  "YWEC": {
+    "lat": -25.8500003815,
+    "long": 145.1000061035,
+    "name": "Wellclose "
+  },
+  "YWED": {
+    "lat": -36.4333000183,
+    "long": 143.483001709,
+    "name": "Wedderburn "
+  },
+  "YWEE": {
+    "lat": -27.0816993713,
+    "long": 116.1500015259,
+    "name": "Wooleen Homestead "
+  },
+  "YWEL": {
+    "lat": -32.4667015076,
+    "long": 148.983001709,
+    "name": "Wellington "
+  },
+  "YWEO": {
+    "lat": -30.6499996185,
+    "long": 139.3500061035,
+    "name": "Wertaloona "
+  },
+  "YWER": {
+    "lat": -18.1333007813,
+    "long": 139.9669952393,
+    "name": "Wernadinga "
+  },
+  "YWEX": {
+    "lat": -22.3666992188,
+    "long": 124.766998291,
+    "name": "Well 33 "
+  },
+  "YWFD": {
+    "lat": -19.2833003998,
+    "long": 125.4169998169,
+    "name": "Western Field "
+  },
+  "YWGN": {
+    "lat": -33.3333015442,
+    "long": 117.3669967651,
+    "name": "Wagin "
+  },
+  "YWGT": {
+    "lat": -36.4157981873,
+    "long": 146.3070068359,
+    "name": "Wangaratta "
+  },
+  "YWGW": {
+    "lat": -26.1333007813,
+    "long": 121.9670028687,
+    "name": "Wongawol "
+  },
+  "YWHA": {
+    "lat": -33.0588989258,
+    "long": 137.5140075684,
+    "name": "Whyalla "
+  },
+  "YWHC": {
+    "lat": -30.8533000946,
+    "long": 143.0720062256,
+    "name": "White Cliffs "
+  },
+  "YWHI": {
+    "lat": -20.2667007446,
+    "long": 148.766998291,
+    "name": "Whitsunday Island "
+  },
+  "YWHL": {
+    "lat": -17.7667007446,
+    "long": 135.6499938965,
+    "name": "Walhallow "
+  },
+  "YWIB": {
+    "lat": -27.9832992554,
+    "long": 134.1499938965,
+    "name": "Mount Willoughby "
+  },
+  "YWIE": {
+    "lat": -21.1166992188,
+    "long": 147.266998291,
+    "name": "Wirralie Gold Mine "
+  },
+  "YWIL": {
+    "lat": -31.2833003998,
+    "long": 142.6670074463,
+    "name": "Wilandra "
+  },
+  "YWIO": {
+    "lat": -34.2332992554,
+    "long": 150.6670074463,
+    "name": "Wilton "
+  },
+  "YWIS": {
+    "lat": -22.4733009338,
+    "long": 150.1779937744,
+    "name": "Williamson "
+  },
+  "YWIT": {
+    "lat": -22.2182998657,
+    "long": 118.3479995728,
+    "name": "Wittenoom "
+  },
+  "YWJS": {
+    "lat": -35.2616996765,
+    "long": 148.6670074463,
+    "name": "Wee Jasper "
+  },
+  "YWKB": {
+    "lat": -36.3210983276,
+    "long": 142.4190063477,
+    "name": "Warracknabeal "
+  },
+  "YWKI": {
+    "lat": -34.1838989258,
+    "long": 140.0310058594,
+    "name": "Waikerie "
+  },
+  "YWKM": {
+    "lat": -31.2026341022,
+    "long": 117.378873825,
+    "name": "Wyalkatchem "
+  },
+  "YWKW": {
+    "lat": -32.5491283809,
+    "long": 151.024246216,
+    "name": "Warkworth "
+  },
+  "YWLA": {
+    "lat": -21.2766990662,
+    "long": 132.6230010986,
+    "name": "Willowra "
+  },
+  "YWLB": {
+    "lat": -27.3581008911,
+    "long": 134.0930023193,
+    "name": "Welbourn Hill "
+  },
+  "YWLG": {
+    "lat": -30.0328006744,
+    "long": 148.1260070801,
+    "name": "Walgett "
+  },
+  "YWLH": {
+    "lat": -24.6499996185,
+    "long": 132.3170013428,
+    "name": "Wallara Ranch "
+  },
+  "YWLM": {
+    "lat": -32.7949981689,
+    "long": 151.8339996338,
+    "name": "Newcastle "
+  },
+  "YWLN": {
+    "lat": -30.4216995239,
+    "long": 139.4360046387,
+    "name": "Wooltana "
+  },
+  "YWLP": {
+    "lat": -39.1310997009,
+    "long": 146.4250030518,
+    "name": "Wilsons Promontory "
+  },
+  "YWLU": {
+    "lat": -26.6291999817,
+    "long": 120.2210006714,
+    "name": "Wiluna "
+  },
+  "YWLX": {
+    "lat": -33.8666992188,
+    "long": 150.6499938965,
+    "name": "Wallacia "
+  },
+  "YWMA": {
+    "lat": -30.6511001587,
+    "long": 142.3419952393,
+    "name": "Wonnaminta Stat "
+  },
+  "YWMC": {
+    "lat": -28.9067001343,
+    "long": 136.3419952393,
+    "name": "William Creek "
+  },
+  "YWMG": {
+    "lat": -29.2332992554,
+    "long": 146.9329986572,
+    "name": "Weilmoringle "
+  },
+  "YWML": {
+    "lat": -17.3332996368,
+    "long": 138.233001709,
+    "name": "Westmoreland "
+  },
+  "YWMM": {
+    "lat": -30.5333003998,
+    "long": 152.0829925537,
+    "name": "Wollomombi "
+  },
+  "YWMP": {
+    "lat": -16.6583003998,
+    "long": 144.0019989014,
+    "name": "Wrotham Park "
+  },
+  "YWMY": {
+    "lat": -23.8666992188,
+    "long": 115.1500015259,
+    "name": "Williambury "
+  },
+  "YWNA": {
+    "lat": -30.7667007446,
+    "long": 134.7299957275,
+    "name": "Wilgena "
+  },
+  "YWND": {
+    "lat": -26.2833003998,
+    "long": 151.858001709,
+    "name": "Wondai "
+  },
+  "YWNI": {
+    "lat": -13.6999998093,
+    "long": 141.5500030518,
+    "name": "Wathanin "
+  },
+  "YWNL": {
+    "lat": -26.0666999817,
+    "long": 128.9499969482,
+    "name": "Wingellina "
+  },
+  "YWNO": {
+    "lat": -27.125,
+    "long": 121.3330001831,
+    "name": "Wonganoo "
+  },
+  "YWNS": {
+    "lat": -25.0499992371,
+    "long": 143.6670074463,
+    "name": "Wandsworth "
+  },
+  "YWOH": {
+    "lat": -30.8666992188,
+    "long": 116.733001709,
+    "name": "Wongan Hills "
+  },
+  "YWOL": {
+    "lat": -34.5611000061,
+    "long": 150.7890014648,
+    "name": "Wollongong "
+  },
+  "YWOM": {
+    "lat": -31.3166999817,
+    "long": 151.1329956055,
+    "name": "Woolomin "
+  },
+  "YWON": {
+    "lat": -38.471698761,
+    "long": 145.6230010986,
+    "name": "Wonthaggi "
+  },
+  "YWOR": {
+    "lat": -17.2199993134,
+    "long": 137.9230041504,
+    "name": "Wollogorang "
+  },
+  "YWOV": {
+    "lat": -36.6333007813,
+    "long": 144.1829986572,
+    "name": "Woodvale "
+  },
+  "YWOX": {
+    "lat": -32.4000015259,
+    "long": 124.0329971313,
+    "name": "Woorlba "
+  },
+  "YWPA": {
+    "lat": -31.1333007813,
+    "long": 138.9669952393,
+    "name": "Wirrealpa "
+  },
+  "YWPE": {
+    "lat": -34.9500007629,
+    "long": 116.6999969482,
+    "name": "Walpole "
+  },
+  "YWPL": {
+    "lat": -23.1000003815,
+    "long": 114.5329971313,
+    "name": "Winning Pool North "
+  },
+  "YWRA": {
+    "lat": -20.4817008972,
+    "long": 138.1679992676,
+    "name": "Wooroona "
+  },
+  "YWRC": {
+    "lat": -32.426700592,
+    "long": 118.9079971313,
+    "name": "Wave Rock "
+  },
+  "YWRE": {
+    "lat": -22.2700004578,
+    "long": 146.0500030518,
+    "name": "Wirralie "
+  },
+  "YWRL": {
+    "lat": -29.5333003998,
+    "long": 150.5330047607,
+    "name": "Warialda "
+  },
+  "YWRN": {
+    "lat": -31.7332992554,
+    "long": 147.8029937744,
+    "name": "Warren "
+  },
+  "YWRR": {
+    "lat": -23.4832992554,
+    "long": 113.8000030518,
+    "name": "Warroora Homestead "
+  },
+  "YWRT": {
+    "lat": -41.4500007629,
+    "long": 145.5500030518,
+    "name": "Waratah "
+  },
+  "YWRV": {
+    "lat": -13.5932998657,
+    "long": 135.7550048828,
+    "name": "Walker River "
+  },
+  "YWSD": {
+    "lat": -30.7250003815,
+    "long": 141.3999938965,
+    "name": "Westward Downs "
+  },
+  "YWSG": {
+    "lat": -27.0983009338,
+    "long": 152.4600067139,
+    "name": "Watts Bridge "
+  },
+  "YWSI": {
+    "lat": -29.5666999817,
+    "long": 134.516998291,
+    "name": "Wirrida Siding "
+  },
+  "YWSL": {
+    "lat": -38.0917015076,
+    "long": 146.964996338,
+    "name": "West Sale "
+  },
+  "YWSX": {
+    "lat": -31.3332996368,
+    "long": 118.6669998169,
+    "name": "Westonia "
+  },
+  "YWTL": {
+    "lat": -16.6299991608,
+    "long": 129.3200073242,
+    "name": "Waterloo "
+  },
+  "YWTN": {
+    "lat": -22.3635997772,
+    "long": 143.0859985352,
+    "name": "Winton "
+  },
+  "YWTO": {
+    "lat": -34.0882987976,
+    "long": 141.891998291,
+    "name": "Wentworth "
+  },
+  "YWTV": {
+    "lat": -13.2166996002,
+    "long": 142.233001709,
+    "name": "Watson River "
+  },
+  "YWUD": {
+    "lat": -33.0433006287,
+    "long": 135.4470062256,
+    "name": "Wudinna "
+  },
+  "YWVA": {
+    "lat": -33.240278,
+    "long": 151.429722,
+    "name": "Warnervale "
+  },
+  "YWVL": {
+    "lat": -30.4160995483,
+    "long": 151.7550048828,
+    "name": "Woodville "
+  },
+  "YWWA": {
+    "lat": -30.2583007813,
+    "long": 149.4080047607,
+    "name": "Wee Waa "
+  },
+  "YWWG": {
+    "lat": -20.8464596515,
+    "long": 120.705327988,
+    "name": "Warrawagine "
+  },
+  "YWWH": {
+    "lat": -22.1000003815,
+    "long": 147.6999969482,
+    "name": "Wentworth "
+  },
+  "YWWI": {
+    "lat": -21.6627998352,
+    "long": 121.2340011597,
+    "name": "Woodie Woodie "
+  },
+  "YWWL": {
+    "lat": -33.9371986389,
+    "long": 147.190994263,
+    "name": "West Wyalong "
+  },
+  "YWYA": {
+    "lat": -27.2667007446,
+    "long": 145.9900054932,
+    "name": "Wyandra "
+  },
+  "YWYB": {
+    "lat": -30.5617008209,
+    "long": 133.5330047607,
+    "name": "Wynbring "
+  },
+  "YWYF": {
+    "lat": -36.0583000183,
+    "long": 143.2429962158,
+    "name": "Wycheproof "
+  },
+  "YWYM": {
+    "lat": -15.5114002228,
+    "long": 128.1529998779,
+    "name": "Wyndham "
+  },
+  "YWYY": {
+    "lat": -40.9989013672,
+    "long": 145.7310028076,
+    "name": "Wynyard "
+  },
+  "YXGS": {
+    "lat": -33.3680992126,
+    "long": 151.300003052,
+    "name": "Gosford "
+  },
+  "YXTA": {
+    "lat": -27.2000007629,
+    "long": 153.3829956055,
+    "name": "Tangalooma Resort "
+  },
+  "YYAA": {
+    "lat": -29.6833000183,
+    "long": 141.4250030518,
+    "name": "Yandama "
+  },
+  "YYAC": {
+    "lat": -21.3833007813,
+    "long": 147.1000061035,
+    "name": "Yacamunda "
+  },
+  "YYAG": {
+    "lat": -20.9666996002,
+    "long": 128.0829925537,
+    "name": "Yagga Yagga "
+  },
+  "YYAK": {
+    "lat": -16.7332992554,
+    "long": 145.3329925537,
+    "name": "Yalkulka "
+  },
+  "YYAL": {
+    "lat": -28.3553009033,
+    "long": 116.683998108,
+    "name": "Yalgoo "
+  },
+  "YYAS": {
+    "lat": -34.8300018311,
+    "long": 149.0420074463,
+    "name": "Yass "
+  },
+  "YYBE": {
+    "lat": -23.2667007446,
+    "long": 149.016998291,
+    "name": "Yarrabee Mine "
+  },
+  "YYDE": {
+    "lat": -21.3332996368,
+    "long": 118.8669967651,
+    "name": "Yandee "
+  },
+  "YYDM": {
+    "lat": -29.1166992188,
+    "long": 122.0329971313,
+    "name": "Yundamindera "
+  },
+  "YYEA": {
+    "lat": -37.1727981567,
+    "long": 145.3220062256,
+    "name": "Yeaburn "
+  },
+  "YYER": {
+    "lat": -29.4675998688,
+    "long": 121.8300018311,
+    "name": "Yerilla "
+  },
+  "YYGG": {
+    "lat": -20.8906002045,
+    "long": 127.9489974976,
+    "name": "Yagga Yagga "
+  },
+  "YYKI": {
+    "lat": -9.7570295334,
+    "long": 143.4109954834,
+    "name": "Yorke Island "
+  },
+  "YYLD": {
+    "lat": -30.2614002228,
+    "long": 142.9770050049,
+    "name": "Yalda Downs Homestead "
+  },
+  "YYLG": {
+    "lat": -27.4263000488,
+    "long": 115.5179977417,
+    "name": "Yallalong Homestead "
+  },
+  "YYLR": {
+    "lat": -27.2770600378,
+    "long": 120.095672607,
+    "name": "Yeelirrie "
+  },
+  "YYMI": {
+    "lat": -9.9011096954,
+    "long": 142.7760009766,
+    "name": "Yam Island "
+  },
+  "YYND": {
+    "lat": -22.2541999817,
+    "long": 131.7819976807,
+    "name": "Yuendumu "
+  },
+  "YYNG": {
+    "lat": -34.2555999756,
+    "long": 148.2480010986,
+    "name": "Young "
+  },
+  "YYNR": {
+    "lat": -22.5167007446,
+    "long": 114.8000030518,
+    "name": "Yanrey "
+  },
+  "YYOO": {
+    "lat": -31.8033008575,
+    "long": 136.8600006104,
+    "name": "Yalymboo "
+  },
+  "YYOR": {
+    "lat": -35,
+    "long": 137.6170043945,
+    "name": "Yorketown "
+  },
+  "YYRK": {
+    "lat": -31.8551006317,
+    "long": 116.7990036011,
+    "name": "York "
+  },
+  "YYRM": {
+    "lat": -38.5666999817,
+    "long": 146.7550048828,
+    "name": "Yarram "
+  },
+  "YYRN": {
+    "lat": -28.1539993286,
+    "long": 123.672996521,
+    "name": "Yamarna "
+  },
+  "YYRW": {
+    "lat": -25.4582996368,
+    "long": 117.9749984741,
+    "name": "Yarlarweelor "
+  },
+  "YYTA": {
+    "lat": -31.4706001282,
+    "long": 131.8249969482,
+    "name": "Yalata Mission "
+  },
+  "YYUM": {
+    "lat": -28.5629997253,
+    "long": 119.0189971924,
+    "name": "Yuinmery "
+  },
+  "YYUN": {
+    "lat": -32.5833015442,
+    "long": 139.5500030518,
+    "name": "Yunta "
+  },
+  "YYWA": {
+    "lat": -27.9333000183,
+    "long": 144.6170043945,
+    "name": "Yowah "
+  },
+  "YYWG": {
+    "lat": -36.0289001465,
+    "long": 146.029006958,
+    "name": "Yarrawonga "
+  },
+  "YZAN": {
+    "lat": -31.0333003998,
+    "long": 123.5670013428,
+    "name": "Zanthus "
+  },
+  "YZHN": {
+    "lat": -41.8833007813,
+    "long": 145.3500061035,
+    "name": "Zeehan "
+  }
+}

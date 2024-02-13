@@ -1,0 +1,548 @@
+{
+    "01NV": {
+        "lat": 38.7639007568,
+        "long": -119.0270004272,
+        "name": "Lantana Ranch ",
+        "state": "Nevada"
+    },
+    "02NV": {
+        "lat": 41.3032989502,
+        "long": -118.5979995728,
+        "name": "Paiute Meadows ",
+        "state": "Nevada"
+    },
+    "03NV": {
+        "lat": 40.584400177,
+        "long": -115.297996521,
+        "name": "Llama Ranch ",
+        "state": "Nevada"
+    },
+    "1NV1": {
+        "lat": 39.4152984619,
+        "long": -118.8369979858,
+        "name": "Fallon Southwest Airpark",
+        "state": "Nevada"
+    },
+    "26NV": {
+        "lat": 39.4534262223,
+        "long": -118.866330385,
+        "name": "Darrow Field",
+        "state": "Nevada"
+    },
+    "2NV2": {
+        "lat": 39.8347015381,
+        "long": -119.6750030518,
+        "name": "Gibb Ranch ",
+        "state": "Nevada"
+    },
+    "7CL8": {
+        "lat": 38.664100647,
+        "long": -114.6320037842,
+        "name": "Geyser Ranch ",
+        "state": "Nevada"
+    },
+    "88NV": {
+        "lat": 40.757333,
+        "long": -119.212861,
+        "name": "Black Rock City ",
+        "state": "Nevada"
+    },
+    "9CA6": {
+        "lat": 37.8690986633,
+        "long": -118.0950012207,
+        "name": "North Valley ",
+        "state": "Nevada"
+    },
+    "K05U": {
+        "lat": 39.6041984558,
+        "long": -116.0049972534,
+        "name": "Eureka ",
+        "state": "Nevada"
+    },
+    "K06U": {
+        "lat": 41.9760017395,
+        "long": -114.657997131,
+        "name": "Jackpot/Hayden Field",
+        "state": "Nevada"
+    },
+    "K0L7": {
+        "lat": 35.7682991028,
+        "long": -115.3300018311,
+        "name": "Jean ",
+        "state": "Nevada"
+    },
+    "K0L9": {
+        "lat": 36.3111000061,
+        "long": -114.4639968872,
+        "name": "Echo Bay ",
+        "state": "Nevada"
+    },
+    "K10U": {
+        "lat": 41.9532012939,
+        "long": -116.18800354,
+        "name": "Owyhee ",
+        "state": "Nevada"
+    },
+    "K1L3": {
+        "lat": 35.4444007874,
+        "long": -114.908996582,
+        "name": "Searchlight ",
+        "state": "Nevada"
+    },
+    "K3L2": {
+        "lat": 35.79529953,
+        "long": -115.6269989014,
+        "name": "Sky Ranch ",
+        "state": "Nevada"
+    },
+    "K67L": {
+        "lat": 36.83499908,
+        "long": -114.0550003,
+        "name": "Mesquite ",
+        "state": "Nevada"
+    },
+    "K9U7": {
+        "lat": 38.736000061,
+        "long": -115.4800033569,
+        "name": "Currant Ranch ",
+        "state": "Nevada"
+    },
+    "KA34": {
+        "lat": 39.2383995056,
+        "long": -119.5550003052,
+        "name": "Dayton Valley Airpark",
+        "state": "Nevada"
+    },
+    "KBAM": {
+        "lat": 40.5989990234,
+        "long": -116.8740005493,
+        "name": "Battle Mountain ",
+        "state": "Nevada"
+    },
+    "KBTY": {
+        "lat": 36.8610992432,
+        "long": -116.787002563,
+        "name": "Beatty ",
+        "state": "Nevada"
+    },
+    "KBVU": {
+        "lat": 35.9474983215,
+        "long": -114.861000061,
+        "name": "Boulder City Municipal ",
+        "state": "Nevada"
+    },
+    "KCXP": {
+        "lat": 39.192199707,
+        "long": -119.7340011597,
+        "name": "Carson ",
+        "state": "Nevada"
+    },
+    "KDRA": {
+        "lat": 36.6194000244,
+        "long": -116.032997131,
+        "name": "Desert Rock ",
+        "state": "Nevada"
+    },
+    "KEKO": {
+        "lat": 40.8249015808,
+        "long": -115.7919998169,
+        "name": "Elko Regional ",
+        "state": "Nevada"
+    },
+    "KELY": {
+        "lat": 39.29970169,
+        "long": -114.8420029,
+        "name": "Ely  Yelland Field",
+        "state": "Nevada"
+    },
+    "KFLX": {
+        "lat": 39.4990997314,
+        "long": -118.7490005493,
+        "name": "Fallon Municipal ",
+        "state": "Nevada"
+    },
+    "KGAB": {
+        "lat": 38.9240989685,
+        "long": -117.958999634,
+        "name": "Gabbs ",
+        "state": "Nevada"
+    },
+    "KHND": {
+        "lat": 35.9728012085,
+        "long": -115.1340026855,
+        "name": "Henderson Executive ",
+        "state": "Nevada"
+    },
+    "KHTH": {
+        "lat": 38.5443992615,
+        "long": -118.6340026855,
+        "name": "Hawthorne Industrial ",
+        "state": "Nevada"
+    },
+    "KINS": {
+        "lat": 36.5872001648,
+        "long": -115.672996521,
+        "name": "Creech Air Force Base",
+        "state": "Nevada"
+    },
+    "KL23": {
+        "lat": 37.1026992798,
+        "long": -116.31300354,
+        "name": "Pahute Mesa Airstrip",
+        "state": "Nevada"
+    },
+    "KLAS": {
+        "lat": 36.08010101,
+        "long": -115.1520004,
+        "name": "Harry Reid International ",
+        "state": "Nevada"
+    },
+    "KLOL": {
+        "lat": 40.0663986206,
+        "long": -118.5650024414,
+        "name": "Derby Field",
+        "state": "Nevada"
+    },
+    "KLSV": {
+        "lat": 36.2361984253,
+        "long": -115.033996582,
+        "name": "Nellis Air Force Base",
+        "state": "Nevada"
+    },
+    "KLWL": {
+        "lat": 41.117099762,
+        "long": -114.9219970703,
+        "name": "Wells Municipal Harriet Field",
+        "state": "Nevada"
+    },
+    "KMEV": {
+        "lat": 39.00030136,
+        "long": -119.7509995,
+        "name": "Minden Tahoe ",
+        "state": "Nevada"
+    },
+    "KN58": {
+        "lat": 39.5596008301,
+        "long": -119.2409973145,
+        "name": "Tiger Field",
+        "state": "Nevada"
+    },
+    "KN59": {
+        "lat": 38.8394012451,
+        "long": -119.3379974365,
+        "name": "Rosaschi Air Park",
+        "state": "Nevada"
+    },
+    "KNFL": {
+        "lat": 39.41659927,
+        "long": -118.7009964,
+        "name": "Fallon Naval Air Station /Van Voorhis Field",
+        "state": "Nevada"
+    },
+    "KO43": {
+        "lat": 39.0041007996,
+        "long": -119.157997131,
+        "name": "Yerington Municipal ",
+        "state": "Nevada"
+    },
+    "KRNO": {
+        "lat": 39.4990997314,
+        "long": -119.7679977417,
+        "name": "Reno Tahoe International ",
+        "state": "Nevada"
+    },
+    "KRTS": {
+        "lat": 39.6674003601,
+        "long": -119.875999451,
+        "name": "Reno Stead ",
+        "state": "Nevada"
+    },
+    "KSPZ": {
+        "lat": 39.4029998779,
+        "long": -119.2509994507,
+        "name": "Silver Springs ",
+        "state": "Nevada"
+    },
+    "KTMT": {
+        "lat": 39.4679985046,
+        "long": -117.194999695,
+        "name": "Austin ",
+        "state": "Nevada"
+    },
+    "KTNX": {
+        "lat": 37.7988014221,
+        "long": -116.78099823,
+        "name": "Tonopah Test Range ",
+        "state": "Nevada"
+    },
+    "KTPH": {
+        "lat": 38.06019974,
+        "long": -117.086998,
+        "name": "Tonopah ",
+        "state": "Nevada"
+    },
+    "KU08": {
+        "lat": 36.5680007935,
+        "long": -114.4430007935,
+        "name": "Perkins Field",
+        "state": "Nevada"
+    },
+    "KVGT": {
+        "lat": 36.2107009888,
+        "long": -115.1940002441,
+        "name": "North Las Vegas ",
+        "state": "Nevada"
+    },
+    "KWMC": {
+        "lat": 40.8965988159,
+        "long": -117.8059997559,
+        "name": "Winnemucca Municipal ",
+        "state": "Nevada"
+    },
+    "KXTA": {
+        "lat": 37.2350006104,
+        "long": -115.8109970093,
+        "name": "Homey (Area 51) ",
+        "state": "Nevada"
+    },
+    "NV00": {
+        "lat": 36.2555007935,
+        "long": -115.9929962158,
+        "name": "Valley View ",
+        "state": "Nevada"
+    },
+    "NV02": {
+        "lat": 39.0666007996,
+        "long": -117.4219970703,
+        "name": "O'Toole Ranch ",
+        "state": "Nevada"
+    },
+    "NV04": {
+        "lat": 41.3162994385,
+        "long": -115.25,
+        "name": "Marys River Ranch ",
+        "state": "Nevada"
+    },
+    "NV05": {
+        "lat": 41.123500824,
+        "long": -119.138999939,
+        "name": "Soldier Meadow Nr 2 ",
+        "state": "Nevada"
+    },
+    "NV06": {
+        "lat": 41.3827018738,
+        "long": -119.1689987183,
+        "name": "Soldier Meadow Nr 1 ",
+        "state": "Nevada"
+    },
+    "NV07": {
+        "lat": 38.4146995544,
+        "long": -115.0370025635,
+        "name": "Sunnyside/Kirch Wildlife Mgmt Area ",
+        "state": "Nevada"
+    },
+    "NV08": {
+        "lat": 41.7379989624,
+        "long": -116.216003418,
+        "name": "Petan Ranch ",
+        "state": "Nevada"
+    },
+    "NV09": {
+        "lat": 39.7243995667,
+        "long": -119.8990020752,
+        "name": "H Bar H ",
+        "state": "Nevada"
+    },
+    "NV11": {
+        "lat": 36.9458007813,
+        "long": -116.0380020142,
+        "name": "Yucca Airstrip",
+        "state": "Nevada"
+    },
+    "NV12": {
+        "lat": 41.5638008118,
+        "long": -116.408996582,
+        "name": "I-L Ranch ",
+        "state": "Nevada"
+    },
+    "NV13": {
+        "lat": 39.2827987671,
+        "long": -119.8280029297,
+        "name": "Bailey Ranch ",
+        "state": "Nevada"
+    },
+    "NV14": {
+        "lat": 41.3554992676,
+        "long": -114.2300033569,
+        "name": "Juniper ",
+        "state": "Nevada"
+    },
+    "NV16": {
+        "lat": 40.9992980957,
+        "long": -119.93699646,
+        "name": "Lackerman Ranch ",
+        "state": "Nevada"
+    },
+    "NV17": {
+        "lat": 39.6731987,
+        "long": -119.81300354,
+        "name": "Youngberg Ranch ",
+        "state": "Nevada"
+    },
+    "NV22": {
+        "lat": 40.3126983643,
+        "long": -115.8970031738,
+        "name": "Red Rock Ranch ",
+        "state": "Nevada"
+    },
+    "NV23": {
+        "lat": 39.8721008301,
+        "long": -119.7009963989,
+        "name": "Air Sailing Gliderport",
+        "state": "Nevada"
+    },
+    "NV24": {
+        "lat": 40.0579986572,
+        "long": -115.5059967041,
+        "name": "Fort Ruby Ranch Airstrip",
+        "state": "Nevada"
+    },
+    "NV26": {
+        "lat": 36.0791015625,
+        "long": -115.0690002441,
+        "name": "Voc Tech ",
+        "state": "Nevada"
+    },
+    "NV27": {
+        "lat": 37.7165985107,
+        "long": -118.0839996338,
+        "name": "Circle L Ranch ",
+        "state": "Nevada"
+    },
+    "NV30": {
+        "lat": 39.9665985107,
+        "long": -117.8280029297,
+        "name": "Dixie Valley ",
+        "state": "Nevada"
+    },
+    "NV31": {
+        "lat": 38.8058013916,
+        "long": -117.03099823,
+        "name": "Barker Creek Ranch Airstrip",
+        "state": "Nevada"
+    },
+    "NV33": {
+        "lat": 38.8331985474,
+        "long": -119.3960037231,
+        "name": "Farias Wheel ",
+        "state": "Nevada"
+    },
+    "NV35": {
+        "lat": 39.5443992615,
+        "long": -117.7509994507,
+        "name": "Hudson ",
+        "state": "Nevada"
+    },
+    "NV36": {
+        "lat": 36.4477005005,
+        "long": -116.4540023804,
+        "name": "Imvite ",
+        "state": "Nevada"
+    },
+    "NV41": {
+        "lat": 40.8638000488,
+        "long": -118.7350006104,
+        "name": "Sulfur ",
+        "state": "Nevada"
+    },
+    "NV44": {
+        "lat": 39.7551994324,
+        "long": -119.5989990234,
+        "name": "Justover Field",
+        "state": "Nevada"
+    },
+    "NV47": {
+        "lat": 39.8331985474,
+        "long": -119.6819992065,
+        "name": "Palomino ",
+        "state": "Nevada"
+    },
+    "NV54": {
+        "lat": 36.3069992065,
+        "long": -115.9889984131,
+        "name": "Flying S Ranch Ultralightport",
+        "state": "Nevada"
+    },
+    "NV55": {
+        "lat": 38.8988990784,
+        "long": -119.6490020752,
+        "name": "Pinenut ",
+        "state": "Nevada"
+    },
+    "NV56": {
+        "lat": 38.7994003296,
+        "long": -117.1750030518,
+        "name": "Wine Glass Ranch ",
+        "state": "Nevada"
+    },
+    "NV64": {
+        "lat": 40.0083007813,
+        "long": -117.391998291,
+        "name": "Swanson Ranch 3 ",
+        "state": "Nevada"
+    },
+    "NV67": {
+        "lat": 41.1157989502,
+        "long": -114.1139984131,
+        "name": "Pilot Creek Ranches ",
+        "state": "Nevada"
+    },
+    "NV68": {
+        "lat": 41.565700531,
+        "long": -117.8089981079,
+        "name": "Pine Grove ",
+        "state": "Nevada"
+    },
+    "NV72": {
+        "lat": 38.5097999573,
+        "long": -119.217002869,
+        "name": "Sweetwater (USMC) ",
+        "state": "Nevada"
+    },
+    "NV74": {
+        "lat": 36.2710990906,
+        "long": -115.9950027466,
+        "name": "Calvada Meadows ",
+        "state": "Nevada"
+    },
+    "NV77": {
+        "lat": 40.4356994629,
+        "long": -119.4619979858,
+        "name": "Empire Farms ",
+        "state": "Nevada"
+    },
+    "NV83": {
+        "lat": 38.694098,
+        "long": -117.146752,
+        "name": "Hadley ",
+        "state": "Nevada"
+    },
+    "NV96": {
+        "lat": 39.8252983093,
+        "long": -119.6539993286,
+        "name": "Rolling Thunder ",
+        "state": "Nevada"
+    },
+    "NV97": {
+        "lat": 38.6842002869,
+        "long": -119.3219985962,
+        "name": "Desert Creek ",
+        "state": "Nevada"
+    },
+    "NV98": {
+        "lat": 36.1502990723,
+        "long": -115.9000015259,
+        "name": "Caas ",
+        "state": "Nevada"
+    }
+}

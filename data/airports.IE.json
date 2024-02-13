@@ -1,0 +1,212 @@
+{
+  "EIAB": {
+    "lat": 53.5917015076,
+    "long": -7.6455597878,
+    "name": "Abbeyshrule Aerodrome"
+  },
+  "EIBA": {
+    "lat": 53.5336990356,
+    "long": -6.2460699081,
+    "name": "Ballyboughal Aerodrome"
+  },
+  "EIBB": {
+    "lat": 52.8511009216,
+    "long": -6.0766401291,
+    "name": "Brittas Bay "
+  },
+  "EIBN": {
+    "lat": 51.668598175,
+    "long": -9.48416996,
+    "name": "Bantry Aerodrome"
+  },
+  "EIBR": {
+    "lat": 53.0705986023,
+    "long": -7.8983302116,
+    "name": "Birr Aerodrome"
+  },
+  "EIBT": {
+    "lat": 54.2228012085,
+    "long": -10.0307998657,
+    "name": "Belmullet Aerodrome"
+  },
+  "EICA": {
+    "lat": 53.2303009033,
+    "long": -9.4677801132,
+    "name": "Connemara Regional "
+  },
+  "EICB": {
+    "lat": 53.848400116,
+    "long": -9.2803697586,
+    "name": "Castlebar "
+  },
+  "EICD": {
+    "lat": 52.3333320618,
+    "long": -6.4666671753,
+    "name": "Castlebridge "
+  },
+  "EICK": {
+    "lat": 51.8413009644,
+    "long": -8.491109848,
+    "name": "Cork "
+  },
+  "EICL": {
+    "lat": 53.2496566772,
+    "long": -7.1227455139,
+    "name": "Clonbullogue Aerodrome"
+  },
+  "EICM": {
+    "lat": 53.300201416,
+    "long": -8.9415903091,
+    "name": "Galway "
+  },
+  "EICN": {
+    "lat": 52.6665000916,
+    "long": -8.6818304062,
+    "name": "Coonagh Aerodrome"
+  },
+  "EICS": {
+    "lat": 53.778301239,
+    "long": -7.8352799416,
+    "name": "Castleforbes "
+  },
+  "EIDL": {
+    "lat": 55.0442008972,
+    "long": -8.3409996033,
+    "name": "Donegal "
+  },
+  "EIDW": {
+    "lat": 53.4212989807,
+    "long": -6.270070076,
+    "name": "Dublin "
+  },
+  "EIER": {
+    "lat": 52.8125,
+    "long": -8.2822217941,
+    "name": "Erinagh "
+  },
+  "EIGN": {
+    "lat": 53.1786003113,
+    "long": -6.6352801323,
+    "name": "Gowran Grange Aerodrome"
+  },
+  "EIHN": {
+    "lat": 52.8549995422,
+    "long": -6.5472202301,
+    "name": "Hacketstown Aerodrome"
+  },
+  "EIIM": {
+    "lat": 53.1067008972,
+    "long": -9.6536102295,
+    "name": "Inishmore Aerodrome"
+  },
+  "EIIR": {
+    "lat": 53.0647010803,
+    "long": -9.5108995438,
+    "name": "Inisheer Aerodrome"
+  },
+  "EIKH": {
+    "lat": 53.0635986328,
+    "long": -6.8552799225,
+    "name": "Kildare Aerodrome"
+  },
+  "EIKI": {
+    "lat": 52.6329994202,
+    "long": -7.632999897,
+    "name": "Killenaule "
+  },
+  "EIKK": {
+    "lat": 52.6507987976,
+    "long": -7.2961101532,
+    "name": "Kilkenny "
+  },
+  "EIKN": {
+    "lat": 53.9103012085,
+    "long": -8.8184900284,
+    "name": "Ireland West Knock "
+  },
+  "EIKY": {
+    "lat": 52.1809005737,
+    "long": -9.5237798691,
+    "name": "Kerry "
+  },
+  "EILT": {
+    "lat": 54.9513015747,
+    "long": -7.6728301048,
+    "name": "Letterkenny "
+  },
+  "EIME": {
+    "lat": 53.301700592,
+    "long": -6.4513301849,
+    "name": "Casement Air Base"
+  },
+  "EIMG": {
+    "lat": 52.8499984741,
+    "long": -7.9829998016,
+    "name": "Moneygall Aerodrome"
+  },
+  "EIMH": {
+    "lat": 53.6377792358,
+    "long": -6.8786110878,
+    "name": "Athboy "
+  },
+  "EIMN": {
+    "lat": 53.0929985046,
+    "long": -9.5680599213,
+    "name": "Inishmaan Aerodrome"
+  },
+  "EIMY": {
+    "lat": 52.7030982971,
+    "long": -7.7052798271,
+    "name": "Moyne Aerodrome"
+  },
+  "EINC": {
+    "lat": 53.0710983276,
+    "long": -6.0452799797,
+    "name": "Newcastle Aerodrome"
+  },
+  "EINN": {
+    "lat": 52.7019996643,
+    "long": -8.9248199463,
+    "name": "Shannon "
+  },
+  "EIPT": {
+    "lat": 53.178301,
+    "long": -6.196495,
+    "name": "Powerscourt Airfield"
+  },
+  "EIRT": {
+    "lat": 52.1055984497,
+    "long": -8.9833297729,
+    "name": "Rathcoole Aerodrome"
+  },
+  "EISG": {
+    "lat": 54.2802009583,
+    "long": -8.5992097855,
+    "name": "Sligo "
+  },
+  "EISP": {
+    "lat": 52.8497009277,
+    "long": -9.4169998169,
+    "name": "Spanish Point "
+  },
+  "EITM": {
+    "lat": 53.5746994019,
+    "long": -6.7386097908,
+    "name": "Trim Aerodrome"
+  },
+  "EITT": {
+    "lat": 53.5486106873,
+    "long": -6.5169439316,
+    "name": "Trevet Airfield"
+  },
+  "EIWF": {
+    "lat": 52.1871986389,
+    "long": -7.0869598389,
+    "name": "Waterford "
+  },
+  "EIWT": {
+    "lat": 53.3521995544,
+    "long": -6.4861102104,
+    "name": "Weston "
+  }
+}

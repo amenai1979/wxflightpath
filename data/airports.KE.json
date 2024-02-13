@@ -1,0 +1,242 @@
+{
+  "HKAM": {
+    "lat": -2.6450500488,
+    "long": 37.2531013489,
+    "name": "Amboseli "
+  },
+  "HKBR": {
+    "lat": -1.1000000238,
+    "long": 39.9500007629,
+    "name": "Bura East "
+  },
+  "HKEL": {
+    "lat": 0.4044579864,
+    "long": 35.238899231,
+    "name": "Eldoret International "
+  },
+  "HKEM": {
+    "lat": -0.5669999719,
+    "long": 37.483001709,
+    "name": "Embu "
+  },
+  "HKES": {
+    "lat": 3.2166700363,
+    "long": 35.9667015076,
+    "name": "Eliye Springs "
+  },
+  "HKEW": {
+    "lat": 2.7330000401,
+    "long": 40.9329986572,
+    "name": "El Wak "
+  },
+  "HKFG": {
+    "lat": 3.4830000401,
+    "long": 35.8330001831,
+    "name": "Kalokol "
+  },
+  "HKGA": {
+    "lat": -0.4635080099,
+    "long": 39.6483001709,
+    "name": "Garissa "
+  },
+  "HKGT": {
+    "lat": 0.5329999924,
+    "long": 38.516998291,
+    "name": "Garba Tula "
+  },
+  "HKHB": {
+    "lat": -0.6000000238,
+    "long": 34.466999054,
+    "name": "Homa Bay "
+  },
+  "HKHO": {
+    "lat": -1.5219999552,
+    "long": 40.0040016174,
+    "name": "Hola "
+  },
+  "HKIS": {
+    "lat": 0.3381709456,
+    "long": 37.5916938782,
+    "name": "Isiolo "
+  },
+  "HKJK": {
+    "lat": -1.319239974,
+    "long": 36.9277992249,
+    "name": "Jomo Kenyatta International "
+  },
+  "HKKB": {
+    "lat": -0.6330000162,
+    "long": 37.8829994202,
+    "name": "Kiambere "
+  },
+  "HKKE": {
+    "lat": -1.5829999447,
+    "long": 35.25,
+    "name": "Keekorok "
+  },
+  "HKKG": {
+    "lat": 0.2713420093,
+    "long": 34.7873001099,
+    "name": "Kakamega "
+  },
+  "HKKI": {
+    "lat": -0.086139001,
+    "long": 34.7289009094,
+    "name": "Kisumu "
+  },
+  "HKKL": {
+    "lat": -2.9106099606,
+    "long": 38.0652008057,
+    "name": "Kilaguni "
+  },
+  "HKKR": {
+    "lat": -0.4169999957,
+    "long": 35.25,
+    "name": "Kericho "
+  },
+  "HKKS": {
+    "lat": -0.6669999957,
+    "long": 34.7000007629,
+    "name": "Kisii "
+  },
+  "HKKT": {
+    "lat": 0.971988976,
+    "long": 34.9585990906,
+    "name": "Kitale "
+  },
+  "HKKU": {
+    "lat": -1.372789979,
+    "long": 37.978099823,
+    "name": "Kitui "
+  },
+  "HKLG": {
+    "lat": 4.3789000511,
+    "long": 35.6589012146,
+    "name": "Lokitaung "
+  },
+  "HKLK": {
+    "lat": 4.2041201591,
+    "long": 34.3482017517,
+    "name": "Lokichoggio "
+  },
+  "HKLO": {
+    "lat": 3.1219699383,
+    "long": 35.6086997986,
+    "name": "Lodwar "
+  },
+  "HKLU": {
+    "lat": -2.2524199486,
+    "long": 40.9131011963,
+    "name": "Manda Airstrip"
+  },
+  "HKLY": {
+    "lat": 2.75,
+    "long": 36.716999054,
+    "name": "Loyengalani "
+  },
+  "HKMA": {
+    "lat": 3.9330000877,
+    "long": 41.8499984741,
+    "name": "Mandera "
+  },
+  "HKMB": {
+    "lat": 2.3499999046,
+    "long": 37.983001709,
+    "name": "Segel "
+  },
+  "HKMI": {
+    "lat": 0.9499999881,
+    "long": 36.7999992371,
+    "name": "Maralal (Kisima) "
+  },
+  "HKMK": {
+    "lat": 0.165083006,
+    "long": 38.1951408386,
+    "name": "Mulika Lodge "
+  },
+  "HKML": {
+    "lat": -3.2293100357,
+    "long": 40.1016998291,
+    "name": "Malindi "
+  },
+  "HKMM": {
+    "lat": -1.1169999838,
+    "long": 34.483001709,
+    "name": "Migori "
+  },
+  "HKMO": {
+    "lat": -4.0348300934,
+    "long": 39.5942001343,
+    "name": "Mombasa Moi International "
+  },
+  "HKMS": {
+    "lat": -1.406111002,
+    "long": 35.0080566406,
+    "name": "Mara Serena Lodge Airstrip"
+  },
+  "HKMY": {
+    "lat": 3.4697198868,
+    "long": 39.101398468,
+    "name": "Moyale "
+  },
+  "HKNI": {
+    "lat": -0.3644140065,
+    "long": 36.9784851074,
+    "name": "Nyeri "
+  },
+  "HKNK": {
+    "lat": -0.2980670035,
+    "long": 36.1593017578,
+    "name": "Nakuru "
+  },
+  "HKNO": {
+    "lat": -1.1499999762,
+    "long": 35.766998291,
+    "name": "Narok "
+  },
+  "HKNV": {
+    "lat": -0.7879530191,
+    "long": 36.4334983826,
+    "name": "Naivasha "
+  },
+  "HKNW": {
+    "lat": -1.3217200041,
+    "long": 36.8148002625,
+    "name": "Nairobi Wilson "
+  },
+  "HKNY": {
+    "lat": -0.0623988993,
+    "long": 37.0410079956,
+    "name": "Nanyuki "
+  },
+  "HKRE": {
+    "lat": -1.2772699594,
+    "long": 36.8623008728,
+    "name": "Moi Air Base"
+  },
+  "HKSB": {
+    "lat": 0.530583024,
+    "long": 37.5341949463,
+    "name": "Samburu South "
+  },
+  "HKUK": {
+    "lat": -4.2933301926,
+    "long": 39.5710983276,
+    "name": "Ukunda Airstrip"
+  },
+  "HKVO": {
+    "lat": -3.3745388985,
+    "long": 38.5347480774,
+    "name": "Voi "
+  },
+  "HKWE": {
+    "lat": 0.6169999838,
+    "long": 34.783000946,
+    "name": "Webuye "
+  },
+  "HKWJ": {
+    "lat": 1.7332400084,
+    "long": 40.0915985107,
+    "name": "Wajir "
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "VDBG": {
+    "lat": 13.0956001282,
+    "long": 103.2239990234,
+    "name": "Battambang "
+  },
+  "VDKC": {
+    "lat": 12.0329999924,
+    "long": 105.4329986572,
+    "name": "Kompong Cham "
+  },
+  "VDKH": {
+    "lat": 12.255200386,
+    "long": 104.5640029907,
+    "name": "Kampong Chhnang "
+  },
+  "VDKK": {
+    "lat": 11.6133971186,
+    "long": 102.997083664,
+    "name": "Kaoh Kong "
+  },
+  "VDKT": {
+    "lat": 12.4879999161,
+    "long": 106.0550003052,
+    "name": "Kratie "
+  },
+  "VDMK": {
+    "lat": 12.4636479116,
+    "long": 107.187252045,
+    "name": "Mondulkiri "
+  },
+  "VDPP": {
+    "lat": 11.5466003418,
+    "long": 104.84400177,
+    "name": "Phnom Penh International "
+  },
+  "VDRK": {
+    "lat": 13.7299995422,
+    "long": 106.9869995117,
+    "name": "Ratanakiri "
+  },
+  "VDSR": {
+    "lat": 13.4106998444,
+    "long": 103.81300354,
+    "name": "Angkor International "
+  },
+  "VDST": {
+    "lat": 13.5319004059,
+    "long": 106.0149993896,
+    "name": "Stung Treng "
+  },
+  "VDSV": {
+    "lat": 10.57970047,
+    "long": 103.637001038,
+    "name": "Sihanoukville International "
+  }
+}

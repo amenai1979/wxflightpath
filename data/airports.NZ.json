@@ -1,0 +1,647 @@
+{
+  "NZAA": {
+    "lat": -37.0080986023,
+    "long": 174.7920074463,
+    "name": "Auckland International "
+  },
+  "NZAE": {
+    "lat": -38.233001709,
+    "long": 176.516998291,
+    "name": "Mount Tarawera "
+  },
+  "NZAG": {
+    "lat": -36.7317008972,
+    "long": 175.6499938965,
+    "name": "Matarangi "
+  },
+  "NZAN": {
+    "lat": -40.6981010437,
+    "long": 175.8560028076,
+    "name": "Alfredton "
+  },
+  "NZAP": {
+    "lat": -38.7397003174,
+    "long": 176.0839996338,
+    "name": "Taupo "
+  },
+  "NZAR": {
+    "lat": -37.0297012329,
+    "long": 174.9730072021,
+    "name": "Ardmore "
+  },
+  "NZAS": {
+    "lat": -43.903301239,
+    "long": 171.7969970703,
+    "name": "Ashburton Aerodrome"
+  },
+  "NZBA": {
+    "lat": -46.2433013916,
+    "long": 169.75,
+    "name": "Balclutha Aerodrome"
+  },
+  "NZCB": {
+    "lat": -46.0400009155,
+    "long": 168.31199646,
+    "name": "Centre Bush Aerodrome"
+  },
+  "NZCH": {
+    "lat": -43.4893989563,
+    "long": 172.5319976807,
+    "name": "Christchurch International "
+  },
+  "NZCI": {
+    "lat": -43.8100013733,
+    "long": -176.4570007324,
+    "name": "Chatham Islands-Tuuta "
+  },
+  "NZCS": {
+    "lat": -45.0485992432,
+    "long": 169.171005249,
+    "name": "Cromwell Racecourse Aerodrome"
+  },
+  "NZCX": {
+    "lat": -36.7916984558,
+    "long": 175.5090026855,
+    "name": "Coromandel Aerodrome"
+  },
+  "NZDA": {
+    "lat": -35.9397010803,
+    "long": 173.8939971924,
+    "name": "Dargaville Aerodrome"
+  },
+  "NZDN": {
+    "lat": -45.9281005859,
+    "long": 170.1979980469,
+    "name": "Dunedin "
+  },
+  "NZDV": {
+    "lat": -40.2282981873,
+    "long": 176.078994751,
+    "name": "Dannevirke Aerodrome"
+  },
+  "NZES": {
+    "lat": -38.1483001709,
+    "long": 175.5500030518,
+    "name": "Wharepapa South "
+  },
+  "NZFF": {
+    "lat": -43.385799408,
+    "long": 172.3609924316,
+    "name": "Forest Field Aerodrome"
+  },
+  "NZFI": {
+    "lat": -40.2557983398,
+    "long": 175.6049957275,
+    "name": "Feilding "
+  },
+  "NZFJ": {
+    "lat": -43.3630981445,
+    "long": 170.1340026855,
+    "name": "Franz Josef Aerodrome"
+  },
+  "NZFP": {
+    "lat": -40.4566993713,
+    "long": 175.2700042725,
+    "name": "Foxpine Aerodrome"
+  },
+  "NZFT": {
+    "lat": -41.2433013916,
+    "long": 175.9600067139,
+    "name": "Flat Point Aerodrome"
+  },
+  "NZGA": {
+    "lat": -38.4039001465,
+    "long": 176.7440032959,
+    "name": "Galatea Airfield"
+  },
+  "NZGB": {
+    "lat": -36.2414016724,
+    "long": 175.4720001221,
+    "name": "Great Barrier Aerodrome"
+  },
+  "NZGC": {
+    "lat": -46.1567001343,
+    "long": 168.8979949951,
+    "name": "Gore3 "
+  },
+  "NZGM": {
+    "lat": -42.4617004395,
+    "long": 171.1900024414,
+    "name": "Greymouth "
+  },
+  "NZGR": {
+    "lat": -36.5974998474,
+    "long": 175.766998291,
+    "name": "Great Mercury "
+  },
+  "NZGS": {
+    "lat": -38.6632995605,
+    "long": 177.9779968262,
+    "name": "Gisborne "
+  },
+  "NZGT": {
+    "lat": -43.9067001343,
+    "long": 170.1280059814,
+    "name": "Glentanner "
+  },
+  "NZGY": {
+    "lat": -44.8717002869,
+    "long": 168.3979949951,
+    "name": "Glenorchy "
+  },
+  "NZHA": {
+    "lat": -39.5532989502,
+    "long": 174.266998291,
+    "name": "Hawera "
+  },
+  "NZHB": {
+    "lat": -36.7916984558,
+    "long": 174.6640014648,
+    "name": "Auckland Hobsonville "
+  },
+  "NZHK": {
+    "lat": -42.7136001587,
+    "long": 170.9850006104,
+    "name": "Hokitika Airfield"
+  },
+  "NZHN": {
+    "lat": -37.8666992188,
+    "long": 175.332000732,
+    "name": "Hamilton International "
+  },
+  "NZHP": {
+    "lat": -42.6012001038,
+    "long": 171.699005127,
+    "name": "Lake Haupiri/Gloriavale Christian Community "
+  },
+  "NZHR": {
+    "lat": -42.5508003235,
+    "long": 172.8269958496,
+    "name": "Hanmer Springs "
+  },
+  "NZHS": {
+    "lat": -39.6467018127,
+    "long": 176.766998291,
+    "name": "Hastings "
+  },
+  "NZHT": {
+    "lat": -43.8652992249,
+    "long": 169.0410003662,
+    "name": "Haast Aerodrome"
+  },
+  "NZKC": {
+    "lat": -37.2560997009,
+    "long": 175.0720062256,
+    "name": "Kelly Field"
+  },
+  "NZKD": {
+    "lat": -36.1781005859,
+    "long": 175.324005127,
+    "name": "Motu Kaikoura Island Aerodrome"
+  },
+  "NZKE": {
+    "lat": -36.8088989258,
+    "long": 175.0859985352,
+    "name": "Waiheke Reeve "
+  },
+  "NZKF": {
+    "lat": -36.4063987732,
+    "long": 174.5870056152,
+    "name": "Kaipara Flats "
+  },
+  "NZKI": {
+    "lat": -42.4249992371,
+    "long": 173.6049957275,
+    "name": "Kaikoura "
+  },
+  "NZKK": {
+    "lat": -35.2627983093,
+    "long": 173.9120025635,
+    "name": "Kerikeri "
+  },
+  "NZKM": {
+    "lat": -41.2366981506,
+    "long": 172.1049957275,
+    "name": "Karamea "
+  },
+  "NZKO": {
+    "lat": -35.4510993958,
+    "long": 173.8170013428,
+    "name": "Kaikohe "
+  },
+  "NZKT": {
+    "lat": -35.0699996948,
+    "long": 173.2850036621,
+    "name": "Kaitaia "
+  },
+  "NZKY": {
+    "lat": -39.8460998535,
+    "long": 176.4230041504,
+    "name": "Kowhai Aerodrome"
+  },
+  "NZLD": {
+    "lat": -37.4799995422,
+    "long": 174.7449951172,
+    "name": "Limestone Downs "
+  },
+  "NZLE": {
+    "lat": -41.7592010498,
+    "long": 172.7460021973,
+    "name": "Lake Station "
+  },
+  "NZLX": {
+    "lat": -45.2117004395,
+    "long": 169.3730010986,
+    "name": "Alexandra "
+  },
+  "NZMA": {
+    "lat": -37.7344017029,
+    "long": 175.7420043945,
+    "name": "Matamata Glider "
+  },
+  "NZMC": {
+    "lat": -43.7649993896,
+    "long": 170.1329956055,
+    "name": "Mount Cook "
+  },
+  "NZME": {
+    "lat": -37.2574996948,
+    "long": 175.1150054932,
+    "name": "Mercer1 PDZ "
+  },
+  "NZMF": {
+    "lat": -44.6733016968,
+    "long": 167.9230041504,
+    "name": "Milford Sound "
+  },
+  "NZMJ": {
+    "lat": -44.3657989502,
+    "long": 168.0180053711,
+    "name": "Martins Bay Aerodrome"
+  },
+  "NZMK": {
+    "lat": -41.123298645,
+    "long": 172.9889984131,
+    "name": "Motueka "
+  },
+  "NZML": {
+    "lat": -42.0830001831,
+    "long": 173.2830047607,
+    "name": "Molesworth "
+  },
+  "NZMO": {
+    "lat": -45.5331001282,
+    "long": 167.6499938965,
+    "name": "Manapouri "
+  },
+  "NZMR": {
+    "lat": -41.7966995239,
+    "long": 172.3150024414,
+    "name": "Murchison "
+  },
+  "NZMS": {
+    "lat": -40.9733009338,
+    "long": 175.6340026855,
+    "name": "Hood "
+  },
+  "NZMT": {
+    "lat": -41.2141990662,
+    "long": 175.4859924316,
+    "name": "Martinborough "
+  },
+  "NZMW": {
+    "lat": -44.2317008972,
+    "long": 169.2299957275,
+    "name": "Makarora Airstrip"
+  },
+  "NZMZ": {
+    "lat": -37.5999984741,
+    "long": 176.0829925537,
+    "name": "Matakana Island "
+  },
+  "NZNE": {
+    "lat": -36.6567001343,
+    "long": 174.6549987793,
+    "name": "North Shore Aerodrome"
+  },
+  "NZNP": {
+    "lat": -39.0085983276,
+    "long": 174.1790008545,
+    "name": "New Plymouth "
+  },
+  "NZNR": {
+    "lat": -39.465801239,
+    "long": 176.8699951172,
+    "name": "Napier "
+  },
+  "NZNS": {
+    "lat": -41.2983016968,
+    "long": 173.220993042,
+    "name": "Nelson "
+  },
+  "NZNV": {
+    "lat": -46.412399292,
+    "long": 168.31300354,
+    "name": "Invercargill "
+  },
+  "NZOA": {
+    "lat": -44.4866981506,
+    "long": 169.9859924316,
+    "name": "Omarama Glider "
+  },
+  "NZOH": {
+    "lat": -40.2060012817,
+    "long": 175.3880004883,
+    "name": "RNZAF Base Ohakea"
+  },
+  "NZOI": {
+    "lat": -37.6329994202,
+    "long": 176.4170074463,
+    "name": "Motiti Island "
+  },
+  "NZOM": {
+    "lat": -41.5400009155,
+    "long": 173.9219970703,
+    "name": "Omaka Blenheim "
+  },
+  "NZOP": {
+    "lat": -38.0224990845,
+    "long": 177.3070068359,
+    "name": "Opotiki "
+  },
+  "NZOU": {
+    "lat": -44.9700012207,
+    "long": 171.0820007324,
+    "name": "Oamaru "
+  },
+  "NZOX": {
+    "lat": -36.1464004517,
+    "long": 175.4190063477,
+    "name": "Okiwi Station "
+  },
+  "NZPA": {
+    "lat": -35.2821998596,
+    "long": 174.091003418,
+    "name": "Paihia Private "
+  },
+  "NZPH": {
+    "lat": -43.5942001343,
+    "long": 171.5310058594,
+    "name": "Pudding Hill Aerodrome"
+  },
+  "NZPI": {
+    "lat": -36.6519012451,
+    "long": 174.4360046387,
+    "name": "Parakai Aerodrome"
+  },
+  "NZPK": {
+    "lat": -36.9282989502,
+    "long": 174.81199646,
+    "name": "Pikes Point "
+  },
+  "NZPM": {
+    "lat": -40.3205986023,
+    "long": 175.6170043945,
+    "name": "Palmerston North "
+  },
+  "NZPN": {
+    "lat": -41.3460998535,
+    "long": 173.9559936523,
+    "name": "Picton Aerodrome"
+  },
+  "NZPO": {
+    "lat": -40.2807998657,
+    "long": 176.6519927979,
+    "name": "Porangahau Aerodrome"
+  },
+  "NZPP": {
+    "lat": -40.9047012329,
+    "long": 174.9889984131,
+    "name": "Paraparaumu "
+  },
+  "NZQN": {
+    "lat": -45.0210990906,
+    "long": 168.738998413,
+    "name": "Queenstown International "
+  },
+  "NZRA": {
+    "lat": -37.8046989441,
+    "long": 174.8600006104,
+    "name": "Raglan Airfield"
+  },
+  "NZRC": {
+    "lat": -46.8997001648,
+    "long": 168.100997925,
+    "name": "Ryans Creek Aerodrome"
+  },
+  "NZRI": {
+    "lat": -44.0849990845,
+    "long": 171.4160003662,
+    "name": "Rangitata Island "
+  },
+  "NZRK": {
+    "lat": -38.8863983154,
+    "long": 176.3639984131,
+    "name": "Rangitaiki Airfield"
+  },
+  "NZRO": {
+    "lat": -38.1091995239,
+    "long": 176.3170013428,
+    "name": "Rotorua Regional "
+  },
+  "NZRT": {
+    "lat": -43.2900009155,
+    "long": 172.5420074463,
+    "name": "Rangiora Airfield"
+  },
+  "NZRU": {
+    "lat": -39.4463996887,
+    "long": 175.6580047607,
+    "name": "Waiouru "
+  },
+  "NZRW": {
+    "lat": -36.0971984863,
+    "long": 173.9770050049,
+    "name": "Ruawai Aerodrome"
+  },
+  "NZRX": {
+    "lat": -45.5116996765,
+    "long": 169.3170013428,
+    "name": "Roxburgh Aerodrome"
+  },
+  "NZSD": {
+    "lat": -39.318901062,
+    "long": 174.3099975586,
+    "name": "Stratford "
+  },
+  "NZSL": {
+    "lat": -36.323600769,
+    "long": 174.5559997559,
+    "name": "Springhill "
+  },
+  "NZTA": {
+    "lat": -37.4747009277,
+    "long": 175.6179962158,
+    "name": "Te Aroha Airfield"
+  },
+  "NZTE": {
+    "lat": -37.7442016602,
+    "long": 175.1609954834,
+    "name": "Te Kowhai Airfield"
+  },
+  "NZTG": {
+    "lat": -37.6719017029,
+    "long": 176.1959991455,
+    "name": "Tauranga "
+  },
+  "NZTH": {
+    "lat": -37.1567001343,
+    "long": 175.5500030518,
+    "name": "Thames Aerodrome"
+  },
+  "NZTI": {
+    "lat": -45.8600006104,
+    "long": 170.358001709,
+    "name": "Taieri "
+  },
+  "NZTK": {
+    "lat": -40.8133010864,
+    "long": 172.7749938965,
+    "name": "Takaka "
+  },
+  "NZTL": {
+    "lat": -44.0052986145,
+    "long": 170.444000244,
+    "name": "Tekapo Aerodrome"
+  },
+  "NZTM": {
+    "lat": -38.8394012451,
+    "long": 175.2619934082,
+    "name": "Taumarunui "
+  },
+  "NZTN": {
+    "lat": -38.9682998657,
+    "long": 175.8139953613,
+    "name": "Turangi "
+  },
+  "NZTO": {
+    "lat": -38.2366981506,
+    "long": 175.891998291,
+    "name": "Tokoroa Airfield"
+  },
+  "NZTS": {
+    "lat": -38.181098938,
+    "long": 174.7079925537,
+    "name": "Taharoa Aerodrome"
+  },
+  "NZTT": {
+    "lat": -38.3032989502,
+    "long": 175.1470031738,
+    "name": "Te Kuiti Airfield"
+  },
+  "NZTU": {
+    "lat": -44.3027992249,
+    "long": 171.2250061035,
+    "name": "Timaru "
+  },
+  "NZTZ": {
+    "lat": -45.4627990723,
+    "long": 167.7010040283,
+    "name": "Te Anau "
+  },
+  "NZUK": {
+    "lat": -44.2350006104,
+    "long": 170.117996216,
+    "name": "Pukaki "
+  },
+  "NZUN": {
+    "lat": -37.0217018127,
+    "long": 175.8639984131,
+    "name": "Pauanui Beach Glider "
+  },
+  "NZVL": {
+    "lat": -45.9902992249,
+    "long": 168.81199646,
+    "name": "Mandeville Aerodrome"
+  },
+  "NZVR": {
+    "lat": -39.6850013733,
+    "long": 175.7890014648,
+    "name": "Taihape "
+  },
+  "NZWB": {
+    "lat": -41.5182991028,
+    "long": 173.8699951172,
+    "name": "Woodbourne "
+  },
+  "NZWF": {
+    "lat": -44.7221984863,
+    "long": 169.2460021973,
+    "name": "Wanaka "
+  },
+  "NZWJ": {
+    "lat": -36.2969017029,
+    "long": 174.5229949951,
+    "name": "Wellsford "
+  },
+  "NZWK": {
+    "lat": -37.9206008911,
+    "long": 176.9140014648,
+    "name": "Whakatane "
+  },
+  "NZWL": {
+    "lat": -43.4766998291,
+    "long": 172.3970031738,
+    "name": "West Melton Aerodrome"
+  },
+  "NZWM": {
+    "lat": -44.7900009155,
+    "long": 171.0919952393,
+    "name": "Waimate "
+  },
+  "NZWN": {
+    "lat": -41.3272018433,
+    "long": 174.804992676,
+    "name": "Wellington International "
+  },
+  "NZWO": {
+    "lat": -39.0069007874,
+    "long": 177.4069976807,
+    "name": "Wairoa "
+  },
+  "NZWP": {
+    "lat": -36.7877998352,
+    "long": 174.6300048828,
+    "name": "RNZAF Base Auckland-Whenuapai"
+  },
+  "NZWR": {
+    "lat": -35.7682991028,
+    "long": 174.3650054932,
+    "name": "Whangarei "
+  },
+  "NZWS": {
+    "lat": -41.7380981445,
+    "long": 171.5809936523,
+    "name": "Westport "
+  },
+  "NZWT": {
+    "lat": -36.8316993713,
+    "long": 175.6790008545,
+    "name": "Whitianga "
+  },
+  "NZWU": {
+    "lat": -39.9622001648,
+    "long": 175.0249938965,
+    "name": "Wanganui "
+  },
+  "NZWV": {
+    "lat": -37.4300003052,
+    "long": 175.9519958496,
+    "name": "Waihi Beach "
+  },
+  "NZYP": {
+    "lat": -39.9967002869,
+    "long": 176.5370025635,
+    "name": "Waipukurau "
+  }
+}

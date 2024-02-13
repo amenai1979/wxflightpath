@@ -1,0 +1,322 @@
+{
+  "VTBD": {
+    "lat": 13.9125995636,
+    "long": 100.6070022583,
+    "name": "Don Mueang International "
+  },
+  "VTBH": {
+    "lat": 14.9493999481,
+    "long": 100.642997742,
+    "name": "Sa Pran Nak "
+  },
+  "VTBI": {
+    "lat": 14.0777997971,
+    "long": 101.3799972534,
+    "name": "Khao E To "
+  },
+  "VTBK": {
+    "lat": 14.1020002365,
+    "long": 99.9171981812,
+    "name": "Kamphaeng Saen "
+  },
+  "VTBL": {
+    "lat": 14.8746004105,
+    "long": 100.663002014,
+    "name": "Khok Kathiam "
+  },
+  "VTBN": {
+    "lat": 12.4172000885,
+    "long": 99.8694000244,
+    "name": "Prachuap Khiri Khan "
+  },
+  "VTBO": {
+    "lat": 12.274600029,
+    "long": 102.319000244,
+    "name": "Trat "
+  },
+  "VTBP": {
+    "lat": 11.7883996964,
+    "long": 99.8047027588,
+    "name": "Prachuap "
+  },
+  "VTBS": {
+    "lat": 13.6810998917,
+    "long": 100.7470016479,
+    "name": "Suvarnabhumi "
+  },
+  "VTBT": {
+    "lat": 13.2324259496,
+    "long": 100.956802368,
+    "name": "Bang Pra "
+  },
+  "VTBU": {
+    "lat": 12.6799001694,
+    "long": 101.0049972534,
+    "name": "U-Tapao International "
+  },
+  "VTBW": {
+    "lat": 13.7687997818,
+    "long": 102.3150024414,
+    "name": "Watthana Nakhon "
+  },
+  "VTCB": {
+    "lat": 19.5,
+    "long": 100.2829971313,
+    "name": "Phayao Ban Chiang Kham "
+  },
+  "VTCC": {
+    "lat": 18.7667999268,
+    "long": 98.962600708,
+    "name": "Chiang Mai International "
+  },
+  "VTCH": {
+    "lat": 19.3013000488,
+    "long": 97.9757995605,
+    "name": "Mae Hong Son "
+  },
+  "VTCI": {
+    "lat": 19.3719997406,
+    "long": 98.43699646,
+    "name": "Mae Hong Son "
+  },
+  "VTCL": {
+    "lat": 18.2709007263,
+    "long": 99.5042037964,
+    "name": "Lampang "
+  },
+  "VTCN": {
+    "lat": 18.8078994751,
+    "long": 100.7829971313,
+    "name": "Nan "
+  },
+  "VTCO": {
+    "lat": 18.546816,
+    "long": 99.012029,
+    "name": "Lamphun "
+  },
+  "VTCP": {
+    "lat": 18.1322002411,
+    "long": 100.1650009155,
+    "name": "Phrae "
+  },
+  "VTCR": {
+    "lat": 19.8854007721,
+    "long": 99.8267974854,
+    "name": "Chiang Rai "
+  },
+  "VTCS": {
+    "lat": 18.1830005646,
+    "long": 97.9329986572,
+    "name": "Mae Sariang "
+  },
+  "VTCT": {
+    "lat": 19.952299118,
+    "long": 99.8828964233,
+    "name": "Chiang Rai International "
+  },
+  "VTED": {
+    "lat": 17.3829994202,
+    "long": 102.8000030518,
+    "name": "Udorn Air Base"
+  },
+  "VTPB": {
+    "lat": 16.6760005951,
+    "long": 101.194999695,
+    "name": "Phetchabun "
+  },
+  "VTPH": {
+    "lat": 12.6361999512,
+    "long": 99.951499939,
+    "name": "Hua Hin "
+  },
+  "VTPI": {
+    "lat": 15.277299881,
+    "long": 100.29599762,
+    "name": "Takhli "
+  },
+  "VTPL": {
+    "lat": 16.824300766,
+    "long": 101.2509994507,
+    "name": "Sak Long "
+  },
+  "VTPM": {
+    "lat": 16.6998996735,
+    "long": 98.5450973511,
+    "name": "Mae Sot "
+  },
+  "VTPN": {
+    "lat": 15.6730003357,
+    "long": 100.1370010376,
+    "name": "Nakhon Sawan "
+  },
+  "VTPO": {
+    "lat": 17.2380008698,
+    "long": 99.8181991577,
+    "name": "Sukhothai "
+  },
+  "VTPP": {
+    "lat": 16.7828998566,
+    "long": 100.2789993286,
+    "name": "Phitsanulok "
+  },
+  "VTPR": {
+    "lat": 13.6686000824,
+    "long": 99.7313995361,
+    "name": "Photharam "
+  },
+  "VTPT": {
+    "lat": 16.8959999084,
+    "long": 99.2533035278,
+    "name": "Tak "
+  },
+  "VTPU": {
+    "lat": 17.6170005798,
+    "long": 100.0999984741,
+    "name": "Uttaradit "
+  },
+  "VTPY": {
+    "lat": 17.2341995239,
+    "long": 99.0578994751,
+    "name": "Khunan Phumipol "
+  },
+  "VTSA": {
+    "lat": 6.6613998413,
+    "long": 100.0800018311,
+    "name": "Khoun Khan "
+  },
+  "VTSB": {
+    "lat": 9.1325998306,
+    "long": 99.135597229,
+    "name": "Surat Thani "
+  },
+  "VTSC": {
+    "lat": 6.5199198723,
+    "long": 101.7429962158,
+    "name": "Narathiwat "
+  },
+  "VTSE": {
+    "lat": 10.7111997604,
+    "long": 99.3617019653,
+    "name": "Chumphon "
+  },
+  "VTSF": {
+    "lat": 8.5396203995,
+    "long": 99.9447021484,
+    "name": "Nakhon Si Thammarat "
+  },
+  "VTSG": {
+    "lat": 8.0991201401,
+    "long": 98.9861984253,
+    "name": "Krabi "
+  },
+  "VTSH": {
+    "lat": 7.186560154,
+    "long": 100.608001709,
+    "name": "Songkhla "
+  },
+  "VTSK": {
+    "lat": 6.7854599953,
+    "long": 101.1539993286,
+    "name": "Pattani "
+  },
+  "VTSM": {
+    "lat": 9.5477895737,
+    "long": 100.06199646,
+    "name": "Samui "
+  },
+  "VTSN": {
+    "lat": 8.4711503983,
+    "long": 99.9555969238,
+    "name": "Cha Ian "
+  },
+  "VTSP": {
+    "lat": 8.1132001877,
+    "long": 98.3169021606,
+    "name": "Phuket International "
+  },
+  "VTSR": {
+    "lat": 9.7776203156,
+    "long": 98.5855026245,
+    "name": "Ranong "
+  },
+  "VTSS": {
+    "lat": 6.9332098961,
+    "long": 100.392997742,
+    "name": "Hat Yai International "
+  },
+  "VTST": {
+    "lat": 7.5087399483,
+    "long": 99.6166000366,
+    "name": "Trang "
+  },
+  "VTUD": {
+    "lat": 17.3864002228,
+    "long": 102.788002014,
+    "name": "Udon Thani "
+  },
+  "VTUI": {
+    "lat": 17.1951007843,
+    "long": 104.1190032959,
+    "name": "Sakon Nakhon "
+  },
+  "VTUJ": {
+    "lat": 14.8683004379,
+    "long": 103.4980010986,
+    "name": "Surin "
+  },
+  "VTUK": {
+    "lat": 16.4666004181,
+    "long": 102.783996582,
+    "name": "Khon Kaen "
+  },
+  "VTUL": {
+    "lat": 17.4391002655,
+    "long": 101.7220001221,
+    "name": "Loei "
+  },
+  "VTUN": {
+    "lat": 14.9344997406,
+    "long": 102.07900238,
+    "name": "Khorat "
+  },
+  "VTUO": {
+    "lat": 15.2294998169,
+    "long": 103.2529983521,
+    "name": "Buri Ram "
+  },
+  "VTUQ": {
+    "lat": 14.9495000839,
+    "long": 102.31300354,
+    "name": "Nakhon Ratchasima "
+  },
+  "VTUR": {
+    "lat": 16.070400238,
+    "long": 103.6460037231,
+    "name": "Rob Muang "
+  },
+  "VTUU": {
+    "lat": 15.2512998581,
+    "long": 104.870002747,
+    "name": "Ubon Ratchathani "
+  },
+  "VTUV": {
+    "lat": 16.1168003082,
+    "long": 103.7740020752,
+    "name": "Roi Et "
+  },
+  "VTUW": {
+    "lat": 17.3838005066,
+    "long": 104.6429977417,
+    "name": "Nakhon Phanom "
+  },
+  "VTUZ": {
+    "lat": 16.6522006989,
+    "long": 102.9670028687,
+    "name": "Nam Phung Dam "
+  },
+  "YTBF": {
+    "lat": 12.8325,
+    "long": 100.949444444,
+    "name": "Pattaya Airpark"
+  }
+}

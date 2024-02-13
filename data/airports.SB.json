@@ -1,0 +1,157 @@
+{
+  "AGAF": {
+    "lat": -9.1913888889,
+    "long": 160.948611111,
+    "name": "Afutara Aerodrome"
+  },
+  "AGAR": {
+    "lat": -9.8605435826,
+    "long": 161.979546547,
+    "name": "Ulawa "
+  },
+  "AGAT": {
+    "lat": -8.8733301163,
+    "long": 161.0110015869,
+    "name": "Uru Harbour "
+  },
+  "AGBA": {
+    "lat": -7.912779808,
+    "long": 156.7059936523,
+    "name": "Barakoma "
+  },
+  "AGBT": {
+    "lat": -8.5620277778,
+    "long": 158.119305556,
+    "name": "Batuna Aerodrome"
+  },
+  "AGEV": {
+    "lat": -7.5758299828,
+    "long": 156.5970001221,
+    "name": "Geva "
+  },
+  "AGGA": {
+    "lat": -8.7025699616,
+    "long": 160.682006836,
+    "name": "Auki "
+  },
+  "AGGB": {
+    "lat": -11.3022222222,
+    "long": 159.798333333,
+    "name": "Bellona/Anua "
+  },
+  "AGGC": {
+    "lat": -6.711944,
+    "long": 156.396111,
+    "name": "Choiseul Bay "
+  },
+  "AGGE": {
+    "lat": -6.990745,
+    "long": 155.886656,
+    "name": "Ballalae "
+  },
+  "AGGF": {
+    "lat": -8.1075000763,
+    "long": 159.5769958496,
+    "name": "Fera/Maringe "
+  },
+  "AGGH": {
+    "lat": -9.4280004501,
+    "long": 160.0549926758,
+    "name": "Honiara International "
+  },
+  "AGGI": {
+    "lat": -9.7475004196,
+    "long": 159.8390045166,
+    "name": "Babanakira "
+  },
+  "AGGJ": {
+    "lat": -9.8683333333,
+    "long": 160.410555556,
+    "name": "Avu Avu "
+  },
+  "AGGK": {
+    "lat": -10.4497003555,
+    "long": 161.8979949951,
+    "name": "Ngorangora "
+  },
+  "AGGL": {
+    "lat": -10.7202997208,
+    "long": 165.7949981689,
+    "name": "Santa Cruz/Graciosa Bay/Luova "
+  },
+  "AGGM": {
+    "lat": -8.3279695511,
+    "long": 157.2630004883,
+    "name": "Munda "
+  },
+  "AGGN": {
+    "lat": -8.0977802277,
+    "long": 156.863998413,
+    "name": "Nusatupe "
+  },
+  "AGGO": {
+    "lat": -7.4169402122,
+    "long": 155.5650024414,
+    "name": "Mono "
+  },
+  "AGGP": {
+    "lat": -9.6416702271,
+    "long": 161.4250030518,
+    "name": "Parasi "
+  },
+  "AGGR": {
+    "lat": -11.5339002609,
+    "long": 160.06300354,
+    "name": "Rennell/Tingoa "
+  },
+  "AGGS": {
+    "lat": -8.5788898468,
+    "long": 157.8760070801,
+    "name": "Sege "
+  },
+  "AGGT": {
+    "lat": -10.847994,
+    "long": 162.454108,
+    "name": "Santa Ana "
+  },
+  "AGGU": {
+    "lat": -9.8616695404,
+    "long": 160.824996948,
+    "name": "Marau "
+  },
+  "AGGV": {
+    "lat": -7.585559845,
+    "long": 158.7310028076,
+    "name": "Suavanao "
+  },
+  "AGGY": {
+    "lat": -9.092816,
+    "long": 159.21841,
+    "name": "Yandina "
+  },
+  "AGKG": {
+    "lat": -7.3330001831,
+    "long": 157.5829925537,
+    "name": "Kagau Island "
+  },
+  "AGKW": {
+    "lat": -8.360508,
+    "long": 160.775127,
+    "name": "Kwailabesi "
+  },
+  "AGOK": {
+    "lat": -8.739167,
+    "long": 158.203056,
+    "name": "Gatokae "
+  },
+  "AGRC": {
+    "lat": -8.1263904572,
+    "long": 157.1430053711,
+    "name": "Ringi Cove "
+  },
+  "AGRM": {
+    "lat": -8.1680603027,
+    "long": 157.6430053711,
+    "name": "Ramata "
+  }
+}

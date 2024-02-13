@@ -1,0 +1,802 @@
+{
+  "SOML": {
+    "lat": -7.6333298683,
+    "long": -78.6500015259,
+    "name": "Malin "
+  },
+  "SPAA": {
+    "lat": -9.0514287949,
+    "long": -77.8101425171,
+    "name": "Caraz "
+  },
+  "SPAB": {
+    "lat": -5.256770134,
+    "long": -79.4429016113,
+    "name": "Huancabamba "
+  },
+  "SPAC": {
+    "lat": -4.5669999123,
+    "long": -77.9169998169,
+    "name": "Ciro Alegria "
+  },
+  "SPAG": {
+    "lat": -9.0374097824,
+    "long": -75.5092010498,
+    "name": "Aguaytia "
+  },
+  "SPAI": {
+    "lat": -7.7833333015,
+    "long": -78.0999984741,
+    "name": "Urpay "
+  },
+  "SPAL": {
+    "lat": -6.5,
+    "long": -76.7166976929,
+    "name": "Alao "
+  },
+  "SPAM": {
+    "lat": -16.6329994202,
+    "long": -72.6829986572,
+    "name": "Camana "
+  },
+  "SPAN": {
+    "lat": -4.9038887024,
+    "long": -80.6852798462,
+    "name": "Sullana "
+  },
+  "SPAO": {
+    "lat": -15.3538999557,
+    "long": -75.167098999,
+    "name": "San Juan Aposento "
+  },
+  "SPAP": {
+    "lat": -6.9000000954,
+    "long": -76.3830032349,
+    "name": "Picota "
+  },
+  "SPAR": {
+    "lat": -11.6829996109,
+    "long": -69.3330001831,
+    "name": "Alerta "
+  },
+  "SPAS": {
+    "lat": -2.7961299419,
+    "long": -76.4665985107,
+    "name": "Alferez FAP Alfredo Vladimir Sara Bauer "
+  },
+  "SPAT": {
+    "lat": -8.8333301544,
+    "long": -74.6832962036,
+    "name": "Aguas Calientes "
+  },
+  "SPAY": {
+    "lat": -10.7291002274,
+    "long": -73.7665023804,
+    "name": "Teniente General Gerardo Perez Pinedo "
+  },
+  "SPBA": {
+    "lat": -10.75,
+    "long": -77.7666702271,
+    "name": "Barranca "
+  },
+  "SPBB": {
+    "lat": -6.0188889503,
+    "long": -76.9883270264,
+    "name": "Moyobamba "
+  },
+  "SPBC": {
+    "lat": -3.9168601036,
+    "long": -70.5082015991,
+    "name": "Caballococha "
+  },
+  "SPBL": {
+    "lat": -7.0605602264,
+    "long": -76.5821990967,
+    "name": "Huallaga "
+  },
+  "SPBQ": {
+    "lat": -15.4833335876,
+    "long": -74.6833343506,
+    "name": "Nuevo Acari "
+  },
+  "SPBR": {
+    "lat": -11.4116001129,
+    "long": -69.4887008667,
+    "name": "Iberia "
+  },
+  "SPBS": {
+    "lat": -5.2883901596,
+    "long": -76.292098999,
+    "name": "Bellavista "
+  },
+  "SPBT": {
+    "lat": -10.7477779388,
+    "long": -74.2205581665,
+    "name": "Obenteni "
+  },
+  "SPBY": {
+    "lat": -5.8307499886,
+    "long": -81.0258026123,
+    "name": "Bayovar"
+  },
+  "SPCC": {
+    "lat": -9.865278244,
+    "long": -75.0088882446,
+    "name": "Ciudad Constitucion "
+  },
+  "SPCG": {
+    "lat": -7.743888855,
+    "long": -79.1863861084,
+    "name": "Casa Grande "
+  },
+  "SPCH": {
+    "lat": -8.1829996109,
+    "long": -76.516998291,
+    "name": "Tocache "
+  },
+  "SPCL": {
+    "lat": -8.3779401779,
+    "long": -74.5743026733,
+    "name": "Cap FAP David Abenzur Rengifo International "
+  },
+  "SPCM": {
+    "lat": -7.3366699219,
+    "long": -74.9914016724,
+    "name": "Contamana "
+  },
+  "SPCN": {
+    "lat": -15.9772224426,
+    "long": -73.1083297729,
+    "name": "Cunocuno "
+  },
+  "SPCP": {
+    "lat": -6.8330001831,
+    "long": -76.3330001831,
+    "name": "Pucacaca "
+  },
+  "SPCR": {
+    "lat": -15.5,
+    "long": -74.6666717529,
+    "name": "Acari Airbase "
+  },
+  "SPCT": {
+    "lat": -6.5500001907,
+    "long": -78.6500015259,
+    "name": "Chota "
+  },
+  "SPDO": {
+    "lat": -17.0454006195,
+    "long": -71.9837036133,
+    "name": "Mollendo "
+  },
+  "SPDR": {
+    "lat": -3.8060100079,
+    "long": -75.0392990112,
+    "name": "Trompeteros "
+  },
+  "SPEB": {
+    "lat": -3.3333001137,
+    "long": -71.8167037964,
+    "name": "Pebas "
+  },
+  "SPEE": {
+    "lat": -2.4540600777,
+    "long": -72.6706008911,
+    "name": "El Estrecho "
+  },
+  "SPEN": {
+    "lat": -10.1829996109,
+    "long": -75.1500015259,
+    "name": "Iscozasin "
+  },
+  "SPEO": {
+    "lat": -9.1496095657,
+    "long": -78.5238037109,
+    "name": "Teniente FAP Jaime A De Montreuil Morales "
+  },
+  "SPEP": {
+    "lat": -9.7681303024,
+    "long": -70.7064971924,
+    "name": "Puerto Esperanza "
+  },
+  "SPEQ": {
+    "lat": -17.1790008545,
+    "long": -70.9308013916,
+    "name": "Cesar Torke Podesta "
+  },
+  "SPEZ": {
+    "lat": -10.299200058,
+    "long": -74.9372024536,
+    "name": "Puerto Bermudez "
+  },
+  "SPFA": {
+    "lat": -14.709400177,
+    "long": -71.7311019897,
+    "name": "Fausa "
+  },
+  "SPGB": {
+    "lat": -4.0318799019,
+    "long": -77.7587966919,
+    "name": "Galilea "
+  },
+  "SPGM": {
+    "lat": -9.1330003738,
+    "long": -75.9499969482,
+    "name": "Tingo Maria "
+  },
+  "SPGP": {
+    "lat": -0.1190560013,
+    "long": -75.2479019165,
+    "name": "Gueppi\u00ad "
+  },
+  "SPGS": {
+    "lat": -6.9000000954,
+    "long": -78.6333312988,
+    "name": "Lagunas "
+  },
+  "SPGT": {
+    "lat": -9.9026098251,
+    "long": -74.9641036987,
+    "name": "Puerto Victoria "
+  },
+  "SPGU": {
+    "lat": -5.6347222328,
+    "long": -78.5305557251,
+    "name": "Bagua "
+  },
+  "SPHA": {
+    "lat": -13.3706998825,
+    "long": -76.1128997803,
+    "name": "Chincha "
+  },
+  "SPHC": {
+    "lat": -15.8699998856,
+    "long": -74.2473983765,
+    "name": "Chala "
+  },
+  "SPHI": {
+    "lat": -6.7874798775,
+    "long": -79.8281021118,
+    "name": "Capitan FAP Jose A Quinones Gonzales International "
+  },
+  "SPHL": {
+    "lat": -5.9847221375,
+    "long": -79.7452774048,
+    "name": "Olmos "
+  },
+  "SPHO": {
+    "lat": -13.154800415,
+    "long": -74.2043991089,
+    "name": "Coronel FAP Alfredo Mendivil Duarte "
+  },
+  "SPHU": {
+    "lat": -12.069899559,
+    "long": -75.1985015869,
+    "name": "Huancayo "
+  },
+  "SPHV": {
+    "lat": -9.926320076,
+    "long": -76.2339019775,
+    "name": "Huanuco Viejo "
+  },
+  "SPHY": {
+    "lat": -13.7063999176,
+    "long": -73.350402832,
+    "name": "Andahuaylas "
+  },
+  "SPHZ": {
+    "lat": -9.3474397659,
+    "long": -77.5983963013,
+    "name": "Comandante FAP German Arias Graziani "
+  },
+  "SPIA": {
+    "lat": -14.2000999451,
+    "long": -75.5738983154,
+    "name": "Ica "
+  },
+  "SPIL": {
+    "lat": -13.233300209,
+    "long": -70.7533035278,
+    "name": "Quince Air Base"
+  },
+  "SPIN": {
+    "lat": -10.9790000916,
+    "long": -69.5594024658,
+    "name": "Inapari "
+  },
+  "SPIP": {
+    "lat": -11.2829999924,
+    "long": -74.6330032349,
+    "name": "Satipo "
+  },
+  "SPIR": {
+    "lat": -13.0329999924,
+    "long": -71.266998291,
+    "name": "Patria "
+  },
+  "SPIS": {
+    "lat": -7.87169981,
+    "long": -77.547203064,
+    "name": "Pias "
+  },
+  "SPIT": {
+    "lat": -5.0859498978,
+    "long": -81.1528015137,
+    "name": "Paita "
+  },
+  "SPIY": {
+    "lat": -14.8000001907,
+    "long": -71.4329986572,
+    "name": "Yauri "
+  },
+  "SPIZ": {
+    "lat": -8.4670000076,
+    "long": -76.3499984741,
+    "name": "Uchiza "
+  },
+  "SPJA": {
+    "lat": -6.0678601265,
+    "long": -77.1600036621,
+    "name": "Juan Simons Vela "
+  },
+  "SPJB": {
+    "lat": -7.5999999046,
+    "long": -78.0500030518,
+    "name": "Pampa Grande "
+  },
+  "SPJC": {
+    "lat": -12.021900177,
+    "long": -77.1143035889,
+    "name": "Jorge Chavez International "
+  },
+  "SPJE": {
+    "lat": -5.5924801826,
+    "long": -78.7740020752,
+    "name": "Shumba "
+  },
+  "SPJI": {
+    "lat": -7.1690998077,
+    "long": -76.7285995483,
+    "name": "Juanjui "
+  },
+  "SPJJ": {
+    "lat": -11.7831001282,
+    "long": -75.4733963013,
+    "name": "Francisco Carle "
+  },
+  "SPJL": {
+    "lat": -15.4671001434,
+    "long": -70.158203125,
+    "name": "Inca Manco Capac International "
+  },
+  "SPJN": {
+    "lat": -15.3524999619,
+    "long": -75.1371994019,
+    "name": "San Juan de Marcona "
+  },
+  "SPJR": {
+    "lat": -7.1391801834,
+    "long": -78.489402771,
+    "name": "Mayor General FAP Armando Revoredo Iglesias "
+  },
+  "SPLA": {
+    "lat": -12.6667003632,
+    "long": -73.7332992554,
+    "name": "Luisiana "
+  },
+  "SPLC": {
+    "lat": -16.7915000916,
+    "long": -71.8865966797,
+    "name": "Mariano Melgar"
+  },
+  "SPLD": {
+    "lat": -6.8675999641,
+    "long": -78.1499023438,
+    "name": "Celendin "
+  },
+  "SPLG": {
+    "lat": -12.6415996552,
+    "long": -69.8375015259,
+    "name": "Lagarto Nuevo "
+  },
+  "SPLN": {
+    "lat": -6.3923101425,
+    "long": -77.5011978149,
+    "name": "San Nicolas "
+  },
+  "SPLO": {
+    "lat": -17.6949996948,
+    "long": -71.34400177,
+    "name": "Ilo "
+  },
+  "SPLP": {
+    "lat": -12.1606998444,
+    "long": -76.9989013672,
+    "name": "Las Palmas "
+  },
+  "SPLS": {
+    "lat": -8.4169998169,
+    "long": -75.1330032349,
+    "name": "Zorrillos "
+  },
+  "SPLT": {
+    "lat": -4.4486112595,
+    "long": -81.2755584717,
+    "name": "Lobitos "
+  },
+  "SPME": {
+    "lat": -3.5525300503,
+    "long": -80.381401062,
+    "name": "Capitan FAP Pedro Canga Rodriguez "
+  },
+  "SPMF": {
+    "lat": -11.3254003525,
+    "long": -74.5355987549,
+    "name": "Manuel Prado Ugarteche "
+  },
+  "SPMR": {
+    "lat": -11.9833335876,
+    "long": -77,
+    "name": "Santa Maria "
+  },
+  "SPMS": {
+    "lat": -5.8937702179,
+    "long": -76.1182022095,
+    "name": "Moises Benzaquen Rengifo "
+  },
+  "SPNC": {
+    "lat": -9.8788099289,
+    "long": -76.2048034668,
+    "name": "Alferez Fap David Figueroa Fernandini "
+  },
+  "SPNH": {
+    "lat": -13.1656999588,
+    "long": -75.0719985962,
+    "name": "Laguna Choclococha "
+  },
+  "SPNM": {
+    "lat": -11.5415000916,
+    "long": -73.1421966553,
+    "name": "Nuevo Mundo "
+  },
+  "SPNO": {
+    "lat": -11.7946996689,
+    "long": -77.1809005737,
+    "name": "Ancon "
+  },
+  "SPNP": {
+    "lat": -15.8000001907,
+    "long": -70.0500030518,
+    "name": "Ventilla "
+  },
+  "SPNR": {
+    "lat": -10.7779502869,
+    "long": -76.2513122559,
+    "name": "Ricran "
+  },
+  "SPNT": {
+    "lat": -3.5829999447,
+    "long": -74.75,
+    "name": "Intuto "
+  },
+  "SPNU": {
+    "lat": -12.2829999924,
+    "long": -70.8830032349,
+    "name": "Manu "
+  },
+  "SPOA": {
+    "lat": -6.9600300789,
+    "long": -76.7684020996,
+    "name": "Saposoa "
+  },
+  "SPOL": {
+    "lat": -11.9287004471,
+    "long": -77.0610961914,
+    "name": "Collique "
+  },
+  "SPON": {
+    "lat": -6.8967499733,
+    "long": -75.1521987915,
+    "name": "Orellana "
+  },
+  "SPOR": {
+    "lat": -15.3170003891,
+    "long": -72.3499984741,
+    "name": "Orcopampa "
+  },
+  "SPOS": {
+    "lat": -3.6737399101,
+    "long": -80.6523971558,
+    "name": "Zorritos "
+  },
+  "SPOV": {
+    "lat": -11.8999996185,
+    "long": -69.1669998169,
+    "name": "Shiringayoc/Hacienda Hda Mejia "
+  },
+  "SPOY": {
+    "lat": -16.2322216034,
+    "long": -73.611946106,
+    "name": "Atico "
+  },
+  "SPPA": {
+    "lat": -11.1330003738,
+    "long": -74.3499984741,
+    "name": "Puerto Ocopa "
+  },
+  "SPPB": {
+    "lat": -9.5330600739,
+    "long": -72.7568969727,
+    "name": "Tipishsa "
+  },
+  "SPPG": {
+    "lat": -10.6669998169,
+    "long": -77.8330001831,
+    "name": "Paramonga "
+  },
+  "SPPH": {
+    "lat": -7.1999998093,
+    "long": -75.3000030518,
+    "name": "Pampa Hermosa "
+  },
+  "SPPL": {
+    "lat": -8.5178203583,
+    "long": -76.4804992676,
+    "name": "Playa "
+  },
+  "SPPM": {
+    "lat": -15.1792001724,
+    "long": -73.2743988037,
+    "name": "Pomacocha "
+  },
+  "SPPN": {
+    "lat": -8.2925901413,
+    "long": -76.4395980835,
+    "name": "Palmas del Espino "
+  },
+  "SPPO": {
+    "lat": -10.0700998306,
+    "long": -75.5500030518,
+    "name": "Pozuzo "
+  },
+  "SPPP": {
+    "lat": -14.1559000015,
+    "long": -72.2837982178,
+    "name": "Huanacopampa "
+  },
+  "SPPY": {
+    "lat": -6.2018098831,
+    "long": -77.8561019897,
+    "name": "Chachapoyas "
+  },
+  "SPPZ": {
+    "lat": -9.8958330154,
+    "long": -75.1177749634,
+    "name": "Palcazu "
+  },
+  "SPQI": {
+    "lat": -12.6491003036,
+    "long": -73.0378036499,
+    "name": "Kiteni "
+  },
+  "SPQJ": {
+    "lat": -15.4666671753,
+    "long": -74.4333343506,
+    "name": "Jaqui "
+  },
+  "SPQN": {
+    "lat": -5.0669999123,
+    "long": -73.8669967651,
+    "name": "Requena "
+  },
+  "SPQR": {
+    "lat": -7.9666666985,
+    "long": -78.1999969482,
+    "name": "Quiruvilca "
+  },
+  "SPQT": {
+    "lat": -3.7847399712,
+    "long": -73.3087997437,
+    "name": "Coronel FAP Francisco Secada Vignetta International "
+  },
+  "SPQU": {
+    "lat": -16.3411006927,
+    "long": -71.5830993652,
+    "name": "Rodriguez Ballon International "
+  },
+  "SPRF": {
+    "lat": -14.2670001984,
+    "long": -70.4670028687,
+    "name": "San Rafael "
+  },
+  "SPRG": {
+    "lat": -13.5166664124,
+    "long": -76.0999984741,
+    "name": "San Regis "
+  },
+  "SPRL": {
+    "lat": -12.3166666031,
+    "long": -75.0666656494,
+    "name": "Imperial "
+  },
+  "SPRM": {
+    "lat": -11.1286001205,
+    "long": -75.3505020142,
+    "name": "Capitan FAP Leonardo Alvarino Herr "
+  },
+  "SPRU": {
+    "lat": -8.081410408,
+    "long": -79.1088027954,
+    "name": "Capitan FAP Carlos Martinez De Pinillos International "
+  },
+  "SPSA": {
+    "lat": -9.4499998093,
+    "long": -78.3000030518,
+    "name": "Casma "
+  },
+  "SPSE": {
+    "lat": -11.1417999268,
+    "long": -73.0335006714,
+    "name": "Sepahua "
+  },
+  "SPSF": {
+    "lat": -6.6166801453,
+    "long": -77.7667007446,
+    "name": "San Francisco "
+  },
+  "SPSI": {
+    "lat": -16.3670005798,
+    "long": -72.1669998169,
+    "name": "Siguas "
+  },
+  "SPSJ": {
+    "lat": -6.6164898872,
+    "long": -76.6884002686,
+    "name": "San Jose de Sisa "
+  },
+  "SPSL": {
+    "lat": -6.4166665077,
+    "long": -76.5333328247,
+    "name": "Lamas "
+  },
+  "SPSN": {
+    "lat": -6.5797200203,
+    "long": -76.262802124,
+    "name": "Shapaja "
+  },
+  "SPSO": {
+    "lat": -13.7448997498,
+    "long": -76.2202987671,
+    "name": "Capitan FAP Renan Elias Olivera International "
+  },
+  "SPSS": {
+    "lat": -8.6052780151,
+    "long": -74.304725647,
+    "name": "Masisea "
+  },
+  "SPST": {
+    "lat": -6.5087399483,
+    "long": -76.3731994629,
+    "name": "Cadete FAP Guillermo Del Castillo Paredes "
+  },
+  "SPSY": {
+    "lat": -11.8832998276,
+    "long": -69.1999969482,
+    "name": "Shiringayoc "
+  },
+  "SPTA": {
+    "lat": -4.5332999229,
+    "long": -73.5500030518,
+    "name": "Nauta "
+  },
+  "SPTE": {
+    "lat": -12.5329999924,
+    "long": -73.8000030518,
+    "name": "San Francisco "
+  },
+  "SPTI": {
+    "lat": -9.3830003738,
+    "long": -74.9670028687,
+    "name": "Puerto Inca "
+  },
+  "SPTN": {
+    "lat": -18.0533008575,
+    "long": -70.2758026123,
+    "name": "Coronel FAP Carlos Ciriani Santa Rosa International "
+  },
+  "SPTP": {
+    "lat": -4.5498099327,
+    "long": -81.2240982056,
+    "name": "El Pato Air Base"
+  },
+  "SPTQ": {
+    "lat": -17.2994995117,
+    "long": -70.6528015137,
+    "name": "Toquepala "
+  },
+  "SPTR": {
+    "lat": -8.9169998169,
+    "long": -74.733001709,
+    "name": "Tournavista "
+  },
+  "SPTU": {
+    "lat": -12.6135997772,
+    "long": -69.2285995483,
+    "name": "Padre Aldamiz International "
+  },
+  "SPTY": {
+    "lat": -13.9591665268,
+    "long": -73.185836792,
+    "name": "Tintay "
+  },
+  "SPUC": {
+    "lat": -7.8216400146,
+    "long": -78.0417022705,
+    "name": "Huamachuco "
+  },
+  "SPUR": {
+    "lat": -5.2057499886,
+    "long": -80.6164016724,
+    "name": "Capitan FAP Guillermo Concha Iberico International "
+  },
+  "SPVA": {
+    "lat": -5.6624999046,
+    "long": -78.6447219849,
+    "name": "Hacienda El Valor "
+  },
+  "SPVI": {
+    "lat": -10.8478441238,
+    "long": -76.2469558716,
+    "name": "Vicco "
+  },
+  "SPVL": {
+    "lat": -15.7670001984,
+    "long": -73.3669967651,
+    "name": "Caraveli "
+  },
+  "SPVR": {
+    "lat": -16.4291992188,
+    "long": -71.8377990723,
+    "name": "Vitor "
+  },
+  "SPYA": {
+    "lat": -6.6916999817,
+    "long": -79.7016983032,
+    "name": "Luya "
+  },
+  "SPYL": {
+    "lat": -4.5766401291,
+    "long": -81.2540969849,
+    "name": "Capitan Montes "
+  },
+  "SPYO": {
+    "lat": -7.4069399834,
+    "long": -79.568901062,
+    "name": "Pacasmayo "
+  },
+  "SPYU": {
+    "lat": -15.6189002991,
+    "long": -74.5361022949,
+    "name": "Yauca "
+  },
+  "SPZA": {
+    "lat": -14.8540000916,
+    "long": -74.9615020752,
+    "name": "Maria Reiche Neuman "
+  },
+  "SPZH": {
+    "lat": -7.2992801666,
+    "long": -76.774597168,
+    "name": "Pachiza "
+  },
+  "SPZO": {
+    "lat": -13.5356998444,
+    "long": -71.9387969971,
+    "name": "Alejandro Velasco Astete International "
+  },
+  "SPZT": {
+    "lat": -6.5741667747,
+    "long": -76.1366653442,
+    "name": "Chazuta "
+  }
+}

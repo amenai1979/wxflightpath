@@ -1,0 +1,162 @@
+{
+  "FBCO": {
+    "lat": -19.1170005798,
+    "long": 23.1000003815,
+    "name": "Camp Okavango "
+  },
+  "FBFT": {
+    "lat": -21.1595993042,
+    "long": 27.4745006561,
+    "name": "Francistown "
+  },
+  "FBGM": {
+    "lat": -19.3666305542,
+    "long": 22.1666660309,
+    "name": "Gumare "
+  },
+  "FBGZ": {
+    "lat": -21.6924991608,
+    "long": 21.6581001282,
+    "name": "Ghanzi "
+  },
+  "FBJW": {
+    "lat": -24.6023006439,
+    "long": 24.6909999847,
+    "name": "Jwaneng "
+  },
+  "FBKE": {
+    "lat": -17.8328990936,
+    "long": 25.162399292,
+    "name": "Kasane "
+  },
+  "FBKG": {
+    "lat": -23.6833000183,
+    "long": 22.8166999817,
+    "name": "Kang "
+  },
+  "FBKR": {
+    "lat": -19.1499996185,
+    "long": 23.783000946,
+    "name": "Khwai River Lodge "
+  },
+  "FBKY": {
+    "lat": -25.0499992371,
+    "long": 25.3166999817,
+    "name": "Kanye "
+  },
+  "FBMG": {
+    "lat": -23.1830005646,
+    "long": 27.466999054,
+    "name": "Machaneng "
+  },
+  "FBML": {
+    "lat": -24.389444444,
+    "long": 25.498611111,
+    "name": "Molepolole "
+  },
+  "FBMM": {
+    "lat": -20.3330001831,
+    "long": 23.8829994202,
+    "name": "Makalamabedi "
+  },
+  "FBMN": {
+    "lat": -19.9726009369,
+    "long": 23.4311008453,
+    "name": "Maun "
+  },
+  "FBNN": {
+    "lat": -19.3386001587,
+    "long": 22.153799057,
+    "name": "Nokaneng "
+  },
+  "FBNT": {
+    "lat": -20.2161006927,
+    "long": 26.1588993073,
+    "name": "Nata "
+  },
+  "FBNW": {
+    "lat": -24.6830005646,
+    "long": 25.9330005646,
+    "name": "Gaborone Notwane "
+  },
+  "FBOK": {
+    "lat": -23.0830001831,
+    "long": 21.8829994202,
+    "name": "Okwa "
+  },
+  "FBOR": {
+    "lat": -21.2667007446,
+    "long": 25.3166999817,
+    "name": "Orapa "
+  },
+  "FBPY": {
+    "lat": -22.5669994354,
+    "long": 27.1499996185,
+    "name": "Palapye "
+  },
+  "FBRK": {
+    "lat": -21,
+    "long": 24.3330001831,
+    "name": "Rakops "
+  },
+  "FBSK": {
+    "lat": -24.5552005768,
+    "long": 25.9181995392,
+    "name": "Sir Seretse Khama International "
+  },
+  "FBSN": {
+    "lat": -20.5534000397,
+    "long": 26.1158008575,
+    "name": "Sua Pan "
+  },
+  "FBSP": {
+    "lat": -22.0583000183,
+    "long": 27.8288002014,
+    "name": "Selebi Phikwe "
+  },
+  "FBSR": {
+    "lat": -22.4232997894,
+    "long": 26.7567005157,
+    "name": "Serowe "
+  },
+  "FBSV": {
+    "lat": -18.5205993652,
+    "long": 24.0767002106,
+    "name": "Savuti "
+  },
+  "FBSW": {
+    "lat": -18.3738994598,
+    "long": 21.8325996399,
+    "name": "Shakawe "
+  },
+  "FBTE": {
+    "lat": -24.0170001984,
+    "long": 21.8829994202,
+    "name": "Tshane "
+  },
+  "FBTL": {
+    "lat": -22.1891994476,
+    "long": 29.1268997192,
+    "name": "Limpopo Valley "
+  },
+  "FBTP": {
+    "lat": -24.2210998535,
+    "long": 25.3472995758,
+    "name": "Thebephatshwa "
+  },
+  "FBTS": {
+    "lat": -26.0333003998,
+    "long": 22.3999996185,
+    "name": "Tshabong "
+  },
+  "FBXB": {
+    "lat": -19.5505008698,
+    "long": 23.0548000336,
+    "name": "Xaxaba "
+  },
+  "FBXG": {
+    "lat": -19.0499992371,
+    "long": 23.0900001526,
+    "name": "Xugana "
+  }
+}
