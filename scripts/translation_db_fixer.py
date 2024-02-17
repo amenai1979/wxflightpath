@@ -35,4 +35,5 @@ def loaddb():
 
 
 if __name__ == '__main__':
-    dumpdb()
+    #dumpdb()
+    loaddb()

@@ -18,7 +18,7 @@ logging.basicConfig(
     ]
 )
 # Load the config file.
-configfile = '../default.cfg'  # replace with the correct config file if needed
+configfile = '../amenai.cfg'  # replace with the correct config file if needed
 config = ConfigParser()
 config.read(configfile)
 logging.info("loaded config file: %s", configfile)
@@ -26,4 +26,4 @@ logging.info("loaded config file: %s", configfile)
 # Load french airports
 from wxflightpath.coordinatesLoader import aerodromesDict
 
-frenchAirports = aerodromesDict()
+airports = aerodromesDict()

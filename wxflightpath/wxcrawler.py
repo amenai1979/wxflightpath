@@ -114,9 +114,15 @@ class Wxcrawler:
             rawResponse = request.urlopen(req, timeout=int(self._timeout))
             if rawResponse.getcode() == 200:
                 response = json.loads(dumps(load(rawResponse)))
-                result = (
-                    response['raw'], response['speech'], response['density_altitude'], response['pressure_altitude'],
-                    airfield)
+                try:
+                    result = (
+                        response['raw'], response['speech'], response['density_altitude'], response['pressure_altitude'],
+                        airfield)
+                except:
+                    result = (
+                        response['raw'], response['speech'], "density altitude unavailable", response['pressure_altitude'],
+                        airfield)
+                    pass
         except Exception as e:
             logging.exception("url %s Error: %s", req.get_full_url(), e)
             pass
@@ -173,7 +179,7 @@ class Wxcrawler:
             return None
 
     def formatObservationWX(self, result=None, lang='en'):
-        AirportNames = frenchAirports.ADictNames
+        AirportNames = airports.ADictNames
         textList = []
         ##for information only result = (response['raw'], response['speech'], response['density_altitude'], response['pressure_altitude'], airfield)
         if result and lang == 'en':
@@ -193,7 +199,13 @@ class Wxcrawler:
         elif result and lang == 'fr':
             textList.append("Ci-après l'observation météorologique de")
             textList.append(sayInternational(result[4]))
-            textList.append(AirportNames[result[4]])
+            try:
+                textList.append(AirportNames[result[4]])
+            except:
+                textList.append("unkown name")
+                pass
+
+
             textList.append("émise le jour")
             textList.append(sayNumbers(self.extractTime(result[0])[0], lang='fr'))
             textList.append("du mois, à l'heure UTC")
@@ -207,7 +219,7 @@ class Wxcrawler:
         return ' '.join(textList)
 
     def formatForecastWX(self, result=None, lang='en'):
-        AirportNames = frenchAirports.ADictNames
+        AirportNames = airports.ADictNames
         textList = []
         ##for information only result = (response['raw'], response['speech'], airfield)
         if result and lang == 'en':
@@ -219,7 +231,11 @@ class Wxcrawler:
         elif result and lang == 'fr':
             textList.append("Ci-après les prévisions météorologiques de")
             textList.append(sayInternational(result[2]))
-            textList.append(AirportNames[result[2]])
+            try:
+                textList.append(AirportNames[result[2]])
+            except:
+                textList.append("unknown name")
+                pass
             textList.append(".")
             textList.append(translate(result[1], lang='fr'))
         return ' '.join(textList)
@@ -301,6 +317,39 @@ def demo_wxcrawler_fr_trainer():
              ("LFQQ", "LFSB"), ("LFQQ", "LFSM"), ("LFQQ", "LFSP"), ("LFQQ", "LSGG"), ("LFQQ", "LFLB"),
              ("LFQQ", "LFLS"), ("LFQQ", "LFNA"), ("LFQQ", "LFMR")
              ]
+
+
+    #paths = [("LFPX", "YSBK")]
+    logging.info("translator training has started at %i", startTime)
+    for p in paths:
+        airfields = getAirfieldsInFlightPath(p[0], p[1])
+        # start threads to get observation weather for each airfield
+        [threading.Thread(target=crawler.threadGetObservationWX, args=(airfield,)).start() for airfield in airfields]
+        # start threads to get forecast weather for each airfield
+        [threading.Thread(target=crawler.threadGetForecastWX, args=(airfield,)).start() for airfield in airfields]
+        # join all threads
+        [thread.join() for thread in threading.enumerate() if thread != threading.current_thread()]
+        endTime = time.time()
+        logging.info("observations and forecasts collection has completed in %i seconds for %s > %s",
+                     endTime - startTime, p[0], p[1])
+        [print(crawler.formatObservationWX(ro[1], lang='fr')) for ro in
+         crawler.orderObsResults(desired_order=airfields)]
+        [print(crawler.formatForecastWX(rf[1], lang='fr')) for rf in crawler.orderForResults(desired_order=airfields)]
+    logging.info("translator training has completed at %i", startTime)
+def demo_wxcrawler_world_trainer():
+    try:
+        secret = config['SECURITY']['TOKEN']
+        assert secret and secret != ''
+    except AssertionError:
+        logging.error("Please configure the TOKEN param in the default.cfg file.")
+        raise
+    crawler = Wxcrawler(config=config, secret=secret)
+    startTime = time.time()
+    # the purpose is to populate the translation db by creating different combinations of paths.
+
+    paths = getTrainingPaths()
+    #print(paths)
+    #paths = [("LFPX", "YSBK")]
     logging.info("translator training has started at %i", startTime)
     for p in paths:
         airfields = getAirfieldsInFlightPath(p[0], p[1])
@@ -318,8 +367,8 @@ def demo_wxcrawler_fr_trainer():
         [print(crawler.formatForecastWX(rf[1], lang='fr')) for rf in crawler.orderForResults(desired_order=airfields)]
     logging.info("translator training has completed at %i", startTime)
 
-
 if __name__ == '__main__':
     # demo_wxcrawler()
     # demo_wxcrawler_fr()
-    demo_wxcrawler_fr_trainer()
+    #demo_wxcrawler_fr_trainer()
+    demo_wxcrawler_world_trainer()
