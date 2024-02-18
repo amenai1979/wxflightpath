@@ -94,7 +94,7 @@ else:
     secret = config["SECURITY"]["TOKEN"]
 
 
-def getObservationsBriefing(stations=["LFPT"]):
+def getObservationsBriefing(stations=["LFPT"], lang="en"):
     crawler = Wxcrawler(config=config, secret=secret)
     logging.info("initiated Observation wxcrawler")
     observationsBriefing = []
@@ -102,7 +102,7 @@ def getObservationsBriefing(stations=["LFPT"]):
         for station in stations:
             try:
                 rawObservation = crawler.getObservationWX(station)
-                observationsBriefing.append(crawler.formatObservationWX(rawObservation))
+                observationsBriefing.append(crawler.formatObservationWX(rawObservation, lang = lang))
             except Exception as e:
                 logging.exception("error generation observation briefing for %s, full error:", station, e)
                 pass
@@ -110,7 +110,7 @@ def getObservationsBriefing(stations=["LFPT"]):
     return observationsBriefing
 
 
-def threadedGetObservationsBriefing(stations=["LFPT"]):
+def threadedGetObservationsBriefing(stations=["LFPT"],lang="en"):
     observationsBriefing = []
     crawler = Wxcrawler(config=config, secret=secret)
     logging.info("initiated Observation wxcrawler")
@@ -123,13 +123,13 @@ def threadedGetObservationsBriefing(stations=["LFPT"]):
     [thread.join() for thread in threading.enumerate() if thread != threading.current_thread()]
     endTime = time.time()
     logging.info("observations collection has completed in %i seconds", endTime - startTime)
-    [observationsBriefing.append(crawler.formatObservationWX(ro[1])) for ro in
+    [observationsBriefing.append(crawler.formatObservationWX(ro[1],lang=lang)+ "\n") for ro in
      crawler.orderObsResults(desired_order=airfields)]
     logging.info("Observations briefing generated")
     return observationsBriefing
 
 
-def getForecastBriefing(stations=["LFPG"]):
+def getForecastBriefing(stations=["LFPG"], lang = "en"):
     crawler = Wxcrawler(config=config, secret=secret)
     logging.info("initiated Forecast wxcrawler")
     forecastBriefing = []
@@ -137,15 +137,15 @@ def getForecastBriefing(stations=["LFPG"]):
         for station in stations:
             try:
                 rawForecast = crawler.getForecastWX(station)
-                forecastBriefing.append(crawler.formatForecastWX(rawForecast))
+                forecastBriefing.append(crawler.formatForecastWX(rawForecast, lang=lang))
             except Exception as e:
-                logging.exception("error generation forcast briefing for %s, full error:", station, e)
+                logging.exception("error generation forecast briefing for %s, full error:", station, e)
                 pass
     logging.info("Forecast briefing generated")
     return forecastBriefing
 
 
-def threadedGetForecastBriefing(stations=["LFPG"]):
+def threadedGetForecastBriefing(stations=["LFPG"], lang = "en"):
     ForecastBriefing = []
     crawler = Wxcrawler(config=config, secret=secret)
     logging.info("initiated Forecast wxcrawler")
@@ -158,7 +158,7 @@ def threadedGetForecastBriefing(stations=["LFPG"]):
     [thread.join() for thread in threading.enumerate() if thread != threading.current_thread()]
     endTime = time.time()
     logging.info("Forecasts collection has completed in %i seconds", endTime - startTime)
-    [ForecastBriefing.append(crawler.formatForecastWX(rf[1])) for rf in
+    [ForecastBriefing.append(crawler.formatForecastWX(rf[1], lang = lang) + "\n") for rf in
      crawler.orderForResults(desired_order=airfields)]
     logging.info("Forecasts briefing generated")
     return ForecastBriefing
@@ -166,6 +166,8 @@ def threadedGetForecastBriefing(stations=["LFPG"]):
 
 def lambda_handler(event, context):
     # Create the briefing
+    #
+    lang = "en"
     # 1 - get airfields on the flight path
     if 'flightpath' not in event.keys():
         event["flightpath"] = ["LFPX", "LFRU"]
@@ -176,12 +178,13 @@ def lambda_handler(event, context):
     briefing = []
     observations = getObservationsBriefing(stations)
     forecasts = getForecastBriefing(stations)
-    briefing.append(" Here are the latest observations for your flight path from " + sayInternational(
+    if lang != "fr":
+      briefing.append("Information in this briefing may be inaccurate and incomplete. it does not replace thorough flight planning. You are required to rely on official sources of information only when making aeronautical decisions. Here are the latest observations for your flight path from " + sayInternational(
         input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]))
-    briefing += observations + ["\n"]
-    briefing.append(" Here are the latest forecasts for your flight path from " + sayInternational(
+      briefing += observations + ["\n"]
+      briefing.append("Information in this briefing may be inaccurate and incomplete. it does not replace thorough flight planning. You are required to rely on official sources of information only when making aeronautical decisions. Here are the latest forecasts for your flight path from " + sayInternational(
         input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]))
-    briefing += forecasts
+      briefing += forecasts
     logging.info("briefing generated")
     logging.info(briefing)
     # 3 - generate the s3 object and log the URL
@@ -202,6 +205,8 @@ def lambda_handler(event, context):
 
 def faster_lambda_handler(event, context):
     # Create the briefing
+    # 0- assume default language english
+    lang = "en"
     # 1 - get airfields on the flight path
     if "flightpath" in event["queryStringParameters"].keys():
         flightpath = event["queryStringParameters"]["flightpath"]
@@ -210,25 +215,36 @@ def faster_lambda_handler(event, context):
         assert [validateAirfield(x) for x in flightpath]
         logging.info("successfully extracted flightpath origin %s and destination %s", flightpath[0], flightpath[1])
     else:
-        logging.error("unable to extracted flightpath from request")
+        logging.error("unable to extract flightpath from request")
         response = {
             'statusCode': 400,
             'body': '<b>Invalid request query param try a request with the following query parameter pattern /?flightpath=LFRO,LFPX</b>'
         }
         return response
-
+    # check if translation is needed
+    if "translate" in event["queryStringParameters"].keys():
+        lang = event["queryStringParameters"]["translate"]
+    #generate the forecast
     stations = getAirfieldsInFlightPath(flightpath[0], flightpath[1])
     assert len(stations) >= 1
     # 2 - Create the briefing
     briefing = []
-    observations = threadedGetObservationsBriefing(stations)
-    forecasts = threadedGetForecastBriefing(stations)
-    briefing.append(" Here are the latest observations for your flight path from " + sayInternational(
-        input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]))
-    briefing += observations + ["\n"]
-    briefing.append(" Here are the latest forecasts for your flight path from " + sayInternational(
-        input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]))
-    briefing += forecasts
+    observations = threadedGetObservationsBriefing(stations,lang=lang)
+    forecasts = threadedGetForecastBriefing(stations, lang = lang)
+    if lang != "fr":
+        briefing.append("Information in this briefing may be inaccurate and incomplete. it does not replace thorough flight planning. You are required to rely on official sources of information only when making aeronautical decisions.\nHere are the latest observations for your flight path from " + sayInternational(
+            input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]) + "\n")
+        briefing += observations + ["\n"]
+        briefing.append("Information in this briefing may be inaccurate and incomplete. it does not replace thorough flight planning. You are required to rely on official sources of information only when making aeronautical decisions.\nHere are the latest forecasts for your flight path from " + sayInternational(
+            input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]) + "\n")
+        briefing += forecasts + ["\n"]
+    else:
+        briefing.append("Les informations ci-après peuvent être incomplètes et contenir des erreurs. Elles ne remplacent pas une préparation complète de votre vol. Vous devez vous appuyez uniquement sur des sources officielles pour la prise de décisions aéronautiques.\nCi-après les observations météorologiques pour votre vol de " + sayInternational(
+            input=flightpath[0]) + " à  " + sayInternational(input=flightpath[1]) + "\n")
+        briefing += observations + ["\n"]
+        briefing.append("Les informations ci-après peuvent être incomplètes et contenir des erreurs. Elles ne remplacent pas une préparation complète de votre vol. Vous devez vous appuyez uniquement sur des sources officielles pour la prise de décisions aéronautiques.\nCi-après les prévisions météorologiques pour votre vol de " + sayInternational(
+            input=flightpath[0]) + " à " + sayInternational(input=flightpath[1]) + "\n" )
+        briefing += forecasts + ["\n"]
     logging.info("briefing generated for flightpath origin %s and destination %s", flightpath[0], flightpath[1])
     # logging.info(briefing)
     # 3 - generate the s3 object and log the URL
@@ -249,6 +265,7 @@ def faster_lambda_handler(event, context):
         object_data = createS3BriefiengObject(briefing, flightpath)
         logging.info("uploaded briefing to s3")
         s3_object_url = object_data[0]
+        print(s3_object_url)
 
     response = {
         'statusCode': 200,
@@ -276,7 +293,8 @@ def demo_aws():
         },
         "queryStringParameters": {
             "flightpath": 'LFRO,LFRO',
-            "audio": None
+            #"audio": None,
+            "translate" : "fr"
         },
         "requestContext": {
             "accountId": "123456789012",

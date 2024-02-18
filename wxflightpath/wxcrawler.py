@@ -223,7 +223,7 @@ class Wxcrawler:
         textList = []
         ##for information only result = (response['raw'], response['speech'], airfield)
         if result and lang == 'en':
-            textList.append("This is the weather Forecast for")
+            textList.append("This is the weather forecast for")
             textList.append(sayInternational(result[2]))
             textList.append(AirportNames[result[2]])
             textList.append(".")
