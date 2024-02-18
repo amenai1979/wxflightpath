@@ -120,7 +120,7 @@ class Wxcrawler:
                         airfield)
                 except:
                     result = (
-                        response['raw'], response['speech'], "density altitude unavailable", response['pressure_altitude'],
+                        response['raw'], response['speech'], "density altitude unavailable", "pressure altitude unavailable",
                         airfield)
                     pass
         except Exception as e:
@@ -368,7 +368,7 @@ def demo_wxcrawler_world_trainer():
     logging.info("translator training has completed at %i", startTime)
 
 if __name__ == '__main__':
-    # demo_wxcrawler()
+    demo_wxcrawler()
     # demo_wxcrawler_fr()
     #demo_wxcrawler_fr_trainer()
-    demo_wxcrawler_world_trainer()
+    #demo_wxcrawler_world_trainer()
