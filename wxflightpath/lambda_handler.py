@@ -261,6 +261,8 @@ def lambda_handler(event, context):
 
 
 def faster_lambda_handler(event, context):
+    if "json" in event["queryStringParameters"].keys():
+        return json_lambda_handler(event,context)
     # Create the briefing
     # 0- assume default language english
     lang = "en"
@@ -409,7 +411,8 @@ def demo_aws():
         "queryStringParameters": {
             "flightpath": 'LFRU,LFRU',
             #"audio": None,
-            "translate" : "fr"
+            "translate" : "fr",
+            "json" : "1"
         },
         "requestContext": {
             "accountId": "123456789012",
@@ -467,8 +470,8 @@ def demo_aws():
         }
     }
     logging.info("Thank you for choosing wxflightpath!")
-    #faster_lambda_handler(event, context={})
-    json_lambda_handler(event, context={})
+    faster_lambda_handler(event, context={})
+    #json_lambda_handler(event, context={})
 
 if __name__ == '__main__':
     demo_aws()
