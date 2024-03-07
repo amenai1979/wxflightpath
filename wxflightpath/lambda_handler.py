@@ -62,6 +62,28 @@ def createS3BriefiengObject(briefing=["hello", "world"], flightpath=["LFPX", "LF
     s3_object_url = presigned_url
     return [s3_object_url, bucket_name, object_key]
 
+def createS3JsonBriefiengObject(briefing={"no":"briefing"}, flightpath=["LFPX", "LFRU"], expires=86400):
+    try:
+        bucket_name = config['AWS']['BUCKET']
+        assert bucket_name != ''
+    except AssertionError as a:
+        logging.error("You have not configured the AWS section of default.cfg properly.")
+        raise
+    # initiate an s3 client
+    try:
+        s3 = boto3.client('s3')
+        logging.info("initiated s3 client: %s", s3)
+    except Exception as e:
+        logging.exception("Error: %s", e)
+    object_key = '_'.join(flightpath) + "-" + str(uuid.uuid1()) + ".json"
+    # Put the object in the S3 bucket
+    s3.put_object(Bucket=config['AWS']['BUCKET'], Key=object_key, Body=json.dumps(briefing, indent=4))
+    # Construct the URL for the newly created S3 object
+    presigned_url = s3.generate_presigned_url('get_object', Params={'Bucket': bucket_name, 'Key': object_key},
+                                              ExpiresIn=expires
+                                              )
+    s3_object_url = presigned_url
+    return [s3_object_url, bucket_name, object_key]
 
 def createS3AudioBriefiengObject(audio="filename.mp3", flightpath=["LFPX", "LFRU"], expires=86400):
     try:
@@ -128,6 +150,24 @@ def threadedGetObservationsBriefing(stations=["LFPT"],lang="en"):
     logging.info("Observations briefing generated")
     return observationsBriefing
 
+def jsonThreadedGetObservationsBriefing(stations=["LFPT"],lang="en"):
+    observationsBriefing = {}
+    crawler = Wxcrawler(config=config, secret=secret)
+    logging.info("initiated Observation wxcrawler")
+    startTime = time.time()
+    logging.info("observations collection has started at %i", startTime)
+    airfields = stations
+    # start threads to get observation weather for each airfield
+    [threading.Thread(target=crawler.threadGetObservationWX, args=(airfield,)).start() for airfield in airfields]
+    # join all threads
+    [thread.join() for thread in threading.enumerate() if thread != threading.current_thread()]
+    endTime = time.time()
+    logging.info("observations collection has completed in %i seconds", endTime - startTime)
+
+    for ro in crawler.orderObsResults(desired_order=airfields):
+        observationsBriefing[ro[0]]=[ro[1][0],crawler.formatObservationWX(ro[1],lang=lang)]
+    logging.info("json Observations briefing generated")
+    return observationsBriefing
 
 def getForecastBriefing(stations=["LFPG"], lang = "en"):
     crawler = Wxcrawler(config=config, secret=secret)
@@ -161,6 +201,23 @@ def threadedGetForecastBriefing(stations=["LFPG"], lang = "en"):
     [ForecastBriefing.append(crawler.formatForecastWX(rf[1], lang = lang) + "\n") for rf in
      crawler.orderForResults(desired_order=airfields)]
     logging.info("Forecasts briefing generated")
+    return ForecastBriefing
+def jsonThreadedGetForecastBriefing(stations=["LFPG"], lang = "en"):
+    ForecastBriefing = {}
+    crawler = Wxcrawler(config=config, secret=secret)
+    logging.info("initiated Forecast wxcrawler")
+    startTime = time.time()
+    logging.info("Forecasts collection has started at %i", startTime)
+    airfields = stations
+    # start threads to get observation weather for each airfield
+    [threading.Thread(target=crawler.threadGetForecastWX, args=(airfield,)).start() for airfield in airfields]
+    # join all threads
+    [thread.join() for thread in threading.enumerate() if thread != threading.current_thread()]
+    endTime = time.time()
+    logging.info("Forecasts collection has completed in %i seconds", endTime - startTime)
+    for rf in crawler.orderForResults(desired_order=airfields):
+        ForecastBriefing[rf[0]]=[ rf[1][0],crawler.formatForecastWX(rf[1],lang=lang)]
+    logging.info("json Forecasts briefing generated")
     return ForecastBriefing
 
 
@@ -276,13 +333,71 @@ def faster_lambda_handler(event, context):
     }
     return response
 
+def json_lambda_handler(event, context):
+    # Create the briefing
+    # 0- assume default language english
+    lang = "en"
+    # 1 - get airfields on the flight path
+    if "flightpath" in event["queryStringParameters"].keys():
+        flightpath = event["queryStringParameters"]["flightpath"]
+        flightpath = flightpath.split(',')
+        assert len(flightpath) > 1
+        assert [validateAirfield(x) for x in flightpath]
+        logging.info("successfully extracted flightpath origin %s and destination %s", flightpath[0], flightpath[1])
+    else:
+        logging.error("unable to extract flightpath from request")
+        response = {
+            'statusCode': 400,
+            'body': '<b>Invalid request query param try a request with the following query parameter pattern /?flightpath=LFRO,LFPX</b>'
+        }
+        return response
+    # check if translation is needed
+    if "translate" in event["queryStringParameters"].keys():
+        lang = event["queryStringParameters"]["translate"]
+    #generate the forecast
+    stations = getAirfieldsInFlightPath(flightpath[0], flightpath[1])
+    assert len(stations) >= 1
+    # 2 - Create the briefing
+    briefing = {}
+    briefing["flightpath"]=flightpath
+    observations = jsonThreadedGetObservationsBriefing(stations,lang=lang)
+    forecasts = jsonThreadedGetForecastBriefing(stations, lang = lang)
+    if lang != "fr":
+        briefing["disclaimer"]="Information in this briefing may be inaccurate and incomplete. It does not replace thorough flight planning. You are required to rely on official sources of information only when making aeronautical decisions."
+        briefing["obsIntro"]="Here are the latest observations for your flight path from " + sayInternational(input=flightpath[0]) + " to " + sayInternational(input=flightpath[1])
+        briefing["observations"] = observations
+        briefing["forIntro"]="Here are the latest forecasts for your flight path from " + sayInternational(input=flightpath[0]) + " to " + sayInternational(input=flightpath[1])
+        briefing["forecasts"] = forecasts
+        briefing["thanks"] = "Thank you for using pilot briefer. Fly Safe!"
+    else:
+        briefing["disclaimer"]="Les informations ci-après peuvent être incomplètes et contenir des erreurs. Elles ne remplacent pas une préparation complète de votre navigation. Vous devez vous appuyez uniquement sur des sources officielles pour la prise de décisions aéronautiques."
+        briefing["obsIntro"]="Ci-après les observations météorologiques pour votre navigation au départ de " + sayInternational(input=flightpath[0]) + " et à destination de " + sayInternational(input=flightpath[1])
+        briefing["observations"] = observations
+        briefing["forIntro"] = "Ci-après les prévisions météorologiques pour votre navigation au départ de " + sayInternational(input=flightpath[0]) + " et à destination de " + sayInternational(input=flightpath[1])
+        briefing["forecasts"] = forecasts
+        briefing["thanks"] = "Merci d'avoir choisi pilote briefer. Fly Safe!"
+    logging.info("json briefing generated for flightpath origin %s and destination %s", flightpath[0], flightpath[1])
+    # 4 respond to the caller
+    object_data =createS3JsonBriefiengObject(briefing, flightpath)
+    logging.info("uploaded briefing to s3")
+    s3_object_url = object_data[0]
+    print(s3_object_url)
+
+    response = {
+        'statusCode': 200,
+        'headers': {
+            'Location': s3_object_url
+        },
+        'body': s3_object_url
+    }
+    return response
 
 def demo_aws():
     event = {
         "version": "2.0",
         "routeKey": "$default",
         "rawPath": "/path/to/resource",
-        "rawQueryString": "flightpath=LFPX,LFRU",
+        "rawQueryString": "flightpath=LFRU,LFRU",
         "cookies": [
             "cookie1",
             "cookie2"
@@ -292,7 +407,7 @@ def demo_aws():
             "Header2": "value1,value2"
         },
         "queryStringParameters": {
-            "flightpath": 'LFRO,LFRO',
+            "flightpath": 'LFRU,LFRU',
             #"audio": None,
             "translate" : "fr"
         },
@@ -352,8 +467,8 @@ def demo_aws():
         }
     }
     logging.info("Thank you for choosing wxflightpath!")
-    faster_lambda_handler(event, context={})
-
+    #faster_lambda_handler(event, context={})
+    json_lambda_handler(event, context={})
 
 if __name__ == '__main__':
     demo_aws()
