@@ -163,9 +163,8 @@ def jsonThreadedGetObservationsBriefing(stations=["LFPT"],lang="en"):
     [thread.join() for thread in threading.enumerate() if thread != threading.current_thread()]
     endTime = time.time()
     logging.info("observations collection has completed in %i seconds", endTime - startTime)
-
     for ro in crawler.orderObsResults(desired_order=airfields):
-        observationsBriefing[ro[0]]=[ro[1][0],crawler.formatObservationWX(ro[1],lang=lang)]
+        observationsBriefing[ro[0]]=[ro[1][0],crawler.formatObservationWX(ro[1],lang=lang),ro[1][5]]
     logging.info("json Observations briefing generated")
     return observationsBriefing
 
@@ -216,7 +215,7 @@ def jsonThreadedGetForecastBriefing(stations=["LFPG"], lang = "en"):
     endTime = time.time()
     logging.info("Forecasts collection has completed in %i seconds", endTime - startTime)
     for rf in crawler.orderForResults(desired_order=airfields):
-        ForecastBriefing[rf[0]]=[ rf[1][0],crawler.formatForecastWX(rf[1],lang=lang)]
+        ForecastBriefing[rf[0]]=[ rf[1][0],crawler.formatForecastWX(rf[1],lang=lang),rf[1][3]]
     logging.info("json Forecasts briefing generated")
     return ForecastBriefing
 
@@ -409,9 +408,9 @@ def demo_aws():
             "Header2": "value1,value2"
         },
         "queryStringParameters": {
-            "flightpath": 'LFRU,LFRU',
+            "flightpath": 'LFPX,LFOE',
             #"audio": None,
-            "translate" : "fr",
+            #"translate" : "fr",
             "json" : "1"
         },
         "requestContext": {

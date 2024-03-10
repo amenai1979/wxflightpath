@@ -6,7 +6,7 @@ class TestWxcrawler(TestCase):
     result1 = crawler.getObservationWX("LFPT")
     result2 = crawler.getForecastWX("LFPG")
     def test_init(self):
-        self.assertEqual(len(self.result1), 5)
+        self.assertEqual(len(self.result1), 6)
         self.assertEqual(self.result1[4], 'LFPT')
         self.assertEqual(len(self.result2),3)
 

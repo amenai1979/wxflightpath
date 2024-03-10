@@ -4,7 +4,7 @@ import threading
 import time
 from json import load, dumps
 from urllib import request
-
+from wxflightpath.aiAssistant import summarize
 from wxflightpath import config
 from wxflightpath.openaitranslator import translate
 from wxflightpath.zoneFilter import *
@@ -117,11 +117,11 @@ class Wxcrawler:
                 try:
                     result = (
                         response['raw'], response['speech'], response['density_altitude'], response['pressure_altitude'],
-                        airfield)
+                        airfield, summarize(response['speech']))
                 except:
                     result = (
                         response['raw'], response['speech'], "density altitude unavailable", "pressure altitude unavailable",
-                        airfield)
+                        airfield, "summary unavailable")
                     pass
         except Exception as e:
             logging.exception("url %s Error: %s", req.get_full_url(), e)
@@ -141,7 +141,7 @@ class Wxcrawler:
             rawResponse = request.urlopen(req, timeout=int(self._timeout))
             if rawResponse.getcode() == 200:
                 response = json.loads(dumps(load(rawResponse)))
-                result = (response['raw'], response['speech'], airfield)
+                result = (response['raw'], response['speech'], airfield, summarize(response['speech']))
         except Exception as e:
             logging.exception("url %s Error: %s", req.get_full_url(), e)
             pass
@@ -181,7 +181,6 @@ class Wxcrawler:
     def formatObservationWX(self, result=None, lang='en'):
         AirportNames = airports.ADictNames
         textList = []
-        ##for information only result = (response['raw'], response['speech'], response['density_altitude'], response['pressure_altitude'], airfield)
         if result and lang == 'en':
             textList.append("This is the weather observation for")
             textList.append(sayInternational(result[4]))
