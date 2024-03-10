@@ -1,10 +1,6 @@
-import shelve
 from functools import lru_cache
 import openai
-import requests
 from wxflightpath import config
-import re
-
 
 openai.api_key = config['SECURITY']['OAI']
 
