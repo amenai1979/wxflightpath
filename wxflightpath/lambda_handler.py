@@ -377,7 +377,7 @@ def json_lambda_handler(event, context):
         briefing["observations"] = observations
         briefing["forIntro"] = "Ci-après les prévisions météorologiques pour votre navigation au départ de " + sayInternational(input=flightpath[0]) + " et à destination de " + sayInternational(input=flightpath[1]) + "."
         briefing["forecasts"] = forecasts
-        briefing["thanks"] = "Merci d'avoir choisi pilote briefer. Fly Safe!"
+        briefing["thanks"] = "Merci d'avoir choisi pilote brifeur. La sécurité avant tout!"
     logging.info("json briefing generated for flightpath origin %s and destination %s", flightpath[0], flightpath[1])
     # 4 respond to the caller
     object_data =createS3JsonBriefiengObject(briefing, flightpath)
