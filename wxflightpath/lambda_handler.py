@@ -366,16 +366,16 @@ def json_lambda_handler(event, context):
     forecasts = jsonThreadedGetForecastBriefing(stations, lang = lang)
     if lang != "fr":
         briefing["disclaimer"]="Information in this briefing may be inaccurate and incomplete. It does not replace thorough flight planning. You are required to rely on official sources of information only when making aeronautical decisions."
-        briefing["obsIntro"]="Here are the latest observations for your flight path from " + sayInternational(input=flightpath[0]) + " to " + sayInternational(input=flightpath[1])
+        briefing["obsIntro"]="Here are the latest observations for your flight path from " + sayInternational(input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]) + "."
         briefing["observations"] = observations
-        briefing["forIntro"]="Here are the latest forecasts for your flight path from " + sayInternational(input=flightpath[0]) + " to " + sayInternational(input=flightpath[1])
+        briefing["forIntro"]="Here are the latest forecasts for your flight path from " + sayInternational(input=flightpath[0]) + " to " + sayInternational(input=flightpath[1]) + "."
         briefing["forecasts"] = forecasts
         briefing["thanks"] = "Thank you for using pilot briefer. Fly Safe!"
     else:
         briefing["disclaimer"]="Les informations ci-après peuvent être incomplètes et contenir des erreurs. Elles ne remplacent pas une préparation complète de votre navigation. Vous devez vous appuyez uniquement sur des sources officielles pour la prise de décisions aéronautiques."
-        briefing["obsIntro"]="Ci-après les observations météorologiques pour votre navigation au départ de " + sayInternational(input=flightpath[0]) + " et à destination de " + sayInternational(input=flightpath[1])
+        briefing["obsIntro"]="Ci-après les observations météorologiques pour votre navigation au départ de " + sayInternational(input=flightpath[0]) + " et à destination de " + sayInternational(input=flightpath[1]) + "."
         briefing["observations"] = observations
-        briefing["forIntro"] = "Ci-après les prévisions météorologiques pour votre navigation au départ de " + sayInternational(input=flightpath[0]) + " et à destination de " + sayInternational(input=flightpath[1])
+        briefing["forIntro"] = "Ci-après les prévisions météorologiques pour votre navigation au départ de " + sayInternational(input=flightpath[0]) + " et à destination de " + sayInternational(input=flightpath[1]) + "."
         briefing["forecasts"] = forecasts
         briefing["thanks"] = "Merci d'avoir choisi pilote briefer. Fly Safe!"
     logging.info("json briefing generated for flightpath origin %s and destination %s", flightpath[0], flightpath[1])
