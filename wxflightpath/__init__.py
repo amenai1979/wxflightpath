@@ -18,7 +18,7 @@ logging.basicConfig(
     ]
 )
 # Load the config file.
-configfile = '../amenai.cfg'  # replace with the correct config file if needed
+configfile = '../default.cfg'  # replace with the correct config file if needed
 config = ConfigParser()
 config.read(configfile)
 logging.info("loaded config file: %s", configfile)
